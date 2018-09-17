@@ -1,0 +1,88 @@
+blocks:
+    -
+        class:
+            - order-0
+            - order-sm-1
+        style:
+            background-image: url(/assets/images/frontpage-start.jpg)
+
+    -
+        class:
+            - order-1
+            - order-sm-0
+        text: |
+            ### Citizen OS is a **social enterprise** raising awareness on participatory democracy.{.my-3}
+
+            Our mission is to allow as many people as possible to collaboratively decide on topics that affect their well-being using an argumentative decision-making process. **Let’s decide together!**
+
+            [Read more](#){.btn .btn-primary .my-2}
+
+            [Or use our platform](https://app.citizenos.com/)
+
+    -
+        class:
+            - order-2
+            - order-sm-2
+        style:
+            background-image: url(/assets/images/frontpage-lets-educate.jpg)
+
+    -
+        class:
+            - order-3
+            - order-sm-3
+        text: |
+            ## Let’s Educate
+            ### What is **participatory democracy**?{.my-3}
+
+            As an organization, CitizenOS wants to help the general public in getting involved and getting their voices heard.
+
+            We invest in reseach and studies to help us understand better the needs of communities where participatory democracy can make a difference.
+
+            [Learn about participatory democracy](#){.btn .btn-primary .my-2}
+
+    -
+        class:
+            - order-4
+            - order-sm-5
+        style:
+            background-image: url(/assets/images/frontpage-product.jpg)
+
+    -
+        class:
+            - order-5
+            - order-sm-4
+        text: |
+            ## Our Product
+            ### Everyone can use our platform **free of charge**.{.my-3}
+
+            We feel everybody should have the tools to help people express themselves and raise their voices. Our platform allows groups of people to discuss topics, argument their comments and vote for solutions.
+
+            For API integration, [contact us for a quote]().
+
+            [Learn about our product](/product/){.btn .btn-primary .my-2}
+
+    -
+        class:
+            - order-6
+            - order-sm-6
+        style:
+            background-color: '#F7F7F7'
+        text: |
+            ## A word from the team
+            ### **We are here to do good**, not get rich.{.my-3}
+
+            A lot of startups say that they want to change the world. We don’t claim that. What we want is to educate the people because they are the ones that can change the world – by recognising that their opinions can be voiced. And we want to help and provide the tools so that those voices can be heard.
+
+            [Contribute to the cause](#){.btn .btn-primary .my-2}
+    -
+        class:
+            - order-7
+            - order-sm-7
+        style:
+            background-color: '#F7F7F7'
+            border-left: 'solid 1px #E5E5E5'
+        text: |
+            ## We’re stronger together
+            ### Our partners & supporters{.my-3}
+
+            ![](/assets/images/frontpage-partners.png){.w-100}
