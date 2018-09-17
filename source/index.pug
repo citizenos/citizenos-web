@@ -7,6 +7,6 @@ block content
             each block in self.blocks
                 .page-block.col-12.col-sm-6(class=block.class, style=block.style)
                     if block.text
-                        .row.h-100
-                            .col-12.col-sm-7.offset-sm-2.align-self-center
+                        .row.h-100.py-5
+                            .col-12.col-sm-8.offset-sm-2.align-self-center
                                 +markdown(block.text)

@@ -20,3 +20,39 @@ languages:
 platformLink:
         title: Use our platform
         url: https://app.citizenos.com/
+
+footer:
+    text: Citizen OS is a Venture Philanthropy started by Ahti Heinla, one of the founders of Skype.
+    navigation:
+        - |
+            ## About
+
+            [Company](#)
+
+            [Careers](#)
+
+            [Contribute](#)
+
+            [Team](#)
+
+            [Contact](#)
+
+        - |
+            ## Community
+
+            [Blog](#)
+
+            [Twitter](#)
+
+            [Facebook](#)
+
+        - |
+            ## Support
+
+            [FAQ](#)
+
+            [Guides](#)
+
+            [Legal](#)
+
+            [Github](#)

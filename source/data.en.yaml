@@ -32,7 +32,7 @@ blocks:
             - order-sm-3
         text: |
             ## Let’s Educate
-            ### What is **participatory democracy**?{.my-3}
+            ### What is **participatory democracy?**{.my-3}
 
             As an organization, CitizenOS wants to help the general public in getting involved and getting their voices heard.
 
@@ -53,7 +53,7 @@ blocks:
             - order-sm-4
         text: |
             ## Our Product
-            ### Everyone can use our platform **free of charge**.{.my-3}
+            ### Everyone can use our platform **free of charge.**{.my-3}
 
             We feel everybody should have the tools to help people express themselves and raise their voices. Our platform allows groups of people to discuss topics, argument their comments and vote for solutions.
 
@@ -85,4 +85,4 @@ blocks:
             ## We’re stronger together
             ### Our partners & supporters{.my-3}
 
-            ![](/assets/images/frontpage-partners.png){.w-100}
+            ![Partners](/assets/images/frontpage-partners.png){.w-100}
