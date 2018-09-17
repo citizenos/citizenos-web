@@ -67,8 +67,8 @@ blocks:
 
     -
         class:
-            - order-4
-            - order-sm-5
+            - order-5
+            - order-sm-4
         text: |
             ## How does it work?
             ### Create documents – private or public.
@@ -81,7 +81,7 @@ blocks:
 
     -
         class:
-            - order-5
+            - order-6
             - order-sm-6
         style:
             background: '#AAF3DD'
@@ -89,7 +89,7 @@ blocks:
     -
         class:
             - order-6
-            - order-sm-5
+            - order-sm-6
         style:
             background: '#AAF3DD'
         text: |
@@ -126,11 +126,11 @@ blocks:
     -
         class:
             - order-7
-            - order-sm-8
+            - order-sm-7
 
     -
         class:
-            - order-7
+            - order-8
             - order-sm-8
         text: |
             ## Case study

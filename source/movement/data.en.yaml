@@ -40,31 +40,20 @@ blocks:
 
             Society allows us to gather around the people who share the same values and visions with. What if you could create a group of people and start contributing in decision-making in public topis? What if you could make your voice be heard? Be proud of the the decision made using participarty democracy.
 
-    -
-        class:
-            - order-4
-            - order-sm-5
-
-    -
-        class:
-            - order-4
-            - order-sm-5
-        text: |
             ## As a group
             ### But there’s also definitely strength in numbers.
 
             Society allows us to gather around the people who share the same values and visions with. What if you could create a group of people and start contributing in decision-making in public topis? What if you could make your voice be heard? Be proud of the the decision made using participarty democracy.
 
+    -
+        class:
+            - order-4
+            - order-sm-5
 
     -
         class:
             - order-5
-            - order-sm-6
-
-    -
-        class:
-            - order-6
-            - order-sm-5
+            - order-sm-4
         text: |
             ## Raising awareness
             ### Together we can advance online participatory democracy.
