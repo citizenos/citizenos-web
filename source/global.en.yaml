@@ -27,24 +27,24 @@ footer:
         - |
             ## About
 
-            [Company](#)
+            [Company](/company/)
 
-            [Careers](#)
+            [Careers](/careers/)
 
-            [Contribute](#)
+            [Contribute](/contribute/)
 
-            [Team](#)
+            [Team](/team/)
 
-            [Contact](#)
+            [Contact](/contact/)
 
         - |
             ## Community
 
-            [Blog](#)
+            [Blog](https://medium.com/@Citizen_OS)
 
-            [Twitter](#)
+            [Twitter](https://twitter.com/Citizen_OS)
 
-            [Facebook](#)
+            [Facebook](https://www.facebook.com/citizenos.web)
 
         - |
             ## Support
@@ -55,4 +55,4 @@ footer:
 
             [Legal](#)
 
-            [Github](#)
+            [Github](https://github.com/citizenos)

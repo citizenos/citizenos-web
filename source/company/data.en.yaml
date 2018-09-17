@@ -1,0 +1,25 @@
+path: company
+title: Company
+blocks:
+    -
+        style:
+            background: 'linear-gradient(180deg, #0EB7FE 0%, #0680FC 100%)'
+            box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.1)
+
+    -
+        text: |
+            ## About
+            ### Company
+
+            CitizenOS is a Venture Philanthropy, located in Estonia. The idea was formed in a think-tank in 2009, coding began in 2014, the Government of Estonia became the first API partner in January, 2016 and reached 31 000 users and 56 000 votes by 2018.
+
+            Funding is guaranteed for at least 30 years, all data is encrypted and kept safe in cloud servers.
+
+            #### CitizenOS is supported by:
+
+            - [Let’s Do It World](#)
+            - [Estonian Debating Society](#)
+            - [Estonian Cooperation Assembly](#)
+            - [Open Estonia Foundation](#)
+
+            Project Citizen OS has been funded by the [NGO Fund EEA Grants](#) through the [Open Estonia Foundation](#).

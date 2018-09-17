@@ -15,7 +15,7 @@ blocks:
 
             Our mission is to allow as many people as possible to collaboratively decide on topics that affect their well-being using an argumentative decision-making process. **Let’s decide together!**
 
-            [Read more](#){.btn .btn-primary .my-2}
+            [Read more](#){ .btn .btn-primary .my-2 }
 
             [Or use our platform](https://app.citizenos.com/)
 
@@ -38,7 +38,7 @@ blocks:
 
             We invest in reseach and studies to help us understand better the needs of communities where participatory democracy can make a difference.
 
-            [Learn about participatory democracy](#){.btn .btn-primary .my-2}
+            [Learn about participatory democracy](#){ .btn .btn-primary .my-2 }
 
     -
         class:
@@ -59,7 +59,7 @@ blocks:
 
             For API integration, [contact us for a quote]().
 
-            [Learn about our product](/product/){.btn .btn-primary .my-2}
+            [Learn about our product](/product/){ .btn .btn-primary .my-2 }
 
     -
         class:
@@ -73,7 +73,7 @@ blocks:
 
             A lot of startups say that they want to change the world. We don’t claim that. What we want is to educate the people because they are the ones that can change the world – by recognising that their opinions can be voiced. And we want to help and provide the tools so that those voices can be heard.
 
-            [Contribute to the cause](#){.btn .btn-primary .my-2}
+            [Contribute to the cause](#){ .btn .btn-primary .my-2 }
     -
         class:
             - order-7
@@ -85,4 +85,4 @@ blocks:
             ## We’re stronger together
             ### Our partners & supporters{.my-3}
 
-            ![Partners](/assets/images/frontpage-partners.png){.w-100}
+            ![Partners](/assets/images/frontpage-partners.png){ .w-100 }

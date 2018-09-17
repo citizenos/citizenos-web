@@ -1,0 +1,28 @@
+path: team
+title: Team
+blocks:
+    -
+        style:
+            background: 'linear-gradient(180deg, #0EB7FE 0%, #0680FC 100%)'
+            box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.1)
+
+    -
+        text: |
+            ## About
+            ### Team
+
+            |  |  |
+            | --- | --- |
+            | Founder and advisor: | Ahti Heinla |
+            | Software Developers: | Mikk Andresen, Ilmar Türk |
+            | Research Associate: | Kadi Maria Vooglaid |
+            | Leadership: | Margo Loor |
+            | Human Relations: | Ly Kasvandik |
+            | Localisation: | Oksana Naidjonova |
+            | Lawyer: | Kati Vellak |
+            | Project Manager: | Triin Uustalu |
+            | Front-end Developer: | Lennart Rikk |
+            | Marketing: | Liina Guiter |
+            | UX/UI Designers: | Kevin Crepin, Kristian Lember, Jannus Jaska |
+            | Minds that think alike: | Henri Laupmaa, Liia Hänni, Hille Hinsberg, Eva Truuverk |
+            { .table .table-borderless }

@@ -1,0 +1,24 @@
+path: contact
+title: Contact
+blocks:
+    -
+        style:
+            background: 'linear-gradient(180deg, #0EB7FE 0%, #0680FC 100%)'
+            box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.1)
+
+    -
+        text: |
+            ## About
+            ### Contact
+
+            |  |  |
+            | --- | --- |
+            | Contact: | <margo@citizenos.com> |
+            | Address: | Telliskivi Creative City, Telliskivi 60, Tallinn, Estonia, EU |
+            { .table .table-borderless }
+
+            #### On social media
+
+            - Follow us on [Facebook](https://www.facebook.com/citizenos.web).
+            - [Tweets](https://twitter.com/Citizen_OS) about democracy and open governance.
+            - [Tweets](https://twitter.com/Citizen_OS) about our technical service updates.
