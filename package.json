@@ -1,0 +1,21 @@
+{
+  "name": "citizenos",
+  "version": "1.0.0",
+  "description": "Collaborative decisions for teams and communities",
+  "private": true,
+  "dependencies": {
+    "entu-ssg": "4.3.0"
+  },
+  "scripts": {
+    "build": "node ./node_modules/entu-ssg/build.js entu-ssg.yaml",
+    "start": "pushd ./build; python -m SimpleHTTPServer; popd"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/argoroots/citizen-os.git"
+  },
+  "bugs": {
+    "url": "https://github.com/argoroots/citizen-os/issues"
+  },
+  "homepage": "https://citizenos.com"
+}
