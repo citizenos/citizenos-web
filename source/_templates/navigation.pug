@@ -1,0 +1,36 @@
+nav.navbar.fixed-top.bg-white.navbar-expand-lg
+    a.navbar-brand(href=self.root)
+        img(src='/assets/images/citizenos-logo.png', height=37)
+
+    button.navbar-toggler(
+        type='button',
+        data-toggle='collapse',
+        data-target='#navbar-content',
+        aria-controls='navbar-content',
+        aria-expanded='false',
+        aria-label='Toggle navigation'
+    )
+        span.navbar-toggler-icon
+
+    #navbar-content.collapse.navbar-collapse.align-self-end
+        ul.navbar-nav.ml-auto
+            each nav in self.navigation
+                li.nav-item.p-md-2(class={ 'active': self.path === nav.url })
+                    a.nav-link(href=nav.url)
+                        = nav.title
+                        span.sr-only (current)
+
+            li.nav-item.p-md-2.dropdown
+                a#navbar-dropdown.nav-link.dropdown-toggle(
+                    href='#',
+                    role='button',
+                    data-toggle='dropdown',
+                    aria-haspopup='true',
+                    aria-expanded='false'
+                )= self.language
+                .dropdown-menu(aria-labelledby='navbar-dropdown')
+                    each url, locale in self.otherLocalePaths
+                        a.dropdown-item(href=url)= self.language[locale]
+
+        button.btn.btn-link(href=self.platformLink.url, _target='blank')
+            strong= self.platformLink.title

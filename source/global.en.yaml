@@ -1,1 +1,22 @@
 siteTitle: CitizenOS
+root: /
+
+navigation:
+    -
+        title: Product
+        url: /product/
+    -
+        title: Movement
+        url: /movement/
+    -
+        title: Research
+        url: /research/
+
+language: English
+languages:
+    en: English
+    et: Eesti
+
+platformLink:
+        title: Use our platform
+        url: https://app.citizenos.com/
