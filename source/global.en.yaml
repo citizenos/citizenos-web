@@ -4,13 +4,13 @@ root: /
 navigation:
     -
         title: Product
-        url: /product/
+        url: /product
     -
         title: Movement
-        url: /movement/
+        url: /movement
     -
         title: Research
-        url: /research/
+        url: /research
 
 language: English
 languages:
@@ -19,7 +19,7 @@ languages:
 
 platformLink:
         title: Use our platform
-        url: https://app.citizenos.com/
+        url: https://app.citizenos.com
 
 footer:
     text: Citizen OS is a Venture Philanthropy started by Ahti Heinla, one of the founders of Skype.
@@ -27,15 +27,15 @@ footer:
         - |
             ## About
 
-            [Company](/company/)
+            [Company](/company)
 
-            [Careers](/careers/)
+            [Careers](/careers)
 
-            [Contribute](/contribute/)
+            [Contribute](/contribute)
 
-            [Team](/team/)
+            [Team](/team)
 
-            [Contact](/contact/)
+            [Contact](/contact)
 
         - |
             ## Community

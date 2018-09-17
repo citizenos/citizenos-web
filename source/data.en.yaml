@@ -17,7 +17,7 @@ blocks:
 
             [Read more](#){ .btn .btn-primary .my-2 }
 
-            [Or use our platform](https://app.citizenos.com/)
+            [Or use our platform](https://app.citizenos.com)
 
     -
         class:
@@ -59,7 +59,7 @@ blocks:
 
             For API integration, [contact us for a quote]().
 
-            [Learn about our product](/product/){ .btn .btn-primary .my-2 }
+            [Learn about our product](/product){ .btn .btn-primary .my-2 }
 
     -
         class:

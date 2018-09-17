@@ -27,7 +27,7 @@ blocks:
             - career
             - d-none
         text: |
-            [Back to career opportunities](/careers/){ .close-career .arrow-left .mb-5 }
+            [Back to career opportunities](/careers){ .close-career .arrow-left .mb-5 }
 
             ## Careers
             ### NodeJS Developer
