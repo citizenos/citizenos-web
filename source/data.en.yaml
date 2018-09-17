@@ -80,7 +80,7 @@ blocks:
             - order-sm-7
         style:
             background-color: '#F7F7F7'
-            border-left: 'solid 1px #E5E5E5'
+            border-left: '1px solid #E5E5E5'
         text: |
             ## We’re stronger together
             ### Our partners & supporters{.my-3}

@@ -1,4 +1,4 @@
-nav.navbar.fixed-top.bg-white.navbar-expand-lg
+nav.navbar.fixed-top.bg-white.py-0.navbar-expand-lg
     a.navbar-brand(href=self.root)
         img(src='/assets/images/citizenos-logo.png', height=37, width=201, alt='Citizen OS logo')
 
@@ -15,13 +15,13 @@ nav.navbar.fixed-top.bg-white.navbar-expand-lg
     #navbar-content.collapse.navbar-collapse.align-self-end
         ul.navbar-nav.ml-auto
             each nav in self.navigation
-                li.nav-item.p-md-2(class={ 'active': self.path === nav.url })
-                    a.nav-link(href=nav.url)
+                li.nav-item.mx-md-4(class={ 'active': self.path === nav.url })
+                    a.nav-link.py-md-4.px-md-0(href=nav.url)
                         = nav.title
                         span.sr-only (current)
 
-            li.nav-item.p-md-2.dropdown
-                a#navbar-dropdown.nav-link.dropdown-toggle(
+            li.nav-item.mx-md-4.dropdown
+                a#navbar-dropdown.nav-link.py-md-4.px-md-0.dropdown-toggle(
                     href='#',
                     role='button',
                     data-toggle='dropdown',
