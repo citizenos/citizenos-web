@@ -1,0 +1,74 @@
+path: movement
+title: Movement
+blocks:
+    -
+        class:
+            - order-0
+            - order-sm-1
+        style:
+            background: '#AAF3DD'
+
+    -
+        class:
+            - order-1
+            - order-sm-0
+        style:
+            background: '#AAF3DD'
+        text: |
+            ### You have a voice and it needs to be heard.
+
+            Society allows us to gather around the people who share the same values and visions with. What if you could create a group of people and be part of decision-making in public topics?
+
+            - [Get involved as an individual](#)
+            - [Get involved as a group](#)
+            - [Raising awareness](#)
+
+            [Susbscribe to newsletter](https://medium.com/@Citizen_OS){ .btn .btn-primary .my-2 } [f](https://www.facebook.com/citizenos.web){ .btn .btn-primary .my-2 .ml-3 } [t](https://twitter.com/Citizen_OS){ .btn .btn-primary .my-2 .ml-3 }
+
+    -
+        class:
+            - order-2
+            - order-sm-2
+
+    -
+        class:
+            - order-3
+            - order-sm-3
+        text: |
+            ## As an individual
+            ### One person can always make a difference in a democracy.
+
+            Society allows us to gather around the people who share the same values and visions with. What if you could create a group of people and start contributing in decision-making in public topis? What if you could make your voice be heard? Be proud of the the decision made using participarty democracy.
+
+    -
+        class:
+            - order-4
+            - order-sm-5
+
+    -
+        class:
+            - order-4
+            - order-sm-5
+        text: |
+            ## As a group
+            ### But there’s also definitely strength in numbers.
+
+            Society allows us to gather around the people who share the same values and visions with. What if you could create a group of people and start contributing in decision-making in public topis? What if you could make your voice be heard? Be proud of the the decision made using participarty democracy.
+
+
+    -
+        class:
+            - order-5
+            - order-sm-6
+
+    -
+        class:
+            - order-6
+            - order-sm-5
+        text: |
+            ## Raising awareness
+            ### Together we can advance online participatory democracy.
+
+            Society allows us to gather around the people who share the same values and visions with. What if you could create a group of people and start contributing in decision-making in public topis? What if you could make your voice be heard? Be proud of the the decision made using participarty democracy.
+
+            [Help us raise awareness](https://medium.com/@Citizen_OS){ .btn .btn-primary .mt-5 }
