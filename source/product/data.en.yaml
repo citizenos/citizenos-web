@@ -1,0 +1,184 @@
+path: product
+title: Product
+blocks:
+    -
+        class:
+            - order-0
+            - order-sm-1
+        style:
+            background: '#FFF1AD'
+
+    -
+        class:
+            - order-1
+            - order-sm-0
+        style:
+            background: '#FFF1AD'
+        text: |
+            ### Our **online decision-making platform** can be used by groups of different sizes and purposes.
+
+            We want to provide a tool to help organisations share their decision-making process with a bigger audience. Citizen OS platform can be used on all devices and is available in 6 languages.
+
+            - [Platform features](#)
+            - [How does it work](#)
+            - [How much does it cost](#)
+            - [Case studies](#)
+
+            [Use our platform](https://app.citizenos.com){ .btn .btn-primary .my-2 }
+
+    -
+        class:
+            - order-2
+            - order-sm-2
+        style:
+            background: '#F7F7F7'
+
+    -
+        class:
+            - order-3
+            - order-sm-3
+        style:
+            background: '#F7F7F7'
+        text: |
+            ## Features
+            ### Clarity
+
+            - Project overview: ideas, members, comments votes, follow-ups are all in one place.
+            - Smooth communication: the project moves along from one activity section to the next.
+            - Clear understanding of voting with the creation of custom answers.
+            - Voting deadlines keep the project timeline under control.
+
+            ### Involvement
+
+            - Ideas are collected bottom-up.
+            - Easy involvement of thousands of users.
+            - Well-thought-out argumentation is encouraged in the discussion section.
+
+            ### Research & Development
+
+            - Safe encrypted data, secure platform in a cloud server with continued development to keep up with new laws, regulations and research.
+            - Better decisions are reached with a scientific approach.
+            - Motivation of users through education about the importance of involvement.
+
+    -
+        class:
+            - order-4
+            - order-sm-5
+
+    -
+        class:
+            - order-4
+            - order-sm-5
+        text: |
+            ## How does it work?
+            ### Create documents – private or public.
+
+            CitizenOS allows you to create a text document, including formatting, of any size. It can be as simple as a one paragraph suggestion or as complex as a 20-page reform document.
+
+            For your eyes only! Set the document to public or private to ensure the right people can access it.
+
+            [Form groups, send invites, set editing rights](#){ .btn .btn-primary .mt-5 }
+
+    -
+        class:
+            - order-5
+            - order-sm-6
+        style:
+            background: '#AAF3DD'
+
+    -
+        class:
+            - order-6
+            - order-sm-5
+        style:
+            background: '#AAF3DD'
+        text: |
+            ## Something for everyone
+            ### Start using now
+
+            -
+                #### Start using now
+
+                As a social enterprise, the CitizenOS platform is free for use on our website for anyone.
+
+                Free for ever
+
+                [Use our platform](https://app.citizenos.com){ .btn .btn-primary .mt-2 }
+
+            -
+                #### CitizenOS API
+
+                Use our API as a basis to build your own online decision-making platform with your own branding.
+
+                Offer based
+
+                [Ask for an offer](#){ .btn .btn-primary .mt-2 }
+
+            -
+                #### Consult & integrate
+
+                We will consult, assist, test and adapt online decision-making to your local and national systems.
+
+                Offer based
+
+                [Ask for an offer](#){ .btn .btn-primary .mt-2 }
+
+    -
+        class:
+            - order-7
+            - order-sm-8
+
+    -
+        class:
+            - order-7
+            - order-sm-8
+        text: |
+            ## Case study
+            ### Communication between the people and the government of Estonia.
+
+            In Estonia, The Citizen OS open source code was used to set up the citizen initiatives platform [www.rahvaalgatus.ee](https://www.rahvaalgatus.ee) in 2016, which is run by the Estonian Cooperation Assembly.
+
+            According to Estonian law, the Parliament has to process appeals that have at least 1000 signatures. The Citizen OS platform is set up to receive digital signatures given with the National ID.
+
+    -
+        class:
+            - order-9
+            - order-sm-10
+
+    -
+        class:
+            - order-10
+            - order-sm-9
+        text: |
+            ## Case study
+            ### Opinion Festival
+
+            [Opinion Festival](#) integrated the Citizen OS argumentation widget to achieve their long-term goals of developing argumentative democracy skills in society. The widget is attached to their discussions and welcomes new ideas, new connections and better understanding of each other.
+
+    -
+        class:
+            - order-11
+            - order-sm-12
+        style:
+            background: '#F7F7F7'
+
+    -
+        class:
+            - order-11
+            - order-sm-12
+        style:
+            background: '#F7F7F7'
+        text: |
+            ### Our online decision-making community is growing.
+
+            discussions
+
+            votes
+
+            groups
+
+            users
+
+            users
+
+            [Start using our platform for free](https://app.citizenos.com){ .btn .btn-primary .my-2 }
