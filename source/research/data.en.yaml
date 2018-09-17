@@ -1,0 +1,65 @@
+path: research
+title: Research
+blocks:
+    -
+        class:
+            - order-0
+            - order-sm-1
+        style:
+            background: '#FCD5C0'
+
+    -
+        class:
+            - order-1
+            - order-sm-0
+        style:
+            background: '#FCD5C0'
+        text: |
+            ### We use science and data to better understand the effects of participatory democracy.
+
+            We work with researchers, whose interests lay in the areas of e-democracy, political theory and decision-making. Our resident research associate, Kadi Maria Vooglaid has consulted us on involvement in policymaking, the theories behind political decision-making and different voting systems.
+
+            [Read our blog articles](https://medium.com/@Citizen_OS){ .btn .btn-primary .my-2 }
+
+    -
+        class:
+            - order-2
+            - order-sm-2
+        style:
+            background: '#F7F7F7'
+
+    -
+        class:
+            - order-3
+            - order-sm-3
+        style:
+            background: '#F7F7F7'
+        text: |
+            ## Moving forward
+            ### Data collection & cooperations
+
+            All data we collect is anonymized and can be used to advance our mission. We also work with involvement specialists working with governments to exchange information.
+
+            Please contact us, if we could benefit from mutual collaboration. Contact us: <margo@citizenos.com>
+
+    -
+        class:
+            - order-4
+            - order-sm-5
+
+    -
+        class:
+            - order-5
+            - order-sm-4
+        text: |
+            ## COSCon
+            ### Citizen OS’s own conference
+
+            Our first conference, “Political Representation in the Digital Age”, was held in 2017. The topics were:
+            - How do politicians, academics and activists perceive the limits of representative democracy in 2017 and for the years to come?
+            - Can current institutions handle radically new practices?
+            - Will civic technologies really change politics?
+
+            If you would like to be informed about the next conference, please click the button below.
+
+            [Stay informed](#){ .btn .btn-primary .my-2 }
