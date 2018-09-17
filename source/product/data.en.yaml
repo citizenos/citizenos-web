@@ -6,7 +6,10 @@ blocks:
             - order-0
             - order-sm-1
         style:
-            background: '#FFF1AD'
+            background-color: '#FFF1AD'
+            background-image: url(/assets/images/product-start.png)
+            background-position: right center
+            background-size: 100%
 
     -
         class:
