@@ -27,3 +27,21 @@
             font-size 16px
             font-weight bold
             line-height 30px
+
+        ul
+            line-height 30px
+
+            &.bullet
+                list-style-image url('/assets/images/bullet.svg')
+
+            &.arrow
+                list-style none
+
+                li:before
+                    content '►'
+                    padding-right 8px
+                    color #0680FC
+                    font-size 0.8em
+
+            li
+                margin-bottom 10px

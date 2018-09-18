@@ -26,6 +26,7 @@ blocks:
             - [How does it work](#)
             - [How much does it cost](#)
             - [Case studies](#)
+            { .arrow }
 
             [Use our platform](https://app.citizenos.com){ .btn .btn-primary .my-2 }
 
@@ -50,18 +51,21 @@ blocks:
             - Smooth communication: the project moves along from one activity section to the next.
             - Clear understanding of voting with the creation of custom answers.
             - Voting deadlines keep the project timeline under control.
+            { .bullet }
 
             ### Involvement
 
             - Ideas are collected bottom-up.
             - Easy involvement of thousands of users.
             - Well-thought-out argumentation is encouraged in the discussion section.
+            { .bullet }
 
             ### Research & Development
 
             - Safe encrypted data, secure platform in a cloud server with continued development to keep up with new laws, regulations and research.
             - Better decisions are reached with a scientific approach.
             - Motivation of users through education about the importance of involvement.
+            { .bullet }
 
     -
         class:
