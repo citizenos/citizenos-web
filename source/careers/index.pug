@@ -1,4 +1,4 @@
-extends /_templates/main.pug
+extends /_templates/blocks.pug
 
 
 block script
@@ -28,14 +28,3 @@ block script
                 $('a[href="' + location.hash + '"]').click()
             }
         })
-
-
-block content
-    .page-content.container-fluid
-        .row
-            each block in self.blocks
-                .page-block.col-12.col-sm-6(id=block.id, class=block.class, style=block.style)
-                    if block.text
-                        .row.h-100.py-5
-                            .col-12.col-sm-8.offset-sm-2.align-self-center
-                                +markdown(block.text)
