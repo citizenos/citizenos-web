@@ -6,7 +6,7 @@ block script
         $(function () {
             $(window).scroll(function () {
                 $('.scroll-out').each(function () {
-                    var top = $(this).offset().top  - $(window).scrollTop() - $('nav').outerHeight(true)
+                    var top = $(this).offset().top  - $(window).scrollTop() - $('nav').outerHeight(true) - 30
 
                     if (top < 0) {
                         $(this).css({ 'background-position': 'center ' + Math.pow(top, 2) * -0.005 + 'px' })
