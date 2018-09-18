@@ -2,6 +2,7 @@ path: ''
 blocks:
     -
         class:
+            - scroll-out
             - order-0
             - order-sm-1
         style:
@@ -22,6 +23,8 @@ blocks:
 
     -
         class:
+            - scroll-in
+            - scroll-out
             - order-2
             - order-sm-2
         style:
@@ -43,6 +46,7 @@ blocks:
 
     -
         class:
+            - scroll-in
             - order-4
             - order-sm-5
         style:

@@ -9,7 +9,7 @@ blocks:
             background-color: '#FFF1AD'
             background-image: url(/assets/images/product-start.png)
             background-position: right center
-            background-size: 100%
+            background-size: 90%
 
     -
         class:

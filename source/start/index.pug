@@ -1,1 +1,25 @@
 extends /_templates/blocks.pug
+
+
+block script
+    script.
+        $(function () {
+            $(window).scroll(function () {
+                $('.scroll-out').each(function () {
+                    var top = $(this).offset().top  - $(window).scrollTop() - $('nav').outerHeight(true)
+
+                    if (top < 0) {
+                        $(this).css({ 'background-position': 'center ' + Math.pow(top, 2) * -0.005 + 'px' })
+                    }
+                })
+                $('.scroll-in').each(function () {
+                    var top = $(this).offset().top  - $(window).scrollTop() - $('nav').outerHeight(true)
+
+                    if (top > 0) {
+                        $(this).css({ 'background-position': 'center ' + Math.pow(top, 2) * 0.0005 + 'px' })
+                    }
+                })
+            })
+
+            $(window).trigger('scroll')
+        })
