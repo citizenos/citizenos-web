@@ -1,1 +1,42 @@
 extends /_templates/blocks.pug
+
+
+block stylus
+    :stylus
+        #options
+            h4
+                font-size 26px
+
+            span
+                font-size 20px
+                font-weight bold
+                color #42C8C6
+
+            .option-block
+                box-shadow 0 7px 20px 0 rgba(0, 0, 0, 0.15)
+
+
+append content
+    #option-blocks.d-none
+        .row.mt-5
+            each b in self.optionBlocks
+                .col-12.col-sm-4
+                    .option-block.col-12.h-100.bg-white.py-4.px-5
+                        h4= b.title
+                        +markdown(b.text)
+                        span.d-block.my-3= b.subtext
+                        a.btn.btn-primary.my-2(href=b.button.url)= b.button.title
+
+
+block script
+    script.
+        $(function () {
+            $('#options').removeClass('col-sm-6')
+            $('#options .block-text').removeClass('col-sm-8')
+            $('#options .block-text').removeClass('offset-sm-2')
+            $('#options .block-text').addClass('col-sm-10')
+            $('#options .block-text').addClass('offset-sm-1')
+
+            $('#options .block-text').append($('#option-blocks').html())
+            $('#option-blocks').remove()
+        })

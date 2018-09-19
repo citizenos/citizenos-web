@@ -89,48 +89,17 @@ blocks:
             url: '#'
 
     -
+        id: options
         class:
+            - col-sm-12
             - order-6
             - order-sm-6
-        style:
-            background: '#AAF3DD'
-
-    -
-        class:
-            - order-6
-            - order-sm-6
+            - text-center
         style:
             background: '#AAF3DD'
         label: Something for everyone
         title: |
             Start using now
-        text: |
-            -
-                #### Start using now
-
-                As a social enterprise, the CitizenOS platform is free for use on our website for anyone.
-
-                Free for ever
-
-                [Use our platform](https://app.citizenos.com){ .btn .btn-primary .mt-2 }
-
-            -
-                #### CitizenOS API
-
-                Use our API as a basis to build your own online decision-making platform with your own branding.
-
-                Offer based
-
-                [Ask for an offer](#){ .btn .btn-primary .mt-2 }
-
-            -
-                #### Consult & integrate
-
-                We will consult, assist, test and adapt online decision-making to your local and national systems.
-
-                Offer based
-
-                [Ask for an offer](#){ .btn .btn-primary .mt-2 }
 
     -
         class:
@@ -192,3 +161,29 @@ blocks:
         button1st:
             title: Start using our platform for free
             url: https://app.citizenos.com
+
+optionBlocks:
+    -
+        title: Start using now
+        text: |
+            As a social enterprise, the CitizenOS platform is free for use on our website for anyone.
+        subtext: Free for ever
+        button:
+            title: Use our platform
+            urll: https://app.citizenos.com
+    -
+        title: CitizenOS API
+        text: |
+            Use our API as a basis to build your own online decision-making platform with your own branding.
+        subtext: Offer based
+        button:
+            title: Ask for an offer
+            urll: '#'
+    -
+        title: Consult & integrate
+        text: |
+            We will consult, assist, test and adapt online decision-making to your local and national systems.
+        subtext: Offer based
+        button:
+            title: Ask for an offer
+            urll: '#'
