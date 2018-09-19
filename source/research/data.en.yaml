@@ -14,9 +14,9 @@ blocks:
             - order-sm-0
         style:
             background: '#FCD5C0'
+        title: |
+            We use science and data to better understand the effects of participatory democracy.
         text: |
-            ### We use science and data to better understand the effects of participatory democracy.
-
             We work with researchers, whose interests lay in the areas of e-democracy, political theory and decision-making. Our resident research associate, Kadi Maria Vooglaid has consulted us on involvement in policymaking, the theories behind political decision-making and different voting systems.
 
             [Read our blog articles](https://medium.com/@Citizen_OS){ .btn .btn-primary .my-2 }
@@ -34,10 +34,10 @@ blocks:
             - order-sm-3
         style:
             background: '#F7F7F7'
+        label: Moving forward
+        title: |
+            Data collection & cooperations
         text: |
-            ## Moving forward
-            ### Data collection & cooperations
-
             All data we collect is anonymized and can be used to advance our mission. We also work with involvement specialists working with governments to exchange information.
 
             Please contact us, if we could benefit from mutual collaboration. Contact us: <margo@citizenos.com>
@@ -51,10 +51,10 @@ blocks:
         class:
             - order-5
             - order-sm-4
+        label: COSCon
+        title: |
+            Citizen OS’s own conference
         text: |
-            ## COSCon
-            ### Citizen OS’s own conference
-
             Our first conference, “Political Representation in the Digital Age”, was held in 2017. The topics were:
             - How do politicians, academics and activists perceive the limits of representative democracy in 2017 and for the years to come?
             - Can current institutions handle radically new practices?

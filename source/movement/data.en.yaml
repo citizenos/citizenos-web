@@ -14,9 +14,9 @@ blocks:
             - order-sm-0
         style:
             background: '#AAF3DD'
+        title: |
+            You have a voice and it needs to be heard.
         text: |
-            ### You have a voice and it needs to be heard.
-
             Society allows us to gather around the people who share the same values and visions with. What if you could create a group of people and be part of decision-making in public topics?
 
             - [Get involved as an individual](#)
@@ -34,10 +34,10 @@ blocks:
         class:
             - order-3
             - order-sm-3
+        label: As an individual
+        title: |
+            One person can always make a difference in a democracy.
         text: |
-            ## As an individual
-            ### One person can always make a difference in a democracy.
-
             Society allows us to gather around the people who share the same values and visions with. What if you could create a group of people and start contributing in decision-making in public topis? What if you could make your voice be heard? Be proud of the the decision made using participarty democracy.
 
             ## As a group
@@ -54,10 +54,10 @@ blocks:
         class:
             - order-5
             - order-sm-4
+        label: Raising awareness
+        title: |
+            Together we can advance online participatory democracy.
         text: |
-            ## Raising awareness
-            ### Together we can advance online participatory democracy.
-
             Society allows us to gather around the people who share the same values and visions with. What if you could create a group of people and start contributing in decision-making in public topis? What if you could make your voice be heard? Be proud of the the decision made using participarty democracy.
 
             [Help us raise awareness](https://medium.com/@Citizen_OS){ .btn .btn-primary .mt-5 }

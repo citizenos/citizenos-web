@@ -6,10 +6,10 @@ blocks:
             background: 'linear-gradient(180deg, #0EB7FE 0%, #0680FC 100%)'
 
     -
+        label: About
+        title: |
+            Company
         text: |
-            ## About
-            ### Company
-
             CitizenOS is a Venture Philanthropy, located in Estonia. The idea was formed in a think-tank in 2009, coding began in 2014, the Government of Estonia became the first API partner in January, 2016 and reached 31 000 users and 56 000 votes by 2018.
 
             Funding is guaranteed for at least 30 years, all data is encrypted and kept safe in cloud servers.
