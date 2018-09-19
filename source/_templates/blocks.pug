@@ -12,6 +12,6 @@ block content
                                 if block.label
                                     h2= block.label
                                 if block.title
-                                    h3= block.title
+                                    +markdown('### ' + block.title)
                                 if block.text
                                     +markdown(block.text)
