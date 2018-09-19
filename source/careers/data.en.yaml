@@ -27,11 +27,11 @@ blocks:
         class:
             - career
             - d-none
+        label: Careers
+        title: |
+            NodeJS Developer
         text: |
             [Back to career opportunities](/careers){ .close-career .arrow-left .mb-5 }
-
-            ## Careers
-            ### NodeJS Developer
 
             We are looking for an Office Superstar to oversee all office-related operations across our offices in Australia and provide Executive Assistant support to the Country Manager.
 
@@ -58,5 +58,6 @@ blocks:
             - Monthly Taxify credit – both for work and leisure rides
             - Impactful work – you’ll have a rare opportunity to build our home in Australia and help in building a product literally used by millions of people across the world
             { .bullet }
-
-            [Apply for this position](#){ .btn .btn-primary .mt-4 }
+        button1st:
+            title: Apply for this position
+            url: '#'

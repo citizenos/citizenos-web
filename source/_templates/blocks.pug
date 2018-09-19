@@ -6,7 +6,7 @@ block content
         .row
             each block in self.blocks
                 .page-block.col-12.col-sm-6(id=block.id, class=block.class, style=block.style)
-                    if block.text || block.label || block.title
+                    if block.text || block.label || block.title || block.button1st || block.button2nd
                         .row.h-100.py-5
                             .col-12.col-sm-8.offset-sm-2.align-self-center
                                 if block.label
@@ -15,3 +15,8 @@ block content
                                     +markdown('### ' + block.title)
                                 if block.text
                                     +markdown(block.text)
+                                if block.button1st
+                                    a.btn.btn-primary.my-2(href=block.button1st.url)= block.button1st.title
+                                if block.button2nd
+                                    .my-2
+                                        a.my-2(href=block.button2nd.url)= block.button2nd.title

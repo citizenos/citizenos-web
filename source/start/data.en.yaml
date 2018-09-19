@@ -17,10 +17,12 @@ blocks:
             Citizen OS is a **social enterprise** raising awareness on participatory democracy.
         text: |
             Our mission is to allow as many people as possible to collaboratively decide on topics that affect their well-being using an argumentative decision-making process. **Let’s decide together!**
-
-            [Read more](#){ .btn .btn-primary .my-2 }
-
-            [Or use our platform](https://app.citizenos.com)
+        button1st:
+            title: Read more
+            url: '#'
+        button2nd:
+            title: Or use our platform
+            url: https://app.citizenos.com
 
     -
         class:
@@ -42,8 +44,9 @@ blocks:
             As an organization, CitizenOS wants to help the general public in getting involved and getting their voices heard.
 
             We invest in reseach and studies to help us understand better the needs of communities where participatory democracy can make a difference.
-
-            [Learn about participatory democracy](#){ .btn .btn-primary .my-2 }
+        button1st:
+            title: Learn about participatory democracy
+            url: '#'
 
     -
         class:
@@ -64,8 +67,9 @@ blocks:
             We feel everybody should have the tools to help people express themselves and raise their voices. Our platform allows groups of people to discuss topics, argument their comments and vote for solutions.
 
             For API integration, [contact us for a quote]().
-
-            [Learn about our product](/product){ .btn .btn-primary .my-2 }
+        button1st:
+            title: Learn about our product
+            url: /product
 
     -
         class:
@@ -78,8 +82,9 @@ blocks:
             **We are here to do good**, not get rich.
         text: |
             A lot of startups say that they want to change the world. We don’t claim that. What we want is to educate the people because they are the ones that can change the world – by recognising that their opinions can be voiced. And we want to help and provide the tools so that those voices can be heard.
-
-            [Contribute to the cause](#){ .btn .btn-primary .my-2 }
+        button1st:
+            title: Contribute to the cause
+            url: '#'
 
     -
         class:
