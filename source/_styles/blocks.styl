@@ -1,0 +1,89 @@
+.blocks
+    margin-top 72px
+    background-color #FFFFFF
+
+    .block
+        background-repeat no-repeat
+        background-size cover
+        background-position center
+
+        h2
+            font-size 26px
+            font-weight bold
+            line-height 40px
+
+            strong
+                display inline-block
+                line-height 1.1em
+                font-weight bold
+                text-decoration none
+                border-bottom 6px solid #FEDC32
+
+        h3
+            opacity 0.6
+            color #252525
+            font-size 12px
+            font-weight bold
+            line-height 20px
+            text-transform uppercase
+
+        h4
+            margin-top 30px
+            font-size 16px
+            font-weight bold
+            line-height 30px
+
+        p
+            font-size 16px
+            line-height 30px
+
+        ul
+            line-height 30px
+
+            &.bullet
+                list-style-image url('/assets/images/bullet.svg')
+
+            &.arrow
+                padding-left 0
+                list-style none
+
+                li:before
+                    content '►'
+                    padding-right 8px
+                    color #0680FC
+                    font-size 0.8em
+
+            li
+                margin-bottom 10px
+
+        table
+            thead
+                display none
+
+            td
+                padding 10px
+
+                &:first-of-type
+                    padding-left 0
+                    color #7B7B7B
+                    white-space nowrap
+
+                &:last-of-type
+                    padding-right 0
+
+        .btn-primary
+            padding 0 21px
+            line-height 40px
+            font-weight bold
+            border none
+            border-radius 20px
+            background linear-gradient(180deg, #0EB7FE 0%, #0680FC 100%)
+            box-shadow 0 2px 4px 0 rgba(0, 0, 0, 0.1)
+
+        .arrow-left
+            &:hover
+                text-decoration none
+
+            &:before
+                content '◄'
+                padding-right 0.5em

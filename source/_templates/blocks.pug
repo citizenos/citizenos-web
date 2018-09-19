@@ -2,17 +2,17 @@ extends /_templates/main.pug
 
 
 block content
-    .page-content.container-fluid
+    .blocks.container-fluid
         .row
             each block in self.blocks
-                .page-block.col-12.col-sm-6(id=block.id, class=block.class, style=block.style)
+                .block.col-12.col-sm-6(id=block.id, class=block.class, style=block.style)
                     if block.text || block.label || block.title || block.button1st || block.button2nd
                         .row.h-100.py-5
                             .col-12.col-sm-8.offset-sm-2.align-self-center
                                 if block.label
                                     h2= block.label
                                 if block.title
-                                    +markdown('### ' + block.title)
+                                    +markdown('## ' + block.title)
                                 if block.text
                                     +markdown(block.text)
                                 if block.button1st
