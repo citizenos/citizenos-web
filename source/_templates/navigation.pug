@@ -18,19 +18,12 @@ nav.navbar.fixed-top.bg-white.py-0.navbar-expand-lg
                 li.nav-item.mx-md-4(class={ 'active': self.path === nav.url })
                     a.nav-link.py-md-4.px-md-0(href=nav.url)
                         = nav.title
-                        span.sr-only (current)
 
-            li.nav-item.mx-md-4.dropdown
-                a#navbar-dropdown.nav-link.py-md-4.px-md-0.dropdown-toggle(
-                    href='#',
-                    role='button',
-                    data-toggle='dropdown',
-                    aria-haspopup='true',
-                    aria-expanded='false'
-                )= self.language
-                .dropdown-menu(aria-labelledby='navbar-dropdown')
-                    each url, locale in self.otherLocalePaths
-                        a.dropdown-item(href=url)= self.language[locale]
+                        if self.path === nav.url
+                            span.sr-only (current)
+
+            li.nav-item.mx-md-4
+                a.nav-link.py-md-4.px-md-0(href='#')= self.language
 
         button.btn.btn-link(href=self.platformLink.url, _target='blank')
             strong= self.platformLink.title
