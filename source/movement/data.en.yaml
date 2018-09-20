@@ -28,7 +28,7 @@ blocks:
             { .arrow }
         button1st:
             title: Susbscribe to newsletter
-            url: '#'
+            url: https://medium.com/@Citizen_OS
 
         # [f](https://www.facebook.com/citizenos.web){ .btn .btn-primary .my-2 .ml-3 } [t](https://twitter.com/Citizen_OS){ .btn .btn-primary .my-2 .ml-3 }
 
@@ -68,4 +68,4 @@ blocks:
             Society allows us to gather around the people who share the same values and visions with. What if you could create a group of people and start contributing in decision-making in public topis? What if you could make your voice be heard? Be proud of the the decision made using participarty democracy.
         button1st:
             title: Help us raise awareness
-            url: '#'
+            url: /contribute

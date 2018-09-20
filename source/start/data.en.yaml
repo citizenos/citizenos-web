@@ -19,7 +19,7 @@ blocks:
             Our mission is to allow as many people as possible to collaboratively decide on topics that affect their well-being using an argumentative decision-making process. **Let’s decide together!**
         button1st:
             title: Read more
-            url: '#'
+            url: /movement
         button2nd:
             title: Or use our platform
             url: https://app.citizenos.com
@@ -46,7 +46,7 @@ blocks:
             We invest in reseach and studies to help us understand better the needs of communities where participatory democracy can make a difference.
         button1st:
             title: Learn about participatory democracy
-            url: '#'
+            url: /research
 
     -
         class:
@@ -66,7 +66,7 @@ blocks:
         text: |
             We feel everybody should have the tools to help people express themselves and raise their voices. Our platform allows groups of people to discuss topics, argument their comments and vote for solutions.
 
-            For API integration, [contact us for a quote]().
+            For API integration, [contact us for a quote](/contact).
         button1st:
             title: Learn about our product
             url: /product
@@ -84,7 +84,7 @@ blocks:
             A lot of startups say that they want to change the world. We don’t claim that. What we want is to educate the people because they are the ones that can change the world – by recognising that their opinions can be voiced. And we want to help and provide the tools so that those voices can be heard.
         button1st:
             title: Contribute to the cause
-            url: '#'
+            url: /contribute
 
     -
         class:

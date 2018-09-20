@@ -140,7 +140,7 @@ blocks:
         title: |
             Opinion Festival
         text: |
-            [Opinion Festival](#) integrated the Citizen OS argumentation widget to achieve their long-term goals of developing argumentative democracy skills in society. The widget is attached to their discussions and welcomes new ideas, new connections and better understanding of each other.
+            [Opinion Festival](https://www.arvamusfestival.ee/en) integrated the Citizen OS argumentation widget to achieve their long-term goals of developing argumentative democracy skills in society. The widget is attached to their discussions and welcomes new ideas, new connections and better understanding of each other.
 
     -
         id: stats
@@ -188,7 +188,7 @@ optionBlocks:
         subtext: Offer based
         button:
             title: Ask for an offer
-            urll: '#'
+            urll: /contact
     -
         title: Consult & integrate
         text: |
@@ -196,4 +196,4 @@ optionBlocks:
         subtext: Offer based
         button:
             title: Ask for an offer
-            urll: '#'
+            urll: /contact
