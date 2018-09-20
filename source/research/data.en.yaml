@@ -7,6 +7,8 @@ blocks:
             - order-sm-1
         style:
             background: '#FCD5C0'
+        text: |
+            ![](/assets/images/research-start.png){ .img-fluid }
 
     -
         class:
@@ -23,11 +25,14 @@ blocks:
             url: https://medium.com/@Citizen_OS
 
     -
+        id: forward-img
         class:
             - order-2
             - order-sm-2
         style:
             background: '#F7F7F7'
+        text: |
+            ![](/assets/images/research-forward.jpg){ .img-fluid }
 
     -
         class:
@@ -44,9 +49,12 @@ blocks:
             Please contact us, if we could benefit from mutual collaboration. Contact us: <margo@citizenos.com>
 
     -
+        id: research-video-img
         class:
             - order-4
             - order-sm-5
+        text: |
+            ![](/assets/images/research-video.jpg){ .img-fluid }
 
     -
         class:

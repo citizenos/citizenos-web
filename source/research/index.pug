@@ -8,3 +8,18 @@ append stylus
                 h2
                     strong
                         border-bottom 6px solid #FFFFFF
+
+        .img-fluid
+            box-shadow 0 7px 20px 0 rgba(0, 0, 0, 0.15)
+
+
+append script
+    script.
+        $(function () {
+            $('#forward-img .block-text').removeClass('col-sm-8')
+            $('#forward-img .block-text').addClass('col-sm-10')
+
+            $('#research-video-img .block-text').removeClass('col-sm-8')
+            $('#research-video-img .block-text').addClass('col-sm-10')
+            $('#research-video-img .block-text').removeClass('offset-sm-2')
+        })
