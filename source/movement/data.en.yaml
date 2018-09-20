@@ -2,11 +2,14 @@ path: movement
 title: Movement
 blocks:
     -
+        id: start
         class:
             - order-0
             - order-sm-1
         style:
             background: '#AAF3DD'
+        text: |
+            ![](/assets/images/movement-start.png){ .img-fluid }
 
     -
         class:
@@ -33,6 +36,8 @@ blocks:
         class:
             - order-2
             - order-sm-2
+        text: |
+            ![](/assets/images/movement-individual.png){ .img-fluid }
 
     -
         class:
@@ -44,21 +49,18 @@ blocks:
         text: |
             Society allows us to gather around the people who share the same values and visions with. What if you could create a group of people and start contributing in decision-making in public topis? What if you could make your voice be heard? Be proud of the the decision made using participarty democracy.
 
-            ### As a group
+            ### As a group{ .mt-5 }
 
             ## But there’s also definitely strength in numbers.
 
             Society allows us to gather around the people who share the same values and visions with. What if you could create a group of people and start contributing in decision-making in public topis? What if you could make your voice be heard? Be proud of the the decision made using participarty democracy.
 
     -
+        id: awareness
         class:
             - order-4
-            - order-sm-5
-
-    -
-        class:
-            - order-5
-            - order-sm-4
+        style:
+            background-image: url(/assets/images/movement-awareness.jpg)
         label: Raising awareness
         title: |
             Together we can advance online participatory democracy.
