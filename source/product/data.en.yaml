@@ -143,7 +143,6 @@ blocks:
         id: stats
         class:
             - order-11
-            - order-sm-12
             - text-center
         style:
             background: '#F7F7F7'
