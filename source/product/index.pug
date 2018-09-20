@@ -1,7 +1,7 @@
 extends /_templates/blocks.pug
 
 
-block stylus
+append stylus
     :stylus
         #options
             h4
@@ -15,20 +15,36 @@ block stylus
             .option-block
                 box-shadow 0 7px 20px 0 rgba(0, 0, 0, 0.15)
 
+        #stats
+            h4
+                color #42C8C6
+                font-size 26px
+                font-weight bold
+
+                span
+                    font-size 46px
 
 append content
     #option-blocks.d-none
         .row.mt-5
             each b in self.optionBlocks
-                .col-12.col-sm-4
+                .col-12.col-sm-4.mb-3
                     .option-block.col-12.h-100.bg-white.py-4.px-5
                         h4= b.title
                         +markdown(b.text)
                         span.d-block.my-3= b.subtext
                         a.btn.btn-primary.my-2(href=b.button.url)= b.button.title
 
+    #stats-blocks.d-none
+        .row.my-5
+            each b in self.statsBlocks
+                .stats-block.col-12.col-sm-3.text-center
+                    h4
+                        span.stats-value.d-block.mb-2(data-value=b.value)
+                        = b.title
 
-block script
+
+append script
     script.
         $(function () {
             $('#options').removeClass('col-sm-6')
@@ -36,7 +52,14 @@ block script
             $('#options .block-text').removeClass('offset-sm-2')
             $('#options .block-text').addClass('col-sm-10')
             $('#options .block-text').addClass('offset-sm-1')
-
             $('#options .block-text').append($('#option-blocks').html())
             $('#option-blocks').remove()
+
+            $('.stats-value').each(function () {
+                $(this).html($(this).data('value').toLocaleString('#{ self.locale }'))
+            })
+
+            $('#stats').removeClass('col-sm-6')
+            $('#stats .block-text h2').after($('#stats-blocks').html())
+            $('#stats-blocks').remove()
         })

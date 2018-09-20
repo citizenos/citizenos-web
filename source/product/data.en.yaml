@@ -134,33 +134,35 @@ blocks:
             [Opinion Festival](#) integrated the Citizen OS argumentation widget to achieve their long-term goals of developing argumentative democracy skills in society. The widget is attached to their discussions and welcomes new ideas, new connections and better understanding of each other.
 
     -
+        id: stats
         class:
             - order-11
             - order-sm-12
-        style:
-            background: '#F7F7F7'
-
-    -
-        class:
-            - order-11
-            - order-sm-12
+            - text-center
         style:
             background: '#F7F7F7'
         title: |
             Our online decision-making community is growing.
-        text: |
-            discussions
-
-            votes
-
-            groups
-
-            users
-
-            users
         button1st:
             title: Start using our platform for free
             url: https://app.citizenos.com
+
+statsBlocks:
+    -
+        title: discussions
+        value: 1165
+
+    -
+        title: votes
+        value: 57288
+
+    -
+        title: groups
+        value: 148
+
+    -
+        title: users
+        value: 32153
 
 optionBlocks:
     -
