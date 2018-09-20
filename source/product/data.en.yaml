@@ -36,7 +36,9 @@ blocks:
             - order-2
             - order-sm-2
         style:
-            background: '#F7F7F7'
+            background-color: '#F7F7F7'
+        text: |
+            ![](/assets/images/product-features.jpg){ .img-fluid }
 
     -
         class:
@@ -54,14 +56,14 @@ blocks:
             - Voting deadlines keep the project timeline under control.
             { .bullet }
 
-            ## Involvement
+            ## Involvement{ .mt-5 }
 
             - Ideas are collected bottom-up.
             - Easy involvement of thousands of users.
             - Well-thought-out argumentation is encouraged in the discussion section.
             { .bullet }
 
-            ## Research & Development
+            ## Research & Development{ .mt-5 }
 
             - Safe encrypted data, secure platform in a cloud server with continued development to keep up with new laws, regulations and research.
             - Better decisions are reached with a scientific approach.
@@ -105,6 +107,8 @@ blocks:
         class:
             - order-7
             - order-sm-7
+        text: |
+            ![](/assets/images/product-case-study-1.jpg){ .img-fluid }
 
     -
         class:
@@ -122,6 +126,8 @@ blocks:
         class:
             - order-9
             - order-sm-10
+        text: |
+            ![](/assets/images/product-case-study-2.jpg){ .img-fluid }
 
     -
         class:
