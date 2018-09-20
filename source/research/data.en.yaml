@@ -32,7 +32,7 @@ blocks:
         style:
             background: '#F7F7F7'
         text: |
-            ![](/assets/images/research-forward.jpg){ .img-fluid }
+            ![](/assets/images/research-forward.jpg){ .img-fluid .box-shadow }
 
     -
         class:
@@ -54,7 +54,7 @@ blocks:
             - order-4
             - order-sm-5
         text: |
-            ![](/assets/images/research-video.jpg){ .img-fluid }
+            ![](/assets/images/research-video.jpg){ .img-fluid .box-shadow }
 
     -
         class:

@@ -39,7 +39,7 @@ blocks:
         style:
             background-color: '#F7F7F7'
         text: |
-            ![](/assets/images/product-features.jpg){ .img-fluid }
+            ![](/assets/images/product-features.jpg){ .img-fluid .box-shadow }
 
     -
         class:
@@ -110,7 +110,7 @@ blocks:
             - order-7
             - order-sm-7
         text: |
-            ![](/assets/images/product-case-study-1.jpg){ .img-fluid }
+            ![](/assets/images/product-case-study-1.jpg){ .img-fluid .box-shadow }
 
     -
         class:
@@ -130,7 +130,7 @@ blocks:
             - order-9
             - order-sm-10
         text: |
-            ![](/assets/images/product-case-study-2.jpg){ .img-fluid }
+            ![](/assets/images/product-case-study-2.jpg){ .img-fluid .box-shadow }
 
     -
         class:

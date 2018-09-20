@@ -3,10 +3,6 @@ extends /_templates/blocks.pug
 
 append stylus
     :stylus
-        #awareness
-            .block-text
-                box-shadow 0 7px 20px 0 rgba(0, 0, 0, 0.15)
-
         .blocks
             .block
                 h2
@@ -29,4 +25,5 @@ append script
             $('#awareness .block-text').addClass('bg-white')
             $('#awareness .block-text').addClass('text-center')
             $('#awareness .block-text').addClass('offset-sm-1')
+            $('#awareness .block-text').addClass('box-shadow')
         })
