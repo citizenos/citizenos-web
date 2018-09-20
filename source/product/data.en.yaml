@@ -22,10 +22,10 @@ blocks:
         text: |
             We want to provide a tool to help organisations share their decision-making process with a bigger audience. Citizen OS platform can be used on all devices and is available in 6 languages.
 
-            - [Platform features](#)
-            - [How does it work](#)
-            - [How much does it cost](#)
-            - [Case studies](#)
+            - [Platform features](#features)
+            - [How does it work](#how)
+            - [How much does it cost](#options)
+            - [Case studies](#case-studies)
             { .arrow }
         button1st:
             title: Use our platform
@@ -42,6 +42,7 @@ blocks:
             ![](/assets/images/product-features.jpg){ .img-fluid .box-shadow }
 
     -
+        id: features
         class:
             - order-3
             - order-sm-3
@@ -77,6 +78,7 @@ blocks:
             - order-sm-5
 
     -
+        id: how
         class:
             - order-5
             - order-sm-4
@@ -113,6 +115,7 @@ blocks:
             ![](/assets/images/product-case-study-1.jpg){ .img-fluid .box-shadow }
 
     -
+        id: case-studies
         class:
             - order-8
             - order-sm-8

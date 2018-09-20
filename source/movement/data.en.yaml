@@ -22,9 +22,9 @@ blocks:
         text: |
             Society allows us to gather around the people who share the same values and visions with. What if you could create a group of people and be part of decision-making in public topics?
 
-            - [Get involved as an individual](#)
-            - [Get involved as a group](#)
-            - [Raising awareness](#)
+            - [Get involved as an individual](#individual)
+            - [Get involved as a group](#group)
+            - [Raising awareness](#awareness)
             { .arrow }
         button1st:
             title: Susbscribe to newsletter
@@ -40,6 +40,7 @@ blocks:
             ![](/assets/images/movement-individual.png){ .img-fluid }
 
     -
+        id: individual
         class:
             - order-3
             - order-sm-3
@@ -49,7 +50,7 @@ blocks:
         text: |
             Society allows us to gather around the people who share the same values and visions with. What if you could create a group of people and start contributing in decision-making in public topis? What if you could make your voice be heard? Be proud of the the decision made using participarty democracy.
 
-            ### As a group{ .mt-5 }
+            ### As a group{ #group .mt-5 }
 
             ## But there’s also definitely strength in numbers.
 
