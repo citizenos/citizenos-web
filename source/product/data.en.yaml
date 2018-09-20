@@ -32,6 +32,7 @@ blocks:
             url: https://app.citizenos.com
 
     -
+        id: features-img
         class:
             - order-2
             - order-sm-2
@@ -104,6 +105,7 @@ blocks:
             Start using now
 
     -
+        id: case-study-1-img
         class:
             - order-7
             - order-sm-7
@@ -123,6 +125,7 @@ blocks:
             According to Estonian law, the Parliament has to process appeals that have at least 1000 signatures. The Citizen OS platform is set up to receive digital signatures given with the National ID.
 
     -
+        id: case-study-2-img
         class:
             - order-9
             - order-sm-10

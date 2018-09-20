@@ -2,7 +2,7 @@ path: movement
 title: Movement
 blocks:
     -
-        id: start
+        id: start-img
         class:
             - order-0
             - order-sm-1
