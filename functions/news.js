@@ -32,7 +32,8 @@ exports.handler = async (event) => {
             url: 'https://medium.com/s/story/' + p.uniqueSlug,
             title: p.title,
             text: p.content.subtitle,
-            picture: 'https://miro.medium.com/fit/c/600/300/' + p.virtuals.previewImage.imageId
+            picture: 'https://miro.medium.com/fit/c/600/300/' + p.virtuals.previewImage.imageId,
+            tags: p.virtuals.tags.map(t => t.slug)
         })
     }
 
