@@ -38,7 +38,10 @@ exports.handler = async (event) => {
 
     const response = {
         statusCode: 200,
-        headers: { 'Access-Control-Allow-Origin': '*' },
+        headers: {
+            'Access-Control-Allow-Origin': '*',
+            'Cache-Control': 'max-age=3600, must-revalidate'
+        },
         body: JSON.stringify(result)
     }
 
