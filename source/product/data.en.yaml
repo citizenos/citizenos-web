@@ -183,7 +183,7 @@ optionBlocks:
         subtext: Free for ever
         button:
             title: Use our platform
-            urll: https://app.citizenos.com
+            url: https://app.citizenos.com
     -
         title: CitizenOS API
         text: |
@@ -191,7 +191,7 @@ optionBlocks:
         subtext: Offer based
         button:
             title: Ask for an offer
-            urll: /contact
+            url: /contact
     -
         title: Consult & integrate
         text: |
@@ -199,4 +199,4 @@ optionBlocks:
         subtext: Offer based
         button:
             title: Ask for an offer
-            urll: /contact
+            url: /contact
