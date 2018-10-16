@@ -15,7 +15,7 @@ nav.navbar.fixed-top.bg-white.py-0.navbar-expand-lg
     #navbar-content.collapse.navbar-collapse.align-self-end
         ul.navbar-nav.ml-auto
             each nav in self.navigation
-                li.nav-item.mx-md-4(class={ 'active': self.path === nav.url })
+                li.nav-item.mx-md-3(class={ 'active': self.path === nav.url })
                     a.nav-link.py-md-4.px-md-0(href=nav.url)
                         = nav.title
 
@@ -25,5 +25,5 @@ nav.navbar.fixed-top.bg-white.py-0.navbar-expand-lg
             li.nav-item.mx-md-4
                 a.nav-link.py-md-4.px-md-0(href='#')= self.language
 
-        button.btn.btn-link(href=self.platformLink.url, _target='blank')
+        a.btn.btn-primary.ml-3(href=self.platformLink.url, _target='blank')
             strong= self.platformLink.title
