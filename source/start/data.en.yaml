@@ -1,18 +1,51 @@
 path: ''
+header:
+    title: Let’s decide together!
+    text: |
+        With CitizenOS’s platform you can collaboratively decide on topics that affect your well-being using an argumentative decision-making process.
+    play:
+        title: Play video
+        url: '#'
+    whatIs:
+        title: What is CitizenOS
+        url: /movement
+    startUsing:
+        title: Start using our platform
+        url: https://app.citizenos.com
+
+news:
+    more: Read more
+
 blocks:
     -
+        id: news
         class:
-            - scroll-in
-            - scroll-out
-            - order-0
-            - order-sm-1
+            - order-1
+            - text-center
         style:
-            background-image: url(/assets/images/frontpage-start.jpg)
+            background: '#F7F7F7'
+        title: |
+            Latest news
+        text: |
+            { #news-items }
+        button1st:
+            title: Explore more on our blog
+            url: https://medium.com/@Citizen_OS
+
+    -
+        id: frontpage-start-img
+        class:
+            - order-2
+            - order-sm-3
+        text: |
+            ![](/assets/images/frontpage-start.png){ .img-fluid }
 
     -
         class:
-            - order-1
-            - order-sm-0
+            - order-3
+            - order-sm-2
+            - col-sm-4
+            - offset-sm-1
         title: |
             Citizen OS is a **social enterprise** raising awareness on participatory democracy.
         text: |
@@ -25,18 +58,17 @@ blocks:
             url: https://app.citizenos.com
 
     -
+        id: frontpage-start-img
         class:
-            - scroll-in
-            - scroll-out
-            - order-2
-            - order-sm-2
-        style:
-            background-image: url(/assets/images/frontpage-lets-educate.jpg)
+            - order-4
+        text: |
+            ![](/assets/images/frontpage-lets-educate.png){ .img-fluid }
 
     -
         class:
-            - order-3
-            - order-sm-3
+            - order-5
+            - col-sm-4
+            - offset-sm-1
         label: Let’s Educate
         title: |
             What is **participatory democracy?**
@@ -48,18 +80,20 @@ blocks:
             title: Learn about participatory democracy
             url: /research
 
+
     -
+        id: frontpage-start-img
         class:
-            - scroll-in
-            - order-4
+            - order-6
             - order-sm-5
-        style:
-            background-image: url(/assets/images/frontpage-product.jpg)
+        text: |
+            ![](/assets/images/frontpage-product.png){ .img-fluid }
 
     -
         class:
-            - order-5
+            - order-7
             - order-sm-4
+            - col-sm-4
         label: Our Product
         title: |
             Everyone can use our platform **free of charge.**
@@ -73,7 +107,7 @@ blocks:
 
     -
         class:
-            - order-6
+            - order-8
             - order-sm-6
         style:
             background-color: '#F7F7F7'
@@ -88,7 +122,7 @@ blocks:
 
     -
         class:
-            - order-7
+            - order-9
             - order-sm-7
         style:
             background-color: '#F7F7F7'

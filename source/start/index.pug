@@ -1,25 +1,178 @@
 extends /_templates/blocks.pug
 
 
+append stylus
+    :stylus
+        header
+            position relative
+            background-color black
+            height 73vh
+            min-height 25rem
+            width 100%
+            overflow hidden
+
+            video
+                position absolute
+                top 50%
+                left 50%
+                min-width 100%
+                min-height 100%
+                width auto
+                height auto
+                z-index 0
+                -ms-transform translateX(-50%) translateY(-50%)
+                -moz-transform translateX(-50%) translateY(-50%)
+                -webkit-transform translateX(-50%) translateY(-50%)
+                transform translateX(-50%) translateY(-50%)
+
+            .container
+                position relative
+                z-index 2
+
+                h1
+                    font-size 46px
+                    font-weight bold
+
+                a
+                    color #ffffff
+
+                .btn-primary
+                    padding 0 !important
+                    height 30px
+                    width 30px
+                    font-size 14px
+                    line-height 30px
+                    text-align center
+
+            .overlay
+                position absolute
+                top 0
+                left 0
+                height 100%
+                width 100%
+                background-color black
+                opacity 0.5
+                z-index 1
+
+        @media (pointer: coarse) and (hover: none)
+            header
+                background url('/assets/videos/frontpage-start-bg.jpg') black no-repeat center center scroll
+                video
+                    display none
+
+
+block header
+    header
+        .overlay
+        video(poster='/assets/videos/frontpage-start-bg.jpg', playsinline, autoplay, muted, loop)
+            source(src='https://citizenos.netlify.com/videos/frontpage-start-bg.mp4', type='video/mp4')
+            //- source(src='/assets/videos/frontpage-start.mp4', type='video/mp4')
+            //- source(src='/assets/videos/frontpage-start.webm', type='video/webm')
+        .container.h-100
+            .d-flex.text-center.h-100
+                .col-12.col-sm-8.offset-sm-2.my-auto.w-100.text-white
+                    h1.mb-4= self.header.title
+                    +markdown(self.header.text)
+                    .mt-4
+                        a.btn.btn-primary.mr-2(href=self.header.play.url) ►
+                        a.mr-5(href=self.header.play.url)
+                            strong= self.header.play.title
+
+                        a.btn.btn-primary.mr-2(href=self.header.whatIs.url) ?
+                        a.mr-5(href=self.header.whatIs.url)
+                            strong= self.header.whatIs.title
+
+                        a.btn.btn-primary.mr-2(href=self.header.whatIs.url)
+                        a.mr-5(href=self.header.startUsing.url)
+                            strong= self.header.startUsing.title
+
+
+append content
+    #news-blocks.d-none
+        .row.mt-5.text-left
+            #news-block-0.col-12.col-sm-4.mb-5.d-none
+                .news-block.col-12.h-100.bg-white.box-shadow.p-0
+                    img.w-100
+                    .py-3.px-3
+                        h4.mt-0.mb-2
+                        p
+                        a.my-2(target='_blank')= self.news.more
+            #news-block-1.col-12.col-sm-4.mb-5.d-none
+                .news-block.col-12.h-100.bg-white.box-shadow.p-0
+                    img.w-100
+                    .py-3.px-3
+                        h4.mt-0.mb-2
+                        p
+                        a.my-2(target='_blank')= self.news.more
+            #news-block-2.col-12.col-sm-4.mb-5.d-none
+                .news-block.col-12.h-100.bg-white.box-shadow.p-0
+                    img.w-100
+                    .py-3.px-3
+                        h4.mt-0.mb-2
+                        p
+                        a.my-2(target='_blank')= self.news.more
+
+
 append script
     script.
         $(function () {
-            $(window).scroll(function () {
-                $('.scroll-out').each(function () {
-                    var top = $(this).offset().top  - $(window).scrollTop() - $('nav').outerHeight(true)
+            $('#video').removeClass('col-sm-6')
 
-                    if (top < 0) {
-                        $(this).css({ 'background-position': 'center ' + Math.pow(top, 2) * -0.005 + 'px' })
-                    }
-                })
-                $('.scroll-in').each(function () {
-                    var top = $(this).offset().top  - $(window).scrollTop() - $('nav').outerHeight(true)
+            $('.block.col-sm-4').removeClass('col-sm-6')
+            $('.block-text.col-sm-8').addClass('col-sm-10')
+            $('.block-text.col-sm-10').removeClass('col-sm-8')
+            $('.block-text.col-sm-10').removeClass('.offset-sm-2')
 
-                    if (top > 0) {
-                        $(this).css({ 'background-position': 'center ' + Math.pow(top, 2) * 0.0005 + 'px' })
+            $('#news').removeClass('col-sm-6')
+            $('#news .block-text').removeClass('col-sm-8')
+            $('#news .block-text').removeClass('offset-sm-2')
+            $('#news .block-text').addClass('col-sm-10')
+            $('#news .block-text').addClass('offset-sm-1')
+            $('#news .block-text h2').after($('#news-blocks').html())
+            $('#news-blocks').remove()
+
+
+
+
+            $.getJSON('https://citizenos.netlify.com/.netlify/functions/news', function (data) {
+                var tag = 'technology'
+                var news = []
+
+                for (var i = 0; i < data.length; i++) {
+                    if (data[i].tags.indexOf(tag) > -1) {
+                        news.push(data[i])
                     }
-                })
+                    if (news.length === 3) {
+                        break
+                    }
+                }
+
+                for (var i = 0; i < news.length; i++) {
+                    $('#news-block-' + i + ' img').attr('src', news[i].picture)
+                    $('#news-block-' + i + ' h4').html(news[i].title)
+                    $('#news-block-' + i + ' p').html(news[i].text)
+                    $('#news-block-' + i + ' a').attr('href', news[i].url)
+                    $('#news-block-' + i).removeClass('d-none')
+                }
             })
 
-            $(window).trigger('scroll')
         })
+
+//-             $(window).scroll(function () {
+//-                 $('.scroll-out').each(function () {
+//-                     var top = $(this).offset().top  - $(window).scrollTop() - $('nav').outerHeight(true)
+//-
+//-                     if (top < 0) {
+//-                         $(this).css({ 'background-position': 'center ' + Math.pow(top, 2) * -0.005 + 'px' })
+//-                     }
+//-                 })
+//-                 $('.scroll-in').each(function () {
+//-                     var top = $(this).offset().top  - $(window).scrollTop() - $('nav').outerHeight(true)
+//-
+//-                     if (top > 0) {
+//-                         $(this).css({ 'background-position': 'center ' + Math.pow(top, 2) * 0.0005 + 'px' })
+//-                     }
+//-                 })
+//-             })
+//-
+//-             $(window).trigger('scroll')
