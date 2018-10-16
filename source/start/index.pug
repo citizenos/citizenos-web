@@ -65,8 +65,7 @@ block header
     header
         .overlay
         video(poster='/assets/videos/frontpage-start-bg.jpg', playsinline, autoplay, muted, loop)
-            source(src='https://citizenos.netlify.com/videos/frontpage-start-bg.mp4', type='video/mp4')
-            //- source(src='/assets/videos/frontpage-start.mp4', type='video/mp4')
+            source(src='/assets/videos/frontpage-start-bg.mp4', type='video/mp4')
             //- source(src='/assets/videos/frontpage-start.webm', type='video/webm')
         .container.h-100
             .d-flex.text-center.h-100
@@ -138,10 +137,6 @@ append script
             $('#partners .block-text').removeClass('col-sm-10')
             $('#partners .block-text').addClass('col-sm-8')
 
-
-
-
-
             $.getJSON('https://citizenos.netlify.com/.netlify/functions/news', function (data) {
                 var tag = 'technology'
                 var news = []
@@ -163,7 +158,6 @@ append script
                     $('#news-block-' + i).removeClass('d-none')
                 }
             })
-
         })
 
 //-             $(window).scroll(function () {
