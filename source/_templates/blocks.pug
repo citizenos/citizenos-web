@@ -2,7 +2,7 @@ extends /_templates/main.pug
 
 
 block content
-    .blocks.container-fluid
+    .container-fluid
         .row
             each block in self.blocks
                 .block.col-12.col-sm-6(id=block.id, class=block.class, style=block.style)
