@@ -155,9 +155,11 @@ append script
                 var news = []
 
                 for (var i = 0; i < data.length; i++) {
-                    if (data[i].tags.indexOf(tag) > -1) {
-                        news.push(data[i])
-                    }
+                    //- if (data[i].tags.indexOf(tag) > -1) {
+                    //-     news.push(data[i])
+                    //- }
+                    news.push(data[i])
+
                     if (news.length === 3) {
                         break
                     }

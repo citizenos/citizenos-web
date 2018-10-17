@@ -12,7 +12,7 @@ const getMediumJson = async () => {
 
             response.on('end', function() {
                 var parsed = JSON.parse(body.replace('])}while(1);</x>', ''))
-                resolve(parsed.payload.references.Post)
+                resolve(parsed.payload.posts)
             })
         })
   })
@@ -21,21 +21,15 @@ const getMediumJson = async () => {
 
 exports.handler = async (event) => {
     const posts = await getMediumJson()
-    var result = []
-
-    for (let post in posts) {
-        if (!posts.hasOwnProperty(post)) { continue }
-
-        const p = posts[post]
-
-        result.push({
-            url: 'https://medium.com/s/story/' + p.uniqueSlug,
+    const result = posts.map(p => {
+        return {
+            url: 'https://medium.com/citizenos/' + p.uniqueSlug,
             title: p.title,
-            text: p.content.subtitle,
+            text: p.virtuals.subtitle,
             picture: 'https://miro.medium.com/fit/c/600/300/' + p.virtuals.previewImage.imageId,
             tags: p.virtuals.tags.map(t => t.slug)
-        })
-    }
+        }
+    })
 
     const response = {
         statusCode: 200,
