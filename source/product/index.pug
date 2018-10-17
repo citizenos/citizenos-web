@@ -46,6 +46,41 @@ append content
                         span.stats-value.d-block.mb-2(data-value=b.value)
                         = b.title
 
+    #how-carousel.carousel.slide(data-ride='carousel')
+        ol.carousel-indicators
+            li.active(data-target='#how-carousel', data-slide-to='0')
+            li(data-target='#how-carousel', data-slide-to='1')
+            li(data-target='#how-carousel', data-slide-to='2')
+            li(data-target='#how-carousel', data-slide-to='3')
+            li(data-target='#how-carousel', data-slide-to='4')
+            li(data-target='#how-carousel', data-slide-to='5')
+        .carousel-inner
+            .carousel-item.active
+                video(playsinline, autoplay, muted, loop)
+                    source(src='/assets/videos/product-how-01.mp4', type='video/mp4')
+            .carousel-item
+                video(playsinline, autoplay, muted, loop)
+                    source(src='/assets/videos/product-how-02.mp4', type='video/mp4')
+            .carousel-item
+                video(playsinline, autoplay, muted, loop)
+                    source(src='/assets/videos/product-how-03.mp4', type='video/mp4')
+            .carousel-item
+                video(playsinline, autoplay, muted, loop)
+                    source(src='/assets/videos/product-how-04.mp4', type='video/mp4')
+            .carousel-item
+                video(playsinline, autoplay, muted, loop)
+                    source(src='/assets/videos/product-how-05.mp4', type='video/mp4')
+            .carousel-item
+                video(playsinline, autoplay, muted, loop)
+                    source(src='/assets/videos/product-how-06.mp4', type='video/mp4')
+        a.carousel-control-prev(href='#how-carousel', role='button', data-slide='prev')
+            span.carousel-control-prev-icon(aria-hidden='true')
+            span.sr-only Previous
+        a.carousel-control-next(href='#how-carousel', role='button', data-slide='next')
+            span.carousel-control-next-icon(aria-hidden='true')
+            span.sr-only Next
+
+
 
 append script
     script.
@@ -75,4 +110,6 @@ append script
             $('#stats').removeClass('col-sm-6')
             $('#stats .block-text h2').after($('#stats-blocks').html())
             $('#stats-blocks').remove()
+
+            $('#how-videos').append($('#how-carousel').html())
         })

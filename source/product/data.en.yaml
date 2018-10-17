@@ -73,6 +73,7 @@ blocks:
             { .bullet }
 
     -
+        id: how-videos
         class:
             - order-4
             - order-sm-5
