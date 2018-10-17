@@ -73,8 +73,8 @@ block header
                     h1.mb-4= self.header.title
                     +markdown(self.header.text)
                     .mt-4
-                        a.btn.btn-primary.mr-2(href=self.header.play.url) ►
-                        a.mr-5(href=self.header.play.url)
+                        a.btn.btn-primary.mr-2(href=self.header.play.url, data-toggle='modal', data-target='#video-popup') ►
+                        a.mr-5(href=self.header.play.url, data-toggle='modal', data-target='#video-popup')
                             strong= self.header.play.title
 
                         a.btn.btn-primary.mr-2(href=self.header.whatIs.url) ?
@@ -110,6 +110,13 @@ append content
                         h4.mt-0.mb-2
                         p
                         a.my-2(target='_blank')= self.news.more
+
+    #video-popup.modal.fade(tabindex='-1', role='dialog')
+        .modal-dialog.modal-dialog-centered.modal-lg(role='document')
+            .modal-content
+                .modal-body.embed-responsive.embed-responsive-16by9
+                    iframe.embed-responsive-item(width='560', height='315', src='', frameborder='0', allow='autoplay; encrypted-media', allowfullscreen='')
+
 
 
 append script
@@ -157,6 +164,16 @@ append script
                     $('#news-block-' + i + ' a').attr('href', news[i].url)
                     $('#news-block-' + i).removeClass('d-none')
                 }
+            })
+
+            var videoUrl = 'https://www.youtube.com/embed/nbiGyDjFwPg?rel=0&showinfo=0&modestbranding=1&autoplay=1'
+
+            $('#video-popup').on('shown.bs.modal', function () {
+                $('#video-popup iframe').attr('src', videoUrl)
+            })
+
+            $('#video-popup').on('hide.bs.modal', function () {
+                $('#video-popup iframe').attr('src', '')
             })
         })
 

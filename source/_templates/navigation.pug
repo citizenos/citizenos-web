@@ -45,9 +45,9 @@ nav.navbar.fixed-top.bg-white.py-0.navbar-expand-lg
                 button.close(type='button', data-dismiss='modal', aria-label='Close')
                     span(aria-hidden='true') ×
             .modal-body.container-fluid
-                    .row
-                        .col-6.col-sm-4.py-1= self.language
-                        //- each l in self.otherLocalePaths
-                        each lang, l in self.languages
-                            if l !== self.locale
-                                a.col-6.col-sm-4.py-1(href='#' + l)= self.languages[l]
+                .row
+                    .col-6.col-sm-4.py-1= self.language
+                    //- each l in self.otherLocalePaths
+                    each lang, l in self.languages
+                        if l !== self.locale
+                            a.col-6.col-sm-4.py-1(href='#' + l)= self.languages[l]
