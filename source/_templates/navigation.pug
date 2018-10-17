@@ -27,7 +27,7 @@ nav.navbar.fixed-top.bg-white.py-0.navbar-expand-lg
                             span.sr-only (current)
 
             li.nav-item.mx-md-4
-                a.nav-link.py-md-4.px-md-0(href='#')= self.language
+                a.nav-link.py-md-4.px-md-0(href='#', data-toggle='modal', data-target='#select-language')= self.language
                     svg.ml-2.mb-1(width='15px', height='15px', viewBox='0 0 15 15', version='1.1', xmlns='http://www.w3.org/2000/svg', xmlns:xlink='http://www.w3.org/1999/xlink')
                         g(stroke='none', stroke-width='1', fill='none', fill-rule='evenodd', opacity='0.7')
                             g(transform='translate(-697.000000, -464.000000)', fill='#252525', fill-rule='nonzero')
@@ -36,3 +36,18 @@ nav.navbar.fixed-top.bg-white.py-0.navbar-expand-lg
 
         a.btn.btn-primary.ml-3(href=self.platformLink.url, _target='blank')
             strong= self.platformLink.title
+
+#select-language.modal.fade(tabindex='-1', role='dialog')
+    .modal-dialog.modal-dialog-centered(role='document')
+        .modal-content
+            .modal-header.pb-0
+                h5.modal-title= self.selectLanguage
+                button.close(type='button', data-dismiss='modal', aria-label='Close')
+                    span(aria-hidden='true') ×
+            .modal-body.container-fluid
+                    .row
+                        .col-6.col-sm-4.py-1= self.language
+                        //- each l in self.otherLocalePaths
+                        each lang, l in self.languages
+                            if l !== self.locale
+                                a.col-6.col-sm-4.py-1(href='#' + l)= self.languages[l]

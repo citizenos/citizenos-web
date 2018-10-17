@@ -19,6 +19,12 @@ language: English
 languages:
     en: English
     et: Eesti
+    lt: Lietuvių
+    ua: Українська
+    fr: Français
+    lv: Latviešu
+    ru: Pусский
+selectLanguage: Languages
 
 platformLink:
         title: Start using
