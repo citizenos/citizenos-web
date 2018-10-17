@@ -92,7 +92,7 @@ blocks:
             For your eyes only! Set the document to public or private to ensure the right people can access it.
         button1st:
             title: Form groups, send invites, set editing rights
-            url: '#'
+            url: '#carousel-next'
 
     -
         id: options
