@@ -44,6 +44,7 @@ append stylus
                     height 10px
                     margin 10px
                     background-color #0680FC
+                    opacity 1
 
         .carousel-control-next-icon:after
             content '→'
@@ -139,5 +140,5 @@ append script
             $('#stats .block-text h2').after($('#stats-blocks').html())
             $('#stats-blocks').remove()
 
-            $('#how-videos').append($('#how-carousel').html())
+            $('#how-videos').append($('#how-carousel'))
         })
