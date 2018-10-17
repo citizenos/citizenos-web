@@ -30,7 +30,7 @@ blocks:
             { #news-items }
         button1st:
             title: Explore more on our blog
-            url: https://medium.com/@Citizen_OS
+            url: https://medium.com/citizenos
 
     -
         id: frontpage-start-img

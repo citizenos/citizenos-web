@@ -3,7 +3,7 @@ const http = require('https')
 
 const getMediumJson = async () => {
     return new Promise((resolve, reject) => {
-        http.get('https://medium.com/@LanceUlanoff/latest?format=json', response => {
+        http.get('https://medium.com/citizenos/latest?format=json', response => {
             var body = ''
 
             response.on('data', function(d) {
