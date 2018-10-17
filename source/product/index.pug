@@ -27,7 +27,7 @@ append stylus
                     border-bottom 6px solid #0680FC
 
         .carousel-indicators
-            bottom -4rem
+            bottom -1rem
 
             li
                 display inline-block
@@ -84,9 +84,10 @@ append content
         .carousel-inner
             each v, idx in self.howBlocks
                 .carousel-item.text-center(class={ active: idx === 0 }, data-id=idx)
-                    video(poster=v.poster, playsinline, autoplay, muted, loop)
-                        source(src=v.mp4, type='video/mp4')
-                        source(src=v.webm, type='video/webm')
+                    .embed-responsive.embed-responsive-16by9
+                        video.embed-responsive-item(poster=v.poster, playsinline, autoplay, muted, loop)
+                            source(src=v.mp4, type='video/mp4')
+                            source(src=v.webm, type='video/webm')
         a.carousel-control-prev(href='#how-carousel', role='button', data-slide='prev')
             span.carousel-control-prev-icon(aria-hidden='true')
             span.sr-only Previous
