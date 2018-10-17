@@ -64,7 +64,7 @@ append stylus
 block header
     header
         .overlay
-        video(poster='/assets/videos/frontpage-start-bg.jpg', playsinline, autoplay, muted, loop)
+        video#video-bg(poster='/assets/videos/frontpage-start-bg.jpg', playsinline, autoplay, muted, loop)
             source(src='/assets/videos/frontpage-start-bg.mp4', type='video/mp4')
             source(src='/assets/videos/frontpage-start-bg.webm', type='video/webm')
         .container.h-100
@@ -170,10 +170,12 @@ append script
 
             $('#video-popup').on('shown.bs.modal', function () {
                 $('#video-popup iframe').attr('src', videoUrl)
+                $('#video-bg').get(0).pause()
             })
 
             $('#video-popup').on('hide.bs.modal', function () {
                 $('#video-popup iframe').attr('src', '')
+                $('#video-bg').get(0).play()
             })
         })
 
