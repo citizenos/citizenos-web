@@ -1,25 +1,38 @@
+active-nav(color)
+    &.active
+        border-bottom 4px solid color
+
+        a
+            color #7B7B7B
+
+    a
+        &:hover
+            color color
+
+            svg
+                g
+                    g
+                        fill color
+
+
 nav
     box-shadow 0px 0px 20px 0px rgba(0, 0, 0, 0.2)
 
     li
-        &.active
-            border-bottom 4px solid #F5762D
-
-            a
-                color #7B7B7B
-
         a
             color #252525
             font-weight 100
 
-            &:hover
-                color #F5762D
+        active-nav #252525
 
-                svg
-                    g
-                        g
-                            fill #F5762D
+        &.product
+            active-nav #FFC600
 
+        &.movement
+            active-nav #42C8C6
+
+        &.research
+            active-nav #F5762D
 
     .btn-link
         color #0680FC

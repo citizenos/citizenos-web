@@ -15,7 +15,11 @@ nav.navbar.fixed-top.bg-white.py-0.navbar-expand-lg
     #navbar-content.collapse.navbar-collapse.align-self-end
         ul.navbar-nav.ml-auto
             each nav in self.navigation
-                li.nav-item.mx-md-3(class={ 'active': self.path === nav.url })
+                -
+                    let c = { 'active': self.path === nav.url }
+                    c[nav.class] = true
+
+                li.nav-item.mx-md-3(class=c)
                     a.nav-link.py-md-4.px-md-0(href=nav.url)
                         = nav.title
 

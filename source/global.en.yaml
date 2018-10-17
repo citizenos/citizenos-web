@@ -5,12 +5,15 @@ navigation:
     -
         title: Product
         url: /product
+        class: product
     -
         title: Movement
         url: /movement
+        class: movement
     -
         title: Research
         url: /research
+        class: research
 
 language: English
 languages:
