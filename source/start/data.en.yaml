@@ -2,12 +2,12 @@ path: ''
 header:
     title: Let’s decide together!
     text: |
-        With CitizenOS’s platform you can collaboratively decide on topics that affect your well-being using an argumentative decision-making process.
+        With Citizen OS’s platform you can collaboratively decide on topics that affect your well-being using an argumentative decision-making process.
     play:
         title: Play video
         url: '#'
     whatIs:
-        title: What is CitizenOS
+        title: What is Citizen OS
         url: /movement
     startUsing:
         title: Start using our platform
@@ -73,7 +73,7 @@ blocks:
         title: |
             What is **participatory democracy?**
         text: |
-            As an organization, CitizenOS wants to help the general public in getting involved and getting their voices heard.
+            As an organization, Citizen OS wants to help the general public in getting involved and getting their voices heard.
 
             We invest in reseach and studies to help us understand better the needs of communities where participatory democracy can make a difference.
         button1st:
