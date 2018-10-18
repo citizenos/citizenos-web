@@ -58,6 +58,7 @@ append stylus
             font-size 30px
             color #0680FC
 
+
 append content
     #option-blocks.d-none
         .row.mt-5
@@ -85,9 +86,9 @@ append content
             each v, idx in self.howBlocks
                 .carousel-item.text-center(class={ active: idx === 0 }, data-id=idx)
                     .embed-responsive.embed-responsive-16by9
-                        video.embed-responsive-item(poster=v.poster, playsinline, autoplay, muted, loop)
-                            source(src=v.mp4, type='video/mp4')
+                        video.embed-responsive-item(poster=v.poster, playsinline, autoplay, muted, loop, style='top:2px')
                             source(src=v.webm, type='video/webm')
+                            source(src=v.mp4, type='video/mp4')
         a.carousel-control-prev(href='#how-carousel', role='button', data-slide='prev')
             span.carousel-control-prev-icon(aria-hidden='true')
             span.sr-only Previous

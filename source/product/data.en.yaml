@@ -7,16 +7,21 @@ blocks:
             - order-sm-1
         style:
             background-color: '#FFF1AD'
-            background-image: url(/assets/images/product-start.png)
-            background-position: right center
-            background-size: 90%
+            background-image: url(/assets/images/product-start.png), url(/assets/images/bubble-dots.png)
+            background-position: right center, 0 10%
+            background-size: 90%, 350px 350px
 
     -
         class:
             - order-1
             - order-sm-0
         style:
-            background: '#FFF1AD'
+            padding-top: 5rem
+            padding-bottom: 5rem
+            background-color: '#FFF1AD'
+            background-image: url(/assets/images/bubble-turquoise.svg), url(/assets/images/bubble-yellow.svg)
+            background-position: 10% 5%, 90% 90%
+            background-size: 75px 75px, 65px 65px
         title: |
             Our **online decision-making platform** can be used by groups of different sizes and purposes.
         text: |
@@ -38,6 +43,9 @@ blocks:
             - order-sm-2
         style:
             background-color: '#F7F7F7'
+            background-image: url(/assets/images/bubble-orange.svg), url(/assets/images/bubble-dots.png)
+            background-position: 100% 15%, 90% 15%
+            background-size: 165px 165px, 350px 350px
         text: |
             ![](/assets/images/product-features.jpg){ .img-fluid .box-shadow }
 
@@ -74,6 +82,12 @@ blocks:
 
     -
         id: how-videos
+        style:
+            padding-top: 5rem
+            padding-bottom: 5rem
+            background-image: url(/assets/images/bubble-turquoise.svg), url(/assets/images/bubble-dots.png)
+            background-position: 0% 5%, 0% 10%
+            background-size: 45px 45px, 350px 350px
         class:
             - order-4
             - order-sm-5
@@ -83,6 +97,12 @@ blocks:
         class:
             - order-5
             - order-sm-4
+        style:
+            padding-top: 5rem
+            padding-bottom: 5rem
+            background-image: url(/assets/images/bubble-orange.svg)
+            background-position: 10% 90%
+            background-size: 75px 75px
         label: How does it work?
         text: |
             { #carousel-text }
@@ -113,6 +133,10 @@ blocks:
         class:
             - order-8
             - order-sm-8
+        style:
+            background-image: url(/assets/images/bubble-blue.svg)
+            background-position: 80% 5%
+            background-size: 122px 122px
         label: Case study
         title: |
             Communication between the people and the government of Estonia.
@@ -133,6 +157,10 @@ blocks:
         class:
             - order-10
             - order-sm-9
+        style:
+            background-image: url(/assets/images/bubble-orange.svg), url(/assets/images/bubble-yellow.svg)
+            background-position: 10% 5%, 90% 90%
+            background-size: 85px 85px, 55px 55px
         label: Case study
         title: |
             Opinion Festival
@@ -146,6 +174,10 @@ blocks:
             - text-center
         style:
             background: '#F7F7F7'
+            # padding-top: 5rem
+            # padding-bottom: 5rem
+            # background-image: url(/assets/images/pattern.svg)
+            # background-size: 76px 83px
         title: |
             Our online decision-making community is growing.
         button1st:

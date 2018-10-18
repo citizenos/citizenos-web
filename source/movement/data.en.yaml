@@ -7,7 +7,10 @@ blocks:
             - order-0
             - order-sm-1
         style:
-            background: '#AAF3DD'
+            background-color: '#AAF3DD'
+            background-image: url(/assets/images/bubble-dots.png), url(/assets/images/bubble-yellow.svg)
+            background-position: 0 10%, 75% 20%
+            background-size: 350px 350px, 65px 65px
         text: |
             ![](/assets/images/movement-start.png){ .img-fluid }
 
@@ -16,7 +19,12 @@ blocks:
             - order-1
             - order-sm-0
         style:
-            background: '#AAF3DD'
+            padding-top: 5rem
+            padding-bottom: 5rem
+            background-color: '#AAF3DD'
+            background-image: url(/assets/images/bubble-blue.svg), url(/assets/images/bubble-orange.svg)
+            background-position: 10% 15%, 90% 90%
+            background-size: 42px 42px, 102px 102px
         title: |
             **You have a voice** and it needs to be heard.
         text: |
@@ -36,6 +44,11 @@ blocks:
         class:
             - order-2
             - order-sm-2
+        style:
+
+            background-image: url(/assets/images/bubble-yellow.svg), url(/assets/images/bubble-dots.png)
+            background-position: 10% 10%, 90% 10%
+            background-size: 45px 45px, 350px 350px
         text: |
             ![](/assets/images/movement-individual.png){ .img-fluid }
 
@@ -61,7 +74,11 @@ blocks:
         class:
             - order-4
         style:
-            background-image: url(/assets/images/movement-awareness.jpg)
+            padding-top: 5rem
+            padding-bottom: 5rem
+            background-image: url(/assets/images/bubble-orange.svg), url(/assets/images/movement-awareness.jpg)
+            background-size: 164px 164px, cover
+            background-position: 50% 10%, center center
         label: Raising awareness
         title: |
             Together we can advance online participatory democracy.
