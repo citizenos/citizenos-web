@@ -73,4 +73,4 @@ blocks:
             If you would like to be informed about the next conference, please click the button below.
         button1st:
             title: Stay informed
-            url: '#'
+            url: '#subscribe'
