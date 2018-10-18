@@ -54,7 +54,7 @@ blocks:
             - offset-sm-1
         style:
             background-image: url(/assets/images/bubble-yellow.svg)
-            background-position: 0 25%
+            background-position: 0 10%
             background-size: 122px 122px
         title: |
             Citizen OS is a **social enterprise** raising awareness on participatory democracy.
