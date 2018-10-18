@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="100px" height="100px" viewBox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>F6ECF4CB-64DC-47B1-8755-A93C36E18274</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <linearGradient x1="14.6661932%" y1="0%" x2="91.237571%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#2EECB4" offset="0%"></stop>
+            <stop stop-color="#6FD0FF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Website-2.0" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Assets-&amp;-States" transform="translate(-984.000000, -669.000000)" fill="url(#linearGradient-1)">
+            <circle id="bubble_turquoise" cx="1034" cy="719" r="50"></circle>
+        </g>
+    </g>
+</svg>

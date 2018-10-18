@@ -23,7 +23,10 @@ blocks:
             - order-1
             - text-center
         style:
-            background: '#F7F7F7'
+            background-color: '#F7F7F7'
+            background-image: url(/assets/images/bubble-dots.png)
+            background-position: 60% 10%
+            background-size: 360px 360px
         title: |
             Latest news
         text: |
@@ -33,10 +36,13 @@ blocks:
             url: https://medium.com/citizenos
 
     -
-        id: frontpage-start-img
         class:
             - order-2
             - order-sm-3
+        style:
+            background-image: url(/assets/images/bubble-dots.png), url(/assets/images/bubble-orange.svg)
+            background-position: 30% 25%, 20% 75%
+            background-size: 360px 360px, 100px 100px
         text: |
             ![](/assets/images/frontpage-start.png){ .img-fluid }
 
@@ -46,6 +52,10 @@ blocks:
             - order-sm-2
             - col-sm-4
             - offset-sm-1
+        style:
+            background-image: url(/assets/images/bubble-yellow.svg)
+            background-position: 0 25%
+            background-size: 122px 122px
         title: |
             Citizen OS is a **social enterprise** raising awareness on participatory democracy.
         text: |
@@ -58,9 +68,13 @@ blocks:
             url: https://app.citizenos.com
 
     -
-        id: frontpage-start-img
         class:
             - order-4
+            - col-sm-5
+        style:
+            background-image: url(/assets/images/bubble-turquoise.svg)
+            background-position: 85% 85%
+            background-size: 75px 75px
         text: |
             ![](/assets/images/frontpage-lets-educate.png){ .img-fluid }
 
@@ -69,6 +83,10 @@ blocks:
             - order-5
             - col-sm-4
             - offset-sm-1
+        style:
+            background-image: url(/assets/images/bubble-dots.png)
+            background-position: 30% 25%
+            background-size: 360px 360px
         label: Let’s Educate
         title: |
             What is **participatory democracy?**
@@ -82,18 +100,26 @@ blocks:
 
 
     -
-        id: frontpage-start-img
         class:
             - order-6
-            - order-sm-5
+            - order-sm-7
+        style:
+            background-image: url(/assets/images/bubble-yellow.svg)
+            background-position: 20% 80%
+            background-size: 122px 122px
         text: |
             ![](/assets/images/frontpage-product.png){ .img-fluid }
 
     -
         class:
             - order-7
-            - order-sm-4
+            - order-sm-6
             - col-sm-4
+            - offset-sm-1
+        style:
+            background-image: url(/assets/images/bubble-dots.png)
+            background-position: 0% 25%
+            background-size: 360px 360px
         label: Our Product
         title: |
             Everyone can use our platform **free of charge.**
@@ -109,7 +135,6 @@ blocks:
         id: team
         class:
             - order-8
-            - order-sm-6
         style:
             background-color: '#F7F7F7'
         label: A word from the team
@@ -125,7 +150,6 @@ blocks:
         id: partners
         class:
             - order-9
-            - order-sm-7
         style:
             background-color: '#F7F7F7'
             border-left: '1px solid #E5E5E5'
