@@ -2,7 +2,7 @@ path: ''
 header:
     title: Let’s decide together!
     text: |
-        With Citizen OS’s platform you can collaboratively decide on topics that affect your well-being using an argumentative decision-making process.
+        Hello! We are an open source social enterprise helping someone like you change their communities.
     play:
         title: Play video
         url: '#'
@@ -10,7 +10,7 @@ header:
         title: What is Citizen OS
         url: /movement
     startUsing:
-        title: Start using our platform
+        title: Start using - it’s free!
         url: https://app.citizenos.com
 
 news:
@@ -64,7 +64,7 @@ blocks:
             title: Read more
             url: /movement
         button2nd:
-            title: Or use our platform
+            title: Start using - it’s free!
             url: https://app.citizenos.com
 
     -
@@ -89,13 +89,15 @@ blocks:
             background-size: 360px 360px
         label: Let’s Educate
         title: |
-            What is **participatory democracy?**
+            Collaboration with **scientists and researchers.**
         text: |
             As an organization, Citizen OS wants to help the general public in getting involved and getting their voices heard.
 
-            We invest in reseach and studies to help us understand better the needs of communities where participatory democracy can make a difference.
+            We invest in reseach and studies to help us understand better the needs of communities and how participatory democracy can make a difference.
+
+            The Citizen OS conference is a bi-annual meeting for e-democracy researchers.
         button1st:
-            title: Learn about participatory democracy
+            title: Learn more about our research
             url: /research
 
 
@@ -122,10 +124,11 @@ blocks:
             background-size: 360px 360px
         label: Our Product
         title: |
-            Everyone can use our platform **free of charge.**
+            Everyone can use Citizen OS **free of charge.**
         text: |
-            We feel everybody should have the tools to help people express themselves and raise their voices. Our platform allows groups of people to discuss topics, argument their comments and vote for solutions.
+            In order for us to move forward as a civilization, everybody should have the tools to express themselves and raise their voices. The Citizen OS platform allows communities to raise issues, discuss, argument their comments and vote for solutions.
 
+            Use the Citizen OS platform for free on our website.
             For API integration, [contact us for a quote](/contact).
         button1st:
             title: Learn about our product
@@ -139,9 +142,9 @@ blocks:
             background-color: '#F7F7F7'
         label: A word from the team
         title: |
-            **We are here to do good**, not get rich.
+            **We are here to do good** in the long run.
         text: |
-            A lot of startups say that they want to change the world. We don’t claim that. What we want is to educate the people because they are the ones that can change the world – by recognising that their opinions can be voiced. And we want to help and provide the tools so that those voices can be heard.
+            We truly believe that You and I are changing the world. Everyone, who contributes to Citizen OS is driven by the idea of participatory democracy empowering citizens around the world. That is why we help and provide the tools so that voices can be heard. There are many ways to contribute, join us!
         button1st:
             title: Contribute to the cause
             url: /contribute
