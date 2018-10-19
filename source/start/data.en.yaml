@@ -12,6 +12,7 @@ header:
     startUsing:
         title: Start using - it’s free!
         url: https://app.citizenos.com
+        target: _blank
 
 news:
     more: Read more
@@ -66,6 +67,7 @@ blocks:
         button2nd:
             title: Start using - it’s free!
             url: https://app.citizenos.com
+            target: _blank
 
     -
         class:

@@ -16,7 +16,7 @@ block content
                                 if block.text
                                     +markdown(block.text)
                                 if block.button1st
-                                    a.btn.btn-primary.my-2(href=block.button1st.url)= block.button1st.title
+                                    a.btn.btn-primary.my-2(href=block.button1st.url, target=block.button1st.target)= block.button1st.title
                                 if block.button2nd
                                     .my-2
-                                        a.my-2(href=block.button2nd.url)= block.button2nd.title
+                                        a.my-2(href=block.button2nd.url, target=block.button2nd.target)= block.button2nd.title
