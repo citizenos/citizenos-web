@@ -174,10 +174,10 @@ blocks:
             - text-center
         style:
             background: '#F7F7F7'
-            # padding-top: 5rem
-            # padding-bottom: 5rem
-            # background-image: url(/assets/images/pattern.svg)
-            # background-size: 76px 83px
+            padding-top: 5rem
+            padding-bottom: 5rem
+            background-image: url(/assets/images/pattern.svg)
+            background-size: 38px 42px
         title: |
             Our online decision-making community is growing.
         button1st:
