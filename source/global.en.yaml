@@ -30,6 +30,8 @@ platformLink:
         title: Start using
         url: https://app.citizenos.com
 
+mobileMenu: MENU
+
 footer:
     text: Citizen OS is a social enterprise.
     navigation:

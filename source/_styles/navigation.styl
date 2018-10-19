@@ -54,3 +54,20 @@ nav
         .modal-body
             font-size 14px
             line-height 20px
+
+.navbar-toggler
+    font-size 14px
+    font-weight bold
+
+    &:after
+        content '▲'
+        padding-left 0.6em
+        font-size 12px
+        // line-height 14px
+
+    &.collapsed
+        &:after
+            content '▼'
+            padding-left 0.6em
+            font-size 12px
+            // line-height 14px
