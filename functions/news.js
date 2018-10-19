@@ -35,7 +35,7 @@ exports.handler = async (event) => {
         statusCode: 200,
         headers: {
             'Access-Control-Allow-Origin': '*',
-            'Cache-Control': 'max-age=3600, must-revalidate'
+            'Cache-Control': 'max-age=300, must-revalidate'
         },
         body: JSON.stringify(result)
     }
