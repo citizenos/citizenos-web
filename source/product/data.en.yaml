@@ -23,9 +23,9 @@ blocks:
             background-position: 10% 5%, 90% 90%
             background-size: 75px 75px, 65px 65px
         title: |
-            Our **online decision-making platform** can be used by groups of different sizes and purposes.
+            Citizen OS can be used for different purposes.
         text: |
-            We want to provide a tool to help organisations share their decision-making process with a bigger audience. Citizen OS platform can be used on all devices and is available in 6 languages.
+            We provide a tool to help organisations share their decision-making process with a bigger audience. The Citizen OS platform can be used on all devices and is currently available in 8 languages.
 
             - [Platform features](#features)
             - [How does it work](#how)
@@ -33,7 +33,7 @@ blocks:
             - [Case studies](#case-studies)
             { .arrow }
         button1st:
-            title: Use our platform
+            title: Start using
             url: https://app.citizenos.com
 
     -
@@ -60,24 +60,20 @@ blocks:
         title: |
             Clarity
         text: |
-            - Project overview: ideas, members, comments votes, follow-ups are all in one place.
-            - Smooth communication: the project moves along from one activity section to the next.
-            - Clear understanding of voting with the creation of custom answers.
-            - Voting deadlines keep the project timeline under control.
+            - Project overview.
+            - Voting deadlines.
             { .bullet }
 
             ## Involvement{ .mt-5 }
 
             - Ideas are collected bottom-up.
-            - Easy involvement of thousands of users.
-            - Well-thought-out argumentation is encouraged in the discussion section.
+            - Discussion occures in a structured way.
             { .bullet }
 
             ## Research & Development{ .mt-5 }
 
-            - Safe encrypted data, secure platform in a cloud server with continued development to keep up with new laws, regulations and research.
+            - Continuous development to keep up with new laws.
             - Better decisions are reached with a scientific approach.
-            - Motivation of users through education about the importance of involvement.
             { .bullet }
 
     -
@@ -121,12 +117,12 @@ blocks:
             Start using now
 
     -
-        id: case-study-1-img
+        id: case-study-2-img
         class:
             - order-7
             - order-sm-7
         text: |
-            ![](/assets/images/product-case-study-1.jpg){ .img-fluid .box-shadow }
+            ![](/assets/images/product-case-study-2.jpg){ .img-fluid .box-shadow }
 
     -
         id: case-studies
@@ -141,17 +137,17 @@ blocks:
         title: |
             Communication between the people and the government of Estonia.
         text: |
-            In Estonia, The Citizen OS open source code was used to set up the citizen initiatives platform [www.rahvaalgatus.ee](https://www.rahvaalgatus.ee) in 2016, which is run by the Estonian Cooperation Assembly.
+            In Estonia, The Citizen OS open source code was used to set up the citizen initiatives platform [www.rahvaalgatus.ee](https://www.rahvaalgatus.ee).
 
-            According to Estonian law, the Parliament has to process appeals that have at least 1000 signatures. The Citizen OS platform is set up to receive digital signatures given with the National ID.
+            The Parliament processes appeals that have at least 1000 signatures. The Citizen OS platform is set up to receive digital signatures given with the Estonian National ID-card.
 
     -
-        id: case-study-2-img
+        id: case-study-1-img
         class:
             - order-9
             - order-sm-10
         text: |
-            ![](/assets/images/product-case-study-2.jpg){ .img-fluid .box-shadow }
+            ![](/assets/images/product-case-study-1.jpg){ .img-fluid .box-shadow }
 
     -
         class:
@@ -165,7 +161,7 @@ blocks:
         title: |
             Opinion Festival
         text: |
-            [Opinion Festival](https://www.arvamusfestival.ee/en) integrated the Citizen OS argumentation widget to achieve their long-term goals of developing argumentative democracy skills in society. The widget is attached to their discussions and welcomes new ideas, new connections and better understanding of each other.
+            [Opinion Festival](https://www.arvamusfestival.ee/en) integrated the Citizen OS argumentation widget, which allows digital discussions in addition to the physical festival. This develops argumentative skills in the society.
 
     -
         id: stats
@@ -181,7 +177,7 @@ blocks:
         title: |
             Our online decision-making community is growing.
         button1st:
-            title: Start using our platform for free
+            title: Start using - it's free!
             url: https://app.citizenos.com
 
 howBlocks:
@@ -192,85 +188,84 @@ howBlocks:
         text: |
             ## Create documents – private or public.
 
-            Citizen OS allows you to create a text document, including formatting, of any size. It can be as simple as a one paragraph suggestion or as complex as a 20-page reform document.
+            Keep all project files in one place.
 
-            For your eyes only! Set the document to public or private to ensure the right people can access it.
-        button: Form groups, send invites, set editing rights
+#        button: Form groups, send invites, set editing rights
     -
         poster:
         mp4: /assets/videos/product-how-02.mp4
         webm: /assets/videos/product-how-02.webm
         text: |
-            ## Form groups, send invites, set editing rights.
-        button: Edit documents with others at the same time
+            ## Form groups, invite members, set editing rights.
+#        button: Edit documents with others at the same time
     -
         poster:
         mp4: /assets/videos/product-how-03.mp4
         webm: /assets/videos/product-how-03.webm
         text: |
             ## Edit documents with others at the same time.
-        button: Discuss in a structured way
+#        button: Discuss in a structured way
     -
         poster:
         mp4: /assets/videos/product-how-04.mp4
         webm: /assets/videos/product-how-04.webm
         text: |
             ## Discuss in a structured way.
-        button: Vote. Delegate your vote. Set deadlines for voting
+#        button: Vote. Delegate your vote. Set deadlines for voting
     -
         poster:
         mp4: /assets/videos/product-how-05.mp4
         webm: /assets/videos/product-how-05.webm
         text: |
-            ## Vote. Delegate your vote. Set deadlines for voting.
-        button: Inform your group about the outcome
+            ## Custom wording for votes. Delegate vote. Deadlines for voting.
+#        button: Inform your group about the outcome
     -
         poster:
         mp4: /assets/videos/product-how-06.mp4
         webm: /assets/videos/product-how-06.webm
         text: |
             ## Inform your group about the outcome.
-        button: Create documents – private or public
+#        button: Create documents – private or public
 
 statsBlocks:
     -
         title: discussions
-        value: 1165
+        value: 1260
 
     -
-        title: votes
-        value: 57288
+        title: votes collected
+        value: 62107
 
     -
-        title: groups
-        value: 148
+        title: groups have joined
+        value: 153
 
     -
-        title: users
-        value: 32153
+        title: platform users
+        value: 34077
 
 optionBlocks:
     -
         title: Start using now
         text: |
-            As a social enterprise, the Citizen OS platform is free for use on our website for anyone.
-        subtext: Free for ever
+            The Citizen OS platform is free for use on our website for everyone.
+        subtext: Free for ever!
         button:
-            title: Use our platform
+            title: Start using
             url: https://app.citizenos.com
     -
         title: Citizen OS API
         text: |
-            Use our API as a basis to build your own online decision-making platform with your own branding.
+            Use The Citizen OS API as a base to build an online decision-making platform with your own branding.
         subtext: Offer based
         button:
-            title: Ask for an offer
+            title: Contact us
             url: /contact
     -
         title: Consult & integrate
         text: |
-            We will consult, assist, test and adapt online decision-making to your local and national systems.
+            Let our team do all the work from consulting to working adaptation with your systems.
         subtext: Offer based
         button:
-            title: Ask for an offer
+            title: Contact us
             url: /contact

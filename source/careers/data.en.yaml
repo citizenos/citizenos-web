@@ -15,51 +15,44 @@ blocks:
 
             Citizen OS is about transparency and giving everyone the chance to be heard, so that also counts for us as an organisation. We are always looking for people who believe in our vision to join the team.
 
-            #### Currently actively searching for:
-
-            - [NodeJS Developer](#node-js-developer){ .open-career }
-            { .arrow }
+            #### Currently actively searching for: Developer volunteer
+            Would you like to help make people's voices heard .. in Nigeria? Citizen OS is an online decision-making platform and https://citizenvoice.ng would like to integrate the API to protect people against environmental harms in Nigeria. If you are available, please contact Thomas at info@citizenvoice.ng!
 
             If your talent lies elsewhere, but our vision inspires you, please [do get in touch](#).
 
     -
-        id: node-js-developer
+        id: Developer volunteer
         class:
             - career
             - d-none
         label: Careers
         title: |
-            NodeJS Developer
+            Developer volunteer
         text: |
             [Back to career opportunities](/careers){ .close-career .arrow-left .mb-5 }
-
-            We are looking for an Office Superstar to oversee all office-related operations across our offices in Australia and provide Executive Assistant support to the Country Manager.
-
-            Taxify is one of the fastest growing startups in the world with over 5M happy customers in 25+ countries, from Europe to Mexico to Africa. We’re building a ride-sharing app to connect millions of riders and drivers around the world to make travel easier, quicker and more reliable.
-
-            Let’s build the future of transportation together!
-
-            #### What you’ll be doing:
-
-            - Be the go-to person for the team for anything office and admin-related
-            - Be our culture ambassador and assist in planning company culture initiatives and events
-            - Be responsible for executing our office set-ups and lead the planning committee
-            - Manage facilities and organise services e.g. internet, cleaning, building insurance, etc.
-            - Manage and order office supply e.g. coffee, milk, office stationery, laptops, etc.
-            - Negotiate contract and price negotiations with service providers
-            - Attend to general front office duties as required
-            - General management and maintenance of the office environment - keeping it nice and homey for the team!
-            { .bullet }
-
-            #### What we offer you:
-
-            - Motivating compensation – motivational base pay and company stock options
-            - No corporate BS – we’re moving too fast for that
-            - Amazing personal growth experience at one of the fastest-growing startups in Europe
-            - Working with a motivated and talented international team, plus regular team events
-            - Monthly Taxify credit – both for work and leisure rides
-            - Impactful work – you’ll have a rare opportunity to build our home in Australia and help in building a product literally used by millions of people across the world
-            { .bullet }
-        button1st:
-            title: Apply for this position
-            url: '#'
+            Would you like to help make people's voices heard .. in Nigeria? Citizen OS is an online decision-making platform and https://citizenvoice.ng would like to integrate the API to protect people against environmental harms in Nigeria. If you are available, please contact Thomas at info@citizenvoice.ng!
+        #
+        #     #### What you’ll be doing:
+        #
+        #     - Be the go-to person for the team for anything office and admin-related
+        #     - Be our culture ambassador and assist in planning company culture initiatives and events
+        #     - Be responsible for executing our office set-ups and lead the planning committee
+        #     - Manage facilities and organise services e.g. internet, cleaning, building insurance, etc.
+        #     - Manage and order office supply e.g. coffee, milk, office stationery, laptops, etc.
+        #     - Negotiate contract and price negotiations with service providers
+        #     - Attend to general front office duties as required
+        #     - General management and maintenance of the office environment - keeping it nice and homey for the team!
+        #     { .bullet }
+        #
+        #     #### What we offer you:
+        #
+        #     - Motivating compensation – motivational base pay and company stock options
+        #     - No corporate BS – we’re moving too fast for that
+        #     - Amazing personal growth experience at one of the fastest-growing startups in Europe
+        #     - Working with a motivated and talented international team, plus regular team events
+        #     - Monthly Taxify credit – both for work and leisure rides
+        #     - Impactful work – you’ll have a rare opportunity to build our home in Australia and help in building a product literally used by millions of people across the world
+        #     { .bullet }
+        # button1st:
+        #     title: Apply for this position
+        #     url: '#'

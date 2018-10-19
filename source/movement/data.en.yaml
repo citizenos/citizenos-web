@@ -28,7 +28,8 @@ blocks:
         title: |
             **You have a voice** and it needs to be heard.
         text: |
-            Society allows us to gather around the people who share the same values and visions with. What if you could create a group of people and be part of decision-making in public topics?
+            There are people around you who also want to see a change around them. What if you could create a group of people and be part of decision-making in public topics?
+            **Sign up for the Citizen OS newsletter to read inspiring stories about participatory democracy from around the world.**
 
             - [Get involved as an individual](#individual)
             - [Get involved as a group](#group)
@@ -61,14 +62,13 @@ blocks:
         title: |
             One person can always make a difference in a democracy.
         text: |
-            Society allows us to gather around the people who share the same values and visions with. What if you could create a group of people and start contributing in decision-making in public topis? What if you could make your voice be heard? Be proud of the the decision made using participarty democracy.
+            Participatory democracy is individual participation by citizens in political decisions and policies that affect their lives, especially directly rather than through elected representatives. Find out if you can collect votes for an idea to be passed to your local or national government.
 
             ### As a group{ #group .mt-5 }
 
-            ## But there’s also definitely strength in numbers.
+            ## But there’s definitely strength in numbers.
 
-            Society allows us to gather around the people who share the same values and visions with. What if you could create a group of people and start contributing in decision-making in public topis? What if you could make your voice be heard? Be proud of the the decision made using participarty democracy.
-
+            Groups can influence decision-makers more than we sometimes believe. Local and national governments are increasingly looking for different groups to help solve difficult social issues. The Citizen OS platform can be used to crowdsource ideas, discuss and vote.
     -
         id: awareness
         class:
@@ -83,7 +83,7 @@ blocks:
         title: |
             Together we can advance online participatory democracy.
         text: |
-            Society allows us to gather around the people who share the same values and visions with. What if you could create a group of people and start contributing in decision-making in public topis? What if you could make your voice be heard? Be proud of the the decision made using participarty democracy.
+            To create the kind of future that is suitable for everyone, we need the opinions of many different people. It is important to let the decision-makers know about the actual needs of the people. The Citizen OS platform is made to be used by large groups of people for organizational tasks, discussing ideas and voting.
         button1st:
             title: Help us raise awareness
             url: /contribute
