@@ -22,12 +22,12 @@ html(lang=self.locale)
         style
             block stylus
 
-        //- script(async, src='https://www.googletagmanager.com/gtag/js?id=XX-000000-00')
-        //- script.
-        //-     window.dataLayer = window.dataLayer || [];
-        //-     function gtag(){dataLayer.push(arguments);}
-        //-     gtag('js', new Date());
-        //-     gtag('config', 'XX-000000-00');
+        script(async='', src='https://www.googletagmanager.com/gtag/js?id=UA-67049149-2')
+        script.
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+            gtag('config', 'UA-67049149-2');
     body
         include navigation.pug
 
