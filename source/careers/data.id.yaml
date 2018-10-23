@@ -1,0 +1,32 @@
+---
+path: careers
+title: Careers
+blocks:
+  - 
+    style:
+      background: 'linear-gradient(180deg, #0EB7FE 0%, #0680FC 100%)'
+  - 
+    id: careers
+    label: About
+    title: |
+      Careers
+    text: |
+      Want to provide the people of the world with an amazing tool for co-deciding and online participatory democracy? Help us improve the Citizen OS platform.
+      
+      Citizen OS is about transparency and giving everyone the chance to be heard, so that also counts for us as an organisation. We are always looking for people who believe in our vision to join the team.
+      
+      #### Currently actively searching for: Developer volunteer
+      Would you like to help make people's voices heard .. in Nigeria? Citizen OS is an online decision-making platform and [citizenvoice.ng](https://citizenvoice.ng) would like to integrate the API to protect people against environmental harms in Nigeria. If you are available, please contact Thomas at <info@citizenvoice.ng>!
+      
+      If your talent lies elsewhere, but our vision inspires you, please [do get in touch](#).
+  - 
+    id: Developer volunteer
+    class:
+      - career
+      - d-none
+    label: Careers
+    title: |
+      Developer volunteer
+    text: |
+      [Back to career opportunities](/careers){ .close-career .arrow-left .mb-5 }
+      Would you like to help make people's voices heard .. in Nigeria? Citizen OS is an online decision-making platform and [citizenvoice.ng](https://citizenvoice.ng) would like to integrate the API to protect people against environmental harms in Nigeria. If you are available, please contact Thomas at <info@citizenvoice.ng>!

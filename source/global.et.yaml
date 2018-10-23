@@ -1,0 +1,63 @@
+---
+siteTitle: Citizen OS
+root: /
+navigation:
+  - 
+    title: Product
+    url: /product
+    class: product
+  - 
+    title: Movement
+    url: /movement
+    class: movement
+  - 
+    title: Research
+    url: /research
+    class: research
+language: English
+languages:
+  en: English
+  et: Eesti
+  lt: Lietuvių
+  ua: Українська
+  fr: Français
+  lv: Latviešu
+  ru: Pусский
+selectLanguage: Languages
+platformLink:
+  title: Start using
+  url: https://app.citizenos.com/et/
+mobileMenu: MENU
+footer:
+  text: Citizen OS is a social enterprise.
+  navigation:
+    - |
+      ## About
+      
+      [Company](/company)
+      
+      [Careers](/careers)
+      
+      [Contribute](/contribute)
+      
+      [Team](/team)
+      
+      [Contact](/contact)
+    - |
+      ## Community
+      
+      [Blog](https://medium.com/citizenos)
+      
+      [Twitter](https://twitter.com/Citizen_OS)
+      
+      [Facebook](https://www.facebook.com/citizenos.web)
+    - |
+      ## Support
+      
+      [FAQ](#)
+      
+      [Guides](#)
+      
+      [Legal](#)
+      
+      [Github](https://github.com/citizenos)
