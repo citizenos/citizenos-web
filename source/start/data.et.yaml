@@ -63,7 +63,7 @@ blocks:
       url: /movement
     button2nd:
       title: Start using - it’s free!
-      url: https://app.citizenos.com
+      url: https://app.citizenos.com/et/
       target: _blank
   - 
     class:
