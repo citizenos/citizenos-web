@@ -34,7 +34,7 @@ blocks:
       { .arrow }
     button1st:
       title: Start using
-      url: https://app.citizenos.com
+      url: https://app.citizenos.com/et/
       target: _blank
   - 
     id: features-img
@@ -169,7 +169,7 @@ blocks:
       Our online decision-making community is growing.
     button1st:
       title: Start using - it's free!
-      url: https://app.citizenos.com
+      url: https://app.citizenos.com/et/
       target: _blank
 howBlocks:
   - 
@@ -231,7 +231,7 @@ optionBlocks:
     subtext: Free for ever!
     button:
       title: Start using
-      url: https://app.citizenos.com
+      url: https://app.citizenos.com/et/
       target: _blank
   - 
     title: Citizen OS API
