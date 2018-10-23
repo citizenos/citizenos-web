@@ -1,0 +1,27 @@
+---
+path: contribute
+title: Contribute
+blocks:
+  - 
+    style:
+      background: 'linear-gradient(180deg, #0EB7FE 0%, #0680FC 100%)'
+  - 
+    label: About
+    title: |
+      Contribute
+    text: |
+      Want to provide your community with an amazing tool for co-deciding and online participatory democracy? Help us improve the Citizen OS platform.
+      
+      Citizen OS is about transparency and giving everyone the chance to be heard, so that also counts for us as an organisation. We are always looking for people who believe in our vision to [join the team](/careers).
+      
+      #### Localisation
+      
+      If Citizen OS platform doesn’t yet support your language, please let us know at <translations@citizenos.com>.
+      
+      Translating or improving the Citizen OS platform is easy, many volunteers work with us every day. [Come and check it out](#), we’d be thrilled to have you on board!
+      
+      #### Technology
+      
+      Are you a developer or designer, to whom the future of decision-making in the world is a topic close to heart?
+      
+      Citizen OS is an open-source platform. If you have ideas on how to improve or add functionality, please [share it with us on GitHub](https://github.com/citizenos).
