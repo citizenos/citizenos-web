@@ -1,0 +1,155 @@
+---
+path: ''
+header:
+  title: Let’s decide together!
+  text: |
+    Hello! We are an open source social enterprise helping someone like you change their communities.
+  play:
+    title: Play video
+    url: '#'
+  whatIs:
+    title: What is Citizen OS
+    url: /movement
+  startUsing:
+    title: Start using - it’s free!
+    url: https://app.citizenos.com
+    target: _blank
+news:
+  more: Read more
+blocks:
+  - 
+    id: news
+    class:
+      - order-1
+      - text-center
+    style:
+      background-color: '#F7F7F7'
+      background-image: url(/assets/images/bubble-dots.png)
+      background-position: 60% 10%
+      background-size: 360px 360px
+    title: |
+      Latest news
+    text: |
+      { #news-items }
+    button1st:
+      title: Explore more on our blog
+      url: https://medium.com/citizenos
+  - 
+    class:
+      - order-2
+      - order-sm-3
+    style:
+      background-image: url(/assets/images/bubble-dots.png), url(/assets/images/bubble-orange.svg)
+      background-position: 30% 25%, 20% 75%
+      background-size: 360px 360px, 100px 100px
+    text: |
+      ![](/assets/images/frontpage-start.png){ .img-fluid }
+  - 
+    class:
+      - order-3
+      - order-sm-2
+      - col-sm-4
+      - offset-sm-1
+    style:
+      background-image: url(/assets/images/bubble-yellow.svg)
+      background-position: 0 10%
+      background-size: 122px 122px
+    title: |
+      Citizen OS is **raising awareness** on participatory democracy.
+    text: |
+      Our mission is to allow as many people as possible to collaboratively decide on topics that affect their well-being using an argumentative decision-making process. **We are a social enterprise**
+    button1st:
+      title: Read more
+      url: /movement
+    button2nd:
+      title: Start using - it’s free!
+      url: https://app.citizenos.com
+      target: _blank
+  - 
+    class:
+      - order-4
+      - col-sm-5
+    style:
+      background-image: url(/assets/images/bubble-turquoise.svg)
+      background-position: 85% 85%
+      background-size: 75px 75px
+    text: |
+      ![](/assets/images/frontpage-lets-educate.png){ .img-fluid }
+  - 
+    class:
+      - order-5
+      - col-sm-4
+      - offset-sm-1
+    style:
+      background-image: url(/assets/images/bubble-dots.png)
+      background-position: 30% 25%
+      background-size: 360px 360px
+    label: Let’s Educate
+    title: |
+      Collaborating with **scientists and researchers.**
+    text: |
+      As an organization, Citizen OS helps the general public in getting involved and getting their voices heard.
+      
+      We invest in reseach and studies to help us understand better the needs of communities.
+      
+      The Citizen OS conference is a bi-annual meeting for e-democracy researchers.
+    button1st:
+      title: Learn more about our research
+      url: /research
+  - 
+    class:
+      - order-6
+      - order-sm-7
+    style:
+      background-image: url(/assets/images/bubble-yellow.svg)
+      background-position: 20% 80%
+      background-size: 122px 122px
+    text: |
+      ![](/assets/images/frontpage-product.png){ .img-fluid }
+  - 
+    class:
+      - order-7
+      - order-sm-6
+      - col-sm-4
+      - offset-sm-1
+    style:
+      background-image: url(/assets/images/bubble-dots.png)
+      background-position: 0% 25%
+      background-size: 360px 360px
+    label: Our Product
+    title: |
+      Everyone can use Citizen OS **free of charge.**
+    text: |
+      Everybody should have the tools to express themselves and raise their voices. The Citizen OS platform allows members of communities to raise issues, discuss and vote for solutions.
+      
+      Use the Citizen OS platform for free on our website.
+      For API integration, [contact us for a quote](/contact).
+    button1st:
+      title: Learn about our product
+      url: /product
+  - 
+    id: team
+    class:
+      - order-8
+    style:
+      background-color: '#F7F7F7'
+    label: A word from the team
+    title: |
+      **We are here to do good** in the long run.
+    text: |
+      We truly believe that You and I are changing the world. Everyone, who contributes to Citizen OS is driven by the idea of participatory democracy empowering people around the world. That is why we help and provide the tools so that voices can be heard. There are many ways to contribute, join us!
+    button1st:
+      title: Contribute to the cause
+      url: /contribute
+  - 
+    id: partners
+    class:
+      - order-9
+    style:
+      background-color: '#F7F7F7'
+      border-left: '1px solid #E5E5E5'
+    label: We’re stronger together
+    title: |
+      Our partners & supporters
+    text: |
+      ![Partners](/assets/images/frontpage-partners.png){ .w-100 }
