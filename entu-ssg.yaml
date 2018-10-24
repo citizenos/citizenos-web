@@ -1,5 +1,15 @@
 locales:
+    - be
+    - de
     - en
+    - es
+    - et
+    - fi
+    - fr
+    - id
+    - nl
+    - ru
+    - uk
 defaultLocale: en
 
 source: ./source

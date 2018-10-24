@@ -1,0 +1,251 @@
+---
+path: product
+title: Product
+blocks:
+  - 
+    class:
+      - order-0
+      - order-sm-1
+    style:
+      background-color: '#FFF1AD'
+      background-image: url(/assets/images/product-start.png), url(/assets/images/bubble-dots.png)
+      background-position: right center, 0 10%
+      background-size: 90%, 350px 350px
+  - 
+    class:
+      - order-1
+      - order-sm-0
+    style:
+      padding-top: 5rem
+      padding-bottom: 5rem
+      background-color: '#FFF1AD'
+      background-image: url(/assets/images/bubble-turquoise.svg), url(/assets/images/bubble-yellow.svg)
+      background-position: 10% 5%, 90% 90%
+      background-size: 75px 75px, 65px 65px
+    title: |
+      Citizen OS can be used for different purposes.
+    text: |
+      We provide a tool to help organisations share their decision-making process with a bigger audience. The Citizen OS platform can be used on all devices and is currently available in 8 languages.
+      
+      - [Platform features](#features)
+      - [How does it work](#how)
+      - [How much does it cost](#options)
+      - [Case studies](#case-studies)
+      { .arrow }
+    button1st:
+      title: Start using
+      url: https://app.citizenos.com
+      target: _blank
+  - 
+    id: features-img
+    class:
+      - order-2
+      - order-sm-2
+    style:
+      background-color: '#F7F7F7'
+      background-image: url(/assets/images/bubble-orange.svg), url(/assets/images/bubble-dots.png)
+      background-position: 100% 15%, 90% 15%
+      background-size: 165px 165px, 350px 350px
+    text: |
+      ![](/assets/images/product-features.jpg){ .img-fluid .box-shadow }
+  - 
+    id: features
+    class:
+      - order-3
+      - order-sm-3
+    style:
+      background: '#F7F7F7'
+    label: Features
+    title: |
+      Clarity
+    text: |
+      - Project overview.
+      - Voting deadlines.
+      { .bullet }
+      
+      ## Involvement{ .mt-5 }
+      
+      - Ideas are collected bottom-up.
+      - Discussion occures in a structured way.
+      { .bullet }
+      
+      ## Research & Development{ .mt-5 }
+      
+      - Continuous development to keep up with new laws.
+      - Better decisions are reached with a scientific approach.
+      { .bullet }
+  - 
+    id: how-videos
+    style:
+      padding-top: 5rem
+      padding-bottom: 5rem
+      background-image: url(/assets/images/bubble-turquoise.svg), url(/assets/images/bubble-dots.png)
+      background-position: 0% 5%, 0% 10%
+      background-size: 45px 45px, 350px 350px
+    class:
+      - order-4
+      - order-sm-5
+  - 
+    id: how
+    class:
+      - order-5
+      - order-sm-4
+    style:
+      padding-top: 5rem
+      padding-bottom: 5rem
+      background-image: url(/assets/images/bubble-orange.svg)
+      background-position: 10% 90%
+      background-size: 75px 75px
+    label: How does it work?
+    text: |
+      { #carousel-text }
+  - 
+    id: options
+    class:
+      - col-sm-12
+      - order-6
+      - order-sm-6
+      - text-center
+    style:
+      background: '#AAF3DD'
+    label: Something for everyone
+    title: |
+      Start using now
+  - 
+    id: case-study-2-img
+    class:
+      - order-7
+      - order-sm-7
+    text: |
+      ![](/assets/images/product-case-study-2.jpg){ .img-fluid .box-shadow }
+  - 
+    id: case-studies
+    class:
+      - order-8
+      - order-sm-8
+    style:
+      background-image: url(/assets/images/bubble-blue.svg)
+      background-position: 80% 5%
+      background-size: 122px 122px
+    label: Case study
+    title: |
+      Communication between the people and the government of Estonia.
+    text: |
+      In Estonia, The Citizen OS open source code was used to set up the citizen initiatives platform [www.rahvaalgatus.ee](https://www.rahvaalgatus.ee).
+      
+      The Parliament processes appeals that have at least 1000 signatures. The Citizen OS platform is set up to receive digital signatures given with the Estonian National ID-card.
+  - 
+    id: case-study-1-img
+    class:
+      - order-9
+      - order-sm-10
+    text: |
+      ![](/assets/images/product-case-study-1.jpg){ .img-fluid .box-shadow }
+  - 
+    class:
+      - order-10
+      - order-sm-9
+    style:
+      background-image: url(/assets/images/bubble-orange.svg), url(/assets/images/bubble-yellow.svg)
+      background-position: 10% 5%, 90% 90%
+      background-size: 85px 85px, 55px 55px
+    label: Case study
+    title: |
+      Opinion Festival
+    text: |
+      [Opinion Festival](https://www.arvamusfestival.ee/en) integrated the Citizen OS argumentation widget, which allows digital discussions in addition to the physical festival. This develops argumentative skills in the society.
+  - 
+    id: stats
+    class:
+      - order-11
+      - text-center
+    style:
+      background: '#F7F7F7'
+      padding-top: 5rem
+      padding-bottom: 5rem
+      background-image: url(/assets/images/pattern.svg)
+      background-size: 38px 42px
+    title: |
+      Our online decision-making community is growing.
+    button1st:
+      title: Start using - it's free!
+      url: https://app.citizenos.com
+      target: _blank
+howBlocks:
+  - 
+    poster:
+    mp4: /assets/videos/product-how-01.mp4
+    webm: /assets/videos/product-how-01.webm
+    text: |
+      ## Create documents – private or public.
+      
+      Keep all project files in one place.
+  - 
+    poster:
+    mp4: /assets/videos/product-how-02.mp4
+    webm: /assets/videos/product-how-02.webm
+    text: |
+      ## Form groups, invite members, set editing rights.
+  - 
+    poster:
+    mp4: /assets/videos/product-how-03.mp4
+    webm: /assets/videos/product-how-03.webm
+    text: |
+      ## Edit documents with others at the same time.
+  - 
+    poster:
+    mp4: /assets/videos/product-how-04.mp4
+    webm: /assets/videos/product-how-04.webm
+    text: |
+      ## Discuss in a structured way.
+  - 
+    poster:
+    mp4: /assets/videos/product-how-05.mp4
+    webm: /assets/videos/product-how-05.webm
+    text: |
+      ## Custom wording for votes. Delegate vote. Deadlines for voting.
+  - 
+    poster:
+    mp4: /assets/videos/product-how-06.mp4
+    webm: /assets/videos/product-how-06.webm
+    text: |
+      ## Inform your group about the outcome.
+statsBlocks:
+  - 
+    title: discussions
+    value: 1260
+  - 
+    title: votes collected
+    value: 62107
+  - 
+    title: groups have joined
+    value: 153
+  - 
+    title: platform users
+    value: 34077
+optionBlocks:
+  - 
+    title: Start using now
+    text: |
+      The Citizen OS platform is free for use on our website for everyone.
+    subtext: Free for ever!
+    button:
+      title: Start using
+      url: https://app.citizenos.com
+      target: _blank
+  - 
+    title: Citizen OS API
+    text: |
+      Use The Citizen OS API as a base to build an online decision-making platform with your own branding.
+    subtext: Offer based
+    button:
+      title: Contact us
+      url: /contact
+  - 
+    title: Consult & integrate
+    text: |
+      Let our team do all the work from consulting to working adaptation with your systems.
+    subtext: Offer based
+    button:
+      title: Contact us
+      url: /contact

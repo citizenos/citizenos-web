@@ -1,0 +1,26 @@
+---
+path: team
+title: Team
+blocks:
+  - 
+    style:
+      background: 'linear-gradient(180deg, #0EB7FE 0%, #0680FC 100%)'
+  - 
+    label: About
+    title: |
+      Team
+    text: |
+      |  |  |
+      | --- | --- |
+      | Founder and advisor: | Ahti Heinla, one of the founders of Skype. |
+      | Software Developers: | Mikk Andresen, Ilmar Türk |
+      | Research Associate: | Kadi Maria Vooglaid |
+      | Leadership: | Margo Loor |
+      | Human Relations: | Ly Kasvandik |
+      | Localisation: | Oksana Naidjonova |
+      | Lawyer: | Kati Vellak |
+      | Project Manager: | Triin Uustalu |
+      | Front-end Developer: | Lennart Rikk |
+      | Marketing: | Liina Guiter |
+      | UX/UI Designers: | Kevin Crepin, Kristian Lember, Jannus Jaska |
+      | Minds that think alike: | Henri Laupmaa, Liia Hänni, Hille Hinsberg, Eva Truuverk |
