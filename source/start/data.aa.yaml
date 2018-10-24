@@ -1,0 +1,148 @@
+---
+path: 'crwdns11806:0crwdne11806:0'
+header:
+  title: crwdns11808:0crwdne11808:0
+  text: |
+    crwdns11810:0crwdne11810:0
+  play:
+    title: crwdns11812:0crwdne11812:0
+    url: 'crwdns11814:0crwdne11814:0'
+  whatIs:
+    title: crwdns11816:0crwdne11816:0
+    url: crwdns12002:0crwdne12002:0
+  startUsing:
+    title: crwdns11820:0crwdne11820:0
+    url: crwdns11822:0crwdne11822:0
+    target: crwdns11824:0crwdne11824:0
+news:
+  more: crwdns11826:0crwdne11826:0
+blocks:
+  - 
+    id: crwdns11828:0crwdne11828:0
+    class:
+      - crwdns11830:0crwdne11830:0
+      - crwdns11832:0crwdne11832:0
+    style:
+      background-color: 'crwdns11834:0crwdne11834:0'
+      background-image: crwdns11836:0crwdne11836:0
+      background-position: crwdns11838:0crwdne11838:0
+      background-size: crwdns11840:0crwdne11840:0
+    title: |
+      crwdns11842:0crwdne11842:0
+    text: |
+      crwdns11844:0{ #news-items }crwdne11844:0
+    button1st:
+      title: crwdns11846:0crwdne11846:0
+      url: crwdns11848:0crwdne11848:0
+  - 
+    class:
+      - crwdns11850:0crwdne11850:0
+      - crwdns11852:0crwdne11852:0
+    style:
+      background-image: crwdns11854:0crwdne11854:0
+      background-position: crwdns11856:0crwdne11856:0
+      background-size: crwdns11858:0crwdne11858:0
+    text: |
+      crwdns11860:0{ .img-fluid }crwdne11860:0
+  - 
+    class:
+      - crwdns11862:0crwdne11862:0
+      - crwdns11864:0crwdne11864:0
+      - crwdns11866:0crwdne11866:0
+      - crwdns11868:0crwdne11868:0
+    style:
+      background-image: crwdns11870:0crwdne11870:0
+      background-position: crwdns11872:0crwdne11872:0
+      background-size: crwdns11874:0crwdne11874:0
+    title: |
+      crwdns11876:0crwdne11876:0
+    text: |
+      crwdns11878:0crwdne11878:0
+    button1st:
+      title: crwdns11880:0crwdne11880:0
+      url: crwdns11882:0crwdne11882:0
+    button2nd:
+      title: crwdns11884:0crwdne11884:0
+      url: crwdns11886:0crwdne11886:0
+      target: crwdns11888:0crwdne11888:0
+  - 
+    class:
+      - crwdns11890:0crwdne11890:0
+      - crwdns11892:0crwdne11892:0
+    style:
+      background-image: crwdns11894:0crwdne11894:0
+      background-position: crwdns11896:0crwdne11896:0
+      background-size: crwdns11898:0crwdne11898:0
+    text: |
+      crwdns11900:0{ .img-fluid }crwdne11900:0
+  - 
+    class:
+      - crwdns11902:0crwdne11902:0
+      - crwdns11904:0crwdne11904:0
+      - crwdns11906:0crwdne11906:0
+    style:
+      background-image: crwdns11908:0crwdne11908:0
+      background-position: crwdns11910:0crwdne11910:0
+      background-size: crwdns11912:0crwdne11912:0
+    label: crwdns11914:0crwdne11914:0
+    title: |
+      crwdns11916:0crwdne11916:0
+    text: |
+      crwdns11918:0crwdne11918:0
+    button1st:
+      title: crwdns11920:0crwdne11920:0
+      url: crwdns11922:0crwdne11922:0
+  - 
+    class:
+      - crwdns11924:0crwdne11924:0
+      - crwdns11926:0crwdne11926:0
+    style:
+      background-image: crwdns11928:0crwdne11928:0
+      background-position: crwdns11930:0crwdne11930:0
+      background-size: crwdns11932:0crwdne11932:0
+    text: |
+      crwdns11934:0{ .img-fluid }crwdne11934:0
+  - 
+    class:
+      - crwdns11936:0crwdne11936:0
+      - crwdns11938:0crwdne11938:0
+      - crwdns11940:0crwdne11940:0
+      - crwdns11942:0crwdne11942:0
+    style:
+      background-image: crwdns11944:0crwdne11944:0
+      background-position: crwdns11946:0crwdne11946:0
+      background-size: crwdns11948:0crwdne11948:0
+    label: crwdns11950:0crwdne11950:0
+    title: |
+      crwdns11952:0crwdne11952:0
+    text: |
+      crwdns11954:0crwdne11954:0
+    button1st:
+      title: crwdns11956:0crwdne11956:0
+      url: crwdns11958:0crwdne11958:0
+  - 
+    id: crwdns11960:0crwdne11960:0
+    class:
+      - crwdns11962:0crwdne11962:0
+    style:
+      background-color: 'crwdns11964:0crwdne11964:0'
+    label: crwdns11966:0crwdne11966:0
+    title: |
+      crwdns11968:0crwdne11968:0
+    text: |
+      crwdns11970:0crwdne11970:0
+    button1st:
+      title: crwdns11972:0crwdne11972:0
+      url: crwdns11974:0crwdne11974:0
+  - 
+    id: crwdns11976:0crwdne11976:0
+    class:
+      - crwdns11978:0crwdne11978:0
+    style:
+      background-color: 'crwdns11980:0crwdne11980:0'
+      border-left: 'crwdns11982:0crwdne11982:0'
+    label: crwdns11984:0crwdne11984:0
+    title: |
+      crwdns11986:0crwdne11986:0
+    text: |
+      crwdns11988:0[Partners]crwdnd11988:0{ .w-100 }crwdne11988:0

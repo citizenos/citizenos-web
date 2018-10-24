@@ -1,0 +1,81 @@
+---
+path: crwdns11704:0crwdne11704:0
+title: crwdns11706:0crwdne11706:0
+blocks:
+  - 
+    class:
+      - crwdns11708:0crwdne11708:0
+      - crwdns11710:0crwdne11710:0
+    style:
+      background-color: 'crwdns11712:0crwdne11712:0'
+      background-image: crwdns11714:0crwdne11714:0
+      background-position: crwdns11716:0crwdne11716:0
+      background-size: crwdns11718:0crwdne11718:0
+    text: |
+      crwdns11720:0{ .img-fluid }crwdne11720:0
+  - 
+    class:
+      - crwdns11722:0crwdne11722:0
+      - crwdns11724:0crwdne11724:0
+    style:
+      background-color: 'crwdns11726:0crwdne11726:0'
+      background-image: crwdns11728:0crwdne11728:0
+      background-position: crwdns11730:0crwdne11730:0
+      background-size: crwdns11732:0crwdne11732:0
+    title: |
+      crwdns11734:0crwdne11734:0
+    text: |
+      crwdns11736:0crwdne11736:0
+    button1st:
+      title: crwdns11738:0crwdne11738:0
+      url: crwdns11740:0crwdne11740:0
+  - 
+    id: crwdns11742:0crwdne11742:0
+    class:
+      - crwdns11744:0crwdne11744:0
+      - crwdns11746:0crwdne11746:0
+    style:
+      padding-top: crwdns11748:0crwdne11748:0
+      padding-bottom: crwdns11750:0crwdne11750:0
+      background-color: 'crwdns11752:0crwdne11752:0'
+      background-image: crwdns11754:0crwdne11754:0
+      background-position: crwdns11756:0crwdne11756:0
+      background-size: crwdns11758:0crwdne11758:0
+    text: |
+      crwdns11760:0{ .img-fluid .box-shadow }crwdne11760:0
+  - 
+    class:
+      - crwdns11762:0crwdne11762:0
+      - crwdns11764:0crwdne11764:0
+    style:
+      background: 'crwdns11766:0crwdne11766:0'
+    label: crwdns11768:0crwdne11768:0
+    title: |
+      crwdns11770:0crwdne11770:0
+    text: |
+      crwdns11772:0crwdne11772:0
+  - 
+    id: crwdns11774:0crwdne11774:0
+    class:
+      - crwdns11776:0crwdne11776:0
+      - crwdns11778:0crwdne11778:0
+    style:
+      padding-top: crwdns11780:0crwdne11780:0
+      padding-bottom: crwdns11782:0crwdne11782:0
+      background-image: crwdns11784:0crwdne11784:0
+      background-position: crwdns11786:0crwdne11786:0
+      background-size: crwdns11788:0crwdne11788:0
+    text: |
+      crwdns11790:0{ .img-fluid .box-shadow }crwdne11790:0
+  - 
+    class:
+      - crwdns11792:0crwdne11792:0
+      - crwdns11794:0crwdne11794:0
+    label: crwdns11796:0crwdne11796:0
+    title: |
+      crwdns11798:0crwdne11798:0
+    text: |
+      crwdns11800:0{ .bullet }crwdne11800:0
+    button1st:
+      title: crwdns11802:0crwdne11802:0
+      url: 'crwdns11804:0crwdne11804:0'

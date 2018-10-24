@@ -1,0 +1,72 @@
+---
+path: crwdns11318:0crwdne11318:0
+title: crwdns11320:0crwdne11320:0
+blocks:
+  - 
+    id: crwdns11322:0crwdne11322:0
+    class:
+      - crwdns11324:0crwdne11324:0
+      - crwdns11326:0crwdne11326:0
+    style:
+      background-color: 'crwdns11328:0crwdne11328:0'
+      background-image: crwdns11330:0crwdne11330:0
+      background-position: crwdns11332:0crwdne11332:0
+      background-size: crwdns11334:0crwdne11334:0
+    text: |
+      crwdns11336:0{ .img-fluid }crwdne11336:0
+  - 
+    class:
+      - crwdns11338:0crwdne11338:0
+      - crwdns11340:0crwdne11340:0
+    style:
+      padding-top: crwdns11342:0crwdne11342:0
+      padding-bottom: crwdns11344:0crwdne11344:0
+      background-color: 'crwdns11346:0crwdne11346:0'
+      background-image: crwdns11348:0crwdne11348:0
+      background-position: crwdns11350:0crwdne11350:0
+      background-size: crwdns11352:0crwdne11352:0
+    title: |
+      crwdns11354:0crwdne11354:0
+    text: |
+      crwdns11356:0{ .arrow }crwdne11356:0
+    button1st:
+      title: crwdns11358:0crwdne11358:0
+      url: 'crwdns11360:0crwdne11360:0'
+  - 
+    class:
+      - crwdns11362:0crwdne11362:0
+      - crwdns11364:0crwdne11364:0
+    style:
+      background-image: crwdns11366:0crwdne11366:0
+      background-position: crwdns11368:0crwdne11368:0
+      background-size: crwdns11370:0crwdne11370:0
+    text: |
+      crwdns11372:0{ .img-fluid }crwdne11372:0
+  - 
+    id: crwdns11374:0crwdne11374:0
+    class:
+      - crwdns11376:0crwdne11376:0
+      - crwdns11378:0crwdne11378:0
+    label: crwdns11380:0crwdne11380:0
+    title: |
+      crwdns11382:0crwdne11382:0
+    text: |
+      crwdns11384:0{ #group .mt-5 }crwdne11384:0
+  - 
+    id: crwdns11386:0crwdne11386:0
+    class:
+      - crwdns11388:0crwdne11388:0
+    style:
+      padding-top: crwdns11390:0crwdne11390:0
+      padding-bottom: crwdns11392:0crwdne11392:0
+      background-image: crwdns11394:0crwdne11394:0
+      background-size: crwdns11396:0crwdne11396:0
+      background-position: crwdns11398:0crwdne11398:0
+    label: crwdns11400:0crwdne11400:0
+    title: |
+      crwdns11402:0crwdne11402:0
+    text: |
+      crwdns11404:0crwdne11404:0
+    button1st:
+      title: crwdns11406:0crwdne11406:0
+      url: crwdns11408:0crwdne11408:0
