@@ -1,0 +1,39 @@
+---
+siteTitle: crwdns11264:0crwdne11264:0
+root: crwdns11266:0crwdne11266:0
+navigation:
+  - 
+    title: crwdns11268:0crwdne11268:0
+    url: crwdns11270:0crwdne11270:0
+    class: crwdns11272:0crwdne11272:0
+  - 
+    title: crwdns11274:0crwdne11274:0
+    url: crwdns11276:0crwdne11276:0
+    class: crwdns11278:0crwdne11278:0
+  - 
+    title: crwdns11280:0crwdne11280:0
+    url: crwdns11282:0crwdne11282:0
+    class: crwdns11284:0crwdne11284:0
+language: crwdns11286:0crwdne11286:0
+languages:
+  en: crwdns11288:0crwdne11288:0
+  et: crwdns11290:0crwdne11290:0
+  lt: crwdns11292:0crwdne11292:0
+  ua: crwdns11294:0crwdne11294:0
+  fr: crwdns11296:0crwdne11296:0
+  lv: crwdns11298:0crwdne11298:0
+  ru: crwdns11300:0crwdne11300:0
+selectLanguage: crwdns11302:0crwdne11302:0
+platformLink:
+  title: crwdns11304:0crwdne11304:0
+  url: crwdns11306:0crwdne11306:0
+mobileMenu: crwdns11308:0crwdne11308:0
+footer:
+  text: crwdns11310:0crwdne11310:0
+  navigation:
+    - |
+      crwdns11312:0[Company]crwdnd11312:0[Careers]crwdnd11312:0[Contribute]crwdnd11312:0[Team]crwdnd11312:0[Contact]crwdne11312:0
+    - |
+      crwdns11314:0[Blog]crwdnd11314:0[Twitter]crwdnd11314:0[Facebook]crwdne11314:0
+    - |
+      crwdns11316:0[FAQ]crwdnd11316:0[Guides]crwdnd11316:0[Legal]crwdnd11316:0[Github]crwdne11316:0
