@@ -1,148 +1,147 @@
 ---
-path: 'crwdns11806:0crwdne11806:0'
 header:
-  title: crwdns11808:0crwdne11808:0
+  title: crwdns12006:0crwdne12006:0
   text: |
-    crwdns11810:0crwdne11810:0
+    crwdns12008:0crwdne12008:0
   play:
-    title: crwdns11812:0crwdne11812:0
-    url: 'crwdns11814:0crwdne11814:0'
+    title: crwdns12010:0crwdne12010:0
+    url: 'crwdns12012:0crwdne12012:0'
   whatIs:
-    title: crwdns11816:0crwdne11816:0
-    url: crwdns12002:0crwdne12002:0
+    title: crwdns12014:0crwdne12014:0
+    url: crwdns12016:0crwdne12016:0
   startUsing:
-    title: crwdns11820:0crwdne11820:0
-    url: crwdns11822:0crwdne11822:0
-    target: crwdns11824:0crwdne11824:0
+    title: crwdns12018:0crwdne12018:0
+    url: crwdns12020:0crwdne12020:0
+    target: crwdns12022:0crwdne12022:0
 news:
-  more: crwdns11826:0crwdne11826:0
+  more: crwdns12024:0crwdne12024:0
 blocks:
   - 
-    id: crwdns11828:0crwdne11828:0
+    id: crwdns12026:0crwdne12026:0
     class:
-      - crwdns11830:0crwdne11830:0
-      - crwdns11832:0crwdne11832:0
+      - crwdns12028:0crwdne12028:0
+      - crwdns12030:0crwdne12030:0
     style:
-      background-color: 'crwdns11834:0crwdne11834:0'
-      background-image: crwdns11836:0crwdne11836:0
-      background-position: crwdns11838:0crwdne11838:0
-      background-size: crwdns11840:0crwdne11840:0
+      background-color: 'crwdns12032:0crwdne12032:0'
+      background-image: crwdns12034:0crwdne12034:0
+      background-position: crwdns12036:0crwdne12036:0
+      background-size: crwdns12038:0crwdne12038:0
     title: |
-      crwdns11842:0crwdne11842:0
+      crwdns12040:0crwdne12040:0
     text: |
-      crwdns11844:0{ #news-items }crwdne11844:0
+      crwdns12042:0{ #news-items }crwdne12042:0
     button1st:
-      title: crwdns11846:0crwdne11846:0
-      url: crwdns11848:0crwdne11848:0
+      title: crwdns12044:0crwdne12044:0
+      url: crwdns12046:0crwdne12046:0
   - 
     class:
-      - crwdns11850:0crwdne11850:0
-      - crwdns11852:0crwdne11852:0
+      - crwdns12048:0crwdne12048:0
+      - crwdns12050:0crwdne12050:0
     style:
-      background-image: crwdns11854:0crwdne11854:0
-      background-position: crwdns11856:0crwdne11856:0
-      background-size: crwdns11858:0crwdne11858:0
+      background-image: crwdns12052:0crwdne12052:0
+      background-position: crwdns12054:0crwdne12054:0
+      background-size: crwdns12056:0crwdne12056:0
     text: |
-      crwdns11860:0{ .img-fluid }crwdne11860:0
+      crwdns12058:0{ .img-fluid }crwdne12058:0
   - 
     class:
-      - crwdns11862:0crwdne11862:0
-      - crwdns11864:0crwdne11864:0
-      - crwdns11866:0crwdne11866:0
-      - crwdns11868:0crwdne11868:0
+      - crwdns12060:0crwdne12060:0
+      - crwdns12062:0crwdne12062:0
+      - crwdns12064:0crwdne12064:0
+      - crwdns12066:0crwdne12066:0
     style:
-      background-image: crwdns11870:0crwdne11870:0
-      background-position: crwdns11872:0crwdne11872:0
-      background-size: crwdns11874:0crwdne11874:0
+      background-image: crwdns12068:0crwdne12068:0
+      background-position: crwdns12070:0crwdne12070:0
+      background-size: crwdns12072:0crwdne12072:0
     title: |
-      crwdns11876:0crwdne11876:0
+      crwdns12074:0crwdne12074:0
     text: |
-      crwdns11878:0crwdne11878:0
+      crwdns12076:0crwdne12076:0
     button1st:
-      title: crwdns11880:0crwdne11880:0
-      url: crwdns11882:0crwdne11882:0
+      title: crwdns12078:0crwdne12078:0
+      url: crwdns12080:0crwdne12080:0
     button2nd:
-      title: crwdns11884:0crwdne11884:0
-      url: crwdns11886:0crwdne11886:0
-      target: crwdns11888:0crwdne11888:0
+      title: crwdns12082:0crwdne12082:0
+      url: crwdns12084:0crwdne12084:0
+      target: crwdns12086:0crwdne12086:0
   - 
     class:
-      - crwdns11890:0crwdne11890:0
-      - crwdns11892:0crwdne11892:0
+      - crwdns12088:0crwdne12088:0
+      - crwdns12090:0crwdne12090:0
     style:
-      background-image: crwdns11894:0crwdne11894:0
-      background-position: crwdns11896:0crwdne11896:0
-      background-size: crwdns11898:0crwdne11898:0
+      background-image: crwdns12092:0crwdne12092:0
+      background-position: crwdns12094:0crwdne12094:0
+      background-size: crwdns12096:0crwdne12096:0
     text: |
-      crwdns11900:0{ .img-fluid }crwdne11900:0
+      crwdns12098:0{ .img-fluid }crwdne12098:0
   - 
     class:
-      - crwdns11902:0crwdne11902:0
-      - crwdns11904:0crwdne11904:0
-      - crwdns11906:0crwdne11906:0
+      - crwdns12100:0crwdne12100:0
+      - crwdns12102:0crwdne12102:0
+      - crwdns12104:0crwdne12104:0
     style:
-      background-image: crwdns11908:0crwdne11908:0
-      background-position: crwdns11910:0crwdne11910:0
-      background-size: crwdns11912:0crwdne11912:0
-    label: crwdns11914:0crwdne11914:0
+      background-image: crwdns12106:0crwdne12106:0
+      background-position: crwdns12108:0crwdne12108:0
+      background-size: crwdns12110:0crwdne12110:0
+    label: crwdns12112:0crwdne12112:0
     title: |
-      crwdns11916:0crwdne11916:0
+      crwdns12114:0crwdne12114:0
     text: |
-      crwdns11918:0crwdne11918:0
+      crwdns12116:0crwdne12116:0
     button1st:
-      title: crwdns11920:0crwdne11920:0
-      url: crwdns11922:0crwdne11922:0
+      title: crwdns12118:0crwdne12118:0
+      url: crwdns12120:0crwdne12120:0
   - 
     class:
-      - crwdns11924:0crwdne11924:0
-      - crwdns11926:0crwdne11926:0
+      - crwdns12122:0crwdne12122:0
+      - crwdns12124:0crwdne12124:0
     style:
-      background-image: crwdns11928:0crwdne11928:0
-      background-position: crwdns11930:0crwdne11930:0
-      background-size: crwdns11932:0crwdne11932:0
+      background-image: crwdns12126:0crwdne12126:0
+      background-position: crwdns12128:0crwdne12128:0
+      background-size: crwdns12130:0crwdne12130:0
     text: |
-      crwdns11934:0{ .img-fluid }crwdne11934:0
+      crwdns12132:0{ .img-fluid }crwdne12132:0
   - 
     class:
-      - crwdns11936:0crwdne11936:0
-      - crwdns11938:0crwdne11938:0
-      - crwdns11940:0crwdne11940:0
-      - crwdns11942:0crwdne11942:0
+      - crwdns12134:0crwdne12134:0
+      - crwdns12136:0crwdne12136:0
+      - crwdns12138:0crwdne12138:0
+      - crwdns12140:0crwdne12140:0
     style:
-      background-image: crwdns11944:0crwdne11944:0
-      background-position: crwdns11946:0crwdne11946:0
-      background-size: crwdns11948:0crwdne11948:0
-    label: crwdns11950:0crwdne11950:0
+      background-image: crwdns12142:0crwdne12142:0
+      background-position: crwdns12144:0crwdne12144:0
+      background-size: crwdns12146:0crwdne12146:0
+    label: crwdns12148:0crwdne12148:0
     title: |
-      crwdns11952:0crwdne11952:0
+      crwdns12150:0crwdne12150:0
     text: |
-      crwdns11954:0crwdne11954:0
+      crwdns12152:0crwdne12152:0
     button1st:
-      title: crwdns11956:0crwdne11956:0
-      url: crwdns11958:0crwdne11958:0
+      title: crwdns12154:0crwdne12154:0
+      url: crwdns12156:0crwdne12156:0
   - 
-    id: crwdns11960:0crwdne11960:0
+    id: crwdns12158:0crwdne12158:0
     class:
-      - crwdns11962:0crwdne11962:0
+      - crwdns12160:0crwdne12160:0
     style:
-      background-color: 'crwdns11964:0crwdne11964:0'
-    label: crwdns11966:0crwdne11966:0
+      background-color: 'crwdns12162:0crwdne12162:0'
+    label: crwdns12164:0crwdne12164:0
     title: |
-      crwdns11968:0crwdne11968:0
+      crwdns12166:0crwdne12166:0
     text: |
-      crwdns11970:0crwdne11970:0
+      crwdns12168:0crwdne12168:0
     button1st:
-      title: crwdns11972:0crwdne11972:0
-      url: crwdns11974:0crwdne11974:0
+      title: crwdns12170:0crwdne12170:0
+      url: crwdns12172:0crwdne12172:0
   - 
-    id: crwdns11976:0crwdne11976:0
+    id: crwdns12174:0crwdne12174:0
     class:
-      - crwdns11978:0crwdne11978:0
+      - crwdns12176:0crwdne12176:0
     style:
-      background-color: 'crwdns11980:0crwdne11980:0'
-      border-left: 'crwdns11982:0crwdne11982:0'
-    label: crwdns11984:0crwdne11984:0
+      background-color: 'crwdns12178:0crwdne12178:0'
+      border-left: 'crwdns12180:0crwdne12180:0'
+    label: crwdns12182:0crwdne12182:0
     title: |
-      crwdns11986:0crwdne11986:0
+      crwdns12184:0crwdne12184:0
     text: |
-      crwdns11988:0[Partners]crwdnd11988:0{ .w-100 }crwdne11988:0
+      crwdns12186:0[Partners]crwdnd12186:0{ .w-100 }crwdne12186:0
