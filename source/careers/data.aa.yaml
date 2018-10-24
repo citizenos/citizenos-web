@@ -1,0 +1,24 @@
+---
+path: crwdns11202:0crwdne11202:0
+title: crwdns11204:0crwdne11204:0
+blocks:
+  - 
+    style:
+      background: 'crwdns11206:0crwdne11206:0'
+  - 
+    id: crwdns11208:0crwdne11208:0
+    label: crwdns11210:0crwdne11210:0
+    title: |
+      crwdns11212:0crwdne11212:0
+    text: |
+      crwdns11214:0[citizenvoice.ng]crwdne11214:0
+  - 
+    id: crwdns11216:0crwdne11216:0
+    class:
+      - crwdns11218:0crwdne11218:0
+      - crwdns11220:0crwdne11220:0
+    label: crwdns11222:0crwdne11222:0
+    title: |
+      crwdns11224:0crwdne11224:0
+    text: |
+      crwdns11226:0{ .close-career .arrow-left .mb-5 }crwdnd11226:0[citizenvoice.ng]crwdne11226:0
