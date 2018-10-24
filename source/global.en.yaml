@@ -25,7 +25,6 @@ languages:
     lv: Latviešu
     ru: Pусский
 selectLanguage: Languages
-
 platformLink:
         title: Start using
         url: https://app.citizenos.com

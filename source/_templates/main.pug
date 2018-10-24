@@ -28,6 +28,12 @@ html(lang=self.locale)
             function gtag(){dataLayer.push(arguments);}
             gtag('js', new Date());
             gtag('config', 'UA-67049149-2');
+
+        if self.locale === 'aa'
+            script.
+                var _jipt = [];
+                _jipt.push(['project', 'citizenos-web']);
+            script(src='//cdn.crowdin.com/jipt/jipt.js')
     body
         include navigation.pug
 
