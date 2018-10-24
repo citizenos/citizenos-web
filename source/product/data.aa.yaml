@@ -1,0 +1,227 @@
+---
+path: crwdns11410:0crwdne11410:0
+title: crwdns11412:0crwdne11412:0
+blocks:
+  - 
+    class:
+      - crwdns11414:0crwdne11414:0
+      - crwdns11416:0crwdne11416:0
+    style:
+      background-color: 'crwdns11418:0crwdne11418:0'
+      background-image: crwdns11420:0crwdne11420:0
+      background-position: crwdns11422:0crwdne11422:0
+      background-size: crwdns11424:0crwdne11424:0
+  - 
+    class:
+      - crwdns11426:0crwdne11426:0
+      - crwdns11428:0crwdne11428:0
+    style:
+      padding-top: crwdns11430:0crwdne11430:0
+      padding-bottom: crwdns11432:0crwdne11432:0
+      background-color: 'crwdns11434:0crwdne11434:0'
+      background-image: crwdns11436:0crwdne11436:0
+      background-position: crwdns11438:0crwdne11438:0
+      background-size: crwdns11440:0crwdne11440:0
+    title: |
+      crwdns11442:0crwdne11442:0
+    text: |
+      crwdns11444:0{ .arrow }crwdne11444:0
+    button1st:
+      title: crwdns11446:0crwdne11446:0
+      url: crwdns11448:0crwdne11448:0
+      target: crwdns11450:0crwdne11450:0
+  - 
+    id: crwdns11452:0crwdne11452:0
+    class:
+      - crwdns11454:0crwdne11454:0
+      - crwdns11456:0crwdne11456:0
+    style:
+      background-color: 'crwdns11458:0crwdne11458:0'
+      background-image: crwdns11460:0crwdne11460:0
+      background-position: crwdns11462:0crwdne11462:0
+      background-size: crwdns11464:0crwdne11464:0
+    text: |
+      crwdns11466:0{ .img-fluid .box-shadow }crwdne11466:0
+  - 
+    id: crwdns11468:0crwdne11468:0
+    class:
+      - crwdns11470:0crwdne11470:0
+      - crwdns11472:0crwdne11472:0
+    style:
+      background: 'crwdns11474:0crwdne11474:0'
+    label: crwdns11476:0crwdne11476:0
+    title: |
+      crwdns11478:0crwdne11478:0
+    text: |
+      crwdns11480:0{ .bullet }crwdnd11480:0{ .mt-5 }crwdnd11480:0{ .bullet }crwdnd11480:0{ .mt-5 }crwdnd11480:0{ .bullet }crwdne11480:0
+  - 
+    id: crwdns11482:0crwdne11482:0
+    style:
+      padding-top: crwdns11484:0crwdne11484:0
+      padding-bottom: crwdns11486:0crwdne11486:0
+      background-image: crwdns11488:0crwdne11488:0
+      background-position: crwdns11490:0crwdne11490:0
+      background-size: crwdns11492:0crwdne11492:0
+    class:
+      - crwdns11494:0crwdne11494:0
+      - crwdns11496:0crwdne11496:0
+  - 
+    id: crwdns11498:0crwdne11498:0
+    class:
+      - crwdns11500:0crwdne11500:0
+      - crwdns11502:0crwdne11502:0
+    style:
+      padding-top: crwdns11504:0crwdne11504:0
+      padding-bottom: crwdns11506:0crwdne11506:0
+      background-image: crwdns11508:0crwdne11508:0
+      background-position: crwdns11510:0crwdne11510:0
+      background-size: crwdns11512:0crwdne11512:0
+    label: crwdns11514:0crwdne11514:0
+    text: |
+      crwdns11516:0{ #carousel-text }crwdne11516:0
+  - 
+    id: crwdns11518:0crwdne11518:0
+    class:
+      - crwdns11520:0crwdne11520:0
+      - crwdns11522:0crwdne11522:0
+      - crwdns11524:0crwdne11524:0
+      - crwdns11526:0crwdne11526:0
+    style:
+      background: 'crwdns11528:0crwdne11528:0'
+    label: crwdns11530:0crwdne11530:0
+    title: |
+      crwdns11532:0crwdne11532:0
+  - 
+    id: crwdns11534:0crwdne11534:0
+    class:
+      - crwdns11536:0crwdne11536:0
+      - crwdns11538:0crwdne11538:0
+    text: |
+      crwdns11540:0{ .img-fluid .box-shadow }crwdne11540:0
+  - 
+    id: crwdns11542:0crwdne11542:0
+    class:
+      - crwdns11544:0crwdne11544:0
+      - crwdns11546:0crwdne11546:0
+    style:
+      background-image: crwdns11548:0crwdne11548:0
+      background-position: crwdns11550:0crwdne11550:0
+      background-size: crwdns11552:0crwdne11552:0
+    label: crwdns11554:0crwdne11554:0
+    title: |
+      crwdns11556:0crwdne11556:0
+    text: |
+      crwdns11558:0[www.rahvaalgatus.ee]crwdne11558:0
+  - 
+    id: crwdns11560:0crwdne11560:0
+    class:
+      - crwdns11562:0crwdne11562:0
+      - crwdns11564:0crwdne11564:0
+    text: |
+      crwdns11566:0{ .img-fluid .box-shadow }crwdne11566:0
+  - 
+    class:
+      - crwdns11568:0crwdne11568:0
+      - crwdns11570:0crwdne11570:0
+    style:
+      background-image: crwdns11572:0crwdne11572:0
+      background-position: crwdns11574:0crwdne11574:0
+      background-size: crwdns11576:0crwdne11576:0
+    label: crwdns11578:0crwdne11578:0
+    title: |
+      crwdns11580:0crwdne11580:0
+    text: |
+      crwdns11582:0crwdne11582:0
+  - 
+    id: crwdns11584:0crwdne11584:0
+    class:
+      - crwdns11586:0crwdne11586:0
+      - crwdns11588:0crwdne11588:0
+    style:
+      background: 'crwdns11590:0crwdne11590:0'
+      padding-top: crwdns11592:0crwdne11592:0
+      padding-bottom: crwdns11594:0crwdne11594:0
+      background-image: crwdns11596:0crwdne11596:0
+      background-size: crwdns11598:0crwdne11598:0
+    title: |
+      crwdns11600:0crwdne11600:0
+    button1st:
+      title: crwdns11602:0crwdne11602:0
+      url: crwdns11604:0crwdne11604:0
+      target: crwdns11606:0crwdne11606:0
+howBlocks:
+  - 
+    poster: crwdns11608:0crwdne11608:0
+    mp4: crwdns11610:0crwdne11610:0
+    webm: crwdns11612:0crwdne11612:0
+    text: |
+      crwdns11614:0crwdne11614:0
+  - 
+    poster: crwdns11616:0crwdne11616:0
+    mp4: crwdns11618:0crwdne11618:0
+    webm: crwdns11620:0crwdne11620:0
+    text: |
+      crwdns11622:0crwdne11622:0
+  - 
+    poster: crwdns11624:0crwdne11624:0
+    mp4: crwdns11626:0crwdne11626:0
+    webm: crwdns11628:0crwdne11628:0
+    text: |
+      crwdns11630:0crwdne11630:0
+  - 
+    poster: crwdns11632:0crwdne11632:0
+    mp4: crwdns11634:0crwdne11634:0
+    webm: crwdns11636:0crwdne11636:0
+    text: |
+      crwdns11638:0crwdne11638:0
+  - 
+    poster: crwdns11640:0crwdne11640:0
+    mp4: crwdns11642:0crwdne11642:0
+    webm: crwdns11644:0crwdne11644:0
+    text: |
+      crwdns11646:0crwdne11646:0
+  - 
+    poster: crwdns11648:0crwdne11648:0
+    mp4: crwdns11650:0crwdne11650:0
+    webm: crwdns11652:0crwdne11652:0
+    text: |
+      crwdns11654:0crwdne11654:0
+statsBlocks:
+  - 
+    title: crwdns11656:0crwdne11656:0
+    value: 0
+  - 
+    title: crwdns11660:0crwdne11660:0
+    value: 0
+  - 
+    title: crwdns11664:0crwdne11664:0
+    value: 0
+  - 
+    title: crwdns11668:0crwdne11668:0
+    value: 0
+optionBlocks:
+  - 
+    title: crwdns11672:0crwdne11672:0
+    text: |
+      crwdns11674:0crwdne11674:0
+    subtext: crwdns11676:0crwdne11676:0
+    button:
+      title: crwdns11678:0crwdne11678:0
+      url: crwdns11680:0crwdne11680:0
+      target: crwdns11682:0crwdne11682:0
+  - 
+    title: crwdns11684:0crwdne11684:0
+    text: |
+      crwdns11686:0crwdne11686:0
+    subtext: crwdns11688:0crwdne11688:0
+    button:
+      title: crwdns11690:0crwdne11690:0
+      url: crwdns11692:0crwdne11692:0
+  - 
+    title: crwdns11694:0crwdne11694:0
+    text: |
+      crwdns11696:0crwdne11696:0
+    subtext: crwdns11698:0crwdne11698:0
+    button:
+      title: crwdns11700:0crwdne11700:0
+      url: crwdns11702:0crwdne11702:0
