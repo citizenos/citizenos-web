@@ -8,7 +8,7 @@
   },
   "scripts": {
     "build": "node ./node_modules/entu-ssg/build.js entu-ssg.yaml",
-    "start": "pushd ./build; python -m SimpleHTTPServer; popd"
+    "start": "cd ./build; python -m SimpleHTTPServer; cd .."
   },
   "repository": {
     "type": "git",
