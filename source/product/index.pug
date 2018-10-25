@@ -140,11 +140,29 @@ append script
             })
             $('#how-carousel').trigger('slid.bs.carousel')
 
-            $.getJSON('https://api.citizenos.com/api/stats', function (data) {
-                $('.stats-value').each(function () {
-                    const id = $(this).data('id')
-                    const value = data.data[id]
-                    $(this).html(value.toLocaleString('#{ self.locale }'))
-                })
+            $(window).on('resize scroll', function () {
+                var elementTop = $('#stats').offset().top
+                var elementBottom = elementTop + $('#stats').outerHeight()
+                var viewportTop = $(window).scrollTop()
+                var viewportBottom = viewportTop + $(window).height()
+
+                if (elementBottom > viewportTop && elementTop < viewportBottom) {
+                    $.getJSON('https://api.citizenos.com/api/stats', function (data) {
+                        $('.stats-value').each(function () {
+                            var id = $(this).data('id')
+                            var value = data.data[id]
+
+                            $(this).prop('Counter',0).animate({
+                                Counter: value
+                            }, {
+                                duration: 3000,
+                                easing: 'swing',
+                                step: function (now) {
+                                    $(this).text(Math.ceil(now).toLocaleString('#{ self.locale }'))
+                                }
+                            })
+                        })
+                    })
+                }
             })
         })
