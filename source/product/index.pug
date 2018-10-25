@@ -75,7 +75,7 @@ append content
             each b in self.statsBlocks
                 .stats-block.col-12.col-sm-3.text-center
                     h4
-                        span.stats-value.d-block.mb-2(data-value=b.value)
+                        span.stats-value.d-block.mb-2(data-id=b.id)
                         = b.title
 
     #how-carousel.carousel.slide.carousel-fade(data-ride='false')
@@ -123,10 +123,6 @@ append script
             $('#options .block-text').append($('#option-blocks').html())
             $('#option-blocks').remove()
 
-            $('.stats-value').each(function () {
-                $(this).html($(this).data('value').toLocaleString('#{ self.locale }'))
-            })
-
             $('#stats').removeClass('col-sm-6')
             $('#stats .block-text h2').after($('#stats-blocks').html())
             $('#stats-blocks').remove()
@@ -143,4 +139,12 @@ append script
                 $('#carousel-text').html($('#carousel-text-' + id).html())
             })
             $('#how-carousel').trigger('slid.bs.carousel')
+
+            $.getJSON('https://api.citizenos.com/api/stats', function (data) {
+                $('.stats-value').each(function () {
+                    const id = $(this).data('id')
+                    const value = data.data[id]
+                    $(this).html(value.toLocaleString('#{ self.locale }'))
+                })
+            })
         })

@@ -230,20 +230,20 @@ howBlocks:
 
 statsBlocks:
     -
+        id: topicsCreated
         title: discussions
-        value: 1260
 
     -
+        id: votesCast
         title: votes collected
-        value: 62107
 
     -
+        id: groupsCreated
         title: groups have joined
-        value: 153
 
     -
+        id: usersCreated
         title: platform users
-        value: 34077
 
 optionBlocks:
     -
