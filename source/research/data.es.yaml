@@ -22,13 +22,9 @@ blocks:
       background-position: 90% 10%, 7% 25%
       background-size: 45px 45px, 65px 65px
     title: |
-      Relying on **science and data**.
+      Relying on **science and data**
     text: |
-      We work with researchers and gather data to better understand the effects of participatory democracy. If your interests lie in the areas of e-democracy, political theory and decision-making, we would love to hear from you!
-      
-      Please contact us, if we could benefit from mutual collaboration. Contact us: margo@citizenos.com
-      
-      Research associate Kadi Maria Vooglaid has consulted us on involvement in policymaking, the theories behind political decision-making and different voting systems.
+      We work with researchers and gather data to better understand the effects of participatory democracy. If your interests lie in the areas of e-democracy, political theory and decision-making, please contact us if we could benefit from mutual collaboration. Contact us: margo@citizenos.com
     button1st:
       title: Read our blog articles
       url: https://medium.com/citizenos
@@ -57,6 +53,8 @@ blocks:
       Data collection & cooperations
     text: |
       All data we collect is anonymized and can be used to advance our mission. We also work with involvement specialists working with governments to exchange information.
+      
+      Research associate Kadi Maria Vooglaid has consulted us on involvement in policymaking, the theories behind political decision-making and different voting systems.
   - 
     id: research-video-img
     class:
