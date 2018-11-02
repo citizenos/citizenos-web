@@ -2,17 +2,10 @@
 header:
   title: crwdns12006:0crwdne12006:0
   text: |
-    crwdns12008:0crwdne12008:0
+    crwdns12202:0crwdne12202:0
   play:
     title: crwdns12010:0crwdne12010:0
     url: 'crwdns12012:0crwdne12012:0'
-  whatIs:
-    title: crwdns12014:0crwdne12014:0
-    url: crwdns12016:0crwdne12016:0
-  startUsing:
-    title: crwdns12018:0crwdne12018:0
-    url: crwdns12020:0crwdne12020:0
-    target: crwdns12022:0crwdne12022:0
 news:
   more: crwdns12024:0crwdne12024:0
 blocks:
@@ -61,7 +54,7 @@ blocks:
       title: crwdns12078:0crwdne12078:0
       url: crwdns12080:0crwdne12080:0
     button2nd:
-      title: crwdns12082:0crwdne12082:0
+      title: crwdns12204:0crwdne12204:0
       url: crwdns12084:0crwdne12084:0
       target: crwdns12086:0crwdne12086:0
   - 
@@ -113,9 +106,9 @@ blocks:
       background-size: crwdns12146:0crwdne12146:0
     label: crwdns12148:0crwdne12148:0
     title: |
-      crwdns12150:0crwdne12150:0
+      crwdns12206:0crwdne12206:0
     text: |
-      crwdns12152:0crwdne12152:0
+      crwdns12208:0crwdne12208:0
     button1st:
       title: crwdns12154:0crwdne12154:0
       url: crwdns12156:0crwdne12156:0
@@ -127,9 +120,9 @@ blocks:
       background-color: 'crwdns12162:0crwdne12162:0'
     label: crwdns12164:0crwdne12164:0
     title: |
-      crwdns12166:0crwdne12166:0
+      crwdns12210:0crwdne12210:0
     text: |
-      crwdns12168:0crwdne12168:0
+      crwdns12212:0crwdne12212:0
     button1st:
       title: crwdns12170:0crwdne12170:0
       url: crwdns12172:0crwdne12172:0
