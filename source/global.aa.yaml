@@ -25,11 +25,11 @@ languages:
   ru: crwdns11300:0crwdne11300:0
 selectLanguage: crwdns11302:0crwdne11302:0
 platformLink:
-  title: crwdns11304:0crwdne11304:0
+  title: crwdns12214:0crwdne12214:0
   url: crwdns11306:0crwdne11306:0
 mobileMenu: crwdns11308:0crwdne11308:0
 footer:
-  text: crwdns11310:0crwdne11310:0
+  text: crwdns12216:0crwdne12216:0
   navigation:
     - |
       crwdns11312:0[Company]crwdnd11312:0[Careers]crwdnd11312:0[Contribute]crwdnd11312:0[Team]crwdnd11312:0[Contact]crwdne11312:0
