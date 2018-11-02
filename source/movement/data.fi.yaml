@@ -56,7 +56,7 @@ blocks:
                                       5rem background-image:
                                         url(/assets/images/bubble-orange.svg), url(/assets/images/movement-awareness.jpg) background-size:
                                           164px 164px, cover background-position:
-                                            "10% 10%, center center label":
+                                            "10% 10% label":
                                               Raising awareness title:
                                                 | Together we can advance online participatory democracy. text:
                                                   | To create a better future, we need the opinions of many different people. It is important to let the decision-makers know about our actual needs. The Citizen OS platform can be used by large groups of people to jointly come together and change things. button1st:
