@@ -73,11 +73,11 @@ blocks:
         class:
             - order-4
         style:
-            padding-top: 5rem
-            padding-bottom: 5rem
+            padding-top: 4rem
+            padding-bottom: 4rem
             background-image: url(/assets/images/bubble-orange.svg), url(/assets/images/movement-awareness.jpg)
             background-size: 164px 164px, cover
-            background-position: 10% 10%, center center
+            background-position: 10% 10%
         label: Raising awareness
         title: |
             Together we can advance online participatory democracy.
