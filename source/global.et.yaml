@@ -25,11 +25,11 @@ languages:
   ru: Pусский
 selectLanguage: Languages
 platformLink:
-  title: Start using
+  title: Use platform
   url: https://app.citizenos.com/et/
 mobileMenu: MENU
 footer:
-  text: Citizen OS is a social enterprise.
+  text: Citizen OS is an open source social enterprise.
   navigation:
     - |
       ## About
