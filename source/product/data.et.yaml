@@ -234,13 +234,13 @@ statsBlocks:
     title: discussions
   - 
     id: votesCast
-    title: votes collected
+    title: votes
   - 
     id: groupsCreated
-    title: groups have joined
+    title: groups
   - 
     id: usersCreated
-    title: platform users
+    title: users
 optionBlocks:
   - 
     title: Free platform
