@@ -19,6 +19,7 @@ append stylus
                 font-weight bold
 
                 span
+                    margin-top 10px
                     font-size 46px
 
         .block
@@ -75,8 +76,8 @@ append content
             each b in self.statsBlocks
                 .stats-block.col-12.col-sm-3.text-center
                     h4
-                        span.stats-value.d-block.mb-2(data-id=b.id)
                         = b.title
+                        span.stats-value.d-block.mb-2(data-id=b.id)
 
     #how-carousel.carousel.slide.carousel-fade(data-ride='false')
         ol.carousel-indicators
