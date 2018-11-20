@@ -31,33 +31,48 @@ mobileMenu: MENU
 footer:
   text: Citizen OS is an open source social enterprise.
   navigation:
-    - |
-      ## About
-      
-      [Company](/company)
-      
-      [Careers](/careers)
-      
-      [Contribute](/contribute)
-      
-      [Team](/team)
-      
-      [Contact](/contact)
-    - |
-      ## Community
-      
-      [Blog](https://medium.com/citizenos)
-      
-      [Twitter](https://twitter.com/Citizen_OS)
-      
-      [Facebook](https://www.facebook.com/citizenos.web)
-    - |
-      ## Support
-      
-      [FAQ](#)
-      
-      [Guides](#)
-      
-      [Legal](#)
-      
-      [Github](https://github.com/citizenos)
+    - 
+      title: About
+      links:
+        - 
+          title: Company
+          url: /company
+        - 
+          title: Careers
+          url: /careers
+        - 
+          title: Contribute
+          url: /contribute
+        - 
+          title: Team
+          url: /team
+        - 
+          title: Contact
+          url: /contact
+    - 
+      title: Community
+      links:
+        - 
+          title: Blog
+          url: https://medium.com/citizenos
+        - 
+          title: Twitter
+          url: https://twitter.com/Citizen_OS
+        - 
+          title: Facebook
+          url: https://www.facebook.com/citizenos.web
+    - 
+      title: Support
+      links:
+        - 
+          title: FAQ
+          url: ''
+        - 
+          title: Guides
+          url: ''
+        - 
+          title: Legal
+          url: ''
+        - 
+          title: Github
+          url: https://github.com/citizenos
