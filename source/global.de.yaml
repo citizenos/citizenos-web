@@ -25,39 +25,54 @@ languages:
   ru: Pусский
 selectLanguage: Languages
 platformLink:
-  title: Start using
+  title: Use platform
   url: https://app.citizenos.com/de/
 mobileMenu: MENU
 footer:
-  text: Citizen OS is a social enterprise.
+  text: Citizen OS is an open source social enterprise.
   navigation:
-    - |
-      ## About
-      
-      [Company](/company)
-      
-      [Careers](/careers)
-      
-      [Contribute](/contribute)
-      
-      [Team](/team)
-      
-      [Contact](/contact)
-    - |
-      ## Community
-      
-      [Blog](https://medium.com/citizenos)
-      
-      [Twitter](https://twitter.com/Citizen_OS)
-      
-      [Facebook](https://www.facebook.com/citizenos.web)
-    - |
-      ## Support
-      
-      [FAQ](#)
-      
-      [Guides](#)
-      
-      [Legal](#)
-      
-      [Github](https://github.com/citizenos)
+    - 
+      title: About
+      links:
+        - 
+          title: Company
+          url: /company
+        - 
+          title: Careers
+          url: /careers
+        - 
+          title: Contribute
+          url: /contribute
+        - 
+          title: Team
+          url: /team
+        - 
+          title: Contact
+          url: /contact
+    - 
+      title: Community
+      links:
+        - 
+          title: Blog
+          url: https://medium.com/citizenos
+        - 
+          title: Twitter
+          url: https://twitter.com/Citizen_OS
+        - 
+          title: Facebook
+          url: https://www.facebook.com/citizenos.web
+    - 
+      title: Support
+      links:
+        - 
+          title: FAQ
+          url: ''
+        - 
+          title: Guides
+          url: https://app.citizenos.com/en/topics/c6b6d06a-e8cf-4297-9654-8c1cf01b133b
+        - 
+          title: Legal
+          url: https://app.citizenos.com/en/topics/7abdd244-d45b-40d3-997c-a6290d4e972c
+        - 
+          title: Github
+          url: https://github.com/citizenos

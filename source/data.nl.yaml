@@ -2,17 +2,10 @@
 header:
   title: Let’s decide together!
   text: |
-    Hello! We are an open source social enterprise helping someone like you change their communities.
+    Citizen OS is an open source social enterprise helping someone like you bring about change.
   play:
     title: Play video
     url: '#'
-  whatIs:
-    title: What is Citizen OS
-    url: /product
-  startUsing:
-    title: Start using - it’s free!
-    url: https://app.citizenos.com
-    target: _blank
 news:
   more: Read more
 blocks:
@@ -61,7 +54,7 @@ blocks:
       title: Read more
       url: /movement
     button2nd:
-      title: Start using - it’s free!
+      title: Use platform - it’s free!
       url: https://app.citizenos.com
       target: _blank
   - 
@@ -117,11 +110,11 @@ blocks:
       background-size: 360px 360px
     label: Our Product
     title: |
-      Everyone can use Citizen OS **free of charge.**
+      Use Citizen OS **free of charge.**
     text: |
-      Everybody should have the tools to express themselves and raise their voices. The Citizen OS platform allows members of communities to raise issues, discuss and vote for solutions.
+      The Citizen OS platform allows everyone to raise issues, discuss and vote for solutions.
       
-      Use the Citizen OS platform for free on our website.
+      Use for free on our platform.
       For API integration, [contact us for a quote](/contact).
     button1st:
       title: Learn about our product
@@ -134,9 +127,9 @@ blocks:
       background-color: '#F7F7F7'
     label: A word from the team
     title: |
-      **We are here to do good** in the long run.
+      You and I are changing the world.
     text: |
-      We truly believe that You and I are changing the world. Everyone, who contributes to Citizen OS is driven by the idea of participatory democracy empowering people around the world. That is why we help and provide the tools so that voices can be heard. There are many ways to contribute, join us!
+      Everyone who contributes to Citizen OS is driven by the idea of participatory democracy empowering people around the world. There are many ways to contribute, join us!
     button1st:
       title: Contribute to the cause
       url: /contribute

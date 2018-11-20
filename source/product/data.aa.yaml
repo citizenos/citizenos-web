@@ -22,9 +22,9 @@ blocks:
       background-position: crwdns11438:0crwdne11438:0
       background-size: crwdns11440:0crwdne11440:0
     title: |
-      crwdns11442:0crwdne11442:0
+      crwdns12222:0crwdne12222:0
     text: |
-      crwdns11444:0{ .arrow }crwdne11444:0
+      crwdns12410:0{ .arrow }crwdne12410:0
     button1st:
       title: crwdns11446:0crwdne11446:0
       url: crwdns11448:0crwdne11448:0
@@ -52,7 +52,7 @@ blocks:
     title: |
       crwdns11478:0crwdne11478:0
     text: |
-      crwdns11480:0{ .bullet }crwdnd11480:0{ .mt-5 }crwdnd11480:0{ .bullet }crwdnd11480:0{ .mt-5 }crwdnd11480:0{ .bullet }crwdne11480:0
+      crwdns12226:0{ .bullet }crwdnd12226:0{ .mt-5 }crwdnd12226:0{ .bullet }crwdnd12226:0{ .mt-5 }crwdnd12226:0{ .bullet }crwdne12226:0
   - 
     id: crwdns11482:0crwdne11482:0
     style:
@@ -110,7 +110,7 @@ blocks:
     title: |
       crwdns11556:0crwdne11556:0
     text: |
-      crwdns11558:0[www.rahvaalgatus.ee]crwdne11558:0
+      crwdns12228:0[www.rahvaalgatus.ee]crwdne12228:0
   - 
     id: crwdns11560:0crwdne11560:0
     class:
@@ -145,7 +145,7 @@ blocks:
     title: |
       crwdns11600:0crwdne11600:0
     button1st:
-      title: crwdns11602:0crwdne11602:0
+      title: crwdns12230:0crwdne12230:0
       url: crwdns11604:0crwdne11604:0
       target: crwdns11606:0crwdne11606:0
 howBlocks:
@@ -154,62 +154,68 @@ howBlocks:
     mp4: crwdns11610:0crwdne11610:0
     webm: crwdns11612:0crwdne11612:0
     text: |
-      crwdns11614:0crwdne11614:0
+      crwdns12232:0crwdne12232:0
+    button: crwdns12358:0crwdne12358:0
   - 
-    poster: crwdns11616:0crwdne11616:0
-    mp4: crwdns11618:0crwdne11618:0
-    webm: crwdns11620:0crwdne11620:0
+    poster: crwdns12360:0crwdne12360:0
+    mp4: crwdns12362:0crwdne12362:0
+    webm: crwdns12364:0crwdne12364:0
     text: |
-      crwdns11622:0crwdne11622:0
+      crwdns12366:0crwdne12366:0
+    button: crwdns12368:0crwdne12368:0
   - 
-    poster: crwdns11624:0crwdne11624:0
-    mp4: crwdns11626:0crwdne11626:0
-    webm: crwdns11628:0crwdne11628:0
+    poster: crwdns12370:0crwdne12370:0
+    mp4: crwdns12372:0crwdne12372:0
+    webm: crwdns12374:0crwdne12374:0
     text: |
-      crwdns11630:0crwdne11630:0
+      crwdns12376:0crwdne12376:0
+    button: crwdns12378:0crwdne12378:0
   - 
-    poster: crwdns11632:0crwdne11632:0
-    mp4: crwdns11634:0crwdne11634:0
-    webm: crwdns11636:0crwdne11636:0
+    poster: crwdns12380:0crwdne12380:0
+    mp4: crwdns12382:0crwdne12382:0
+    webm: crwdns12384:0crwdne12384:0
     text: |
-      crwdns11638:0crwdne11638:0
+      crwdns12386:0crwdne12386:0
+    button: crwdns12388:0crwdne12388:0
   - 
-    poster: crwdns11640:0crwdne11640:0
-    mp4: crwdns11642:0crwdne11642:0
-    webm: crwdns11644:0crwdne11644:0
+    poster: crwdns12390:0crwdne12390:0
+    mp4: crwdns12392:0crwdne12392:0
+    webm: crwdns12394:0crwdne12394:0
     text: |
-      crwdns11646:0crwdne11646:0
+      crwdns12396:0crwdne12396:0
+    button: crwdns12398:0crwdne12398:0
   - 
-    poster: crwdns11648:0crwdne11648:0
-    mp4: crwdns11650:0crwdne11650:0
-    webm: crwdns11652:0crwdne11652:0
+    poster: crwdns12400:0crwdne12400:0
+    mp4: crwdns12402:0crwdne12402:0
+    webm: crwdns12404:0crwdne12404:0
     text: |
-      crwdns11654:0crwdne11654:0
+      crwdns12406:0crwdne12406:0
+    button: crwdns12408:0crwdne12408:0
 statsBlocks:
   - 
+    id: crwdns12190:0crwdne12190:0
     title: crwdns11656:0crwdne11656:0
-    value: 0
   - 
-    title: crwdns11660:0crwdne11660:0
-    value: 0
+    id: crwdns12192:0crwdne12192:0
+    title: crwdns12412:0crwdne12412:0
   - 
-    title: crwdns11664:0crwdne11664:0
-    value: 0
+    id: crwdns12194:0crwdne12194:0
+    title: crwdns12414:0crwdne12414:0
   - 
-    title: crwdns11668:0crwdne11668:0
-    value: 0
+    id: crwdns12196:0crwdne12196:0
+    title: crwdns12416:0crwdne12416:0
 optionBlocks:
   - 
-    title: crwdns11672:0crwdne11672:0
+    title: crwdns12286:0crwdne12286:0
     text: |
       crwdns11674:0crwdne11674:0
     subtext: crwdns11676:0crwdne11676:0
     button:
-      title: crwdns11678:0crwdne11678:0
+      title: crwdns12288:0crwdne12288:0
       url: crwdns11680:0crwdne11680:0
       target: crwdns11682:0crwdne11682:0
   - 
-    title: crwdns11684:0crwdne11684:0
+    title: crwdns12290:0crwdne12290:0
     text: |
       crwdns11686:0crwdne11686:0
     subtext: crwdns11688:0crwdne11688:0
@@ -219,7 +225,7 @@ optionBlocks:
   - 
     title: crwdns11694:0crwdne11694:0
     text: |
-      crwdns11696:0crwdne11696:0
+      crwdns12292:0crwdne12292:0
     subtext: crwdns11698:0crwdne11698:0
     button:
       title: crwdns11700:0crwdne11700:0

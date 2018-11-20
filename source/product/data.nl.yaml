@@ -22,9 +22,19 @@ blocks:
       background-position: 10% 5%, 90% 90%
       background-size: 75px 75px, 65px 65px
     title: |
-      Citizen OS can be used for different purposes.
+      Use Citizen OS to bring about change.
     text: |
-      We provide a tool to help organisations share their decision-making process with a bigger audience. The Citizen OS platform can be used on all devices and is currently available in 8 languages.
+      The Citizen OS e-decisionmaking platform can be used for:
+      - Petitions.
+      - Online meetings.
+      - Gathering ideas.
+      
+      The Citizen OS platform allows everyone to raise issues, discuss and vote for solutions.
+      - Collect votes for a petition.
+      - Carry out meetings online. Everyone can leave their comments and vote at a time suitable for them.
+      - Share your decision-making process with a bigger audience.
+      
+      The Citizen OS platform can be used on all devices and is currently available in 8 languages: English, Estonian, Finnish, French, German, Russian, Spanish and Ukrainian.
       
       - [Platform features](#features)
       - [How does it work](#how)
@@ -68,10 +78,11 @@ blocks:
       - Discussion occures in a structured way.
       { .bullet }
       
-      ## Research & Development{ .mt-5 }
+      ## Security & Research{ .mt-5 }
       
       - Continuous development to keep up with new laws.
       - Better decisions are reached with a scientific approach.
+      - Safe encrypted data, secure platform in a cloud server.
       { .bullet }
   - 
     id: how-videos
@@ -130,7 +141,7 @@ blocks:
     title: |
       Communication between the people and the government of Estonia.
     text: |
-      In Estonia, The Citizen OS open source code was used to set up the citizen initiatives platform [www.rahvaalgatus.ee](https://www.rahvaalgatus.ee).
+      The Citizen OS open source code was used to set up the citizen initiatives platform [www.rahvaalgatus.ee](https://www.rahvaalgatus.ee) in Estonia.
       
       The Parliament processes appeals that have at least 1000 signatures. The Citizen OS platform is set up to receive digital signatures given with the Estonian National ID-card.
   - 
@@ -167,7 +178,7 @@ blocks:
     title: |
       Our online decision-making community is growing.
     button1st:
-      title: Start using - it's free!
+      title: Use platform - it's free!
       url: https://app.citizenos.com
       target: _blank
 howBlocks:
@@ -178,62 +189,70 @@ howBlocks:
     text: |
       ## Create documents – private or public.
       
-      Keep all project files in one place.
+      Documents can be private or public.
+      Keep all files in one place.
+      Browse existing topics or create a new one.
+    button: Form groups, send invites, set editing rights
   - 
     poster:
     mp4: /assets/videos/product-how-02.mp4
     webm: /assets/videos/product-how-02.webm
     text: |
       ## Form groups, invite members, set editing rights.
+    button: Edit documents with others at the same time
   - 
     poster:
     mp4: /assets/videos/product-how-03.mp4
     webm: /assets/videos/product-how-03.webm
     text: |
       ## Edit documents with others at the same time.
+    button: Discuss in a structured way
   - 
     poster:
     mp4: /assets/videos/product-how-04.mp4
     webm: /assets/videos/product-how-04.webm
     text: |
       ## Discuss in a structured way.
+    button: Vote. Delegate your vote. Set deadlines for voting
   - 
     poster:
     mp4: /assets/videos/product-how-05.mp4
     webm: /assets/videos/product-how-05.webm
     text: |
-      ## Custom wording for votes. Delegate vote. Deadlines for voting.
+      ## Custom voting. Delegate vote. Deadlines for voting.
+    button: Inform your group about the outcome
   - 
     poster:
     mp4: /assets/videos/product-how-06.mp4
     webm: /assets/videos/product-how-06.webm
     text: |
       ## Inform your group about the outcome.
+    button: Create documents – private or public
 statsBlocks:
   - 
+    id: topicsCreated
     title: discussions
-    value: 1260
   - 
-    title: votes collected
-    value: 62107
+    id: votesCast
+    title: votes
   - 
-    title: groups have joined
-    value: 153
+    id: groupsCreated
+    title: groups
   - 
-    title: platform users
-    value: 34077
+    id: usersCreated
+    title: users
 optionBlocks:
   - 
-    title: Start using now
+    title: Free platform
     text: |
       The Citizen OS platform is free for use on our website for everyone.
     subtext: Free for ever!
     button:
-      title: Start using
+      title: Use platform
       url: https://app.citizenos.com
       target: _blank
   - 
-    title: Citizen OS API
+    title: Integrate API
     text: |
       Use The Citizen OS API as a base to build an online decision-making platform with your own branding.
     subtext: Offer based
@@ -243,7 +262,7 @@ optionBlocks:
   - 
     title: Consult & integrate
     text: |
-      Let our team do all the work from consulting to working adaptation with your systems.
+      Let our team do all the work from consulting to a working adaptation with your systems.
     subtext: Offer based
     button:
       title: Contact us
