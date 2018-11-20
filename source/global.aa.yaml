@@ -31,9 +31,48 @@ mobileMenu: crwdns11308:0crwdne11308:0
 footer:
   text: crwdns12216:0crwdne12216:0
   navigation:
-    - |
-      crwdns11312:0[Company]crwdnd11312:0[Careers]crwdnd11312:0[Contribute]crwdnd11312:0[Team]crwdnd11312:0[Contact]crwdne11312:0
-    - |
-      crwdns11314:0[Blog]crwdnd11314:0[Twitter]crwdnd11314:0[Facebook]crwdne11314:0
-    - |
-      crwdns11316:0[FAQ]crwdnd11316:0[Guides]crwdnd11316:0[Legal]crwdnd11316:0[Github]crwdne11316:0
+    - 
+      title: crwdns14548:0crwdne14548:0
+      links:
+        - 
+          title: crwdns14550:0crwdne14550:0
+          url: crwdns14552:0crwdne14552:0
+        - 
+          title: crwdns14554:0crwdne14554:0
+          url: crwdns14556:0crwdne14556:0
+        - 
+          title: crwdns14558:0crwdne14558:0
+          url: crwdns14560:0crwdne14560:0
+        - 
+          title: crwdns14562:0crwdne14562:0
+          url: crwdns14564:0crwdne14564:0
+        - 
+          title: crwdns14566:0crwdne14566:0
+          url: crwdns14568:0crwdne14568:0
+    - 
+      title: crwdns14570:0crwdne14570:0
+      links:
+        - 
+          title: crwdns14572:0crwdne14572:0
+          url: crwdns14574:0crwdne14574:0
+        - 
+          title: crwdns14576:0crwdne14576:0
+          url: crwdns14578:0crwdne14578:0
+        - 
+          title: crwdns14580:0crwdne14580:0
+          url: crwdns14582:0crwdne14582:0
+    - 
+      title: crwdns14584:0crwdne14584:0
+      links:
+        - 
+          title: crwdns14586:0crwdne14586:0
+          url: 'crwdns14588:0crwdne14588:0'
+        - 
+          title: crwdns14590:0crwdne14590:0
+          url: 'crwdns14592:0crwdne14592:0'
+        - 
+          title: crwdns14594:0crwdne14594:0
+          url: 'crwdns14596:0crwdne14596:0'
+        - 
+          title: crwdns14598:0crwdne14598:0
+          url: crwdns14600:0crwdne14600:0
