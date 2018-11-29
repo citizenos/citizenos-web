@@ -2,7 +2,7 @@
 header:
   title: The Citizen OS platform lets you decide together!
   text: |
-    Citizen OS can be used for communication in a team or community.
+    Use Citizen OS for decision-making in a team or community.
 0:
   play:
     title: Play video
@@ -25,7 +25,7 @@ blocks:
     text: |
       { #news-items }
     button1st:
-      title: Explore more on our blog
+      title: Read blog
       url: https://medium.com/citizenos
   - 
     class:
@@ -50,7 +50,7 @@ blocks:
     title: |
       Citizen OS is **raising awareness** on participatory democracy.
     text: |
-      Our mission is to allow as many people as possible to collaboratively decide on topics that affect their well-being using an argumentative decision-making process. **We are a social enterprise**
+      The Citizen OS platform allows to collaboratively decide on topics using an argument-based decision-making process. **We are an open source social enterprise**
     button1st:
       title: Read more
       url: /movement
@@ -82,9 +82,9 @@ blocks:
       Collaborating with **scientists and researchers.**
     text: |
       As an organization, Citizen OS helps the general public in getting involved and getting their voices heard.
-      
+
       We invest in reseach and studies to help us understand better the needs of communities.
-      
+
       The Citizen OS conference is a bi-annual meeting for e-democracy researchers.
     button1st:
       title: Learn more about our research
@@ -114,7 +114,7 @@ blocks:
       Use Citizen OS **free of charge.**
     text: |
       The Citizen OS platform allows everyone to raise issues, discuss and vote for solutions.
-      
+
       Use for free on our platform.
       For API integration, [contact us for a quote](/contact).
     button1st:
