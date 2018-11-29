@@ -2,7 +2,7 @@
 header:
   title: crwdns14674:0crwdne14674:0
   text: |
-    crwdns14676:0crwdne14676:0
+    crwdns14682:0crwdne14682:0
 0:
   play:
     title: crwdns14678:0crwdne14678:0
@@ -25,7 +25,7 @@ blocks:
     text: |
       crwdns12042:0{ #news-items }crwdne12042:0
     button1st:
-      title: crwdns12044:0crwdne12044:0
+      title: crwdns14684:0crwdne14684:0
       url: crwdns12046:0crwdne12046:0
   - 
     class:
@@ -50,7 +50,7 @@ blocks:
     title: |
       crwdns12074:0crwdne12074:0
     text: |
-      crwdns12076:0crwdne12076:0
+      crwdns14686:0crwdne14686:0
     button1st:
       title: crwdns12078:0crwdne12078:0
       url: crwdns12080:0crwdne12080:0
