@@ -28,14 +28,14 @@ blocks:
       - Petitions.
       - Online meetings.
       - Gathering ideas.
-      
+
       The Citizen OS platform allows everyone to raise issues, discuss and vote for solutions.
       - Collect votes for a petition.
       - Carry out meetings online. Everyone can leave their comments and vote at a time suitable for them.
       - Share your decision-making process with a bigger audience.
-      
+
       The Citizen OS platform can be used on all devices and is currently available in 8 languages: English, Estonian, Finnish, French, German, Russian, Spanish and Ukrainian.
-      
+
       - [Platform features](#features)
       - [How does it work](#how)
       - [How much does it cost](#options)
@@ -71,15 +71,15 @@ blocks:
       - Project overview.
       - Voting deadlines.
       { .bullet }
-      
+
       ## Involvement{ .mt-5 }
-      
+
       - Ideas are collected bottom-up.
       - Discussion occures in a structured way.
       { .bullet }
-      
+
       ## Security & Research{ .mt-5 }
-      
+
       - Continuous development to keep up with new laws.
       - Better decisions are reached with a scientific approach.
       - Safe encrypted data, secure platform in a cloud server.
@@ -142,7 +142,7 @@ blocks:
       Communication between the people and the government of Estonia.
     text: |
       The Citizen OS open source code was used to set up the citizen initiatives platform [www.rahvaalgatus.ee](https://www.rahvaalgatus.ee) in Estonia.
-      
+
       The Parliament processes appeals that have at least 1000 signatures. The Citizen OS platform is set up to receive digital signatures given with the Estonian National ID-card.
   - 
     id: case-study-1-img
@@ -188,7 +188,7 @@ howBlocks:
     webm: /assets/videos/product-how-01.webm
     text: |
       ## Create documents – private or public.
-      
+
       Documents can be private or public.
       Keep all files in one place.
       Browse existing topics or create a new one.
