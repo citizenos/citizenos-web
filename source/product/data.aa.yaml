@@ -22,13 +22,9 @@ blocks:
       background-position: crwdns11438:0crwdne11438:0
       background-size: crwdns11440:0crwdne11440:0
     title: |
-      crwdns12222:0crwdne12222:0
+      crwdns14822:0crwdne14822:0
     text: |
-      crwdns12410:0{ .arrow }crwdne12410:0
-    button1st:
-      title: crwdns11446:0crwdne11446:0
-      url: crwdns11448:0crwdne11448:0
-      target: crwdns11450:0crwdne11450:0
+      crwdns14824:0{ .arrow }crwdne14824:0
   - 
     id: crwdns11452:0crwdne11452:0
     class:
