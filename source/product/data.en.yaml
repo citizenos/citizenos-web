@@ -63,7 +63,7 @@ blocks:
         title: |
             Clarity
         text: |
-            - Project overview.
+            - Overview of decision-making progress.
             - Voting deadlines.
             { .bullet }
 
@@ -71,12 +71,13 @@ blocks:
 
             - Ideas are collected bottom-up.
             - Discussion occures in a structured way.
+            - No upper limit on the number of participants.
             { .bullet }
 
             ## Security & Research{ .mt-5 }
 
             - Continuous development to keep up with new laws.
-            - Better decisions are reached with a scientific approach.
+            - Product development follows scientific approach.
             - Safe encrypted data, secure platform in a cloud server.
             { .bullet }
 
