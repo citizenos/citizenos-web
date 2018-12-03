@@ -24,17 +24,10 @@ blocks:
         title: |
             Use our platform for argument-based decision-making.
         text: |
-            The Citizen OS e-decisionmaking platform can be used for:
-            - Online meetings.
-            - Gathering ideas.
-            - Petitions
-
-            The Citizen OS platform allows everyone to raise issues, discuss and vote for solutions.
-            - Collect votes for a petition.
-            - Carry out meetings online. Everyone can leave their comments and vote at a time suitable for them.
-            - Share your decision-making process with a bigger audience.
-
-            The Citizen OS platform can be used on all devices and is currently available in 8 languages: English, Estonian, Finnish, French, German, Russian, Spanish and Ukrainian.
+            Manage discussions and votings.
+            Conduct online meetings.
+            Gather ideas.
+            Start petitions.
 
             - [Platform features](#features)
             - [How does it work](#how)
