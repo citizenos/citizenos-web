@@ -101,9 +101,9 @@ blocks:
       background-position: crwdns12144:0crwdne12144:0
       background-size: crwdns12146:0crwdne12146:0
     title: |
-      crwdns14802:0crwdne14802:0
+      crwdns14812:0crwdne14812:0
     text: |
-      crwdns14804:0crwdne14804:0
+      crwdns14814:0crwdne14814:0
     button1st:
       title: crwdns14806:0crwdne14806:0
       url: crwdns12156:0crwdne12156:0
@@ -113,13 +113,12 @@ blocks:
       - crwdns12160:0crwdne12160:0
     style:
       background-color: 'crwdns12162:0crwdne12162:0'
-    label: crwdns12164:0crwdne12164:0
     title: |
-      crwdns12210:0crwdne12210:0
+      crwdns14816:0crwdne14816:0
     text: |
-      crwdns12212:0crwdne12212:0
+      crwdns14818:0crwdne14818:0
     button1st:
-      title: crwdns12170:0crwdne12170:0
+      title: crwdns14820:0crwdne14820:0
       url: crwdns12172:0crwdne12172:0
   - 
     id: crwdns12174:0crwdne12174:0
