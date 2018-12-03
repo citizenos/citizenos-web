@@ -31,7 +31,7 @@ blocks:
 
             - [Get involved as an individual](#individual)
             - [Get involved as a group](#group)
-            - [Raising awareness](#awareness)
+            - [Contribute](#awareness)
             { .arrow }
         button1st:
             title: Sign up to news
@@ -56,17 +56,15 @@ blocks:
         class:
             - order-3
             - order-sm-3
-        label: As an individual
+#        label: As an individual
         title: |
             One person can make a difference.
         text: |
-            Participatory democracy is individual participation by citizens in decisions that affect their lives.
-
-            ### As a group{ #group .mt-5 }
+            Participatory democracy is individual participation in decisions that affect your life.
 
             ## But there’s definitely strength in numbers.
 
-            Governments are increasingly trusting citizens to help solve difficult social issues by crowdsourcing ideas, holding public discussions and votings.
+            Governments are increasingly trusting citizens to help solve difficult social issues.
     -
         id: awareness
         class:
@@ -77,7 +75,7 @@ blocks:
             background-image: url(/assets/images/bubble-orange.svg), url(/assets/images/movement-awareness.jpg)
             background-size: 164px 164px, cover
             background-position: 10% 10%
-        label: Raising awareness
+#        label: Raising awareness
         title: |
             Together we can advance online participatory democracy.
         text: |
