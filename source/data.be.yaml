@@ -48,9 +48,9 @@ blocks:
       background-position: 0 10%
       background-size: 122px 122px
     title: |
-      We raise awareness on **participatory democracy.**
+      Raising awareness on **participatory democracy.**
     text: |
-      We believe everyone should have a voice on topics that greatly affect their well-being.
+      We believe the way for us to move forward as a civilization is to bring democracy online.
     button1st:
       title: About movement
       url: /movement
@@ -75,7 +75,7 @@ blocks:
       background-position: 30% 25%
       background-size: 360px 360px
     title: |
-      We rely on **research and data.**
+      Relying on **research and data.**
     text: |
       We collaborate with e-democracy researchers to help develop our products.
     button1st:
@@ -102,9 +102,9 @@ blocks:
       background-position: 0% 25%
       background-size: 360px 360px
     title: |
-      Citizen OS is **open source.**
+      Developing **open source** software.
     text: |
-      Our platform is free to use for everyone.
+      We believe the tools for online participatory democracy should be free to use for everyone.
     button1st:
       title: About product
       url: /product
@@ -117,7 +117,7 @@ blocks:
     title: |
       Help us reach even more people.
     text: |
-      Whether you are a developer, translater, researcher or journalist, please consider joining us.
+      Whether you are a developer, translater, researcher or journalist, join us!
     button1st:
       title: Contribute
       url: /contribute
@@ -128,7 +128,6 @@ blocks:
     style:
       background-color: '#F7F7F7'
       border-left: '1px solid #E5E5E5'
-    label: We’re stronger together
     title: |
       Our partners & supporters
     text: |
