@@ -22,9 +22,9 @@ blocks:
       background-position: crwdns11438:0crwdne11438:0
       background-size: crwdns11440:0crwdne11440:0
     title: |
-      crwdns14822:0crwdne14822:0
+      crwdns14882:0crwdne14882:0
     text: |
-      crwdns14824:0{ .arrow }crwdne14824:0
+      crwdns14884:0{ .arrow }crwdne14884:0
   - 
     id: crwdns11452:0crwdne11452:0
     class:
@@ -122,7 +122,7 @@ blocks:
       background-size: crwdns11576:0crwdne11576:0
     label: crwdns11578:0crwdne11578:0
     title: |
-      crwdns11580:0crwdne11580:0
+      crwdns14886:0crwdne14886:0
     text: |
       crwdns14840:0crwdne14840:0
   - 
