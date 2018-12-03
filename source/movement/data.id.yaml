@@ -59,6 +59,10 @@ blocks:
       ## But there’s definitely strength in numbers.
 
       Governments are increasingly trusting citizens to help solve difficult social issues.
+    button1st:
+      title: Use platform - it's free!
+      url: https://app.citizenos.com
+      target: _blank
   - 
     id: awareness
     class:
