@@ -22,11 +22,11 @@ blocks:
       background-position: crwdns11730:0crwdne11730:0
       background-size: crwdns11732:0crwdne11732:0
     title: |
-      crwdns12302:0crwdne12302:0
+      crwdns14888:0crwdne14888:0
     text: |
-      crwdns12304:0crwdne12304:0
+      crwdns14890:0crwdne14890:0
     button1st:
-      title: crwdns11738:0crwdne11738:0
+      title: crwdns14892:0crwdne14892:0
       url: crwdns11740:0crwdne11740:0
   - 
     id: crwdns11742:0crwdne11742:0
@@ -48,11 +48,10 @@ blocks:
       - crwdns11764:0crwdne11764:0
     style:
       background: 'crwdns11766:0crwdne11766:0'
-    label: crwdns11768:0crwdne11768:0
     title: |
-      crwdns11770:0crwdne11770:0
+      crwdns14894:0crwdne14894:0
     text: |
-      crwdns12306:0crwdne12306:0
+      crwdns14896:0crwdne14896:0
   - 
     id: crwdns11774:0crwdne11774:0
     class:
@@ -70,11 +69,10 @@ blocks:
     class:
       - crwdns11792:0crwdne11792:0
       - crwdns11794:0crwdne11794:0
-    label: crwdns11796:0crwdne11796:0
     title: |
-      crwdns11798:0crwdne11798:0
+      crwdns14898:0crwdne14898:0
     text: |
-      crwdns11800:0{ .bullet }crwdne11800:0
+      crwdns14900:0{ .bullet }crwdne14900:0
     button1st:
-      title: crwdns11802:0crwdne11802:0
+      title: crwdns14902:0crwdne14902:0
       url: 'crwdns11804:0crwdne11804:0'
