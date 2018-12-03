@@ -123,9 +123,9 @@ blocks:
             background-size: 360px 360px
 #        label: Our Product
         title: |
-            Our platform is **free of charge.**
+            Citizen OS is **open source.**
         text: |
-            Our open source code allows everyone to raise issues, discuss and vote for solutions.
+            Our platform is free to use for everyone.
 
         button1st:
             title: About product
@@ -143,7 +143,7 @@ blocks:
         text: |
             Whether you are a developer, translater, researcher or journalist, please consider joining us.
         button1st:
-            title: Contribute to the cause
+            title: Join the movement
             url: /contribute
 
     -
