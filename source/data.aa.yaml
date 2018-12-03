@@ -1,8 +1,8 @@
 ---
 header:
-  title: crwdns14674:0crwdne14674:0
+  title: crwdns14784:0crwdne14784:0
   text: |
-    crwdns14688:0crwdne14688:0
+    crwdns14786:0crwdne14786:0
   play:
     title: crwdns14690:0crwdne14690:0
     url: 'crwdns14692:0crwdne14692:0'
@@ -47,16 +47,13 @@ blocks:
       background-position: crwdns12070:0crwdne12070:0
       background-size: crwdns12072:0crwdne12072:0
     title: |
-      crwdns12074:0crwdne12074:0
+      crwdns14788:0crwdne14788:0
     text: |
-      crwdns14694:0crwdne14694:0
+      crwdns14790:0crwdne14790:0
     button1st:
-      title: crwdns12078:0crwdne12078:0
+      title: crwdns14792:0crwdne14792:0
       url: crwdns12080:0crwdne12080:0
-    button2nd:
-      title: crwdns12204:0crwdne12204:0
-      url: crwdns12084:0crwdne12084:0
-      target: crwdns12086:0crwdne12086:0
+    button2nd: crwdns14794:0crwdne14794:0
   - 
     class:
       - crwdns12088:0crwdne12088:0
@@ -76,13 +73,12 @@ blocks:
       background-image: crwdns12106:0crwdne12106:0
       background-position: crwdns12108:0crwdne12108:0
       background-size: crwdns12110:0crwdne12110:0
-    label: crwdns12112:0crwdne12112:0
     title: |
-      crwdns12114:0crwdne12114:0
+      crwdns14796:0crwdne14796:0
     text: |
-      crwdns12116:0crwdne12116:0
+      crwdns14798:0crwdne14798:0
     button1st:
-      title: crwdns12118:0crwdne12118:0
+      title: crwdns14800:0crwdne14800:0
       url: crwdns12120:0crwdne12120:0
   - 
     class:
@@ -104,13 +100,12 @@ blocks:
       background-image: crwdns12142:0crwdne12142:0
       background-position: crwdns12144:0crwdne12144:0
       background-size: crwdns12146:0crwdne12146:0
-    label: crwdns12148:0crwdne12148:0
     title: |
-      crwdns12206:0crwdne12206:0
+      crwdns14802:0crwdne14802:0
     text: |
-      crwdns12208:0crwdne12208:0
+      crwdns14804:0crwdne14804:0
     button1st:
-      title: crwdns12154:0crwdne12154:0
+      title: crwdns14806:0crwdne14806:0
       url: crwdns12156:0crwdne12156:0
   - 
     id: crwdns12158:0crwdne12158:0
