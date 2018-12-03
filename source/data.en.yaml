@@ -137,11 +137,11 @@ blocks:
             - order-8
         style:
             background-color: '#F7F7F7'
-        label: A word from the team
+#        label: A word from the team
         title: |
-            You and I are changing the world.
+            Help us reach even more people.
         text: |
-            Everyone who contributes to Citizen OS is driven by the idea of participatory democracy empowering people around the world. There are many ways to contribute, join us!
+            Whether you are a developer, translater, researcher or journalist, please consider joining us.
         button1st:
             title: Contribute to the cause
             url: /contribute
