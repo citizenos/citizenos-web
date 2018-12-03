@@ -22,12 +22,11 @@ blocks:
             background-position: 10% 5%, 90% 90%
             background-size: 75px 75px, 65px 65px
         title: |
-            Use our platform for argument-based decision-making.
+            Use our platform as a communication tool.
         text: |
-            Manage discussions and votings.
-            Conduct online meetings.
-            Gather ideas.
-            Start petitions.
+            Make argument-based decisions.
+            Structure discussions and keep deadlines on votings.
+            Collect votes for petitions.
 
             - [Platform features](#features)
             - [How does it work](#how)
@@ -164,7 +163,7 @@ blocks:
             background-size: 85px 85px, 55px 55px
         label: Case study
         title: |
-            Opinion Festival
+            Developing opinion culture.
         text: |
             [Opinion Festival](https://www.arvamusfestival.ee/en) integrated the Citizen OS argumentation widget, allowing online discussions.
 
