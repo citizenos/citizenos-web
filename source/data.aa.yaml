@@ -47,9 +47,9 @@ blocks:
       background-position: crwdns12070:0crwdne12070:0
       background-size: crwdns12072:0crwdne12072:0
     title: |
-      crwdns14788:0crwdne14788:0
+      crwdns14854:0crwdne14854:0
     text: |
-      crwdns14790:0crwdne14790:0
+      crwdns14856:0crwdne14856:0
     button1st:
       title: crwdns14792:0crwdne14792:0
       url: crwdns12080:0crwdne12080:0
@@ -74,7 +74,7 @@ blocks:
       background-position: crwdns12108:0crwdne12108:0
       background-size: crwdns12110:0crwdne12110:0
     title: |
-      crwdns14808:0crwdne14808:0
+      crwdns14858:0crwdne14858:0
     text: |
       crwdns14810:0crwdne14810:0
     button1st:
@@ -101,9 +101,9 @@ blocks:
       background-position: crwdns12144:0crwdne12144:0
       background-size: crwdns12146:0crwdne12146:0
     title: |
-      crwdns14812:0crwdne14812:0
+      crwdns14860:0crwdne14860:0
     text: |
-      crwdns14814:0crwdne14814:0
+      crwdns14862:0crwdne14862:0
     button1st:
       title: crwdns14806:0crwdne14806:0
       url: crwdns12156:0crwdne12156:0
@@ -116,7 +116,7 @@ blocks:
     title: |
       crwdns14816:0crwdne14816:0
     text: |
-      crwdns14818:0crwdne14818:0
+      crwdns14864:0crwdne14864:0
     button1st:
       title: crwdns14820:0crwdne14820:0
       url: crwdns12172:0crwdne12172:0
@@ -127,7 +127,6 @@ blocks:
     style:
       background-color: 'crwdns12178:0crwdne12178:0'
       border-left: 'crwdns12180:0crwdne12180:0'
-    label: crwdns12182:0crwdne12182:0
     title: |
       crwdns12184:0crwdne12184:0
     text: |
