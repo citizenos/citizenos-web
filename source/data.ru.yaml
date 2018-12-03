@@ -1,9 +1,8 @@
 ---
 header:
-  title: The Citizen OS platform lets you decide together!
+  title: Your platform for decision-making in teams and communities.
   text: |
-    Use Citizen OS for decision-making in a team or community.
-    Conduct well-structured discussions and votings, communicate internally or collect votes for a petition.
+    Make argument-based decisions. Structure discussions and keep deadlines on votings. Collect votes for petitions.
     We are an open source social enterprise.
   play:
     title: Play video
@@ -49,16 +48,13 @@ blocks:
       background-position: 0 10%
       background-size: 122px 122px
     title: |
-      Citizen OS is **raising awareness** on participatory democracy.
+      We raise awareness on **participatory democracy.**
     text: |
-      The Citizen OS platform allows collaborative decision-making on topics using an argument-based decision-making process. **We are an open source social enterprise**
+      We believe everyone should have a voice on topics that greatly affect their well-being.
     button1st:
-      title: Read more
+      title: About movement
       url: /movement
     button2nd:
-      title: Use platform - it’s free!
-      url: https://app.citizenos.com
-      target: _blank
   - 
     class:
       - order-4
@@ -78,17 +74,12 @@ blocks:
       background-image: url(/assets/images/bubble-dots.png)
       background-position: 30% 25%
       background-size: 360px 360px
-    label: Let’s Educate
     title: |
-      Collaborating with **scientists and researchers.**
+      We collaborate with **researchers.**
     text: |
-      As an organization, Citizen OS helps the general public in getting involved and getting their voices heard.
-
-      We invest in reseach and studies to help us understand better the needs of communities.
-
-      The Citizen OS conference is a bi-annual meeting for e-democracy researchers.
+      We develop our products in collaboration with e-democracy researchers.
     button1st:
-      title: Learn more about our research
+      title: About research
       url: /research
   - 
     class:
@@ -110,16 +101,12 @@ blocks:
       background-image: url(/assets/images/bubble-dots.png)
       background-position: 0% 25%
       background-size: 360px 360px
-    label: Our Product
     title: |
-      Use Citizen OS **free of charge.**
+      Our platform is **free of charge.**
     text: |
-      The Citizen OS platform allows everyone to raise issues, discuss and vote for solutions.
-
-      Use for free on our platform.
-      For API integration, [contact us for a quote](/contact).
+      Our open source code allows everyone to raise issues, discuss and vote for solutions.
     button1st:
-      title: Learn about our product
+      title: About product
       url: /product
   - 
     id: team
