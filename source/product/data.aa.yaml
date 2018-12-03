@@ -48,7 +48,7 @@ blocks:
     title: |
       crwdns11478:0crwdne11478:0
     text: |
-      crwdns12226:0{ .bullet }crwdnd12226:0{ .mt-5 }crwdnd12226:0{ .bullet }crwdnd12226:0{ .mt-5 }crwdnd12226:0{ .bullet }crwdne12226:0
+      crwdns14826:0{ .bullet }crwdnd14826:0{ .mt-5 }crwdnd14826:0{ .bullet }crwdnd14826:0{ .mt-5 }crwdnd14826:0{ .bullet }crwdne14826:0
   - 
     id: crwdns11482:0crwdne11482:0
     style:
@@ -83,9 +83,7 @@ blocks:
       - crwdns11526:0crwdne11526:0
     style:
       background: 'crwdns11528:0crwdne11528:0'
-    label: crwdns11530:0crwdne11530:0
-    title: |
-      crwdns11532:0crwdne11532:0
+    label: crwdns14828:0crwdne14828:0
   - 
     id: crwdns11534:0crwdne11534:0
     class:
@@ -202,9 +200,9 @@ statsBlocks:
     title: crwdns12416:0crwdne12416:0
 optionBlocks:
   - 
-    title: crwdns12286:0crwdne12286:0
+    title: crwdns14830:0crwdne14830:0
     text: |
-      crwdns11674:0crwdne11674:0
+      crwdns14832:0crwdne14832:0
     subtext: crwdns11676:0crwdne11676:0
     button:
       title: crwdns12288:0crwdne12288:0
