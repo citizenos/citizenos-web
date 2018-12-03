@@ -92,9 +92,9 @@ blocks:
             background-size: 360px 360px
 #        label: Let’s Educate
         title: |
-            We collaborate with **researchers.**
+            We rely on **research and data.**
         text: |
-            We develop our products in collaboration with e-democracy researchers.
+            We collaborate with e-democracy researchers to help develop our products.
         button1st:
             title: About research
             url: /research
