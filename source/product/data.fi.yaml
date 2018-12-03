@@ -57,7 +57,7 @@ blocks:
     title: |
       Clarity
     text: |
-      - Project overview.
+      - Overview of decision-making progress.
       - Voting deadlines.
       { .bullet }
 
@@ -65,12 +65,13 @@ blocks:
 
       - Ideas are collected bottom-up.
       - Discussion occures in a structured way.
+      - No upper limit on the number of participants.
       { .bullet }
 
       ## Security & Research{ .mt-5 }
 
       - Continuous development to keep up with new laws.
-      - Better decisions are reached with a scientific approach.
+      - Product development follows scientific approach.
       - Safe encrypted data, secure platform in a cloud server.
       { .bullet }
   - 
@@ -107,9 +108,7 @@ blocks:
       - text-center
     style:
       background: '#AAF3DD'
-    label: Something for everyone
-    title: |
-      Start using now
+    label: Pricing
   - 
     id: case-study-2-img
     class:
@@ -232,9 +231,9 @@ statsBlocks:
     title: users
 optionBlocks:
   - 
-    title: Free platform
+    title: Use platform
     text: |
-      The Citizen OS platform is free for use on our website for everyone.
+      The Citizen OS platform is free to use on our website for everyone.
     subtext: Free for ever!
     button:
       title: Use platform
