@@ -22,11 +22,13 @@ blocks:
       background-position: 90% 10%, 7% 25%
       background-size: 45px 45px, 65px 65px
     title: |
-      Relying on **science and data**
+      Relying on **research and data.**
     text: |
-      We work with researchers and gather data to better understand the effects of participatory democracy. If your interests lie in the areas of e-democracy, political theory and decision-making, please contact us if we could benefit from mutual collaboration. Contact us: margo@citizenos.com
+      We collaborate with e-democracy researchers to help develop our products.
+
+      If you are an e-democracy researcher, please write to margo@citizenos.com.
     button1st:
-      title: Read our blog articles
+      title: Read news
       url: https://medium.com/citizenos
   - 
     id: forward-img
@@ -48,13 +50,10 @@ blocks:
       - order-sm-3
     style:
       background: '#F7F7F7'
-    label: Moving forward
     title: |
-      Data collection & cooperations
+      Data collection.
     text: |
-      All data we collect is anonymized and can be used to advance our mission. We also work with involvement specialists working with governments to exchange information.
-
-      Research associate Kadi Maria Vooglaid has consulted us on involvement in policymaking, the theories behind political decision-making and different voting systems.
+      All data is anonymized and used to understand the effects of online participatory democracy.
   - 
     id: research-video-img
     class:
@@ -72,17 +71,16 @@ blocks:
     class:
       - order-5
       - order-sm-4
-    label: COSCon
     title: |
-      Citizen OS’s own conference
+      Bi-annual conference.
     text: |
-      Our first conference, “Political Representation in the Digital Age”, was held in 2017. The topics were:
-      - How do politicians, academics and activists perceive the limits of representative democracy in 2017 and for the years to come?
-      - Can current institutions handle radically new practices?
-      - Will civic technologies really change politics?
+      The first CosCon conference, “Political Representation in the Digital Age” was held in 2017. The topics were:
+      - Limits of representative democracy.
+      - Handling radically new practices.
+      - Civic technologies really changing politics.
       { .bullet }
 
-      If you would like to be informed about the next conference, please click the button below.
+      Sign up to our newsletter below!
     button1st:
-      title: Stay informed
+      title: Sign up to news
       url: '#subscribe'
