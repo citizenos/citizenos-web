@@ -22,29 +22,18 @@ blocks:
       background-position: 10% 5%, 90% 90%
       background-size: 75px 75px, 65px 65px
     title: |
-      Use Citizen OS to bring about change.
+      Use our platform for argument-based decision-making.
     text: |
-      The Citizen OS e-decisionmaking platform can be used for:
-      - Petitions.
-      - Online meetings.
-      - Gathering ideas.
-
-      The Citizen OS platform allows everyone to raise issues, discuss and vote for solutions.
-      - Collect votes for a petition.
-      - Carry out meetings online. Everyone can leave their comments and vote at a time suitable for them.
-      - Share your decision-making process with a bigger audience.
-
-      The Citizen OS platform can be used on all devices and is currently available in 8 languages: English, Estonian, Finnish, French, German, Russian, Spanish and Ukrainian.
+      Manage discussions and votings.
+      Conduct online meetings.
+      Gather ideas.
+      Start petitions.
 
       - [Platform features](#features)
       - [How does it work](#how)
       - [How much does it cost](#options)
       - [Case studies](#case-studies)
       { .arrow }
-    button1st:
-      title: Start using
-      url: https://app.citizenos.com
-      target: _blank
   - 
     id: features-img
     class:
