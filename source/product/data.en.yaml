@@ -34,10 +34,10 @@ blocks:
             - [How much does it cost](#options)
             - [Case studies](#case-studies)
             { .arrow }
-        button1st:
-            title: Use platform
-            url: https://app.citizenos.com
-            target: _blank
+#        button1st:
+#            title: Use platform
+#            url: https://app.citizenos.com
+#            target: _blank
 
     -
         id: features-img
