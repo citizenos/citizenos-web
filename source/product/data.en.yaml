@@ -194,42 +194,42 @@ howBlocks:
             Documents can be private or public.
             Keep all files in one place.
             Browse existing topics or create a new one.
-        button: Form groups, send invites, set editing rights
+#        button: Form groups, send invites, set editing rights
     -
         poster:
         mp4: /assets/videos/product-how-02.mp4
         webm: /assets/videos/product-how-02.webm
         text: |
             ## Form groups, invite members, set editing rights.
-        button: Edit documents with others at the same time
+#        button: Edit documents with others at the same time
     -
         poster:
         mp4: /assets/videos/product-how-03.mp4
         webm: /assets/videos/product-how-03.webm
         text: |
             ## Edit documents with others at the same time.
-        button: Discuss in a structured way
+#        button: Discuss in a structured way
     -
         poster:
         mp4: /assets/videos/product-how-04.mp4
         webm: /assets/videos/product-how-04.webm
         text: |
             ## Discuss in a structured way.
-        button: Vote. Delegate your vote. Set deadlines for voting
+#        button: Vote. Delegate your vote. Set deadlines for voting
     -
         poster:
         mp4: /assets/videos/product-how-05.mp4
         webm: /assets/videos/product-how-05.webm
         text: |
             ## Custom voting. Delegate vote. Deadlines for voting.
-        button: Inform your group about the outcome
+#        button: Inform your group about the outcome
     -
         poster:
         mp4: /assets/videos/product-how-06.mp4
         webm: /assets/videos/product-how-06.webm
         text: |
             ## Inform your group about the outcome.
-        button: Create documents – private or public
+#        button: Create documents – private or public
 
 statsBlocks:
     -
