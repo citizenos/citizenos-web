@@ -55,13 +55,13 @@ blocks:
     title: |
       One person can make a difference.
     text: |
-      Participatory democracy is individual participation by citizens in political decisions and policies that affect their lives. Find out if you can collect votes for an idea to be passed to your local or national government.
+      Participatory democracy is individual participation by citizens in decisions that affect their lives.
 
       ### As a group{ #group .mt-5 }
 
       ## But there’s definitely strength in numbers.
 
-      Groups can have an enormous influence on decision-makers. Local and national governments are increasingly trusting citizens to help solve difficult social issues. The Citizen OS platform can be used to crowdsource ideas, discuss and vote.
+      Governments are increasingly trusting citizens to help solve difficult social issues by crowdsourcing ideas, holding public discussions and votings.
   - 
     id: awareness
     class:
@@ -76,7 +76,7 @@ blocks:
     title: |
       Together we can advance online participatory democracy.
     text: |
-      To create a better future, we need the opinions of many different people. It is important to let the decision-makers know about our actual needs. The Citizen OS platform can be used by large groups of people to jointly come together and change things.
+      We are developing products that help people create a better future. Whether you are a developer, translator, journalist or researcher, join us!
     button1st:
-      title: Help us raise awareness
+      title: Contribute
       url: /contribute
