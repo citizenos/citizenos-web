@@ -27,15 +27,14 @@ blocks:
     title: |
       **You have a voice** and it needs to be heard.
     text: |
-      There are people around you who also want to see a change around them. What if you could gather these like-minded people and be part of decision-making in public topics?
-      **Sign up for the Citizen OS newsletter to read inspiring stories about participatory democracy from around the world.**
+      We believe social change happens when people come together and decide on things.
 
       - [Get involved as an individual](#individual)
       - [Get involved as a group](#group)
       - [Raising awareness](#awareness)
       { .arrow }
     button1st:
-      title: Susbscribe to newsletter
+      title: Sign up to news
       url: '#subscribe'
   - 
     class:
@@ -54,7 +53,7 @@ blocks:
       - order-sm-3
     label: As an individual
     title: |
-      One person can always make a difference in a democracy.
+      One person can make a difference.
     text: |
       Participatory democracy is individual participation by citizens in political decisions and policies that affect their lives. Find out if you can collect votes for an idea to be passed to your local or national government.
 
