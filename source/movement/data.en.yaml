@@ -34,7 +34,7 @@ blocks:
             - [Raising awareness](#awareness)
             { .arrow }
         button1st:
-            title: Susbscribe to newsletter
+            title: Sign up to news
             url: '#subscribe'
 
          #[f](https://www.facebook.com/citizenos.web){ .btn .btn-primary .my-2 .ml-3 } [t](https://twitter.com/Citizen_OS){ .btn .btn-primary .my-2 .ml-3 }
@@ -58,7 +58,7 @@ blocks:
             - order-sm-3
         label: As an individual
         title: |
-            One person can always make a difference in a democracy.
+            One person can make a difference.
         text: |
             Participatory democracy is individual participation by citizens in political decisions and policies that affect their lives. Find out if you can collect votes for an idea to be passed to your local or national government.
 
