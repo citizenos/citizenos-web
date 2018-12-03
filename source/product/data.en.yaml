@@ -117,7 +117,7 @@ blocks:
             - text-center
         style:
             background: '#AAF3DD'
-        label: Pricing
+        label: Products
 #        title: |
 #            Start using now
 
@@ -140,11 +140,11 @@ blocks:
             background-size: 122px 122px
         label: Case study
         title: |
-            Communication between the people and the government of Estonia.
+            Communication between the people and the government.
         text: |
-            The Citizen OS open source code was used to set up the citizen initiatives platform [www.rahvaalgatus.ee](https://www.rahvaalgatus.ee) in Estonia.
+            Our open source code was used to set up the citizen initiatives platform [www.rahvaalgatus.ee](https://www.rahvaalgatus.ee).
 
-            The Parliament processes appeals that have at least 1000 signatures. The Citizen OS platform is set up to receive digital signatures given with the Estonian National ID-card.
+            The initiatives can be signed digitally using the Estonian National ID-card.
 
     -
         id: case-study-1-img
