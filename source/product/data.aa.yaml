@@ -83,7 +83,7 @@ blocks:
       - crwdns11526:0crwdne11526:0
     style:
       background: 'crwdns11528:0crwdne11528:0'
-    label: crwdns14828:0crwdne14828:0
+    label: crwdns14834:0crwdne14834:0
   - 
     id: crwdns11534:0crwdne11534:0
     class:
@@ -102,9 +102,9 @@ blocks:
       background-size: crwdns11552:0crwdne11552:0
     label: crwdns11554:0crwdne11554:0
     title: |
-      crwdns11556:0crwdne11556:0
+      crwdns14836:0crwdne14836:0
     text: |
-      crwdns12228:0[www.rahvaalgatus.ee]crwdne12228:0
+      crwdns14838:0[www.rahvaalgatus.ee]crwdne14838:0
   - 
     id: crwdns11560:0crwdne11560:0
     class:
@@ -124,7 +124,7 @@ blocks:
     title: |
       crwdns11580:0crwdne11580:0
     text: |
-      crwdns11582:0crwdne11582:0
+      crwdns14840:0crwdne14840:0
   - 
     id: crwdns11584:0crwdne11584:0
     class:
