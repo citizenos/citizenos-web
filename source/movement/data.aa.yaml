@@ -27,9 +27,9 @@ blocks:
     title: |
       crwdns11354:0crwdne11354:0
     text: |
-      crwdns12218:0{ .arrow }crwdne12218:0
+      crwdns14842:0{ .arrow }crwdne14842:0
     button1st:
-      title: crwdns11358:0crwdne11358:0
+      title: crwdns14844:0crwdne14844:0
       url: 'crwdns11360:0crwdne11360:0'
   - 
     class:
@@ -48,7 +48,7 @@ blocks:
       - crwdns12326:0crwdne12326:0
     label: crwdns12328:0crwdne12328:0
     title: |
-      crwdns12330:0crwdne12330:0
+      crwdns14846:0crwdne14846:0
     text: |
       crwdns12332:0{ #group .mt-5 }crwdne12332:0
   - 
