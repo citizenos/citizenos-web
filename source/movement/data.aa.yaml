@@ -27,7 +27,7 @@ blocks:
     title: |
       crwdns11354:0crwdne11354:0
     text: |
-      crwdns14842:0{ .arrow }crwdne14842:0
+      crwdns14866:0[Contribute]crwdnd14866:0{ .arrow }crwdne14866:0
     button1st:
       title: crwdns14844:0crwdne14844:0
       url: 'crwdns11360:0crwdne11360:0'
@@ -46,11 +46,10 @@ blocks:
     class:
       - crwdns12324:0crwdne12324:0
       - crwdns12326:0crwdne12326:0
-    label: crwdns12328:0crwdne12328:0
     title: |
       crwdns14846:0crwdne14846:0
     text: |
-      crwdns14848:0{ #group .mt-5 }crwdne14848:0
+      crwdns14868:0crwdne14868:0
   - 
     id: crwdns12334:0crwdne12334:0
     class:
@@ -61,7 +60,6 @@ blocks:
       background-image: crwdns12342:0crwdne12342:0
       background-size: crwdns12344:0crwdne12344:0
       background-position: crwdns12346:0crwdne12346:0
-    label: crwdns12348:0crwdne12348:0
     title: |
       crwdns12350:0crwdne12350:0
     text: |
