@@ -29,9 +29,8 @@ blocks:
     text: |
       We believe social change happens when people come together and decide on things.
 
-      - [Get involved as an individual](#individual)
-      - [Get involved as a group](#group)
-      - [Contribute](#awareness)
+      - [Get involved in the movement](#individual)
+      - [Contribute to Citizen OS](#awareness)
       { .arrow }
     button1st:
       title: Sign up to news
@@ -54,7 +53,7 @@ blocks:
     title: |
       One person can make a difference.
     text: |
-      Participatory democracy is individual  participation in political decisions that affect your life.
+      Participatory democracy is individual participation in political decisions that affect your life.
 
       ## But there’s definitely strength in numbers.
 
