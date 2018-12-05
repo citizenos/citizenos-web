@@ -8,16 +8,14 @@ blocks:
     id: careers
     label: About
     title: |
-      Careers
+      How to join the team.
     text: |
-      Want to provide the people of the world with an amazing tool for co-deciding and online participatory democracy? Help us improve the Citizen OS platform.
+      Want to provide the people of the world with an amazing tool for co-deciding and online participatory democracy?
 
-      Citizen OS is about transparency and giving everyone the chance to be heard, so that also counts for us as an organisation. We are always looking for people who believe in our vision to join the team.
+      If our vision inspires you, please write to our Head of partnerships <anett@citizenos.com>.
 
-      #### Currently actively searching for: Developer volunteer
-      Would you like to help make people's voices heard .. in Nigeria? Citizen OS is an online decision-making platform and [citizenvoice.ng](https://citizenvoice.ng) would like to integrate the API to protect people against environmental harms in Nigeria. If you are available, please contact Thomas at <info@citizenvoice.ng>!
-
-      If your talent lies elsewhere, but our vision inspires you, please [do get in touch](#).
+      #### Currently actively searching for: Volunteers: Backend, Frontend, Mobile Developer, UX/UI Designer and Graphic Designer.
+      Would you like to help with the environmental situation in Nigeria? Our partner Citizenvoice needs volunteer help integrating the Citizen OS open source code with their website [citizenvoice.ng](https://citizenvoice.ng). If you are available, please contact Thomas at <info@citizenvoice.ng>.
   - 
     id: Developer volunteer
     class:
@@ -25,7 +23,7 @@ blocks:
       - d-none
     label: Careers
     title: |
-      Developer volunteer
+      Volunteers needed
     text: |
       [Back to career opportunities](/careers){ .close-career .arrow-left .mb-5 }
       Would you like to help make people's voices heard .. in Nigeria? Citizen OS is an online decision-making platform and [citizenvoice.ng](https://citizenvoice.ng) would like to integrate the API to protect people against environmental harms in Nigeria. If you are available, please contact Thomas at <info@citizenvoice.ng>!
