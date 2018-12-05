@@ -26,8 +26,8 @@ blocks:
     text: |
       crwdns14914:0crwdne14914:0
     button1st:
-      title: crwdns14916:0crwdne14916:0
-      url: crwdns14918:0crwdne14918:0
+      title: crwdns14932:0crwdne14932:0
+      url: 'crwdns14934:0crwdne14934:0'
   - 
     id: crwdns11742:0crwdne11742:0
     class:
@@ -73,9 +73,9 @@ blocks:
       - crwdns11792:0crwdne11792:0
       - crwdns11794:0crwdne11794:0
     title: |
-      crwdns14898:0crwdne14898:0
+      crwdns14936:0crwdne14936:0
     text: |
-      crwdns14900:0{ .bullet }crwdne14900:0
+      crwdns14938:0{ .bullet }crwdne14938:0
     button1st:
-      title: crwdns14902:0crwdne14902:0
-      url: 'crwdns11804:0crwdne11804:0'
+      title: crwdns14940:0crwdne14940:0
+      url: crwdns14942:0crwdne14942:0
