@@ -31,6 +31,9 @@ blocks:
       - [How much does it cost](#options)
       - [Case studies](#case-studies)
       { .arrow }
+    button1st:
+      title: Sign up to news
+      url: '#subscribe'
   - 
     id: features-img
     class:
