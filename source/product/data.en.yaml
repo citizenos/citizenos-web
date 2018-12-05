@@ -32,9 +32,13 @@ blocks:
             - [Case studies](#case-studies)
             { .arrow }
 #        button1st:
-#            title: Use platform
-#            url: https://app.citizenos.com
+#            title: Sign up to news
+#            url: '#subscribe'
 #            target: _blank
+
+        button1st:
+            title: Sign up to news
+            url: '#subscribe'
 
     -
         id: features-img
