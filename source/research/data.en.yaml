@@ -27,10 +27,9 @@ blocks:
             We collaborate with e-democracy researchers to help develop our products.
 
             If you are an e-democracy researcher, please write to our Product Manager <margo@citizenos.com>.
-
         button1st:
-            title: Contribute
-            url: /contribute
+            title: Sign up to news
+            url: '#subscribe'
 
     -
         id: forward-img
@@ -81,15 +80,13 @@ blocks:
             - order-sm-4
 #        label: COSCon
         title: |
-            Bi-annual conference.
+            Conference.
         text: |
             The first CosCon conference, “Political Representation in the Digital Age” was held in 2017. The topics were:
             - Limits of representative democracy.
             - Handling radically new practices.
             - Civic technologies really changing politics.
             { .bullet }
-
-            Sign up to our newsletter below!
         button1st:
-            title: Sign up to news
-            url: '#subscribe'
+            title: Contribute
+            url: /contribute
