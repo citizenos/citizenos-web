@@ -24,10 +24,10 @@ blocks:
     title: |
       crwdns14888:0crwdne14888:0
     text: |
-      crwdns14890:0crwdne14890:0
+      crwdns14914:0crwdne14914:0
     button1st:
-      title: crwdns14892:0crwdne14892:0
-      url: crwdns11740:0crwdne11740:0
+      title: crwdns14916:0crwdne14916:0
+      url: crwdns14918:0crwdne14918:0
   - 
     id: crwdns11742:0crwdne11742:0
     class:
@@ -52,6 +52,9 @@ blocks:
       crwdns14894:0crwdne14894:0
     text: |
       crwdns14896:0crwdne14896:0
+    button1st:
+      title: crwdns14920:0crwdne14920:0
+      url: crwdns14922:0crwdne14922:0
   - 
     id: crwdns11774:0crwdne11774:0
     class:
