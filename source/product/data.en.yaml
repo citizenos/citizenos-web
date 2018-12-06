@@ -269,7 +269,7 @@ optionBlocks:
         subtext: Offer based
         button:
             title: Contact us
-            url: /contact
+            url: /contact/
     -
         title: Consult & integrate
         text: |
@@ -277,4 +277,4 @@ optionBlocks:
         subtext: Offer based
         button:
             title: Contact us
-            url: /contact
+            url: /contact/
