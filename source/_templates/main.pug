@@ -5,6 +5,9 @@ mixin markdown(text)
     | !{ self.md(text) }
 
 
+- self.rootUrl = self.locale === 'en' ? '/' : `/${self.locale}/`
+
+
 doctype html
 html(lang=self.locale)
     head
