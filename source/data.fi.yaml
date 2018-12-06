@@ -54,7 +54,7 @@ blocks:
       We believe the way for us to move forward as a civilization is to bring democracy online.
     button1st:
       title: About movement
-      url: /movement
+      url: /movement/
     button2nd:
   - 
     class:
@@ -81,7 +81,7 @@ blocks:
       We collaborate with e-democracy researchers to help develop our products.
     button1st:
       title: About research
-      url: /research
+      url: /research/
   - 
     class:
       - order-6
@@ -108,7 +108,7 @@ blocks:
       We believe the tools for online participatory democracy should be free to use for everyone.
     button1st:
       title: About product
-      url: /product
+      url: /product/
   - 
     id: team
     class:
@@ -121,7 +121,7 @@ blocks:
       Whether you are a developer, translator, researcher or journalist, join us!
     button1st:
       title: Contribute
-      url: /contribute
+      url: /contribute/
   - 
     id: partners
     class:
