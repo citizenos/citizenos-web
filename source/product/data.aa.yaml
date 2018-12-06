@@ -212,7 +212,7 @@ optionBlocks:
     subtext: crwdns11688:0crwdne11688:0
     button:
       title: crwdns11690:0crwdne11690:0
-      url: crwdns11692:0crwdne11692:0
+      url: crwdns15000:0crwdne15000:0
   - 
     title: crwdns11694:0crwdne11694:0
     text: |
@@ -220,4 +220,4 @@ optionBlocks:
     subtext: crwdns11698:0crwdne11698:0
     button:
       title: crwdns11700:0crwdne11700:0
-      url: crwdns11702:0crwdne11702:0
+      url: crwdns15002:0crwdne15002:0
