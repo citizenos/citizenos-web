@@ -167,7 +167,7 @@ blocks:
       Our online decision-making community is growing.
     button1st:
       title: Use platform - it's free!
-      url: https://app.citizenos.com
+      url: https://app.citizenos.com/fi/
       target: _blank
 howBlocks:
   - 
@@ -231,7 +231,7 @@ optionBlocks:
     subtext: Free for ever!
     button:
       title: Use platform
-      url: https://app.citizenos.com
+      url: https://app.citizenos.com/fi/
       target: _blank
   - 
     title: Integrate API
