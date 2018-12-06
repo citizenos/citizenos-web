@@ -35,19 +35,19 @@ footer:
       links:
         - 
           title: Company
-          url: /company
+          url: /company/
         - 
           title: Careers
-          url: /careers
+          url: /careers/
         - 
           title: Contribute
-          url: /contribute
+          url: /contribute/
         - 
           title: Team
-          url: /team
+          url: /team/
         - 
           title: Contact
-          url: /contact
+          url: /contact/
     - 
       title: Community
       links:
