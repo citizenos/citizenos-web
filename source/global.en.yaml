@@ -3,15 +3,15 @@ siteTitle: Citizen OS
 navigation:
     -
         title: Product
-        url: /product
+        url: /product/
         class: product
     -
         title: Movement
-        url: /movement
+        url: /movement/
         class: movement
     -
         title: Research
-        url: /research
+        url: /research/
         class: research
 
 language: English
@@ -75,5 +75,5 @@ footer:
                     title: Legal
                     url: https://app.citizenos.com/en/topics/7abdd244-d45b-40d3-997c-a6290d4e972c
                 -
-                    title: Github
+                    title: GitHub
                     url: https://github.com/citizenos
