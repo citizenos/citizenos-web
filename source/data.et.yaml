@@ -12,26 +12,34 @@ news:
   more: Read more
 blocks:
   - 
-    id: news
     class:
       - order-1
-      - text-center
     style:
-      background-color: '#F7F7F7'
-      background-image: url(/assets/images/bubble-dots.png)
-      background-position: 60% 10%
-      background-size: 360px 360px
-    title: |
-      Latest news
+      background-image: url(/assets/images/bubble-yellow.svg)
+      background-position: 20% 80%
+      background-size: 122px 122px
     text: |
-      { #news-items }
-    button1st:
-      title: Read blog
-      url: https://medium.com/citizenos
+      ![](/assets/images/frontpage-product.png){ .img-fluid }
   - 
     class:
       - order-2
-      - order-sm-3
+      - col-sm-4
+      - offset-sm-1
+    style:
+      background-image: url(/assets/images/bubble-dots.png)
+      background-position: 0% 25%
+      background-size: 360px 360px
+    title: |
+      Developing **open source** software.
+    text: |
+      We believe the tools for online participatory democracy should be free to use for everyone.
+    button1st:
+      title: About product
+      url: /product/
+  - 
+    class:
+      - order-3
+      - order-sm-4
     style:
       background-image: url(/assets/images/bubble-dots.png), url(/assets/images/bubble-orange.svg)
       background-position: 30% 25%, 20% 75%
@@ -40,8 +48,8 @@ blocks:
       ![](/assets/images/frontpage-start.png){ .img-fluid }
   - 
     class:
-      - order-3
-      - order-sm-2
+      - order-4
+      - order-sm-3
       - col-sm-4
       - offset-sm-1
     style:
@@ -58,8 +66,7 @@ blocks:
     button2nd:
   - 
     class:
-      - order-4
-      - col-sm-5
+      - order-5
     style:
       background-image: url(/assets/images/bubble-turquoise.svg)
       background-position: 85% 85%
@@ -83,38 +90,27 @@ blocks:
       title: About research
       url: /research/
   - 
+    id: news
     class:
       - order-6
-      - order-sm-7
+      - text-center
     style:
-      background-image: url(/assets/images/bubble-yellow.svg)
-      background-position: 20% 80%
-      background-size: 122px 122px
-    text: |
-      ![](/assets/images/frontpage-product.png){ .img-fluid }
-  - 
-    class:
-      - order-7
-      - order-sm-6
-      - col-sm-4
-      - offset-sm-1
-    style:
+      background-color: '#F7F7F7'
       background-image: url(/assets/images/bubble-dots.png)
-      background-position: 0% 25%
+      background-position: 60% 10%
       background-size: 360px 360px
     title: |
-      Developing **open source** software.
+      Latest news
     text: |
-      We believe the tools for online participatory democracy should be free to use for everyone.
+      { #news-items }
     button1st:
-      title: About product
-      url: /product/
+      title: Read blog
+      url: https://medium.com/citizenos
   - 
     id: team
     class:
-      - order-8
-    style:
-      background-color: '#F7F7F7'
+      - order-7
+      - my-5
     title: |
       Help us reach even more people.
     text: |
@@ -125,9 +121,9 @@ blocks:
   - 
     id: partners
     class:
-      - order-9
+      - order-8
+      - my-5
     style:
-      background-color: '#F7F7F7'
       border-left: '1px solid #E5E5E5'
     title: |
       Our partners & supporters
