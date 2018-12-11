@@ -54,4 +54,9 @@ html(lang=self.locale)
         script(src='/assets/js/bootstrap.min.js')
         script(src='/script.js')
 
+        script.
+            $(function () {
+                $('a[href="https://app.citizenos.com"]').attr('href', 'https://app.citizenos.com/#{self.locale}/')
+            })
+
         block script
