@@ -18,7 +18,7 @@ blocks:
             Would you like to help with the environmental situation in Nigeria? Our partner Citizenvoice needs volunteer help integrating the Citizen OS open source code with their website [citizenvoice.ng](https://citizenvoice.ng). If you are available, please contact Thomas at <info@citizenvoice.ng>.
 
     -
-        id: Developer volunteer
+        id: developer-volunteer
         class:
             - career
             - d-none
