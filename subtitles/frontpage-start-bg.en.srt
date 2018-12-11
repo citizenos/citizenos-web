@@ -1,171 +1,171 @@
 1
 00:00:00,000 -->  00:00:02,000
->> The way that the system currently functions
+The way that the system currently functions
 
 2
 00:00:02,000 --> 00:00:04,000
->> is built on traditions and the way that
+is built on traditions and the way that
 
 3
 00:00:04,000 --> 00:00:06,000
->> things have always been. It's an online
+things have always been. It's an online
 
 4
 00:00:06,000 --> 00:00:10,000
->> collaborative decision-making tool, which
+collaborative decision-making tool, which
 
 5
 00:00:10,000 --> 00:00:12,000
->> basically means that if you have many
+basically means that if you have many
 
 6
 00:00:12,000 --> 00:00:16,000
->> people that want to discuss proposed
+people that want to discuss proposed
 
 7
 00:00:16,000 --> 00:00:20,000
->> arguments, decide, vote on things together -
+arguments, decide, vote on things together -
 
 8
 00:00:20,000 --> 00:00:23,000
->> they no longer have to meet in the
+they no longer have to meet in the
 
 9
 00:00:23,000 --> 00:00:27,000
->> same physical space - often that would be
+same physical space - often that would be
 
 10
 00:00:27,000 --> 00:00:28,000
->> impossible because there's too many of
+impossible because there's too many of
 
 11
 00:00:28,000 --> 00:00:30,000
->> them or they are too geographically
+them or they are too geographically
 
 12
 00:00:30,000 --> 00:00:35,000
->> spread out. We have been using Citizen
+spread out. We have been using Citizen
 
 13
 00:00:35,000 --> 00:00:39,000
->> OS for a simple organizational task
+OS for a simple organizational task
 
 14
 00:00:39,000 --> 00:00:43,000
->> where we need our supervisory board
+where we need our supervisory board
 
 15
 00:00:43,000 --> 00:00:45,000
->> members, who are around the world
+members, who are around the world
 
 16
 00:00:45,000 --> 00:00:48,000
->> sometimes and not always physically
+sometimes and not always physically
 
 17
 00:00:48,000 --> 00:00:52,000
->> available, to review our internal policy
+available, to review our internal policy
 
 18
 00:00:52,000 --> 00:00:55,000
->> documents. The only way for us to move
+documents. The only way for us to move
 
 19
 00:00:55,000 --> 00:00:57,000
->> forward as a civilization is to learn to
+forward as a civilization is to learn to
 
 20
 00:00:57,000 --> 00:01:00,000
->> really make use of that new quality
+really make use of that new quality
 
 21
 00:01:00,000 --> 00:01:03,000
->> of connectedness. Citizen OS enables that.
+of connectedness. Citizen OS enables that.
 
 22
 00:01:03,000 --> 00:01:06,000
->> You can bring a big number of people, you
+You can bring a big number of people, you
 
 23
 00:01:06,000 --> 00:01:11,000
->> can decide on things, petitions or
+can decide on things, petitions or
 
 24
 00:01:11,000 --> 00:01:14,000
->> decisions or documents. For a
+decisions or documents. For a
 
 25
 00:01:14,000 --> 00:01:16,000
->> non-profit organization, for a civic
+non-profit organization, for a civic
 
 26
 00:01:16,000 --> 00:01:20,000
->> movement, for a village municipality. Up
+movement, for a village municipality. Up
 
 27
 00:01:20,000 --> 00:01:22,000
->> to the level of a national
+to the level of a national
 
 28
 00:01:22,000 --> 00:01:25,000
->> government or even the citizens of a
+government or even the citizens of a
 
 29
 00:01:25,000 --> 00:01:29,000
->> planet. There's no upper limit
+planet. There's no upper limit
 
 30
 00:01:29,000 --> 00:01:33,000
->> other than the planet. We are part of
+other than the planet. We are part of
 
 31
 00:01:33,000 --> 00:01:36,000
->> democracy festivals network, so that
+democracy festivals network, so that
 
 32
 00:01:36,000 --> 00:01:38,000
->> means that
+means that
 
 33
 00:01:38,000 --> 00:01:43,000
->> In our  festival, we hope to
+In our  festival, we hope to
 
 34
 00:01:43,000 --> 00:01:47,000
->> develop opinion culture in Estonia.
+develop opinion culture in Estonia.
 
 35
 00:01:47,000 --> 00:01:50,000
->> Citizen OS could help us on a new
+Citizen OS could help us on a new
 
 36
 00:01:50,000 --> 00:01:53,000
->> level, to achieve better quality
+level, to achieve better quality
 
 37
 00:01:53,000 --> 00:01:57,000
->> discussions in opinion festival. It's a
+discussions in opinion festival. It's a
 
 38
 00:01:57,000 --> 00:02:01,000
->> flavour of things to come. It
+flavour of things to come. It
 
 39
 00:02:01,000 --> 00:02:05,000
->> shows us what technology enables in
+shows us what technology enables in
 
 40
 00:02:05,000 --> 00:02:08,000
->> the information society where you can
+the information society where you can
 
 41
 00:02:08,000 --> 00:02:10,000
->> actually get the participation of big,
+actually get the participation of big,
 
 42
 00:02:10,000 --> 00:02:12,000
->> big numbers of people to jointly come
+big numbers of people to jointly come
 
 43
 00:02:12,000 --> 00:02:12,000
->> together and change things.
+together and change things.
