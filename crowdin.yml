@@ -4,3 +4,8 @@ files:
     translation: /%original_path%/%file_name%.%two_letters_code%.%file_extension%
     translation_replace:
       en.: ''
+  -
+    source: /subtitles/*.en.srt
+    translation: /%original_path%/%file_name%.%two_letters_code%.%file_extension%
+    translation_replace:
+      en.: ''
