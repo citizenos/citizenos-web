@@ -2,7 +2,7 @@
 header:
   title: crwdns14784:0crwdne14784:0
   text: |
-    crwdns14880:0crwdne14880:0
+    crwdns15764:0crwdne15764:0
   play:
     title: crwdns14690:0crwdne14690:0
     url: 'crwdns14692:0crwdne14692:0'
@@ -10,109 +10,105 @@ news:
   more: crwdns12024:0crwdne12024:0
 blocks:
   - 
-    id: crwdns12026:0crwdne12026:0
     class:
       - crwdns12028:0crwdne12028:0
-      - crwdns12030:0crwdne12030:0
     style:
-      background-color: 'crwdns12032:0crwdne12032:0'
-      background-image: crwdns12034:0crwdne12034:0
-      background-position: crwdns12036:0crwdne12036:0
-      background-size: crwdns12038:0crwdne12038:0
-    title: |
-      crwdns12040:0crwdne12040:0
+      background-image: crwdns15622:0crwdne15622:0
+      background-position: crwdns15624:0crwdne15624:0
+      background-size: crwdns15626:0crwdne15626:0
     text: |
-      crwdns12042:0{ #news-items }crwdne12042:0
-    button1st:
-      title: crwdns14684:0crwdne14684:0
-      url: crwdns12046:0crwdne12046:0
+      crwdns15628:0{ .img-fluid }crwdne15628:0
   - 
     class:
       - crwdns12048:0crwdne12048:0
-      - crwdns12050:0crwdne12050:0
+      - crwdns15630:0crwdne15630:0
+      - crwdns15632:0crwdne15632:0
     style:
-      background-image: crwdns12052:0crwdne12052:0
-      background-position: crwdns12054:0crwdne12054:0
-      background-size: crwdns12056:0crwdne12056:0
+      background-image: crwdns15634:0crwdne15634:0
+      background-position: crwdns15636:0crwdne15636:0
+      background-size: crwdns15638:0crwdne15638:0
+    title: |
+      crwdns15640:0crwdne15640:0
     text: |
-      crwdns12058:0{ .img-fluid }crwdne12058:0
+      crwdns15642:0crwdne15642:0
+    button1st:
+      title: crwdns15644:0crwdne15644:0
+      url: crwdns15646:0crwdne15646:0
   - 
     class:
       - crwdns12060:0crwdne12060:0
-      - crwdns12062:0crwdne12062:0
-      - crwdns12064:0crwdne12064:0
-      - crwdns12066:0crwdne12066:0
+      - crwdns15648:0crwdne15648:0
     style:
-      background-image: crwdns12068:0crwdne12068:0
-      background-position: crwdns12070:0crwdne12070:0
-      background-size: crwdns12072:0crwdne12072:0
-    title: |
-      crwdns14854:0crwdne14854:0
+      background-image: crwdns15650:0crwdne15650:0
+      background-position: crwdns15652:0crwdne15652:0
+      background-size: crwdns15654:0crwdne15654:0
     text: |
-      crwdns14856:0crwdne14856:0
-    button1st:
-      title: crwdns14792:0crwdne14792:0
-      url: crwdns14980:0crwdne14980:0
-    button2nd: crwdns14794:0crwdne14794:0
+      crwdns15656:0{ .img-fluid }crwdne15656:0
   - 
     class:
       - crwdns12088:0crwdne12088:0
-      - crwdns12090:0crwdne12090:0
+      - crwdns15658:0crwdne15658:0
+      - crwdns15660:0crwdne15660:0
+      - crwdns15662:0crwdne15662:0
     style:
-      background-image: crwdns12092:0crwdne12092:0
-      background-position: crwdns12094:0crwdne12094:0
-      background-size: crwdns12096:0crwdne12096:0
+      background-image: crwdns15664:0crwdne15664:0
+      background-position: crwdns15666:0crwdne15666:0
+      background-size: crwdns15668:0crwdne15668:0
+    title: |
+      crwdns15670:0crwdne15670:0
     text: |
-      crwdns12098:0{ .img-fluid }crwdne12098:0
+      crwdns15672:0crwdne15672:0
+    button1st:
+      title: crwdns15674:0crwdne15674:0
+      url: crwdns15676:0crwdne15676:0
+    button2nd: crwdns15678:0crwdne15678:0
   - 
     class:
       - crwdns12100:0crwdne12100:0
-      - crwdns12102:0crwdne12102:0
-      - crwdns12104:0crwdne12104:0
     style:
-      background-image: crwdns12106:0crwdne12106:0
-      background-position: crwdns12108:0crwdne12108:0
-      background-size: crwdns12110:0crwdne12110:0
+      background-image: crwdns15680:0crwdne15680:0
+      background-position: crwdns15682:0crwdne15682:0
+      background-size: crwdns15684:0crwdne15684:0
+    text: |
+      crwdns15686:0{ .img-fluid }crwdne15686:0
+  - 
+    class:
+      - crwdns15688:0crwdne15688:0
+      - crwdns15690:0crwdne15690:0
+      - crwdns15692:0crwdne15692:0
+    style:
+      background-image: crwdns15694:0crwdne15694:0
+      background-position: crwdns15696:0crwdne15696:0
+      background-size: crwdns15698:0crwdne15698:0
     title: |
-      crwdns14858:0crwdne14858:0
+      crwdns15700:0crwdne15700:0
     text: |
-      crwdns14810:0crwdne14810:0
+      crwdns15702:0crwdne15702:0
     button1st:
-      title: crwdns14800:0crwdne14800:0
-      url: crwdns14982:0crwdne14982:0
+      title: crwdns15704:0crwdne15704:0
+      url: crwdns15706:0crwdne15706:0
   - 
+    id: crwdns15708:0crwdne15708:0
     class:
-      - crwdns12122:0crwdne12122:0
-      - crwdns12124:0crwdne12124:0
+      - crwdns15710:0crwdne15710:0
+      - crwdns15712:0crwdne15712:0
     style:
-      background-image: crwdns12126:0crwdne12126:0
-      background-position: crwdns12128:0crwdne12128:0
-      background-size: crwdns12130:0crwdne12130:0
-    text: |
-      crwdns12132:0{ .img-fluid }crwdne12132:0
-  - 
-    class:
-      - crwdns12134:0crwdne12134:0
-      - crwdns12136:0crwdne12136:0
-      - crwdns12138:0crwdne12138:0
-      - crwdns12140:0crwdne12140:0
-    style:
+      background-color: 'crwdns15714:0crwdne15714:0'
       background-image: crwdns12142:0crwdne12142:0
-      background-position: crwdns12144:0crwdne12144:0
+      background-position: crwdns15716:0crwdne15716:0
       background-size: crwdns12146:0crwdne12146:0
     title: |
-      crwdns14860:0crwdne14860:0
+      crwdns15718:0crwdne15718:0
     text: |
-      crwdns14862:0crwdne14862:0
+      crwdns15720:0{ #news-items }crwdne15720:0
     button1st:
-      title: crwdns14806:0crwdne14806:0
-      url: crwdns14984:0crwdne14984:0
+      title: crwdns15722:0crwdne15722:0
+      url: crwdns15724:0crwdne15724:0
   - 
     id: crwdns12158:0crwdne12158:0
     class:
-      - crwdns12160:0crwdne12160:0
-    style:
-      background-color: 'crwdns12162:0crwdne12162:0'
+      - crwdns15726:0crwdne15726:0
+      - crwdns15728:0crwdne15728:0
     title: |
       crwdns14816:0crwdne14816:0
     text: |
@@ -123,9 +119,9 @@ blocks:
   - 
     id: crwdns12174:0crwdne12174:0
     class:
-      - crwdns12176:0crwdne12176:0
+      - crwdns15730:0crwdne15730:0
+      - crwdns15732:0crwdne15732:0
     style:
-      background-color: 'crwdns12178:0crwdne12178:0'
       border-left: 'crwdns12180:0crwdne12180:0'
     title: |
       crwdns12184:0crwdne12184:0
