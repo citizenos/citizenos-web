@@ -24,9 +24,9 @@ blocks:
     title: |
       crwdns14906:0crwdne14906:0
     text: |
-      crwdns14884:0{ .arrow }crwdne14884:0
+      crwdns15768:0{ .arrow }crwdne15768:0
     button1st:
-      title: crwdns14924:0crwdne14924:0
+      title: crwdns15770:0crwdne15770:0
       url: 'crwdns14926:0crwdne14926:0'
   - 
     id: crwdns11452:0crwdne11452:0
@@ -51,7 +51,7 @@ blocks:
     title: |
       crwdns11478:0crwdne11478:0
     text: |
-      crwdns14872:0{ .bullet }crwdnd14872:0{ .mt-5 }crwdnd14872:0{ .bullet }crwdnd14872:0{ .mt-5 }crwdnd14872:0{ .bullet }crwdne14872:0
+      crwdns15772:0{ .bullet }crwdnd15772:0{ .mt-5 }crwdnd15772:0{ .bullet }crwdnd15772:0{ .mt-5 }crwdnd15772:0{ .bullet }crwdne15772:0
   - 
     id: crwdns11482:0crwdne11482:0
     style:
