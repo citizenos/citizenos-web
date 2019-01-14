@@ -28,7 +28,7 @@ blocks:
 
       If you are an e-democracy researcher, please write to our Product Manager <margo@citizenos.com>.
     button1st:
-      title: Sign up to news
+      title: Sign up for news
       url: '#subscribe'
   - 
     id: forward-img
