@@ -24,7 +24,7 @@ blocks:
     title: |
       Online decision-making in teams and communities.
     text: |
-      Make argument-based decisions. Structure discussions and keep deadlines on votings. Collect votes for petitions.
+      Make argument-based decisions. Structure discussions and meet your voting deadlines. Collect votes for petitions.
 
       - [Platform features](#features)
       - [How does it work](#how)
@@ -32,7 +32,7 @@ blocks:
       - [Case studies](#case-studies)
       { .arrow }
     button1st:
-      title: Sign up to news
+      title: Sign up for news
       url: '#subscribe'
   - 
     id: features-img
@@ -64,7 +64,7 @@ blocks:
       ## Involvement{ .mt-5 }
 
       - Ideas are collected bottom-up.
-      - Discussion occures in a structured way.
+      - Discussion occurs in a structured way.
       - Can involve thousands or millions of participants.
       { .bullet }
 
