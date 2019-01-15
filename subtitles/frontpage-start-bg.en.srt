@@ -1,171 +1,171 @@
 1
-00:00:00,000 -->  00:00:02,000
+00:00:01,880 --> 00:00:04,640
 The way that the system currently functions
 
 2
-00:00:02,000 --> 00:00:04,000
-is built on traditions and the way that
+00:00:04,640 --> 00:00:07,280
+is built on traditions and the way that things have
 
 3
-00:00:04,000 --> 00:00:06,000
-things have always been. It's an online
+00:00:07,280 --> 00:00:08,140
+always been.
 
 4
-00:00:06,000 --> 00:00:10,000
-collaborative decision-making tool, which
+00:00:08,140 --> 00:00:12,300
+It's an online collaborative decision-making tool,
 
 5
-00:00:10,000 --> 00:00:12,000
-basically means that if you have many
+00:00:12,300 --> 00:00:14,660
+which basically means that if you have
 
 6
-00:00:12,000 --> 00:00:16,000
-people that want to discuss proposed
+00:00:14,660 --> 00:00:18,820
+many people that want to discuss, propose arguments,
 
 7
-00:00:16,000 --> 00:00:20,000
-arguments, decide, vote on things together -
+00:00:18,820 --> 00:00:22,660
+decide, vote on things together -
 
 8
-00:00:20,000 --> 00:00:23,000
-they no longer have to meet in the
+00:00:22,660 --> 00:00:27,060
+they no longer have to meet in the same physical space.
 
 9
-00:00:23,000 --> 00:00:27,000
-same physical space - often that would be
+00:00:28,380 --> 00:00:30,300
+Often that would be impossible
 
 10
-00:00:27,000 --> 00:00:28,000
-impossible because there's too many of
+00:00:30,300 --> 00:00:32,200
+because there's too many of them or
 
 11
-00:00:28,000 --> 00:00:30,000
-them or they are too geographically
+00:00:32,200 --> 00:00:34,880
+they are too geographically spread out.
 
 12
-00:00:30,000 --> 00:00:35,000
-spread out. We have been using Citizen
+00:00:35,820 --> 00:00:38,560
+We have been using Citizen OS
 
 13
-00:00:35,000 --> 00:00:39,000
-OS for a simple organizational task
+00:00:38,580 --> 00:00:42,360
+for a simple organizational task, that
 
 14
-00:00:39,000 --> 00:00:43,000
-where we need our supervisory board
+00:00:42,360 --> 00:00:45,800
+where we need our supervisory board members,
 
 15
-00:00:43,000 --> 00:00:45,000
-members, who are around the world
+00:00:45,800 --> 00:00:48,480
+who are around the world sometimes,
 
 16
-00:00:45,000 --> 00:00:48,000
-sometimes and not always physically
+00:00:48,480 --> 00:00:51,620
+and not always physically available,
 
 17
-00:00:48,000 --> 00:00:52,000
-available, to review our internal policy
+00:00:51,620 --> 00:00:55,080
+to review our internal policy documents.
 
 18
-00:00:52,000 --> 00:00:55,000
-documents. The only way for us to move
+00:00:55,760 --> 00:00:57,440
+The only way for us to move
 
 19
-00:00:55,000 --> 00:00:57,000
+00:00:57,440 --> 00:01:00,200
 forward as a civilization is to learn to
 
 20
-00:00:57,000 --> 00:01:00,000
-really make use of that new quality
+00:01:00,200 --> 00:01:04,160
+really make use of that new quality of connectedness.
 
 21
-00:01:00,000 --> 00:01:03,000
-of connectedness. Citizen OS enables that.
+00:01:04,160 --> 00:01:05,800
+Citizen OS enables that.
 
 22
-00:01:03,000 --> 00:01:06,000
-You can bring a big number of people, you
+00:01:05,820 --> 00:01:09,020
+You can bring a big number of people,
 
 23
-00:01:06,000 --> 00:01:11,000
-can decide on things, petitions or
+00:01:09,020 --> 00:01:13,860
+you can decide on things, on petitions,
 
 24
-00:01:11,000 --> 00:01:14,000
-decisions or documents. For a
+00:01:13,860 --> 00:01:16,380
+on decisions, on documents.
 
 25
-00:01:14,000 --> 00:01:16,000
-non-profit organization, for a civic
+00:01:16,380 --> 00:01:19,440
+For a non-profit organization, for a civic movement,
 
 26
-00:01:16,000 --> 00:01:20,000
-movement, for a village municipality. Up
+00:01:19,440 --> 00:01:22,260
+for a village municipality.
 
 27
-00:01:20,000 --> 00:01:22,000
-to the level of a national
+00:01:22,260 --> 00:01:25,620
+Up to the level of a national government
 
 28
-00:01:22,000 --> 00:01:25,000
-government or even the citizens of a
+00:01:25,620 --> 00:01:28,760
+or even the citizens of a planet.
 
 29
-00:01:25,000 --> 00:01:29,000
-planet. There's no upper limit
+00:01:29,380 --> 00:01:31,900
+There's no upper limit
 
 30
-00:01:29,000 --> 00:01:33,000
-other than the planet. We are part of
+00:01:31,900 --> 00:01:34,860
+other than, yeah, the planet.
 
 31
-00:01:33,000 --> 00:01:36,000
-democracy festivals network, so that
+00:01:35,120 --> 00:01:38,920
+We are a part of the democracy festivals network,
 
 32
-00:01:36,000 --> 00:01:38,000
-means that
+00:01:38,920 --> 00:01:40,920
+so that means that
 
 33
-00:01:38,000 --> 00:01:43,000
-In our  festival, we hope to
+00:01:40,927 --> 00:01:45,941
+in our festival, the Opinion Festival, we hope to
 
 34
-00:01:43,000 --> 00:01:47,000
-develop opinion culture in Estonia.
+00:01:45,941 --> 00:01:49,952
+develop our opinion culture in Estonia.
 
 35
-00:01:47,000 --> 00:01:50,000
+00:01:49,952 --> 00:01:52,960
 Citizen OS could help us on a new
 
 36
-00:01:50,000 --> 00:01:53,000
+00:01:52,960 --> 00:01:55,968
 level, to achieve better quality
 
 37
-00:01:53,000 --> 00:01:57,000
-discussions in opinion festival. It's a
+00:01:55,968 --> 00:01:58,500
+discussions in Opinion Festival.
 
 38
-00:01:57,000 --> 00:02:01,000
-flavour of things to come. It
+00:01:58,620 --> 00:02:02,480
+It's a flavour of things to come. Or
 
 39
-00:02:01,000 --> 00:02:05,000
-shows us what technology enables in
+00:02:02,500 --> 00:02:06,740
+it shows us what technology enables
 
 40
-00:02:05,000 --> 00:02:08,000
-the information society where you can
+00:02:06,740 --> 00:02:09,640
+in the information society, where
 
 41
-00:02:08,000 --> 00:02:10,000
-actually get the participation of big,
+00:02:09,640 --> 00:02:12,400
+you can actually get the participation of
 
 42
-00:02:10,000 --> 00:02:12,000
-big numbers of people to jointly come
+00:02:12,400 --> 00:02:14,460
+big, big numbers of people
 
 43
-00:02:12,000 --> 00:02:14,000
-together and change things.
+00:02:14,460 --> 00:02:17,420
+to jointly come together and change things.
