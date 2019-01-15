@@ -145,10 +145,6 @@ blocks:
         text: |
             Our open source code was used to set up the citizen initiatives platform [www.rahvaalgatus.ee](https://www.rahvaalgatus.ee).
 
-            The initiatives can be signed digitally using the Estonian National ID-card.
-
-            Photo by Paul Kuimet.
-
     -
         id: case-study-1-img
         class:
