@@ -13,6 +13,9 @@ navigation:
         title: Research
         url: /research/
         class: research
+    -
+        title: Blog
+        url: https://medium.com/citizenos
 
 language: English
 languages:
