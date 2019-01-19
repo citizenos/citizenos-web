@@ -1,6 +1,6 @@
 1
 00:00:00,000 --> 00:00:03,160
-Citizen OS Demo
+Citizen OS Platform Demo. 
 
 2
 00:00:03,180 --> 00:00:06,600
@@ -144,4 +144,4 @@ Thanks for watching.
 
 37
 00:02:55,120 --> 00:02:57,200
-Citizen OS is Open Source.
+Open Source code available on GitHub.
