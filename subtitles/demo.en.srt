@@ -1,121 +1,147 @@
-0:00:00.000,0:00:03.160
-Citizen OS Platform Demo.
+1
+00:00:00,000 --> 00:00:03,160
+Citizen OS Platform Demo. 
 
-0:00:03.180,0:00:06.600
+2
+00:00:03,180 --> 00:00:06,600
 Hello and welcome to Citizenos.com.
 
-0:00:06.600,0:00:09.440
+3
+00:00:06,600 --> 00:00:09,440
 Click on the Use Platform button.
 
-0:00:09.440,0:00:12.120
+4
+00:00:09,440 --> 00:00:12,120
 The platform is available in many languages,
 
-0:00:12.120,0:00:16.700
+5
+00:00:12,120 --> 00:00:16,700
 so select your language and if it is not yet supported, please let us know.
 
-0:00:16.700,0:00:20.620
+6
+00:00:16,700 --> 00:00:20,620
 These are all public topics that are being discussed right now.
 
-0:00:20.620,0:00:24.950
-You can click on
-them, read them, but in order to
+7
+00:00:20,620 --> 00:00:24,950
+You can click on them, read them, but in order to
 
-0:00:24.950,0:00:29.960
-participate, you need to login using your
-Facebook or Google account,
+8
+00:00:24,950 --> 00:00:29,960
+participate, you need to login using your Facebook or Google account,
 
-0:00:29.960,0:00:34.400
-the Estonian ID card, or by creating a
-new user account.
+9
+00:00:29,960 --> 00:00:34,400
+the Estonian ID card, or by creating a new user account.
 
-0:00:36.060,0:00:38.840
+10
+00:00:36,060 --> 00:00:38,840
 Once I have logged in,
 
-0:00:38.840,0:00:43.240
+11
+00:00:38,840 --> 00:00:43,240
 this argument section becomes active and I can make my main statement here,
 
-0:00:43.240,0:00:51.660
-explain and prove it and post as a pro
-or con argument. To create your own topic,
+12
+00:00:43,240 --> 00:00:51,660
+explain and prove it and post as a pro or con argument. To create your own topic,
 
-0:00:51.660,0:00:56.020
+13
+00:00:51,660 --> 00:00:56,020
 go to create topic on the left hand menu.
 
-0:00:56.020,0:01:00.520
+14
+00:00:56,020 --> 00:01:00,520
 And here you can edit the document with
 
-0:01:00.520,0:01:04.920
+15
+00:01:00,520 --> 00:01:04,920
 others at the same time.
 
-0:01:04.920,0:01:09.900
-Inline comments
-are available while in editing mode.
+16
+00:01:04,920 --> 00:01:09,900
+Inline comments are available while in editing mode.
 
-0:01:09.900,0:01:16.800
+17
+00:01:09,900 --> 00:01:16,800
 Go to to settings to make the topic private or public add a Twitter hashtag,
 
-0:01:16.800,0:01:21.520
+18
+00:01:16,800 --> 00:01:21,520
 invite users to join or share the link.
 
-0:01:22.720,0:01:25.440
+19
+00:01:22,720 --> 00:01:25,440
 To get an overview of your topics,
 
-0:01:25.440,0:01:29.780
+20
+00:01:25,440 --> 00:01:29,780
 go to my topics on the left-hand menu.
 
-0:01:32.200,0:01:38.360
+21
+00:01:32,200 --> 00:01:38,360
 Here you can assign editing rights to the users you invited.
 
-0:01:39.380,0:01:43.100
-If you want to discuss many
-topics with the same group of people,
+22
+00:01:39,380 --> 00:01:43,100
+If you want to discuss many topics with the same group of people,
 
-0:01:43.100,0:01:46.020
+23
+00:01:43,100 --> 00:01:46,020
 you can create groups.
 
-0:01:47.340,0:01:52.860
+24
+00:01:47,340 --> 00:01:52,860
 Every time a new topic is created, members get an automatic email.
 
-0:01:52.860,0:02:00.360
-If you need to vote to reach a
-decision, you can send the topic to vote.
+25
+00:01:52,860 --> 00:02:00,360
+If you need to vote to reach a decision, you can send the topic to vote.
 
-0:02:01.380,0:02:06.000
-Now the topic can no longer be edited.
-You can choose between regular and
+26
+00:02:01,380 --> 00:02:06,000
+Now the topic can no longer be edited. You can choose between regular and
 
-0:02:06.000,0:02:12.640
-custom vote. And delegation of the vote
-is also possible, which means
+27
+00:02:06,000 --> 00:02:12,640
+custom vote. And delegation of the vote is also possible, which means
 
-0:02:12.640,0:02:17.700
-for this topic people can delegate their 
-vote to another user.
+28
+00:02:12,640 --> 00:02:17,700
+for this topic people can delegate their vote to another user.
 
-0:02:19.060,0:02:22.480
+29
+00:02:19,060 --> 00:02:22,480
 You can also set a deadline for the voting.
 
-0:02:24.620,0:02:31.780
+30
+00:02:24,620 --> 00:02:31,780
 While voting is open, you cannot see the results to not influence the outcome of the vote.
 
-0:02:32.460,0:02:36.160
+31
+00:02:32,460 --> 00:02:36,160
 Once everyone has voted or the voting deadline has arrived,
 
-0:02:36.160,0:02:39.100
+32
+00:02:36,160 --> 00:02:39,100
 you can send the topic to follow-up.
 
-0:02:39.100,0:02:45.060
+33
+00:02:39,100 --> 00:02:45,060
 Here, you can post brief updates on how the decision is moving along.
 
-0:02:45.980,0:02:48.800
+34
+00:02:45,980 --> 00:02:48,800
 How much does Citizen OS cost?
 
-0:02:48.800,0:02:54.000
-It is free to use for everyone
-forever on your mobile, tablet or computer.
+35
+00:02:48,800 --> 00:02:54,000
+It is free to use for everyone forever on your mobile tablet or computer.
 
-0:02:54.000,0:02:55.120
+36
+00:02:54,000 --> 00:02:55,120
 Thanks for watching.
 
-0:02:55.120,0:02:57.200
+37
+00:02:55,120 --> 00:02:57,200
 Open Source code available on GitHub.
