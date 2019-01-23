@@ -6,21 +6,9 @@ blocks:
       background: 'linear-gradient(180deg, #0EB7FE 0%, #0680FC 100%)'
   - 
     id: careers
-    label: About
     title: |
       How to join the team.
     text: |
       Want to provide the people of the world with an amazing tool for co-deciding and online participatory democracy?
 
       If our vision inspires you, please write to our Head of partnerships <anett@citizenos.com>.
-  - 
-    id: developer-volunteer
-    class:
-      - career
-      - d-none
-    label: Careers
-    title: |
-      Volunteers needed
-    text: |
-      [Back to career opportunities](/careers){ .close-career .arrow-left .mb-5 }
-      Would you like to help make people's voices heard .. in Nigeria? Citizen OS is an online decision-making platform and [citizenvoice.ng](https://citizenvoice.ng) would like to integrate the API to protect people against environmental harms in Nigeria. If you are available, please contact Thomas at <info@citizenvoice.ng>!
