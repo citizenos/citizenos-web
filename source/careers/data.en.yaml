@@ -6,7 +6,7 @@ blocks:
 
     -
         id: careers
-        label: About
+#        label: About
         title: |
             How to join the team.
         text: |
