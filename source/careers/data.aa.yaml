@@ -6,18 +6,7 @@ blocks:
       background: 'crwdns11206:0crwdne11206:0'
   - 
     id: crwdns11208:0crwdne11208:0
-    label: crwdns11210:0crwdne11210:0
     title: |
       crwdns14954:0crwdne14954:0
     text: |
       crwdns15760:0crwdne15760:0
-  - 
-    id: crwdns15446:0crwdne15446:0
-    class:
-      - crwdns11218:0crwdne11218:0
-      - crwdns11220:0crwdne11220:0
-    label: crwdns11222:0crwdne11222:0
-    title: |
-      crwdns14958:0crwdne14958:0
-    text: |
-      crwdns11226:0{ .close-career .arrow-left .mb-5 }crwdnd11226:0[citizenvoice.ng]crwdne11226:0
