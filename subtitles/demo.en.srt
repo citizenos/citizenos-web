@@ -1,6 +1,6 @@
 1
 00:00:00,000 --> 00:00:03,160
-Citizen OS Platform Demo. 
+Citizen OS Platform Demo.
 
 2
 00:00:03,180 --> 00:00:06,600
@@ -136,7 +136,7 @@ How much does Citizen OS cost?
 
 35
 00:02:48,800 --> 00:02:54,000
-It is free to use for everyone forever on your mobile tablet or computer.
+It is free to use for everyone forever on your mobile, tablet or computer.
 
 36
 00:02:54,000 --> 00:02:55,120
