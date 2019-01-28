@@ -181,7 +181,7 @@ blocks:
         title: |
             Our online decision-making community is growing.
         button1st:
-            title: Use platform - it's free!
+            title: Use platform
             url: https://app.citizenos.com
             target: _blank
 
