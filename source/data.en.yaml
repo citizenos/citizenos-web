@@ -1,12 +1,13 @@
 header:
     title: Your platform for decision-making in teams and communities.
     text: |
-        Make argument-based decisions. Structure discussions and meet your voting deadlines. Collect votes for petitions.
+        Make argument-based decisions. Structure discussions and meet voting deadlines.
+        Collect votes for petitions.
 
         We are an open source social enterprise.
 
     play:
-        title: Play video
+        title: Introduction
         url: '#'
     #whatIs:
         #title: What is Citizen OS
