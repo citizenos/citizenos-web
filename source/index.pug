@@ -79,9 +79,14 @@ block header
                     h1.mb-4= self.header.title
                     +markdown(self.header.text)
                     .mt-4
-                        a.btn.btn-primary.mr-2(href=self.header.play.url, data-toggle='modal', data-target='#video-popup')  ►
-                        a.mr-5(href=self.header.play.url, data-toggle='modal', data-target='#video-popup')
-                            strong= self.header.play.title
+                        if self.header.play
+                            a.btn.btn-primary.mr-2(href=self.header.play.url, data-toggle='modal', data-target='#video-popup')  ►
+                            a.mr-5(href=self.header.play.url, data-toggle='modal', data-target='#video-popup')
+                                strong= self.header.play.title
+                        if self.header.demo
+                            a.btn.btn-primary.mr-2(href=self.header.demo.url, data-toggle='modal', data-target='#video-popup')  ►
+                            a.mr-5(href=self.header.demo.url, data-toggle='modal', data-target='#video-popup')
+                                strong= self.header.demo.title
 
                         if self.header && self.header.whatIs
                             a.btn.btn-primary.mr-2(href=self.header.whatIs.url) ?
@@ -182,10 +187,8 @@ append script
                 }
             })
 
-            var videoUrl = 'https://www.youtube.com/embed/hDLWbQQAk8g?rel=0&showinfo=0&modestbranding=1&autoplay=1'
-
-            $('#video-popup').on('shown.bs.modal', function () {
-                $('#video-popup iframe').attr('src', videoUrl)
+            $('a[data-target="#video-popup"]').click(function () {
+                $('#video-popup iframe').attr('src', $(this).attr('href'))
                 $('#video-bg').get(0).pause()
             })
 
