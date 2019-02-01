@@ -12,6 +12,10 @@ append stylus
                 font-weight bold
                 color #42C8C6
 
+        #flexibleformat-lastbox
+            background #f7f7f7
+
+
         #stats
             h4
                 color #42C8C6
@@ -61,6 +65,28 @@ append stylus
 
 
 append content
+    if self.flexibleformatBlocks
+        #flexibleformat-blocks.d-none
+            .row.mt-5
+                each b in self.flexibleformatBlocks.slice(0, 3)
+                    .col-12.col-sm-4.mb-5
+                        .news-block.col-12.h-100.bg-white.box-shadow.p-0
+                            img.w-100(src=b.poster)
+                            .py-3.px-3
+                                h4.mt-0.mb-2= b.title
+                                +markdown(b.text)
+            .row
+                - var b = self.flexibleformatBlocks.pop()
+                .news-block.col-12
+                    .col-12.h-100.bg-white.box-shadow.p-0
+                        .row
+                            .col-12.col-sm-4
+                                #flexibleformat-lastbox.col-12.py-3.px-5.h-100.d-flex.align-items-center
+                                    img.w-100(src=b.poster)
+                            .col-12.col-sm-8.pt-3.text-left
+                                h4.mt-0.mb-2= b.title
+                                +markdown(b.text)
+
     #option-blocks.d-none
         .row.mt-5
             each b in self.optionBlocks
@@ -115,6 +141,14 @@ append script
             $('#case-study-2-img .block-text').removeClass('col-sm-8')
             $('#case-study-2-img .block-text').addClass('col-sm-10')
             $('#case-study-2-img .block-text').removeClass('offset-sm-2')
+
+            $('#flexibleformat').removeClass('col-sm-6')
+            $('#flexibleformat .block-text').removeClass('col-sm-8')
+            $('#flexibleformat .block-text').removeClass('offset-sm-2')
+            $('#flexibleformat .block-text').addClass('col-sm-10')
+            $('#flexibleformat .block-text').addClass('offset-sm-1')
+            $('#flexibleformat .block-text').append($('#flexibleformat-blocks').html())
+            $('#flexibleformat-blocks').remove()
 
             $('#options').removeClass('col-sm-6')
             $('#options .block-text').removeClass('col-sm-8')
