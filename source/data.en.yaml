@@ -4,7 +4,7 @@ header:
         Make argument-based decisions. Structure discussions and meet voting deadlines.
         Collect votes for petitions.
 
-        We are an open source social enterprise.
+        We are an Open Source social enterprise devoted to advancing e-democracy.
 
     play:
         title: Introduction
@@ -44,7 +44,7 @@ blocks:
             background-size: 360px 360px
         # label: Our Product
         title: |
-            Developing **open source** software.
+            Developing **Open Source** software.
         text: |
             We believe the tools for online participatory democracy should be free to use for everyone.
 
@@ -74,9 +74,9 @@ blocks:
             background-position: 0 10%
             background-size: 122px 122px
         title: |
-            Raising awareness on **participatory democracy.**
+            Raising awareness on **Participatory Democracy.**
         text: |
-            We believe the way for us to move forward as a civilization is to bring democracy online.
+            We believe the way for us to move forward as a civilization is to globally come together and decide on things.
         button1st:
             title: About movement
             url: /movement/
@@ -106,7 +106,7 @@ blocks:
             background-size: 360px 360px
         # label: Let’s Educate
         title: |
-            Relying on **research and data.**
+            Relying on **Research and Data.**
         text: |
             We collaborate with e-democracy researchers to help develop our products.
         button1st:
@@ -142,7 +142,7 @@ blocks:
         title: |
             Help us reach even more people.
         text: |
-            Whether you are a developer, translator, researcher or journalist, join us!
+            Whether you are a developer, translator, researcher, designer, hactivist or journalist - join us!
         button1st:
             title: Contribute
             url: /contribute/

@@ -35,7 +35,7 @@ platformLink:
 mobileMenu: MENU
 
 footer:
-    text: Citizen OS is an open source social enterprise.
+    text: Citizen OS is an Open Source social enterprise.
     navigation:
         -
             title: About

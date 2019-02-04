@@ -36,7 +36,8 @@ blocks:
             title: Sign up for news
             url: '#subscribe'
 
-         #[f](https://www.facebook.com/citizenos.web){ .btn .btn-primary .my-2 .ml-3 } [t](https://twitter.com/Citizen_OS){ .btn .btn-primary .my-2 .ml-3 }
+        [f]: (https://www.facebook.com/citizenos.web){ .btn .btn-primary .my-2 .ml-3 }
+        [t]: (https://twitter.com/Citizen_OS){ .btn .btn-primary .my-2 .ml-3 }
 
     -
         class:
@@ -66,7 +67,7 @@ blocks:
             Governments are increasingly trusting citizens to help solve difficult social issues.
 
         button1st:
-            title: Use platform - it's free!
+            title: Use platform
             url: https://app.citizenos.com
             target: _blank
 
@@ -84,7 +85,7 @@ blocks:
         title: |
             Together we can advance online participatory democracy.
         text: |
-            We are developing products that help people create a better future. Whether you are a developer, translator, journalist or researcher, join us!
+            We are developing products that help people create a better future. Whether you are a developer, translator, researcher, designer, hactivist or journalist - join us!
         button1st:
             title: Contribute
             url: /contribute/
