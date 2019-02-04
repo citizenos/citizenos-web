@@ -21,11 +21,12 @@ language: English
 languages:
     en: English
     et: Eesti
-    lt: Lietuvių
-    ua: Українська
+    fi: Suomeksi
     fr: Français
+    lt: Lietuvių
     lv: Latviešu
     ru: Pусский
+    ua: Українськаw
 selectLanguage: Languages
 platformLink:
         title: Use platform

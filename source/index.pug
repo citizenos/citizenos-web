@@ -141,6 +141,42 @@ append content
 append script
     script.
         $(function () {
+            var getBrowserLocale = function () {
+                var language
+                if (navigator.languages && navigator.languages.length) {
+                    language = navigator.languages[0]
+                } else {
+                    language = navigator.userLanguage || navigator.language || navigator.browserLanguage || 'en'
+                }
+
+                language = language.substring(0, 2)
+
+                if (['en', 'et', 'ru', 'fi', 'fr'].indexOf(language) === -1) {
+                    language = 'en'
+                }
+
+                return language
+            }
+
+            var getOtherLocalePath = function (locale) {
+                var otherLocalePaths = JSON.parse('!{ JSON.stringify(self.otherLocalePaths) }')
+                return otherLocalePaths[locale]
+            }
+
+            var savedLocale = window.localStorage.getItem('language')
+            var browserLocale = getBrowserLocale()
+            var pageLocale = '#{ self.locale }'
+
+            if (!savedLocale) {
+                window.localStorage.setItem('language',  browserLocale)
+
+                if (browserLocale !== pageLocale) {
+                    //- window.location.replace(getOtherLocalePath(browserLocale))
+                }
+            } else if (savedLocale !== pageLocale) {
+                //- window.location.replace(getOtherLocalePath(savedLocale))
+            }
+
             $('#video').removeClass('col-sm-6')
 
             $('.block.col-sm-4').removeClass('col-sm-6')

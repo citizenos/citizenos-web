@@ -1,15 +1,9 @@
 locales:
-    - be
-    - de
     - en
-    - es
     - et
     - fi
     - fr
-    - id
-    - nl
     - ru
-    - uk
     - aa # Crowdin In-context pseudo language
 defaultLocale: en
 

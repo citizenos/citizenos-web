@@ -28,6 +28,7 @@ html(lang=self.locale)
         style
             block stylus
 
+        script(src='/assets/js/jquery-3.3.1.min.js')
         script(async='', src='https://www.googletagmanager.com/gtag/js?id=UA-67049149-2')
         script.
             window.dataLayer = window.dataLayer || [];
@@ -50,7 +51,6 @@ html(lang=self.locale)
         include footer.pug
 
         script(src='https://downloads.mailchimp.com/js/signup-forms/popup/unique-methods/embed.js', data-dojo-config='usePlainJson: true, isDebug: false')
-        script(src='/assets/js/jquery-3.3.1.min.js')
         script(src='/assets/js/bootstrap.min.js')
         script(src='/script.js')
 
