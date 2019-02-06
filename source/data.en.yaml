@@ -1,18 +1,19 @@
 header:
-    title: Let's decide together! Petitions and democratic decision-making in teams and communities.
+    title: Let's decide together! Discuss, vote or start a petition. Involve your team, community or the whole world!
     text: |
-        Make argument-based decisions.
-        Structure discussions and meet voting deadlines.
-        Collect votes for petitions.
+        Whether you need to collect votes for a petition, crowdsource ideas or
+        discuss and vote on important issues with thousands of stakeholders,
+        we are here to empower you.
 
-        We are an Open Source social enterprise advancing e-democracy.
+        We are an Open Source social enterprise.
 
-        The platform is currently in 10 languages: English, Estonian, Russian, Finnish, French, German,
-        Ukrainian, Macedonian, Bahasa Indonesian and Spanish.
+        The platform is currently available in 10 languages: English, Estonian, Russian,
+        Finnish, French, German, Ukrainian, Macedonian, Bahasa Indonesian and Spanish.
 
     play:
         title: Introduction
         url: https://www.youtube.com/embed/hDLWbQQAk8g?rel=0&showinfo=0&modestbranding=1&autoplay=1
+
     demo:
         title: Demo
         url: https://www.youtube.com/embed/UC44qCCIixE?rel=0&showinfo=0&modestbranding=1&autoplay=1
