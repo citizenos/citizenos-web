@@ -5,6 +5,7 @@ blocks:
             - order-0
             - order-sm-1
         style:
+            min-height: 400px
             background-color: '#FFF1AD'
             background-image: url(/assets/images/product-start.png), url(/assets/images/bubble-dots.png)
             background-position: right center, 0 10%
