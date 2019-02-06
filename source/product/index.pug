@@ -105,28 +105,28 @@ append content
                         = b.title
                         span.stats-value.d-block.mb-2(data-id=b.id)
 
-    #how-carousel.carousel.slide.carousel-fade(data-ride='false')
-        ol.carousel-indicators
-            each v, idx in self.howBlocks
-                li(class={ active: idx === 0 }, data-target='#how-carousel', data-slide-to=idx)
-        .carousel-inner
-            each v, idx in self.howBlocks
-                .carousel-item.text-center(class={ active: idx === 0 }, data-id=idx)
-                    .embed-responsive.embed-responsive-16by9
-                        video.embed-responsive-item(poster=v.poster, playsinline, autoplay, muted, loop, style='top:2px')
-                            source(src=v.webm, type='video/webm')
-                            source(src=v.mp4, type='video/mp4')
-        a.carousel-control-prev(href='#how-carousel', role='button', data-slide='prev')
-            span.carousel-control-prev-icon(aria-hidden='true')
-            span.sr-only Previous
-        a.carousel-control-next(href='#how-carousel', role='button', data-slide='next')
-            span.carousel-control-next-icon(aria-hidden='true')
-            span.sr-only Next
-
-    each v, idx in self.howBlocks
-        .d-none(id='carousel-text-' + idx)
-            +markdown(v.text)
-            a.btn.btn-primary.my-2(href='#carousel-next')= v.button
+    //- #how-carousel.carousel.slide.carousel-fade(data-ride='false')
+    //-     ol.carousel-indicators
+    //-         each v, idx in self.howBlocks
+    //-             li(class={ active: idx === 0 }, data-target='#how-carousel', data-slide-to=idx)
+    //-     .carousel-inner
+    //-         each v, idx in self.howBlocks
+    //-             .carousel-item.text-center(class={ active: idx === 0 }, data-id=idx)
+    //-                 .embed-responsive.embed-responsive-16by9
+    //-                     video.embed-responsive-item(poster=v.poster, playsinline, autoplay, muted, loop, style='top:2px')
+    //-                         source(src=v.webm, type='video/webm')
+    //-                         source(src=v.mp4, type='video/mp4')
+    //-     a.carousel-control-prev(href='#how-carousel', role='button', data-slide='prev')
+    //-         span.carousel-control-prev-icon(aria-hidden='true')
+    //-         span.sr-only Previous
+    //-     a.carousel-control-next(href='#how-carousel', role='button', data-slide='next')
+    //-         span.carousel-control-next-icon(aria-hidden='true')
+    //-         span.sr-only Next
+    //-
+    //- each v, idx in self.howBlocks
+    //-     .d-none(id='carousel-text-' + idx)
+    //-         +markdown(v.text)
+    //-         a.btn.btn-primary.my-2(href='#carousel-next')= v.button
 
 
 append script
@@ -162,18 +162,18 @@ append script
             $('#stats .block-text h2').after($('#stats-blocks').html())
             $('#stats-blocks').remove()
 
-            $('#how-videos').append($('#how-carousel'))
-
-            $('a[href="#carousel-next"]').click(function () {
-                $('#how-carousel').carousel('next')
-            })
-
-            $('#how-carousel').on('slid.bs.carousel', function () {
-                var id = $('#how-carousel').find('.carousel-item.active').data('id')
-
-                $('#carousel-text').html($('#carousel-text-' + id).html())
-            })
-            $('#how-carousel').trigger('slid.bs.carousel')
+            //- $('#how-videos').append($('#how-carousel'))
+            //-
+            //- $('a[href="#carousel-next"]').click(function () {
+            //-     $('#how-carousel').carousel('next')
+            //- })
+            //-
+            //- $('#how-carousel').on('slid.bs.carousel', function () {
+            //-     var id = $('#how-carousel').find('.carousel-item.active').data('id')
+            //-
+            //-     $('#carousel-text').html($('#carousel-text-' + id).html())
+            //- })
+            //- $('#how-carousel').trigger('slid.bs.carousel')
 
             $(window).on('resize scroll', function () {
                 var elementTop = $('#stats').offset().top

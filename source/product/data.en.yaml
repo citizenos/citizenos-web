@@ -95,32 +95,32 @@ blocks:
             - Safe encrypted data, secure platform in a cloud server.
             { .bullet }
 
-    -
-        id: how-videos
-        style:
-            padding-top: 5rem
-            padding-bottom: 5rem
-            background-image: url(/assets/images/bubble-turquoise.svg), url(/assets/images/bubble-dots.png)
-            background-position: 0% 5%, 0% 10%
-            background-size: 45px 45px, 350px 350px
-        class:
-            - order-4
-            - order-sm-5
-
-    -
-        id: how
-        class:
-            - order-5
-            - order-sm-4
-        style:
-            padding-top: 5rem
-            padding-bottom: 5rem
-            background-image: url(/assets/images/bubble-orange.svg)
-            background-position: 10% 90%
-            background-size: 75px 75px
-        label: How does it work?
-        text: |
-            { #carousel-text }
+    # -
+    #     id: how-videos
+    #     style:
+    #         padding-top: 5rem
+    #         padding-bottom: 5rem
+    #         background-image: url(/assets/images/bubble-turquoise.svg), url(/assets/images/bubble-dots.png)
+    #         background-position: 0% 5%, 0% 10%
+    #         background-size: 45px 45px, 350px 350px
+    #     class:
+    #         - order-4
+    #         - order-sm-5
+    #
+    # -
+    #     id: how
+    #     class:
+    #         - order-5
+    #         - order-sm-4
+    #     style:
+    #         padding-top: 5rem
+    #         padding-bottom: 5rem
+    #         background-image: url(/assets/images/bubble-orange.svg)
+    #         background-position: 10% 90%
+    #         background-size: 75px 75px
+    #     label: How does it work?
+    #     text: |
+    #         { #carousel-text }
 
     -
         id: options
@@ -220,53 +220,53 @@ flexibleformatBlocks:
         text: |
             Integrate our widget in your site or platform to conduct discussion based on pro and con arguments.
 
-howBlocks:
-    -
-        poster:
-        mp4: /assets/videos/product-how-01.mp4
-        webm: /assets/videos/product-how-01.webm
-        text: |
-            ## Create documents – private or public.
-
-            Documents can be private or public.
-            Keep all files in one place.
-            Browse existing topics or create a new one.
-#        button: Form groups, send invites, set editing rights
-    -
-        poster:
-        mp4: /assets/videos/product-how-02.mp4
-        webm: /assets/videos/product-how-02.webm
-        text: |
-            ## Form groups, invite members, set editing rights.
-#        button: Edit documents with others at the same time
-    -
-        poster:
-        mp4: /assets/videos/product-how-03.mp4
-        webm: /assets/videos/product-how-03.webm
-        text: |
-            ## Edit documents with others at the same time.
-#        button: Discuss in a structured way
-    -
-        poster:
-        mp4: /assets/videos/product-how-04.mp4
-        webm: /assets/videos/product-how-04.webm
-        text: |
-            ## Discuss in a structured way.
-#        button: Vote. Delegate your vote. Set deadlines for voting
-    -
-        poster:
-        mp4: /assets/videos/product-how-05.mp4
-        webm: /assets/videos/product-how-05.webm
-        text: |
-            ## Custom voting. Delegate vote. Deadlines for voting.
-#        button: Inform your group about the outcome
-    -
-        poster:
-        mp4: /assets/videos/product-how-06.mp4
-        webm: /assets/videos/product-how-06.webm
-        text: |
-            ## Inform your group about the outcome.
-#        button: Create documents – private or public
+# howBlocks:
+#     -
+#         poster:
+#         mp4: /assets/videos/product-how-01.mp4
+#         webm: /assets/videos/product-how-01.webm
+#         text: |
+#             ## Create documents – private or public.
+#
+#             Documents can be private or public.
+#             Keep all files in one place.
+#             Browse existing topics or create a new one.
+#        # button: Form groups, send invites, set editing rights
+#     -
+#         poster:
+#         mp4: /assets/videos/product-how-02.mp4
+#         webm: /assets/videos/product-how-02.webm
+#         text: |
+#             ## Form groups, invite members, set editing rights.
+#        # button: Edit documents with others at the same time
+#     -
+#         poster:
+#         mp4: /assets/videos/product-how-03.mp4
+#         webm: /assets/videos/product-how-03.webm
+#         text: |
+#             ## Edit documents with others at the same time.
+#        # button: Discuss in a structured way
+#     -
+#         poster:
+#         mp4: /assets/videos/product-how-04.mp4
+#         webm: /assets/videos/product-how-04.webm
+#         text: |
+#             ## Discuss in a structured way.
+#        # button: Vote. Delegate your vote. Set deadlines for voting
+#     -
+#         poster:
+#         mp4: /assets/videos/product-how-05.mp4
+#         webm: /assets/videos/product-how-05.webm
+#         text: |
+#             ## Custom voting. Delegate vote. Deadlines for voting.
+#        # button: Inform your group about the outcome
+#     -
+#         poster:
+#         mp4: /assets/videos/product-how-06.mp4
+#         webm: /assets/videos/product-how-06.webm
+#         text: |
+#             ## Inform your group about the outcome.
+#        # button: Create documents – private or public
 
 statsBlocks:
     -
