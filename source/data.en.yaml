@@ -1,10 +1,14 @@
 header:
     title: Let's decide together! Petitions and democratic decision-making in teams and communities.
     text: |
-        Make argument-based decisions. Structure discussions and meet voting deadlines.
+        Make argument-based decisions.
+        Structure discussions and meet voting deadlines.
         Collect votes for petitions.
 
-        We are an Open Source social enterprise devoted to advancing e-democracy.
+        We are an Open Source social enterprise advancing e-democracy.
+
+        The platform is currently in 10 languages: English, Estonian, Russian, Finnish, French, German,
+        Ukrainian, Macedonian, Bahasa Indonesian and Spanish.
 
     play:
         title: Introduction
