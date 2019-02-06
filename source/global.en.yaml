@@ -6,7 +6,7 @@ navigation:
         url: /product/
         class: product
     -
-        title: vision
+        title: Vision
         url: /vision/
         class: vision
     -
