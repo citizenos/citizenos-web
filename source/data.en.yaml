@@ -1,5 +1,5 @@
 header:
-    title: Let's decide together! Discuss, vote or start a petition. Involve your team, community or the whole world. We empower e-democracy.
+    title: Let's decide together! Discuss, vote. Start a petition. Involve your team, community or the whole world. We empower e-democracy.
     text: |
         Collect votes for a petition, crowdsource ideas or
         discuss and vote together with thousands of stakeholders.
@@ -78,7 +78,7 @@ blocks:
             background-position: 0 10%
             background-size: 122px 122px
         title: |
-            Raising awareness on **Participatory Democracy.**
+            Raising awareness on **E-democracy.**
         text: |
             We believe the way for us to move forward as a civilization is to globally come together and decide on things.
         button1st:
@@ -144,7 +144,7 @@ blocks:
             - my-5
         # label: A word from the team
         title: |
-            Help us reach even more people.
+            Help us develop Open Source products and spread E-democracy.
         text: |
             Whether you are a developer, translator, researcher, designer, hactivist or journalist - join us!
         button1st:
