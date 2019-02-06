@@ -7,9 +7,9 @@ navigation:
     url: /product
     class: product
   - 
-    title: Movement
-    url: /movement
-    class: movement
+    title: vision
+    url: /vision
+    class: vision
   - 
     title: Research
     url: /research

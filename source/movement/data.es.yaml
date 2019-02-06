@@ -1,5 +1,5 @@
 ---
-title: Movement
+title: vision
 blocks:
   - 
     id: start-img
@@ -12,7 +12,7 @@ blocks:
       background-position: 0 10%, 75% 20%
       background-size: 350px 350px, 65px 65px
     text: |
-      ![](/assets/images/movement-start.png){ .img-fluid }
+      ![](/assets/images/vision-start.png){ .img-fluid }
   - 
     class:
       - order-1
@@ -46,7 +46,7 @@ blocks:
       background-position: 10% 10%, 90% 10%
       background-size: 45px 45px, 350px 350px
     text: |
-      ![](/assets/images/movement-individual.png){ .img-fluid }
+      ![](/assets/images/vision-individual.png){ .img-fluid }
   - 
     id: individual
     class:
@@ -70,7 +70,7 @@ blocks:
     style:
       padding-top: 5rem
       padding-bottom: 5rem
-      background-image: url(/assets/images/bubble-orange.svg), url(/assets/images/movement-awareness.jpg)
+      background-image: url(/assets/images/bubble-orange.svg), url(/assets/images/vision-awareness.jpg)
       background-size: 164px 164px, cover
       background-position: 10% 10%
     label: Raising awareness
