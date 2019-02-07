@@ -1,8 +1,9 @@
 header:
-    title: Let's decide together! Discuss, vote. Start a petition. Involve your team, community or the whole world.
+    title: Let's decide together! Your platform for democratic decision-making in teams and communities.
     text: |
-        Collect votes for a petition, crowdsource ideas or
-        discuss and vote together with thousands of stakeholders.
+        Edit documents with others at the same time,
+        structure discussions, involve thousands of stakeholders,
+        keep voting deadlines, collect votes for petitions.
 
         We are an Open Source social enterprise.
 
@@ -77,7 +78,7 @@ blocks:
             background-position: 0 10%
             background-size: 122px 122px
         title: |
-            Raising awareness on **E-democracy.**
+            Raising awareness on **Participatory Democracy.**
         text: |
             We believe the way for us to move forward as a civilization is to globally come together and decide on things.
         button1st:
