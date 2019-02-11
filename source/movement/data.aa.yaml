@@ -1,5 +1,5 @@
 ---
-title: crwdns11320:0crwdne11320:0
+title: crwdns16752:0crwdne16752:0
 blocks:
   - 
     id: crwdns11322:0crwdne11322:0
@@ -27,45 +27,17 @@ blocks:
     title: |
       crwdns11354:0crwdne11354:0
     text: |
-      crwdns12218:0{ .arrow }crwdne12218:0
+      crwdns16754:0{ .arrow }crwdne16754:0
     button1st:
-      title: crwdns11358:0crwdne11358:0
+      title: crwdns15766:0crwdne15766:0
       url: 'crwdns11360:0crwdne11360:0'
-  - 
-    class:
-      - crwdns12310:0crwdne12310:0
-      - crwdns12312:0crwdne12312:0
-    style:
-      background-image: crwdns12314:0crwdne12314:0
-      background-position: crwdns12316:0crwdne12316:0
-      background-size: crwdns12318:0crwdne12318:0
-    text: |
-      crwdns12320:0{ .img-fluid }crwdne12320:0
-  - 
-    id: crwdns12322:0crwdne12322:0
-    class:
-      - crwdns12324:0crwdne12324:0
-      - crwdns12326:0crwdne12326:0
-    label: crwdns12328:0crwdne12328:0
-    title: |
-      crwdns12330:0crwdne12330:0
-    text: |
-      crwdns12332:0{ #group .mt-5 }crwdne12332:0
-  - 
-    id: crwdns12334:0crwdne12334:0
-    class:
-      - crwdns12336:0crwdne12336:0
-    style:
-      padding-top: crwdns12338:0crwdne12338:0
-      padding-bottom: crwdns12340:0crwdne12340:0
-      background-image: crwdns12342:0crwdne12342:0
-      background-size: crwdns12344:0crwdne12344:0
-      background-position: crwdns12346:0crwdne12346:0
-    label: crwdns12348:0crwdne12348:0
-    title: |
-      crwdns12350:0crwdne12350:0
-    text: |
-      crwdns12352:0crwdne12352:0
-    button1st:
-      title: crwdns12354:0crwdne12354:0
-      url: crwdns12356:0crwdne12356:0
+    "[f]":
+      "(https://www.facebook.com/citizenos.web){ .btn .btn-primary .my-2 .ml-3 } [t]":
+        "(https://twitter.com/Citizen_OS){ .btn .btn-primary .my-2 .ml-3 } - class":
+          - order-2 - order-sm-2 style:
+            background-image:
+              url(/assets/images/bubble-yellow.svg), url(/assets/images/bubble-dots.png) background-position:
+                "10% 10%, 90% 10% background-size":
+                  45px 45px, 350px 350px text:
+                    "| ![](/assets/images/movement-individual.png){ .img-fluid } - id":
+                      individual class: crwdns16756:0crwdne16756:0
