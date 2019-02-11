@@ -2,11 +2,13 @@
 title: crwdns11992:0crwdne11992:0
 blocks:
   - 
+    class:
+      - crwdns16922:0crwdne16922:0
+      - crwdns16924:0crwdne16924:0
     style:
       background: 'crwdns11994:0crwdne11994:0'
   - 
-    label: crwdns11996:0crwdne11996:0
     title: |
       crwdns11998:0crwdne11998:0
     text: |
-      crwdns12004:0crwdne12004:0
+      crwdns14950:0crwdne14950:0
