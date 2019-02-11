@@ -1,54 +1,57 @@
 ---
 siteTitle: crwdns11264:0crwdne11264:0
-root: crwdns11266:0crwdne11266:0
 navigation:
   - 
     title: crwdns11268:0crwdne11268:0
-    url: crwdns11270:0crwdne11270:0
+    url: crwdns14972:0crwdne14972:0
     class: crwdns11272:0crwdne11272:0
   - 
-    title: crwdns11274:0crwdne11274:0
-    url: crwdns11276:0crwdne11276:0
+    title: crwdns16744:0crwdne16744:0
+    url: crwdns14974:0crwdne14974:0
     class: crwdns11278:0crwdne11278:0
   - 
     title: crwdns11280:0crwdne11280:0
-    url: crwdns11282:0crwdne11282:0
+    url: crwdns14976:0crwdne14976:0
     class: crwdns11284:0crwdne11284:0
+  - 
+    title: crwdns16186:0crwdne16186:0
+    url: crwdns16188:0crwdne16188:0
 language: crwdns11286:0crwdne11286:0
 languages:
   en: crwdns11288:0crwdne11288:0
   et: crwdns11290:0crwdne11290:0
-  lt: crwdns11292:0crwdne11292:0
-  ua: crwdns11294:0crwdne11294:0
+  fi: crwdns16746:0crwdne16746:0
   fr: crwdns11296:0crwdne11296:0
+  lt: crwdns11292:0crwdne11292:0
   lv: crwdns11298:0crwdne11298:0
   ru: crwdns11300:0crwdne11300:0
+  ua: crwdns16748:0crwdne16748:0
 selectLanguage: crwdns11302:0crwdne11302:0
 platformLink:
   title: crwdns12214:0crwdne12214:0
   url: crwdns11306:0crwdne11306:0
 mobileMenu: crwdns11308:0crwdne11308:0
 footer:
-  text: crwdns12216:0crwdne12216:0
+  text: crwdns16750:0crwdne16750:0
   navigation:
     - 
       title: crwdns14548:0crwdne14548:0
       links:
         - 
           title: crwdns14550:0crwdne14550:0
-          url: crwdns14552:0crwdne14552:0
+          url: crwdns14988:0crwdne14988:0
         - 
           title: crwdns14554:0crwdne14554:0
-          url: crwdns14556:0crwdne14556:0
+          url: crwdns14990:0crwdne14990:0
         - 
           title: crwdns14558:0crwdne14558:0
-          url: crwdns14560:0crwdne14560:0
+          url: crwdns14992:0crwdne14992:0
         - 
           title: crwdns14562:0crwdne14562:0
-          url: crwdns14564:0crwdne14564:0
+          url: crwdns14994:0crwdne14994:0
         - 
           title: crwdns14566:0crwdne14566:0
-          url: crwdns14568:0crwdne14568:0
+          url: crwdns14996:0crwdne14996:0
     - 
       title: crwdns14570:0crwdne14570:0
       links:
@@ -65,14 +68,11 @@ footer:
       title: crwdns14584:0crwdne14584:0
       links:
         - 
-          title: crwdns14586:0crwdne14586:0
-          url: 'crwdns14588:0crwdne14588:0'
+          title: crwdns14960:0crwdne14960:0
+          url: crwdns14962:0crwdne14962:0
         - 
-          title: crwdns14590:0crwdne14590:0
-          url: crwdns14604:0crwdne14604:0
+          title: crwdns14964:0crwdne14964:0
+          url: crwdns14966:0crwdne14966:0
         - 
-          title: crwdns14594:0crwdne14594:0
-          url: crwdns14606:0crwdne14606:0
-        - 
-          title: crwdns14598:0crwdne14598:0
-          url: crwdns14600:0crwdne14600:0
+          title: crwdns14978:0crwdne14978:0
+          url: crwdns14970:0crwdne14970:0
