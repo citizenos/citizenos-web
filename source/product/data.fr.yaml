@@ -6,6 +6,7 @@ blocks:
       - order-0
       - order-sm-1
     style:
+      min-height: 400px
       background-color: '#FFF1AD'
       background-image: url(/assets/images/product-start.png), url(/assets/images/bubble-dots.png)
       background-position: right center, 0 10%
@@ -28,14 +29,14 @@ blocks:
       - Petitions.
       - Online meetings.
       - Gathering ideas.
-      
+
       The Citizen OS platform allows everyone to raise issues, discuss and vote for solutions.
       - Collect votes for a petition.
       - Carry out meetings online. Everyone can leave their comments and vote at a time suitable for them.
       - Share your decision-making process with a bigger audience.
-      
+
       The Citizen OS platform can be used on all devices and is currently available in 8 languages: English, Estonian, Finnish, French, German, Russian, Spanish and Ukrainian.
-      
+
       - [Platform features](#features)
       - [How does it work](#how)
       - [How much does it cost](#options)
@@ -43,18 +44,21 @@ blocks:
       { .arrow }
     button1st:
       title: Start using
-      url: https://app.citizenos.com
-      target: _blank
+      url: '#subscribe'
   - 
     id: features-img
     class:
       - order-2
       - order-sm-2
     style:
-      background-color: '#F7F7F7'
+      background: '#F7F7F7'
+      padding-top: 5rem
+      padding-bottom: 5rem
       background-image: url(/assets/images/bubble-orange.svg), url(/assets/images/bubble-dots.png)
-      background-position: 100% 15%, 90% 15%
       background-size: 165px 165px, 350px 350px
+    label: A flexible format
+    title: |
+      How can you use Citizen OS’s platform?
     text: |
       ![](/assets/images/product-features.jpg){ .img-fluid .box-shadow }
   - 
@@ -63,69 +67,84 @@ blocks:
       - order-3
       - order-sm-3
     style:
-      background: '#F7F7F7'
-    label: Features
-    title: |
-      Clarity
+      background-color: '#F7F7F7'
+      background-image: url(/assets/images/bubble-orange.svg), url(/assets/images/bubble-dots.png)
+      background-position: 100% 15%, 90% 15%
+      background-size: 165px 165px, 350px 350px
     text: |
       - Project overview.
       - Voting deadlines.
       { .bullet }
-      
+
       ## Involvement{ .mt-5 }
-      
+
       - Ideas are collected bottom-up.
       - Discussion occures in a structured way.
       { .bullet }
-      
+
       ## Security & Research{ .mt-5 }
-      
+
       - Continuous development to keep up with new laws.
       - Better decisions are reached with a scientific approach.
       - Safe encrypted data, secure platform in a cloud server.
       { .bullet }
   - 
     id: how-videos
-    style:
-      padding-top: 5rem
-      padding-bottom: 5rem
-      background-image: url(/assets/images/bubble-turquoise.svg), url(/assets/images/bubble-dots.png)
-      background-position: 0% 5%, 0% 10%
-      background-size: 45px 45px, 350px 350px
     class:
       - order-4
       - order-sm-5
+    style:
+      background: '#F7F7F7'
+    label: Features
+    title: |
+      Clarity
+    text: |
+      - Overview of decision-making progress.
+      - Voting deadlines.
+      { .bullet }
+
+      ## Involvement{ .mt-5 }
+
+      - Ideas are collected bottom-up.
+      - Discussion occurs in a structured way.
+      - Can involve thousands or millions of participants.
+      { .bullet }
+
+      ## Security & Research{ .mt-5 }
+
+      - Continuous development to keep up with new laws.
+      - Product development follows scientific approach.
+      - Safe encrypted data, secure platform in a cloud server.
+      { .bullet }
   - 
     id: how
     class:
       - order-5
       - order-sm-4
+      - order-sm-6
+      - text-center
     style:
-      padding-top: 5rem
-      padding-bottom: 5rem
-      background-image: url(/assets/images/bubble-orange.svg)
-      background-position: 10% 90%
-      background-size: 75px 75px
+      background: '#AAF3DD'
     label: How does it work?
-    text: |
-      { #carousel-text }
   - 
     id: options
     class:
       - col-sm-12
       - order-6
-      - order-sm-6
-      - text-center
-    style:
-      background: '#AAF3DD'
-    label: Something for everyone
-    title: |
-      Start using now
+    text: |
+      ![](/assets/images/product-case-study-2.jpg){ .img-fluid .box-shadow }
   - 
     id: case-study-2-img
     class:
       - order-7
       - order-sm-7
+    style:
+      background-image: url(/assets/images/bubble-blue.svg)
+      background-position: 80% 5%
+      background-size: 122px 122px
+    label: Case study
+    title: |
+      Communication between the people and the government.
     text: |
       ![](/assets/images/product-case-study-2.jpg){ .img-fluid .box-shadow }
   - 
@@ -133,101 +152,61 @@ blocks:
     class:
       - order-8
       - order-sm-8
-    style:
-      background-image: url(/assets/images/bubble-blue.svg)
-      background-position: 80% 5%
-      background-size: 122px 122px
-    label: Case study
-    title: |
-      Communication between the people and the government of Estonia.
     text: |
       The Citizen OS open source code was used to set up the citizen initiatives platform [www.rahvaalgatus.ee](https://www.rahvaalgatus.ee) in Estonia.
-      
+
       The Parliament processes appeals that have at least 1000 signatures. The Citizen OS platform is set up to receive digital signatures given with the Estonian National ID-card.
   - 
-    id: case-study-1-img
     class:
       - order-9
       - order-sm-10
-    text: |
-      ![](/assets/images/product-case-study-1.jpg){ .img-fluid .box-shadow }
-  - 
-    class:
-      - order-10
-      - order-sm-9
     style:
       background-image: url(/assets/images/bubble-orange.svg), url(/assets/images/bubble-yellow.svg)
       background-position: 10% 5%, 90% 90%
       background-size: 85px 85px, 55px 55px
     label: Case study
     title: |
-      Opinion Festival
+      Developing opinion culture.
     text: |
-      [Opinion Festival](https://www.arvamusfestival.ee/en) integrated the Citizen OS argumentation widget, which allows digital discussions in addition to the physical festival. This develops argumentative skills in the society.
+      ![](/assets/images/product-case-study-1.jpg){ .img-fluid .box-shadow }
   - 
     id: stats
     class:
-      - order-11
-      - text-center
+      - order-10
+      - order-sm-9
     style:
       background: '#F7F7F7'
       padding-top: 5rem
       padding-bottom: 5rem
-      background-image: url(/assets/images/pattern.svg)
-      background-size: 38px 42px
+      background-image: url(/assets/images/bubble-orange.svg), url(/assets/images/bubble-yellow.svg)
+      background-size: 85px 85px, 55px 55px
     title: |
-      Our online decision-making community is growing.
+      Opinion Festival
     button1st:
-      title: Use platform - it's free!
+      title: Use platform
       url: https://app.citizenos.com
       target: _blank
-howBlocks:
+flexibleformatBlocks:
   - 
-    poster:
-    mp4: /assets/videos/product-how-01.mp4
-    webm: /assets/videos/product-how-01.webm
+    poster: /assets/images/flexibleformat-petitions.png
+    title: Petitions
     text: |
-      ## Create documents – private or public.
-      
-      Documents can be private or public.
-      Keep all files in one place.
-      Browse existing topics or create a new one.
-    button: Form groups, send invites, set editing rights
+      Edit collaborately. Collect thousands or millions of signatures. Follow up with news.
   - 
-    poster:
-    mp4: /assets/videos/product-how-02.mp4
-    webm: /assets/videos/product-how-02.webm
+    poster: /assets/images/flexibleformat-onlinemeetings.png
+    title: Online meetings
     text: |
-      ## Form groups, invite members, set editing rights.
-    button: Edit documents with others at the same time
+      Carry out meetings online. Everyone can leave their comments and vote at a time suitable for them.
   - 
-    poster:
-    mp4: /assets/videos/product-how-03.mp4
-    webm: /assets/videos/product-how-03.webm
+    poster: /assets/images/flexibleformat-gatheringideas.png
+    title: Gathering ideas
     text: |
-      ## Edit documents with others at the same time.
-    button: Discuss in a structured way
+      Share your decision-making process with a bigger audience.
   - 
-    poster:
-    mp4: /assets/videos/product-how-04.mp4
-    webm: /assets/videos/product-how-04.webm
+    poster: /assets/images/flexibleformat-widget.png
+    title: Pro-con argumented discussions
     text: |
-      ## Discuss in a structured way.
-    button: Vote. Delegate your vote. Set deadlines for voting
-  - 
-    poster:
-    mp4: /assets/videos/product-how-05.mp4
-    webm: /assets/videos/product-how-05.webm
-    text: |
-      ## Custom voting. Delegate vote. Deadlines for voting.
-    button: Inform your group about the outcome
-  - 
-    poster:
-    mp4: /assets/videos/product-how-06.mp4
-    webm: /assets/videos/product-how-06.webm
-    text: |
-      ## Inform your group about the outcome.
-    button: Create documents – private or public
+      Integrate our widget in your site or platform to conduct discussion based on pro and con arguments.
 statsBlocks:
   - 
     id: topicsCreated
@@ -258,7 +237,7 @@ optionBlocks:
     subtext: Offer based
     button:
       title: Contact us
-      url: /contact
+      url: /contact/
   - 
     title: Consult & integrate
     text: |
@@ -266,4 +245,4 @@ optionBlocks:
     subtext: Offer based
     button:
       title: Contact us
-      url: /contact
+      url: /contact/
