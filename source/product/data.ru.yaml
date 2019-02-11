@@ -46,10 +46,10 @@ blocks:
       title: Start using
       url: '#subscribe'
   - 
-    id: features-img
+    id: flexibleformat
     class:
       - order-2
-      - order-sm-2
+      - text-center
     style:
       background: '#F7F7F7'
       padding-top: 5rem
