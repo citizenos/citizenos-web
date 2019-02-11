@@ -54,11 +54,23 @@ blocks:
       background: '#F7F7F7'
       padding-top: 5rem
       padding-bottom: 5rem
-      background-image: url(/assets/images/bubble-orange.svg), url(/assets/images/bubble-dots.png)
-      background-size: 165px 165px, 350px 350px
+      background-image: url(/assets/images/pattern.svg)
+      background-size: 38px 42px
     label: A flexible format
     title: |
       How can you use Citizen OS’s platform?
+    text: |
+      { #flexibleformat-items }
+  - 
+    id: features-img
+    class:
+      - order-2
+      - order-sm-2
+    style:
+      background-color: '#F7F7F7'
+      background-image: url(/assets/images/bubble-orange.svg), url(/assets/images/bubble-dots.png)
+      background-position: 100% 15%, 90% 15%
+      background-size: 165px 165px, 350px 350px
     text: |
       ![](/assets/images/product-features.jpg){ .img-fluid .box-shadow }
   - 
@@ -66,33 +78,6 @@ blocks:
     class:
       - order-3
       - order-sm-3
-    style:
-      background-color: '#F7F7F7'
-      background-image: url(/assets/images/bubble-orange.svg), url(/assets/images/bubble-dots.png)
-      background-position: 100% 15%, 90% 15%
-      background-size: 165px 165px, 350px 350px
-    text: |
-      - Project overview.
-      - Voting deadlines.
-      { .bullet }
-
-      ## Involvement{ .mt-5 }
-
-      - Ideas are collected bottom-up.
-      - Discussion occures in a structured way.
-      { .bullet }
-
-      ## Security & Research{ .mt-5 }
-
-      - Continuous development to keep up with new laws.
-      - Better decisions are reached with a scientific approach.
-      - Safe encrypted data, secure platform in a cloud server.
-      { .bullet }
-  - 
-    id: how-videos
-    class:
-      - order-4
-      - order-sm-5
     style:
       background: '#F7F7F7'
     label: Features
@@ -117,7 +102,7 @@ blocks:
       - Safe encrypted data, secure platform in a cloud server.
       { .bullet }
   - 
-    id: how
+    id: options
     class:
       - order-5
       - order-sm-4
