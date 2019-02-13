@@ -1,0 +1,219 @@
+---
+title: Product
+blocks:
+  - 
+    class:
+      - order-0
+      - order-sm-1
+    style:
+      min-height: 400px
+      background-color: '#FFF1AD'
+      background-image: url(/assets/images/product-start.png), url(/assets/images/bubble-dots.png)
+      background-position: right center, 0 10%
+      background-size: 90%, 350px 350px
+  - 
+    class:
+      - order-1
+      - order-sm-0
+    style:
+      padding-top: 5rem
+      padding-bottom: 5rem
+      background-color: '#FFF1AD'
+      background-image: url(/assets/images/bubble-turquoise.svg), url(/assets/images/bubble-yellow.svg)
+      background-position: 10% 5%, 90% 90%
+      background-size: 75px 75px, 65px 65px
+    title: |
+      Online decision-making in teams and communities.
+    text: |
+      Make argument-based decisions. Structure discussions and meet your voting deadlines. Collect votes for petitions.
+
+      - [Platform features](#features)
+      - [How does it work](#how)
+      - [How much does it cost](#options)
+      - [Case studies](#case-studies)
+      { .arrow }
+    button1st:
+      title: Sign up for news
+      url: '#subscribe'
+  - 
+    id: flexibleformat
+    class:
+      - order-2
+      - text-center
+    style:
+      background: '#F7F7F7'
+      padding-top: 5rem
+      padding-bottom: 5rem
+      background-image: url(/assets/images/pattern.svg)
+      background-size: 38px 42px
+    label: A flexible format
+    title: |
+      How can you use Citizen OS’s platform?
+    text: |
+      { #flexibleformat-items }
+  - 
+    id: features-img
+    class:
+      - order-2
+      - order-sm-2
+    style:
+      background-color: '#F7F7F7'
+      background-image: url(/assets/images/bubble-orange.svg), url(/assets/images/bubble-dots.png)
+      background-position: 100% 15%, 90% 15%
+      background-size: 165px 165px, 350px 350px
+    text: |
+      ![](/assets/images/product-features.jpg){ .img-fluid .box-shadow }
+  - 
+    id: features
+    class:
+      - order-3
+      - order-sm-3
+    style:
+      background: '#F7F7F7'
+    label: Features
+    title: |
+      Clarity
+    text: |
+      - Overview of decision-making progress.
+      - Voting deadlines.
+      { .bullet }
+
+      ## Involvement{ .mt-5 }
+
+      - Ideas are collected bottom-up.
+      - Discussion occurs in a structured way.
+      - Can involve thousands or millions of participants.
+      { .bullet }
+
+      ## Security & Research{ .mt-5 }
+
+      - Continuous development to keep up with new laws.
+      - Product development follows scientific approach.
+      - Safe encrypted data, secure platform in a cloud server.
+      { .bullet }
+  - 
+    id: options
+    class:
+      - col-sm-12
+      - order-6
+      - order-sm-6
+      - text-center
+    style:
+      background: '#AAF3DD'
+    label: Products
+  - 
+    id: case-study-2-img
+    class:
+      - order-7
+      - order-sm-7
+    text: |
+      ![](/assets/images/product-case-study-2.jpg){ .img-fluid .box-shadow }
+  - 
+    id: case-studies
+    class:
+      - order-8
+      - order-sm-8
+    style:
+      background-image: url(/assets/images/bubble-blue.svg)
+      background-position: 80% 5%
+      background-size: 122px 122px
+    title: |
+      Case Study: Communication Between the Citizens and the Government of Estonia
+    text: |
+      The Citizen OS open source code was used to set up the citizen initiatives platform [www.rahvaalgatus.ee](https://www.rahvaalgatus.ee), where petitions can be started, votes can be collected and sent to the Parliament.
+  - 
+    id: case-study-1-img
+    class:
+      - order-9
+      - order-sm-10
+    text: |
+      ![](/assets/images/product-case-study-1.jpg){ .img-fluid .box-shadow }
+  - 
+    class:
+      - order-10
+      - order-sm-9
+    style:
+      background-image: url(/assets/images/bubble-orange.svg), url(/assets/images/bubble-yellow.svg)
+      background-position: 10% 5%, 90% 90%
+      background-size: 85px 85px, 55px 55px
+    title: |
+      Case Study: Widening the Scope of Communication.
+    text: |
+      [Opinion Festival](https://www.arvamusfestival.ee/en) integrated the Citizen OS argumentation widget, allowing online discussions on the festival topics beyond the two days of the physical festival.
+  - 
+    id: stats
+    class:
+      - order-11
+      - text-center
+    style:
+      background: '#F7F7F7'
+      padding-top: 5rem
+      padding-bottom: 5rem
+      background-image: url(/assets/images/pattern.svg)
+      background-size: 38px 42px
+    title: |
+      Our online decision-making community is growing.
+    button1st:
+      title: Use platform
+      url: https://app.citizenos.com
+      target: _blank
+flexibleformatBlocks:
+  - 
+    poster: /assets/images/flexibleformat-petitions.png
+    title: Petitions
+    text: |
+      Edit collaborately. Collect thousands or millions of signatures. Follow up with news.
+  - 
+    poster: /assets/images/flexibleformat-onlinemeetings.png
+    title: Online meetings
+    text: |
+      Carry out meetings online. Everyone can leave their comments and vote at a time suitable for them.
+  - 
+    poster: /assets/images/flexibleformat-gatheringideas.png
+    title: Gathering ideas
+    text: |
+      Share your decision-making process with a bigger audience.
+  - 
+    poster: /assets/images/flexibleformat-widget.png
+    title: Pro-con argumented discussions
+    text: |
+      Integrate our widget in your site or platform to conduct discussion based on pro and con arguments.
+statsBlocks:
+  - 
+    id: topicsCreated
+    title: discussions
+  - 
+    id: votesCast
+    title: votes
+  - 
+    id: groupsCreated
+    title: groups
+  - 
+    id: usersCreated
+    title: users
+optionBlocks:
+  - 
+    title: Use on our website
+    text: |
+      The Citizen OS platform is free to use on our website for everyone.
+    subtext: Free for ever!
+    button:
+      title: Use platform
+      url: https://app.citizenos.com
+      target: _blank
+  - 
+    title: Integrate API
+    text: |
+      Use The Citizen OS API as a base to build an online decision-making platform with your own branding.
+    subtext: Offer based
+    button:
+      title: Contact us
+      url: /contact/
+  - 
+    title: Consult & integrate
+    text: |
+      Let our team do all the work from consulting to a working adaptation with your systems.
+    subtext: Offer based
+    button:
+      title: Contact us
+      url: /contact/
