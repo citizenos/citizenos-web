@@ -1,0 +1,43 @@
+---
+title: crwdns17324:0crwdne17324:0
+blocks:
+  - 
+    id: crwdns17326:0crwdne17326:0
+    class:
+      - crwdns17328:0crwdne17328:0
+      - crwdns17330:0crwdne17330:0
+    style:
+      background-color: 'crwdns17332:0crwdne17332:0'
+      background-image: crwdns17334:0crwdne17334:0
+      background-position: crwdns17336:0crwdne17336:0
+      background-size: crwdns17338:0crwdne17338:0
+    text: |
+      crwdns17340:0{ .img-fluid }crwdne17340:0
+  - 
+    class:
+      - crwdns17342:0crwdne17342:0
+      - crwdns17344:0crwdne17344:0
+    style:
+      padding-top: crwdns17346:0crwdne17346:0
+      padding-bottom: crwdns17348:0crwdne17348:0
+      background-color: 'crwdns17350:0crwdne17350:0'
+      background-image: crwdns17352:0crwdne17352:0
+      background-position: crwdns17354:0crwdne17354:0
+      background-size: crwdns17356:0crwdne17356:0
+    title: |
+      crwdns17358:0crwdne17358:0
+    text: |
+      crwdns17360:0{ .arrow }crwdne17360:0
+    button1st:
+      title: crwdns17362:0crwdne17362:0
+      url: 'crwdns17364:0crwdne17364:0'
+    "[f]":
+      "(https://www.facebook.com/citizenos.web){ .btn .btn-primary .my-2 .ml-3 } [t]":
+        "(https://twitter.com/Citizen_OS){ .btn .btn-primary .my-2 .ml-3 } - class":
+          - order-2 - order-sm-2 style:
+            background-image:
+              url(/assets/images/bubble-yellow.svg), url(/assets/images/bubble-dots.png) background-position:
+                "10% 10%, 90% 10% background-size":
+                  45px 45px, 350px 350px text:
+                    "| ![](/assets/images/movement-individual.png){ .img-fluid } - id":
+                      individual class: crwdns17366:0crwdne17366:0

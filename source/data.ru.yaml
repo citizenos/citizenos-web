@@ -1,0 +1,138 @@
+---
+header:
+  title: Let's decide together! Your platform for petitions and decision-making in a team or community.
+  text: |
+    Edit documents with others at the same time,
+    structure discussions, involve thousands or millions of members,
+    keep voting deadlines, collect votes for petitions.
+
+    We are an Open Source social enterprise.
+
+    The platform is currently available in 10 languages.
+  play:
+    title: Introduction
+    url: https://www.youtube.com/embed/hDLWbQQAk8g?rel=0&showinfo=0&modestbranding=1&autoplay=1
+  demo:
+    title: Demo
+    url: https://www.youtube.com/embed/UC44qCCIixE?rel=0&showinfo=0&modestbranding=1&autoplay=1
+news:
+  more: Read more
+blocks:
+  - 
+    class:
+      - order-1
+    style:
+      background-image: url(/assets/images/bubble-yellow.svg)
+      background-position: 20% 80%
+      background-size: 122px 122px
+    text: |
+      ![](/assets/images/frontpage-product.png){ .img-fluid }
+  - 
+    class:
+      - order-2
+      - col-sm-4
+      - offset-sm-1
+    style:
+      background-image: url(/assets/images/bubble-dots.png)
+      background-position: 0% 25%
+      background-size: 360px 360px
+    title: |
+      Developing **Open Source** software.
+    text: |
+      We believe the tools for online participatory democracy should be free to use for everyone.
+    button1st:
+      title: About product
+      url: /product/
+  - 
+    class:
+      - order-3
+      - order-sm-4
+    style:
+      background-image: url(/assets/images/bubble-dots.png), url(/assets/images/bubble-orange.svg)
+      background-position: 30% 25%, 20% 75%
+      background-size: 360px 360px, 100px 100px
+    text: |
+      ![](/assets/images/frontpage-start.png){ .img-fluid }
+  - 
+    class:
+      - order-4
+      - order-sm-3
+      - col-sm-4
+      - offset-sm-1
+    style:
+      background-image: url(/assets/images/bubble-yellow.svg)
+      background-position: 0 10%
+      background-size: 122px 122px
+    title: |
+      Raising awareness on **Participatory Democracy.**
+    text: |
+      We believe the way for us to move forward as a civilization is to globally come together and decide on things.
+    button1st:
+      title: About vision
+      url: /movement/
+    button2nd:
+  - 
+    class:
+      - order-5
+    style:
+      background-image: url(/assets/images/bubble-turquoise.svg)
+      background-position: 85% 85%
+      background-size: 75px 75px
+    text: |
+      ![](/assets/images/frontpage-lets-educate.png){ .img-fluid }
+  - 
+    class:
+      - order-5
+      - col-sm-4
+      - offset-sm-1
+    style:
+      background-image: url(/assets/images/bubble-dots.png)
+      background-position: 30% 25%
+      background-size: 360px 360px
+    title: |
+      Relying on **Research and Data.**
+    text: |
+      We collaborate with e-democracy researchers to help develop our products.
+    button1st:
+      title: About research
+      url: /research/
+  - 
+    id: news
+    class:
+      - order-6
+      - text-center
+    style:
+      background-color: '#F7F7F7'
+      background-image: url(/assets/images/bubble-dots.png)
+      background-position: 60% 10%
+      background-size: 360px 360px
+    title: |
+      Latest news
+    text: |
+      { #news-items }
+    button1st:
+      title: Read blog
+      url: https://medium.com/citizenos
+  - 
+    id: team
+    class:
+      - order-7
+      - my-5
+    title: |
+      Help us develop Open Source products and spread E-democracy.
+    text: |
+      Whether you are a developer, translator, researcher, designer, hactivist or journalist - join us!
+    button1st:
+      title: Contribute
+      url: /contribute/
+  - 
+    id: partners
+    class:
+      - order-8
+      - my-5
+    style:
+      border-left: '1px solid #E5E5E5'
+    title: |
+      Our partners & supporters
+    text: |
+      ![Partners](/assets/images/frontpage-partners.png){ .w-100 }
