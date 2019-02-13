@@ -1,0 +1,132 @@
+---
+header:
+  title: crwdns17064:0crwdne17064:0
+  text: |
+    crwdns17066:0crwdne17066:0
+  play:
+    title: crwdns17068:0crwdne17068:0
+    url: crwdns17070:0crwdne17070:0
+  demo:
+    title: crwdns17072:0crwdne17072:0
+    url: crwdns17074:0crwdne17074:0
+news:
+  more: crwdns17076:0crwdne17076:0
+blocks:
+  - 
+    class:
+      - crwdns17078:0crwdne17078:0
+    style:
+      background-image: crwdns17080:0crwdne17080:0
+      background-position: crwdns17082:0crwdne17082:0
+      background-size: crwdns17084:0crwdne17084:0
+    text: |
+      crwdns17086:0{ .img-fluid }crwdne17086:0
+  - 
+    class:
+      - crwdns17088:0crwdne17088:0
+      - crwdns17090:0crwdne17090:0
+      - crwdns17092:0crwdne17092:0
+    style:
+      background-image: crwdns17094:0crwdne17094:0
+      background-position: crwdns17096:0crwdne17096:0
+      background-size: crwdns17098:0crwdne17098:0
+    title: |
+      crwdns17100:0crwdne17100:0
+    text: |
+      crwdns17102:0crwdne17102:0
+    button1st:
+      title: crwdns17104:0crwdne17104:0
+      url: crwdns17106:0crwdne17106:0
+  - 
+    class:
+      - crwdns17108:0crwdne17108:0
+      - crwdns17110:0crwdne17110:0
+    style:
+      background-image: crwdns17112:0crwdne17112:0
+      background-position: crwdns17114:0crwdne17114:0
+      background-size: crwdns17116:0crwdne17116:0
+    text: |
+      crwdns17118:0{ .img-fluid }crwdne17118:0
+  - 
+    class:
+      - crwdns17120:0crwdne17120:0
+      - crwdns17122:0crwdne17122:0
+      - crwdns17124:0crwdne17124:0
+      - crwdns17126:0crwdne17126:0
+    style:
+      background-image: crwdns17128:0crwdne17128:0
+      background-position: crwdns17130:0crwdne17130:0
+      background-size: crwdns17132:0crwdne17132:0
+    title: |
+      crwdns17134:0crwdne17134:0
+    text: |
+      crwdns17136:0crwdne17136:0
+    button1st:
+      title: crwdns17138:0crwdne17138:0
+      url: crwdns17140:0crwdne17140:0
+    button2nd: crwdns17142:0crwdne17142:0
+  - 
+    class:
+      - crwdns17144:0crwdne17144:0
+    style:
+      background-image: crwdns17146:0crwdne17146:0
+      background-position: crwdns17148:0crwdne17148:0
+      background-size: crwdns17150:0crwdne17150:0
+    text: |
+      crwdns17152:0{ .img-fluid }crwdne17152:0
+  - 
+    class:
+      - crwdns17154:0crwdne17154:0
+      - crwdns17156:0crwdne17156:0
+      - crwdns17158:0crwdne17158:0
+    style:
+      background-image: crwdns17160:0crwdne17160:0
+      background-position: crwdns17162:0crwdne17162:0
+      background-size: crwdns17164:0crwdne17164:0
+    title: |
+      crwdns17166:0crwdne17166:0
+    text: |
+      crwdns17168:0crwdne17168:0
+    button1st:
+      title: crwdns17170:0crwdne17170:0
+      url: crwdns17172:0crwdne17172:0
+  - 
+    id: crwdns17174:0crwdne17174:0
+    class:
+      - crwdns17176:0crwdne17176:0
+      - crwdns17178:0crwdne17178:0
+    style:
+      background-color: 'crwdns17180:0crwdne17180:0'
+      background-image: crwdns17182:0crwdne17182:0
+      background-position: crwdns17184:0crwdne17184:0
+      background-size: crwdns17186:0crwdne17186:0
+    title: |
+      crwdns17188:0crwdne17188:0
+    text: |
+      crwdns17190:0{ #news-items }crwdne17190:0
+    button1st:
+      title: crwdns17192:0crwdne17192:0
+      url: crwdns17194:0crwdne17194:0
+  - 
+    id: crwdns17196:0crwdne17196:0
+    class:
+      - crwdns17198:0crwdne17198:0
+      - crwdns17200:0crwdne17200:0
+    title: |
+      crwdns17202:0crwdne17202:0
+    text: |
+      crwdns17204:0crwdne17204:0
+    button1st:
+      title: crwdns17206:0crwdne17206:0
+      url: crwdns17208:0crwdne17208:0
+  - 
+    id: crwdns17210:0crwdne17210:0
+    class:
+      - crwdns17212:0crwdne17212:0
+      - crwdns17214:0crwdne17214:0
+    style:
+      border-left: 'crwdns17216:0crwdne17216:0'
+    title: |
+      crwdns17218:0crwdne17218:0
+    text: |
+      crwdns17220:0[Partners]crwdnd17220:0{ .w-100 }crwdne17220:0
