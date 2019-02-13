@@ -1,0 +1,17 @@
+---
+title: Careers
+blocks:
+  - 
+    class:
+      - d-none
+      - d-sm-block
+    style:
+      background: 'linear-gradient(180deg, #0EB7FE 0%, #0680FC 100%)'
+  - 
+    id: careers
+    title: |
+      How to join the team.
+    text: |
+      Want to provide the people of the world with an amazing tool for co-deciding and online participatory democracy?
+
+      If our vision inspires you, please write to our Head of partnerships <anett@citizenos.com>.
