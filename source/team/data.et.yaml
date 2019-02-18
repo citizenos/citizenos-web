@@ -1,13 +1,13 @@
 ---
 title: Team
 blocks:
-  - 
+  team-img:
     class:
       - d-none
       - d-sm-block
     style:
       background: 'linear-gradient(180deg, #0EB7FE 0%, #0680FC 100%)'
-  - 
+  team:
     title: |
       Team
     text: |
