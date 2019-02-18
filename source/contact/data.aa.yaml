@@ -1,14 +1,14 @@
 ---
 title: crwdns17040:0crwdne17040:0
 blocks:
-  - 
+  contact-img:
     class:
-      - crwdns17042:0crwdne17042:0
-      - crwdns17044:0crwdne17044:0
+      - crwdns17910:0crwdne17910:0
+      - crwdns17912:0crwdne17912:0
     style:
-      background: 'crwdns17046:0crwdne17046:0'
-  - 
+      background: 'crwdns17914:0crwdne17914:0'
+  contact:
     title: |
-      crwdns17048:0crwdne17048:0
+      crwdns17916:0crwdne17916:0
     text: |
-      crwdns17050:0[Facebook]crwdnd17050:0[Medium]crwdnd17050:0[Tweets]crwdnd17050:0[Tweets]crwdne17050:0
+      crwdns17918:0[Facebook]crwdnd17918:0[Medium]crwdnd17918:0[Tweets]crwdnd17918:0[Tweets]crwdne17918:0
