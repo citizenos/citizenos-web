@@ -1,19 +1,19 @@
 siteTitle: Citizen OS
 
 navigation:
-    -
+    product:
         title: Product
         url: /product/
         class: product
-    -
+    movement:
         title: Vision
         url: /movement/
         class: movement
-    -
+    research:
         title: Research
         url: /research/
         class: research
-    -
+    blog:
         title: Blog
         url: https://medium.com/citizenos
 
@@ -37,47 +37,45 @@ mobileMenu: MENU
 footer:
     text: Citizen OS is an Open Source social enterprise.
     navigation:
-        -
+        about:
             title: About
             links:
-                -
+                company:
                     title: Company
                     url: /company/
-                -
+                careers:
                     title: Careers
                     url: /careers/
-                -
+                contribute:
                     title: Contribute
                     url: /contribute/
-                -
+                team:
                     title: Team
                     url: /team/
-                -
+                contact:
                     title: Contact
                     url: /contact/
-
-        -
+        community:
             title: Community
             links:
-                -
+                blog:
                     title: Blog
                     url: https://medium.com/citizenos
-                -
+                twitter:
                     title: Twitter
                     url: https://twitter.com/Citizen_OS
-                -
+                facebook:
                     title: Facebook
                     url: https://www.facebook.com/citizenos.web
-
-        -
+        support:
             title: Support
             links:
-                -
+                guides:
                     title: Guides
                     url: https://app.citizenos.com/en/topics/c6b6d06a-e8cf-4297-9654-8c1cf01b133b
-                -
+                legal:
                     title: Legal
                     url: https://app.citizenos.com/en/topics/7abdd244-d45b-40d3-997c-a6290d4e972c
-                -
+                github:
                     title: GitHub
                     url: https://github.com/citizenos

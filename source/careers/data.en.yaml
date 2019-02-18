@@ -1,15 +1,16 @@
 title: Careers
+
+
 blocks:
-    -
+    careers-img:
         class:
             - d-none
             - d-sm-block
         style:
             background: 'linear-gradient(180deg, #0EB7FE 0%, #0680FC 100%)'
 
-    -
-        id: careers
-#        label: About
+    careers:
+        # label: About
         title: |
             How to join the team.
         text: |
@@ -20,8 +21,8 @@ blocks:
         #    #### Currently actively searching for: Volunteers: Backend, Frontend, Mobile Developer, UX/UI Designer and Graphic Designer.
         #    Would you like to help with the environmental situation in Nigeria? Our partner Citizenvoice needs volunteer help integrating the Citizen OS open source code with their website [citizenvoice.ng](https://citizenvoice.ng). If you are available, please contact Thomas at <info@iservefoundations.org>.
 
-    # -
-    #     id: developer-volunteer
+
+    # developer-volunteer:
     #     class:
     #         - career
     #         - d-none

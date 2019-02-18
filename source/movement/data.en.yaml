@@ -1,7 +1,8 @@
 title: movement
+
+
 blocks:
-    -
-        id: start-img
+    start-img:
         class:
             - order-0
             - order-sm-1
@@ -13,7 +14,7 @@ blocks:
         text: |
             ![](/assets/images/movement-start.png){ .img-fluid }
 
-    -
+    start:
         class:
             - order-1
             - order-sm-0
@@ -39,7 +40,8 @@ blocks:
         [f]: (https://www.facebook.com/citizenos.web){ .btn .btn-primary .my-2 .ml-3 }
         [t]: (https://twitter.com/Citizen_OS){ .btn .btn-primary .my-2 .ml-3 }
 
-    -
+
+    individual-img:
         class:
             - order-2
             - order-sm-2
@@ -51,12 +53,11 @@ blocks:
         text: |
             ![](/assets/images/movement-individual.png){ .img-fluid }
 
-    -
-        id: individual
+    individual:
         class:
             - order-3
             - order-sm-3
-#        label: As an individual
+        # label: As an individual
         title: |
             One person can make a difference.
         text: |
@@ -71,8 +72,8 @@ blocks:
             url: https://app.citizenos.com
             target: _blank
 
-    -
-        id: awareness
+
+    awareness:
         class:
             - order-4
         style:
@@ -81,7 +82,7 @@ blocks:
             background-image: url(/assets/images/bubble-orange.svg), url(/assets/images/movement-awareness.jpg)
             background-size: 164px 164px, cover
             background-position: 10% 10%
-#        label: Raising awareness
+        # label: Raising awareness
         title: |
             Together we can advance online participatory democracy.
         text: |

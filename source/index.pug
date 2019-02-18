@@ -113,21 +113,24 @@ append content
                     .py-3.px-3
                         h4.mt-0.mb-2
                         p
-                        a.my-2(target='_blank')= self.news.more
+                        if self.blocks.news
+                            a.my-2(target='_blank')= self.blocks.news.readMore
             #news-block-1.col-12.col-sm-4.mb-5.d-none
                 .news-block.col-12.h-100.bg-white.box-shadow.p-0
                     img.w-100
                     .py-3.px-3
                         h4.mt-0.mb-2
                         p
-                        a.my-2(target='_blank')= self.news.more
+                        if self.blocks.news
+                            a.my-2(target='_blank')= self.blocks.news.readMore
             #news-block-2.col-12.col-sm-4.mb-5.d-none
                 .news-block.col-12.h-100.bg-white.box-shadow.p-0
                     img.w-100
                     .py-3.px-3
                         h4.mt-0.mb-2
                         p
-                        a.my-2(target='_blank')= self.news.more
+                        if self.blocks.news
+                            a.my-2(target='_blank')= self.blocks.news.readMore
 
     #video-popup.modal.fade(tabindex='-1', role='dialog')
         .modal-dialog.modal-dialog-centered.modal-lg(role='document')
