@@ -15,10 +15,8 @@ header:
   demo:
     title: Demo
     url: https://www.youtube.com/embed/UC44qCCIixE?rel=0&showinfo=0&modestbranding=1&autoplay=1
-news:
-  more: Read more
 blocks:
-  - 
+  opensource-img:
     class:
       - order-1
     style:
@@ -27,7 +25,7 @@ blocks:
       background-size: 122px 122px
     text: |
       ![](/assets/images/frontpage-product.png){ .img-fluid }
-  - 
+  opensource:
     class:
       - order-2
       - col-sm-4
@@ -43,7 +41,7 @@ blocks:
     button1st:
       title: About product
       url: /product/
-  - 
+  democracy-img:
     class:
       - order-3
       - order-sm-4
@@ -53,7 +51,7 @@ blocks:
       background-size: 360px 360px, 100px 100px
     text: |
       ![](/assets/images/frontpage-start.png){ .img-fluid }
-  - 
+  democracy:
     class:
       - order-4
       - order-sm-3
@@ -71,7 +69,7 @@ blocks:
       title: About vision
       url: /movement/
     button2nd:
-  - 
+  research-img:
     class:
       - order-5
     style:
@@ -80,7 +78,7 @@ blocks:
       background-size: 75px 75px
     text: |
       ![](/assets/images/frontpage-lets-educate.png){ .img-fluid }
-  - 
+  research:
     class:
       - order-5
       - col-sm-4
@@ -96,8 +94,7 @@ blocks:
     button1st:
       title: About research
       url: /research/
-  - 
-    id: news
+  news:
     class:
       - order-6
       - text-center
@@ -113,8 +110,8 @@ blocks:
     button1st:
       title: Read blog
       url: https://medium.com/citizenos
-  - 
-    id: team
+    readMore: Read more
+  team:
     class:
       - order-7
       - my-5
@@ -125,8 +122,7 @@ blocks:
     button1st:
       title: Contribute
       url: /contribute/
-  - 
-    id: partners
+  partners:
     class:
       - order-8
       - my-5
