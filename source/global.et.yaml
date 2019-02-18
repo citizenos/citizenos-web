@@ -29,7 +29,7 @@ languages:
 selectLanguage: Languages
 platformLink:
   title: Use platform
-  url: https://app.citizenos.com
+  url: https://app.citizenos.com/et/
 mobileMenu: MENU
 footer:
   text: Citizen OS is an Open Source social enterprise.
@@ -69,7 +69,7 @@ footer:
       links:
         guides:
           title: Guides
-          url: https://app.citizenos.com/en/topics/c6b6d06a-e8cf-4297-9654-8c1cf01b133b
+          url: https://app.citizenos.com/et/topics/fd8c4e13-6c5f-4423-9408-cf97c30727d7
         legal:
           title: Legal
           url: https://app.citizenos.com/en/topics/7abdd244-d45b-40d3-997c-a6290d4e972c
