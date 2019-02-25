@@ -150,17 +150,19 @@ append script
             //- })
             //- $('#how-carousel').trigger('slid.bs.carousel')
 
+            var statsSet = false
             $(window).on('resize scroll', function () {
                 var elementTop = $('#stats').offset().top
                 var elementBottom = elementTop + $('#stats').outerHeight()
                 var viewportTop = $(window).scrollTop()
                 var viewportBottom = viewportTop + $(window).height()
 
-                if (elementBottom > viewportTop && elementTop < viewportBottom) {
-                    $.getJSON('https://api.citizenos.com/api/stats', function (data) {
+                if (!statsSet && elementBottom > viewportTop && elementTop < viewportBottom) {
+                    statsSet = true
+                    $.getJSON('https://citizenos.com/.netlify/functions/stats', function (data) {
                         $('.stats-value').each(function () {
                             var id = $(this).data('id')
-                            var value = data.data[id]
+                            var value = data[id]
 
                             $(this).prop('Counter',0).animate({
                                 Counter: value
