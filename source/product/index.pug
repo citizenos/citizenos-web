@@ -97,11 +97,11 @@ append content
     if self.blocks.stats && self.blocks.stats.blocks
         #stats-blocks.d-none
             .row.my-5
-                each b in self.blocks.stats.blocks
+                each b, id in self.blocks.stats.blocks
                     .stats-block.col-12.col-sm-3.text-center
                         h4
                             = b.title
-                            span.stats-value.d-block.mb-2(data-id=b.id)
+                            span.stats-value.d-block.mb-2(data-id=id)
 
 
 append script
