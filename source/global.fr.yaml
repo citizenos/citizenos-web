@@ -5,10 +5,10 @@ navigation:
     title: Product
     url: /product/
     class: product
-  movement:
+  vision:
     title: Vision
-    url: /movement/
-    class: movement
+    url: /vision/
+    class: vision
   research:
     title: Research
     url: /research/
