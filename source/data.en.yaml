@@ -144,9 +144,9 @@ blocks:
             - my-5
         # label: A word from the team
         title: |
-            Help us develop Open Source products and spread E-democracy.
+            Help us develop Open Source products and spread participatory democracy.
         text: |
-            Whether you are a developer, translator, researcher, designer, hactivist or journalist - join us!
+            Whether you are a developer, translator, researcher, designer, hacktivist or journalist - join us!
         button1st:
             title: Contribute
             url: /contribute/
