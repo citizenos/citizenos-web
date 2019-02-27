@@ -47,7 +47,7 @@ blocks:
             background-size: 360px 360px
         # label: Our Product
         title: |
-            Developing **Open Source** software.
+            Developing Open Source software.
         text: |
             We believe the tools for online participatory democracy should be free to use for everyone.
 
@@ -78,12 +78,12 @@ blocks:
             background-position: 0 10%
             background-size: 122px 122px
         title: |
-            Raising awareness on **Participatory Democracy.**
+            Raising awareness on Participatory Democracy.
         text: |
             We believe the way for us to move forward as a civilization is to globally come together and decide on things.
         button1st:
             title: About vision
-            url: /movement/
+            url: /vision/
         button2nd:
             # title: Use platform - it’s free!
             # url: https://app.citizenos.com
@@ -111,7 +111,7 @@ blocks:
             background-size: 360px 360px
         # label: Let’s Educate
         title: |
-            Relying on **Research and Data.**
+            Relying on Research and Data.
         text: |
             We collaborate with e-democracy researchers to help develop our products.
         button1st:
