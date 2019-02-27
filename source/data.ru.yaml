@@ -35,7 +35,7 @@ blocks:
       background-position: 0% 25%
       background-size: 360px 360px
     title: |
-      Developing **Open Source** software.
+      Developing Open Source software.
     text: |
       We believe the tools for online participatory democracy should be free to use for everyone.
     button1st:
@@ -62,12 +62,12 @@ blocks:
       background-position: 0 10%
       background-size: 122px 122px
     title: |
-      Raising awareness on **Participatory Democracy.**
+      Raising awareness on Participatory Democracy.
     text: |
       We believe the way for us to move forward as a civilization is to globally come together and decide on things.
     button1st:
       title: About vision
-      url: /movement/
+      url: /vision/
     button2nd:
   research-img:
     class:
@@ -88,7 +88,7 @@ blocks:
       background-position: 30% 25%
       background-size: 360px 360px
     title: |
-      Relying on **Research and Data.**
+      Relying on Research and Data.
     text: |
       We collaborate with e-democracy researchers to help develop our products.
     button1st:
