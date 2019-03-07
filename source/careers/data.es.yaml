@@ -1,14 +1,13 @@
 ---
 title: Careers
 blocks:
-  - 
+  careers-img:
     class:
       - d-none
       - d-sm-block
     style:
       background: 'linear-gradient(180deg, #0EB7FE 0%, #0680FC 100%)'
-  - 
-    id: careers
+  careers:
     title: |
       How to join the team.
     text: |

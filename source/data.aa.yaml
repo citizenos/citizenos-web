@@ -9,124 +9,120 @@ header:
   demo:
     title: crwdns17072:0crwdne17072:0
     url: crwdns17074:0crwdne17074:0
-news:
-  more: crwdns17076:0crwdne17076:0
 blocks:
-  - 
+  opensource-img:
     class:
-      - crwdns17078:0crwdne17078:0
+      - crwdns17930:0crwdne17930:0
     style:
-      background-image: crwdns17080:0crwdne17080:0
-      background-position: crwdns17082:0crwdne17082:0
-      background-size: crwdns17084:0crwdne17084:0
+      background-image: crwdns17932:0crwdne17932:0
+      background-position: crwdns17934:0crwdne17934:0
+      background-size: crwdns17936:0crwdne17936:0
     text: |
-      crwdns17086:0{ .img-fluid }crwdne17086:0
-  - 
+      crwdns17938:0{ .img-fluid }crwdne17938:0
+  opensource:
     class:
-      - crwdns17088:0crwdne17088:0
-      - crwdns17090:0crwdne17090:0
-      - crwdns17092:0crwdne17092:0
+      - crwdns17940:0crwdne17940:0
+      - crwdns17942:0crwdne17942:0
+      - crwdns17944:0crwdne17944:0
     style:
-      background-image: crwdns17094:0crwdne17094:0
-      background-position: crwdns17096:0crwdne17096:0
-      background-size: crwdns17098:0crwdne17098:0
+      background-image: crwdns17946:0crwdne17946:0
+      background-position: crwdns17948:0crwdne17948:0
+      background-size: crwdns17950:0crwdne17950:0
     title: |
-      crwdns17100:0crwdne17100:0
+      crwdns18924:0crwdne18924:0
     text: |
-      crwdns17102:0crwdne17102:0
+      crwdns17954:0crwdne17954:0
     button1st:
-      title: crwdns17104:0crwdne17104:0
-      url: crwdns17106:0crwdne17106:0
-  - 
+      title: crwdns17956:0crwdne17956:0
+      url: crwdns17958:0crwdne17958:0
+  democracy-img:
     class:
-      - crwdns17108:0crwdne17108:0
-      - crwdns17110:0crwdne17110:0
+      - crwdns17960:0crwdne17960:0
+      - crwdns17962:0crwdne17962:0
     style:
-      background-image: crwdns17112:0crwdne17112:0
-      background-position: crwdns17114:0crwdne17114:0
-      background-size: crwdns17116:0crwdne17116:0
+      background-image: crwdns17964:0crwdne17964:0
+      background-position: crwdns17966:0crwdne17966:0
+      background-size: crwdns17968:0crwdne17968:0
     text: |
-      crwdns17118:0{ .img-fluid }crwdne17118:0
-  - 
+      crwdns17970:0{ .img-fluid }crwdne17970:0
+  democracy:
     class:
-      - crwdns17120:0crwdne17120:0
-      - crwdns17122:0crwdne17122:0
-      - crwdns17124:0crwdne17124:0
-      - crwdns17126:0crwdne17126:0
+      - crwdns17972:0crwdne17972:0
+      - crwdns17974:0crwdne17974:0
+      - crwdns17976:0crwdne17976:0
+      - crwdns17978:0crwdne17978:0
     style:
-      background-image: crwdns17128:0crwdne17128:0
-      background-position: crwdns17130:0crwdne17130:0
-      background-size: crwdns17132:0crwdne17132:0
+      background-image: crwdns17980:0crwdne17980:0
+      background-position: crwdns17982:0crwdne17982:0
+      background-size: crwdns17984:0crwdne17984:0
     title: |
-      crwdns17134:0crwdne17134:0
+      crwdns18926:0crwdne18926:0
     text: |
-      crwdns17136:0crwdne17136:0
+      crwdns17988:0crwdne17988:0
     button1st:
-      title: crwdns17138:0crwdne17138:0
-      url: crwdns17140:0crwdne17140:0
-    button2nd: crwdns17142:0crwdne17142:0
-  - 
+      title: crwdns17990:0crwdne17990:0
+      url: crwdns18928:0crwdne18928:0
+    button2nd: crwdns17994:0crwdne17994:0
+  research-img:
     class:
-      - crwdns17144:0crwdne17144:0
+      - crwdns17996:0crwdne17996:0
     style:
-      background-image: crwdns17146:0crwdne17146:0
-      background-position: crwdns17148:0crwdne17148:0
-      background-size: crwdns17150:0crwdne17150:0
+      background-image: crwdns17998:0crwdne17998:0
+      background-position: crwdns18000:0crwdne18000:0
+      background-size: crwdns18002:0crwdne18002:0
     text: |
-      crwdns17152:0{ .img-fluid }crwdne17152:0
-  - 
+      crwdns18004:0{ .img-fluid }crwdne18004:0
+  research:
     class:
-      - crwdns17154:0crwdne17154:0
-      - crwdns17156:0crwdne17156:0
-      - crwdns17158:0crwdne17158:0
+      - crwdns18006:0crwdne18006:0
+      - crwdns18008:0crwdne18008:0
+      - crwdns18010:0crwdne18010:0
     style:
-      background-image: crwdns17160:0crwdne17160:0
-      background-position: crwdns17162:0crwdne17162:0
-      background-size: crwdns17164:0crwdne17164:0
+      background-image: crwdns18012:0crwdne18012:0
+      background-position: crwdns18014:0crwdne18014:0
+      background-size: crwdns18016:0crwdne18016:0
     title: |
-      crwdns17166:0crwdne17166:0
+      crwdns18930:0crwdne18930:0
     text: |
-      crwdns17168:0crwdne17168:0
+      crwdns18020:0crwdne18020:0
     button1st:
-      title: crwdns17170:0crwdne17170:0
-      url: crwdns17172:0crwdne17172:0
-  - 
-    id: crwdns17174:0crwdne17174:0
+      title: crwdns18022:0crwdne18022:0
+      url: crwdns18024:0crwdne18024:0
+  news:
     class:
-      - crwdns17176:0crwdne17176:0
-      - crwdns17178:0crwdne17178:0
+      - crwdns18026:0crwdne18026:0
+      - crwdns18028:0crwdne18028:0
     style:
-      background-color: 'crwdns17180:0crwdne17180:0'
-      background-image: crwdns17182:0crwdne17182:0
-      background-position: crwdns17184:0crwdne17184:0
-      background-size: crwdns17186:0crwdne17186:0
+      background-color: 'crwdns18030:0crwdne18030:0'
+      background-image: crwdns18032:0crwdne18032:0
+      background-position: crwdns18034:0crwdne18034:0
+      background-size: crwdns18036:0crwdne18036:0
     title: |
-      crwdns17188:0crwdne17188:0
+      crwdns18038:0crwdne18038:0
     text: |
-      crwdns17190:0{ #news-items }crwdne17190:0
+      crwdns18040:0{ #news-items }crwdne18040:0
     button1st:
-      title: crwdns17192:0crwdne17192:0
-      url: crwdns17194:0crwdne17194:0
-  - 
-    id: crwdns17196:0crwdne17196:0
+      title: crwdns18042:0crwdne18042:0
+      url: crwdns18044:0crwdne18044:0
+    readMore: crwdns18046:0crwdne18046:0
+  team:
     class:
-      - crwdns17198:0crwdne17198:0
-      - crwdns17200:0crwdne17200:0
+      - crwdns18048:0crwdne18048:0
+      - crwdns18050:0crwdne18050:0
     title: |
-      crwdns17202:0crwdne17202:0
+      crwdns18914:0crwdne18914:0
     text: |
-      crwdns17204:0crwdne17204:0
+      crwdns18922:0crwdne18922:0
     button1st:
-      title: crwdns17206:0crwdne17206:0
-      url: crwdns17208:0crwdne17208:0
-  - 
-    id: crwdns17210:0crwdne17210:0
+      title: crwdns18056:0crwdne18056:0
+      url: crwdns18058:0crwdne18058:0
+  partners:
     class:
-      - crwdns17212:0crwdne17212:0
-      - crwdns17214:0crwdne17214:0
+      - crwdns18060:0crwdne18060:0
+      - crwdns18062:0crwdne18062:0
     style:
-      border-left: 'crwdns17216:0crwdne17216:0'
+      border-left: 'crwdns18064:0crwdne18064:0'
     title: |
-      crwdns17218:0crwdne17218:0
+      crwdns18066:0crwdne18066:0
     text: |
-      crwdns17220:0[Partners]crwdnd17220:0{ .w-100 }crwdne17220:0
+      crwdns18068:0[Partners]crwdnd18068:0{ .w-100 }crwdne18068:0

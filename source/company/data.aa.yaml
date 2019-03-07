@@ -1,14 +1,14 @@
 ---
 title: crwdns17028:0crwdne17028:0
 blocks:
-  - 
+  company-img:
     class:
-      - crwdns17030:0crwdne17030:0
-      - crwdns17032:0crwdne17032:0
+      - crwdns17900:0crwdne17900:0
+      - crwdns17902:0crwdne17902:0
     style:
-      background: 'crwdns17034:0crwdne17034:0'
-  - 
+      background: 'crwdns17904:0crwdne17904:0'
+  company:
     title: |
-      crwdns17036:0crwdne17036:0
+      crwdns17906:0crwdne17906:0
     text: |
-      crwdns17038:0{ .arrow }crwdne17038:0
+      crwdns17908:0{ .arrow }crwdne17908:0

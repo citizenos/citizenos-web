@@ -1,19 +1,19 @@
 ---
-title: Team
+title: Команда
 blocks:
-  - 
+  team-img:
     class:
       - d-none
       - d-sm-block
     style:
       background: 'linear-gradient(180deg, #0EB7FE 0%, #0680FC 100%)'
-  - 
+  team:
     title: |
-      Team
+      Команда
     text: |
       |  |  |
       | --- | --- |
-      | Founder and advisor: | Ahti Heinla, one of the founders of Skype and Starship Technologies. |
+      | Founder and Advisor: | Ahti Heinla, one of the founders of Skype and Starship Technologies. |
       | Software Developers: | Mikk Andresen, Ilmar Türk |
       | Research Associate: | Kadi Maria Vooglaid |
       | Leader and Product Manager: | Margo Loor |
@@ -23,6 +23,5 @@ blocks:
       | Front-end Developer: | Lennart Rikk |
       | Marketing and Communications: | Liina Guiter |
       | Partnerships: | Anett Linno |
-      | Volunteer: | Rie Takeuchi |
       | UX/UI Designers: | Kevin Crepin, Kristian Lember, Jannus Jaska |
-      | Minds that think alike: | Henri Laupmaa, Liia Hänni, Hille Hinsberg, Eva Truuverk |
+      | Contributors: | Henri Laupmaa, Liia Hänni, Hille Hinsberg, Eva Truuverk |

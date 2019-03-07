@@ -1,197 +1,186 @@
 ---
 title: crwdns17368:0crwdne17368:0
 blocks:
-  - 
+  decision-img:
     class:
-      - crwdns17370:0crwdne17370:0
-      - crwdns17372:0crwdne17372:0
+      - crwdns18182:0crwdne18182:0
+      - crwdns18184:0crwdne18184:0
     style:
-      min-height: crwdns17374:0crwdne17374:0
-      background-color: 'crwdns17376:0crwdne17376:0'
-      background-image: crwdns17378:0crwdne17378:0
-      background-position: crwdns17380:0crwdne17380:0
-      background-size: crwdns17382:0crwdne17382:0
-  - 
+      min-height: crwdns18186:0crwdne18186:0
+      background-color: 'crwdns18188:0crwdne18188:0'
+      background-image: crwdns18190:0crwdne18190:0
+      background-position: crwdns18192:0crwdne18192:0
+      background-size: crwdns18194:0crwdne18194:0
+  decision:
     class:
-      - crwdns17384:0crwdne17384:0
-      - crwdns17386:0crwdne17386:0
+      - crwdns18196:0crwdne18196:0
+      - crwdns18198:0crwdne18198:0
     style:
-      padding-top: crwdns17388:0crwdne17388:0
-      padding-bottom: crwdns17390:0crwdne17390:0
-      background-color: 'crwdns17392:0crwdne17392:0'
-      background-image: crwdns17394:0crwdne17394:0
-      background-position: crwdns17396:0crwdne17396:0
-      background-size: crwdns17398:0crwdne17398:0
+      padding-top: crwdns18200:0crwdne18200:0
+      padding-bottom: crwdns18202:0crwdne18202:0
+      background-color: 'crwdns18204:0crwdne18204:0'
+      background-image: crwdns18206:0crwdne18206:0
+      background-position: crwdns18208:0crwdne18208:0
+      background-size: crwdns18210:0crwdne18210:0
     title: |
-      crwdns17400:0crwdne17400:0
+      crwdns18212:0crwdne18212:0
     text: |
-      crwdns17402:0{ .arrow }crwdne17402:0
+      crwdns18214:0{ .arrow }crwdne18214:0
     button1st:
-      title: crwdns17404:0crwdne17404:0
-      url: 'crwdns17406:0crwdne17406:0'
-  - 
-    id: crwdns17408:0crwdne17408:0
+      title: crwdns18216:0crwdne18216:0
+      url: 'crwdns18218:0crwdne18218:0'
+  flexibleformat:
     class:
-      - crwdns17410:0crwdne17410:0
-      - crwdns17412:0crwdne17412:0
+      - crwdns18220:0crwdne18220:0
+      - crwdns18222:0crwdne18222:0
     style:
-      background: 'crwdns17414:0crwdne17414:0'
-      padding-top: crwdns17416:0crwdne17416:0
-      padding-bottom: crwdns17418:0crwdne17418:0
-      background-image: crwdns17420:0crwdne17420:0
-      background-size: crwdns17422:0crwdne17422:0
-    label: crwdns17424:0crwdne17424:0
+      background: 'crwdns18224:0crwdne18224:0'
+      padding-top: crwdns18226:0crwdne18226:0
+      padding-bottom: crwdns18228:0crwdne18228:0
+      background-image: crwdns18230:0crwdne18230:0
+      background-size: crwdns18232:0crwdne18232:0
+    label: crwdns18234:0crwdne18234:0
     title: |
-      crwdns17426:0crwdne17426:0
+      crwdns18236:0crwdne18236:0
     text: |
-      crwdns17428:0{ #flexibleformat-items }crwdne17428:0
-  - 
-    id: crwdns17430:0crwdne17430:0
+      crwdns18238:0{ #flexibleformat-items }crwdne18238:0
+    blocks:
+      petitions:
+        poster: crwdns18240:0crwdne18240:0
+        title: crwdns18242:0crwdne18242:0
+        text: |
+          crwdns18244:0crwdne18244:0
+      onlinemeetings:
+        poster: crwdns18246:0crwdne18246:0
+        title: crwdns18248:0crwdne18248:0
+        text: |
+          crwdns18250:0crwdne18250:0
+      gatheringideas:
+        poster: crwdns18252:0crwdne18252:0
+        title: crwdns18254:0crwdne18254:0
+        text: |
+          crwdns18256:0crwdne18256:0
+      widget:
+        poster: crwdns18258:0crwdne18258:0
+        title: crwdns18260:0crwdne18260:0
+        text: |
+          crwdns18262:0crwdne18262:0
+  features-img:
     class:
-      - crwdns17432:0crwdne17432:0
-      - crwdns17434:0crwdne17434:0
+      - crwdns18264:0crwdne18264:0
+      - crwdns18266:0crwdne18266:0
     style:
-      background-color: 'crwdns17436:0crwdne17436:0'
-      background-image: crwdns17438:0crwdne17438:0
-      background-position: crwdns17440:0crwdne17440:0
-      background-size: crwdns17442:0crwdne17442:0
+      background-color: 'crwdns18268:0crwdne18268:0'
+      background-image: crwdns18270:0crwdne18270:0
+      background-position: crwdns18272:0crwdne18272:0
+      background-size: crwdns18274:0crwdne18274:0
     text: |
-      crwdns17444:0{ .img-fluid .box-shadow }crwdne17444:0
-  - 
-    id: crwdns17446:0crwdne17446:0
+      crwdns18276:0{ .img-fluid .box-shadow }crwdne18276:0
+  features:
     class:
-      - crwdns17448:0crwdne17448:0
-      - crwdns17450:0crwdne17450:0
+      - crwdns18278:0crwdne18278:0
+      - crwdns18280:0crwdne18280:0
     style:
-      background: 'crwdns17452:0crwdne17452:0'
-    label: crwdns17454:0crwdne17454:0
+      background: 'crwdns18282:0crwdne18282:0'
+    label: crwdns18284:0crwdne18284:0
     title: |
-      crwdns17456:0crwdne17456:0
+      crwdns18286:0crwdne18286:0
     text: |
-      crwdns17458:0{ .bullet }crwdnd17458:0{ .mt-5 }crwdnd17458:0{ .bullet }crwdnd17458:0{ .mt-5 }crwdnd17458:0{ .bullet }crwdne17458:0
-  - 
-    id: crwdns17460:0crwdne17460:0
+      crwdns18288:0{ .bullet }crwdnd18288:0{ .mt-5 }crwdnd18288:0{ .bullet }crwdnd18288:0{ .mt-5 }crwdnd18288:0{ .bullet }crwdne18288:0
+  options:
     class:
-      - crwdns17462:0crwdne17462:0
-      - crwdns17464:0crwdne17464:0
-      - crwdns17466:0crwdne17466:0
-      - crwdns17468:0crwdne17468:0
+      - crwdns18290:0crwdne18290:0
+      - crwdns18292:0crwdne18292:0
+      - crwdns18294:0crwdne18294:0
+      - crwdns18296:0crwdne18296:0
     style:
-      background: 'crwdns17470:0crwdne17470:0'
-    label: crwdns17472:0crwdne17472:0
-  - 
-    id: crwdns17474:0crwdne17474:0
-    class:
-      - crwdns17476:0crwdne17476:0
-      - crwdns17478:0crwdne17478:0
-    text: |
-      crwdns17480:0{ .img-fluid .box-shadow }crwdne17480:0
-  - 
-    id: crwdns17482:0crwdne17482:0
-    class:
-      - crwdns17484:0crwdne17484:0
-      - crwdns17486:0crwdne17486:0
-    style:
-      background-image: crwdns17488:0crwdne17488:0
-      background-position: crwdns17490:0crwdne17490:0
-      background-size: crwdns17492:0crwdne17492:0
+      background: 'crwdns18298:0crwdne18298:0'
     title: |
-      crwdns17494:0crwdne17494:0
-    text: |
-      crwdns17496:0[www.rahvaalgatus.ee]crwdne17496:0
-  - 
-    id: crwdns17498:0crwdne17498:0
+      crwdns18300:0crwdne18300:0
+    blocks:
+      app:
+        title: crwdns18302:0crwdne18302:0
+        text: |
+          crwdns18304:0crwdne18304:0
+        subtext: crwdns18306:0crwdne18306:0
+        button:
+          title: crwdns18308:0crwdne18308:0
+          url: crwdns18310:0crwdne18310:0
+          target: crwdns18312:0crwdne18312:0
+      api:
+        title: crwdns18314:0crwdne18314:0
+        text: |
+          crwdns18316:0crwdne18316:0
+        subtext: crwdns18318:0crwdne18318:0
+        button:
+          title: crwdns18320:0crwdne18320:0
+          url: crwdns18322:0crwdne18322:0
+      consult:
+        title: crwdns18324:0crwdne18324:0
+        text: |
+          crwdns18326:0crwdne18326:0
+        subtext: crwdns18328:0crwdne18328:0
+        button:
+          title: crwdns18330:0crwdne18330:0
+          url: crwdns18332:0crwdne18332:0
+  case-study-2-img:
     class:
-      - crwdns17500:0crwdne17500:0
-      - crwdns17502:0crwdne17502:0
+      - crwdns18334:0crwdne18334:0
+      - crwdns18336:0crwdne18336:0
     text: |
-      crwdns17504:0{ .img-fluid .box-shadow }crwdne17504:0
-  - 
+      crwdns18338:0{ .img-fluid .box-shadow }crwdne18338:0
+  case-study-2:
     class:
-      - crwdns17506:0crwdne17506:0
-      - crwdns17508:0crwdne17508:0
+      - crwdns18340:0crwdne18340:0
+      - crwdns18342:0crwdne18342:0
     style:
-      background-image: crwdns17510:0crwdne17510:0
-      background-position: crwdns17512:0crwdne17512:0
-      background-size: crwdns17514:0crwdne17514:0
+      background-image: crwdns18344:0crwdne18344:0
+      background-position: crwdns18346:0crwdne18346:0
+      background-size: crwdns18348:0crwdne18348:0
     title: |
-      crwdns17516:0crwdne17516:0
+      crwdns18350:0crwdne18350:0
     text: |
-      crwdns17518:0crwdne17518:0
-  - 
-    id: crwdns17520:0crwdne17520:0
+      crwdns18352:0[www.rahvaalgatus.ee]crwdne18352:0
+  case-study-1-img:
     class:
-      - crwdns17522:0crwdne17522:0
-      - crwdns17524:0crwdne17524:0
+      - crwdns18354:0crwdne18354:0
+      - crwdns18356:0crwdne18356:0
+    text: |
+      crwdns18358:0{ .img-fluid .box-shadow }crwdne18358:0
+  case-study-1:
+    class:
+      - crwdns18360:0crwdne18360:0
+      - crwdns18362:0crwdne18362:0
     style:
-      background: 'crwdns17526:0crwdne17526:0'
-      padding-top: crwdns17528:0crwdne17528:0
-      padding-bottom: crwdns17530:0crwdne17530:0
-      background-image: crwdns17532:0crwdne17532:0
-      background-size: crwdns17534:0crwdne17534:0
+      background-image: crwdns18364:0crwdne18364:0
+      background-position: crwdns18366:0crwdne18366:0
+      background-size: crwdns18368:0crwdne18368:0
     title: |
-      crwdns17536:0crwdne17536:0
+      crwdns18370:0crwdne18370:0
+    text: |
+      crwdns18372:0crwdne18372:0
+  stats:
+    class:
+      - crwdns18374:0crwdne18374:0
+      - crwdns18376:0crwdne18376:0
+    style:
+      background: 'crwdns18378:0crwdne18378:0'
+      padding-top: crwdns18380:0crwdne18380:0
+      padding-bottom: crwdns18382:0crwdne18382:0
+      background-image: crwdns18384:0crwdne18384:0
+      background-size: crwdns18386:0crwdne18386:0
+    title: |
+      crwdns18388:0crwdne18388:0
     button1st:
-      title: crwdns17538:0crwdne17538:0
-      url: crwdns17540:0crwdne17540:0
-      target: crwdns17542:0crwdne17542:0
-flexibleformatBlocks:
-  - 
-    poster: crwdns17544:0crwdne17544:0
-    title: crwdns17546:0crwdne17546:0
-    text: |
-      crwdns17548:0crwdne17548:0
-  - 
-    poster: crwdns17550:0crwdne17550:0
-    title: crwdns17552:0crwdne17552:0
-    text: |
-      crwdns17554:0crwdne17554:0
-  - 
-    poster: crwdns17556:0crwdne17556:0
-    title: crwdns17558:0crwdne17558:0
-    text: |
-      crwdns17560:0crwdne17560:0
-  - 
-    poster: crwdns17562:0crwdne17562:0
-    title: crwdns17564:0crwdne17564:0
-    text: |
-      crwdns17566:0crwdne17566:0
-statsBlocks:
-  - 
-    id: crwdns17568:0crwdne17568:0
-    title: crwdns17570:0crwdne17570:0
-  - 
-    id: crwdns17572:0crwdne17572:0
-    title: crwdns17574:0crwdne17574:0
-  - 
-    id: crwdns17576:0crwdne17576:0
-    title: crwdns17578:0crwdne17578:0
-  - 
-    id: crwdns17580:0crwdne17580:0
-    title: crwdns17582:0crwdne17582:0
-optionBlocks:
-  - 
-    title: crwdns17584:0crwdne17584:0
-    text: |
-      crwdns17586:0crwdne17586:0
-    subtext: crwdns17588:0crwdne17588:0
-    button:
-      title: crwdns17590:0crwdne17590:0
-      url: crwdns17592:0crwdne17592:0
-      target: crwdns17594:0crwdne17594:0
-  - 
-    title: crwdns17596:0crwdne17596:0
-    text: |
-      crwdns17598:0crwdne17598:0
-    subtext: crwdns17600:0crwdne17600:0
-    button:
-      title: crwdns17602:0crwdne17602:0
-      url: crwdns17604:0crwdne17604:0
-  - 
-    title: crwdns17606:0crwdne17606:0
-    text: |
-      crwdns17608:0crwdne17608:0
-    subtext: crwdns17610:0crwdne17610:0
-    button:
-      title: crwdns17612:0crwdne17612:0
-      url: crwdns17614:0crwdne17614:0
+      title: crwdns18390:0crwdne18390:0
+      url: crwdns18392:0crwdne18392:0
+      target: crwdns18394:0crwdne18394:0
+    blocks:
+      topicsCreated:
+        title: crwdns18396:0crwdne18396:0
+      votesCast:
+        title: crwdns18398:0crwdne18398:0
+      groupsCreated:
+        title: crwdns18400:0crwdne18400:0
+      usersCreated:
+        title: crwdns18402:0crwdne18402:0

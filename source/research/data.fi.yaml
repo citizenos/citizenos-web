@@ -1,7 +1,7 @@
 ---
 title: Research
 blocks:
-  - 
+  research-img:
     class:
       - order-0
       - order-sm-1
@@ -12,7 +12,7 @@ blocks:
       background-size: 350px 350px, 100px 100px
     text: |
       ![](/assets/images/research-start.png){ .img-fluid }
-  - 
+  research:
     class:
       - order-1
       - order-sm-0
@@ -22,7 +22,7 @@ blocks:
       background-position: 90% 10%, 7% 25%
       background-size: 45px 45px, 65px 65px
     title: |
-      Relying on **research and data.**
+      Relying on research and data.
     text: |
       We collaborate with e-democracy researchers to help develop our products.
 
@@ -30,8 +30,7 @@ blocks:
     button1st:
       title: Sign up for news
       url: '#subscribe'
-  - 
-    id: forward-img
+  forward-img:
     class:
       - order-2
       - order-sm-2
@@ -44,7 +43,7 @@ blocks:
       background-size: 165px 165px, 350px 350px
     text: |
       ![](/assets/images/research-forward.jpg){ .img-fluid .box-shadow }
-  - 
+  forward:
     class:
       - order-3
       - order-sm-3
@@ -57,8 +56,7 @@ blocks:
     button1st:
       title: Read blog
       url: https://medium.com/citizenos
-  - 
-    id: research-video-img
+  conference-img:
     class:
       - order-4
       - order-sm-5
@@ -70,7 +68,7 @@ blocks:
       background-size: 45px 45px, 165px 165px, 350px 350px
     text: |
       ![](/assets/images/research-video.jpg){ .img-fluid .box-shadow }
-  - 
+  conference:
     class:
       - order-5
       - order-sm-4

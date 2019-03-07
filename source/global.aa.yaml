@@ -1,21 +1,21 @@
 ---
 siteTitle: crwdns17222:0crwdne17222:0
 navigation:
-  - 
-    title: crwdns17224:0crwdne17224:0
-    url: crwdns17226:0crwdne17226:0
-    class: crwdns17228:0crwdne17228:0
-  - 
-    title: crwdns17230:0crwdne17230:0
-    url: crwdns17232:0crwdne17232:0
-    class: crwdns17234:0crwdne17234:0
-  - 
-    title: crwdns17236:0crwdne17236:0
-    url: crwdns17238:0crwdne17238:0
-    class: crwdns17240:0crwdne17240:0
-  - 
-    title: crwdns17242:0crwdne17242:0
-    url: crwdns17244:0crwdne17244:0
+  product:
+    title: crwdns18070:0crwdne18070:0
+    url: crwdns18072:0crwdne18072:0
+    class: crwdns18074:0crwdne18074:0
+  vision:
+    title: crwdns18934:0crwdne18934:0
+    url: crwdns18936:0crwdne18936:0
+    class: crwdns18938:0crwdne18938:0
+  research:
+    title: crwdns18082:0crwdne18082:0
+    url: crwdns18084:0crwdne18084:0
+    class: crwdns18086:0crwdne18086:0
+  blog:
+    title: crwdns18088:0crwdne18088:0
+    url: crwdns18090:0crwdne18090:0
 language: crwdns17246:0crwdne17246:0
 languages:
   en: crwdns17248:0crwdne17248:0
@@ -34,45 +34,45 @@ mobileMenu: crwdns17270:0crwdne17270:0
 footer:
   text: crwdns17272:0crwdne17272:0
   navigation:
-    - 
-      title: crwdns17274:0crwdne17274:0
+    about:
+      title: crwdns18092:0crwdne18092:0
       links:
-        - 
-          title: crwdns17276:0crwdne17276:0
-          url: crwdns17278:0crwdne17278:0
-        - 
-          title: crwdns17280:0crwdne17280:0
-          url: crwdns17282:0crwdne17282:0
-        - 
-          title: crwdns17284:0crwdne17284:0
-          url: crwdns17286:0crwdne17286:0
-        - 
-          title: crwdns17288:0crwdne17288:0
-          url: crwdns17290:0crwdne17290:0
-        - 
-          title: crwdns17292:0crwdne17292:0
-          url: crwdns17294:0crwdne17294:0
-    - 
-      title: crwdns17296:0crwdne17296:0
+        company:
+          title: crwdns18094:0crwdne18094:0
+          url: crwdns18096:0crwdne18096:0
+        careers:
+          title: crwdns18098:0crwdne18098:0
+          url: crwdns18100:0crwdne18100:0
+        contribute:
+          title: crwdns18102:0crwdne18102:0
+          url: crwdns18104:0crwdne18104:0
+        team:
+          title: crwdns18106:0crwdne18106:0
+          url: crwdns18108:0crwdne18108:0
+        contact:
+          title: crwdns18110:0crwdne18110:0
+          url: crwdns18112:0crwdne18112:0
+    community:
+      title: crwdns18114:0crwdne18114:0
       links:
-        - 
-          title: crwdns17298:0crwdne17298:0
-          url: crwdns17300:0crwdne17300:0
-        - 
-          title: crwdns17302:0crwdne17302:0
-          url: crwdns17304:0crwdne17304:0
-        - 
-          title: crwdns17306:0crwdne17306:0
-          url: crwdns17308:0crwdne17308:0
-    - 
-      title: crwdns17310:0crwdne17310:0
+        blog:
+          title: crwdns18116:0crwdne18116:0
+          url: crwdns18118:0crwdne18118:0
+        twitter:
+          title: crwdns18120:0crwdne18120:0
+          url: crwdns18122:0crwdne18122:0
+        facebook:
+          title: crwdns18124:0crwdne18124:0
+          url: crwdns18126:0crwdne18126:0
+    support:
+      title: crwdns18128:0crwdne18128:0
       links:
-        - 
-          title: crwdns17312:0crwdne17312:0
-          url: crwdns17314:0crwdne17314:0
-        - 
-          title: crwdns17316:0crwdne17316:0
-          url: crwdns17318:0crwdne17318:0
-        - 
-          title: crwdns17320:0crwdne17320:0
-          url: crwdns17322:0crwdne17322:0
+        guides:
+          title: crwdns18130:0crwdne18130:0
+          url: crwdns18132:0crwdne18132:0
+        legal:
+          title: crwdns18134:0crwdne18134:0
+          url: crwdns18136:0crwdne18136:0
+        github:
+          title: crwdns18138:0crwdne18138:0
+          url: crwdns18140:0crwdne18140:0

@@ -1,14 +1,14 @@
 ---
 title: crwdns17052:0crwdne17052:0
 blocks:
-  - 
+  contribute-img:
     class:
-      - crwdns17054:0crwdne17054:0
-      - crwdns17056:0crwdne17056:0
+      - crwdns17920:0crwdne17920:0
+      - crwdns17922:0crwdne17922:0
     style:
-      background: 'crwdns17058:0crwdne17058:0'
-  - 
+      background: 'crwdns17924:0crwdne17924:0'
+  contribute:
     title: |
-      crwdns17060:0crwdne17060:0
+      crwdns17926:0crwdne17926:0
     text: |
-      crwdns17062:0[here]crwdne17062:0
+      crwdns18920:0[here]crwdne18920:0

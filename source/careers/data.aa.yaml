@@ -1,15 +1,14 @@
 ---
 title: crwdns17014:0crwdne17014:0
 blocks:
-  - 
+  careers-img:
     class:
-      - crwdns17016:0crwdne17016:0
-      - crwdns17018:0crwdne17018:0
+      - crwdns17890:0crwdne17890:0
+      - crwdns17892:0crwdne17892:0
     style:
-      background: 'crwdns17020:0crwdne17020:0'
-  - 
-    id: crwdns17022:0crwdne17022:0
+      background: 'crwdns17894:0crwdne17894:0'
+  careers:
     title: |
-      crwdns17024:0crwdne17024:0
+      crwdns17896:0crwdne17896:0
     text: |
-      crwdns17026:0crwdne17026:0
+      crwdns17898:0crwdne17898:0
