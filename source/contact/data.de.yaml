@@ -1,5 +1,5 @@
 ---
-title: Contact
+title: Kontakt
 blocks:
   contact-img:
     class:
@@ -9,7 +9,7 @@ blocks:
       background: 'linear-gradient(180deg, #0EB7FE 0%, #0680FC 100%)'
   contact:
     title: |
-      Contact
+      Kontakt
     text: |
       |  |  |
       | --- | --- |
