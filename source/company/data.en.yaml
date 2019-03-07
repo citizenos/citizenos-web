@@ -1,14 +1,16 @@
 title: Company
+
+
 blocks:
-    -
+    company-img:
         class:
             - d-none
             - d-sm-block
         style:
             background: 'linear-gradient(180deg, #0EB7FE 0%, #0680FC 100%)'
 
-    -
-#        label: About
+    company:
+        # label: About
         title: |
             Company
         text: |

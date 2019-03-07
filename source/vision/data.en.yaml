@@ -1,7 +1,8 @@
-title: movement
+title: Vision
+
+
 blocks:
-    -
-        id: start-img
+    start-img:
         class:
             - order-0
             - order-sm-1
@@ -11,9 +12,9 @@ blocks:
             background-position: 0 10%, 75% 20%
             background-size: 350px 350px, 65px 65px
         text: |
-            ![](/assets/images/movement-start.png){ .img-fluid }
+            ![](/assets/images/vision-start.png){ .img-fluid }
 
-    -
+    start:
         class:
             - order-1
             - order-sm-0
@@ -25,7 +26,7 @@ blocks:
             background-position: 10% 15%, 90% 90%
             background-size: 42px 42px, 102px 102px
         title: |
-            **You have a voice** and it needs to be heard.
+            You have a voice and it needs to be heard.
         text: |
             We believe social change happens when people come together and decide on things.
 
@@ -39,7 +40,8 @@ blocks:
         [f]: (https://www.facebook.com/citizenos.web){ .btn .btn-primary .my-2 .ml-3 }
         [t]: (https://twitter.com/Citizen_OS){ .btn .btn-primary .my-2 .ml-3 }
 
-    -
+
+    individual-img:
         class:
             - order-2
             - order-sm-2
@@ -49,14 +51,13 @@ blocks:
             background-position: 10% 10%, 90% 10%
             background-size: 45px 45px, 350px 350px
         text: |
-            ![](/assets/images/movement-individual.png){ .img-fluid }
+            ![](/assets/images/vision-individual.png){ .img-fluid }
 
-    -
-        id: individual
+    individual:
         class:
             - order-3
             - order-sm-3
-#        label: As an individual
+        # label: As an individual
         title: |
             One person can make a difference.
         text: |
@@ -71,17 +72,17 @@ blocks:
             url: https://app.citizenos.com
             target: _blank
 
-    -
-        id: awareness
+
+    awareness:
         class:
             - order-4
         style:
             padding-top: 5rem
             padding-bottom: 5rem
-            background-image: url(/assets/images/bubble-orange.svg), url(/assets/images/movement-awareness.jpg)
+            background-image: url(/assets/images/bubble-orange.svg), url(/assets/images/vision-awareness.jpg)
             background-size: 164px 164px, cover
             background-position: 10% 10%
-#        label: Raising awareness
+        # label: Raising awareness
         title: |
             Together we can advance online participatory democracy.
         text: |

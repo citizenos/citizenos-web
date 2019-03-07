@@ -26,11 +26,6 @@ append stylus
                     margin-top 10px
                     font-size 46px
 
-        .block
-            h2
-                strong
-                    border-bottom 6px solid #0680FC
-
         .carousel-indicators
             bottom -1rem
 
@@ -65,18 +60,19 @@ append stylus
 
 
 append content
-    if self.flexibleformatBlocks
+    if self.blocks.flexibleformat && self.blocks.flexibleformat.blocks
         #flexibleformat-blocks.d-none
             .row.mt-5
-                each b in self.flexibleformatBlocks.slice(0, 3)
-                    .col-12.col-sm-4.mb-5
-                        .news-block.col-12.h-100.bg-white.box-shadow.p-0
-                            img.w-100(src=b.poster)
-                            .py-3.px-3
-                                h4.mt-0.mb-2= b.title
-                                +markdown(b.text)
+                each b, key in self.blocks.flexibleformat.blocks
+                    if key !== 'widget'
+                        .col-12.col-sm-4.mb-5
+                            .news-block.col-12.h-100.bg-white.box-shadow.p-0
+                                img.w-100(src=b.poster)
+                                .py-3.px-3
+                                    h4.mt-0.mb-2= b.title
+                                    +markdown(b.text)
             .row
-                - var b = self.flexibleformatBlocks.pop()
+                - var b = self.blocks.flexibleformat.blocks.widget
                 .news-block.col-12
                     .col-12.h-100.bg-white.box-shadow.p-0
                         .row
@@ -87,46 +83,25 @@ append content
                                 h4.mt-0.mb-2= b.title
                                 +markdown(b.text)
 
-    #option-blocks.d-none
-        .row.mt-5
-            each b in self.optionBlocks
-                .col-12.col-sm-4.mb-3
-                    .option-block.col-12.h-100.bg-white.py-4.px-5.box-shadow
-                        h4= b.title
-                        +markdown(b.text)
-                        span.d-block.my-3= b.subtext
-                        a.btn.btn-primary.my-2(href=b.button.url)= b.button.title
+    if self.blocks.options && self.blocks.options.blocks
+        #option-blocks.d-none
+            .row.mt-5
+                each b in self.blocks.options.blocks
+                    .col-12.col-sm-4.mb-3
+                        .option-block.col-12.h-100.bg-white.py-4.px-5.box-shadow
+                            h4= b.title
+                            +markdown(b.text)
+                            span.d-block.my-3= b.subtext
+                            a.btn.btn-primary.my-2(href=b.button.url)= b.button.title
 
-    #stats-blocks.d-none
-        .row.my-5
-            each b in self.statsBlocks
-                .stats-block.col-12.col-sm-3.text-center
-                    h4
-                        = b.title
-                        span.stats-value.d-block.mb-2(data-id=b.id)
-
-    //- #how-carousel.carousel.slide.carousel-fade(data-ride='false')
-    //-     ol.carousel-indicators
-    //-         each v, idx in self.howBlocks
-    //-             li(class={ active: idx === 0 }, data-target='#how-carousel', data-slide-to=idx)
-    //-     .carousel-inner
-    //-         each v, idx in self.howBlocks
-    //-             .carousel-item.text-center(class={ active: idx === 0 }, data-id=idx)
-    //-                 .embed-responsive.embed-responsive-16by9
-    //-                     video.embed-responsive-item(poster=v.poster, playsinline, autoplay, muted, loop, style='top:2px')
-    //-                         source(src=v.webm, type='video/webm')
-    //-                         source(src=v.mp4, type='video/mp4')
-    //-     a.carousel-control-prev(href='#how-carousel', role='button', data-slide='prev')
-    //-         span.carousel-control-prev-icon(aria-hidden='true')
-    //-         span.sr-only Previous
-    //-     a.carousel-control-next(href='#how-carousel', role='button', data-slide='next')
-    //-         span.carousel-control-next-icon(aria-hidden='true')
-    //-         span.sr-only Next
-    //-
-    //- each v, idx in self.howBlocks
-    //-     .d-none(id='carousel-text-' + idx)
-    //-         +markdown(v.text)
-    //-         a.btn.btn-primary.my-2(href='#carousel-next')= v.button
+    if self.blocks.stats && self.blocks.stats.blocks
+        #stats-blocks.d-none
+            .row.my-5
+                each b, id in self.blocks.stats.blocks
+                    .stats-block.col-12.col-sm-3.text-center
+                        h4
+                            = b.title
+                            span.stats-value.d-block.mb-2(data-id=id)
 
 
 append script
@@ -175,17 +150,19 @@ append script
             //- })
             //- $('#how-carousel').trigger('slid.bs.carousel')
 
+            var statsSet = false
             $(window).on('resize scroll', function () {
                 var elementTop = $('#stats').offset().top
                 var elementBottom = elementTop + $('#stats').outerHeight()
                 var viewportTop = $(window).scrollTop()
                 var viewportBottom = viewportTop + $(window).height()
 
-                if (elementBottom > viewportTop && elementTop < viewportBottom) {
-                    $.getJSON('https://api.citizenos.com/api/stats', function (data) {
+                if (!statsSet && elementBottom > viewportTop && elementTop < viewportBottom) {
+                    statsSet = true
+                    $.getJSON('https://citizenos.com/.netlify/functions/stats', function (data) {
                         $('.stats-value').each(function () {
                             var id = $(this).data('id')
-                            var value = data.data[id]
+                            var value = data[id]
 
                             $(this).prop('Counter',0).animate({
                                 Counter: value
