@@ -1,5 +1,5 @@
 ---
-title: Vision
+title: Видение
 blocks:
   start-img:
     class:
@@ -26,10 +26,10 @@ blocks:
     title: |
       У Вас есть голос и он должен быть услышан.
     text: |
-      We believe social change happens when people come together and decide on things.
+      Мы считаем, что социальные перемены происходят, когда люди собираются вместе и принимают решения.
 
-      - [Get involved](#individual)
-      - [Contribute to Citizen OS](#awareness)
+      - [Принять участие](#individual)
+      - [Внести свой вклад в Citizen OS](#awareness)
       { .arrow }
     button1st:
       title: Подписаться на новости
