@@ -65,7 +65,7 @@ blocks:
         poster: /assets/images/flexibleformat-gatheringideas.png
         title: Ideen sammeln
         text: |
-          Share your decision-making process with a bigger audience.
+          Teilen Sie Ihren Entscheidungsprozess mit einem größeren Publikum.
       widget:
         poster: /assets/images/flexibleformat-widget.png
         title: Pro- und Kontra-Diskussionen
@@ -92,22 +92,22 @@ blocks:
     title: |
       Klarheit
     text: |
-      - Overview of decision-making progress.
-      - Voting deadlines.
+      - Übersicht zum Fortschritt von Entscheidungsfindungen
+      - Abstimmungsfristen
       { .bullet }
 
-      ## Involvement{ .mt-5 }
+      ## Beteiligung{ .mt-5 }
 
-      - Ideas are collected bottom-up.
-      - Discussion occurs in a structured way.
-      - Can involve thousands or millions of participants.
+      - Ideen werden von unten nach oben gesammelt
+      - Diskussionen erfolgen strukturiert
+      - Kann tausende oder millionen von Teilnehmern involvieren
       { .bullet }
 
-      ## Security & Research{ .mt-5 }
+      ## Sicherheit & Forschung{ .mt-5 }
 
-      - Continuous development to keep up with new laws.
-      - Product development follows scientific approach.
-      - Safe encrypted data, secure platform in a cloud server.
+      - Kontinuierliche Entwicklung, um auf den Stand der aktuellen Gesetzgebung zu sein
+      - Produktentwicklung verfolgt wissenschaftliche Herangehensweise
+      - Verschlüsselte Datenspeicherung, sichere Plattform auf einem Cloud-Server
       { .bullet }
   options:
     class:
@@ -123,7 +123,7 @@ blocks:
       app:
         title: Auf unserer Website verwenden
         text: |
-          The Citizen OS platform is free to use on our website for everyone.
+          Die Citizen OS Plattform ist für jedermann auf unserer Webseite kostenlos.
         subtext: Für immer kostenlos!
         button:
           title: Plattform verwenden
