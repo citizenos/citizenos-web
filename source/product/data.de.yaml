@@ -68,9 +68,9 @@ blocks:
           Share your decision-making process with a bigger audience.
       widget:
         poster: /assets/images/flexibleformat-widget.png
-        title: Pro-con argumented discussions
+        title: Pro- und Kontra-Diskussionen
         text: |
-          Integrate our widget in your site or platform to conduct discussion based on pro and con arguments.
+          Integrieren Sie unser Widget auf Ihrer Webseite, um Pro- und Kontra-Diskussion durchzuführen.
   features-img:
     class:
       - order-2
@@ -140,7 +140,7 @@ blocks:
       consult:
         title: Beratung & Integration
         text: |
-          Let our team do all the work from consulting to a working adaptation with your systems.
+          Überlassen Sie alles unserem Team, von der Beratung bis hin zu der Anpassung Ihrer Systeme.
         subtext: Angebot
         button:
           title: Uns kontaktieren
@@ -192,7 +192,7 @@ blocks:
       background-image: url(/assets/images/pattern.svg)
       background-size: 38px 42px
     title: |
-      Our online decision-making community is growing.
+      Unsere Online-Entscheidungsgemeinschaft wächst stetig.
     button1st:
       title: Plattform verwenden
       url: https://app.citizenos.com
