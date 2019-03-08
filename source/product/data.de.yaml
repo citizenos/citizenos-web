@@ -162,7 +162,7 @@ blocks:
     title: |
       Fallstudie: Kommunikation zwischen Bürgern und der Regierung Estlands
     text: |
-      The Citizen OS open source code was used to set up the citizen initiatives platform [www.rahvaalgatus.ee](https://www.rahvaalgatus.ee), where petitions can be started, votes can be collected and sent to the Parliament.
+      Der Citizen OS Open-Source-Code wurde verwendet, um die Plattform für Bürgerinitiative [www.rahvaalgatus.ee] (https://www.rahvaalgatus.ee) einzurichten. Hier können Petitionen gestartet und Stimmen gesammelt werden, diese werden dann an das Parlament gesendet.
   case-study-1-img:
     class:
       - order-9
@@ -180,7 +180,7 @@ blocks:
     title: |
       Fallstudie: Erweitern des Bereichs der Kommunikation.
     text: |
-      [Opinion Festival](https://www.arvamusfestival.ee/en) integrated the Citizen OS argumentation widget, allowing online discussions on the festival topics beyond the two days of the physical festival.
+      [Opinion Festival](https://www.arvamusfestival.ee/en) integrierte das Citizen OS Argumentations-Widget, welches Online Diskussionen über Themen bezüglich des zweitägigen Festivals ermöglichte.
   stats:
     class:
       - order-11
