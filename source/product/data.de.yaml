@@ -1,5 +1,5 @@
 ---
-title: Product
+title: Artikel
 blocks:
   decision-img:
     class:
@@ -23,7 +23,7 @@ blocks:
       background-position: 10% 5%, 90% 90%
       background-size: 75px 75px, 65px 65px
     title: |
-      Online decision-making in teams and communities.
+      Online-Entscheidungsfindung in Teams und Gemeinden.
     text: |
       Make argument-based decisions. Structure discussions and meet your voting deadlines. Collect votes for petitions.
 
