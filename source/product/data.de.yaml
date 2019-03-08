@@ -25,7 +25,7 @@ blocks:
     title: |
       Online-Entscheidungsfindung in Teams und Gemeinden.
     text: |
-      Make argument-based decisions. Structure discussions and meet your voting deadlines. Collect votes for petitions.
+      Treffen Sie Entscheidungen auf Argumenten basierend. Strukturieren Sie Diskussionen gemäß Ihrer Abstimmungsfristen. Sammeln Sie Stimmen für Petitionen.
 
       - [Platform features](#features)
       - [How does it work](#how)
@@ -55,12 +55,12 @@ blocks:
         poster: /assets/images/flexibleformat-petitions.png
         title: Petitionen
         text: |
-          Edit collaborately. Collect thousands or millions of signatures. Follow up with news.
+          Arbeiten Sie zusammen. Sammeln Sie Tausende oder Millionen von Unterschriften. Bleiben Sie informiert.
       onlinemeetings:
         poster: /assets/images/flexibleformat-onlinemeetings.png
         title: Online-Meetings
         text: |
-          Carry out meetings online. Everyone can leave their comments and vote at a time suitable for them.
+          Meetings online durchführen. Jeder kann Kommentare hinterlassen und einen geeigneten Zeitpunkt abstimmen.
       gatheringideas:
         poster: /assets/images/flexibleformat-gatheringideas.png
         title: Ideen sammeln
@@ -100,7 +100,7 @@ blocks:
 
       - Ideen werden von unten nach oben gesammelt
       - Diskussionen erfolgen strukturiert
-      - Kann tausende oder millionen von Teilnehmern involvieren
+      - Kann Tausende oder Millionen von Teilnehmern involvieren
       { .bullet }
 
       ## Sicherheit & Forschung{ .mt-5 }
