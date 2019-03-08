@@ -30,33 +30,41 @@ blocks:
     button1st:
       title: crwdns18982:0crwdne18982:0
       url: 'crwdns18984:0crwdne18984:0'
-    "[f]":
-      "(https://www.facebook.com/citizenos.web){ .btn .btn-primary .my-2 .ml-3 } [t]":
-        "(https://twitter.com/Citizen_OS){ .btn .btn-primary .my-2 .ml-3 } individual-img":
-          class:
-            - order-2 - order-sm-2 style:
-              background-image:
-                url(/assets/images/bubble-yellow.svg), url(/assets/images/bubble-dots.png) background-position:
-                  "10% 10%, 90% 10% background-size":
-                    45px 45px, 350px 350px text:
-                      "| ![](/assets/images/vision-individual.png){ .img-fluid } individual":
-                        class:
-                          - order-3 - order-sm-3 title:
-                            | One person can make a difference. text:
-                              | Participatory democracy is individual participation in political decisions that affect your life. Governments are increasingly trusting citizens to help solve difficult social issues. button1st:
-                                title:
-                                  Use platform url:
-                                    "https://app.citizenos.com target":
-                                      _blank awareness:
-                                        class:
-                                          - order-4 style:
-                                            padding-top:
-                                              5rem padding-bottom:
-                                                5rem background-image:
-                                                  url(/assets/images/bubble-orange.svg), url(/assets/images/vision-awareness.jpg) background-size:
-                                                    164px 164px, cover background-position:
-                                                      "10% 10% title":
-                                                        | Together we can advance online participatory democracy. text:
-                                                          | We are developing products that help people create a better future. Whether you are a developer, translator, researcher, designer, hactivist or journalist - join us! button1st:
-                                                            title:
-                                                              Contribute url: crwdns18986:0crwdne18986:0
+  individual-img:
+    class:
+      - crwdns19016:0crwdne19016:0
+      - crwdns19018:0crwdne19018:0
+    style:
+      background-image: crwdns19020:0crwdne19020:0
+      background-position: crwdns19022:0crwdne19022:0
+      background-size: crwdns19024:0crwdne19024:0
+    text: |
+      crwdns19026:0{ .img-fluid }crwdne19026:0
+  individual:
+    class:
+      - crwdns19028:0crwdne19028:0
+      - crwdns19030:0crwdne19030:0
+    title: |
+      crwdns19032:0crwdne19032:0
+    text: |
+      crwdns19034:0crwdne19034:0
+    button1st:
+      title: crwdns19036:0crwdne19036:0
+      url: crwdns19038:0crwdne19038:0
+      target: crwdns19040:0crwdne19040:0
+  awareness:
+    class:
+      - crwdns19042:0crwdne19042:0
+    style:
+      padding-top: crwdns19044:0crwdne19044:0
+      padding-bottom: crwdns19046:0crwdne19046:0
+      background-image: crwdns19048:0crwdne19048:0
+      background-size: crwdns19050:0crwdne19050:0
+      background-position: crwdns19052:0crwdne19052:0
+    title: |
+      crwdns19054:0crwdne19054:0
+    text: |
+      crwdns19056:0crwdne19056:0
+    button1st:
+      title: crwdns19058:0crwdne19058:0
+      url: crwdns19060:0crwdne19060:0
