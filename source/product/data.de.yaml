@@ -33,7 +33,7 @@ blocks:
       - [Case studies](#case-studies)
       { .arrow }
     button1st:
-      title: Sign up for news
+      title: Für neue Nachrichten anmelden
       url: '#subscribe'
   flexibleformat:
     class:
@@ -45,25 +45,25 @@ blocks:
       padding-bottom: 5rem
       background-image: url(/assets/images/pattern.svg)
       background-size: 38px 42px
-    label: A flexible format
+    label: Flexibles Format
     title: |
-      How can you use Citizen OS’s platform?
+      Wie können Sie die Citizen OS Plattform nutzen?
     text: |
       { #flexibleformat-items }
     blocks:
       petitions:
         poster: /assets/images/flexibleformat-petitions.png
-        title: Petitions
+        title: Petitionen
         text: |
           Edit collaborately. Collect thousands or millions of signatures. Follow up with news.
       onlinemeetings:
         poster: /assets/images/flexibleformat-onlinemeetings.png
-        title: Online meetings
+        title: Online-Meetings
         text: |
           Carry out meetings online. Everyone can leave their comments and vote at a time suitable for them.
       gatheringideas:
         poster: /assets/images/flexibleformat-gatheringideas.png
-        title: Gathering ideas
+        title: Ideen sammeln
         text: |
           Share your decision-making process with a bigger audience.
       widget:
@@ -88,9 +88,9 @@ blocks:
       - order-sm-3
     style:
       background: '#F7F7F7'
-    label: Features
+    label: Merkmale
     title: |
-      Clarity
+      Klarheit
     text: |
       - Overview of decision-making progress.
       - Voting deadlines.
@@ -118,32 +118,32 @@ blocks:
     style:
       background: '#AAF3DD'
     title: |
-      Products
+      Produkte
     blocks:
       app:
-        title: Use on our website
+        title: Auf unserer Website verwenden
         text: |
           The Citizen OS platform is free to use on our website for everyone.
-        subtext: Free for ever!
+        subtext: Für immer kostenlos!
         button:
-          title: Use platform
+          title: Plattform verwenden
           url: https://app.citizenos.com
           target: _blank
       api:
-        title: Integrate API
+        title: API integrieren
         text: |
-          Use The Citizen OS API as a base to build an online decision-making platform with your own branding.
-        subtext: Offer based
+          Verwenden Sie die Citizen OS API als Basis, um eine Online-Entscheidungsplattform mit Ihrem eigenen Branding zu erstellen.
+        subtext: Angebot
         button:
-          title: Contact us
+          title: Kontaktieren Sie uns
           url: /contact/
       consult:
-        title: Consult & integrate
+        title: Beratung & Integration
         text: |
           Let our team do all the work from consulting to a working adaptation with your systems.
-        subtext: Offer based
+        subtext: Angebot
         button:
-          title: Contact us
+          title: Uns kontaktieren
           url: /contact/
   case-study-2-img:
     class:
@@ -194,15 +194,15 @@ blocks:
     title: |
       Our online decision-making community is growing.
     button1st:
-      title: Use platform
+      title: Plattform verwenden
       url: https://app.citizenos.com
       target: _blank
     blocks:
       topicsCreated:
-        title: discussions
+        title: Diskussionen
       votesCast:
-        title: votes
+        title: Abstimmungen
       groupsCreated:
-        title: groups
+        title: Gruppen
       usersCreated:
-        title: users
+        title: Benutzer
