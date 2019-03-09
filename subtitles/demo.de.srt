@@ -96,47 +96,47 @@ Jedes Mal, wenn ein neues Thema erstellt wurde, erhalten Mitglieder dazu eine au
 
 25
 00:01:52,860 --> 00:02:00,360
-If you need to vote to reach a decision, you can send the topic to vote.
+Wenn Sie eine Abstimmung zur Erreichung einer Entscheidung benötigen, können Sie das Thema zur Abstimmung senden.
 
 26
 00:02:01,380 --> 00:02:06,000
-Now the topic can no longer be edited. You can choose between regular and
+Ab jetzt kann das Thema nicht mehr bearbeitet werden. Sie können zwischen regulär und
 
 27
 00:02:06,000 --> 00:02:12,640
-custom vote. And delegation of the vote is also possible, which means
+individuell wählen. Eine Befugnisübertragung einer Abstimmung ist ebenfalls möglich, was bedeutet,
 
 28
 00:02:12,640 --> 00:02:17,700
-for this topic people can delegate their vote to another user.
+für dieses Thema können Leute ihre Stimme an einen anderen Benutzer delegieren.
 
 29
 00:02:19,060 --> 00:02:22,480
-You can also set a deadline for the voting.
+Sie können auch eine Frist für die Abstimmung festlegen.
 
 30
 00:02:24,620 --> 00:02:31,780
-While voting is open, you cannot see the results to not influence the outcome of the vote.
+Während die Abstimmung offen ist, können Sie die Ergebnisse nicht sehen, um das Ergebnis der Abstimmung nicht zu beeinflussen.
 
 31
 00:02:32,460 --> 00:02:36,160
-Once everyone has voted or the voting deadline has arrived,
+Sobald alle abgestimmt haben oder die Abstimmungsfrist abgelaufen ist,
 
 32
 00:02:36,160 --> 00:02:39,100
-you can send the topic to follow-up.
+können Sie das Thema zur Nachuntersuchung senden.
 
 33
 00:02:39,100 --> 00:02:45,060
-Here, you can post brief updates on how the decision is moving along.
+Hier können Sie kurze Aktualisierungen darüber veröffentlichen, wie die Entscheidung verläuft.
 
 34
 00:02:45,980 --> 00:02:48,800
-How much does Citizen OS cost?
+Wie viel kostet Citizen OS?
 
 35
 00:02:48,800 --> 00:02:54,000
-It is free to use for everyone forever on your mobile, tablet or computer.
+Es ist für alle mit Mobiltelefon, Tablet oder Computer für immer kostenlos.
 
 36
 00:02:54,000 --> 00:02:55,120
