@@ -1,16 +1,16 @@
 ---
 header:
-  title: Let's decide together! Your platform for petitions and decision-making in a team or community.
+  title: Lasst uns gemeinsam entscheiden! Eure Plattform für Petitionen und Entscheidungsfindung - Im Team oder als Gemeinschaft.
   text: |
-    Edit documents with others at the same time,
-    structure discussions, involve thousands or millions of members,
-    keep voting deadlines, collect votes for petitions.
+    Bearbeiten Sie Dokumente mit anderen gleichzeitig,
+    strukturieren Sie Diskussionen, Tausende oder Millionen von Mitgliedern einbeziehen,
+    Terminfristen abstimmen, Stimmen für Petitionen sammeln.
 
-    We are an Open Source social enterprise.
+    Wir sind ein Open-Souce Sozialunternehmen.
 
-    The platform is currently available in 10 languages.
+    Die Plattform ist derzeit in 10 Sprachen verfügbar.
   play:
-    title: Introduction
+    title: Einführung
     url: https://www.youtube.com/embed/hDLWbQQAk8g?rel=0&showinfo=0&modestbranding=1&autoplay=1
   demo:
     title: Demo
@@ -35,7 +35,7 @@ blocks:
       background-position: 0% 25%
       background-size: 360px 360px
     title: |
-      Developing Open Source software.
+      Open Source Software entwickeln.
     text: |
       We believe the tools for online participatory democracy should be free to use for everyone.
     button1st:
