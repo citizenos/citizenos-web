@@ -40,59 +40,59 @@ Sobald ich angemeldet bin,
 
 11
 00:00:38,840 --> 00:00:43,240
-wird dieser Abschnitt aktiv und ich kann meine Hauptaussage hier machen.
+wird dieser Abschnitt aktiv und ich kann meine Hauptaussage hier machen,
 
 12
 00:00:43,240 --> 00:00:51,660
-explain and prove it and post as a pro or con argument. To create your own topic,
+erklären und beweisen und als Pro oder Kontra Argument senden. Um Dein eigenes Thema zu erstellen,
 
 13
 00:00:51,660 --> 00:00:56,020
-go to create topic on the left hand menu.
+im Menu links auf Thema erstellen gehen.
 
 14
 00:00:56,020 --> 00:01:00,520
-And here you can edit the document with
+Und hier können Sie das Dokument mit
 
 15
 00:01:00,520 --> 00:01:04,920
-others at the same time.
+anderen gleichzeitig bearbeiten.
 
 16
 00:01:04,920 --> 00:01:09,900
-Inline comments are available while in editing mode.
+Inline Kommentare sind im Bearbeitungsmodus verfügbar.
 
 17
 00:01:09,900 --> 00:01:16,800
-Go to to settings to make the topic private or public add a Twitter hashtag,
+Navigieren Sie zu den Einstellungen, um das Thema mittels Twitter Hashtag privat oder öffentlich zu machen
 
 18
 00:01:16,800 --> 00:01:21,520
-invite users to join or share the link.
+Laden Sie Benutzer zum Beitritt ein oder um den Link zu teilen.
 
 19
 00:01:22,720 --> 00:01:25,440
-To get an overview of your topics,
+Um eine Übersicht Ihrer Themen zu erhalten,
 
 20
 00:01:25,440 --> 00:01:29,780
-go to my topics on the left-hand menu.
+navigieren Sie zu Meine Themen im Menu auf der linken Seite.
 
 21
 00:01:32,200 --> 00:01:38,360
-Here you can assign editing rights to the users you invited.
+Hier können Sie Bearbeitungsrechte an die eingeladenen Benutzer vergeben.
 
 22
 00:01:39,380 --> 00:01:43,100
-If you want to discuss many topics with the same group of people,
+Wenn Sie viele Themen mit der gleichen Grupppe besprechen wollen,
 
 23
 00:01:43,100 --> 00:01:46,020
-you can create groups.
+erstellen Sie einfach Gruppen.
 
 24
 00:01:47,340 --> 00:01:52,860
-Every time a new topic is created, members get an automatic email.
+Jedes Mal, wenn ein neues Thema erstellt wurde, erhalten Mitglieder dazu eine automatische E-Mail.
 
 25
 00:01:52,860 --> 00:02:00,360
