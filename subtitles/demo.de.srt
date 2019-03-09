@@ -140,9 +140,9 @@ Es ist für alle mit Mobiltelefon, Tablet oder Computer für immer kostenlos.
 
 36
 00:02:54,000 --> 00:02:55,120
-Thanks for watching.
+Vielen Dank fürs Zuschauen.
 
 37
 00:02:55,120 --> 00:02:57,200
-Open Source code available on GitHub.
+Open Source Code ist auf GitHub verfügbar.
 
