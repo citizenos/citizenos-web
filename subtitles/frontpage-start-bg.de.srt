@@ -1,54 +1,54 @@
 1
 00:00:01,880 --> 00:00:04,640
-The way that the system currently functions
+Wie das System derzeit funktioniert
 
 2
 00:00:04,640 --> 00:00:07,280
-is built on traditions and the way that things have
+ist basierend auf Traditionen und der Art und Weise wie Dinge
 
 3
 00:00:07,280 --> 00:00:08,140
-always been.
+schon immer waren.
 
 4
 00:00:08,140 --> 00:00:12,300
-It's an online collaborative decision-making tool,
+Es ist ein kollaboratives Online-Entscheidungstool,
 
 5
 00:00:12,300 --> 00:00:14,660
-which basically means that if you have
+was im Grunde bedeutet, wenn Sie
 
 6
 00:00:14,660 --> 00:00:18,820
-many people that want to discuss, propose arguments,
+viele Leute haben, die diskutieren möchten oder Argumente vorschlagen,
 
 7
 00:00:18,820 --> 00:00:22,660
-decide, vote on things together -
+entscheiden, über Dinge gemeinsam abstimmen wollen -
 
 8
 00:00:22,660 --> 00:00:27,060
-they no longer have to meet in the same physical space.
+sie alle müssen sich nicht länger, physikalisch, im gleichen Raum befinden.
 
 9
 00:00:28,380 --> 00:00:30,300
-Often that would be impossible
+Oft wäre so etwas unmöglich
 
 10
 00:00:30,300 --> 00:00:32,200
-because there's too many of them or
+weil es einfach zu viele von ihnen gibt oder
 
 11
 00:00:32,200 --> 00:00:34,880
-they are too geographically spread out.
+sie sind geografisch zu weit verteilt.
 
 12
 00:00:35,820 --> 00:00:38,560
-We have been using Citizen OS
+Wir nutzten Citizen OS
 
 13
 00:00:38,580 --> 00:00:42,360
-for a simple organizational task, that
+für eine einfache organisatorische Aufgabe, wo
 
 14
 00:00:42,360 --> 00:00:45,800
