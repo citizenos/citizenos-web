@@ -37,9 +37,9 @@ blocks:
     title: |
       Open Source Software entwickeln.
     text: |
-      We believe the tools for online participatory democracy should be free to use for everyone.
+      Wir sind der Meinung, dass die Instrumente für eine Online-Partizipatorische Demokratie für jedermann frei verfügbar sein sollten.
     button1st:
-      title: About product
+      title: Über das Produkt
       url: /product/
   democracy-img:
     class:
@@ -62,11 +62,11 @@ blocks:
       background-position: 0 10%
       background-size: 122px 122px
     title: |
-      Raising awareness on Participatory Democracy.
+      Sensibilisierung für die partizipative Demokratie erhöhen.
     text: |
-      We believe the way for us to move forward as a civilization is to globally come together and decide on things.
+      Wir glauben, dass der Weg für uns, als Zivilisation voranzukommen, darin besteht, global zusammenzufinden und Dinge zu entscheiden.
     button1st:
-      title: About vision
+      title: Über die Vision
       url: /vision/
     button2nd:
   research-img:
@@ -88,7 +88,7 @@ blocks:
       background-position: 30% 25%
       background-size: 360px 360px
     title: |
-      Relying on Research and Data.
+      Auf Forschung und Daten angewiesen.
     text: |
       We collaborate with e-democracy researchers to help develop our products.
     button1st:
