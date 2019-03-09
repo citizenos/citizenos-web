@@ -24,15 +24,15 @@ blocks:
       background-position: 10% 15%, 90% 90%
       background-size: 42px 42px, 102px 102px
     title: |
-      You have a voice and it needs to be heard.
+      Sie haben eine Stimme und diese muss gehört werden.
     text: |
-      We believe social change happens when people come together and decide on things.
+      Wir glauben daran, dass soziale Veränderungen eintreten, wenn Menschen zusammenkommen und Entscheidungen treffen.
 
-      - [Get involved](#individual)
-      - [Contribute to Citizen OS](#awareness)
+      - [Involviert werden](#individual)
+      - [An Citizen OS mitwirken](#awareness)
       { .arrow }
     button1st:
-      title: Sign up for news
+      title: Für News anmelden
       url: '#subscribe'
   individual-img:
     class:
@@ -49,7 +49,7 @@ blocks:
       - order-3
       - order-sm-3
     title: |
-      One person can make a difference.
+      Eine Person kann den Unterschied machen.
     text: |
       Participatory democracy is individual participation in political decisions that affect your life.
 
