@@ -16,31 +16,31 @@ Die Plattform ist in vielen Sprachen verfügbar,
 
 5
 00:00:12,120 --> 00:00:16,700
-so select your language and if it is not yet supported, please let us know.
+wählen Sie einfach Ihre Sprache aus und sollte diese noch nicht verfügbar sein, lassen Sie es uns bitte wissen.
 
 6
 00:00:16,700 --> 00:00:20,620
-These are all public topics that are being discussed right now.
+Dieses sind öffentliche Themen, welche derzeit diskutiert werden.
 
 7
 00:00:20,620 --> 00:00:24,950
-You can click on them, read them, but in order to
+Sie können auf diese klicken und lesen aber um
 
 8
 00:00:24,950 --> 00:00:29,960
-participate, you need to login using your Facebook or Google account,
+mitwirken zu können, melden Sie sich entweder mit Ihrem Facebook oder Google Konto,
 
 9
 00:00:29,960 --> 00:00:34,400
-the Estonian ID card, or by creating a new user account.
+der estnischen ID-Karte oder mithilfe eines neuen Benutzerkontos an.
 
 10
 00:00:36,060 --> 00:00:38,840
-Once I have logged in,
+Sobald ich angemeldet bin,
 
 11
 00:00:38,840 --> 00:00:43,240
-this argument section becomes active and I can make my main statement here,
+wird dieser Abschnitt aktiv und ich kann meine Hauptaussage hier machen.
 
 12
 00:00:43,240 --> 00:00:51,660
