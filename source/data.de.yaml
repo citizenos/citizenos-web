@@ -90,9 +90,9 @@ blocks:
     title: |
       Auf Forschung und Daten angewiesen.
     text: |
-      We collaborate with e-democracy researchers to help develop our products.
+      Wir kooperieren mit Forschern der E-Demokratie, um unsere Produkte weiterzuentwickeln.
     button1st:
-      title: About research
+      title: Über die Forschung
       url: /research/
   news:
     class:
@@ -104,23 +104,23 @@ blocks:
       background-position: 60% 10%
       background-size: 360px 360px
     title: |
-      Latest news
+      Letzte Neuigkeiten
     text: |
       { #news-items }
     button1st:
-      title: Read blog
+      title: Blog lesen
       url: https://medium.com/citizenos
-    readMore: Read more
+    readMore: Mehr lesen
   team:
     class:
       - order-7
       - my-5
     title: |
-      Help us develop Open Source products and spread participatory democracy.
+      Helfen Sie uns, Open Source Produkte zu entwickeln und partizipative Demokratie zu verbreiten.
     text: |
-      Whether you are a developer, translator, researcher, designer, hacktivist or journalist - join us!
+      Egal, ob Sie Entwickler, Übersetzer, Forscher, Designer, Hacktivist oder Journalist sind - Treten Sie uns bei!
     button1st:
-      title: Contribute
+      title: Mitwirken
       url: /contribute/
   partners:
     class:
@@ -129,6 +129,6 @@ blocks:
     style:
       border-left: '1px solid #E5E5E5'
     title: |
-      Our partners & supporters
+      Unsere Partner & Unterstützer
     text: |
       ![Partners](/assets/images/frontpage-partners.png){ .w-100 }
