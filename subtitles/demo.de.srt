@@ -1,18 +1,18 @@
 1
 00:00:00,000 --> 00:00:03,160
-Citizen OS Platform Demo.
+Citizen OS Plattform Demonstration
 
 2
 00:00:03,180 --> 00:00:06,600
-Hello and welcome to Citizenos.com.
+Hallo und willkommen auf Citizenos.Com
 
 3
 00:00:06,600 --> 00:00:09,440
-Click on the Use Platform button.
+Klicken Sie auf die Schaltfläche Plattform nutzen.
 
 4
 00:00:09,440 --> 00:00:12,120
-The platform is available in many languages,
+Die Plattform ist in vielen Sprachen verfügbar,
 
 5
 00:00:12,120 --> 00:00:16,700
