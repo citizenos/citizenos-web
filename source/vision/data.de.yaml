@@ -51,13 +51,13 @@ blocks:
     title: |
       Eine Person kann den Unterschied machen.
     text: |
-      Participatory democracy is individual participation in political decisions that affect your life.
+      Partizipative Demokratie bedeutet eine individuelle Teilnahme an politischen Entscheidungen, die das Leben beeinflussen.
 
-      ## But there’s definitely strength in numbers.
+      ## Es gibt aber auch Stärke in der Masse.
 
-      Governments are increasingly trusting citizens to help solve difficult social issues.
+      Regierungen vertrauen ihren Bürgern zunehmend, wenn es darum geht, Lösungen für schwierige soziale Probleme zu finden.
     button1st:
-      title: Use platform
+      title: Plattform verwenden
       url: https://app.citizenos.com
       target: _blank
   awareness:
@@ -70,9 +70,9 @@ blocks:
       background-size: 164px 164px, cover
       background-position: 10% 10%
     title: |
-      Together we can advance online participatory democracy.
+      Gemeinsam können wir Online-Partizipative Demokratie voranbringen.
     text: |
-      We are developing products that help people create a better future. Whether you are a developer, translator, researcher, designer, hactivist or journalist - join us!
+      Wir entwickeln Produkte, welche Menschen dabei helfen, eine bessere Zukunft zu schaffen. Ob Sie ein Entwickler, Übersetzer, Forscher, Designer, Hacktivist oder Journalist sind - Treten Sie uns bei!
     button1st:
-      title: Contribute
+      title: Mitwirken
       url: /contribute/
