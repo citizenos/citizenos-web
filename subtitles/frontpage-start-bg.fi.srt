@@ -1,10 +1,10 @@
 1
 00:00:01,880 --> 00:00:04,640
-The way that the system currently functions
+Järjestelmän tämänhetkinen toimintatapa
 
 2
 00:00:04,640 --> 00:00:07,280
-is built on traditions and the way that things have
+perustuu perinteille ja siihen, miten asiat ovat
 
 3
 00:00:07,280 --> 00:00:08,140
@@ -12,11 +12,11 @@ aina olleet.
 
 4
 00:00:08,140 --> 00:00:12,300
-It's an online collaborative decision-making tool,
+Kyseessä on yhteistyöhön perustuva päätöksenteon työkalu,
 
 5
 00:00:12,300 --> 00:00:14,660
-which basically means that if you have
+eli lyhyesti sanoen, jos on
 
 6
 00:00:14,660 --> 00:00:18,820
