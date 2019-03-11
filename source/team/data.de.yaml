@@ -10,18 +10,40 @@ blocks:
   team:
     title: |
       Das Team
-    text: |
-      |  |  |
-      | --- | --- |
-      | Gründer und Berater: | Ahti Heinla, einer der Gründer von Skype und Starship Technologies. |
-      | Software-Entwickler: | Mikk Andresen, Ilmar Türk |
-      | Wissenschaftlicher Mitarbeiter: | Kadi Maria Vooglaid |
-      | Führer und Product Manager: | Margo Loor |
-      | Menschliche Beziehungen: | Ly Kasvandik |
-      | Lokalisierung und Übersetzung: | Oksana Naidjonova |
-      | Rechtsanwalt: | Kati Vellak |
-      | Front-End Entwickler: | Lennart Rikk |
-      | Marketing und Kommunikation: | Liina Guiter |
-      | Partnerschaften: | Anett Linno |
-      | UX/UI-Designer: | Kevin Crepin, Kristian Lember, Jannus Jaska |
-      | Mitwirkende: | Henri Laupmaa, Liia Hänni, Hille Hinsberg, Eva Truuverk |
+    people:
+      - 
+        title: Founder and Advisor
+        name: Ahti Heinla, one of the founders of Skype and Starship Technologies.
+      - 
+        title: Software Developers
+        name: Mikk Andresen, Ilmar Türk
+      - 
+        title: Research Associate
+        name: Kadi Maria Vooglaid
+      - 
+        title: Leader and Product Manager
+        name: Margo Loor
+      - 
+        title: Human Relations
+        name: Ly Kasvandik
+      - 
+        title: Localisation and Translation
+        name: Oksana Naidjonova
+      - 
+        title: Lawyer
+        name: Kati Vellak
+      - 
+        title: Front-end Developer
+        name: Lennart Rikk
+      - 
+        title: Marketing and Communications
+        name: Liina Guiter
+      - 
+        title: Partnerships
+        name: Anett Linno
+      - 
+        title: UX/UI Designers
+        name: Kevin Crepin, Kristian Lember, Jannus Jaska
+      - 
+        title: Contributors
+        name: Henri Laupmaa, Liia Hänni, Hille Hinsberg, Eva Truuverk
