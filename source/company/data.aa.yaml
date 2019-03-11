@@ -10,5 +10,14 @@ blocks:
   company:
     title: |
       crwdns17906:0crwdne17906:0
-    text: |
-      crwdns17908:0{ .arrow }crwdne17908:0
+    texts:
+      - |
+        crwdns19074:0crwdne19074:0
+      - |
+        crwdns19076:0crwdne19076:0
+      - |
+        crwdns19078:0crwdne19078:0
+      - |
+        crwdns19080:0{ .arrow }crwdne19080:0
+      - |
+        crwdns19082:0crwdne19082:0
