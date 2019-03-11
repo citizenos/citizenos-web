@@ -1,5 +1,5 @@
 ---
-title: Product
+title: Tuote
 blocks:
   decision-img:
     class:
@@ -23,17 +23,17 @@ blocks:
       background-position: 10% 5%, 90% 90%
       background-size: 75px 75px, 65px 65px
     title: |
-      Online decision-making in teams and communities.
+      Päätöksenteko verkossa ryhminä ja yhteisöinä.
     text: |
-      Make argument-based decisions. Structure discussions and meet your voting deadlines. Collect votes for petitions.
+      Tee kannanottoihin perustuvia päätöksiä. Jäsennä keskustelut ja toimita äänestyksesi määräajassa. Kerää ääniä adresseihin.
 
-      - [Platform features](#features)
-      - [How does it work](#how)
-      - [How much does it cost](#options)
-      - [Case studies](#case-studies)
+      – [Alustan ominaisuudet](#ominaisuudet)
+      – [Miten se toimii](#miten)
+      – [Paljonko se maksaa](#vaihtoehdot)
+      – [Tapaustutkimukset](#tapaustutkimukset)
       { .arrow }
     button1st:
-      title: Sign up for news
+      title: Rekisteröidy vastaanottaaksesi uutisia
       url: '#subscribe'
   flexibleformat:
     class:
@@ -45,32 +45,32 @@ blocks:
       padding-bottom: 5rem
       background-image: url(/assets/images/pattern.svg)
       background-size: 38px 42px
-    label: A flexible format
+    label: Joustava ratkaisu
     title: |
-      How can you use Citizen OS’s platform?
+      Miten voit käyttää Citizen OS:n alustaa?
     text: |
       { #flexibleformat-items }
     blocks:
       petitions:
         poster: /assets/images/flexibleformat-petitions.png
-        title: Petitions
+        title: Adressit
         text: |
-          Edit collaborately. Collect thousands or millions of signatures. Follow up with news.
+          Tee muokkauksia yhteistyössä. Kerää tuhansia tai miljoonia allekirjoituksia. Jatka uutispäivityksillä.
       onlinemeetings:
         poster: /assets/images/flexibleformat-onlinemeetings.png
-        title: Online meetings
+        title: Verkkokokoukset
         text: |
-          Carry out meetings online. Everyone can leave their comments and vote at a time suitable for them.
+          Järjestä kokouksia verkossa. Kaikki voivat jättää kommenttinsa ja äänestää itselleen sopivaan aikaan.
       gatheringideas:
         poster: /assets/images/flexibleformat-gatheringideas.png
-        title: Gathering ideas
+        title: Ajatusten kerääminen
         text: |
-          Share your decision-making process with a bigger audience.
+          Jaa päätöksentekoprosessisi isomman yleisön kanssa.
       widget:
         poster: /assets/images/flexibleformat-widget.png
-        title: Pro-con argumented discussions
+        title: Keskustelut puolesta- ja vastaan-kannanotoin
         text: |
-          Integrate our widget in your site or platform to conduct discussion based on pro and con arguments.
+          Integroi pienoissovelluksemme sivustoosi tai alustaasi käydäksesi puolesta- ja vastaan-kannanottoihin perustuvia keskusteluja.
   features-img:
     class:
       - order-2
@@ -88,26 +88,26 @@ blocks:
       - order-sm-3
     style:
       background: '#F7F7F7'
-    label: Features
+    label: Ominaisuudet
     title: |
-      Clarity
+      Selkeys
     text: |
-      - Overview of decision-making progress.
-      - Voting deadlines.
+      – Päätöksenteon edistymisen yleiskatsaus.
+      – Äänestyksen määräajat
       { .bullet }
 
-      ## Involvement{ .mt-5 }
+      ## Osallistuttaminen{ .mt-5 }
 
-      - Ideas are collected bottom-up.
-      - Discussion occurs in a structured way.
-      - Can involve thousands or millions of participants.
+      – Ajatukset kerätään alhaalta ylöspäin.
+      – Keskustelu käydään jäsennellysti.
+      – Osallistujia voi olla tuhansia tai miljoonia.
       { .bullet }
 
-      ## Security & Research{ .mt-5 }
+      ## Tietoturva ja tutkimus{ .mt-5 }
 
-      - Continuous development to keep up with new laws.
-      - Product development follows scientific approach.
-      - Safe encrypted data, secure platform in a cloud server.
+      – Jatkuva kehitystyö uusien lakien tasalla pysymiseksi.
+      – Tuotekehitys noudattaa tieteellistä lähestymistapaa.
+      – Turvallisesti salatut tiedot, suojattu alusta pilvipalvelimella.
       { .bullet }
   options:
     class:
@@ -118,32 +118,32 @@ blocks:
     style:
       background: '#AAF3DD'
     title: |
-      Products
+      Tuotteet
     blocks:
       app:
-        title: Use on our website
+        title: Käytä verkkosivustollamme
         text: |
-          The Citizen OS platform is free to use on our website for everyone.
-        subtext: Free for ever!
+          Citizen OS -alusta on kaikkien vapaasti käytettävissä verkkosivustollamme.
+        subtext: Aina ilmainen!
         button:
-          title: Use platform
+          title: Käytä alustaa
           url: https://app.citizenos.com
           target: _blank
       api:
-        title: Integrate API
+        title: Integroi API
         text: |
-          Use The Citizen OS API as a base to build an online decision-making platform with your own branding.
-        subtext: Offer based
+          Käytä Citizen OS:n ohjelmointirajapintaa luodaksesi verkon päätöksenteolle oman brändisi mukaisen alustan.
+        subtext: Tarjouspohjainen
         button:
-          title: Contact us
+          title: Ota yhteyttä
           url: /contact/
       consult:
-        title: Consult & integrate
+        title: Konsultoi ja integroi
         text: |
-          Let our team do all the work from consulting to a working adaptation with your systems.
-        subtext: Offer based
+          Jätä tiimimme vastuulle koko työ, niin konsultointi kuin toimiva mukauttaminen omiin järjestelmiisi.
+        subtext: Tarjouspohjainen
         button:
-          title: Contact us
+          title: Ota yhteyttä
           url: /contact/
   case-study-2-img:
     class:
@@ -160,9 +160,9 @@ blocks:
       background-position: 80% 5%
       background-size: 122px 122px
     title: |
-      Case Study: Communication Between the Citizens and the Government of Estonia
+      Tapaustutkimus: Viestintä Viron kansalaisten ja valtiovallan välillä
     text: |
-      The Citizen OS open source code was used to set up the citizen initiatives platform [www.rahvaalgatus.ee](https://www.rahvaalgatus.ee), where petitions can be started, votes can be collected and sent to the Parliament.
+      Citizen OS:n avointa lähdekoodia käytettiin perustamaan kansalaisaloitteiden alusta [www.rahvaalgatus.ee](https://www.rahvaalgatus.ee), jossa voidaan laatia adresseja, kerätä ääniä ja lähettää aloitteet riigikogulle.
   case-study-1-img:
     class:
       - order-9
@@ -178,9 +178,9 @@ blocks:
       background-position: 10% 5%, 90% 90%
       background-size: 85px 85px, 55px 55px
     title: |
-      Case Study: Widening the Scope of Communication.
+      Tapaustutkimus: Viestinnän mahdollisuuksien laajentaminen.
     text: |
-      [Opinion Festival](https://www.arvamusfestival.ee/en) integrated the Citizen OS argumentation widget, allowing online discussions on the festival topics beyond the two days of the physical festival.
+      [Arvamusfestival](https://www.arvamusfestival.ee/en) integroi Citizen OS:n pienoissovelluksen kannanotoille, jolloin juhlien puheenaiheista voitiin käydä verkkokeskusteluja myös varsinaisten kaksipäiväisten juhlien lisäksi.
   stats:
     class:
       - order-11
@@ -192,17 +192,17 @@ blocks:
       background-image: url(/assets/images/pattern.svg)
       background-size: 38px 42px
     title: |
-      Our online decision-making community is growing.
+      Verkon päätöksentekoyhteisömme kasvaa.
     button1st:
-      title: Use platform
+      title: Käytä alustaa
       url: https://app.citizenos.com
       target: _blank
     blocks:
       topicsCreated:
-        title: discussions
+        title: keskusteluja
       votesCast:
-        title: votes
+        title: äänestyksiä
       groupsCreated:
-        title: groups
+        title: ryhmiä
       usersCreated:
-        title: users
+        title: käyttäjiä
