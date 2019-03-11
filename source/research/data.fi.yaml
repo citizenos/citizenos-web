@@ -1,5 +1,5 @@
 ---
-title: Research
+title: Tutkimus
 blocks:
   research-img:
     class:
@@ -22,13 +22,13 @@ blocks:
       background-position: 90% 10%, 7% 25%
       background-size: 45px 45px, 65px 65px
     title: |
-      Relying on research and data.
+      Tutkimukseen ja asiatietoon nojautuminen.
     text: |
-      We collaborate with e-democracy researchers to help develop our products.
+      Teemme yhteistyötä digitaalisen demokratian tutkijoiden kanssa kehittääksemme tuotteitamme.
 
-      If you are an e-democracy researcher, please write to our Product Manager <margo@citizenos.com>.
+      Jos olet digitaalisen demokratian tutkija, ole hyvä ja kirjoita tuotepäälliköllemme <margo@citizenos.com>.
     button1st:
-      title: Sign up for news
+      title: Rekisteröidy vastaanottaaksesi uutisia
       url: '#subscribe'
   forward-img:
     class:
@@ -50,11 +50,11 @@ blocks:
     style:
       background: '#F7F7F7'
     title: |
-      Data collection.
+      Tiedonkeruu.
     text: |
-      All data is anonymized and used to understand the effects of online participatory democracy.
+      Kaikki tiedot puhdistetaan tunnistetiedoista, ja niitä käytetään osallistuvan verkkodemokratian vaikutusten ymmärtämiseen.
     button1st:
-      title: Read blog
+      title: Lue blogia
       url: https://medium.com/citizenos
   conference-img:
     class:
@@ -73,13 +73,13 @@ blocks:
       - order-5
       - order-sm-4
     title: |
-      Conference.
+      Konferenssi
     text: |
-      The first CosCon conference, “Political Representation in the Digital Age” was held in 2017. The topics were:
-      - Limits of representative democracy.
-      - Handling radically new practices.
-      - Civic technologies really changing politics.
+      Ensimmäinen CosCon-konferenssi ”Poliittinen edustus digitaaliaikana" järjestettiin vuonna 2017. Aiheet olivat:
+      – Edustuksellisen demokratian rajat.
+      – Uusien, mullistavien käytäntöjen käsittely.
+      – Kansalaisteknologian aiheuttamat todelliset muutokset politiikkaan.
       { .bullet }
     button1st:
-      title: Contribute
+      title: Osallistu
       url: /contribute/
