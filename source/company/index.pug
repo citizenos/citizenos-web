@@ -1,1 +1,16 @@
 extends /_templates/blocks.pug
+
+
+append content
+    if self.blocks.company && self.blocks.company.texts
+        #company-blocks.d-none
+            each t in self.blocks.company.texts
+                +markdown(t)
+
+
+append script
+    script.
+        $(function () {
+            $('#company .block-text').append($('#company-blocks').html())
+            $('#company-blocks').remove()
+        })

@@ -1,1 +1,19 @@
 extends /_templates/blocks.pug
+
+
+append content
+    if self.blocks.team && self.blocks.team.people
+        #team-blocks.d-none
+            table
+                each p in self.blocks.team.people
+                    tr
+                        td= p.title + ':'
+                        td= p.name
+
+
+append script
+    script.
+        $(function () {
+            $('#team .block-text').append($('#team-blocks').html())
+            $('#team-blocks').remove()
+        })
