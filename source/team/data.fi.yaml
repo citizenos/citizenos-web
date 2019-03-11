@@ -1,5 +1,5 @@
 ---
-title: Team
+title: Tiimi
 blocks:
   team-img:
     class:
@@ -9,7 +9,7 @@ blocks:
       background: 'linear-gradient(180deg, #0EB7FE 0%, #0680FC 100%)'
   team:
     title: |
-      Team
+      Tiimi
     people:
       - 
         title: Founder and Advisor
