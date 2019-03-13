@@ -70,7 +70,7 @@ blocks:
         poster: /assets/images/flexibleformat-widget.png
         title: Обсуждения в формате «плюсы и минусы»
         text: |
-          Integrate our widget in your site or platform to conduct discussion based on pro and con arguments.
+          Подключите виджет на ваш сайт или платформу, чтобы проводить обсуждения в формате «плюсы и минусы» и собирать аргументы.
   features-img:
     class:
       - order-2
@@ -88,9 +88,9 @@ blocks:
       - order-sm-3
     style:
       background: '#F7F7F7'
-    label: Features
+    label: Особенности
     title: |
-      Clarity
+      Прозрачность
     text: |
       - Overview of decision-making progress.
       - Voting deadlines.
