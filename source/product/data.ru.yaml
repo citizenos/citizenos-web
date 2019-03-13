@@ -92,22 +92,22 @@ blocks:
     title: |
       Прозрачность
     text: |
-      - Overview of decision-making progress.
-      - Voting deadlines.
+      - Наблюдение за процессом принятия решений;
+      - Ограниченный срок голосования.
       { .bullet }
 
-      ## Involvement{ .mt-5 }
+      ## Вовлеченность{ .mt-5 }
 
-      - Ideas are collected bottom-up.
-      - Discussion occurs in a structured way.
-      - Can involve thousands or millions of participants.
+      - Сбор мнений в формате демократии;
+      - Структурированные обсуждения;
+      - Возможность участия тысяч и миллионов неравнодушных людей.
       { .bullet }
 
-      ## Security & Research{ .mt-5 }
+      ## Безопасность и исследования{ .mt-5 }
 
-      - Continuous development to keep up with new laws.
-      - Product development follows scientific approach.
-      - Safe encrypted data, secure platform in a cloud server.
+      - Мы постоянно развиваемся, чтобы быть в курсе новейших законодальных актов;
+      - Разработка продукта основана на научном подходе;
+      - Безопасность зашифрованных данных, надежная платформа в облачном сервере.
       { .bullet }
   options:
     class:
@@ -118,32 +118,32 @@ blocks:
     style:
       background: '#AAF3DD'
     title: |
-      Products
+      Продукты
     blocks:
       app:
-        title: Use on our website
+        title: Работайте на нашем веб-сайте
         text: |
-          The Citizen OS platform is free to use on our website for everyone.
-        subtext: Free for ever!
+          Вы можете пользоваться платформой Citizen OS абсолютно бесплатно.
+        subtext: Бесплатно навсегда!
         button:
-          title: Use platform
+          title: Начать работу
           url: https://app.citizenos.com
           target: _blank
       api:
-        title: Integrate API
+        title: Интеграция API
         text: |
-          Use The Citizen OS API as a base to build an online decision-making platform with your own branding.
-        subtext: Offer based
+          Используйте Citizen OS API как основу для создания собственной платформы и бренда принятия глобальных решения.
+        subtext: Предложение
         button:
-          title: Contact us
+          title: Свяжитесь с нами
           url: /contact/
       consult:
-        title: Consult & integrate
+        title: Консультирование и интеграция
         text: |
-          Let our team do all the work from consulting to a working adaptation with your systems.
-        subtext: Offer based
+          Наша команда сделает всю работу, начиная с консультирования и заканчивая действующей адаптацией платформы к вашим системам.
+        subtext: Предложение
         button:
-          title: Contact us
+          title: Свяжитесь с нами
           url: /contact/
   case-study-2-img:
     class:
@@ -160,7 +160,7 @@ blocks:
       background-position: 80% 5%
       background-size: 122px 122px
     title: |
-      Case Study: Communication Between the Citizens and the Government of Estonia
+      Исследование: общение между гражданами и правительством Эстонии
     text: |
       The Citizen OS open source code was used to set up the citizen initiatives platform [www.rahvaalgatus.ee](https://www.rahvaalgatus.ee), where petitions can be started, votes can be collected and sent to the Parliament.
   case-study-1-img:
