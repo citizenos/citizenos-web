@@ -1,5 +1,5 @@
 ---
-title: Product
+title: Продукт
 blocks:
   decision-img:
     class:
@@ -23,17 +23,17 @@ blocks:
       background-position: 10% 5%, 90% 90%
       background-size: 75px 75px, 65px 65px
     title: |
-      Online decision-making in teams and communities.
+      Принятие решений онлайн в командах и сообществах.
     text: |
-      Make argument-based decisions. Structure discussions and meet your voting deadlines. Collect votes for petitions.
+      Принимайте решения, основанные на аргументах. Структурируйте обсуждения и ставьте строки глосований. Собирайте голоса для петиций.
 
-      - [Platform features](#features)
-      - [How does it work](#how)
-      - [How much does it cost](#options)
-      - [Case studies](#case-studies)
+      - [Особенности платформы](#features)
+      - [Как это работает?](#how)
+      - [Сколько это стоит?](#options)
+      - [Тематические исследования](#case-studies)
       { .arrow }
     button1st:
-      title: Sign up for news
+      title: Подписаться на новостную рассылку
       url: '#subscribe'
   flexibleformat:
     class:
@@ -45,30 +45,30 @@ blocks:
       padding-bottom: 5rem
       background-image: url(/assets/images/pattern.svg)
       background-size: 38px 42px
-    label: A flexible format
+    label: Гибкий формат
     title: |
-      How can you use Citizen OS’s platform?
+      Для чего нужна платформа Citizen OS?
     text: |
       { #flexibleformat-items }
     blocks:
       petitions:
         poster: /assets/images/flexibleformat-petitions.png
-        title: Petitions
+        title: Петиции
         text: |
-          Edit collaborately. Collect thousands or millions of signatures. Follow up with news.
+          Редактируйте совместно. Соберите тысячи или миллионы подписей. Следите за новостями.
       onlinemeetings:
         poster: /assets/images/flexibleformat-onlinemeetings.png
-        title: Online meetings
+        title: Онлайн-встречи
         text: |
-          Carry out meetings online. Everyone can leave their comments and vote at a time suitable for them.
+          Проводите встречи в режиме онлайн. Каждый из участников может оставить комментарий и проголосовать в удобное время.
       gatheringideas:
         poster: /assets/images/flexibleformat-gatheringideas.png
-        title: Gathering ideas
+        title: Собирайте мнения
         text: |
-          Share your decision-making process with a bigger audience.
+          Поделитесь процессом принятия решения с большей аудиторией.
       widget:
         poster: /assets/images/flexibleformat-widget.png
-        title: Pro-con argumented discussions
+        title: Обсуждения в формате «плюсы и минусы»
         text: |
           Integrate our widget in your site or platform to conduct discussion based on pro and con arguments.
   features-img:
