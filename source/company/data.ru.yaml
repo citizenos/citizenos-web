@@ -1,5 +1,5 @@
 ---
-title: Company
+title: Компания
 blocks:
   company-img:
     class:
@@ -9,7 +9,7 @@ blocks:
       background: 'linear-gradient(180deg, #0EB7FE 0%, #0680FC 100%)'
   company:
     title: |
-      Company
+      Компания
     texts:
       - |
         Citizen OS is an open source social enterprise, located in Estonia. The Government of Estonia became the first API partner in January, 2016. Since then, Citizen OS has gained the trust of many public and private user groups around the world.
