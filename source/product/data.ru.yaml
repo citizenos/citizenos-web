@@ -160,9 +160,9 @@ blocks:
       background-position: 80% 5%
       background-size: 122px 122px
     title: |
-      Исследование: общение между гражданами и правительством Эстонии
+      Исследование: «Общение между гражданами и правительством Эстонии»
     text: |
-      The Citizen OS open source code was used to set up the citizen initiatives platform [www.rahvaalgatus.ee](https://www.rahvaalgatus.ee), where petitions can be started, votes can be collected and sent to the Parliament.
+      Открытый код платформы Citizen OS использовался для создания платформы предложений [www.rahvaalgatus.ee](https://www.rahvaalgatus.ee), где можно открыть петицию и провести голосование. Затем петиция отправляется в Парламент.
   case-study-1-img:
     class:
       - order-9
@@ -178,9 +178,9 @@ blocks:
       background-position: 10% 5%, 90% 90%
       background-size: 85px 85px, 55px 55px
     title: |
-      Case Study: Widening the Scope of Communication.
+      Исследование: «Расширение сферы коммуникации».
     text: |
-      [Opinion Festival](https://www.arvamusfestival.ee/en) integrated the Citizen OS argumentation widget, allowing online discussions on the festival topics beyond the two days of the physical festival.
+      [Фестиваль мнений](https://www.arvamusfestival.ee/en), интегрированный в виджет аргументации Citizen OS, позволяет проводить онлайн-обсуждения фестивалей за двое суток до открытия самого фестиваля.
   stats:
     class:
       - order-11
@@ -192,17 +192,17 @@ blocks:
       background-image: url(/assets/images/pattern.svg)
       background-size: 38px 42px
     title: |
-      Our online decision-making community is growing.
+      Наше онлайн-сообщество, принимающее решения, расширяется.
     button1st:
-      title: Use platform
+      title: Начать работу
       url: https://app.citizenos.com
       target: _blank
     blocks:
       topicsCreated:
-        title: discussions
+        title: обсуждения
       votesCast:
-        title: votes
+        title: голосование
       groupsCreated:
-        title: groups
+        title: группы
       usersCreated:
-        title: users
+        title: пользователи
