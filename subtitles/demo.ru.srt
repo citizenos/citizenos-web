@@ -28,47 +28,47 @@
 
 8
 00:00:24,950 --> 00:00:29,960
-participate, you need to login using your Facebook or Google account,
+но чтобы принять участие, войдите через аккаунты на Facebook или Google,
 
 9
 00:00:29,960 --> 00:00:34,400
-the Estonian ID card, or by creating a new user account.
+используйте ID Эстонии или создайте новую учетную запись.
 
 10
 00:00:36,060 --> 00:00:38,840
-Once I have logged in,
+После авторизации
 
 11
 00:00:38,840 --> 00:00:43,240
-this argument section becomes active and I can make my main statement here,
+раздел аргументов становится активным, и я могу создать заявление,
 
 12
 00:00:43,240 --> 00:00:51,660
-explain and prove it and post as a pro or con argument. To create your own topic,
+объяснить и доказать его, написать плюсы и минусы. Чтобы создать свою тему,
 
 13
 00:00:51,660 --> 00:00:56,020
-go to create topic on the left hand menu.
+выберите раздел создания темы в меню слева.
 
 14
 00:00:56,020 --> 00:01:00,520
-And here you can edit the document with
+Здесь можно редактировать документ
 
 15
 00:01:00,520 --> 00:01:04,920
-others at the same time.
+вместе с другими участниками одновременно.
 
 16
 00:01:04,920 --> 00:01:09,900
-Inline comments are available while in editing mode.
+Во время редактирования можно оставлять комментарии.
 
 17
 00:01:09,900 --> 00:01:16,800
-Go to to settings to make the topic private or public add a Twitter hashtag,
+В настройках тему можно сделать приватной или публичкой, добавить хэштег для Twitter,
 
 18
 00:01:16,800 --> 00:01:21,520
-invite users to join or share the link.
+пригласить пользователей присоединиться или поделиться ссылкой.
 
 19
 00:01:22,720 --> 00:01:25,440
