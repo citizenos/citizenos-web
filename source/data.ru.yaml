@@ -2,18 +2,18 @@
 header:
   title: Давайте принимать решения вместе! Ваша платформа для создания петиций и приянтия решений в команде или сообществе.
   text: |
-    Edit documents with others at the same time,
-    structure discussions, involve thousands or millions of members,
-    keep voting deadlines, collect votes for petitions.
+    Редактируйте документы одновременно с другими участниками,
+    структурируйте обсуждения, в которых могут участвовать тысячи и миллионы людей,
+    создавайте ограниченные по времени голосования, собирайте голоса для петиций.
 
-    We are an Open Source social enterprise.
+    Мы — социальное предприятие с открытым кодом.
 
-    The platform is currently available in 10 languages.
+    Платформа поддерживает 10 языков.
   play:
-    title: Introduction
+    title: Введение
     url: https://www.youtube.com/embed/hDLWbQQAk8g?rel=0&showinfo=0&modestbranding=1&autoplay=1
   demo:
-    title: Demo
+    title: Демо-видео
     url: https://www.youtube.com/embed/UC44qCCIixE?rel=0&showinfo=0&modestbranding=1&autoplay=1
 blocks:
   opensource-img:
@@ -35,11 +35,11 @@ blocks:
       background-position: 0% 25%
       background-size: 360px 360px
     title: |
-      Developing Open Source software.
+      Разработка По с открытым исходным кодом.
     text: |
-      We believe the tools for online participatory democracy should be free to use for everyone.
+      Мы считаем, что инструменты онлайн-демократии должны быть бесплатными для каждого.
     button1st:
-      title: About product
+      title: О продукте
       url: /product/
   democracy-img:
     class:
@@ -62,11 +62,11 @@ blocks:
       background-position: 0 10%
       background-size: 122px 122px
     title: |
-      Raising awareness on Participatory Democracy.
+      Повышение информированности о представительной демократии.
     text: |
-      We believe the way for us to move forward as a civilization is to globally come together and decide on things.
+      Мы считаем, что единственный способ человечества построить великую цивилизацию — это глобальное объединение всех и каждого для того, чтобы решать вопросы. Вместе.
     button1st:
-      title: About vision
+      title: О концепции
       url: /vision/
     button2nd:
   research-img:
@@ -88,11 +88,11 @@ blocks:
       background-position: 30% 25%
       background-size: 360px 360px
     title: |
-      Relying on Research and Data.
+      Опираясь на исследования и научные данные.
     text: |
-      We collaborate with e-democracy researchers to help develop our products.
+      Мы сотрудничаем с исследованиями в области электронной демократии, чтобы непрерывно развивать наш продукт.
     button1st:
-      title: About research
+      title: Об исследованиях
       url: /research/
   news:
     class:
@@ -104,23 +104,23 @@ blocks:
       background-position: 60% 10%
       background-size: 360px 360px
     title: |
-      Latest news
+      Последние новости
     text: |
       { #news-items }
     button1st:
-      title: Read blog
+      title: Читать блог
       url: https://medium.com/citizenos
-    readMore: Read more
+    readMore: Читать дальше
   team:
     class:
       - order-7
       - my-5
     title: |
-      Help us develop Open Source products and spread participatory democracy.
+      Помогите нам в развитии продуктов с открытым исходным кодом и расширением влияния преставительной демократии.
     text: |
-      Whether you are a developer, translator, researcher, designer, hacktivist or journalist - join us!
+      Если вы разработчик, переводчик, исследователь, дизайнер, хактивист или журналист — присоединяйтесь к нам!
     button1st:
-      title: Contribute
+      title: Вклад
       url: /contribute/
   partners:
     class:
@@ -129,6 +129,6 @@ blocks:
     style:
       border-left: '1px solid #E5E5E5'
     title: |
-      Our partners & supporters
+      Наши партнеры и сторонники
     text: |
       ![Partners](/assets/images/frontpage-partners.png){ .w-100 }
