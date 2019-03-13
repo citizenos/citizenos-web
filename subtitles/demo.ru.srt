@@ -132,17 +132,17 @@ Here, you can post brief updates on how the decision is moving along.
 
 34
 00:02:45,980 --> 00:02:48,800
-How much does Citizen OS cost?
+Сколько стоит использование сервиса Citizen OS?
 
 35
 00:02:48,800 --> 00:02:54,000
-It is free to use for everyone forever on your mobile, tablet or computer.
+Платформа доступна бесплатно для всех на мобильных устройствах, планшетах и ПК.
 
 36
 00:02:54,000 --> 00:02:55,120
-Thanks for watching.
+Спасибо за просмотр.
 
 37
 00:02:55,120 --> 00:02:57,200
-Open Source code available on GitHub.
+Открытый исходный код доступен на GitHub.
 
