@@ -1,6 +1,6 @@
 1
 00:00:01,880 --> 00:00:04,640
-The way that the system currently functions
+Способ функционирования системы
 
 2
 00:00:04,640 --> 00:00:07,280
@@ -12,39 +12,39 @@ always been.
 
 4
 00:00:08,140 --> 00:00:12,300
-It's an online collaborative decision-making tool,
+Это — онлайн-сервис для совместного принятия решений,
 
 5
 00:00:12,300 --> 00:00:14,660
-which basically means that if you have
+что значит, что если существует группа людей,
 
 6
 00:00:14,660 --> 00:00:18,820
-many people that want to discuss, propose arguments,
+готовых обсуждать и выдвигать аргументы,
 
 7
 00:00:18,820 --> 00:00:22,660
-decide, vote on things together -
+решать и голосовать вместе,
 
 8
 00:00:22,660 --> 00:00:27,060
-they no longer have to meet in the same physical space.
+им не обязательно встречаться, чтобы сделать это.
 
 9
 00:00:28,380 --> 00:00:30,300
-Often that would be impossible
+Встречи зачастую невозможны,
 
 10
 00:00:30,300 --> 00:00:32,200
-because there's too many of them or
+потому что большинство таких людей
 
 11
 00:00:32,200 --> 00:00:34,880
-they are too geographically spread out.
+живут очень далеко друг от друга.
 
 12
 00:00:35,820 --> 00:00:38,560
-We have been using Citizen OS
+Мы использовали Citizen OS
 
 13
 00:00:38,580 --> 00:00:42,360
