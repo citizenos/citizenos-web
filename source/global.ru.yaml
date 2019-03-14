@@ -28,7 +28,7 @@ languages:
   ua: Українськаw
 selectLanguage: Языки
 platformLink:
-  title: Начать работу
+  title: Открыть платформу
   url: https://app.citizenos.com
 mobileMenu: МЕНЮ
 footer:
@@ -44,7 +44,7 @@ footer:
           title: Вакансии
           url: /careers/
         contribute:
-          title: Вклад
+          title: Помощь проекту
           url: /contribute/
         team:
           title: Команда
