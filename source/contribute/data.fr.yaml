@@ -1,5 +1,5 @@
 ---
-title: Contribute
+title: Contribuer
 blocks:
   contribute-img:
     class:
@@ -9,7 +9,7 @@ blocks:
       background: 'linear-gradient(180deg, #0EB7FE 0%, #0680FC 100%)'
   contribute:
     title: |
-      How to contribute?
+      Comment contribuer ?
     text: |
 
       Help us improve the Citizen OS platform as a volunteer. Whether you are a developer, translator, researcher, designer, hacktivist or journalist - join us!
