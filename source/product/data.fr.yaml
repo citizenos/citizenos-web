@@ -23,7 +23,7 @@ blocks:
       background-position: 10% 5%, 90% 90%
       background-size: 75px 75px, 65px 65px
     title: |
-      Online decision-making in teams and communities.
+      Prise de décision en ligne dans les équipes et les communautés.
     text: |
       Make argument-based decisions. Structure discussions and meet your voting deadlines. Collect votes for petitions.
 
@@ -33,7 +33,7 @@ blocks:
       - [Case studies](#case-studies)
       { .arrow }
     button1st:
-      title: Sign up for news
+      title: S'inscrire aux actualités
       url: '#subscribe'
   flexibleformat:
     class:
@@ -126,13 +126,13 @@ blocks:
           The Citizen OS platform is free to use on our website for everyone.
         subtext: Gratuit pour toujours !
         button:
-          title: Use platform
+          title: Utiliser la plateforme
           url: https://app.citizenos.com
           target: _blank
       api:
-        title: Integrate API
+        title: Intégrer l'API
         text: |
-          Use The Citizen OS API as a base to build an online decision-making platform with your own branding.
+          Utilisez l'API Citizen OS comme base pour construire une plate-forme de décision en ligne avec votre propre marque.
         subtext: Offer based
         button:
           title: Nous contacter
@@ -194,7 +194,7 @@ blocks:
     title: |
       Our online decision-making community is growing.
     button1st:
-      title: Use platform
+      title: Utiliser la plateforme
       url: https://app.citizenos.com
       target: _blank
     blocks:
