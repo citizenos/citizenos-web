@@ -1,5 +1,5 @@
 ---
-title: Team
+title: Équipe
 blocks:
   team-img:
     class:
@@ -9,13 +9,13 @@ blocks:
       background: 'linear-gradient(180deg, #0EB7FE 0%, #0680FC 100%)'
   team:
     title: |
-      Team
+      Équipe
     people:
       - 
-        title: Founder and Advisor
+        title: Fondateur et conseiller
         name: Ahti Heinla, one of the founders of Skype and Starship Technologies.
       - 
-        title: Software Developers
+        title: Développeurs de logiciels
         name: Mikk Andresen, Ilmar Türk
       - 
         title: Research Associate
@@ -27,16 +27,16 @@ blocks:
         title: Human Relations
         name: Ly Kasvandik
       - 
-        title: Localisation and Translation
+        title: Localisation et traduction
         name: Oksana Naidjonova
       - 
-        title: Lawyer
+        title: Avocat
         name: Kati Vellak
       - 
-        title: Front-end Developer
+        title: Développeur Front-end
         name: Lennart Rikk
       - 
-        title: Marketing and Communications
+        title: Marketing et communications
         name: Liina Guiter
       - 
         title: Partnerships
@@ -45,5 +45,5 @@ blocks:
         title: UX/UI Designers
         name: Kevin Crepin, Kristian Lember, Jannus Jaska
       - 
-        title: Contributors
+        title: Contributeurs
         name: Henri Laupmaa, Liia Hänni, Hille Hinsberg, Eva Truuverk
