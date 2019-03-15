@@ -28,7 +28,7 @@ blocks:
 
       If you are an e-democracy researcher, please write to our Product Manager <margo@citizenos.com>.
     button1st:
-      title: Sign up for news
+      title: S'inscrire aux actualités
       url: '#subscribe'
   forward-img:
     class:
@@ -50,7 +50,7 @@ blocks:
     style:
       background: '#F7F7F7'
     title: |
-      Data collection.
+      Collecte de données.
     text: |
       All data is anonymized and used to understand the effects of online participatory democracy.
     button1st:
