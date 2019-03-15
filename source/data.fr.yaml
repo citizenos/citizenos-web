@@ -39,7 +39,7 @@ blocks:
     text: |
       We believe the tools for online participatory democracy should be free to use for everyone.
     button1st:
-      title: About product
+      title: À propos du produit
       url: /product/
   democracy-img:
     class:
@@ -62,11 +62,11 @@ blocks:
       background-position: 0 10%
       background-size: 122px 122px
     title: |
-      Raising awareness on Participatory Democracy.
+      Augmenter la sensibilisation à la démocratie participative.
     text: |
-      We believe the way for us to move forward as a civilization is to globally come together and decide on things.
+      Nous pensons que la voie à suivre en tant que civilisation est de se réunir au niveau mondial et de décider des choses.
     button1st:
-      title: About vision
+      title: À propos de la vision
       url: /vision/
     button2nd:
   research-img:
@@ -92,7 +92,7 @@ blocks:
     text: |
       We collaborate with e-democracy researchers to help develop our products.
     button1st:
-      title: About research
+      title: À propos de la recherche
       url: /research/
   news:
     class:
@@ -116,7 +116,7 @@ blocks:
       - order-7
       - my-5
     title: |
-      Help us develop Open Source products and spread participatory democracy.
+      Aidez-nous à développer des produits Open Source et à répandre la démocratie participative.
     text: |
       Que vous soyez développeur, traducteur, chercheur, designer, hacktiviste ou journaliste - rejoignez-nous !
     button1st:
