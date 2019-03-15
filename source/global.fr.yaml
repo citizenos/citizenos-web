@@ -2,7 +2,7 @@
 siteTitle: Citizen OS
 navigation:
   product:
-    title: Product
+    title: Produit
     url: /product/
     class: product
   vision:
@@ -10,7 +10,7 @@ navigation:
     url: /vision/
     class: vision
   research:
-    title: Research
+    title: Recherche
     url: /research/
     class: research
   blog:
@@ -26,34 +26,34 @@ languages:
   lv: Latviešu
   ru: Pусский
   ua: Українськаw
-selectLanguage: Languages
+selectLanguage: Langues
 platformLink:
   title: Use platform
   url: https://app.citizenos.com
 mobileMenu: MENU
 footer:
-  text: Citizen OS is an Open Source social enterprise.
+  text: Citizen OS est une entreprise sociale Open Source.
   navigation:
     about:
-      title: About
+      title: A propos
       links:
         company:
-          title: Company
+          title: Société
           url: /company/
         careers:
-          title: Careers
+          title: Recrutement
           url: /careers/
         contribute:
-          title: Contribute
+          title: Contribuer
           url: /contribute/
         team:
-          title: Team
+          title: Équipe
           url: /team/
         contact:
           title: Contact
           url: /contact/
     community:
-      title: Community
+      title: Communauté
       links:
         blog:
           title: Blog
@@ -71,7 +71,7 @@ footer:
           title: Guides
           url: https://app.citizenos.com/en/topics/c6b6d06a-e8cf-4297-9654-8c1cf01b133b
         legal:
-          title: Legal
+          title: Légal
           url: https://app.citizenos.com/en/topics/7abdd244-d45b-40d3-997c-a6290d4e972c
         github:
           title: GitHub
