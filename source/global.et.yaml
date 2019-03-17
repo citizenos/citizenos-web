@@ -2,19 +2,19 @@
 siteTitle: Citizen OS
 navigation:
   product:
-    title: Product
+    title: Toode
     url: /product/
     class: product
   vision:
-    title: Vision
+    title: Visioon
     url: /vision/
     class: vision
   research:
-    title: Research
+    title: Uurimused
     url: /research/
     class: research
   blog:
-    title: Blog
+    title: Blogi
     url: https://medium.com/citizenos
 language: English
 languages:
@@ -26,37 +26,37 @@ languages:
   lv: Latviešu
   ru: Pусский
   ua: Українськаw
-selectLanguage: Languages
+selectLanguage: Keeled
 platformLink:
-  title: Use platform
+  title: Ava platvorm
   url: https://app.citizenos.com/et/
-mobileMenu: MENU
+mobileMenu: MENÜÜ
 footer:
-  text: Citizen OS is an Open Source social enterprise.
+  text: Citizen OS on avatud lähtekoodiga sotsiaalne algatus.
   navigation:
     about:
-      title: About
+      title: Meist
       links:
         company:
-          title: Company
+          title: Organisatsioon
           url: /company/
         careers:
-          title: Careers
+          title: Vabad töökhad
           url: /careers/
         contribute:
-          title: Contribute
+          title: Panusta
           url: /contribute/
         team:
-          title: Team
+          title: Meeskond
           url: /team/
         contact:
-          title: Contact
+          title: Kontakt
           url: /contact/
     community:
-      title: Community
+      title: Kogukond
       links:
         blog:
-          title: Blog
+          title: Blogi
           url: https://medium.com/citizenos
         twitter:
           title: Twitter
@@ -65,13 +65,13 @@ footer:
           title: Facebook
           url: https://www.facebook.com/citizenos.web
     support:
-      title: Support
+      title: Kasutajatugi
       links:
         guides:
-          title: Guides
+          title: Juhendid
           url: https://app.citizenos.com/et/topics/fd8c4e13-6c5f-4423-9408-cf97c30727d7
         legal:
-          title: Legal
+          title: Juriidiline info
           url: https://app.citizenos.com/en/topics/7abdd244-d45b-40d3-997c-a6290d4e972c
         github:
           title: GitHub
