@@ -4,15 +4,15 @@ Süsteemi korrektne toimimise viis
 
 2
 00:00:04,640 --> 00:00:07,280
-is built on traditions and the way that things have
+põhineb traditsioonidel ja sellel, kuidas asju
 
 3
 00:00:07,280 --> 00:00:08,140
-always been.
+alati tehtud on.
 
 4
 00:00:08,140 --> 00:00:12,300
-It's an online collaborative decision-making tool,
+See on veebipõhinw ühiste otsuste langetamise tööriist,
 
 5
 00:00:12,300 --> 00:00:14,660
