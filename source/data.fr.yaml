@@ -88,9 +88,9 @@ blocks:
       background-position: 30% 25%
       background-size: 360px 360px
     title: |
-      Relying on Research and Data.
+      Basé sur la recherche et les données.
     text: |
-      We collaborate with e-democracy researchers to help develop our products.
+      Nous collaborons avec des chercheurs en e-démocratie pour contribuer au développement de nos produits.
     button1st:
       title: À propos de la recherche
       url: /research/
