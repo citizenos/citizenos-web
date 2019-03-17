@@ -16,157 +16,157 @@ C'est un outil de décision collaboratif en ligne,
 
 5
 00:00:12,300 --> 00:00:14,660
-which basically means that if you have
+ce qui signifie, pour faire simple, que si vous avez
 
 6
 00:00:14,660 --> 00:00:18,820
-many people that want to discuss, propose arguments,
+de nombreuses personnes qui veulent discuter, proposer des arguments,
 
 7
 00:00:18,820 --> 00:00:22,660
-decide, vote on things together -
+décider, voter ensemble sur des choses -
 
 8
 00:00:22,660 --> 00:00:27,060
-they no longer have to meet in the same physical space.
+ils ne sont plus obligés de se rencontrer dans le même espace physique.
 
 9
 00:00:28,380 --> 00:00:30,300
-Often that would be impossible
+Souvent, cela serait souvent impossible
 
 10
 00:00:30,300 --> 00:00:32,200
-because there's too many of them or
+parce qu'il sont trop nombreux
 
 11
 00:00:32,200 --> 00:00:34,880
-they are too geographically spread out.
+ou ils sont trop éloignés géographiquement.
 
 12
 00:00:35,820 --> 00:00:38,560
-We have been using Citizen OS
+Nous utilisons Citizen OS
 
 13
 00:00:38,580 --> 00:00:42,360
-for a simple organizational task, that
+pour une tâche organisationnelle simple,
 
 14
 00:00:42,360 --> 00:00:45,800
-where we need our supervisory board members,
+où nous avons besoin que nos membres du conseil de surveillance,
 
 15
 00:00:45,800 --> 00:00:48,480
-who are around the world sometimes,
+qui sont parfois partout dans le monde,
 
 16
 00:00:48,480 --> 00:00:51,620
-and not always physically available,
+et pas toujours disponibles en personne,
 
 17
 00:00:51,620 --> 00:00:55,080
-to review our internal policy documents.
+puissent revoir nos documents de politique interne.
 
 18
 00:00:55,760 --> 00:00:57,440
-The only way for us to move
+La seule façon que nous avons
 
 19
 00:00:57,440 --> 00:01:00,200
-forward as a civilization is to learn to
+de progresser en tant que civilisation est d'apprendre à
 
 20
 00:01:00,200 --> 00:01:04,160
-really make use of that new quality of connectedness.
+vraiment utiliser cette nouvelle capacité de connexion.
 
 21
 00:01:04,160 --> 00:01:05,800
-Citizen OS enables that.
+Citizen OS le permet.
 
 22
 00:01:05,820 --> 00:01:09,020
-You can bring a big number of people,
+Vous pouvez apporter un grand nombre de personnes,
 
 23
 00:01:09,020 --> 00:01:13,860
-you can decide on things, on petitions,
+vous pouvez décider des choses, des pétitions,
 
 24
 00:01:13,860 --> 00:01:16,380
-on decisions, on documents.
+des décisions, des documents.
 
 25
 00:01:16,380 --> 00:01:19,440
-For a non-profit organization, for a civic movement,
+Pour une organisation à but non-lucratif, pour un mouvement civique,
 
 26
 00:01:19,440 --> 00:01:22,260
-for a village municipality.
+pour une municipalité de village.
 
 27
 00:01:22,260 --> 00:01:25,620
-Up to the level of a national government
+Jusqu'au niveau d'un gouvernement national
 
 28
 00:01:25,620 --> 00:01:28,760
-or even the citizens of a planet.
+ou même les citoyens d'une planète.
 
 29
 00:01:29,380 --> 00:01:31,900
-There's no upper limit
+Il n'y a pas de limite supérieure
 
 30
 00:01:31,900 --> 00:01:34,860
-other than, yeah, the planet.
+autre que, oui, la planète.
 
 31
 00:01:35,120 --> 00:01:38,920
-We are a part of the democracy festivals network,
+Nous faisons partie du réseau des festivals de la démocratie,
 
 32
 00:01:38,920 --> 00:01:40,920
-so that means that
+ce qui signifie que
 
 33
 00:01:40,927 --> 00:01:45,941
-in our festival, the Opinion Festival, we hope to
+dans notre festival, l'Opinion Festival, nous espérons
 
 34
 00:01:45,941 --> 00:01:49,952
-develop our opinion culture in Estonia.
+développer notre culture d'opinion en Estonie.
 
 35
 00:01:49,952 --> 00:01:52,960
-Citizen OS could help us on a new
+Citizen OS pourrait nous aider à un nouveau
 
 36
 00:01:52,960 --> 00:01:55,968
-level, to achieve better quality
+niveau, pour améliorer la qualité
 
 37
 00:01:55,968 --> 00:01:58,500
-discussions in Opinion Festival.
+des discussions à l'Opinion Festival.
 
 38
 00:01:58,620 --> 00:02:02,480
-It's a flavour of things to come. Or
+C'est un avant-goût des choses à venir. Ou
 
 39
 00:02:02,500 --> 00:02:06,740
-it shows us what technology enables
+cela nous montre ce que la technologie permet
 
 40
 00:02:06,740 --> 00:02:09,640
-in the information society, where
+dans la société de l'information, où
 
 41
 00:02:09,640 --> 00:02:12,400
-you can actually get the participation of
+vous pouvez effectivement obtenir la participation d'un
 
 42
 00:02:12,400 --> 00:02:14,460
-big, big numbers of people
+très grand nombre de personnes
 
 43
 00:02:14,460 --> 00:02:17,420
-to jointly come together and change things.
+pour se rassembler et changer ensemble les choses.
 
