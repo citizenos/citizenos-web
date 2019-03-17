@@ -162,7 +162,7 @@ blocks:
     title: |
       Étude de cas : Communication entre les citoyens et le gouvernement estonien
     text: |
-      The Citizen OS open source code was used to set up the citizen initiatives platform [www.rahvaalgatus.ee](https://www.rahvaalgatus.ee), where petitions can be started, votes can be collected and sent to the Parliament.
+      Le code source ouvert de Citizen OS a été utilisé pour créer la plate-forme d'initiatives citoyennes [www.rahvaalgatus.ee](https://www.rahvaalgatus.ee), où les pétitions peuvent être lancées, et les votes peuvent être recueillis et envoyés au Parlement.
   case-study-1-img:
     class:
       - order-9
@@ -178,7 +178,7 @@ blocks:
       background-position: 10% 5%, 90% 90%
       background-size: 85px 85px, 55px 55px
     title: |
-      Case Study: Widening the Scope of Communication.
+      Étude de cas : généraliser la portée de la communication.
     text: |
       [Opinion Festival](https://www.arvamusfestival.ee/en) integrated the Citizen OS argumentation widget, allowing online discussions on the festival topics beyond the two days of the physical festival.
   stats:
