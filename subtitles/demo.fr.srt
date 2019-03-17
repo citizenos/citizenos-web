@@ -76,7 +76,7 @@ Pour obtenir un aperçu de vos sujets,
 
 20
 00:01:25,440 --> 00:01:29,780
-aller dans mes sujets dans le menu de gauche.
+allez dans mes sujets dans le menu de gauche.
 
 21
 00:01:32,200 --> 00:01:38,360
@@ -116,7 +116,7 @@ Vous pouvez également définir une date limite pour le vote.
 
 30
 00:02:24,620 --> 00:02:31,780
-Tant que le vote est ouvert, vous ne voyez pas les résultats pour ne pas influencer le vote.
+Tant que le vote est ouvert, vous ne pouvez pas voir les résultats pour ne pas influencer le vote.
 
 31
 00:02:32,460 --> 00:02:36,160
