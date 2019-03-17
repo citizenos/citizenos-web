@@ -25,12 +25,12 @@ blocks:
     title: |
       Prise de décision en ligne dans les équipes et les communautés.
     text: |
-      Make argument-based decisions. Structure discussions and meet your voting deadlines. Collect votes for petitions.
+      Prenez des décisions fondées sur des arguments. Structurez les discussions et respectez vos délais de vote. Collectez des votes pour des pétitions.
 
-      - [Platform features](#features)
-      - [How does it work](#how)
-      - [How much does it cost](#options)
-      - [Case studies](#case-studies)
+      - [Fonctionnalités de la plateforme](#features)
+      - [Comment ça marche](#how)
+      - [Combien ça coûte](#options)
+      - [Études de cas](#case-studies)
       { .arrow }
     button1st:
       title: S'inscrire aux actualités
@@ -55,7 +55,7 @@ blocks:
         poster: /assets/images/flexibleformat-petitions.png
         title: Pétitions
         text: |
-          Edit collaborately. Collect thousands or millions of signatures. Follow up with news.
+          Édition collaborative. Collectez des milliers ou des millions de signatures. Suivez les nouvelles.
       onlinemeetings:
         poster: /assets/images/flexibleformat-onlinemeetings.png
         title: Réunions en ligne
@@ -133,7 +133,7 @@ blocks:
         title: Intégrer l'API
         text: |
           Utilisez l'API Citizen OS comme base pour construire une plate-forme de décision en ligne avec votre propre marque.
-        subtext: Offer based
+        subtext: Sur offre
         button:
           title: Nous contacter
           url: /contact/
@@ -141,7 +141,7 @@ blocks:
         title: Consulter & intégrer
         text: |
           Laissez notre équipe s'occuper de tout, de la consultation à une adaptation de travail avec vos systèmes.
-        subtext: Offer based
+        subtext: Sur offre
         button:
           title: Nous contacter
           url: /contact/
