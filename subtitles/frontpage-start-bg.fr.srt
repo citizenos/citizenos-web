@@ -1,18 +1,18 @@
 1
 00:00:01,880 --> 00:00:04,640
-The way that the system currently functions
+La façon dont le système fonctionne actuellement
 
 2
 00:00:04,640 --> 00:00:07,280
-is built on traditions and the way that things have
+repose sur les traditions et la manière dont les choses ont
 
 3
 00:00:07,280 --> 00:00:08,140
-always been.
+toujours été.
 
 4
 00:00:08,140 --> 00:00:12,300
-It's an online collaborative decision-making tool,
+C'est un outil de décision collaboratif en ligne,
 
 5
 00:00:12,300 --> 00:00:14,660
