@@ -70,7 +70,7 @@ blocks:
         poster: /assets/images/flexibleformat-widget.png
         title: Pro-con argumented discussions
         text: |
-          Integrate our widget in your site or platform to conduct discussion based on pro and con arguments.
+          Intégrez notre widget dans votre site ou votre plate-forme pour mener une discussion basée sur des arguments pour et contre.
   features-img:
     class:
       - order-2
@@ -121,9 +121,9 @@ blocks:
       Produits
     blocks:
       app:
-        title: Use on our website
+        title: Utiliser sur notre site
         text: |
-          The Citizen OS platform is free to use on our website for everyone.
+          La plate-forme Citizen OS est gratuite pour tous sur notre site.
         subtext: Gratuit pour toujours !
         button:
           title: Utiliser la plateforme
@@ -140,7 +140,7 @@ blocks:
       consult:
         title: Consulter & intégrer
         text: |
-          Let our team do all the work from consulting to a working adaptation with your systems.
+          Laissez notre équipe s'occuper de tout, de la consultation à une adaptation de travail avec vos systèmes.
         subtext: Offer based
         button:
           title: Nous contacter
@@ -160,7 +160,7 @@ blocks:
       background-position: 80% 5%
       background-size: 122px 122px
     title: |
-      Case Study: Communication Between the Citizens and the Government of Estonia
+      Étude de cas : Communication entre les citoyens et le gouvernement estonien
     text: |
       The Citizen OS open source code was used to set up the citizen initiatives platform [www.rahvaalgatus.ee](https://www.rahvaalgatus.ee), where petitions can be started, votes can be collected and sent to the Parliament.
   case-study-1-img:
