@@ -180,7 +180,7 @@ blocks:
     title: |
       Étude de cas : généraliser la portée de la communication.
     text: |
-      [Opinion Festival](https://www.arvamusfestival.ee/en) integrated the Citizen OS argumentation widget, allowing online discussions on the festival topics beyond the two days of the physical festival.
+      [Opinion Festival](https://www.arvamusfestival.ee/fr) a intégré le widget d'argumentation de Citizen OS, permettant des discussions en ligne sur les sujets du festival au-delà des deux jours du festival physique.
   stats:
     class:
       - order-11
@@ -192,7 +192,7 @@ blocks:
       background-image: url(/assets/images/pattern.svg)
       background-size: 38px 42px
     title: |
-      Our online decision-making community is growing.
+      Notre communauté de prise de décision en ligne grandit.
     button1st:
       title: Utiliser la plateforme
       url: https://app.citizenos.com
