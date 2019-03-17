@@ -1,5 +1,5 @@
 ---
-title: Team
+title: Meeskond
 blocks:
   team-img:
     class:
@@ -9,25 +9,25 @@ blocks:
       background: 'linear-gradient(180deg, #0EB7FE 0%, #0680FC 100%)'
   team:
     title: |
-      Team
+      Meeskond
     people:
       - 
-        title: Founder and Advisor
-        name: Ahti Heinla, one of the founders of Skype and Starship Technologies.
+        title: Looja ja nõustaja
+        name: Ahti Heinla, üks ettevõtete Skype ja Starship Technologies loojatest.
       - 
-        title: Software Developers
+        title: Tarkvaraarendajad
         name: Mikk Andresen, Ilmar Türk
       - 
-        title: Research Associate
+        title: Teaduspartner
         name: Kadi Maria Vooglaid
       - 
-        title: Leader and Product Manager
+        title: Juhataja ja tootejuht
         name: Margo Loor
       - 
-        title: Human Relations
+        title: Personalijuht
         name: Ly Kasvandik
       - 
-        title: Localisation and Translation
+        title: Lokaliseerimine ja tõlkimine
         name: Oksana Naidjonova
       - 
         title: Lawyer
