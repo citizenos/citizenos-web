@@ -12,14 +12,14 @@ blocks:
       Yritys
     texts:
       - |
-        Citizen OS is an open source social enterprise, located in Estonia. The Government of Estonia became the first API partner in January, 2016. Since then, Citizen OS has gained the trust of many public and private user groups around the world.
+        Citizen OS on Virossa toimiva avoimen lähdekoodin sosiaalinen yritys. Viron valtiosta tuli ensimmäinen API-kumppani tammikuussa 2016. Siitä alkaen Citizen OS on voittanut puolelleen lukuisien julkisten ja yksityisten käyttäjäryhmien luottamuksen eri puolilla maailmaa.
       - |
-        All data is encrypted and kept safe in cloud servers.
+        Kaikki tiedot salataan ja pidetään turvassa pilvipalvelimilla.
       - |
-        #### Citizen OS is supported by:
+        #### Citizen OS:ää tukevat:
       - |
         - [Let’s Do It! Foundation](https://www.letsdoitworld.org/)
-        - [Estonian Cooperation Assembly](https://www.kogu.ee/en/)
+        - [Estoanian Cooperation Assembly](https://www.kogu.ee/en/)
         { .arrow }
       - |
-        Project Citizen OS has been funded by the [NGO Fund EEA Grants](https://oef.org.ee/en/our-work/ngo-fund/) through the [Open Estonia Foundation](https://oef.org.ee/en/).
+        Citizen OS -hanketta on tukenut [NGO Fund EEA Grants](https://oef.org.ee/en/our-work/ngo-fund/), välittäjänä [Open Estonia Foundation](https://oef.org.ee/en/).
