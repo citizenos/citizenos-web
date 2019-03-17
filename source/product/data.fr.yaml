@@ -92,22 +92,22 @@ blocks:
     title: |
       Clarité
     text: |
-      - Overview of decision-making progress.
-      - Voting deadlines.
+      -Aperçu des progrès de la prise de décision.
+      - vote des délais.
       { .bullet }
 
-      ## Involvement{ .mt-5 }
+      ## Participation{ .mt-5 }
 
-      - Ideas are collected bottom-up.
-      - Discussion occurs in a structured way.
-      - Can involve thousands or millions of participants.
+      - les idées sont recueillies de bas en haut.
+      - La discussion se passe de façon structurée.
+      - Peut impliquer des milliers ou des millions de participants.
       { .bullet }
 
-      ## Security & Research{ .mt-5 }
+      ## Sécurité & recherche{ .mt-5 }
 
-      - Continuous development to keep up with new laws.
-      - Product development follows scientific approach.
-      - Safe encrypted data, secure platform in a cloud server.
+      - Développement continu pour faire face à nouvelles lois.
+      - Le développement des produits suit la démarche scientifique.
+      - Coffre-fort de données chiffrée, plateforme sécurisée sur un serveur cloud.
       { .bullet }
   options:
     class:
