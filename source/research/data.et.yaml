@@ -75,11 +75,11 @@ blocks:
     title: |
       Konverents.
     text: |
-      The first CosCon conference, “Political Representation in the Digital Age” was held in 2017. The topics were:
-      - Limits of representative democracy.
-      - Handling radically new practices.
-      - Civic technologies really changing politics.
+      Esimene CosConi konverents “Poliitiline esindatud digitaalsel ajastul” peeti aastal 2017. Konverentsi teemadeks olid:
+      - Esindusdemokraatia piirangud.
+      - Täiesti uute praktikate rakendamine.
+      - Tsiviiltehnoloogiad, mis poliitikas pöördelisi muutuseid tõid.
       { .bullet }
     button1st:
-      title: Contribute
+      title: Panusta
       url: /contribute/
