@@ -160,7 +160,7 @@ blocks:
       background-position: 80% 5%
       background-size: 122px 122px
     title: |
-      Case Study: Communication Between the Citizens and the Government of Estonia
+      Kaasusekirjeldus: Eesti Vabariigi kodanike ja valitsuse vaheline suhtlus
     text: |
       The Citizen OS open source code was used to set up the citizen initiatives platform [www.rahvaalgatus.ee](https://www.rahvaalgatus.ee), where petitions can be started, votes can be collected and sent to the Parliament.
   case-study-1-img:
@@ -178,7 +178,7 @@ blocks:
       background-position: 10% 5%, 90% 90%
       background-size: 85px 85px, 55px 55px
     title: |
-      Case Study: Widening the Scope of Communication.
+      Kaasusekirjeldus: suhtlusulatuse laiendamine.
     text: |
       [Opinion Festival](https://www.arvamusfestival.ee/en) integrated the Citizen OS argumentation widget, allowing online discussions on the festival topics beyond the two days of the physical festival.
   stats:
@@ -192,7 +192,7 @@ blocks:
       background-image: url(/assets/images/pattern.svg)
       background-size: 38px 42px
     title: |
-      Our online decision-making community is growing.
+      Meie online-otsustuskeskkond kasvab järjepidevalt.
     button1st:
       title: Ava platvorm
       url: https://app.citizenos.com
