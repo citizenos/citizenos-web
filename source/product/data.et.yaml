@@ -121,12 +121,12 @@ blocks:
       Tooted
     blocks:
       app:
-        title: Use on our website
+        title: Kasuta meie kodulehel
         text: |
           The Citizen OS platform is free to use on our website for everyone.
-        subtext: Free for ever!
+        subtext: Igavesti tasuta!
         button:
-          title: Use platform
+          title: Ava platvorm
           url: https://app.citizenos.com
           target: _blank
       api:
