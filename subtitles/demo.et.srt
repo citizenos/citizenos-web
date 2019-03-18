@@ -108,7 +108,7 @@ kohandatud hääletuse vahel. Hääli saab ka delegeerida – sel juhul
 
 28
 00:02:12,640 --> 00:02:17,700
-for this topic people can delegate their vote to another user.
+saavad inimesed volitada teise inimese kasutaja enda nimel hääletama.
 
 29
 00:02:19,060 --> 00:02:22,480
