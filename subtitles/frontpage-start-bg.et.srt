@@ -84,15 +84,15 @@ Citizen OS võimaldab Teil seda teha.
 
 22
 00:01:05,820 --> 00:01:09,020
-You can bring a big number of people,
+Saate kaasata suure hulga inimesi,
 
 23
 00:01:09,020 --> 00:01:13,860
-you can decide on things, on petitions,
+langetada otsuseid asjade, petitsioonide,
 
 24
 00:01:13,860 --> 00:01:16,380
-on decisions, on documents.
+otsuste ja dokumentide kohta.
 
 25
 00:01:16,380 --> 00:01:19,440
@@ -136,19 +136,19 @@ develop our opinion culture in Estonia.
 
 35
 00:01:49,952 --> 00:01:52,960
-Citizen OS could help us on a new
+Citizen OS võib viia meie tegevuse uuele
 
 36
 00:01:52,960 --> 00:01:55,968
-level, to achieve better quality
+tasemele ja aidata tõsta
 
 37
 00:01:55,968 --> 00:01:58,500
-discussions in Opinion Festival.
+Arvamusfestivali arutelude kvaliteeti.
 
 38
 00:01:58,620 --> 00:02:02,480
-It's a flavour of things to come. Or
+See annab aimdust, mis tulevikus saama hakkab. Teisisõnu
 
 39
 00:02:02,500 --> 00:02:06,740
