@@ -60,10 +60,10 @@ blocks:
         poster: /assets/images/flexibleformat-onlinemeetings.png
         title: Online-koosolekud
         text: |
-          Carry out meetings online. Everyone can leave their comments and vote at a time suitable for them.
+          Korraldage koosolekuid veebis.
       gatheringideas:
         poster: /assets/images/flexibleformat-gatheringideas.png
-        title: Gathering ideas
+        title: Ideede kogumine
         text: |
           Share your decision-making process with a bigger audience.
       widget:
@@ -88,9 +88,9 @@ blocks:
       - order-sm-3
     style:
       background: '#F7F7F7'
-    label: Features
+    label: Funktsioonid
     title: |
-      Clarity
+      Selgus
     text: |
       - Overview of decision-making progress.
       - Voting deadlines.
@@ -118,7 +118,7 @@ blocks:
     style:
       background: '#AAF3DD'
     title: |
-      Products
+      Tooted
     blocks:
       app:
         title: Use on our website
