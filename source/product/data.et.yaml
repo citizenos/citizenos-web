@@ -132,18 +132,18 @@ blocks:
       api:
         title: Integreerige API
         text: |
-          Use The Citizen OS API as a base to build an online decision-making platform with your own branding.
-        subtext: Offer based
+          Kasutage Citizen OS-i rakendusliidest alusena, millele luua oma kaubamärgiga online-otsustusplatvorm.
+        subtext: Pakkumistepõhine
         button:
-          title: Contact us
+          title: Võtke meiega ühendust
           url: /contact/
       consult:
-        title: Consult & integrate
+        title: Konsulteeri ja integreeri
         text: |
-          Let our team do all the work from consulting to a working adaptation with your systems.
-        subtext: Offer based
+          Lase meie tiimil kogu töö ära teha – alates konsulteerimisest kuni süsteemi teie vajadustele vastavaks kohandamiseni.
+        subtext: Pakkumistepõhine
         button:
-          title: Contact us
+          title: Võtke meiega ühendust
           url: /contact/
   case-study-2-img:
     class:
