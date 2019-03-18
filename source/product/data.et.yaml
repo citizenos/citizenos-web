@@ -92,22 +92,22 @@ blocks:
     title: |
       Selgus
     text: |
-      - Overview of decision-making progress.
-      - Voting deadlines.
+      - Ülevaade otsustusprotsessist.
+      - Hääletustähtajad.
       { .bullet }
 
-      ## Involvement{ .mt-5 }
+      ## Kaasamine{ .mt-5 }
 
-      - Ideas are collected bottom-up.
-      - Discussion occurs in a structured way.
-      - Can involve thousands or millions of participants.
+      - Ideid arendatakse madalamalt tasemelt kõrgemale.
+      - Arutelu toimub struktureeritult.
+      - Osaleda võib miljoneid inimesi.
       { .bullet }
 
-      ## Security & Research{ .mt-5 }
+      ## Turvalisus ja uurimused { .mt-5 }
 
-      - Continuous development to keep up with new laws.
-      - Product development follows scientific approach.
-      - Safe encrypted data, secure platform in a cloud server.
+      - Pidev arendustöö uute seadustega kooskõlas püsimiseks.
+      - Tootearendus põhineb teaduslikul lähenemisel.
+      - Turvaliselt krüptitud andmed, turvaline pilveserverisse installitud platvorm.
       { .bullet }
   options:
     class:
