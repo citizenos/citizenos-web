@@ -8,15 +8,15 @@ Tere tulemast kasutama saiti Citizenos.com.
 
 3
 00:00:06,600 --> 00:00:09,440
-Click on the Use Platform button.
+Vajutage nuppu Ava platvorm.
 
 4
 00:00:09,440 --> 00:00:12,120
-The platform is available in many languages,
+Platvormi saate kasutada erinevates keeltes.
 
 5
 00:00:12,120 --> 00:00:16,700
-so select your language and if it is not yet supported, please let us know.
+Valige enda jaoks sobivaim keel ja kui seda veel ei toetata, andke meile teada.
 
 6
 00:00:16,700 --> 00:00:20,620
@@ -140,9 +140,9 @@ It is free to use for everyone forever on your mobile, tablet or computer.
 
 36
 00:02:54,000 --> 00:02:55,120
-Thanks for watching.
+Aitäh, et vaatasite!
 
 37
 00:02:55,120 --> 00:02:57,200
-Open Source code available on GitHub.
+Avatud lähtekoodi leiate GitHubis.
 
