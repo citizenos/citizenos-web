@@ -65,12 +65,12 @@ blocks:
         poster: /assets/images/flexibleformat-gatheringideas.png
         title: Ideede kogumine
         text: |
-          Share your decision-making process with a bigger audience.
+          Kaasake otsustusprotsessi rohkem inimesi.
       widget:
         poster: /assets/images/flexibleformat-widget.png
-        title: Pro-con argumented discussions
+        title: Poolt- ja vastuargumentide esitamise koosolekud
         text: |
-          Integrate our widget in your site or platform to conduct discussion based on pro and con arguments.
+          Integreerige meie vidin oma saidile või platvormile, et viia läbi arutelusid poolt- ja vastuargumentide kaalumiseks.
   features-img:
     class:
       - order-2
@@ -123,14 +123,14 @@ blocks:
       app:
         title: Kasuta meie kodulehel
         text: |
-          The Citizen OS platform is free to use on our website for everyone.
+          Platvorm Citizen OS on meie veebisaidil kõigile tasuta kasutamiseks kättesaadav.
         subtext: Igavesti tasuta!
         button:
           title: Ava platvorm
           url: https://app.citizenos.com
           target: _blank
       api:
-        title: Integrate API
+        title: Integreerige API
         text: |
           Use The Citizen OS API as a base to build an online decision-making platform with your own branding.
         subtext: Offer based
