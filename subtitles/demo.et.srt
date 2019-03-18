@@ -64,11 +64,11 @@ Redigeerimisrežiimis töötades saate dokumendi sisse ka kommentaare lisada.
 
 17
 00:01:09,900 --> 00:01:16,800
-Go to to settings to make the topic private or public add a Twitter hashtag,
+Avage sätted, et muuta teema privaatseks või avalikuks, lisada Twitteri teemaviide või
 
 18
 00:01:16,800 --> 00:01:21,520
-invite users to join or share the link.
+kutsuda kasutajaid liituma või linki jagama.
 
 19
 00:01:22,720 --> 00:01:25,440
@@ -120,11 +120,11 @@ Selleks, et keegi ei saaks hääletustulemusi mõjutada, ei näe te tulemusi sen
 
 31
 00:02:32,460 --> 00:02:36,160
-Once everyone has voted or the voting deadline has arrived,
+Kui kõik hääleõiguslikud isikud on hääletanud või hääletusperiood on lõppenud,
 
 32
 00:02:36,160 --> 00:02:39,100
-you can send the topic to follow-up.
+saate asuda tulemust ellu viima.
 
 33
 00:02:39,100 --> 00:02:45,060
