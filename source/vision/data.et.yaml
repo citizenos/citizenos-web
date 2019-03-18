@@ -24,7 +24,7 @@ blocks:
       background-position: 10% 15%, 90% 90%
       background-size: 42px 42px, 102px 102px
     title: |
-      You have a voice and it needs to be heard.
+      Sul on hääl – tee see kuuldavaks!
     text: |
       We believe social change happens when people come together and decide on things.
 
@@ -32,7 +32,7 @@ blocks:
       - [Contribute to Citizen OS](#awareness)
       { .arrow }
     button1st:
-      title: Sign up for news
+      title: Telli uudised
       url: '#subscribe'
   individual-img:
     class:
@@ -49,15 +49,15 @@ blocks:
       - order-3
       - order-sm-3
     title: |
-      One person can make a difference.
+      Iga inimese hääl on oluline.
     text: |
-      Participatory democracy is individual participation in political decisions that affect your life.
+      Osalusdemokraatia tähendab sekkumist nende poliitiliste otsuste tegemisse, mis mõjutavad Sinu elu.
 
-      ## But there’s definitely strength in numbers.
+      # Kuid kahtlemata peitub numbrites jüud.
 
-      Governments are increasingly trusting citizens to help solve difficult social issues.
+      Valitsused usaldavad keerukate sotsiaalsete probleemide lahendamise üha sagedamini kodanikele.
     button1st:
-      title: Use platform
+      title: Ava platvorm
       url: https://app.citizenos.com
       target: _blank
   awareness:
@@ -70,7 +70,7 @@ blocks:
       background-size: 164px 164px, cover
       background-position: 10% 10%
     title: |
-      Together we can advance online participatory democracy.
+      Üheskoos suudame arendada online-osalusdemokraatiat.
     text: |
       We are developing products that help people create a better future. Whether you are a developer, translator, researcher, designer, hactivist or journalist - join us!
     button1st:
