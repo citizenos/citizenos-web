@@ -4,7 +4,7 @@ Citizen OS Platform Demo.
 
 2
 00:00:03,180 --> 00:00:06,600
-Hello and welcome to Citizenos.com.
+Tere tulemast kasutama saiti Citizenos.com.
 
 3
 00:00:06,600 --> 00:00:09,440
