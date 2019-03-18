@@ -60,7 +60,7 @@ blocks:
         poster: /assets/images/flexibleformat-onlinemeetings.png
         title: Online-koosolekud
         text: |
-          Korraldage koosolekuid veebis.
+          Korraldage koosolekuid veebis. Igaüks saab jätta oma kommentaare ja hääletada talle sobival ajal.
       gatheringideas:
         poster: /assets/images/flexibleformat-gatheringideas.png
         title: Ideede kogumine
