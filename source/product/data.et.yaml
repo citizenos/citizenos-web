@@ -33,7 +33,7 @@ blocks:
       - [Case studies](#case-studies)
       { .arrow }
     button1st:
-      title: Sign up for news
+      title: Telli uudised
       url: '#subscribe'
   flexibleformat:
     class:
@@ -45,20 +45,20 @@ blocks:
       padding-bottom: 5rem
       background-image: url(/assets/images/pattern.svg)
       background-size: 38px 42px
-    label: A flexible format
+    label: Paindlik vorming
     title: |
-      How can you use Citizen OS’s platform?
+      Mida platvormil Citizen OS teha saab?
     text: |
       { #flexibleformat-items }
     blocks:
       petitions:
         poster: /assets/images/flexibleformat-petitions.png
-        title: Petitions
+        title: Petitsioonid
         text: |
-          Edit collaborately. Collect thousands or millions of signatures. Follow up with news.
+          Saate petitsioone kollektiivselt muuta ja koguda neile tuhandeid või miljoneid allkirju. Lisaks saad osalejatele saata teavet petitsioonile järgnenud sündmuste kohta.
       onlinemeetings:
         poster: /assets/images/flexibleformat-onlinemeetings.png
-        title: Online meetings
+        title: Online-koosolekud
         text: |
           Carry out meetings online. Everyone can leave their comments and vote at a time suitable for them.
       gatheringideas:
@@ -194,15 +194,15 @@ blocks:
     title: |
       Our online decision-making community is growing.
     button1st:
-      title: Use platform
+      title: Ava platvorm
       url: https://app.citizenos.com
       target: _blank
     blocks:
       topicsCreated:
-        title: discussions
+        title: arutelud
       votesCast:
-        title: votes
+        title: hääli
       groupsCreated:
-        title: groups
+        title: rühmi
       usersCreated:
-        title: users
+        title: kasutajaid
