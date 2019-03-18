@@ -26,7 +26,7 @@ blocks:
     text: |
       Teeme oma toodete arendamiseks koostööd e-demokraatiat uurivate teadlastega.
 
-      Kui tegelete e-demokraatia uurimisega, kirjutage palun meie Tootejuhile <margo@citizenos.com>.
+      Kui tegelete e-demokraatia uurimisega, kirjutage palun meie tootejuhile <margo@citizenos.com>.
     button1st:
       title: Telli uudised
       url: '#subscribe'
@@ -75,10 +75,10 @@ blocks:
     title: |
       Konverents.
     text: |
-      Esimene CosConi konverents “Poliitiline esindatud digitaalsel ajastul” peeti aastal 2017. Konverentsi teemadeks olid:
+      Esimene CosConi konverents “Poliitiline esindatus digitaalsel ajastul” peeti aastal 2017. Konverentsi teemadeks olid:
       - Esindusdemokraatia piirangud.
       - Täiesti uute praktikate rakendamine.
-      - Tsiviiltehnoloogiad, mis poliitikas pöördelisi muutuseid tõid.
+      - Tsiviiltehnoloogiad, mis tõid poliitikas pöördelisi muutuseid.
       { .bullet }
     button1st:
       title: Panusta
