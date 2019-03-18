@@ -162,7 +162,7 @@ blocks:
     title: |
       Kaasusekirjeldus: Eesti Vabariigi kodanike ja valitsuse vaheline suhtlus
     text: |
-      The Citizen OS open source code was used to set up the citizen initiatives platform [www.rahvaalgatus.ee](https://www.rahvaalgatus.ee), where petitions can be started, votes can be collected and sent to the Parliament.
+      Platvormi Citizen OS avatud lähtekoodi kasutati kodanikualgatuse platvotmi [www.rahvaalgatus.ee](https://www.rahvaalgatus.ee) seadistamiseks. Sellel saidil saab luua petitsioone, koguda neile toetushääli ja saata petitsioone Parlamenti.
   case-study-1-img:
     class:
       - order-9
@@ -180,7 +180,7 @@ blocks:
     title: |
       Kaasusekirjeldus: suhtlusulatuse laiendamine.
     text: |
-      [Opinion Festival](https://www.arvamusfestival.ee/en) integrated the Citizen OS argumentation widget, allowing online discussions on the festival topics beyond the two days of the physical festival.
+      Arvamusfestival(https://www.arvamusfestival.ee/en) integreeris platvormi Citizen OS argumenteerimisvidina, mille abil said online arutelud festivalil püstitatud teemadel jätkuda ka pärast kaht festivalipäeva.
   stats:
     class:
       - order-11
