@@ -16,11 +16,11 @@ See on veebipõhinw ühiste otsuste langetamise tööriist,
 
 5
 00:00:12,300 --> 00:00:14,660
-which basically means that if you have
+mis põhimõtteliselt tähendab, et kui paljud
 
 6
 00:00:14,660 --> 00:00:18,820
-many people that want to discuss, propose arguments,
+inimesed soovivad koos arutada, argumente esitada,
 
 7
 00:00:18,820 --> 00:00:22,660
