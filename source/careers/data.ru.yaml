@@ -1,5 +1,5 @@
 ---
-title: Careers
+title: Вакансии
 blocks:
   careers-img:
     class:
@@ -9,8 +9,8 @@ blocks:
       background: 'linear-gradient(180deg, #0EB7FE 0%, #0680FC 100%)'
   careers:
     title: |
-      How to join the team.
+      Как присоединиться к команде?
     text: |
-      Want to provide the people of the world with an amazing tool for co-deciding and online participatory democracy?
+      Вы хотите дать людям всего мира удивительный онлайн-инструмент для принятия совместных решений в демократическом формате?
 
-      If our vision inspires you, please write to our Head of partnerships <anett@citizenos.com>.
+      Если наша концепция близка вам по духу, напишите руководителю партнерской программы по адресу: <anett@citizenos.com>.

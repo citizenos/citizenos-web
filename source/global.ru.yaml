@@ -2,19 +2,19 @@
 siteTitle: Citizen OS
 navigation:
   product:
-    title: Product
+    title: Продукт
     url: /product/
     class: product
   vision:
-    title: Vision
+    title: Концепция
     url: /vision/
     class: vision
   research:
-    title: Research
+    title: Исследования
     url: /research/
     class: research
   blog:
-    title: Blog
+    title: Блог
     url: https://medium.com/citizenos
 language: English
 languages:
@@ -26,37 +26,37 @@ languages:
   lv: Latviešu
   ru: Pусский
   ua: Українськаw
-selectLanguage: Languages
+selectLanguage: Языки
 platformLink:
-  title: Use platform
+  title: Открыть платформу
   url: https://app.citizenos.com
-mobileMenu: MENU
+mobileMenu: МЕНЮ
 footer:
-  text: Citizen OS is an Open Source social enterprise.
+  text: Citizen OS — это социальное предприятие с открытым исходным кодом.
   navigation:
     about:
-      title: About
+      title: О платформе
       links:
         company:
-          title: Company
+          title: Компания
           url: /company/
         careers:
-          title: Careers
+          title: Вакансии
           url: /careers/
         contribute:
-          title: Contribute
+          title: Помощь проекту
           url: /contribute/
         team:
-          title: Team
+          title: Команда
           url: /team/
         contact:
-          title: Contact
+          title: Контакты
           url: /contact/
     community:
-      title: Community
+      title: Сообщество
       links:
         blog:
-          title: Blog
+          title: Блог
           url: https://medium.com/citizenos
         twitter:
           title: Twitter
@@ -65,13 +65,13 @@ footer:
           title: Facebook
           url: https://www.facebook.com/citizenos.web
     support:
-      title: Support
+      title: Служба поддержки
       links:
         guides:
-          title: Guides
+          title: Руководство
           url: https://app.citizenos.com/en/topics/c6b6d06a-e8cf-4297-9654-8c1cf01b133b
         legal:
-          title: Legal
+          title: Юридическая информация
           url: https://app.citizenos.com/en/topics/7abdd244-d45b-40d3-997c-a6290d4e972c
         github:
           title: GitHub

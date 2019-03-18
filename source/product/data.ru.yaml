@@ -1,5 +1,5 @@
 ---
-title: Product
+title: Продукт
 blocks:
   decision-img:
     class:
@@ -23,17 +23,17 @@ blocks:
       background-position: 10% 5%, 90% 90%
       background-size: 75px 75px, 65px 65px
     title: |
-      Online decision-making in teams and communities.
+      Принятие решений онлайн в командах и сообществах.
     text: |
-      Make argument-based decisions. Structure discussions and meet your voting deadlines. Collect votes for petitions.
+      Принимайте решения, основанные на аргументах. Структурируйте обсуждения и ставьте строки голосований. Собирайте голоса для петиций.
 
-      - [Platform features](#features)
-      - [How does it work](#how)
-      - [How much does it cost](#options)
-      - [Case studies](#case-studies)
+      - [Особенности платформы](#features)
+      - [Как это работает?](#how)
+      - [Сколько это стоит?](#options)
+      - [Тематические исследования](#case-studies)
       { .arrow }
     button1st:
-      title: Sign up for news
+      title: Подписаться на новостную рассылку
       url: '#subscribe'
   flexibleformat:
     class:
@@ -45,32 +45,32 @@ blocks:
       padding-bottom: 5rem
       background-image: url(/assets/images/pattern.svg)
       background-size: 38px 42px
-    label: A flexible format
+    label: Гибкий формат
     title: |
-      How can you use Citizen OS’s platform?
+      Для чего нужна платформа Citizen OS?
     text: |
       { #flexibleformat-items }
     blocks:
       petitions:
         poster: /assets/images/flexibleformat-petitions.png
-        title: Petitions
+        title: Петиции
         text: |
-          Edit collaborately. Collect thousands or millions of signatures. Follow up with news.
+          Редактируйте совместно. Соберите тысячи или миллионы подписей. Следите за новостями.
       onlinemeetings:
         poster: /assets/images/flexibleformat-onlinemeetings.png
-        title: Online meetings
+        title: Онлайн-встречи
         text: |
-          Carry out meetings online. Everyone can leave their comments and vote at a time suitable for them.
+          Проводите встречи в режиме онлайн. Каждый из участников может оставить комментарий и проголосовать в удобное время.
       gatheringideas:
         poster: /assets/images/flexibleformat-gatheringideas.png
-        title: Gathering ideas
+        title: Собирайте мнения
         text: |
-          Share your decision-making process with a bigger audience.
+          Поделитесь процессом принятия решения с большей аудиторией.
       widget:
         poster: /assets/images/flexibleformat-widget.png
-        title: Pro-con argumented discussions
+        title: Обсуждения в формате «плюсы и минусы»
         text: |
-          Integrate our widget in your site or platform to conduct discussion based on pro and con arguments.
+          Подключите виджет на ваш сайт или платформу, чтобы проводить обсуждения в формате «плюсы и минусы» и собирать аргументы.
   features-img:
     class:
       - order-2
@@ -88,26 +88,26 @@ blocks:
       - order-sm-3
     style:
       background: '#F7F7F7'
-    label: Features
+    label: Особенности
     title: |
-      Clarity
+      Прозрачность
     text: |
-      - Overview of decision-making progress.
-      - Voting deadlines.
+      - Наблюдение за процессом принятия решений;
+      - Ограниченный срок голосования.
       { .bullet }
 
-      ## Involvement{ .mt-5 }
+      ## Вовлеченность{ .mt-5 }
 
-      - Ideas are collected bottom-up.
-      - Discussion occurs in a structured way.
-      - Can involve thousands or millions of participants.
+      - Сбор мнений в формате демократии;
+      - Структурированные обсуждения;
+      - Возможность участия тысяч и миллионов неравнодушных людей.
       { .bullet }
 
-      ## Security & Research{ .mt-5 }
+      ## Безопасность и исследования{ .mt-5 }
 
-      - Continuous development to keep up with new laws.
-      - Product development follows scientific approach.
-      - Safe encrypted data, secure platform in a cloud server.
+      - Мы постоянно развиваемся, чтобы быть в курсе новейших законодательных актов;
+      - Разработка продукта основана на научном подходе;
+      - Безопасность зашифрованных данных, надежная платформа в облачном сервере.
       { .bullet }
   options:
     class:
@@ -118,32 +118,32 @@ blocks:
     style:
       background: '#AAF3DD'
     title: |
-      Products
+      Продукты
     blocks:
       app:
-        title: Use on our website
+        title: Работайте на нашем веб-сайте
         text: |
-          The Citizen OS platform is free to use on our website for everyone.
-        subtext: Free for ever!
+          Вы можете пользоваться платформой Citizen OS абсолютно бесплатно.
+        subtext: Бесплатно навсегда!
         button:
-          title: Use platform
+          title: Открыть платформу
           url: https://app.citizenos.com
           target: _blank
       api:
-        title: Integrate API
+        title: Интеграция API
         text: |
-          Use The Citizen OS API as a base to build an online decision-making platform with your own branding.
-        subtext: Offer based
+          Используйте Citizen OS API как основу для создания собственной брендированной платформы для принятия решений.
+        subtext: Зависит от проекта
         button:
-          title: Contact us
+          title: Свяжитесь с нами
           url: /contact/
       consult:
-        title: Consult & integrate
+        title: Консультирование и интеграция
         text: |
-          Let our team do all the work from consulting to a working adaptation with your systems.
-        subtext: Offer based
+          Наша команда сделает всю работу, начиная с консультирования и заканчивая действующей адаптацией платформы к вашим системам.
+        subtext: Зависит от проекта
         button:
-          title: Contact us
+          title: Свяжитесь с нами
           url: /contact/
   case-study-2-img:
     class:
@@ -160,9 +160,9 @@ blocks:
       background-position: 80% 5%
       background-size: 122px 122px
     title: |
-      Case Study: Communication Between the Citizens and the Government of Estonia
+      Исследование: «Общение между гражданами и правительством Эстонии»
     text: |
-      The Citizen OS open source code was used to set up the citizen initiatives platform [www.rahvaalgatus.ee](https://www.rahvaalgatus.ee), where petitions can be started, votes can be collected and sent to the Parliament.
+      Открытый код платформы Citizen OS использовался для создания платформы предложений [www.rahvaalgatus.ee](https://www.rahvaalgatus.ee), где можно открыть петицию, провести голосование и отправить ее в Парламент.
   case-study-1-img:
     class:
       - order-9
@@ -178,9 +178,9 @@ blocks:
       background-position: 10% 5%, 90% 90%
       background-size: 85px 85px, 55px 55px
     title: |
-      Case Study: Widening the Scope of Communication.
+      Исследование: «Расширение сферы коммуникации».
     text: |
-      [Opinion Festival](https://www.arvamusfestival.ee/en) integrated the Citizen OS argumentation widget, allowing online discussions on the festival topics beyond the two days of the physical festival.
+      [Фестиваль мнений](https://www.arvamusfestival.ee/en) с интегрированным виджетом обсуждений от Citizen OS позволяет проводить онлайн-обсуждения по темам фестиваля за двое суток до открытия самого фестиваля.
   stats:
     class:
       - order-11
@@ -192,17 +192,17 @@ blocks:
       background-image: url(/assets/images/pattern.svg)
       background-size: 38px 42px
     title: |
-      Our online decision-making community is growing.
+      Наше онлайн-сообщество принимающих решения людей расширяется.
     button1st:
-      title: Use platform
+      title: Открыть платформу
       url: https://app.citizenos.com
       target: _blank
     blocks:
       topicsCreated:
-        title: discussions
+        title: обсуждения
       votesCast:
-        title: votes
+        title: голосование
       groupsCreated:
-        title: groups
+        title: группы
       usersCreated:
-        title: users
+        title: пользователи

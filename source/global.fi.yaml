@@ -2,19 +2,19 @@
 siteTitle: Citizen OS
 navigation:
   product:
-    title: Product
+    title: Tuote
     url: /product/
     class: product
   vision:
-    title: Vision
+    title: Visio
     url: /vision/
     class: vision
   research:
-    title: Research
+    title: Tutkimus
     url: /research/
     class: research
   blog:
-    title: Blog
+    title: Blogi
     url: https://medium.com/citizenos
 language: English
 languages:
@@ -26,37 +26,37 @@ languages:
   lv: Latviešu
   ru: Pусский
   ua: Українськаw
-selectLanguage: Languages
+selectLanguage: Kielet
 platformLink:
-  title: Use platform
+  title: Käytä alustaa
   url: https://app.citizenos.com
-mobileMenu: MENU
+mobileMenu: VALIKKO
 footer:
-  text: Citizen OS is an Open Source social enterprise.
+  text: Citizen OS on sosiaalinen avoimen lähdekoodin yritys.
   navigation:
     about:
-      title: About
+      title: Tietoja
       links:
         company:
-          title: Company
+          title: Yritys
           url: /company/
         careers:
-          title: Careers
+          title: Urat
           url: /careers/
         contribute:
-          title: Contribute
+          title: Osallistu
           url: /contribute/
         team:
-          title: Team
+          title: Tiimi
           url: /team/
         contact:
-          title: Contact
+          title: Yhteydenotto
           url: /contact/
     community:
-      title: Community
+      title: Yhteisö
       links:
         blog:
-          title: Blog
+          title: Blogi
           url: https://medium.com/citizenos
         twitter:
           title: Twitter
@@ -65,13 +65,13 @@ footer:
           title: Facebook
           url: https://www.facebook.com/citizenos.web
     support:
-      title: Support
+      title: Tuki
       links:
         guides:
-          title: Guides
+          title: Oppaat
           url: https://app.citizenos.com/en/topics/c6b6d06a-e8cf-4297-9654-8c1cf01b133b
         legal:
-          title: Legal
+          title: Lakiteknistä
           url: https://app.citizenos.com/en/topics/7abdd244-d45b-40d3-997c-a6290d4e972c
         github:
           title: GitHub

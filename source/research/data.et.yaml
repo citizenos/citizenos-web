@@ -1,5 +1,5 @@
 ---
-title: Research
+title: Uurimused
 blocks:
   research-img:
     class:
@@ -22,13 +22,13 @@ blocks:
       background-position: 90% 10%, 7% 25%
       background-size: 45px 45px, 65px 65px
     title: |
-      Relying on research and data.
+      Tugineb uurimustele ja andmetele.
     text: |
-      We collaborate with e-democracy researchers to help develop our products.
+      Teeme oma toodete arendamiseks koostööd e-demokraatiat uurivate teadlastega.
 
-      If you are an e-democracy researcher, please write to our Product Manager <margo@citizenos.com>.
+      Kui tegelete e-demokraatia uurimisega, kirjutage palun meie Tootejuhile <margo@citizenos.com>.
     button1st:
-      title: Sign up for news
+      title: Telli uudised
       url: '#subscribe'
   forward-img:
     class:
@@ -50,11 +50,11 @@ blocks:
     style:
       background: '#F7F7F7'
     title: |
-      Data collection.
+      Andmete kogumine.
     text: |
-      All data is anonymized and used to understand the effects of online participatory democracy.
+      Kõik andmed on anonüümseks muudetud ja neid kasutatakse selleks, et mõista online-osalusdemokraatia mõju.
     button1st:
-      title: Read blog
+      title: Loe blogi
       url: https://medium.com/citizenos
   conference-img:
     class:
@@ -73,13 +73,13 @@ blocks:
       - order-5
       - order-sm-4
     title: |
-      Conference.
+      Konverents.
     text: |
-      The first CosCon conference, “Political Representation in the Digital Age” was held in 2017. The topics were:
-      - Limits of representative democracy.
-      - Handling radically new practices.
-      - Civic technologies really changing politics.
+      Esimene CosConi konverents “Poliitiline esindatud digitaalsel ajastul” peeti aastal 2017. Konverentsi teemadeks olid:
+      - Esindusdemokraatia piirangud.
+      - Täiesti uute praktikate rakendamine.
+      - Tsiviiltehnoloogiad, mis poliitikas pöördelisi muutuseid tõid.
       { .bullet }
     button1st:
-      title: Contribute
+      title: Panusta
       url: /contribute/

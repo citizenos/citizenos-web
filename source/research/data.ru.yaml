@@ -1,5 +1,5 @@
 ---
-title: Research
+title: Исследования
 blocks:
   research-img:
     class:
@@ -22,13 +22,13 @@ blocks:
       background-position: 90% 10%, 7% 25%
       background-size: 45px 45px, 65px 65px
     title: |
-      Relying on research and data.
+      Опираясь на исследования и научные данные.
     text: |
-      We collaborate with e-democracy researchers to help develop our products.
+      Мы сотрудничаем с исследователями в сфере электронной демократии, чтобы постоянно развивать наш продукт.
 
-      If you are an e-democracy researcher, please write to our Product Manager <margo@citizenos.com>.
+      Если вы являетесь исследователем в данной области, напишите нашему менеджеру продукта: <margo@citizenos.com>.
     button1st:
-      title: Sign up for news
+      title: Подписаться на новостную рассылку
       url: '#subscribe'
   forward-img:
     class:
@@ -50,11 +50,11 @@ blocks:
     style:
       background: '#F7F7F7'
     title: |
-      Data collection.
+      Сбор данных.
     text: |
-      All data is anonymized and used to understand the effects of online participatory democracy.
+      Все полученные данные анонимны и используются для изучения того, какое влияние оказывает онлайн-демократия.
     button1st:
-      title: Read blog
+      title: Читать блог
       url: https://medium.com/citizenos
   conference-img:
     class:
@@ -73,13 +73,13 @@ blocks:
       - order-5
       - order-sm-4
     title: |
-      Conference.
+      Конференция.
     text: |
-      The first CosCon conference, “Political Representation in the Digital Age” was held in 2017. The topics were:
-      - Limits of representative democracy.
-      - Handling radically new practices.
-      - Civic technologies really changing politics.
+      Первая конференция CosCon по теме «Политическое представительство в цифровую эпоху» проводилась в 2017 году. Темы выступлений:
+      - Ограничения представительной демократии.
+      - Работа с радикально новыми политическими практиками.
+      - Гражданские технологии, реально влияющие на политику.
       { .bullet }
     button1st:
-      title: Contribute
+      title: Помощь проекту
       url: /contribute/

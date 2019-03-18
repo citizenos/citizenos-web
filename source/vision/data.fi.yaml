@@ -1,5 +1,5 @@
 ---
-title: Vision
+title: Visio
 blocks:
   start-img:
     class:
@@ -24,15 +24,15 @@ blocks:
       background-position: 10% 15%, 90% 90%
       background-size: 42px 42px, 102px 102px
     title: |
-      You have a voice and it needs to be heard.
+      Sinulla on ääni, ja sen tarvitsee tulla kuulluksi.
     text: |
-      We believe social change happens when people come together and decide on things.
+      Uskomme yhteiskunnallisen muutoksen tapahtuvan silloin, kun ihmiset kokoontuvat yhteen ja tekevät päätöksiä asioista.
 
-      - [Get involved](#individual)
-      - [Contribute to Citizen OS](#awareness)
+      – [Osallistu](#yksityinen)
+      – [Anna panoksesi Citizen OS:ään](#tietoisuus)
       { .arrow }
     button1st:
-      title: Sign up for news
+      title: Rekisteröidy vastaanottaaksesi uutisia
       url: '#subscribe'
   individual-img:
     class:
@@ -49,15 +49,15 @@ blocks:
       - order-3
       - order-sm-3
     title: |
-      One person can make a difference.
+      Yksikin ihminen voi vaikuttaa.
     text: |
-      Participatory democracy is individual participation in political decisions that affect your life.
+      Osallistuva demokratia on yksilön osallistumista poliittisiin päätöksiin, jotka vaikuttavat omaan elämääsi.
 
-      ## But there’s definitely strength in numbers.
+      ## Silti määrä on ehdottomasti voimaa.
 
-      Governments are increasingly trusting citizens to help solve difficult social issues.
+      Valtiot luottavat yhä enemmän kansalaisten apuun vaikeiden yhteiskunnallisten ongelmien ratkaisemisessa.
     button1st:
-      title: Use platform
+      title: Käytä alustaa
       url: https://app.citizenos.com
       target: _blank
   awareness:
@@ -70,9 +70,9 @@ blocks:
       background-size: 164px 164px, cover
       background-position: 10% 10%
     title: |
-      Together we can advance online participatory democracy.
+      Voimme yhdessä edistää osallistuvaa, verkkopohjaista demokratiaa.
     text: |
-      We are developing products that help people create a better future. Whether you are a developer, translator, researcher, designer, hactivist or journalist - join us!
+      Kehitämme tuotteita, jotka auttavat ihmisiä luomaan paremman tulevaisuuden. Olitpa ohjelmistonkehittäjä, kääntäjä, tutkija, suunnittelija, haktivisti tai toimittaja – liity joukkoomme!
     button1st:
-      title: Contribute
+      title: Osallistu
       url: /contribute/

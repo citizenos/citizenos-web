@@ -1,148 +1,148 @@
 1
 00:00:00,000 --> 00:00:03,160
-Citizen OS Platform Demo.
+Démonstration de la plateforme Citizen OS.
 
 2
 00:00:03,180 --> 00:00:06,600
-Hello and welcome to Citizenos.com.
+Bonjour et bienvenue sur Citizenos.com.
 
 3
 00:00:06,600 --> 00:00:09,440
-Click on the Use Platform button.
+Cliquez sur le bouton Utiliser la plateforme.
 
 4
 00:00:09,440 --> 00:00:12,120
-The platform is available in many languages,
+La plateforme est disponible dans de nombreuses langues,
 
 5
 00:00:12,120 --> 00:00:16,700
-so select your language and if it is not yet supported, please let us know.
+sélectionnez votre langue et si elle n'est pas encore prise en charge, veuillez nous le faire savoir.
 
 6
 00:00:16,700 --> 00:00:20,620
-These are all public topics that are being discussed right now.
+Ce sont tous des sujets en discussion en ce moment.
 
 7
 00:00:20,620 --> 00:00:24,950
-You can click on them, read them, but in order to
+Vous pouvez cliquer sur eux, les lire, mais pour
 
 8
 00:00:24,950 --> 00:00:29,960
-participate, you need to login using your Facebook or Google account,
+participer, vous devez vous connecter en utilisant votre compte Facebook ou Google,
 
 9
 00:00:29,960 --> 00:00:34,400
-the Estonian ID card, or by creating a new user account.
+une carte d'identité estonienne, ou en créant un nouveau compte utilisateur.
 
 10
 00:00:36,060 --> 00:00:38,840
-Once I have logged in,
+Une fois connecté,
 
 11
 00:00:38,840 --> 00:00:43,240
-this argument section becomes active and I can make my main statement here,
+cette section d'arguments devient active et je peux faire ma déclaration principale ici,
 
 12
 00:00:43,240 --> 00:00:51,660
-explain and prove it and post as a pro or con argument. To create your own topic,
+expliquer et le prouver et publier comme argument pour ou contre. Pour créer votre propre sujet,
 
 13
 00:00:51,660 --> 00:00:56,020
-go to create topic on the left hand menu.
+allez dans créer un sujet dans le menu de gauche.
 
 14
 00:00:56,020 --> 00:01:00,520
-And here you can edit the document with
+Et ici vous pouvez modifier le document avec
 
 15
 00:01:00,520 --> 00:01:04,920
-others at the same time.
+d'autres en même temps.
 
 16
 00:01:04,920 --> 00:01:09,900
-Inline comments are available while in editing mode.
+Les commentaires en ligne sont disponibles en mode édition.
 
 17
 00:01:09,900 --> 00:01:16,800
-Go to to settings to make the topic private or public add a Twitter hashtag,
+Allez dans les paramètres pour rendre le sujet privé ou public, ajouter un hashtag Twitter,
 
 18
 00:01:16,800 --> 00:01:21,520
-invite users to join or share the link.
+inviter les utilisateurs à rejoindre ou partager le lien.
 
 19
 00:01:22,720 --> 00:01:25,440
-To get an overview of your topics,
+Pour obtenir un aperçu de vos sujets,
 
 20
 00:01:25,440 --> 00:01:29,780
-go to my topics on the left-hand menu.
+allez dans mes sujets dans le menu de gauche.
 
 21
 00:01:32,200 --> 00:01:38,360
-Here you can assign editing rights to the users you invited.
+Ici, vous pouvez assigner les droits d'édition aux utilisateurs que vous avez invités.
 
 22
 00:01:39,380 --> 00:01:43,100
-If you want to discuss many topics with the same group of people,
+Si vous voulez discuter de nombreux sujets avec le même groupe de personnes,
 
 23
 00:01:43,100 --> 00:01:46,020
-you can create groups.
+vous pouvez créer des groupes.
 
 24
 00:01:47,340 --> 00:01:52,860
-Every time a new topic is created, members get an automatic email.
+Chaque fois qu'un nouveau sujet est créé, les membres reçoivent un courriel automatique.
 
 25
 00:01:52,860 --> 00:02:00,360
-If you need to vote to reach a decision, you can send the topic to vote.
+Si vous devez voter pour prendre une décision, vous pouvez envoyer le sujet au vote.
 
 26
 00:02:01,380 --> 00:02:06,000
-Now the topic can no longer be edited. You can choose between regular and
+Maintenant, le sujet ne peut plus être modifié. Vous pouvez choisir entre un vote
 
 27
 00:02:06,000 --> 00:02:12,640
-custom vote. And delegation of the vote is also possible, which means
+normal ou personnalisé. La délégation du vote est également possible, ce qui signifie
 
 28
 00:02:12,640 --> 00:02:17,700
-for this topic people can delegate their vote to another user.
+que pour ce sujet, les gens peuvent déléguer leur vote à un autre utilisateur.
 
 29
 00:02:19,060 --> 00:02:22,480
-You can also set a deadline for the voting.
+Vous pouvez également définir une date limite pour le vote.
 
 30
 00:02:24,620 --> 00:02:31,780
-While voting is open, you cannot see the results to not influence the outcome of the vote.
+Tant que le vote est ouvert, vous ne pouvez pas voir les résultats pour ne pas influencer le vote.
 
 31
 00:02:32,460 --> 00:02:36,160
-Once everyone has voted or the voting deadline has arrived,
+Une fois que tout le monde a voté ou que l'échéance de vote est atteinte,
 
 32
 00:02:36,160 --> 00:02:39,100
-you can send the topic to follow-up.
+vous pouvez envoyer le sujet en suivi.
 
 33
 00:02:39,100 --> 00:02:45,060
-Here, you can post brief updates on how the decision is moving along.
+Ici, vous pouvez publier de brèves mises à jour sur la façon dont la décision avance.
 
 34
 00:02:45,980 --> 00:02:48,800
-How much does Citizen OS cost?
+Combien coûte Citizen OS ?
 
 35
 00:02:48,800 --> 00:02:54,000
-It is free to use for everyone forever on your mobile, tablet or computer.
+Il est gratuit pour tout le monde pour toujours sur votre mobile, tablette ou ordinateur.
 
 36
 00:02:54,000 --> 00:02:55,120
-Thanks for watching.
+Merci d'avoir regardé cette vidéo.
 
 37
 00:02:55,120 --> 00:02:57,200
-Open Source code available on GitHub.
+Le code open source disponible sur GitHub.
 

@@ -10,18 +10,40 @@ blocks:
   team:
     title: |
       Команда
-    text: |
-      |  |  |
-      | --- | --- |
-      | Founder and Advisor: | Ahti Heinla, one of the founders of Skype and Starship Technologies. |
-      | Software Developers: | Mikk Andresen, Ilmar Türk |
-      | Research Associate: | Kadi Maria Vooglaid |
-      | Leader and Product Manager: | Margo Loor |
-      | Human Relations: | Ly Kasvandik |
-      | Localisation and Translation: | Oksana Naidjonova |
-      | Lawyer: | Kati Vellak |
-      | Front-end Developer: | Lennart Rikk |
-      | Marketing and Communications: | Liina Guiter |
-      | Partnerships: | Anett Linno |
-      | UX/UI Designers: | Kevin Crepin, Kristian Lember, Jannus Jaska |
-      | Contributors: | Henri Laupmaa, Liia Hänni, Hille Hinsberg, Eva Truuverk |
+    people:
+      - 
+        title: Консультант и основатель
+        name: Ахти Хейнла, один из основателей Skype и Starship Technologies.
+      - 
+        title: Разработчики ПО
+        name: Микк Андресен, Ильмар Тюрк
+      - 
+        title: Научный сотрудник
+        name: Кади Мария Вооглайд
+      - 
+        title: Руководитель и менеджер продукта
+        name: Марго Лоор
+      - 
+        title: HR
+        name: Ли Касвандик
+      - 
+        title: Локализация и перевод
+        name: Оксана Найденова
+      - 
+        title: Юрист
+        name: Кати Веллак
+      - 
+        title: Разработчик Front-end
+        name: Леннарт Рикк
+      - 
+        title: Маркетинг и связи с общественностью
+        name: Лийна Гуйтер
+      - 
+        title: Партнерство
+        name: Анетт Линно
+      - 
+        title: Дизайнеры UX/UI
+        name: Кевин Крепин, Кристиан Лембер, Яннус Яска
+      - 
+        title: Участники проекта
+        name: Хенри Лаупмаа, Лия Хянни, Хилле Хинсберг, Эва Трууверк

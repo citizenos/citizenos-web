@@ -49,15 +49,15 @@ blocks:
       - order-3
       - order-sm-3
     title: |
-      One person can make a difference.
+      Один голос может стать решающим.
     text: |
-      Participatory democracy is individual participation in political decisions that affect your life.
+      Представительная демократия — это концепция индивидуального участия в принятии политических решений, прямо влияющих на вашу жизнь.
 
-      ## But there’s definitely strength in numbers.
+      ## Чем нас больше — тем мы сильнее.
 
-      Governments are increasingly trusting citizens to help solve difficult social issues.
+      Правительственные органы все больше и больше доверяют гражданам принятие решения в непростых социальных вопросах.
     button1st:
-      title: Use platform
+      title: Открыть платформу
       url: https://app.citizenos.com
       target: _blank
   awareness:
@@ -70,9 +70,9 @@ blocks:
       background-size: 164px 164px, cover
       background-position: 10% 10%
     title: |
-      Together we can advance online participatory democracy.
+      Вместе мы сможем развивать представительную онлайн-демократию.
     text: |
-      We are developing products that help people create a better future. Whether you are a developer, translator, researcher, designer, hactivist or journalist - join us!
+      Мы разрабатываем продукты, которые помогают людям создать лучшее будущее. Если вы разработчик, переводчик, исследователь, дизайнер, активист или журналист — присоединяйтесь к нам!
     button1st:
-      title: Contribute
+      title: Помощь проекту
       url: /contribute/

@@ -1,5 +1,5 @@
 ---
-title: Team
+title: Tiimi
 blocks:
   team-img:
     class:
@@ -9,19 +9,41 @@ blocks:
       background: 'linear-gradient(180deg, #0EB7FE 0%, #0680FC 100%)'
   team:
     title: |
-      Team
-    text: |
-      |  |  |
-      | --- | --- |
-      | Founder and Advisor: | Ahti Heinla, one of the founders of Skype and Starship Technologies. |
-      | Software Developers: | Mikk Andresen, Ilmar Türk |
-      | Research Associate: | Kadi Maria Vooglaid |
-      | Leader and Product Manager: | Margo Loor |
-      | Human Relations: | Ly Kasvandik |
-      | Localisation and Translation: | Oksana Naidjonova |
-      | Lawyer: | Kati Vellak |
-      | Front-end Developer: | Lennart Rikk |
-      | Marketing and Communications: | Liina Guiter |
-      | Partnerships: | Anett Linno |
-      | UX/UI Designers: | Kevin Crepin, Kristian Lember, Jannus Jaska |
-      | Contributors: | Henri Laupmaa, Liia Hänni, Hille Hinsberg, Eva Truuverk |
+      Tiimi
+    people:
+      - 
+        title: Perustaja ja neuvonantaja
+        name: Ahti Heinla, yksi Skypen ja Starship Technologiesin perustajista.
+      - 
+        title: Ohjelmistojen kehittäjät
+        name: Mikk Andresen, Ilmar Türk
+      - 
+        title: Tutkimusapulainen
+        name: Kadi Maria Vooglaid
+      - 
+        title: Vetäjä ja tuotepäällikkö
+        name: Margo Loor
+      - 
+        title: Ihmissuhteet
+        name: Ly Kasvandik
+      - 
+        title: Lokalisointi ja kääntäminen
+        name: Oksana Naidjonova
+      - 
+        title: Asianajaja
+        name: Kati Vellak
+      - 
+        title: Edustakehittäjä
+        name: Lennart Rikk
+      - 
+        title: Markkinointi ja viestintä
+        name: Liina Guiter
+      - 
+        title: Yhteistyökumppanuudet
+        name: Anett Linno
+      - 
+        title: UX/UI-suunnittelijat
+        name: Kevin Crepin, Kristian Lember, Jannus Jaska
+      - 
+        title: Avustaneet osallistujat
+        name: Henri Laupmaa, Liia Hänni, Hille Hinsberg, Eva Truuverk

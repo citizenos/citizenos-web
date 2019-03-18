@@ -1,172 +1,172 @@
 1
 00:00:01,880 --> 00:00:04,640
-The way that the system currently functions
+Järjestelmän tämänhetkinen toimintatapa
 
 2
 00:00:04,640 --> 00:00:07,280
-is built on traditions and the way that things have
+perustuu perinteille ja siihen, miten asiat ovat
 
 3
 00:00:07,280 --> 00:00:08,140
-always been.
+aina olleet.
 
 4
 00:00:08,140 --> 00:00:12,300
-It's an online collaborative decision-making tool,
+Kyseessä on yhteistyöhön perustuva päätöksenteon työkalu,
 
 5
 00:00:12,300 --> 00:00:14,660
-which basically means that if you have
+eli lyhyesti sanoen, jos on
 
 6
 00:00:14,660 --> 00:00:18,820
-many people that want to discuss, propose arguments,
+monia ihmisiä, jotka haluavat keskustella, ehdottaa kannanottoja,
 
 7
 00:00:18,820 --> 00:00:22,660
-decide, vote on things together -
+tehdä päätöksiä, äänestää asioista yhdessä –
 
 8
 00:00:22,660 --> 00:00:27,060
-they no longer have to meet in the same physical space.
+niin heidän ei enää tarvitse kohdata samoissa konkreettisissa tiloissa.
 
 9
 00:00:28,380 --> 00:00:30,300
-Often that would be impossible
+Se olisi usein mahdotonta,
 
 10
 00:00:30,300 --> 00:00:32,200
-because there's too many of them or
+koska heitä on joko liian paljon tai
 
 11
 00:00:32,200 --> 00:00:34,880
-they are too geographically spread out.
+he ovat maantieteellisesti liian etäällä toisistaan.
 
 12
 00:00:35,820 --> 00:00:38,560
-We have been using Citizen OS
+Olemme käyttäneet Citizen OS:ää
 
 13
 00:00:38,580 --> 00:00:42,360
-for a simple organizational task, that
+yksinkertaiseen organisatoriseen tehtävään,
 
 14
 00:00:42,360 --> 00:00:45,800
-where we need our supervisory board members,
+kun on tarpeen, että valvontaelimemme jäsenet,
 
 15
 00:00:45,800 --> 00:00:48,480
-who are around the world sometimes,
+jotka ovat joskus eri puolilla maailmaa
 
 16
 00:00:48,480 --> 00:00:51,620
-and not always physically available,
+eivätkä aina henkilökohtaisesti tavoitettavissa,
 
 17
 00:00:51,620 --> 00:00:55,080
-to review our internal policy documents.
+arvioivat sisäisiä periaateasiakirjojamme.
 
 18
 00:00:55,760 --> 00:00:57,440
-The only way for us to move
+Pystymme edistymään kulttuurina
 
 19
 00:00:57,440 --> 00:01:00,200
-forward as a civilization is to learn to
+ja sivistyksenä ainoastaan, jos opimme
 
 20
 00:01:00,200 --> 00:01:04,160
-really make use of that new quality of connectedness.
+oikeasti hyödyntämään uudenlaista keskinäisessä yhteydessä olemista.
 
 21
 00:01:04,160 --> 00:01:05,800
-Citizen OS enables that.
+Citizen OS mahdollistaa sen.
 
 22
 00:01:05,820 --> 00:01:09,020
-You can bring a big number of people,
+Voit tuoda yhteen ison joukon ihmisiä,
 
 23
 00:01:09,020 --> 00:01:13,860
-you can decide on things, on petitions,
+tehdä päätöksiä asioista, adresseista,
 
 24
 00:01:13,860 --> 00:01:16,380
-on decisions, on documents.
+päätöksistä, asiakirjoista.
 
 25
 00:01:16,380 --> 00:01:19,440
-For a non-profit organization, for a civic movement,
+Voittoa tavoittelemattomille organisaatioille, kansalaisliikkeille,
 
 26
 00:01:19,440 --> 00:01:22,260
-for a village municipality.
+kyläkunnille.
 
 27
 00:01:22,260 --> 00:01:25,620
-Up to the level of a national government
+Valtionhallinnon tasolle asti
 
 28
 00:01:25,620 --> 00:01:28,760
-or even the citizens of a planet.
+tai jopa planeetan kansalaisille.
 
 29
 00:01:29,380 --> 00:01:31,900
-There's no upper limit
+Ylärajaa ei ole
 
 30
 00:01:31,900 --> 00:01:34,860
-other than, yeah, the planet.
+paitsi – niin no – planeetta.
 
 31
 00:01:35,120 --> 00:01:38,920
-We are a part of the democracy festivals network,
+Kuulumme demokratiatapahtumien verkostoon,
 
 32
 00:01:38,920 --> 00:01:40,920
-so that means that
+mikä merkitsee sitä, että
 
 33
 00:01:40,927 --> 00:01:45,941
-in our festival, the Opinion Festival, we hope to
+toivomme omien mielipidejuhliemme avulla
 
 34
 00:01:45,941 --> 00:01:49,952
-develop our opinion culture in Estonia.
+kehittävämme Viron mielipidekulttuuria.
 
 35
 00:01:49,952 --> 00:01:52,960
-Citizen OS could help us on a new
+Citizen OS voi auttaa meidät uudelle
 
 36
 00:01:52,960 --> 00:01:55,968
-level, to achieve better quality
+tasolle ja toteuttamaan laadukkaampia
 
 37
 00:01:55,968 --> 00:01:58,500
-discussions in Opinion Festival.
+keskusteluja mielipidejuhlilla.
 
 38
 00:01:58,620 --> 00:02:02,480
-It's a flavour of things to come. Or
+Se on maistiainen tulevaisuudesta. Tai
 
 39
 00:02:02,500 --> 00:02:06,740
-it shows us what technology enables
+se näyttää meille, mitä teknologia mahdollistaa
 
 40
 00:02:06,740 --> 00:02:09,640
-in the information society, where
+tietoyhteiskunnassa, jossa
 
 41
 00:02:09,640 --> 00:02:12,400
-you can actually get the participation of
+voi oikeasti saada osallistumaan
 
 42
 00:02:12,400 --> 00:02:14,460
-big, big numbers of people
+isoja, isoja ihmisjoukkoja,
 
 43
 00:02:14,460 --> 00:02:17,420
-to jointly come together and change things.
+jotka kohtaavat toisensa ja muuttavat asioita.
 
