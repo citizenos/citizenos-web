@@ -44,129 +44,129 @@ nad asuvad üksteisest väga kaugel.
 
 12
 00:00:35,820 --> 00:00:38,560
-We have been using Citizen OS
+Oleme kasutanud Citizen OS-i
 
 13
 00:00:38,580 --> 00:00:42,360
-for a simple organizational task, that
+lihtsate organisatsioonisiseste toimingute teostamiseks,
 
 14
 00:00:42,360 --> 00:00:45,800
-where we need our supervisory board members,
+mille puhul on vaja, et nõukogu liikmed,
 
 15
 00:00:45,800 --> 00:00:48,480
-who are around the world sometimes,
+kes vahel välismaal viibivad ja
 
 16
 00:00:48,480 --> 00:00:51,620
-and not always physically available,
+iga kord füüsiliselt kohal pole,
 
 17
 00:00:51,620 --> 00:00:55,080
-to review our internal policy documents.
+meie sise-eeskirjade dokumendid üle vaataksid.
 
 18
 00:00:55,760 --> 00:00:57,440
-The only way for us to move
+Ainus viis, kuidas saame
 
 19
 00:00:57,440 --> 00:01:00,200
-forward as a civilization is to learn to
+tsivilisatsioonina edasi liikuda, on õppida,
 
 20
 00:01:00,200 --> 00:01:04,160
-really make use of that new quality of connectedness.
+kuidas seda uut ühendatuse taset enda kasuks tööle panna.
 
 21
 00:01:04,160 --> 00:01:05,800
-Citizen OS enables that.
+Citizen OS võimaldab Teil seda teha.
 
 22
 00:01:05,820 --> 00:01:09,020
-You can bring a big number of people,
+Saate kaasata suure hulga inimesi,
 
 23
 00:01:09,020 --> 00:01:13,860
-you can decide on things, on petitions,
+langetada otsuseid asjade, petitsioonide,
 
 24
 00:01:13,860 --> 00:01:16,380
-on decisions, on documents.
+otsuste ja dokumentide kohta.
 
 25
 00:01:16,380 --> 00:01:19,440
-For a non-profit organization, for a civic movement,
+Mittetulundusühingu, rahvaliikumise,
 
 26
 00:01:19,440 --> 00:01:22,260
-for a village municipality.
+või külakeskkonna jaoks.
 
 27
 00:01:22,260 --> 00:01:25,620
-Up to the level of a national government
+Kuni riikliku valitsuse või
 
 28
 00:01:25,620 --> 00:01:28,760
-or even the citizens of a planet.
+isegi kõigi maailma elanike tasemeni välja.
 
 29
 00:01:29,380 --> 00:01:31,900
-There's no upper limit
+Ainus ülempiir on
 
 30
 00:01:31,900 --> 00:01:34,860
-other than, yeah, the planet.
+maailma rahvaarv.
 
 31
 00:01:35,120 --> 00:01:38,920
-We are a part of the democracy festivals network,
+Me kuulume demokraatiafestivalide võrgustikku,
 
 32
 00:01:38,920 --> 00:01:40,920
-so that means that
+mis tähendab, et
 
 33
 00:01:40,927 --> 00:01:45,941
-in our festival, the Opinion Festival, we hope to
+loodame oma festivalil, Arvamusfestivalil
 
 34
 00:01:45,941 --> 00:01:49,952
-develop our opinion culture in Estonia.
+arendada Eesti arvamuskultuuri.
 
 35
 00:01:49,952 --> 00:01:52,960
-Citizen OS could help us on a new
+Citizen OS võib viia meie tegevuse uuele
 
 36
 00:01:52,960 --> 00:01:55,968
-level, to achieve better quality
+tasemele ja aidata tõsta
 
 37
 00:01:55,968 --> 00:01:58,500
-discussions in Opinion Festival.
+Arvamusfestivali arutelude kvaliteeti.
 
 38
 00:01:58,620 --> 00:02:02,480
-It's a flavour of things to come. Or
+See annab aimdust, mis tulevikus saama hakkab. Teisisõnu,
 
 39
 00:02:02,500 --> 00:02:06,740
-it shows us what technology enables
+see näitab meile, mida infoühiskonnas
 
 40
 00:02:06,740 --> 00:02:09,640
-in the information society, where
+tehnoloogia abil saavutada võib ja
 
 41
 00:02:09,640 --> 00:02:12,400
-you can actually get the participation of
+kuidas on võimalik koondada
 
 42
 00:02:12,400 --> 00:02:14,460
-big, big numbers of people
+ülisuurt inimhulka, et
 
 43
 00:02:14,460 --> 00:02:17,420
-to jointly come together and change things.
+üheskoos muutusi esile kutsuda.
 

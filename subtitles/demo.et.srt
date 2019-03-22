@@ -1,148 +1,148 @@
 1
 00:00:00,000 --> 00:00:03,160
-Citizen OS Platform Demo.
+Platvormi Citizen OS demonstratsioon.
 
 2
 00:00:03,180 --> 00:00:06,600
-Hello and welcome to Citizenos.com.
+Tere tulemast kasutama saiti Citizenos.com.
 
 3
 00:00:06,600 --> 00:00:09,440
-Click on the Use Platform button.
+Vajutage nuppu Ava platvorm.
 
 4
 00:00:09,440 --> 00:00:12,120
-The platform is available in many languages,
+Platvormi saate kasutada erinevates keeltes.
 
 5
 00:00:12,120 --> 00:00:16,700
-so select your language and if it is not yet supported, please let us know.
+Valige enda jaoks sobivaim keel ja kui seda veel ei toetata, andke meile teada.
 
 6
 00:00:16,700 --> 00:00:20,620
-These are all public topics that are being discussed right now.
+Siin on kõik avalikud teemad, mille üle praegu arutletakse.
 
 7
 00:00:20,620 --> 00:00:24,950
-You can click on them, read them, but in order to
+Võite neil klõpsata ja neid lugeda, aga selleks, et arutelus
 
 8
 00:00:24,950 --> 00:00:29,960
-participate, you need to login using your Facebook or Google account,
+osaleda, peate sisse logima oma Facebooki või Google’i konto kaudu,
 
 9
 00:00:29,960 --> 00:00:34,400
-the Estonian ID card, or by creating a new user account.
+Eesti ID-kaardiga või luues uue kasutajakonto.
 
 10
 00:00:36,060 --> 00:00:38,840
-Once I have logged in,
+Pärast sisselogimist
 
 11
 00:00:38,840 --> 00:00:43,240
-this argument section becomes active and I can make my main statement here,
+muutub see argumentide jaotis aktiivseks ja saan siis oma põhiargumendi sisestada,
 
 12
 00:00:43,240 --> 00:00:51,660
-explain and prove it and post as a pro or con argument. To create your own topic,
+seda selgitada ja tõestada ning sisestatud argumendi poolt- või vastuargumendiks määrata. Uue teema loomiseks
 
 13
 00:00:51,660 --> 00:00:56,020
-go to create topic on the left hand menu.
+tehke vasakpoolses menüüs valik Loo teema.
 
 14
 00:00:56,020 --> 00:01:00,520
-And here you can edit the document with
+Ja siin saate dokumenti teiste
 
 15
 00:01:00,520 --> 00:01:04,920
-others at the same time.
+kasutajatega samaaegselt redigeerida.
 
 16
 00:01:04,920 --> 00:01:09,900
-Inline comments are available while in editing mode.
+Redigeerimisrežiimis töötades saate dokumendi sisse ka kommentaare lisada.
 
 17
 00:01:09,900 --> 00:01:16,800
-Go to to settings to make the topic private or public add a Twitter hashtag,
+Avage sätted, et muuta teema privaatseks või avalikuks, lisada Twitteri teemaviide või
 
 18
 00:01:16,800 --> 00:01:21,520
-invite users to join or share the link.
+kutsuda kasutajaid liituma või linki jagama.
 
 19
 00:01:22,720 --> 00:01:25,440
-To get an overview of your topics,
+Teemadest ülevaate saamiseks
 
 20
 00:01:25,440 --> 00:01:29,780
-go to my topics on the left-hand menu.
+avage vasakpoolse menüü jaotis Minu teemad.
 
 21
 00:01:32,200 --> 00:01:38,360
-Here you can assign editing rights to the users you invited.
+Siin saate endakutsutud kasutajatele õiguseid määrata.
 
 22
 00:01:39,380 --> 00:01:43,100
-If you want to discuss many topics with the same group of people,
+Kui soovite arutada ühe inimeste rühmaga paljusid erinevaid teemasid,
 
 23
 00:01:43,100 --> 00:01:46,020
-you can create groups.
+saate luua rühmasid.
 
 24
 00:01:47,340 --> 00:01:52,860
-Every time a new topic is created, members get an automatic email.
+Iga kord, kui luuakse uus teema, saavad rühma liikmed automaatse meilisõnumi.
 
 25
 00:01:52,860 --> 00:02:00,360
-If you need to vote to reach a decision, you can send the topic to vote.
+Kui soovite otsuse langetamiseks hääletuse korraldada, võite teema hääletusele panna.
 
 26
 00:02:01,380 --> 00:02:06,000
-Now the topic can no longer be edited. You can choose between regular and
+Seejärel ei saa teemat enam muuta. Võite valida tavalise ja
 
 27
 00:02:06,000 --> 00:02:12,640
-custom vote. And delegation of the vote is also possible, which means
+kohandatud hääletuse vahel. Hääli saab ka delegeerida – sel juhul
 
 28
 00:02:12,640 --> 00:02:17,700
-for this topic people can delegate their vote to another user.
+saavad inimesed volitada teise inimese kasutaja enda nimel hääletama.
 
 29
 00:02:19,060 --> 00:02:22,480
-You can also set a deadline for the voting.
+Samuti saate määrata hääletamistähtaja.
 
 30
 00:02:24,620 --> 00:02:31,780
-While voting is open, you cannot see the results to not influence the outcome of the vote.
+Selleks, et keegi ei saaks hääletustulemusi mõjutada, ei näe te tulemusi seni kuni hääletus kestab.
 
 31
 00:02:32,460 --> 00:02:36,160
-Once everyone has voted or the voting deadline has arrived,
+Kui kõik hääleõiguslikud isikud on hääletanud või hääletusperiood on lõppenud,
 
 32
 00:02:36,160 --> 00:02:39,100
-you can send the topic to follow-up.
+saate asuda tulemust ellu viima.
 
 33
 00:02:39,100 --> 00:02:45,060
-Here, you can post brief updates on how the decision is moving along.
+Selle etapi käigus saate postitada värskeid teateid selle kohta, kuidas otsuse elluviimine edeneb.
 
 34
 00:02:45,980 --> 00:02:48,800
-How much does Citizen OS cost?
+Kui palju platvormi Citizen OS kasutamine maksab?
 
 35
 00:02:48,800 --> 00:02:54,000
-It is free to use for everyone forever on your mobile, tablet or computer.
+See on ja jääb tasuta platvormiks, mida võib igaüks oma mobiilis, tahvelarvutis või arvutis kasutada.
 
 36
 00:02:54,000 --> 00:02:55,120
-Thanks for watching.
+Aitäh, et vaatasite!
 
 37
 00:02:55,120 --> 00:02:57,200
-Open Source code available on GitHub.
+Avatud lähtekoodi leiate GitHubis.
 
