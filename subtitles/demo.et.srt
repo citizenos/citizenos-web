@@ -88,7 +88,7 @@ Kui soovid arutada ühe inimeste rühmaga paljusid erinevaid teemasid,
 
 23
 00:01:43,100 --> 00:01:46,020
-saate luua rühmasid.
+saad luua rühmasid.
 
 24
 00:01:47,340 --> 00:01:52,860
@@ -96,11 +96,11 @@ Iga kord, kui luuakse uus teema, saavad rühma liikmed automaatse meilisõnumi.
 
 25
 00:01:52,860 --> 00:02:00,360
-Kui soovite otsuse langetamiseks hääletuse korraldada, võite teema hääletusele panna.
+Kui soovid otsuse langetamiseks hääletuse korraldada, võid teema hääletusele panna.
 
 26
 00:02:01,380 --> 00:02:06,000
-Seejärel ei saa teemat enam muuta. Võite valida tavalise ja
+Seejärel ei saa teemat enam muuta. Võid valida tavalise ja
 
 27
 00:02:06,000 --> 00:02:12,640
@@ -112,11 +112,11 @@ saavad inimesed volitada teise inimese kasutaja enda nimel hääletama.
 
 29
 00:02:19,060 --> 00:02:22,480
-Samuti saate määrata hääletamistähtaja.
+Samuti saad määrata hääletamistähtaja.
 
 30
 00:02:24,620 --> 00:02:31,780
-Selleks, et keegi ei saaks hääletustulemusi mõjutada, ei näe te tulemusi seni kuni hääletus kestab.
+Selleks, et keegi ei saaks hääletustulemusi mõjutada, ei näe Sa tulemusi seni kuni hääletus kestab.
 
 31
 00:02:32,460 --> 00:02:36,160
@@ -124,11 +124,11 @@ Kui kõik hääleõiguslikud isikud on hääletanud või hääletusperiood on l�
 
 32
 00:02:36,160 --> 00:02:39,100
-saate asuda tulemust ellu viima.
+saad asuda tulemust ellu viima.
 
 33
 00:02:39,100 --> 00:02:45,060
-Selle etapi käigus saate postitada värskeid teateid selle kohta, kuidas otsuse elluviimine edeneb.
+Selle etapi käigus saad postitada värskeid teateid selle kohta, kuidas otsuse elluviimine edeneb.
 
 34
 00:02:45,980 --> 00:02:48,800
@@ -140,9 +140,9 @@ See on ja jääb tasuta platvormiks, mida võib igaüks oma mobiilis, tahvelarvu
 
 36
 00:02:54,000 --> 00:02:55,120
-Aitäh, et vaatasite!
+Aitäh, et vaatasid!
 
 37
 00:02:55,120 --> 00:02:57,200
-Avatud lähtekoodi leiate GitHubis.
+Avatud lähtekoodi leiad GitHubis.
 
