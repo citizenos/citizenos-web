@@ -25,7 +25,7 @@ blocks:
     title: |
       Online-otsustuskeskkond rühmade ja kogukondade jaoks.
     text: |
-      Langetage argumenteeritud otsuseid! Määratlege arutelude struktuur ja järgige hääletuskuupäevasid. Koguge petitsioonidele toetushääli.
+      Langeta argumenteeritud otsuseid! Määratle arutelude struktuur ja järgi hääletuskuupäevasid. Kogu petitsioonidele toetushääli.
 
       - [Platform features](#features)
       - [How does it work](#how)
@@ -60,15 +60,15 @@ blocks:
         poster: /assets/images/flexibleformat-onlinemeetings.png
         title: Online-koosolekud
         text: |
-          Korraldage koosolekuid veebis. Igaüks saab jätta oma kommentaare ja hääletada talle sobival ajal.
+          Korralda koosolekuid veebis. Igaüks saab jätta oma kommentaare ja hääletada talle sobival ajal.
       gatheringideas:
         poster: /assets/images/flexibleformat-gatheringideas.png
         title: Ideede kogumine
         text: |
-          Kaasake otsustusprotsessi rohkem inimesi.
+          Kaasa otsustusprotsessi rohkem inimesi.
       widget:
         poster: /assets/images/flexibleformat-widget.png
-        title: Poolt- ja vastuargumentide esitamise koosolekud
+        title: Arutelud poolt- ja vastuargumentidega
         text: |
           Integreerige meie vidin oma saidile või platvormile, et viia läbi arutelusid poolt- ja vastuargumentide kaalumiseks.
   features-img:
@@ -130,12 +130,12 @@ blocks:
           url: https://app.citizenos.com
           target: _blank
       api:
-        title: Integreerige API
+        title: Integreeri API
         text: |
           Kasutage Citizen OS-i rakendusliidest alusena, millele luua oma kaubamärgiga online-otsustusplatvorm.
         subtext: Pakkumistepõhine
         button:
-          title: Võtke meiega ühendust
+          title: Võta meiega ühendust
           url: /contact/
       consult:
         title: Konsulteeri ja integreeri
@@ -143,7 +143,7 @@ blocks:
           Lase meie tiimil kogu töö ära teha – alates konsulteerimisest kuni süsteemi teie vajadustele vastavaks kohandamiseni.
         subtext: Pakkumistepõhine
         button:
-          title: Võtke meiega ühendust
+          title: Võta meiega ühendust
           url: /contact/
   case-study-2-img:
     class:
@@ -199,7 +199,7 @@ blocks:
       target: _blank
     blocks:
       topicsCreated:
-        title: arutelud
+        title: arutelusid
       votesCast:
         title: hääli
       groupsCreated:
