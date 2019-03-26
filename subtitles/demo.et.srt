@@ -8,7 +8,7 @@ Tere tulemast kasutama saiti Citizenos.com.
 
 3
 00:00:06,600 --> 00:00:09,440
-Vajutage nuppu Ava platvorm.
+Vajuta nuppu Ava platvorm.
 
 4
 00:00:09,440 --> 00:00:12,120
@@ -16,7 +16,7 @@ Platvormi saate kasutada erinevates keeltes.
 
 5
 00:00:12,120 --> 00:00:16,700
-Valige enda jaoks sobivaim keel ja kui seda veel ei toetata, andke meile teada.
+Vali enda jaoks sobivaim keel ja kui me seda veel ei toeta, anna meile sellest teada.
 
 6
 00:00:16,700 --> 00:00:20,620
@@ -24,11 +24,11 @@ Siin on kõik avalikud teemad, mille üle praegu arutletakse.
 
 7
 00:00:20,620 --> 00:00:24,950
-Võite neil klõpsata ja neid lugeda, aga selleks, et arutelus
+Võid neil klõpsata ja neid lugeda, aga selleks, et arutelus
 
 8
 00:00:24,950 --> 00:00:29,960
-osaleda, peate sisse logima oma Facebooki või Google’i konto kaudu,
+osaleda, pead sisse logima oma Facebooki või Google’i konto kaudu,
 
 9
 00:00:29,960 --> 00:00:34,400
@@ -48,11 +48,11 @@ seda selgitada ja tõestada ning sisestatud argumendi poolt- või vastuargumendi
 
 13
 00:00:51,660 --> 00:00:56,020
-tehke vasakpoolses menüüs valik Loo teema.
+tee vasakpoolses menüüs valik Loo teema.
 
 14
 00:00:56,020 --> 00:01:00,520
-Ja siin saate dokumenti teiste
+Ja siin saad dokumenti teiste
 
 15
 00:01:00,520 --> 00:01:04,920
@@ -60,11 +60,11 @@ kasutajatega samaaegselt redigeerida.
 
 16
 00:01:04,920 --> 00:01:09,900
-Redigeerimisrežiimis töötades saate dokumendi sisse ka kommentaare lisada.
+Redigeerimisrežiimis töötades saad dokumendi sisse ka kommentaare lisada.
 
 17
 00:01:09,900 --> 00:01:16,800
-Avage sätted, et muuta teema privaatseks või avalikuks, lisada Twitteri teemaviide või
+Ava sätted, et muuta teema privaatseks või avalikuks, lisada Twitteri teemaviide või
 
 18
 00:01:16,800 --> 00:01:21,520
@@ -76,15 +76,15 @@ Teemadest ülevaate saamiseks
 
 20
 00:01:25,440 --> 00:01:29,780
-avage vasakpoolse menüü jaotis Minu teemad.
+ava vasakpoolse menüü jaotis Minu teemad.
 
 21
 00:01:32,200 --> 00:01:38,360
-Siin saate endakutsutud kasutajatele õiguseid määrata.
+Siin saad endakutsutud kasutajatele õiguseid määrata.
 
 22
 00:01:39,380 --> 00:01:43,100
-Kui soovite arutada ühe inimeste rühmaga paljusid erinevaid teemasid,
+Kui soovid arutada ühe inimeste rühmaga paljusid erinevaid teemasid,
 
 23
 00:01:43,100 --> 00:01:46,020
