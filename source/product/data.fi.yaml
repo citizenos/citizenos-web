@@ -27,10 +27,10 @@ blocks:
     text: |
       Tee kannanottoihin perustuvia päätöksiä. Jäsennä keskustelut ja toimita äänestyksesi määräajassa. Kerää ääniä adresseihin.
 
-      – [Alustan ominaisuudet](#ominaisuudet)
-      – [Miten se toimii](#miten)
-      – [Paljonko se maksaa](#vaihtoehdot)
-      – [Tapaustutkimukset](#tapaustutkimukset)
+      – [Alustan ominaisuudet](#features)
+      – [Miten se toimii](#how)
+      – [Paljonko se maksaa](#options)
+      – [Tapaustutkimukset](#case-studies)
       { .arrow }
     button1st:
       title: Rekisteröidy vastaanottaaksesi uutisia
