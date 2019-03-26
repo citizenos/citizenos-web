@@ -28,8 +28,8 @@ blocks:
     text: |
       Uskomme yhteiskunnallisen muutoksen tapahtuvan silloin, kun ihmiset kokoontuvat yhteen ja tekevät päätöksiä asioista.
 
-      – [Osallistu](#yksityinen)
-      – [Anna panoksesi Citizen OS:ään](#tietoisuus)
+      – [Osallistu](#individual)
+      – [Anna panoksesi Citizen OS:ään](#awareness)
       { .arrow }
     button1st:
       title: Rekisteröidy vastaanottaaksesi uutisia
