@@ -12,7 +12,7 @@ alati tehtud on.
 
 4
 00:00:08,140 --> 00:00:12,300
-See on veebipõhinw ühiste otsuste langetamise tööriist,
+See on veebipõhine ühiste otsuste langetamise tööriist,
 
 5
 00:00:12,300 --> 00:00:14,660
@@ -80,11 +80,11 @@ kuidas seda uut ühendatuse taset enda kasuks tööle panna.
 
 21
 00:01:04,160 --> 00:01:05,800
-Citizen OS võimaldab Teil seda teha.
+Citizen OS võimaldab Sul seda teha.
 
 22
 00:01:05,820 --> 00:01:09,020
-Saate kaasata suure hulga inimesi,
+Saad kaasata suure hulga inimesi,
 
 23
 00:01:09,020 --> 00:01:13,860
