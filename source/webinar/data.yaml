@@ -1,0 +1,36 @@
+title: Webinar
+
+
+blocks:
+    header:
+        title: 'Free Webinar: Making better decisions in your team and network via technological connectedness'
+
+    text:
+        text: |
+            ## What?
+
+            A great collective decision needs two components: an argument-based discussion and a diversity of opinions. How to collect all opinions and vote for the best outcome when people are living and working far away from each other? In this webinar we are going to discuss:
+
+            - How to build argument-based decision-making culture in your organization
+            - Scientific proof for larger groups making better decisions.
+            - Using technological connectedness to empower your network or community - an example based on the Citizen OS platform.
+
+            [Save your seat](){data-toggle: 'modal', data-target: '#join-popup'} for the webinar now or leave your contacts and we will send you the recording!
+
+    join:
+        title: When?
+        date: Thursday April 11, 2019
+        time: 12:00 GMT
+        how: How to join?
+        button:
+            title: Save my seat
+            url: '#join'
+
+    form:
+        title: Save my seat! Citizen OS free webinar on Thursday, April 11 at 12:00 GMT
+        email: Email Address
+        subscribe: Subscribe
+
+    footer:
+        text: |
+            [Citizen OS](/) is an Open Source social enterprise.

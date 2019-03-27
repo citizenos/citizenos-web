@@ -42,13 +42,14 @@ html(lang=self.locale)
                 _jipt.push(['project', 'citizenos-web']);
             script(src='//cdn.crowdin.com/jipt/jipt.js')
     body
-        include navigation.pug
+        block body
+            include navigation.pug
 
-        .content
-            block header
-            block content
+            .content
+                block header
+                block content
 
-        include footer.pug
+            include footer.pug
 
         script(src='https://downloads.mailchimp.com/js/signup-forms/popup/unique-methods/embed.js', data-dojo-config='usePlainJson: true, isDebug: false')
         script(src='/assets/js/bootstrap.min.js')
