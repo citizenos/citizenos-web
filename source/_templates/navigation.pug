@@ -58,7 +58,7 @@ nav.navbar.fixed-top.bg-white.py-0.navbar-expand-lg
 
 script.
     $(function () {
-        $(document).click(function () {
-            $('.navbar-collapse').collapse('hide');
+        $(document).on('click touchstart', function () {
+            $('.collapse').collapse('hide')
         })
     })
