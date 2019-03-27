@@ -45,7 +45,8 @@ block body
     .container-fluid
         #header.row.py-5
             .col-12.text-center
-                img.mb-3(src='/assets/images/citizenos-logo-negative.png', height=50, width=270, alt='Citizen OS logo')
+                a.navbar-brand(href=self.rootUrl)
+                    img.mb-3(src='/assets/images/citizenos-logo-negative.png', height=50, width=270, alt='Citizen OS logo')
             .col-12.col-lg-8.offset-lg-2.text-center
                 if self.blocks && self.blocks.header
                     h1= self.blocks.header.title
@@ -70,7 +71,8 @@ block body
 
         #footer.row.py-5
             .col-12.text-center
-                img.mb-2(src='/assets/images/citizenos-logo.png', height=37, width=201, alt='Citizen OS logo')
+                a.navbar-brand(href=self.rootUrl)
+                    img.mb-2(src='/assets/images/citizenos-logo.png', height=37, width=201, alt='Citizen OS logo')
                 if self.blocks && self.blocks.footer
                     +markdown(self.blocks.footer.text)
 
