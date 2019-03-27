@@ -8,7 +8,7 @@ Tere tulemast kasutama saiti Citizenos.com.
 
 3
 00:00:06,600 --> 00:00:09,440
-Vajutage nuppu Ava platvorm.
+Vajuta nuppu Ava platvorm.
 
 4
 00:00:09,440 --> 00:00:12,120
@@ -16,7 +16,7 @@ Platvormi saate kasutada erinevates keeltes.
 
 5
 00:00:12,120 --> 00:00:16,700
-Valige enda jaoks sobivaim keel ja kui seda veel ei toetata, andke meile teada.
+Vali enda jaoks sobivaim keel ja kui me seda veel ei toeta, anna meile sellest teada.
 
 6
 00:00:16,700 --> 00:00:20,620
@@ -24,11 +24,11 @@ Siin on kõik avalikud teemad, mille üle praegu arutletakse.
 
 7
 00:00:20,620 --> 00:00:24,950
-Võite neil klõpsata ja neid lugeda, aga selleks, et arutelus
+Võid neil klõpsata ja neid lugeda, aga selleks, et arutelus
 
 8
 00:00:24,950 --> 00:00:29,960
-osaleda, peate sisse logima oma Facebooki või Google’i konto kaudu,
+osaleda, pead sisse logima oma Facebooki või Google’i konto kaudu,
 
 9
 00:00:29,960 --> 00:00:34,400
@@ -48,11 +48,11 @@ seda selgitada ja tõestada ning sisestatud argumendi poolt- või vastuargumendi
 
 13
 00:00:51,660 --> 00:00:56,020
-tehke vasakpoolses menüüs valik Loo teema.
+tee vasakpoolses menüüs valik Loo teema.
 
 14
 00:00:56,020 --> 00:01:00,520
-Ja siin saate dokumenti teiste
+Ja siin saad dokumenti teiste
 
 15
 00:01:00,520 --> 00:01:04,920
@@ -60,11 +60,11 @@ kasutajatega samaaegselt redigeerida.
 
 16
 00:01:04,920 --> 00:01:09,900
-Redigeerimisrežiimis töötades saate dokumendi sisse ka kommentaare lisada.
+Redigeerimisrežiimis töötades saad dokumendi sisse ka kommentaare lisada.
 
 17
 00:01:09,900 --> 00:01:16,800
-Avage sätted, et muuta teema privaatseks või avalikuks, lisada Twitteri teemaviide või
+Ava sätted, et muuta teema privaatseks või avalikuks, lisada Twitteri teemaviide või
 
 18
 00:01:16,800 --> 00:01:21,520
@@ -76,19 +76,19 @@ Teemadest ülevaate saamiseks
 
 20
 00:01:25,440 --> 00:01:29,780
-avage vasakpoolse menüü jaotis Minu teemad.
+ava vasakpoolse menüü jaotis Minu teemad.
 
 21
 00:01:32,200 --> 00:01:38,360
-Siin saate endakutsutud kasutajatele õiguseid määrata.
+Siin saad endakutsutud kasutajatele õiguseid määrata.
 
 22
 00:01:39,380 --> 00:01:43,100
-Kui soovite arutada ühe inimeste rühmaga paljusid erinevaid teemasid,
+Kui soovid arutada ühe inimeste rühmaga paljusid erinevaid teemasid,
 
 23
 00:01:43,100 --> 00:01:46,020
-saate luua rühmasid.
+saad luua rühmasid.
 
 24
 00:01:47,340 --> 00:01:52,860
@@ -96,11 +96,11 @@ Iga kord, kui luuakse uus teema, saavad rühma liikmed automaatse meilisõnumi.
 
 25
 00:01:52,860 --> 00:02:00,360
-Kui soovite otsuse langetamiseks hääletuse korraldada, võite teema hääletusele panna.
+Kui soovid otsuse langetamiseks hääletuse korraldada, võid teema hääletusele panna.
 
 26
 00:02:01,380 --> 00:02:06,000
-Seejärel ei saa teemat enam muuta. Võite valida tavalise ja
+Seejärel ei saa teemat enam muuta. Võid valida tavalise ja
 
 27
 00:02:06,000 --> 00:02:12,640
@@ -112,11 +112,11 @@ saavad inimesed volitada teise inimese kasutaja enda nimel hääletama.
 
 29
 00:02:19,060 --> 00:02:22,480
-Samuti saate määrata hääletamistähtaja.
+Samuti saad määrata hääletamistähtaja.
 
 30
 00:02:24,620 --> 00:02:31,780
-Selleks, et keegi ei saaks hääletustulemusi mõjutada, ei näe te tulemusi seni kuni hääletus kestab.
+Selleks, et keegi ei saaks hääletustulemusi mõjutada, ei näe Sa tulemusi seni kuni hääletus kestab.
 
 31
 00:02:32,460 --> 00:02:36,160
@@ -124,11 +124,11 @@ Kui kõik hääleõiguslikud isikud on hääletanud või hääletusperiood on l�
 
 32
 00:02:36,160 --> 00:02:39,100
-saate asuda tulemust ellu viima.
+saad asuda tulemust ellu viima.
 
 33
 00:02:39,100 --> 00:02:45,060
-Selle etapi käigus saate postitada värskeid teateid selle kohta, kuidas otsuse elluviimine edeneb.
+Selle etapi käigus saad postitada värskeid teateid selle kohta, kuidas otsuse elluviimine edeneb.
 
 34
 00:02:45,980 --> 00:02:48,800
@@ -140,9 +140,9 @@ See on ja jääb tasuta platvormiks, mida võib igaüks oma mobiilis, tahvelarvu
 
 36
 00:02:54,000 --> 00:02:55,120
-Aitäh, et vaatasite!
+Aitäh, et vaatasid!
 
 37
 00:02:55,120 --> 00:02:57,200
-Avatud lähtekoodi leiate GitHubis.
+Avatud lähtekoodi leiad GitHubis.
 

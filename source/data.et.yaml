@@ -2,7 +2,7 @@
 header:
   title: Otsustame koos! Parim platvorm tiimide või kogukondadega petitsioonide loomiseks ja otsuste langetamiseks.
   text: |
-    Muutke dokumente samaaegselt teiste kasutajatega, koostage aruteluplaane, kaasake tuhandeid või miljoneid kasutajaid, seadke hääletustähtaegu ja kogu petitsioonidele toetushääli.
+    Muuda dokumente samaaegselt teiste kasutajatega, koosta aruteluplaane, kaasa tuhandeid või miljoneid kasutajaid, sea hääletustähtaegu ja kogu petitsioonidele toetushääli.
 
     See on avatud lähtekoodiga sotsiaalne algatus.
 
@@ -106,19 +106,19 @@ blocks:
     text: |
       { #news-items }
     button1st:
-      title: Lugege blogi
+      title: Loe blogi
       url: https://medium.com/citizenos
-    readMore: Lugege täpsemalt
+    readMore: Loe täpsemalt
   team:
     class:
       - order-7
       - my-5
     title: |
-      Aidake meil välja töötada avatud lähtekoodiga tooteid ja levitada osalusdemokraatiat.
+      Aita meil välja töötada avatud lähtekoodiga tooteid ja levitada osalusdemokraatiat.
     text: |
       Kui olete tarkvaraarendaja, tõlkija, teadlane, disainer, häktivist või ajakirjanik, liituge meie tiimiga!
     button1st:
-      title: Andke oma panus
+      title: Anna oma panus
       url: /contribute/
   partners:
     class:

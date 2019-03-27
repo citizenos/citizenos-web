@@ -28,8 +28,8 @@ blocks:
     text: |
       Usume, et sotsiaalsed muutused saavad alguse sellest, kui inimesed kokku tulevad ja üheskoos otsuseid langetavad.
 
-      - [Liituge aruteluga](#individuaalne)
-      - [Panustage Citizen OS-i arengusse](#teadlikkus)
+      - [Liitu aruteluga](#individual)
+      - [Panusta Citizen OS-i arengusse](#awareness)
       { .arrow }
     button1st:
       title: Telli uudised
@@ -72,7 +72,7 @@ blocks:
     title: |
       Üheskoos suudame arendada online-osalusdemokraatiat.
     text: |
-      Arendame tooteid, mis aitavad inimestel luua paremat tulevikku. Kas olete arendaja, tõlkija, teadlane, disainer, häkkimishuviline või ajakirjanik? Liituge meie tiimiga!
+      Arendame tooteid, mis aitavad inimestel luua paremat tulevikku. Kas oled arendaja, tõlkija, teadlane, disainer, häkkimishuviline või ajakirjanik? Liitu meie tiimiga!
     button1st:
       title: Panusta
       url: /contribute/
