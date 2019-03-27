@@ -15,7 +15,7 @@ blocks:
             - Scientific proof for larger groups making better decisions.
             - Using technological connectedness to empower your network or community - an example based on the Citizen OS platform.
 
-            [Save your seat](){data-toggle: 'modal', data-target: '#join-popup'} for the webinar now or leave your contacts and we will send you the recording!
+            [Save your seat](){data-toggle=modal data-target=#join-popup} for the webinar now or [leave your contacts](mailto:anett@citizenos.com) and we will send you the recording!
 
     join:
         title: When?
