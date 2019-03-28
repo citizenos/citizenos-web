@@ -30,7 +30,7 @@ blocks:
     #     title: |
     #         Volunteers needed
     #     text: |
-    #         [Back to career opportunities](/careers){ .close-career .arrow-left .mb-5 }
+    #         [Back to career opportunities](/careers/){ .close-career .arrow-left .mb-5 }
     #         Would you like to help make people's voices heard .. in Nigeria? Citizen OS is an online decision-making platform and [citizenvoice.ng](https://citizenvoice.ng) would like to integrate the API to protect people against environmental harms in Nigeria. If you are available, please contact Thomas at <info@citizenvoice.ng>!
     #
     #         #### What you’ll be doing:
