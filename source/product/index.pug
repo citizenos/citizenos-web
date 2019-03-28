@@ -3,6 +3,12 @@ extends /_templates/blocks.pug
 
 append stylus
     :stylus
+        #video-popup
+            .modal-content
+                background #000000
+                border none
+                border-radius 0
+
         #options
             h4
                 font-size 26px
@@ -60,6 +66,12 @@ append stylus
 
 
 append content
+    #video-popup.modal.fade(tabindex='-1', role='dialog')
+        .modal-dialog.modal-dialog-centered.modal-lg(role='document')
+            .modal-content
+                .modal-body.embed-responsive.embed-responsive-16by9
+                    iframe.embed-responsive-item(width='560', height='315', src='', frameborder='0', allow='autoplay; encrypted-media', allowfullscreen='')
+
     if self.blocks.flexibleformat && self.blocks.flexibleformat.blocks
         #flexibleformat-blocks.d-none
             .row.mt-5
@@ -136,6 +148,14 @@ append script
             $('#stats').removeClass('col-sm-6')
             $('#stats .block-text h2').after($('#stats-blocks').html())
             $('#stats-blocks').remove()
+
+            $('a[data-target="#video-popup"]').click(function () {
+                $('#video-popup iframe').attr('src', $(this).attr('href'))
+            })
+
+            $('#video-popup').on('hide.bs.modal', function () {
+                $('#video-popup iframe').attr('src', '')
+            })
 
             //- $('#how-videos').append($('#how-carousel'))
             //-

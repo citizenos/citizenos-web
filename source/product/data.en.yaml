@@ -7,11 +7,12 @@ blocks:
             - order-0
             - order-sm-1
         style:
-            min-height: 400px
             background-color: '#FFF1AD'
-            background-image: url(/assets/images/product-start.png), url(/assets/images/bubble-dots.png)
-            background-position: right center, 0 10%
-            background-size: 90%, 350px 350px
+            background-image: url(/assets/images/bubble-dots.png), url(/assets/images/bubble-orange.svg)
+            background-position: 0% 20%, 70% 10%
+            background-size: 350px 350px, 100px 100px
+        text: |
+            [![](/assets/images/product-start.png){ .img-fluid }](https://www.youtube.com/embed/UC44qCCIixE?rel=0&showinfo=0&modestbranding=1&autoplay=1){data-toggle=modal data-target=#video-popup}
 
     decision:
         class:
