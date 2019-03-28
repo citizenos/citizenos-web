@@ -160,7 +160,7 @@ blocks:
       background-position: 80% 5%
       background-size: 122px 122px
     title: |
-      Kaasusekirjeldus: Eesti Vabariigi kodanike ja valitsuse vaheline suhtlus
+      Kasutajakogemus: Eesti Vabariigi kodanike ja valitsuse vaheline suhtlus
     text: |
       Platvormi Citizen OS avatud lähtekoodi kasutati kodanikualgatuse platvotmi [www.rahvaalgatus.ee](https://www.rahvaalgatus.ee) seadistamiseks. Sellel saidil saab luua petitsioone, koguda neile toetushääli ja saata petitsioone Parlamenti.
   case-study-1-img:
@@ -178,7 +178,7 @@ blocks:
       background-position: 10% 5%, 90% 90%
       background-size: 85px 85px, 55px 55px
     title: |
-      Kaasusekirjeldus: suhtlusulatuse laiendamine.
+      Kasutajakogemus: suhtlusulatuse laiendamine.
     text: |
       Arvamusfestival(https://www.arvamusfestival.ee/en) integreeris platvormi Citizen OS argumenteerimisvidina, mille abil said online arutelud festivalil püstitatud teemadel jätkuda ka pärast kaht festivalipäeva.
   stats:
