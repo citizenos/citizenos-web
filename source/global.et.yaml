@@ -3,11 +3,11 @@ siteTitle: Citizen OS
 navigation:
   product:
     title: Toode
-    url: /product/
+    url: /et/product/
     class: product
   vision:
     title: Visioon
-    url: /vision/
+    url: /et/vision/
     class: vision
   research:
     title: Uurimused
