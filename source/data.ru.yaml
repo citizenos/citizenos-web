@@ -131,4 +131,4 @@ blocks:
     title: |
       Наши партнеры и сторонники
     text: |
-      ![Partners](/assets/images/frontpage-partners.png){ .w-100 }
+      ![Partners](/assets/images/frontpage-partners.png){ .mt-4 .w-100 }
