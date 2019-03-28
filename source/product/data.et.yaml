@@ -137,7 +137,7 @@ blocks:
         subtext: Pakkumistepõhine
         button:
           title: Võta meiega ühendust
-          url: /contact/
+          url: /et/contact/
       consult:
         title: Konsulteeri ja integreeri
         text: |
@@ -145,7 +145,7 @@ blocks:
         subtext: Pakkumistepõhine
         button:
           title: Võta meiega ühendust
-          url: /contact/
+          url: /et/contact/
   case-study-2-img:
     class:
       - order-7
