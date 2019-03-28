@@ -91,7 +91,7 @@ blocks:
       Oma toodete arendamiseks teeme koostööd e-demokraatiat uurivate teadlastega.
     button1st:
       title: Teave teadusuuringute kohta
-      url: /research/
+      url: /et/research/
   news:
     class:
       - order-6
@@ -119,7 +119,7 @@ blocks:
       Kui olete tarkvaraarendaja, tõlkija, teadlane, disainer, häktivist või ajakirjanik, liituge meie tiimiga!
     button1st:
       title: Anna oma panus
-      url: /contribute/
+      url: /et/contribute/
   partners:
     class:
       - order-8
