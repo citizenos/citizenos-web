@@ -191,8 +191,10 @@ append script
             $('#news .block-text').removeClass('offset-sm-2')
             $('#news .block-text').addClass('col-sm-10')
             $('#news .block-text').addClass('offset-sm-1')
-            $('#news .block-text h2').after($('#news-blocks').html())
-            $('#news-blocks').remove()
+            if ('#{ self.locale }' === 'en') {
+                $('#news .block-text h2').after($('#news-blocks').html())
+                $('#news-blocks').remove()
+            }
 
             $('#team .block-text').addClass('offset-sm-2')
             $('#team .block-text').removeClass('col-sm-10')
