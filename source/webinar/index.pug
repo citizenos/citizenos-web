@@ -81,7 +81,7 @@ block body
 
     #join-popup.modal.fade(tabindex='-1', role='dialog')
         .modal-dialog.modal-dialog-centered.modal-lg(role='document')
-            if self.blocks.form
+            if self.blocks && self.blocks.form
                 #mc_embed_signup
                     form#mc-embedded-subscribe-form.validate(action='https://citizenos.us19.list-manage.com/subscribe/post?u=ab576406496d96d9a8387879f&id=0804e75bba', method='post', name='mc-embedded-subscribe-form', target='_blank', novalidate='')
                         .modal-content

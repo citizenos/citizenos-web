@@ -1,0 +1,26 @@
+extends /_templates/main.pug
+
+
+append stylus
+    :stylus
+        td
+            p:last-of-type
+                margin-bottom 0
+
+block body
+    .container
+        .m-5.text-center
+            a.navbar-brand(href=self.rootUrl)
+                img(src='/assets/images/citizenos-logo.png', height=50, width=270, alt='Citizen OS logo')
+
+        table.table.table-striped.mb-5
+            thead
+                tr
+                    th Term
+                    th Description
+            tbody
+                each g in self.glossary
+                    tr
+                        th.text-nowrap= g.term
+                        td
+                            +markdown(g.description)
