@@ -3,15 +3,21 @@ extends /_templates/main.pug
 
 append stylus
     :stylus
-        td
-            p:last-of-type
-                margin-bottom 0
+        .table
+            th
+            td
+                border none
+
+                p:last-of-type
+                    margin-bottom 0
 
 block body
     .container
         .m-5.text-center
             a.navbar-brand(href=self.rootUrl)
                 img(src='/assets/images/citizenos-logo.png', height=50, width=270, alt='Citizen OS logo')
+            h1.mt-3
+                strong= self.title
 
         table.table.table-striped.mb-5
             thead
