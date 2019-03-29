@@ -3,15 +3,15 @@ siteTitle: Citizen OS
 navigation:
   product:
     title: Toode
-    url: /product/
+    url: /et/product/
     class: product
   vision:
     title: Visioon
-    url: /vision/
+    url: /et/vision/
     class: vision
   research:
     title: Uurimused
-    url: /research/
+    url: /et/research/
     class: research
   blog:
     title: Blogi
@@ -39,19 +39,19 @@ footer:
       links:
         company:
           title: Organisatsioon
-          url: /company/
+          url: /et/company/
         careers:
           title: Vabad töökohad
-          url: /careers/
+          url: /et/careers/
         contribute:
           title: Panusta
-          url: /contribute/
+          url: /et/contribute/
         team:
           title: Meeskond
-          url: /team/
+          url: /et/team/
         contact:
           title: Kontakt
-          url: /contact/
+          url: /et/contact/
     community:
       title: Kogukond
       links:

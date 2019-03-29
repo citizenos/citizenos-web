@@ -6,11 +6,12 @@ blocks:
       - crwdns18182:0crwdne18182:0
       - crwdns18184:0crwdne18184:0
     style:
-      min-height: crwdns18186:0crwdne18186:0
       background-color: 'crwdns18188:0crwdne18188:0'
-      background-image: crwdns18190:0crwdne18190:0
-      background-position: crwdns18192:0crwdne18192:0
-      background-size: crwdns18194:0crwdne18194:0
+      background-image: crwdns19132:0crwdne19132:0
+      background-position: crwdns19134:0crwdne19134:0
+      background-size: crwdns19136:0crwdne19136:0
+    text: |
+      crwdns19138:0{ .img-fluid }crwdne19138:0
   decision:
     class:
       - crwdns18196:0crwdne18196:0

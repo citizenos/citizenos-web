@@ -11,7 +11,7 @@ blocks:
       background-position: 0 10%, 75% 20%
       background-size: 350px 350px, 65px 65px
     text: |
-      ![](/assets/images/vision-start.png){ .img-fluid }
+      [![](/assets/images/vision-start.png){ .img-fluid }](https://www.youtube.com/embed/hDLWbQQAk8g?rel=0&showinfo=0&modestbranding=1&autoplay=1){data-toggle=modal data-target=#video-popup}
   start:
     class:
       - order-1
@@ -53,7 +53,7 @@ blocks:
     text: |
       Osalusdemokraatia tähendab sekkumist nende poliitiliste otsuste tegemisse, mis mõjutavad Sinu elu.
 
-      # Kuid kahtlemata peitub numbrites jõud.
+      ## Kuid kahtlemata peitub numbrites jõud.
 
       Valitsused usaldavad keerukate sotsiaalsete probleemide lahendamise üha sagedamini kodanikele.
     button1st:
@@ -75,4 +75,4 @@ blocks:
       Arendame tooteid, mis aitavad inimestel luua paremat tulevikku. Kas oled arendaja, tõlkija, teadlane, disainer, häkkimishuviline või ajakirjanik? Liitu meie tiimiga!
     button1st:
       title: Panusta
-      url: /contribute/
+      url: /et/contribute/
