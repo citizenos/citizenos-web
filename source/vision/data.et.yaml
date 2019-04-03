@@ -11,7 +11,7 @@ blocks:
       background-position: 0 10%, 75% 20%
       background-size: 350px 350px, 65px 65px
     text: |
-      [![](/assets/images/vision-start.png){ .img-fluid }](https://www.youtube.com/embed/hDLWbQQAk8g?rel=0&showinfo=0&modestbranding=1&autoplay=1){data-toggle=modal data-target=#video-popup}
+      [![](/assets/images/vision-start.png){ .img-fluid }](https://www.youtube.com/embed/hDLWbQQAk8g?rel=0&showinfo=0&modestbranding=1&autoplay=1&cc_load_policy=1&cc_lang_pref=en){data-toggle=modal data-target=#video-popup}
   start:
     class:
       - order-1
@@ -58,7 +58,7 @@ blocks:
       Valitsused usaldavad keerukate sotsiaalsete probleemide lahendamise üha sagedamini kodanikele.
     button1st:
       title: Ava platvorm
-      url: https://app.citizenos.com
+      url: https://app.citizenos.com/et/
       target: _blank
   awareness:
     class:
