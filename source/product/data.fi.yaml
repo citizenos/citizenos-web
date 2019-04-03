@@ -11,7 +11,7 @@ blocks:
       background-position: 0% 20%, 70% 10%
       background-size: 350px 350px, 100px 100px
     text: |
-      [![](/assets/images/product-start.png){ .img-fluid }](https://www.youtube.com/embed/UC44qCCIixE?rel=0&showinfo=0&modestbranding=1&autoplay=1){data-toggle=modal data-target=#video-popup}
+      [![](/assets/images/product-start.png){ .img-fluid }](https://www.youtube.com/embed/UC44qCCIixE?rel=0&showinfo=0&modestbranding=1&autoplay=1&cc_load_policy=1&cc_lang_pref=en){data-toggle=modal data-target=#video-popup}
   decision:
     class:
       - order-1
@@ -128,7 +128,7 @@ blocks:
         subtext: Aina ilmainen!
         button:
           title: Käytä alustaa
-          url: https://app.citizenos.com
+          url: https://app.citizenos.com/fi/
           target: _blank
       api:
         title: Integroi API
@@ -137,7 +137,7 @@ blocks:
         subtext: Tarjouspohjainen
         button:
           title: Ota yhteyttä
-          url: /contact/
+          url: /fi/contact/
       consult:
         title: Konsultoi ja integroi
         text: |
@@ -145,7 +145,7 @@ blocks:
         subtext: Tarjouspohjainen
         button:
           title: Ota yhteyttä
-          url: /contact/
+          url: /fi/contact/
   case-study-2-img:
     class:
       - order-7
@@ -196,7 +196,7 @@ blocks:
       Verkon päätöksentekoyhteisömme kasvaa.
     button1st:
       title: Käytä alustaa
-      url: https://app.citizenos.com
+      url: https://app.citizenos.com/fi/
       target: _blank
     blocks:
       topicsCreated:
