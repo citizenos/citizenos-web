@@ -11,7 +11,7 @@ blocks:
       background-position: crwdns19134:0crwdne19134:0
       background-size: crwdns19136:0crwdne19136:0
     text: |
-      crwdns19138:0{ .img-fluid }crwdne19138:0
+      crwdns19176:0{ .img-fluid }crwdne19176:0
   decision:
     class:
       - crwdns18196:0crwdne18196:0

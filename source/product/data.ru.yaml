@@ -11,7 +11,7 @@ blocks:
       background-position: 0% 20%, 70% 10%
       background-size: 350px 350px, 100px 100px
     text: |
-      [![](/assets/images/product-start.png){ .img-fluid }](https://www.youtube.com/embed/UC44qCCIixE?rel=0&showinfo=0&modestbranding=1&autoplay=1){data-toggle=modal data-target=#video-popup}
+      [![](/assets/images/product-start.png){ .img-fluid }](https://www.youtube.com/embed/UC44qCCIixE?rel=0&showinfo=0&modestbranding=1&autoplay=1&cc_load_policy=1&cc_lang_pref=ru){data-toggle=modal data-target=#video-popup}
   decision:
     class:
       - order-1
@@ -128,7 +128,7 @@ blocks:
         subtext: Бесплатно навсегда!
         button:
           title: Открыть платформу
-          url: https://app.citizenos.com
+          url: https://app.citizenos.com/ru/
           target: _blank
       api:
         title: Интеграция API
@@ -137,7 +137,7 @@ blocks:
         subtext: Зависит от проекта
         button:
           title: Свяжитесь с нами
-          url: /contact/
+          url: /ru/contact/
       consult:
         title: Консультирование и интеграция
         text: |
@@ -145,7 +145,7 @@ blocks:
         subtext: Зависит от проекта
         button:
           title: Свяжитесь с нами
-          url: /contact/
+          url: /ru/contact/
   case-study-2-img:
     class:
       - order-7
@@ -196,7 +196,7 @@ blocks:
       Наше онлайн-сообщество принимающих решения людей расширяется.
     button1st:
       title: Открыть платформу
-      url: https://app.citizenos.com
+      url: https://app.citizenos.com/ru/
       target: _blank
     blocks:
       topicsCreated:

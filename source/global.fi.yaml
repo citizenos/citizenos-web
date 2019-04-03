@@ -3,15 +3,15 @@ siteTitle: Citizen OS
 navigation:
   product:
     title: Tuote
-    url: /product/
+    url: /fi/product/
     class: product
   vision:
     title: Visio
-    url: /vision/
+    url: /fi/vision/
     class: vision
   research:
     title: Tutkimus
-    url: /research/
+    url: /fi/research/
     class: research
   blog:
     title: Blogi
@@ -29,7 +29,7 @@ languages:
 selectLanguage: Kielet
 platformLink:
   title: Käytä alustaa
-  url: https://app.citizenos.com
+  url: https://app.citizenos.com/fi/
 mobileMenu: VALIKKO
 footer:
   text: Citizen OS on sosiaalinen avoimen lähdekoodin yritys.
@@ -39,19 +39,19 @@ footer:
       links:
         company:
           title: Yritys
-          url: /company/
+          url: /fi/company/
         careers:
           title: Urat
-          url: /careers/
+          url: /fi/careers/
         contribute:
           title: Osallistu
-          url: /contribute/
+          url: /fi/contribute/
         team:
           title: Tiimi
-          url: /team/
+          url: /fi/team/
         contact:
           title: Yhteydenotto
-          url: /contact/
+          url: /fi/contact/
     community:
       title: Yhteisö
       links:

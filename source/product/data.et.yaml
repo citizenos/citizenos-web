@@ -11,7 +11,7 @@ blocks:
       background-position: 0% 20%, 70% 10%
       background-size: 350px 350px, 100px 100px
     text: |
-      [![](/assets/images/product-start.png){ .img-fluid }](https://www.youtube.com/embed/UC44qCCIixE?rel=0&showinfo=0&modestbranding=1&autoplay=1){data-toggle=modal data-target=#video-popup}
+      [![](/assets/images/product-start.png){ .img-fluid }](https://www.youtube.com/embed/UC44qCCIixE?rel=0&showinfo=0&modestbranding=1&autoplay=1&cc_load_policy=1&cc_lang_pref=et){data-toggle=modal data-target=#video-popup}
   decision:
     class:
       - order-1
@@ -128,7 +128,7 @@ blocks:
         subtext: Igavesti tasuta!
         button:
           title: Ava platvorm
-          url: https://app.citizenos.com
+          url: https://app.citizenos.com/et/
           target: _blank
       api:
         title: Integreeri API
@@ -196,7 +196,7 @@ blocks:
       Meie online-otsustuskeskkond kasvab järjepidevalt.
     button1st:
       title: Ava platvorm
-      url: https://app.citizenos.com
+      url: https://app.citizenos.com/et/
       target: _blank
     blocks:
       topicsCreated:

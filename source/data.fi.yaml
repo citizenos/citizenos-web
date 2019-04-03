@@ -11,10 +11,10 @@ header:
     Alusta on tällä hetkellä saatavilla 10 kielellä.
   play:
     title: Johdanto
-    url: https://www.youtube.com/embed/hDLWbQQAk8g?rel=0&showinfo=0&modestbranding=1&autoplay=1
+    url: https://www.youtube.com/embed/hDLWbQQAk8g?rel=0&showinfo=0&modestbranding=1&autoplay=1&cc_load_policy=1&cc_lang_pref=fi
   demo:
     title: Demo
-    url: https://www.youtube.com/embed/UC44qCCIixE?rel=0&showinfo=0&modestbranding=1&autoplay=1
+    url: https://www.youtube.com/embed/UC44qCCIixE?rel=0&showinfo=0&modestbranding=1&autoplay=1&cc_load_policy=1&cc_lang_pref=fi
 blocks:
   opensource-img:
     class:
@@ -40,7 +40,7 @@ blocks:
       Uskomme, että verkossa tapahtuvan osallistuvan demokratian välineiden tulisi olla kaikkien käytettävissä ilmaiseksi.
     button1st:
       title: Tietoja tuotteesta
-      url: /product/
+      url: /fi/product/
   democracy-img:
     class:
       - order-3
@@ -67,7 +67,7 @@ blocks:
       Uskomme, että voidaksemme kehittyä kulttuurina ja sivistyksenä meidän tulee kokoontua yhteen globaalisti tekemään päätöksiä asioista.
     button1st:
       title: Tietoja visiosta
-      url: /vision/
+      url: /fi/vision/
     button2nd:
   research-img:
     class:
@@ -93,7 +93,7 @@ blocks:
       Teemme yhteistyötä digitaalisen demokratian tutkijoiden kanssa kehittääksemme tuotteitamme.
     button1st:
       title: Tietoja tutkimuksesta
-      url: /research/
+      url: /fi/research/
   news:
     class:
       - order-6
@@ -121,7 +121,7 @@ blocks:
       Olitpa ohjelmistonkehittäjä, kääntäjä, tutkija, suunnittelija, haktivisti tai toimittaja – liity joukkoomme!
     button1st:
       title: Osallistu
-      url: /contribute/
+      url: /fi/contribute/
   partners:
     class:
       - order-8
