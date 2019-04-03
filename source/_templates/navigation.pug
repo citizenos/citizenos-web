@@ -25,8 +25,8 @@ nav.navbar.fixed-top.bg-white.py-0.navbar-expand-lg
                         if self.path === nav.url
                             span.sr-only (current)
 
-            li.nav-item.mx-md-4
-                a.nav-link.py-md-4.px-md-0(href='#', data-toggle='modal', data-target='#select-language')= self.languages[self.locale]
+            li.nav-item.mx-md-3
+                a.nav-link.py-3.py-md-4.px-md-0.text-center(href='#', data-toggle='modal', data-target='#select-language')= self.languages[self.locale]
                     svg.ml-2.mb-1(width='15px', height='15px', viewBox='0 0 15 15', version='1.1', xmlns='http://www.w3.org/2000/svg', xmlns:xlink='http://www.w3.org/1999/xlink')
                         g(stroke='none', stroke-width='1', fill='none', fill-rule='evenodd', opacity='0.7')
                             g(transform='translate(-697.000000, -464.000000)', fill='#252525', fill-rule='nonzero')
@@ -47,7 +47,7 @@ nav.navbar.fixed-top.bg-white.py-0.navbar-expand-lg
             .modal-body.container-fluid
                 .row
                     each url, l in self.otherLocalePaths
-                        a.select-language.col-6.py-1(href=url + '/', data-language=l)= self.languages[l] || l
+                        a.select-language.col-12.col-sm-6.py-3.py-sm-1(href=(url === '/' ? url : url + '/'), data-language=l)= self.languages[l] || l
 
 script.
     $(function () {
