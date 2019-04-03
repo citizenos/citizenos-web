@@ -11,7 +11,7 @@ blocks:
       background-position: 0 10%, 75% 20%
       background-size: 350px 350px, 65px 65px
     text: |
-      [![](/assets/images/vision-start.png){ .img-fluid }](https://www.youtube.com/embed/hDLWbQQAk8g?rel=0&showinfo=0&modestbranding=1&autoplay=1){data-toggle=modal data-target=#video-popup}
+      [![](/assets/images/vision-start.png){ .img-fluid }](https://www.youtube.com/embed/hDLWbQQAk8g?rel=0&showinfo=0&modestbranding=1&autoplay=1&cc_load_policy=1&cc_lang_pref=en){data-toggle=modal data-target=#video-popup}
   start:
     class:
       - order-1
@@ -58,7 +58,7 @@ blocks:
       Valtiot luottavat yhä enemmän kansalaisten apuun vaikeiden yhteiskunnallisten ongelmien ratkaisemisessa.
     button1st:
       title: Käytä alustaa
-      url: https://app.citizenos.com
+      url: https://app.citizenos.com/fi/
       target: _blank
   awareness:
     class:
@@ -75,4 +75,4 @@ blocks:
       Kehitämme tuotteita, jotka auttavat ihmisiä luomaan paremman tulevaisuuden. Olitpa ohjelmistonkehittäjä, kääntäjä, tutkija, suunnittelija, haktivisti tai toimittaja – liity joukkoomme!
     button1st:
       title: Osallistu
-      url: /contribute/
+      url: /fi/contribute/
