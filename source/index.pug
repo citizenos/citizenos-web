@@ -173,10 +173,10 @@ append script
                 window.localStorage.setItem('language',  browserLocale)
 
                 if (browserLocale !== pageLocale) {
-                    //- window.location.replace(getOtherLocalePath(browserLocale))
+                    window.location.replace(getOtherLocalePath(browserLocale) + '/')
                 }
             } else if (savedLocale !== pageLocale) {
-                //- window.location.replace(getOtherLocalePath(savedLocale))
+                window.location.replace(getOtherLocalePath(savedLocale) + '/')
             }
 
             $('#video').removeClass('col-sm-6')
