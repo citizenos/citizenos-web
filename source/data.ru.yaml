@@ -11,10 +11,10 @@ header:
     Платформа поддерживает 10 языков.
   play:
     title: Введение
-    url: https://www.youtube.com/embed/hDLWbQQAk8g?rel=0&showinfo=0&modestbranding=1&autoplay=1
+    url: https://www.youtube.com/embed/hDLWbQQAk8g?rel=0&showinfo=0&modestbranding=1&autoplay=1&cc_load_policy=1&cc_lang_pref=en
   demo:
     title: Демо-видео
-    url: https://www.youtube.com/embed/UC44qCCIixE?rel=0&showinfo=0&modestbranding=1&autoplay=1
+    url: https://www.youtube.com/embed/UC44qCCIixE?rel=0&showinfo=0&modestbranding=1&autoplay=1&cc_load_policy=1&cc_lang_pref=en
 blocks:
   opensource-img:
     class:
@@ -40,7 +40,7 @@ blocks:
       Мы считаем, что инструменты онлайн-демократии должны быть бесплатными для каждого.
     button1st:
       title: О продукте
-      url: /product/
+      url: /ru/product/
   democracy-img:
     class:
       - order-3
@@ -67,7 +67,7 @@ blocks:
       Мы считаем, что единственный способ человечества построить великую цивилизацию — это глобальное объединение всех и каждого для того, чтобы принимать решения. Вместе.
     button1st:
       title: О концепции
-      url: /vision/
+      url: /ru/vision/
     button2nd:
   research-img:
     class:
@@ -93,7 +93,7 @@ blocks:
       Мы сотрудничаем с исследованиями в области электронной демократии, чтобы непрерывно развивать наш продукт.
     button1st:
       title: Об исследованиях
-      url: /research/
+      url: /ru/research/
   news:
     class:
       - order-6
@@ -121,7 +121,7 @@ blocks:
       Если вы разработчик, переводчик, исследователь, дизайнер, хактивист или журналист — присоединяйтесь к нам!
     button1st:
       title: Поддержать проект
-      url: /contribute/
+      url: /ru/contribute/
   partners:
     class:
       - order-8
