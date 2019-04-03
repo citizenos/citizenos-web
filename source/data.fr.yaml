@@ -11,10 +11,10 @@ header:
     La plate-forme est actuellement disponible en 10 langues.
   play:
     title: Introduction
-    url: https://www.youtube.com/embed/hDLWbQQAk8g?rel=0&showinfo=0&modestbranding=1&autoplay=1
+    url: https://www.youtube.com/embed/hDLWbQQAk8g?rel=0&showinfo=0&modestbranding=1&autoplay=1&cc_load_policy=1&cc_lang_pref=en
   demo:
     title: Démo
-    url: https://www.youtube.com/embed/UC44qCCIixE?rel=0&showinfo=0&modestbranding=1&autoplay=1
+    url: https://www.youtube.com/embed/UC44qCCIixE?rel=0&showinfo=0&modestbranding=1&autoplay=1&cc_load_policy=1&cc_lang_pref=en
 blocks:
   opensource-img:
     class:
@@ -40,7 +40,7 @@ blocks:
       Nous pensons que les outils pour la démocratie participative en ligne devraient être libres d'utilisation pour tous.
     button1st:
       title: À propos du produit
-      url: /product/
+      url: /fr/product/
   democracy-img:
     class:
       - order-3
@@ -67,7 +67,7 @@ blocks:
       Nous pensons que la voie à suivre en tant que civilisation est de se réunir au niveau mondial et de décider des choses.
     button1st:
       title: À propos de la vision
-      url: /vision/
+      url: /fr/vision/
     button2nd:
   research-img:
     class:
@@ -93,7 +93,7 @@ blocks:
       Nous collaborons avec des chercheurs en e-démocratie pour contribuer au développement de nos produits.
     button1st:
       title: À propos de la recherche
-      url: /research/
+      url: /fr/research/
   news:
     class:
       - order-6
@@ -121,7 +121,7 @@ blocks:
       Que vous soyez développeur, traducteur, chercheur, designer, hacktiviste ou journaliste - rejoignez-nous !
     button1st:
       title: Contribuer
-      url: /contribute/
+      url: /fr/contribute/
   partners:
     class:
       - order-8
