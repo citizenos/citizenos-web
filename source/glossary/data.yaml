@@ -15,25 +15,13 @@ glossary:
         description: |
             An argument is like a comment or a post in any online discussion space. However, in Citizen OS users are invited to contribute more substantial opinions called arguments. An argument consists of a statement and supportive reasoning and examples to support that statement. An argument can be either for (pro) or against (con) the proposal in the topic. Use of arguments is a characteristic of a debate.
     -
-        term: attachment
-        description: |
-            Attachment is a file that is attached to a topic, similar to an e-mail attachment, to better illustrate the point of the topic. An attachment can be added or removed. It can come from the user's computer or from a cloud storage website.
-    -
         term: author
         description: |
-            Every topic in Citizen OS has a creator, authors and users. Authors are users, who have edited the topic text. Users, who only vote on a topic or post arguments about a topic are NOT authors.
-    -
-        term: change
-        description: |
-            During the topic creation phase, users with topic editing rights can select any part of text in the topic body and suggest a change to it in the pop-up window, which opens when text is selected. The change proposal is only visible within the same group of admin & moderators.
+            Every topic in Citizen OS has a creator, authors and users. Authors are users, who have edited the topic body text. Users, who only vote on a topic or post arguments in a topic are NOT authors.
     -
         term: Citizen OS
         description: |
             Citizen OS is an e-democracy and decisionmaking platform. It comprises a web service, an open source code and an open API. It is a proper name and as such, non-translatable. OS is an abbreviation of operating system.
-    -
-        term: collaborate
-        description: |
-            A preferred term (over "involve, include, bring together") for creating something together with other Citizen OS users - such as collaborating on a new topic on Citizen OS platform.
     -
         term: comment
         description: |
@@ -49,19 +37,15 @@ glossary:
     -
         term: eID
         description: |
-            Or "e-identification": the link between the online identity and the physical person behind it is verified to a high degree of certainty (as opposed to "social login", which allows you to log in via social networks and doesn't necessarily prove you're the one who you claim to be).
+            Also known as "hard ID" and "e-identification": the link between the online identity and the physical person behind it is verified to a high degree of certainty (as opposed to "social login", which allows you to log in via social networks and doesn't necessarily prove you're the one who you claim to be).
 
             This will require the user to identify themselves using an official electronic ID, such as the Estonian ID-card/mobile-ID/smart-ID.
     -
-        term: email
-        description: |
-            Electronic mail - a method of exchanging messages ("mail") between people using electronic devices.
-    -
         term: follow-up
         description: |
-            Follow-up in this case means a stage for the topic. A topic in Citizen OS can be in three different stages: in progress, in voting or in follow-up. Follow-up stage is the final stage, where users can post updates about how the decision, which was created and voted upon, is being put into force. Hence, users "follow up" on the implementation of the decision.
+            Follow-up means a stage for the topic to be in. A topic in Citizen OS can be in one of three different stages: in progress, in voting or in follow-up. Follow-up stage is the final stage, where users can post updates about how the decision, which was created and voted upon, is being put into force. Hence, authors can (should) "follow-up" on the implementation of the decision.
 
-            For example, "Community proposals were discussed at the local municipality." could be an event/update, following up on how a decision made via Citizen OS is being implemented.
+            For example, "Community proposals were discussed at the local municipality" could be an event/update, following up on how a decision made via Citizen OS is being implemented.
     -
         term: group
         description: |
@@ -69,7 +53,7 @@ glossary:
     -
         term: in progress
         description: |
-            "In progress" in this case means a status/stage of the topic. A topic in Citizen OS can be in three different stages: in progress, in voting or in follow-up. "In progress" stage is the first stage, where users can discuss the proposal (comment, offer alternatives, edit wording etc.) that will later be voted on.
+            "In progress" is a status/stage of the topic. A topic in Citizen OS can be in three different stages: in progress, in voting or in follow-up. "In progress" stage is the first stage, where users can discuss the proposal (comment, offer alternatives, edit wording etc.) that will later be voted on.
     -
         term: invite link
         description: |
@@ -85,19 +69,15 @@ glossary:
     -
         term: Opinion Festival
         description: |
-            The Opinion Festival takes place every August in Central Estonia. It's a meeting place for all layers of society, giving a platform for different world views. Its mission is to improve debate culture and civic education.
+            The Opinion Festival takes place every August in Central Estonia. It's a meeting place for all layers of society, providing a platform for different world views. Its mission is to improve debate culture and civic education.
     -
         term: pID
         description: |
-            Personal Identification Code - a unique, government-issued alphanumeric sequence, used to identify individual people. Not all countries have one, and the formats vary. Also, it may be called different names. In some countries, the social security code functions as the PID.
+            Personal Identification Code - a unique, government-issued alphanumeric sequence, used to identify individual people. Not all countries have one, and the formats vary. Also, it may be called different names. In some countries, the social security code functions as the pID.
     -
-        term: pin
+        term: pin (verb)
         description: |
             A user can "pin" a topic to be able to easily spot it in the "My topics" section, as well as as sort all topics by either status or whether it's pinned
-    -
-        term: Privacy Policy
-        description: |
-            A statement or a legal document (in privacy law), that discloses some or all of the ways a party gathers, uses, discloses, and manages a customer or client's data.
     -
         term: private topic
         description: |
@@ -105,11 +85,7 @@ glossary:
     -
         term: public topic
         description: |
-            A topic in Citizen OS can be either public or private. Public topics show up on Citizen OS main opening page. Anyone can read them, even without logging into the system. All users, after logging in, can comment on them. Editing rights can be limited to admins. By default, any new topic is private, but can be made public by topic admins.
-    -
-        term: reply
-        description: |
-            Users can write pro/con arguments under a topic, and other users can then leave replies to these arguments. Please do not translate as "comment".
+            A topic in Citizen OS can be either public or private. Public topics show up on Citizen OS main opening page. Anyone can read them, even without logging into the system. All users (after logging in) can comment on them. Editing rights can be limited to admins. By default, any new topic is private, but can be made public by topic admins.
     -
         term: social login
         description: |
@@ -121,18 +97,10 @@ glossary:
     -
         term: topic
         description: |
-            Question, proposal or document, that is being discussed and decided on on COS platform.
+            Question, proposal or document, that is being discussed and decided on, on COS platform.
     -
-        term: update
+        term: vote (noun)
         description: |
-            Academic research suggests, that following up on decisions is important for voter satisfaction. Citizen OS therefore has special features for tracking, how the decision created via Citizen OS is being implemented. It's called the "Follow-up stage", where a user can add updates about how the decision or document is being put into force. Thus, an update is an implementation action. For example, "Community proposals were discussed at the local municipality." could be an update, implementing a decision made in Citizen OS.
-    -
-        term: user
-        description: |
-            A user is a physical person registered to use the Citizen OS system. Users can have multiple access rights, so if an admin rights user deletes something, it will still show up as "a user deleted". User is, therefore, a generic term and does not imply the level of rights.
-    -
-        term: vote
-        description: |
-            A vote is a user's decision, given via Citizen OS, on the topic in question. Each user has one or more votes per question, depending on the voting settings. Voting settings are defined by the admin who moves the topic into voting stage. A vote in Citizen OS is similar to the vote a citizen has in elections in a democratic country or in a shareholder's meeting.
+            A vote is a user's decision, given via Citizen OS, on the topic in question. Each user may have one or more votes per question, depending on the voting settings/options. Voting settings are defined by the admin who moves the topic into voting stage. A vote in Citizen OS is similar to the vote a citizen has in elections in a democratic country or in a shareholder's meeting.
 
             Voting means making and indicating a decision by the user via Citizen OS on the topic in question. To vote in Citizen OS means to choose one or more responses from a list of voting options. Options may be "Yes", "No", "Neutral" or other, customised phrases.   "
