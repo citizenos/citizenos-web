@@ -31,7 +31,7 @@ blocks:
             Make argument-based decisions. Structure discussions and meet your voting deadlines. Collect votes for petitions.
 
             - [Platform features](#features)
-            - [How does it work](#how)
+            - [How does it work](#options)
             - [How much does it cost](#options)
             - [Case studies](#case-studies)
             { .arrow }
@@ -179,14 +179,14 @@ blocks:
             The Citizen OS open source code was used to set up the citizen initiatives platform [www.rahvaalgatus.ee](https://www.rahvaalgatus.ee), where petitions can be started, votes can be collected and sent to the Parliament.
 
 
-    case-study-1-img:
+    case-study-img:
         class:
             - order-9
             - order-sm-10
         text: |
-            ![](/assets/images/product-case-study-1.jpg){ .img-fluid .box-shadow }
+            ![](/assets/images/product-case-study.jpg){ .img-fluid .box-shadow }
 
-    case-study-1:
+    case-study:
         class:
             - order-10
             - order-sm-9
