@@ -24,12 +24,12 @@ blocks:
     title: |
       Prise de décision en ligne dans les équipes et les communautés.
     text: |
-      Make argument-based decisions. Structure discussions and meet your voting deadlines. Collect votes for petitions.
+      Prenez des décisions fondées sur des arguments. Structurez les discussions et respectez vos délais de vote. Collectez des votes pour des pétitions.
 
-      - [Platform features](#features)
-      - [How does it work](#options)
-      - [How much does it cost](#options)
-      - [Case studies](#case-studies)
+      - [Fonctionnalités de la plateforme](#features)
+      - [Comment ça marche](#options)
+      - [Combien ça coûte](#options)
+      - [Études de cas](#case-studies)
       { .arrow }
     button1st:
       title: S'inscrire aux actualités
@@ -172,9 +172,9 @@ blocks:
       background-position: 10% 5%, 90% 90%
       background-size: 85px 85px, 55px 55px
     title: |
-      Case Study: Widening the Scope of Communication.
+      Étude de cas : généraliser la portée de la communication.
     text: |
-      [Opinion Festival](https://www.arvamusfestival.ee/en) integrated the Citizen OS argumentation widget, allowing online discussions on the festival topics beyond the two days of the physical festival.
+      [Opinion Festival](https://www.arvamusfestival.ee/fr) a intégré le widget d'argumentation de Citizen OS, permettant des discussions en ligne sur les sujets du festival au-delà des deux jours du festival physique.
   stats:
     class:
       - order-10
