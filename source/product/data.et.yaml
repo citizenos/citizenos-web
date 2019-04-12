@@ -24,10 +24,10 @@ blocks:
     title: |
       Online-otsustuskeskkond rühmade ja kogukondade jaoks.
     text: |
-      Make argument-based decisions. Structure discussions and meet your voting deadlines. Collect votes for petitions.
+      Langeta argumenteeritud otsuseid! Määratle arutelude struktuur ja järgi hääletuskuupäevasid. Kogu petitsioonidele toetushääli.
 
       - [Platform features](#features)
-      - [How does it work](#options)
+      - [How does it work](#how)
       - [How much does it cost](#options)
       - [Case studies](#case-studies)
       { .arrow }
@@ -172,9 +172,9 @@ blocks:
       background-position: 10% 5%, 90% 90%
       background-size: 85px 85px, 55px 55px
     title: |
-      Case Study: Widening the Scope of Communication.
+      Kasutajakogemus: suhtlusulatuse laiendamine.
     text: |
-      [Opinion Festival](https://www.arvamusfestival.ee/en) integrated the Citizen OS argumentation widget, allowing online discussions on the festival topics beyond the two days of the physical festival.
+      Arvamusfestival(https://www.arvamusfestival.ee/en) integreeris platvormi Citizen OS argumenteerimisvidina, mille abil said online arutelud festivalil püstitatud teemadel jätkuda ka pärast kaht festivalipäeva.
   stats:
     class:
       - order-10
