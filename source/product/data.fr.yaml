@@ -3,8 +3,7 @@ title: Produit
 blocks:
   decision-img:
     class:
-      - order-0
-      - order-sm-1
+      - order-1
     style:
       background-color: '#FFF1AD'
       background-image: url(/assets/images/bubble-dots.png), url(/assets/images/bubble-orange.svg)
@@ -14,8 +13,7 @@ blocks:
       [![](/assets/images/product-start.png){ .img-fluid }](https://www.youtube.com/embed/UC44qCCIixE?rel=0&showinfo=0&modestbranding=1&autoplay=1&cc_load_policy=1&cc_lang_pref=fr){data-toggle=modal data-target=#video-popup}
   decision:
     class:
-      - order-1
-      - order-sm-0
+      - order-0
     style:
       padding-top: 5rem
       padding-bottom: 5rem
@@ -26,12 +24,12 @@ blocks:
     title: |
       Prise de décision en ligne dans les équipes et les communautés.
     text: |
-      Prenez des décisions fondées sur des arguments. Structurez les discussions et respectez vos délais de vote. Collectez des votes pour des pétitions.
+      Make argument-based decisions. Structure discussions and meet your voting deadlines. Collect votes for petitions.
 
-      - [Fonctionnalités de la plateforme](#features)
-      - [Comment ça marche](#how)
-      - [Combien ça coûte](#options)
-      - [Études de cas](#case-studies)
+      - [Platform features](#features)
+      - [How does it work](#options)
+      - [How much does it cost](#options)
+      - [Case studies](#case-studies)
       { .arrow }
     button1st:
       title: S'inscrire aux actualités
@@ -74,8 +72,7 @@ blocks:
           Intégrez notre widget dans votre site ou votre plate-forme pour mener une discussion basée sur des arguments pour et contre.
   features-img:
     class:
-      - order-2
-      - order-sm-2
+      - order-3
     style:
       background-color: '#F7F7F7'
       background-image: url(/assets/images/bubble-orange.svg), url(/assets/images/bubble-dots.png)
@@ -85,8 +82,7 @@ blocks:
       ![](/assets/images/product-features.jpg){ .img-fluid .box-shadow }
   features:
     class:
-      - order-3
-      - order-sm-3
+      - order-4
     style:
       background: '#F7F7F7'
     label: Fonctionnalités
@@ -112,9 +108,8 @@ blocks:
       { .bullet }
   options:
     class:
+      - order-5
       - col-sm-12
-      - order-6
-      - order-sm-6
       - text-center
     style:
       background: '#AAF3DD'
@@ -148,14 +143,12 @@ blocks:
           url: /fr/contact/
   case-study-2-img:
     class:
-      - order-7
-      - order-sm-7
+      - order-6
     text: |
       ![](/assets/images/product-case-study-2.jpg){ .img-fluid .box-shadow }
   case-study-2:
     class:
-      - order-8
-      - order-sm-8
+      - order-7
     style:
       background-image: url(/assets/images/bubble-blue.svg)
       background-position: 80% 5%
@@ -164,27 +157,27 @@ blocks:
       Étude de cas : Communication entre les citoyens et le gouvernement estonien
     text: |
       Le code source ouvert de Citizen OS a été utilisé pour créer la plate-forme d'initiatives citoyennes [www.rahvaalgatus.ee](https://www.rahvaalgatus.ee), où les pétitions peuvent être lancées, et les votes peuvent être recueillis et envoyés au Parlement.
-  case-study-1-img:
+  case-study-img:
+    class:
+      - order-8
+      - order-sm-9
+    text: |
+      ![](/assets/images/product-case-study.jpg){ .img-fluid .box-shadow }
+  case-study:
     class:
       - order-9
-      - order-sm-10
-    text: |
-      ![](/assets/images/product-case-study-1.jpg){ .img-fluid .box-shadow }
-  case-study-1:
-    class:
-      - order-10
-      - order-sm-9
+      - order-sm-8
     style:
       background-image: url(/assets/images/bubble-orange.svg), url(/assets/images/bubble-yellow.svg)
       background-position: 10% 5%, 90% 90%
       background-size: 85px 85px, 55px 55px
     title: |
-      Étude de cas : généraliser la portée de la communication.
+      Case Study: Widening the Scope of Communication.
     text: |
-      [Opinion Festival](https://www.arvamusfestival.ee/fr) a intégré le widget d'argumentation de Citizen OS, permettant des discussions en ligne sur les sujets du festival au-delà des deux jours du festival physique.
+      [Opinion Festival](https://www.arvamusfestival.ee/en) integrated the Citizen OS argumentation widget, allowing online discussions on the festival topics beyond the two days of the physical festival.
   stats:
     class:
-      - order-11
+      - order-10
       - text-center
     style:
       background: '#F7F7F7'
