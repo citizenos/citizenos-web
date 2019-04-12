@@ -4,8 +4,7 @@ title: Vision
 blocks:
     start-img:
         class:
-            - order-0
-            - order-sm-1
+            - order-1
         style:
             background-color: '#AAF3DD'
             background-image: url(/assets/images/bubble-dots.png), url(/assets/images/bubble-yellow.svg)
@@ -16,8 +15,7 @@ blocks:
 
     start:
         class:
-            - order-1
-            - order-sm-0
+            - order-0
         style:
             padding-top: 5rem
             padding-bottom: 5rem
@@ -44,7 +42,7 @@ blocks:
     individual-img:
         class:
             - order-2
-            - order-sm-2
+            - order-sm-3
         style:
 
             background-image: url(/assets/images/bubble-yellow.svg), url(/assets/images/bubble-dots.png)
@@ -56,7 +54,7 @@ blocks:
     individual:
         class:
             - order-3
-            - order-sm-3
+            - order-sm-2
         # label: As an individual
         title: |
             One person can make a difference.
