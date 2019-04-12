@@ -3,8 +3,7 @@ title: crwdns18946:0crwdne18946:0
 blocks:
   start-img:
     class:
-      - crwdns18948:0crwdne18948:0
-      - crwdns18950:0crwdne18950:0
+      - crwdns19228:0crwdne19228:0
     style:
       background-color: 'crwdns18952:0crwdne18952:0'
       background-image: crwdns18954:0crwdne18954:0
@@ -14,8 +13,7 @@ blocks:
       crwdns19178:0{ .img-fluid }crwdne19178:0
   start:
     class:
-      - crwdns18962:0crwdne18962:0
-      - crwdns18964:0crwdne18964:0
+      - crwdns19230:0crwdne19230:0
     style:
       padding-top: crwdns18966:0crwdne18966:0
       padding-bottom: crwdns18968:0crwdne18968:0
@@ -33,7 +31,7 @@ blocks:
   individual-img:
     class:
       - crwdns19016:0crwdne19016:0
-      - crwdns19018:0crwdne19018:0
+      - crwdns19232:0crwdne19232:0
     style:
       background-image: crwdns19020:0crwdne19020:0
       background-position: crwdns19022:0crwdne19022:0
@@ -43,7 +41,7 @@ blocks:
   individual:
     class:
       - crwdns19028:0crwdne19028:0
-      - crwdns19030:0crwdne19030:0
+      - crwdns19234:0crwdne19234:0
     title: |
       crwdns19032:0crwdne19032:0
     text: |

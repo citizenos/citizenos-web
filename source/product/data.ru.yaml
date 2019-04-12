@@ -3,8 +3,7 @@ title: Продукт
 blocks:
   decision-img:
     class:
-      - order-0
-      - order-sm-1
+      - order-1
     style:
       background-color: '#FFF1AD'
       background-image: url(/assets/images/bubble-dots.png), url(/assets/images/bubble-orange.svg)
@@ -14,8 +13,7 @@ blocks:
       [![](/assets/images/product-start.png){ .img-fluid }](https://www.youtube.com/embed/UC44qCCIixE?rel=0&showinfo=0&modestbranding=1&autoplay=1&cc_load_policy=1&cc_lang_pref=ru){data-toggle=modal data-target=#video-popup}
   decision:
     class:
-      - order-1
-      - order-sm-0
+      - order-0
     style:
       padding-top: 5rem
       padding-bottom: 5rem
@@ -26,12 +24,12 @@ blocks:
     title: |
       Принятие решений онлайн в командах и сообществах.
     text: |
-      Принимайте решения, основанные на аргументах. Структурируйте обсуждения и ставьте строки голосований. Собирайте голоса для петиций.
+      Make argument-based decisions. Structure discussions and meet your voting deadlines. Collect votes for petitions.
 
-      - [Особенности платформы](#features)
-      - [Как это работает?](#how)
-      - [Сколько это стоит?](#options)
-      - [Тематические исследования](#case-studies)
+      - [Platform features](#features)
+      - [How does it work](#options)
+      - [How much does it cost](#options)
+      - [Case studies](#case-studies)
       { .arrow }
     button1st:
       title: Подписаться на новостную рассылку
@@ -74,8 +72,7 @@ blocks:
           Подключите виджет к вашему сайту или платформе, чтобы проводить дискуссии на базе аргументов «за и против».
   features-img:
     class:
-      - order-2
-      - order-sm-2
+      - order-3
     style:
       background-color: '#F7F7F7'
       background-image: url(/assets/images/bubble-orange.svg), url(/assets/images/bubble-dots.png)
@@ -85,8 +82,7 @@ blocks:
       ![](/assets/images/product-features.jpg){ .img-fluid .box-shadow }
   features:
     class:
-      - order-3
-      - order-sm-3
+      - order-4
     style:
       background: '#F7F7F7'
     label: Особенности
@@ -112,9 +108,8 @@ blocks:
       { .bullet }
   options:
     class:
+      - order-5
       - col-sm-12
-      - order-6
-      - order-sm-6
       - text-center
     style:
       background: '#AAF3DD'
@@ -148,14 +143,12 @@ blocks:
           url: /ru/contact/
   case-study-2-img:
     class:
-      - order-7
-      - order-sm-7
+      - order-6
     text: |
       ![](/assets/images/product-case-study-2.jpg){ .img-fluid .box-shadow }
   case-study-2:
     class:
-      - order-8
-      - order-sm-8
+      - order-7
     style:
       background-image: url(/assets/images/bubble-blue.svg)
       background-position: 80% 5%
@@ -164,27 +157,27 @@ blocks:
       Исследование: «Общение между гражданами и правительством Эстонии»
     text: |
       Открытый код платформы Citizen OS использовался для создания платформы предложений [www.rahvaalgatus.ee](https://www.rahvaalgatus.ee), где можно открыть петицию, провести голосование и отправить ее в Парламент.
-  case-study-1-img:
+  case-study-img:
+    class:
+      - order-8
+      - order-sm-9
+    text: |
+      ![](/assets/images/product-case-study.jpg){ .img-fluid .box-shadow }
+  case-study:
     class:
       - order-9
-      - order-sm-10
-    text: |
-      ![](/assets/images/product-case-study-1.jpg){ .img-fluid .box-shadow }
-  case-study-1:
-    class:
-      - order-10
-      - order-sm-9
+      - order-sm-8
     style:
       background-image: url(/assets/images/bubble-orange.svg), url(/assets/images/bubble-yellow.svg)
       background-position: 10% 5%, 90% 90%
       background-size: 85px 85px, 55px 55px
     title: |
-      Исследование: «Расширение сферы коммуникации».
+      Case Study: Widening the Scope of Communication.
     text: |
-      [Фестиваль мнений](https://www.arvamusfestival.ee/en) с интегрированным виджетом обсуждений от Citizen OS позволяет проводить онлайн-обсуждения по темам фестиваля за двое суток до открытия самого фестиваля.
+      [Opinion Festival](https://www.arvamusfestival.ee/en) integrated the Citizen OS argumentation widget, allowing online discussions on the festival topics beyond the two days of the physical festival.
   stats:
     class:
-      - order-11
+      - order-10
       - text-center
     style:
       background: '#F7F7F7'

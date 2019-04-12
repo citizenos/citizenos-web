@@ -3,8 +3,7 @@ title: crwdns17368:0crwdne17368:0
 blocks:
   decision-img:
     class:
-      - crwdns18182:0crwdne18182:0
-      - crwdns18184:0crwdne18184:0
+      - crwdns19182:0crwdne19182:0
     style:
       background-color: 'crwdns18188:0crwdne18188:0'
       background-image: crwdns19132:0crwdne19132:0
@@ -14,8 +13,7 @@ blocks:
       crwdns19176:0{ .img-fluid }crwdne19176:0
   decision:
     class:
-      - crwdns18196:0crwdne18196:0
-      - crwdns18198:0crwdne18198:0
+      - crwdns19184:0crwdne19184:0
     style:
       padding-top: crwdns18200:0crwdne18200:0
       padding-bottom: crwdns18202:0crwdne18202:0
@@ -26,7 +24,7 @@ blocks:
     title: |
       crwdns18212:0crwdne18212:0
     text: |
-      crwdns18214:0{ .arrow }crwdne18214:0
+      crwdns19186:0{ .arrow }crwdne19186:0
     button1st:
       title: crwdns18216:0crwdne18216:0
       url: 'crwdns18218:0crwdne18218:0'
@@ -68,8 +66,7 @@ blocks:
           crwdns18262:0crwdne18262:0
   features-img:
     class:
-      - crwdns18264:0crwdne18264:0
-      - crwdns18266:0crwdne18266:0
+      - crwdns19188:0crwdne19188:0
     style:
       background-color: 'crwdns18268:0crwdne18268:0'
       background-image: crwdns18270:0crwdne18270:0
@@ -79,8 +76,7 @@ blocks:
       crwdns18276:0{ .img-fluid .box-shadow }crwdne18276:0
   features:
     class:
-      - crwdns18278:0crwdne18278:0
-      - crwdns18280:0crwdne18280:0
+      - crwdns19190:0crwdne19190:0
     style:
       background: 'crwdns18282:0crwdne18282:0'
     label: crwdns18284:0crwdne18284:0
@@ -90,10 +86,9 @@ blocks:
       crwdns18288:0{ .bullet }crwdnd18288:0{ .mt-5 }crwdnd18288:0{ .bullet }crwdnd18288:0{ .mt-5 }crwdnd18288:0{ .bullet }crwdne18288:0
   options:
     class:
-      - crwdns18290:0crwdne18290:0
-      - crwdns18292:0crwdne18292:0
-      - crwdns18294:0crwdne18294:0
-      - crwdns18296:0crwdne18296:0
+      - crwdns19192:0crwdne19192:0
+      - crwdns19194:0crwdne19194:0
+      - crwdns19196:0crwdne19196:0
     style:
       background: 'crwdns18298:0crwdne18298:0'
     title: |
@@ -126,14 +121,12 @@ blocks:
           url: crwdns18332:0crwdne18332:0
   case-study-2-img:
     class:
-      - crwdns18334:0crwdne18334:0
-      - crwdns18336:0crwdne18336:0
+      - crwdns19198:0crwdne19198:0
     text: |
       crwdns18338:0{ .img-fluid .box-shadow }crwdne18338:0
   case-study-2:
     class:
-      - crwdns18340:0crwdne18340:0
-      - crwdns18342:0crwdne18342:0
+      - crwdns19200:0crwdne19200:0
     style:
       background-image: crwdns18344:0crwdne18344:0
       background-position: crwdns18346:0crwdne18346:0
@@ -142,27 +135,27 @@ blocks:
       crwdns18350:0crwdne18350:0
     text: |
       crwdns18352:0[www.rahvaalgatus.ee]crwdne18352:0
-  case-study-1-img:
+  case-study-img:
     class:
-      - crwdns18354:0crwdne18354:0
-      - crwdns18356:0crwdne18356:0
+      - crwdns19202:0crwdne19202:0
+      - crwdns19204:0crwdne19204:0
     text: |
-      crwdns18358:0{ .img-fluid .box-shadow }crwdne18358:0
-  case-study-1:
+      crwdns19206:0{ .img-fluid .box-shadow }crwdne19206:0
+  case-study:
     class:
-      - crwdns18360:0crwdne18360:0
-      - crwdns18362:0crwdne18362:0
+      - crwdns19208:0crwdne19208:0
+      - crwdns19210:0crwdne19210:0
     style:
-      background-image: crwdns18364:0crwdne18364:0
-      background-position: crwdns18366:0crwdne18366:0
-      background-size: crwdns18368:0crwdne18368:0
+      background-image: crwdns19212:0crwdne19212:0
+      background-position: crwdns19214:0crwdne19214:0
+      background-size: crwdns19216:0crwdne19216:0
     title: |
-      crwdns18370:0crwdne18370:0
+      crwdns19218:0crwdne19218:0
     text: |
-      crwdns18372:0crwdne18372:0
+      crwdns19220:0crwdne19220:0
   stats:
     class:
-      - crwdns18374:0crwdne18374:0
+      - crwdns19222:0crwdne19222:0
       - crwdns18376:0crwdne18376:0
     style:
       background: 'crwdns18378:0crwdne18378:0'

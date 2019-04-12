@@ -3,8 +3,7 @@ title: Tutkimus
 blocks:
   research-img:
     class:
-      - order-0
-      - order-sm-1
+      - order-1
     style:
       background-color: '#FCD5C0'
       background-image: url(/assets/images/bubble-dots.png), url(/assets/images/bubble-orange.svg)
@@ -14,8 +13,7 @@ blocks:
       ![](/assets/images/research-start.png){ .img-fluid }
   research:
     class:
-      - order-1
-      - order-sm-0
+      - order-0
     style:
       background-color: '#FCD5C0'
       background-image: url(/assets/images/bubble-blue.svg), url(/assets/images/bubble-yellow.svg)
@@ -33,7 +31,6 @@ blocks:
   forward-img:
     class:
       - order-2
-      - order-sm-2
     style:
       padding-top: 5rem
       padding-bottom: 5rem
@@ -46,7 +43,6 @@ blocks:
   forward:
     class:
       - order-3
-      - order-sm-3
     style:
       background: '#F7F7F7'
     title: |
