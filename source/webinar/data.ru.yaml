@@ -1,8 +1,8 @@
 ---
-title: Вебинар
+title: Webinar
 blocks:
   header:
-    title: 'Бесплатный вебинар: Оптимизация принятия решений в вашей команде и сообществах с помощью технологии'
+    title: 'Free Webinar: Making better decisions in your team and network via technological connectedness'
   text:
     text: |
       ## What?
@@ -15,17 +15,17 @@ blocks:
 
       [Save your seat](){data-toggle=modal data-target=#join-popup} for the webinar now or [leave your contacts](mailto:anett@citizenos.com) and we will send you the recording!
   join:
-    title: Когда?
+    title: When?
     date: Thursday April 11, 2019
     time: 12:00 GMT
-    how: Как присоединиться?
+    how: How to join?
     button:
-      title: Сохранить место
+      title: Save my seat
       url: '#join'
   form:
     title: Save my seat! Citizen OS free webinar on Thursday, April 11 at 12:00 GMT
-    email: Адрес эл. почты
-    subscribe: Подписаться на рассылку
+    email: Email Address
+    subscribe: Subscribe
   footer:
     text: |
-      [Citizen OS](/) — социальное предприятие с открытым исходным кодом.
+      [Citizen OS](/) is an Open Source social enterprise.
