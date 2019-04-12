@@ -47,7 +47,8 @@ nav.navbar.fixed-top.bg-white.py-0.navbar-expand-lg
             .modal-body.container-fluid
                 .row
                     each url, l in self.otherLocalePaths
-                        a.select-language.col-12.col-sm-6.py-3.py-sm-1(href=(url === '/' ? url : url + '/'), data-language=l)= self.languages[l] || l
+                        if self.languages[l]
+                            a.select-language.col-12.col-sm-6.py-3.py-sm-1(href=(url === '/' ? url : url + '/'), data-language=l)= self.languages[l] || l
 
 script.
     $(function () {

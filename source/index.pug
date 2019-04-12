@@ -177,14 +177,16 @@ append script
             var browserLocale = getBrowserLocale()
             var pageLocale = '#{ self.locale }'
 
-            if (!savedLocale) {
-                window.localStorage.setItem('language',  browserLocale)
+            if (pageLocale !== 'aa') {
+                if (!savedLocale) {
+                    window.localStorage.setItem('language',  browserLocale)
 
-                if (browserLocale !== pageLocale) {
-                    window.location.replace(getOtherLocalePath(browserLocale) + '/')
+                    if (browserLocale !== pageLocale) {
+                        window.location.replace(getOtherLocalePath(browserLocale) + '/')
+                    }
+                } else if (savedLocale !== pageLocale) {
+                    window.location.replace(getOtherLocalePath(savedLocale) + '/')
                 }
-            } else if (savedLocale !== pageLocale) {
-                window.location.replace(getOtherLocalePath(savedLocale) + '/')
             }
 
             $('#video').removeClass('col-sm-6')
