@@ -24,12 +24,12 @@ blocks:
     title: |
       Принятие решений онлайн в командах и сообществах.
     text: |
-      Make argument-based decisions. Structure discussions and meet your voting deadlines. Collect votes for petitions.
+      Принимайте решения, основанные на аргументах. Структурируйте обсуждения и ставьте строки голосований. Собирайте голоса для петиций.
 
-      - [Platform features](#features)
-      - [How does it work](#options)
-      - [How much does it cost](#options)
-      - [Case studies](#case-studies)
+      - [Особенности платформы](#features)
+      - [Как это работает?](#how)
+      - [Сколько это стоит?](#options)
+      - [Тематические исследования](#case-studies)
       { .arrow }
     button1st:
       title: Подписаться на новостную рассылку
@@ -172,9 +172,9 @@ blocks:
       background-position: 10% 5%, 90% 90%
       background-size: 85px 85px, 55px 55px
     title: |
-      Case Study: Widening the Scope of Communication.
+      Исследование: «Расширение сферы коммуникации».
     text: |
-      [Opinion Festival](https://www.arvamusfestival.ee/en) integrated the Citizen OS argumentation widget, allowing online discussions on the festival topics beyond the two days of the physical festival.
+      [Фестиваль мнений](https://www.arvamusfestival.ee/en) с интегрированным виджетом обсуждений от Citizen OS позволяет проводить онлайн-обсуждения по темам фестиваля за двое суток до открытия самого фестиваля.
   stats:
     class:
       - order-10
