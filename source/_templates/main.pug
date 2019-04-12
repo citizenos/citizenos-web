@@ -38,9 +38,13 @@ html(lang=self.locale)
 
         if self.locale === 'aa'
             script.
-                var _jipt = [];
-                _jipt.push(['project', 'citizenos-web']);
-            script(src='//cdn.crowdin.com/jipt/jipt.js')
+                var _jipt = []
+                _jipt.push(['project', 'citizenos-web'])
+                _jipt.push(['preload_texts', true])
+                _jipt.push(['escape', function() {
+                    window.location.href = 'https://citizenos.com'
+                }])
+            script(src='https://cdn.crowdin.com/jipt/jipt.js')
     body
         block body
             include navigation.pug
