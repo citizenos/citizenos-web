@@ -24,12 +24,12 @@ blocks:
     title: |
       Online-otsustuskeskkond rühmade ja kogukondade jaoks.
     text: |
-      Langeta argumenteeritud otsuseid! Määratle arutelude struktuur ja järgi hääletuskuupäevasid. Kogu petitsioonidele toetushääli.
+      Make argument-based decisions. Structure discussions and meet your voting deadlines. Collect votes for petitions.
 
       - [Platform features](#features)
       - [How does it work](#options)
       - [How much does it cost](#options)
-      - [Case studies](#case-studies)
+      - [Case studies](#case-study)
       { .arrow }
     button1st:
       title: Telli uudised
