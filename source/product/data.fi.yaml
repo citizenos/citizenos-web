@@ -24,12 +24,12 @@ blocks:
     title: |
       Päätöksenteko verkossa ryhminä ja yhteisöinä.
     text: |
-      Tee kannanottoihin perustuvia päätöksiä. Jäsennä keskustelut ja toimita äänestyksesi määräajassa. Kerää ääniä adresseihin.
+      Make argument-based decisions. Structure discussions and meet your voting deadlines. Collect votes for petitions.
 
-      – [Alustan ominaisuudet](#features)
-      – [Miten se toimii](#options)
-      – [Paljonko se maksaa](#options)
-      – [Tapaustutkimukset](#case-studies)
+      - [Platform features](#features)
+      - [How does it work](#options)
+      - [How much does it cost](#options)
+      - [Case studies](#case-study)
       { .arrow }
     button1st:
       title: Rekisteröidy vastaanottaaksesi uutisia
