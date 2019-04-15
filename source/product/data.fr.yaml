@@ -24,12 +24,12 @@ blocks:
     title: |
       Prise de décision en ligne dans les équipes et les communautés.
     text: |
-      Prenez des décisions fondées sur des arguments. Structurez les discussions et respectez vos délais de vote. Collectez des votes pour des pétitions.
+      Make argument-based decisions. Structure discussions and meet your voting deadlines. Collect votes for petitions.
 
-      - [Fonctionnalités de la plateforme](#features)
-      - [Comment ça marche](#options)
-      - [Combien ça coûte](#options)
-      - [Études de cas](#case-studies)
+      - [Platform features](#features)
+      - [How does it work](#options)
+      - [How much does it cost](#options)
+      - [Case studies](#case-study)
       { .arrow }
     button1st:
       title: S'inscrire aux actualités
