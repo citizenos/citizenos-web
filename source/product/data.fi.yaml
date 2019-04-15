@@ -24,12 +24,12 @@ blocks:
     title: |
       Päätöksenteko verkossa ryhminä ja yhteisöinä.
     text: |
-      Make argument-based decisions. Structure discussions and meet your voting deadlines. Collect votes for petitions.
+      Tee kannanottoihin perustuvia päätöksiä. Jäsennä keskustelut ja toimita äänestyksesi määräajassa. Kerää ääniä adresseihin.
 
-      - [Platform features](#features)
-      - [How does it work](#options)
-      - [How much does it cost](#options)
-      - [Case studies](#case-studies)
+      – [Alustan ominaisuudet](#features)
+      – [Miten se toimii](#options)
+      – [Paljonko se maksaa](#options)
+      – [Tapaustutkimukset](#case-studies)
       { .arrow }
     button1st:
       title: Rekisteröidy vastaanottaaksesi uutisia
@@ -172,9 +172,9 @@ blocks:
       background-position: 10% 5%, 90% 90%
       background-size: 85px 85px, 55px 55px
     title: |
-      Case Study: Widening the Scope of Communication.
+      Tapaustutkimus: Viestinnän mahdollisuuksien laajentaminen.
     text: |
-      [Opinion Festival](https://www.arvamusfestival.ee/en) integrated the Citizen OS argumentation widget, allowing online discussions on the festival topics beyond the two days of the physical festival.
+      [Arvamusfestival](https://www.arvamusfestival.ee/en) integroi Citizen OS:n pienoissovelluksen kannanotoille, jolloin juhlien puheenaiheista voitiin käydä verkkokeskusteluja myös varsinaisten kaksipäiväisten juhlien lisäksi.
   stats:
     class:
       - order-10
