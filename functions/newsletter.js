@@ -14,7 +14,8 @@ const postToMailChimp = async (email) => {
             path: process.env.MAILCHIMP_PATH,
             method: 'POST',
             headers: {
-                Authorization: Buffer.from('anystring:' + process.env.MAILCHIMP_KEY).toString('base64')
+                'Authorization': 'Basic ' + Buffer.from('anystring:' + process.env.MAILCHIMP_KEY).toString('base64'),
+                'Content-Type': 'application/json'
             },
             body: JSON.stringify(postData)
         }
