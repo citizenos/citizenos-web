@@ -7,6 +7,7 @@ $(function () {
         if(email) {
             $.post('https://citizenos.com/.netlify/functions/newsletter', JSON.stringify({ email: email }), function (data) {
                 console.log(data)
+
                 $('#mailchimp').modal('hide')
                 $('#mailchimp-form input[name="EMAIL"]').val('')
             }, 'json')

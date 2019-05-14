@@ -37,9 +37,9 @@ const postToMailChimp = async (email) => {
 }
 
 
-const getResponse = (code, data) => {
+const getResponse = (data) => {
     return {
-        statusCode: code,
+        statusCode: 200,
         headers: {
             'Access-Control-Allow-Origin': '*'
         },
@@ -55,11 +55,11 @@ exports.handler = async (event) => {
         const result = await postToMailChimp(body.email)
 
         if (result.status === 'subscribed') {
-            return getResponse(200, { status: result.status })
+            return getResponse({ status: result.status })
         } else {
-            return getResponse(500, { error: result.title })
+            return getResponse({ error: result.title })
         }
     } else {
-        return getResponse(400, { error: 'Bad Request' })
+        return getResponse({ error: 'Bad Request' })
     }
 }
