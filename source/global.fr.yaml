@@ -25,16 +25,16 @@ languages:
   lt: Lietuvių
   lv: Latviešu
   ru: Pусский
-  ua: Українськаw
+  ua: Українська
 selectLanguage: Langues
 platformLink:
   title: Utiliser la plateforme
   url: https://app.citizenos.com/fr/
 mobileMenu: MENU
 newsletter:
-  title: Sign up for the CitizenOS newsletter!
+  title: Sign up for the Citizen OS newsletter!
   text: We'll recommended great reads on how participatory democracy will save the world.
-  input: E-mail address
+  input: Email address
   button: Sign up
 footer:
   text: Citizen OS est une entreprise sociale Open Source.
