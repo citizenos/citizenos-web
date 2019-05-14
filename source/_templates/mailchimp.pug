@@ -1,5 +1,5 @@
 if self.newsletter
-    #mailchimp.modal.fade(tabindex='-1', role='dialog', aria-hidden='true')
+    #newsletter.modal.fade(tabindex='-1', role='dialog', aria-hidden='true')
         .modal-dialog.modal-lg(role='document')
             .modal-content
                 .modal-body.p-0
@@ -12,7 +12,7 @@ if self.newsletter
                 .modal-footer
                     .container-fluid
                         .row
-                            form#mailchimp-form.form-inline.w-100.pl-3(action='', method='POST')
+                            form#newsletter-form.form-inline.w-100.pl-3(action='', method='POST')
                                 input.pl-0.col(type='email', name='EMAIL', placeholder=self.newsletter.input)
                                 div(style='position: absolute; left: -5000px;', aria-hidden='true')
                                     input(type='text', name='b_ab576406496d96d9a8387879f_d44f990ec5', tabindex='-1', value='')
