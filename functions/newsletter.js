@@ -38,12 +38,12 @@ const postToMailChimp = async (email) => {
 
 
 exports.handler = async (event) => {
-    const body = event.body
+    const body = JSON.parse(event.body)
 
-    console.log(event.body.email)
+    console.log(body.email)
 
-    if (event.body && event.body.email) {
-        const result = await postToMailChimp(event.body.email)
+    if (body && body.email) {
+        const result = await postToMailChimp(body.email)
 
         return {
             statusCode: 200,
