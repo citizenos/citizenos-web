@@ -12,9 +12,15 @@ doctype html
 html(lang=self.locale)
     head
         meta(charset='utf-8')
-        meta(name='viewport', content='width=device-width, initial-scale=1')
+        if self.description
+            meta(name='description' content=self.description)
+        if self.keywords
+            meta(name='keywords' content=self.keywords.join(','))
+
         meta(property='og:url', content='https://citizenos.com' + self.path)
         meta(property='og:title', content=self.title ? self.title + ' · ' + self.siteTitle : self.siteTitle)
+
+        meta(name='viewport', content='width=device-width, initial-scale=1')
 
         title= self.title && self.title !== self.siteTitle ? self.title + ' · ' + self.siteTitle : self.siteTitle
 
