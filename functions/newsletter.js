@@ -39,9 +39,10 @@ const postToMailChimp = async (email) => {
 
 exports.handler = async (event) => {
     const body = event.body
-    console.log(body)
 
-    if (event.body || event.body.email) {
+    console.log(event.body.email)
+
+    if (event.body && event.body.email) {
         const result = await postToMailChimp(event.body.email)
 
         return {
