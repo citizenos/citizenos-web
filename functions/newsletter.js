@@ -8,7 +8,7 @@ const postToMailChimp = async (data) => {
             path: '/subscribe/post?u=ab576406496d96d9a8387879f&id=d44f990ec5',
             body: data
         }
-        https.request(options, response => {
+        http.request(options, response => {
             var body = ''
 
             response.on('data', function(d) {
