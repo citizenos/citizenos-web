@@ -12,6 +12,11 @@ $(function () {
             }, 'json')
         }
     })
+
+    $('#mailchimp').on('shown.bs.modal', function (e) {
+        $('#mailchimp-form input[name="EMAIL"]').focus()
+    })
+
     $('#mailchimp').on('hide.bs.modal', function (e) {
         $('#mailchimp-form input[name="EMAIL"]').val('')
     })

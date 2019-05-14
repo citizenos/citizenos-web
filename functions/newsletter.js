@@ -37,7 +37,7 @@ const postToMailChimp = async (email) => {
 }
 
 
-const getResponse(code, data) {
+const getResponse = (code, data) => {
     return {
         statusCode: code,
         headers: {
