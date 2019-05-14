@@ -18,19 +18,14 @@ const postToMailChimp = async (email) => {
             }
         }
 
-        console.log(options)
-
         const request = https.request(options, response => {
             var body = ''
-            console.log(response);
 
             response.on('data', function(d) {
                 body += d
             })
 
             response.on('end', function() {
-                console.log('end');
-                console.log(body);
                 resolve(body)
             })
         })
