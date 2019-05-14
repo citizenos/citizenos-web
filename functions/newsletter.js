@@ -1,4 +1,4 @@
-const http = require('https')
+const https = require('https')
 
 
 const postToMailChimp = async (email) => {
@@ -10,7 +10,6 @@ const postToMailChimp = async (email) => {
 
         const options = {
             hostname: process.env.MAILCHIMP_HOST,
-            port: 443,
             path: process.env.MAILCHIMP_PATH,
             method: 'POST',
             headers: {
@@ -22,7 +21,7 @@ const postToMailChimp = async (email) => {
 
         console.log(options)
 
-        http.request(options, response => {
+        const request = https.request(options, response => {
             var body = ''
             console.log(response);
 
@@ -36,7 +35,9 @@ const postToMailChimp = async (email) => {
                 resolve(body)
             })
         })
-  })
+
+        request.on('error', reject)
+    })
 }
 
 
