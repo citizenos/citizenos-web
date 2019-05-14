@@ -42,14 +42,14 @@ exports.handler = async (event) => {
     console.log(body)
 
     if (event.body || event.body.email) {
-        const result = await postToMailChimp(body.email)
+        const result = await postToMailChimp(event.body.email)
 
         return {
             statusCode: 200,
             headers: {
                 'Access-Control-Allow-Origin': '*'
             },
-            body: JSON.stringify(result)
+            body: result
         }
     } else {
         return {
