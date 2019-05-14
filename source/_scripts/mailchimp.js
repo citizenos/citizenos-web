@@ -9,7 +9,7 @@ $(function () {
                 console.log(data)
                 $('#mailchimp').modal('hide')
                 $('#mailchimp-form input[name="EMAIL"]').val('')
-            })
+            }, 'json')
         }
     })
     $('#mailchimp').on('hide.bs.modal', function (e) {
