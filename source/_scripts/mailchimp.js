@@ -2,11 +2,17 @@ $(function () {
     $('#mailchimp-form').on('submit', function(e) {
         e.preventDefault()
 
-        if($('#mailchimp-form input[name="EMAIL"]').val()) {
+        var email = $('#mailchimp-form input[name="EMAIL"]').val()
+
+        if(email) {
+            var data = {
+                email: email
+            }
             $.ajax({
-                url : $(this).attr('action'),
+                url : 'https://citizenos.com/.netlify/functions/newsletter',
                 type: 'POST',
-                data: $(this).serialize(),
+                data: JSON.stringify(data),
+                contentType : 'application/json',
                 success: function (data) {
                     console.log(data)
                     $('#mailchimp').modal('hide')
@@ -31,6 +37,4 @@ $(function () {
     if (window.location.hash === '#subscribe') {
         subscribe()
     }
-
-
 })

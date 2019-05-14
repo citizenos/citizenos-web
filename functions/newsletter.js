@@ -1,15 +1,25 @@
 const http = require('https')
 
 
-const postToMailChimp = async (data) => {
+const postToMailChimp = async (email) => {
     return new Promise((resolve, reject) => {
-        const options = {
-            hostname: 'citizenos.us19.list-manage.com',
-            port: 443,
-            path: '/subscribe/post?u=ab576406496d96d9a8387879f&id=d44f990ec5',
-            method: 'POST',
-            body: data
+        const postData = {
+            'email_address': email,
+            'status': 'subscribed'
         }
+
+        const options = {
+            hostname: process.env.MAILCHIMP_HOST,
+            port: 443,
+            path: process.env.MAILCHIMP_PATH,
+            method: 'POST',
+            headers: {
+                Authorization: Buffer.from('anystring:' + process.env.MAILCHIMP_HOST).toString('base64')
+            }
+            body: JSON.stringify(postData)
+        }
+
+        console.log(options)
 
         http.request(options, response => {
             var body = ''
@@ -27,7 +37,8 @@ const postToMailChimp = async (data) => {
 
 
 exports.handler = async (event) => {
-    const result = await postToMailChimp(event.body)
+    const body = JSON.parse(event.body)
+    const result = await postToMailChimp(body.email)
     const response = {
         statusCode: 200,
         headers: {
