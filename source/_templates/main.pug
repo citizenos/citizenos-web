@@ -17,8 +17,11 @@ html(lang=self.locale)
         if self.keywords
             meta(name='keywords' content=self.keywords.join(','))
 
+        meta(property='og:type', content='website')
         meta(property='og:url', content='https://citizenos.com' + self.path)
         meta(property='og:title', content=self.title ? self.title + ' · ' + self.siteTitle : self.siteTitle)
+        if self.description
+            meta(property='og:description' content=self.description)
 
         meta(name='viewport', content='width=device-width, initial-scale=1')
 
