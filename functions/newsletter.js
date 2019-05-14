@@ -15,8 +15,7 @@ const postToMailChimp = async (email) => {
             headers: {
                 'Authorization': 'Basic ' + Buffer.from('anystring:' + process.env.MAILCHIMP_KEY).toString('base64'),
                 'Content-Type': 'application/json'
-            },
-            body: JSON.stringify(postData)
+            }
         }
 
         console.log(options)
@@ -37,6 +36,8 @@ const postToMailChimp = async (email) => {
         })
 
         request.on('error', reject)
+        request.write(JSON.stringify(postData))
+        request.end()
     })
 }
 
