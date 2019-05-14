@@ -1,16 +1,29 @@
 $(function () {
-    var subscribe = function () {
-        window.dojoRequire(['mojo/signup-forms/Loader'], function(L) {
-            L.start({
-                baseUrl: 'mc.us19.list-manage.com',
-                uuid: 'ab576406496d96d9a8387879f',
-                lid: 'd44f990ec5',
-                uniqueMethods: true
-            })
+    $('#mailchimp-form').on('submit', function(e) {
+        e.preventDefault()
 
-            document.cookie = 'MCPopupClosed=; expires=Thu, 01 Jan 1970 00:00:00 UTC'
-            document.cookie = 'MCPopupSubscribed=; expires=Thu, 01 Jan 1970 00:00:00 UTC'
-        })
+        if($('#mailchimp-form input[name="EMAIL"]').val()) {
+            $.ajax({
+                url : $(this).attr('action'),
+                type: 'POST',
+                data: $(this).serialize(),
+                success: function (data) {
+                    console.log(data)
+                    $('#mailchimp').modal('hide')
+                    $('#mailchimp-form input[name="EMAIL"]').val('')
+                },
+                error: function (jXHR, textStatus, errorThrown) {
+                    console.error(errorThrown)
+                }
+            })
+        }
+    })
+    $('#mailchimp').on('hide.bs.modal', function (e) {
+        $('#mailchimp-form input[name="EMAIL"]').val('')
+    })
+
+    var subscribe = function () {
+        $('#mailchimp').modal('show')
     }
 
     $('a[href="#subscribe"]').click(subscribe)
@@ -18,4 +31,6 @@ $(function () {
     if (window.location.hash === '#subscribe') {
         subscribe()
     }
+
+
 })

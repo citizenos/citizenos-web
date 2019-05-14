@@ -34,6 +34,12 @@ platformLink:
 
 mobileMenu: MENU
 
+newsletter:
+    title: Sign up for the CitizenOS newsletter!
+    text: We'll recommended great reads on how participatory democracy will save the world.
+    input: E-mail address
+    button: Sign up
+
 footer:
     text: Citizen OS is an Open Source social enterprise.
     navigation:
