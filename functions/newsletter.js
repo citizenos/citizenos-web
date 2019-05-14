@@ -21,12 +21,12 @@ const postToMailChimp = async (email) => {
         const request = https.request(options, response => {
             var body = ''
 
-            response.on('data', function(d) {
+            response.on('data', function (d) {
                 body += d
             })
 
-            response.on('end', function() {
-                resolve(body)
+            response.on('end', function () {
+                resolve(JSON.parse(body))
             })
         })
 
@@ -37,28 +37,29 @@ const postToMailChimp = async (email) => {
 }
 
 
+const getResponse(code, data) {
+    return {
+        statusCode: code,
+        headers: {
+            'Access-Control-Allow-Origin': '*'
+        },
+        body: JSON.stringify(data)
+    }
+}
+
+
 exports.handler = async (event) => {
     const body = JSON.parse(event.body)
-
-    console.log(body.email)
 
     if (body && body.email) {
         const result = await postToMailChimp(body.email)
 
-        return {
-            statusCode: 200,
-            headers: {
-                'Access-Control-Allow-Origin': '*'
-            },
-            body: result
+        if (result.status === 'subscribed') {
+            return getResponse(200, { status: result.status })
+        } else {
+            return getResponse(500, { error: result.title })
         }
     } else {
-        return {
-            statusCode: 400,
-            headers: {
-                'Access-Control-Allow-Origin': '*'
-            },
-            body: JSON.stringify({ error: 'Bad Request' })
-        }
+        return getResponse(400, { error: 'Bad Request' })
     }
 }
