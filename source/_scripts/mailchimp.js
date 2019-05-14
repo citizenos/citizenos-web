@@ -5,22 +5,10 @@ $(function () {
         var email = $('#mailchimp-form input[name="EMAIL"]').val()
 
         if(email) {
-            var data = {
-                email: email
-            }
-            $.ajax({
-                url : 'https://citizenos.com/.netlify/functions/newsletter',
-                type: 'POST',
-                data: JSON.stringify(data),
-                contentType : 'application/json',
-                success: function (data) {
-                    console.log(data)
-                    $('#mailchimp').modal('hide')
-                    $('#mailchimp-form input[name="EMAIL"]').val('')
-                },
-                error: function (jXHR, textStatus, errorThrown) {
-                    console.error(errorThrown)
-                }
+            $.post('https://citizenos.com/.netlify/functions/newsletter', { email: email }, function (data) {
+                console.log(data)
+                $('#mailchimp').modal('hide')
+                $('#mailchimp-form input[name="EMAIL"]').val('')
             })
         }
     })
