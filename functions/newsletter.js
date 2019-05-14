@@ -5,9 +5,12 @@ const postToMailChimp = async (data) => {
     return new Promise((resolve, reject) => {
         const options = {
             hostname: 'citizenos.us19.list-manage.com',
+            port: 443,
             path: '/subscribe/post?u=ab576406496d96d9a8387879f&id=d44f990ec5',
+            method: 'POST',
             body: data
         }
+
         http.request(options, response => {
             var body = ''
 
