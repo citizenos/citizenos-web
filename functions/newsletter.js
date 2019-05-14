@@ -43,17 +43,26 @@ const postToMailChimp = async (email) => {
 
 
 exports.handler = async (event) => {
-    const body = JSON.parse(event.body)
-    console.log(body);
+    const body = event.body
+    console.log(body)
 
-    const result = await postToMailChimp(body.email)
-    const response = {
-        statusCode: 200,
-        headers: {
-            'Access-Control-Allow-Origin': '*'
-        },
-        body: JSON.stringify(result)
+    if (event.body || event.body.email) {
+        const result = await postToMailChimp(body.email)
+
+        return {
+            statusCode: 200,
+            headers: {
+                'Access-Control-Allow-Origin': '*'
+            },
+            body: JSON.stringify(result)
+        }
+    } else {
+        return {
+            statusCode: 400,
+            headers: {
+                'Access-Control-Allow-Origin': '*'
+            },
+            body: JSON.stringify({ error: 'Bad Request' })
+        }
     }
-
-    return response
 }
