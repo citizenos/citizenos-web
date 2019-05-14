@@ -23,12 +23,15 @@ const postToMailChimp = async (email) => {
 
         http.request(options, response => {
             var body = ''
+            console.log(response);
 
             response.on('data', function(d) {
                 body += d
             })
 
             response.on('end', function() {
+                console.log('end');
+                console.log(body);
                 resolve(body)
             })
         })
@@ -38,6 +41,8 @@ const postToMailChimp = async (email) => {
 
 exports.handler = async (event) => {
     const body = JSON.parse(event.body)
+    console.log(body);
+
     const result = await postToMailChimp(body.email)
     const response = {
         statusCode: 200,
