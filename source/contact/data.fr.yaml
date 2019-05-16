@@ -1,5 +1,6 @@
 ---
 title: Contact
+image: /assets/images/fbimg-vision.png
 blocks:
   contact-img:
     class:
