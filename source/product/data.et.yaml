@@ -1,5 +1,6 @@
 ---
 title: Toode
+image: /assets/images/fbimg-product.png
 blocks:
   decision-img:
     class:
