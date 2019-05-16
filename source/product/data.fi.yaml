@@ -1,5 +1,6 @@
 ---
 title: Tuote
+image: /assets/images/fbimg-product.png
 blocks:
   decision-img:
     class:
