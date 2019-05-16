@@ -1,5 +1,6 @@
 ---
 title: Команда
+image: /assets/images/fbimg-home.png
 blocks:
   team-img:
     class:
