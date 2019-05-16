@@ -22,6 +22,8 @@ html(lang=self.locale)
         meta(property='og:title', content=self.title ? self.title + ' · ' + self.siteTitle : self.siteTitle)
         if self.description
             meta(property='og:description' content=self.description)
+        if self.image
+            meta(property='og:image' content='https://citizenos.com' + self.image)
 
         meta(name='viewport', content='width=device-width, initial-scale=1')
 
