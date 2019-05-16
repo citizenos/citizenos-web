@@ -1,5 +1,6 @@
 ---
 title: Yritys
+image: /assets/images/fbimg-home.png
 blocks:
   company-img:
     class:
