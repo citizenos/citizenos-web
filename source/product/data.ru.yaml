@@ -130,10 +130,10 @@ blocks:
         title: Интеграция API
         text: |
           Используйте Citizen OS API как основу для создания собственной брендированной платформы для принятия решений.
-        subtext: Зависит от проекта
+        subtext: Free for ever!
         button:
-          title: Свяжитесь с нами
-          url: /ru/contact/
+          title: GitHub
+          url: https://github.com/citizenos/citizenos-web
       consult:
         title: Консультирование и интеграция
         text: |
