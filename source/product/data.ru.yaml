@@ -130,7 +130,7 @@ blocks:
         title: Интеграция API
         text: |
           Используйте Citizen OS API как основу для создания собственной брендированной платформы для принятия решений.
-        subtext: Free for ever!
+        subtext: Бесплатно навсегда!
         button:
           title: GitHub
           url: https://github.com/citizenos/citizenos-web
