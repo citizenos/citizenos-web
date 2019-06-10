@@ -144,10 +144,10 @@ blocks:
                 title: Integrate API
                 text: |
                     Use The Citizen OS API as a base to build an online decision-making platform with your own branding.
-                subtext: Offer based
+                subtext: Free for ever!
                 button:
-                    title: Contact us
-                    url: /contact/
+                    title: GitHub
+                    url: https://github.com/citizenos/citizenos-web
             consult:
                 title: Consult & integrate
                 text: |
