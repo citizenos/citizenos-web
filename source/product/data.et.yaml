@@ -130,10 +130,10 @@ blocks:
         title: Integreeri API
         text: |
           Kasutage Citizen OS-i rakendusliidest alusena, millele luua oma kaubamärgiga online-otsustusplatvorm.
-        subtext: Pakkumistepõhine
+        subtext: Free for ever!
         button:
-          title: Võta meiega ühendust
-          url: /et/contact/
+          title: GitHub
+          url: https://github.com/citizenos/citizenos-web
       consult:
         title: Konsulteeri ja integreeri
         text: |
