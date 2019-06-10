@@ -130,10 +130,10 @@ blocks:
         title: Integroi API
         text: |
           Käytä Citizen OS:n ohjelmointirajapintaa luodaksesi verkon päätöksenteolle oman brändisi mukaisen alustan.
-        subtext: Tarjouspohjainen
+        subtext: Free for ever!
         button:
-          title: Ota yhteyttä
-          url: /fi/contact/
+          title: GitHub
+          url: https://github.com/citizenos/citizenos-web
       consult:
         title: Konsultoi ja integroi
         text: |
