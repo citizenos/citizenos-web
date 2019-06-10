@@ -130,7 +130,7 @@ blocks:
         title: Intégrer l'API
         text: |
           Utilisez l'API Citizen OS comme base pour construire une plate-forme de décision en ligne avec votre propre marque.
-        subtext: Free for ever!
+        subtext: Gratuit pour toujours !
         button:
           title: GitHub
           url: https://github.com/citizenos/citizenos-web
