@@ -1,5 +1,5 @@
 ---
-title: Legal
+title: Juriidiline info
 image: /assets/images/fbimg-vision.jpg
 blocks:
   legal-img:
@@ -11,6 +11,6 @@ blocks:
       min-height: 75vh
   legal:
     title: |
-      Legal
+      Juriidiline info
     text: |
-      - [Citizen OS API Terms of Use](https://app.citizenos.com/en/topics/7abdd244-d45b-40d3-997c-a6290d4e972c)
+      [Citizen OS API Terms of Use](https://app.citizenos.com/en/topics/7abdd244-d45b-40d3-997c-a6290d4e972c)
