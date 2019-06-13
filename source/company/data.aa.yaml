@@ -8,6 +8,7 @@ blocks:
       - crwdns17902:0crwdne17902:0
     style:
       background: 'crwdns17904:0crwdne17904:0'
+      min-height: crwdns20064:0crwdne20064:0
   company:
     title: |
       crwdns17906:0crwdne17906:0
