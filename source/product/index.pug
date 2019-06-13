@@ -179,7 +179,7 @@ append script
 
                 if (!statsSet && elementBottom > viewportTop && elementTop < viewportBottom) {
                     statsSet = true
-                    $.getJSON('https://citizenos.com/.netlify/functions/stats', function (data) {
+                    $.getJSON('/.netlify/functions/stats', function (data) {
                         $('.stats-value').each(function () {
                             var id = $(this).data('id')
                             var value = data[id]
