@@ -119,6 +119,8 @@ append content
 append script
     script.
         $(function () {
+            $('#decision-img .block-text').addClass('text-center')
+
             $('#features-img .block-text').removeClass('col-sm-8')
             $('#features-img .block-text').addClass('col-sm-10')
 
@@ -179,7 +181,7 @@ append script
 
                 if (!statsSet && elementBottom > viewportTop && elementTop < viewportBottom) {
                     statsSet = true
-                    $.getJSON('https://citizenos.com/.netlify/functions/stats', function (data) {
+                    $.getJSON('/.netlify/functions/stats', function (data) {
                         $('.stats-value').each(function () {
                             var id = $(this).data('id')
                             var value = data[id]

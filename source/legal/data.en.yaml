@@ -1,0 +1,25 @@
+title: Legal
+# description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras fermentum ornare purus accumsan luctus. Nulla facilisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae.
+# keywords:
+#     - lorem
+#     - ipsum
+#     - dolor
+image: /assets/images/fbimg-vision.jpg
+
+
+blocks:
+    legal-img:
+        class:
+            - d-none
+            - d-sm-block
+        style:
+            background: 'linear-gradient(180deg, #0EB7FE 0%, #0680FC 100%)'
+            min-height: 75vh
+
+
+    legal:
+        # label: About
+        title: |
+            Legal
+        text: |
+            [Citizen OS API Terms of Use](https://app.citizenos.com/en/topics/7abdd244-d45b-40d3-997c-a6290d4e972c)

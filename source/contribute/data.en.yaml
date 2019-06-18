@@ -1,4 +1,10 @@
 title: Contribute
+# description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras fermentum ornare purus accumsan luctus. Nulla facilisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae.
+# keywords:
+#     - lorem
+#     - ipsum
+#     - dolor
+image: /assets/images/fbimg-vision.jpg
 
 
 blocks:
@@ -8,6 +14,7 @@ blocks:
             - d-sm-block
         style:
             background: 'linear-gradient(180deg, #0EB7FE 0%, #0680FC 100%)'
+            min-height: 75vh
 
     contribute:
         # label: About

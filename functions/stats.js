@@ -1,7 +1,7 @@
 const http = require('https')
 
 
-const getStatsJson = async () => {
+const getStatsAPI = async () => {
     return new Promise((resolve, reject) => {
         http.get('https://api.citizenos.com/api/stats', response => {
             var body = ''
@@ -19,8 +19,51 @@ const getStatsJson = async () => {
 }
 
 
+const getStatsERE = async () => {
+    return new Promise((resolve, reject) => {
+        http.get('https://kodanik.elurikkuseerakond.ee/api/stats', response => {
+            var body = ''
+
+            response.on('data', function(d) {
+                body += d
+            })
+
+            response.on('end', function() {
+                var parsed = JSON.parse(body)
+                resolve(parsed.data)
+            })
+        })
+  })
+}
+
+
+const getStatsRAA = async () => {
+    return new Promise((resolve, reject) => {
+        resolve({
+            topicsCreated: 0,
+            votesCast: 80000,
+            groupsCreated: 0,
+            usersCreated: 50000
+        })
+    })
+}
+
+
 exports.handler = async (event) => {
-    const result = await getStatsJson()
+    const apiPromise = getStatsAPI()
+    const erePromise = getStatsERE()
+    const raaPromise = getStatsRAA()
+
+    const api = await apiPromise
+    const ere = await erePromise
+    const raa = await raaPromise
+
+    const result = {
+        topicsCreated: api.topicsCreated + ere.topicsCreated + raa.topicsCreated,
+        votesCast: api.votesCast + ere.votesCast + raa.votesCast,
+        groupsCreated: api.groupsCreated + ere.groupsCreated + raa.groupsCreated,
+        usersCreated: api.usersCreated + ere.usersCreated + raa.usersCreated
+    }
 
     const response = {
         statusCode: 200,

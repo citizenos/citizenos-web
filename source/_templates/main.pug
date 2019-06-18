@@ -12,9 +12,20 @@ doctype html
 html(lang=self.locale)
     head
         meta(charset='utf-8')
-        meta(name='viewport', content='width=device-width, initial-scale=1')
+        if self.description
+            meta(name='description' content=self.description)
+        if self.keywords
+            meta(name='keywords' content=self.keywords.join(','))
+
+        meta(property='og:type', content='website')
         meta(property='og:url', content='https://citizenos.com' + self.path)
         meta(property='og:title', content=self.title ? self.title + ' · ' + self.siteTitle : self.siteTitle)
+        if self.description
+            meta(property='og:description' content=self.description)
+        if self.image
+            meta(property='og:image' content='https://citizenos.com' + self.image)
+
+        meta(name='viewport', content='width=device-width, initial-scale=1')
 
         title= self.title && self.title !== self.siteTitle ? self.title + ' · ' + self.siteTitle : self.siteTitle
 
@@ -53,9 +64,9 @@ html(lang=self.locale)
                 block header
                 block content
 
+            include mailchimp.pug
             include footer.pug
 
-        script(src='https://downloads.mailchimp.com/js/signup-forms/popup/unique-methods/embed.js', data-dojo-config='usePlainJson: true, isDebug: false')
         script(src='/assets/js/bootstrap.min.js')
         script(src='/script.js')
 

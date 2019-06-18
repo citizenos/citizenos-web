@@ -1,16 +1,29 @@
 $(function () {
-    var subscribe = function () {
-        window.dojoRequire(['mojo/signup-forms/Loader'], function(L) {
-            L.start({
-                baseUrl: 'mc.us19.list-manage.com',
-                uuid: 'ab576406496d96d9a8387879f',
-                lid: 'd44f990ec5',
-                uniqueMethods: true
-            })
+    $('#newsletter-form').on('submit', function(e) {
+        e.preventDefault()
 
-            document.cookie = 'MCPopupClosed=; expires=Thu, 01 Jan 1970 00:00:00 UTC'
-            document.cookie = 'MCPopupSubscribed=; expires=Thu, 01 Jan 1970 00:00:00 UTC'
-        })
+        var email = $('#newsletter-form input[name="EMAIL"]').val()
+
+        if(email) {
+            $.post('https://citizenos.com/.netlify/functions/newsletter', JSON.stringify({ email: email }), function (data) {
+                console.log(data)
+
+                $('#newsletter').modal('hide')
+                $('#newsletter-form input[name="EMAIL"]').val('')
+            }, 'json')
+        }
+    })
+
+    $('#newsletter').on('shown.bs.modal', function (e) {
+        $('#newsletter-form input[name="EMAIL"]').focus()
+    })
+
+    $('#newsletter').on('hide.bs.modal', function (e) {
+        $('#newsletter-form input[name="EMAIL"]').val('')
+    })
+
+    var subscribe = function () {
+        $('#newsletter').modal('show')
     }
 
     $('a[href="#subscribe"]').click(subscribe)
