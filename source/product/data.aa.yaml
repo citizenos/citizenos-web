@@ -7,11 +7,11 @@ blocks:
       - crwdns19182:0crwdne19182:0
     style:
       background-color: 'crwdns18188:0crwdne18188:0'
-      background-image: crwdns19132:0crwdne19132:0
-      background-position: crwdns19134:0crwdne19134:0
-      background-size: crwdns19136:0crwdne19136:0
+      background-image: crwdns20076:0crwdne20076:0
+      background-position: crwdns20078:0crwdne20078:0
+      background-size: crwdns20080:0crwdne20080:0
     text: |
-      crwdns19176:0{ .img-fluid }crwdne19176:0
+      crwdns20082:0crwdne20082:0
   decision:
     class:
       - crwdns19184:0crwdne19184:0
