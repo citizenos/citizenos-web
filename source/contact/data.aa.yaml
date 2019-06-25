@@ -1,5 +1,6 @@
 ---
 title: crwdns17040:0crwdne17040:0
+image: crwdns19316:0crwdne19316:0
 blocks:
   contact-img:
     class:
@@ -7,6 +8,7 @@ blocks:
       - crwdns17912:0crwdne17912:0
     style:
       background: 'crwdns17914:0crwdne17914:0'
+      min-height: crwdns20066:0crwdne20066:0
   contact:
     title: |
       crwdns17916:0crwdne17916:0

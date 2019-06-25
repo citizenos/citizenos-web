@@ -43,7 +43,7 @@ const getStatsRAA = async () => {
             topicsCreated: 0,
             votesCast: 80000,
             groupsCreated: 0,
-            usersCreated: 34000
+            usersCreated: 50000
         })
     })
 }
