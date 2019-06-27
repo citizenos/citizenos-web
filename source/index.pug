@@ -51,8 +51,12 @@ append stylus
                 height 100%
                 width 100%
                 background-color black
-                opacity 0.5
+                opacity 0.7
                 z-index 1
+                background-image url('/assets/images/frontpage-start-bg.jpg')
+                background-repeat no-repeat
+                background-position center
+                background-size cover
 
         @media (pointer: coarse) and (hover: none)
             header
@@ -76,9 +80,9 @@ append stylus
 block header
     header
         .overlay
-        video#video-bg(poster='/assets/videos/frontpage-start-bg.jpg', playsinline, autoplay, muted, loop)
-            source(src='/assets/videos/frontpage-start-bg.webm', type='video/webm')
-            source(src='/assets/videos/frontpage-start-bg.mp4', type='video/mp4')
+        //- video#video-bg(poster='/assets/videos/frontpage-start-bg.jpg', playsinline, autoplay, muted, loop)
+        //-     source(src='/assets/videos/frontpage-start-bg.webm', type='video/webm')
+        //-     source(src='/assets/videos/frontpage-start-bg.mp4', type='video/mp4')
         .container.d-flex
             .col-12.col-sm-10.offset-sm-1.h-100.w-100.pt-2.pb-3.text-white.text-center.align-self-center
                 h1.mb-4= self.header.title
