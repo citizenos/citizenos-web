@@ -1,11 +1,13 @@
 ---
 image: /assets/images/fbimg-home-alt.jpg
 header:
-  title: Décidons ensemble ! Votre plateforme pour les pétitions et la prise de décision dans une équipe ou une communauté.
+  title: Argument-based discussions and collaborative decision-making for grassroots.
   text: |
-    Edit documents with others at the same time,
-    structure discussions, involve thousands or millions of members,
-    keep voting deadlines, collect votes for petitions.
+    Open source products.
+
+    Empowering as many people as possible
+    to participate in meaningful discussions and
+    to make collaborative decisions.
   play:
     title: Introduction
     url: https://www.youtube.com/embed/hDLWbQQAk8g?rel=0&showinfo=0&modestbranding=1&autoplay=1&cc_load_policy=1&cc_lang_pref=fr
@@ -32,7 +34,7 @@ blocks:
       background-position: 0% 25%
       background-size: 360px 360px
     title: |
-      Développez des logiciels Open Source.
+      Use the open source software.
     text: |
       Nous pensons que les outils pour la démocratie participative en ligne devraient être libres d'utilisation pour tous.
     button1st:
@@ -85,9 +87,9 @@ blocks:
       background-position: 30% 25%
       background-size: 360px 360px
     title: |
-      Basé sur la recherche et les données.
+      Developing e-democracy.
     text: |
-      Nous collaborons avec des chercheurs en e-démocratie pour contribuer au développement de nos produits.
+      We collaborate with researchers to help develop our products.
     button1st:
       title: À propos de la recherche
       url: /fr/research/
