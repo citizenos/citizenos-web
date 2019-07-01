@@ -37,7 +37,7 @@ newsletter:
   input: Email address
   button: Sign up
 footer:
-  text: Citizen OS is an Open Source Foundation.
+  text: We are open source.
   navigation:
     about:
       title: Tietoja
