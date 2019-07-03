@@ -37,7 +37,7 @@ newsletter:
   input: Email address
   button: Sign up
 footer:
-  text: We are open source.
+  text:
   navigation:
     about:
       title: A propos
