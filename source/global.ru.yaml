@@ -37,7 +37,7 @@ newsletter:
   input: Адрес электронной почты
   button: Подписаться
 footer:
-  text: У нас открытый исходный код.
+  text:
   navigation:
     about:
       title: О платформе
