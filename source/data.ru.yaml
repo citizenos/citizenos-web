@@ -2,10 +2,8 @@
 image: /assets/images/fbimg-home-alt.jpg
 header:
   title: Обсуждения на основе аргументов и совместное принятие решений для гражданских инициатив.
-  text: |
-    Продукты с открытым исходным кодом.
+  0: |
 
-    Расширение прав и возможностей как можно большего числа людей для принятия участия в содержательных обсуждениях и совместного принятия решений.
   play:
     title: Введение
     url: https://www.youtube.com/embed/hDLWbQQAk8g?rel=0&showinfo=0&modestbranding=1&autoplay=1&cc_load_policy=1&cc_lang_pref=ru
