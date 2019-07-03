@@ -18,7 +18,7 @@ $(function () {
         $('#newsletter-form input[name="EMAIL"]').focus()
     })
 
-    $('#newsletter').on('hide.bs.modal', function (e) {
+    $('#newsletter').on('hidden.bs.modal', function (e) {
         $('#newsletter-form input[name="EMAIL"]').val('')
     })
 

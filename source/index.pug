@@ -246,7 +246,7 @@ append script
                 $('#video-bg').get(0).pause()
             })
 
-            $('#video-popup').on('hide.bs.modal', function () {
+            $('#video-popup').on('hidden.bs.modal', function () {
                 $('#video-popup iframe').attr('src', '')
                 $('#video-bg').get(0).play()
             })

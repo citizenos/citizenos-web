@@ -155,7 +155,7 @@ append script
                 $('#video-popup iframe').attr('src', $(this).attr('href'))
             })
 
-            $('#video-popup').on('hide.bs.modal', function () {
+            $('#video-popup').on('hidden.bs.modal', function () {
                 $('#video-popup iframe').attr('src', '')
             })
 
