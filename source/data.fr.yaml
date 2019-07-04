@@ -1,11 +1,9 @@
 ---
 image: /assets/images/fbimg-home-alt.jpg
 header:
-  title: Décidons ensemble ! Votre plateforme pour les pétitions et la prise de décision dans une équipe ou une communauté.
-  text: |
-    Edit documents with others at the same time,
-    structure discussions, involve thousands or millions of members,
-    keep voting deadlines, collect votes for petitions.
+  title: Argument-based discussions and collaborative decision-making for civic initiatives.
+  0: |
+
   play:
     title: Introduction
     url: https://www.youtube.com/embed/hDLWbQQAk8g?rel=0&showinfo=0&modestbranding=1&autoplay=1&cc_load_policy=1&cc_lang_pref=fr
@@ -32,7 +30,7 @@ blocks:
       background-position: 0% 25%
       background-size: 360px 360px
     title: |
-      Développez des logiciels Open Source.
+      Use the open source software.
     text: |
       Nous pensons que les outils pour la démocratie participative en ligne devraient être libres d'utilisation pour tous.
     button1st:
@@ -59,9 +57,9 @@ blocks:
       background-position: 0 10%
       background-size: 122px 122px
     title: |
-      Augmenter la sensibilisation à la démocratie participative.
+      Raising awareness on participatory democracy.
     text: |
-      Nous pensons que la voie à suivre en tant que civilisation est de se réunir au niveau mondial et de décider des choses.
+      We believe the way for us to move forward as a civilization is to globally come together and decide on issues that affect our wellbeing.
     button1st:
       title: À propos de la vision
       url: /fr/vision/
@@ -85,9 +83,9 @@ blocks:
       background-position: 30% 25%
       background-size: 360px 360px
     title: |
-      Basé sur la recherche et les données.
+      Developing e-democracy.
     text: |
-      Nous collaborons avec des chercheurs en e-démocratie pour contribuer au développement de nos produits.
+      We collaborate with researchers to help develop our products.
     button1st:
       title: À propos de la recherche
       url: /fr/research/

@@ -1,11 +1,9 @@
 ---
 image: /assets/images/fbimg-home-alt.jpg
 header:
-  title: Tehdään päätöksiä yhdessä! Oma alustasi adresseille ja päätöksenteolle ryhmänä tai yhteisönä.
-  text: |
-    Edit documents with others at the same time,
-    structure discussions, involve thousands or millions of members,
-    keep voting deadlines, collect votes for petitions.
+  title: Argument-based discussions and collaborative decision-making for civic initiatives.
+  0: |
+
   play:
     title: Johdanto
     url: https://www.youtube.com/embed/hDLWbQQAk8g?rel=0&showinfo=0&modestbranding=1&autoplay=1&cc_load_policy=1&cc_lang_pref=fi
@@ -32,7 +30,7 @@ blocks:
       background-position: 0% 25%
       background-size: 360px 360px
     title: |
-      Avoimen lähdekoodin ohjelmistojen kehittäminen.
+      Use the open source software.
     text: |
       Uskomme, että verkossa tapahtuvan osallistuvan demokratian välineiden tulisi olla kaikkien käytettävissä ilmaiseksi.
     button1st:
@@ -59,9 +57,9 @@ blocks:
       background-position: 0 10%
       background-size: 122px 122px
     title: |
-      Verkkodemokratiatietoisuuden lisääminen.
+      Raising awareness on participatory democracy.
     text: |
-      Uskomme, että voidaksemme kehittyä kulttuurina ja sivistyksenä meidän tulee kokoontua yhteen globaalisti tekemään päätöksiä asioista.
+      We believe the way for us to move forward as a civilization is to globally come together and decide on issues that affect our wellbeing.
     button1st:
       title: Tietoja visiosta
       url: /fi/vision/
@@ -85,9 +83,9 @@ blocks:
       background-position: 30% 25%
       background-size: 360px 360px
     title: |
-      Tutkimukseen ja asiatietoon nojautuminen.
+      Developing e-democracy.
     text: |
-      Teemme yhteistyötä digitaalisen demokratian tutkijoiden kanssa kehittääksemme tuotteitamme.
+      We collaborate with researchers to help develop our products.
     button1st:
       title: Tietoja tutkimuksesta
       url: /fi/research/
