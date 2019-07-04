@@ -15,6 +15,9 @@ block content
                                     +markdown('## ' + block.title)
                                 if block.text
                                     +markdown(block.text)
+                                if block.texts
+                                    each t in block.texts
+                                        +markdown(t)
                                 if block.button1st
                                     a.btn.btn-primary.my-2(href=block.button1st.url, target=block.button1st.target)= block.button1st.title
                                 if block.button2nd
