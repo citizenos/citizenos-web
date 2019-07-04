@@ -1,9 +1,9 @@
 ---
 image: crwdns19320:0crwdne19320:0
 header:
-  title: crwdns17064:0crwdne17064:0
-  text: |
-    crwdns20034:0crwdne20034:0
+  title: crwdns20140:0crwdne20140:0
+  0: |
+    crwdns20146:0crwdne20146:0
   play:
     title: crwdns17068:0crwdne17068:0
     url: crwdns19172:0crwdne19172:0
@@ -30,7 +30,7 @@ blocks:
       background-position: crwdns17948:0crwdne17948:0
       background-size: crwdns17950:0crwdne17950:0
     title: |
-      crwdns18924:0crwdne18924:0
+      crwdns20122:0crwdne20122:0
     text: |
       crwdns17954:0crwdne17954:0
     button1st:
@@ -57,9 +57,9 @@ blocks:
       background-position: crwdns17982:0crwdne17982:0
       background-size: crwdns17984:0crwdne17984:0
     title: |
-      crwdns18926:0crwdne18926:0
+      crwdns20130:0crwdne20130:0
     text: |
-      crwdns17988:0crwdne17988:0
+      crwdns20132:0crwdne20132:0
     button1st:
       title: crwdns17990:0crwdne17990:0
       url: crwdns18928:0crwdne18928:0
@@ -83,9 +83,9 @@ blocks:
       background-position: crwdns18014:0crwdne18014:0
       background-size: crwdns18016:0crwdne18016:0
     title: |
-      crwdns18930:0crwdne18930:0
+      crwdns20124:0crwdne20124:0
     text: |
-      crwdns18020:0crwdne18020:0
+      crwdns20126:0crwdne20126:0
     button1st:
       title: crwdns18022:0crwdne18022:0
       url: crwdns18024:0crwdne18024:0

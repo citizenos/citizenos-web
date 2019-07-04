@@ -1,11 +1,9 @@
 ---
 image: /assets/images/fbimg-home-alt.jpg
 header:
-  title: Otsustame koos! Parim platvorm tiimide või kogukondadega petitsioonide loomiseks ja otsuste langetamiseks.
-  text: |
-    Edit documents with others at the same time,
-    structure discussions, involve thousands or millions of members,
-    keep voting deadlines, collect votes for petitions.
+  title: Argument-based discussions and collaborative decision-making for civic initiatives.
+  0: |
+
   play:
     title: Tutvustus
     url: https://www.youtube.com/embed/hDLWbQQAk8g?rel=0&showinfo=0&modestbranding=1&autoplay=1&cc_load_policy=1&cc_lang_pref=et
@@ -32,7 +30,7 @@ blocks:
       background-position: 0% 25%
       background-size: 360px 360px
     title: |
-      Avatud lähtekoodiga tarkvara arendamine.
+      Use the open source software.
     text: |
       Usume, et online osalusdemokraatia vahendid peaksid olema kõigile tasuta kättesaadavad.
     button1st:
@@ -59,9 +57,9 @@ blocks:
       background-position: 0 10%
       background-size: 122px 122px
     title: |
-      Osalusdemokraatiaga seotud teadlikkuse tõstmine.
+      Raising awareness on participatory democracy.
     text: |
-      Usume, et tänase ühiskonna õigeim edasiliikumise viis on see, kui kõik maailma inimesed üheskoos olulistel teemadel otsuseid langetavad.
+      We believe the way for us to move forward as a civilization is to globally come together and decide on issues that affect our wellbeing.
     button1st:
       title: Meie visioonist
       url: /et/vision/
@@ -85,9 +83,9 @@ blocks:
       background-position: 30% 25%
       background-size: 360px 360px
     title: |
-      Tugineb uurimustele ja andmetele.
+      Developing e-democracy.
     text: |
-      Oma toodete arendamiseks teeme koostööd e-demokraatiat uurivate teadlastega.
+      We collaborate with researchers to help develop our products.
     button1st:
       title: Teave teadusuuringute kohta
       url: /et/research/

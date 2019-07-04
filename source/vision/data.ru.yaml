@@ -11,7 +11,7 @@ blocks:
       background-position: center center, 0 10%, 75% 20%
       background-size: 500px 500px, 350px 350px, 65px 65px
     text: |
-      [► Play video](https://www.youtube.com/embed/hDLWbQQAk8g?rel=0&showinfo=0&modestbranding=1&autoplay=1&cc_load_policy=1&cc_lang_pref=en){.btn .btn-primary data-toggle=modal data-target=#video-popup}
+      [► Смотреть видео](https://www.youtube.com/embed/hDLWbQQAk8g?rel=0&showinfo=0&modestbranding=1&autoplay=1&cc_load_policy=1&cc_lang_pref=en){.btn .btn-primary data-toggle=modal data-target=#video-popup}
   start:
     class:
       - order-0
@@ -50,7 +50,7 @@ blocks:
     title: |
       Один голос может стать решающим.
     text: |
-      Представительная демократия — это концепция индивидуального участия в принятии политических решений, прямо влияющих на вашу жизнь.
+      Демократия участия — это концепция индивидуального участия в принятии политических решений, имеющих прямое влияние на вашу жизнь.
 
       ## Чем нас больше — тем мы сильнее.
 
@@ -69,7 +69,7 @@ blocks:
       background-size: 164px 164px, cover
       background-position: 10% 10%
     title: |
-      Вместе мы сможем развивать представительную онлайн-демократию.
+      Вместе мы сможем развивать представительную демократию участия в режиме онлайн.
     text: |
       Мы разрабатываем продукты, которые помогают людям создать лучшее будущее. Если вы разработчик, переводчик, исследователь, дизайнер, активист или журналист — присоединяйтесь к нам!
     button1st:
