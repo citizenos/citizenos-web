@@ -1,7 +1,7 @@
 ---
 image: /assets/images/fbimg-home-alt.jpg
 header:
-  title: Argument-based discussions and collaborative decision-making for civic initiatives.
+  title: Argumendipõhised arutelud ja ühiste otsuste langetamine kodanikualgatuste jaoks.
   0: |
 
   play:
@@ -30,7 +30,7 @@ blocks:
       background-position: 0% 25%
       background-size: 360px 360px
     title: |
-      Use the open source software.
+      Võta kasutusele meie avatud lähtekoodiga tarkvara.
     text: |
       Usume, et online osalusdemokraatia vahendid peaksid olema kõigile tasuta kättesaadavad.
     button1st:
@@ -57,7 +57,7 @@ blocks:
       background-position: 0 10%
       background-size: 122px 122px
     title: |
-      Raising awareness on participatory democracy.
+      Tõstame teadlikkust osalusdemokraatiast.
     text: |
       Usume, et parim viis tsivilisatsioonina edasi arenemiseks on globaalselt kokku tulla ja otsustada teemade üle, mis mõjutavad meie heaolu.
     button1st:
@@ -83,9 +83,9 @@ blocks:
       background-position: 30% 25%
       background-size: 360px 360px
     title: |
-      Developing e-democracy.
+      Oleme arendamas e-demokraatiat.
     text: |
-      We collaborate with researchers to help develop our products.
+      Tootearenduseks teeme koostööd teadlastega.
     button1st:
       title: Teave teadusuuringute kohta
       url: /et/research/
