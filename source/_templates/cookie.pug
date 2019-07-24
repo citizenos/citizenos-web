@@ -1,0 +1,8 @@
+if self.cookie
+    #kypsis.d-none.container-fluid.fixed-bottom
+        .row.py-3
+            .col-12.col-sm
+                img.mr-3.float-left(src='/assets/images/cookie.svg')
+                +markdown(self.cookie.text)
+            .col-12.col-sm-auto
+                button.btn.btn-primary.mt-3.mt-sm-0.ml-sm-3.px-5(href='#')= self.cookie.button
