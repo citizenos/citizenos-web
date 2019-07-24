@@ -175,7 +175,7 @@ blocks:
     title: |
       Kasutajakogemus: suhtlusulatuse laiendamine.
     text: |
-      Arvamusfestival(https://www.arvamusfestival.ee/en) integreeris platvormi Citizen OS argumenteerimisvidina, mille abil said online arutelud festivalil püstitatud teemadel jätkuda ka pärast kaht festivalipäeva.
+      [Arvamusfestival](https://www.arvamusfestival.ee/en) integreeris platvormi Citizen OS argumenteerimisvidina, mille abil said online arutelud festivalil püstitatud teemadel jätkuda ka pärast kaht festivalipäeva.
   stats:
     class:
       - order-10
