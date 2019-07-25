@@ -2,12 +2,6 @@
 title: Устав
 image: /assets/images/fbimg-research.jpg
 blocks:
-  statute-img:
-    class:
-      - d-none
-      - d-sm-block
-    style:
-      background: 'linear-gradient(180deg, #0EB7FE 0%, #0680FC 100%)'
   statute:
     title: |
       Устав Фонда Citizen OS

@@ -13,5 +13,7 @@ blocks:
     title: |
       Юридическая информация
     text: |
-      [Articles of Association of the Foundation Citizen OS](/ru/statute/)
-      [Citizen OS API Terms of Use](https://app.citizenos.com/en/topics/7abdd244-d45b-40d3-997c-a6290d4e972c)
+      [Articles of Association of the Foundation Citizen OS](/legal/statute/)
+      [Terms of Use](/legal/tou/)
+      [Privacy and Cookies Policy](/legal/privacy/)
+      [Citizen OS API Terms of Use](/legal/api/)
