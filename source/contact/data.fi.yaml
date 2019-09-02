@@ -15,12 +15,13 @@ blocks:
     text: |
       |  |  |
       | --- | --- |
-      | Contact: | <info@citizenos.com> |
-      | Address: | Telliskivi Creative City, Telliskivi 60a, Tallinn, Estonia, EU |
+      | Yhteys: | <info@citizenos.com> |
+      | Osoite: | Telliskivi Creative City, Telliskivi 60a, Tallinna, Viro, EU |
 
-      #### On social media
+      #### Sosiaalisessa mediassa
 
-      - Follow us on [Facebook](https://www.facebook.com/citizenos.web).
+      - Seuraa [Facebook]issa
+      (https://www.facebook.com/citizenos.web).
       - [Medium](https://medium.com/citizenos)
-      - [Tweets](https://twitter.com/Citizen_OS) about democracy and open governance.
-      - [Tweets](https://twitter.com/CitizenOSStatus) about our technical service updates.
+      - [Twiittejä](https://twitter.com/Citizen_OS) demokratiasta ja avoimesta hallinnosta.
+      - [Twiittejä](https://twitter.com/CitizenOSStatus) teknisten palveluiden päivityksistä.
