@@ -5,7 +5,7 @@ header:
   0: |
 
   play:
-    title: Introduction
+    title: Einführung
     url: https://www.youtube.com/embed/hDLWbQQAk8g?rel=0&showinfo=0&modestbranding=1&autoplay=1&cc_load_policy=1&cc_lang_pref=en
   demo:
     title: Demo
@@ -32,9 +32,9 @@ blocks:
     title: |
       Use the open source software.
     text: |
-      We believe the tools for online participatory democracy should be free to use for everyone.
+      Wir sind der Meinung, dass die Instrumente für eine Online-Partizipatorische Demokratie für jedermann frei verfügbar sein sollten.
     button1st:
-      title: About product
+      title: Über das Produkt
       url: /product/
   democracy-img:
     class:
@@ -61,7 +61,7 @@ blocks:
     text: |
       We believe the way for us to move forward as a civilization is to globally come together and decide on issues that affect our wellbeing.
     button1st:
-      title: About vision
+      title: Über die Vision
       url: /vision/
     button2nd:
   research-img:
@@ -87,7 +87,7 @@ blocks:
     text: |
       We collaborate with researchers to help develop our products.
     button1st:
-      title: About research
+      title: Über die Forschung
       url: /research/
   news:
     class:
@@ -99,23 +99,23 @@ blocks:
       background-position: 60% 10%
       background-size: 360px 360px
     title: |
-      Latest news
+      Letzte Neuigkeiten
     text: |
       { #news-items }
     button1st:
-      title: Read blog
+      title: Blog lesen
       url: https://medium.com/citizenos
-    readMore: Read more
+    readMore: Mehr lesen
   team:
     class:
       - order-7
       - my-5
     title: |
-      Help us develop Open Source products and spread participatory democracy.
+      Helfen Sie uns, Open Source Produkte zu entwickeln und partizipative Demokratie zu verbreiten.
     text: |
-      Whether you are a developer, translator, researcher, designer, hacktivist or journalist - join us!
+      Egal, ob Sie Entwickler, Übersetzer, Forscher, Designer, Hacktivist oder Journalist sind - Treten Sie uns bei!
     button1st:
-      title: Contribute
+      title: Mitwirken
       url: /contribute/
   partners:
     class:
@@ -124,6 +124,6 @@ blocks:
     style:
       border-left: '1px solid #E5E5E5'
     title: |
-      Our partners & supporters
+      Unsere Partner & Unterstützer
     text: |
       ![Partners](/assets/images/frontpage-partners.png){ .mt-4 .w-100 }
