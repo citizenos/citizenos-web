@@ -32,10 +32,10 @@ platformLink:
   url: https://app.citizenos.com/fi/
 mobileMenu: VALIKKO
 newsletter:
-  title: Sign up for the Citizen OS newsletter!
-  text: We'll recommend great reads on how participatory democracy will save humanity.
-  input: Email address
-  button: Sign up
+  title: Tilaa Citizen OS -uutiskirje!
+  text: Suosittelemme lukemista siitä, miten osallistuva demokratia pelastaa ihmiskunnan.
+  input: Sähköpostiosoite
+  button: Rekisteröidy
 footer:
   text:
   navigation:
@@ -58,7 +58,7 @@ footer:
           title: Yhteydenotto
           url: /fi/contact/
     community:
-      title: Social Media
+      title: Sosiaalinen media
       links:
         blog:
           title: Blogi
@@ -83,5 +83,5 @@ footer:
           url: https://github.com/citizenos
 cookie:
   text: |
-    We use cookies to personalize content, to provide social media features and to analyze our traffic. By clicking “Accept", exiting this banner or continuing to use our services you accept our use of cookies. [Read our Legal Terms](/legal)
-  button: Accept
+    Käytämme evästeitä tarjoamamme sisällön käyttäjäkohtaiseen räätälöintiin sekä analysoidaksemme verkkoliikennettämme. Ilmaiset hyväksyväsi evästeiden käytön painamalla "Hyväksy"-painiketta ja jatkamalla palveluidemme käyttöä. [Lue juridiset ehtomme](/legal).
+  button: Hyväksy

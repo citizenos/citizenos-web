@@ -1,5 +1,5 @@
 ---
-title: Contact
+title: Kontakt
 image: /assets/images/fbimg-vision.jpg
 blocks:
   contact-img:
@@ -11,7 +11,7 @@ blocks:
       min-height: 75vh
   contact:
     title: |
-      Contact
+      Kontakt
     text: |
       |  |  |
       | --- | --- |

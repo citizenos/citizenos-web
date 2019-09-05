@@ -1,5 +1,5 @@
 ---
-title: Contribute
+title: Mitwirken
 image: /assets/images/fbimg-vision.jpg
 blocks:
   contribute-img:
@@ -11,7 +11,7 @@ blocks:
       min-height: 75vh
   contribute:
     title: |
-      How to contribute?
+      Wie können Sie mitwirken?
     text: |
 
       Help us improve the Citizen OS platform as a volunteer. Whether you are a developer, translator, researcher, designer, hacktivist or journalist - join us!
