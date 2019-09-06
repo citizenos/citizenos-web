@@ -15,9 +15,8 @@ blocks:
   decision:
     class:
       - crwdns19184:0crwdne19184:0
+      - crwdns22230:0crwdne22230:0
     style:
-      padding-top: crwdns18200:0crwdne18200:0
-      padding-bottom: crwdns18202:0crwdne18202:0
       background-color: 'crwdns18204:0crwdne18204:0'
       background-image: crwdns18206:0crwdne18206:0
       background-position: crwdns18208:0crwdne18208:0
@@ -33,10 +32,9 @@ blocks:
     class:
       - crwdns18220:0crwdne18220:0
       - crwdns18222:0crwdne18222:0
+      - crwdns22232:0crwdne22232:0
     style:
       background: 'crwdns18224:0crwdne18224:0'
-      padding-top: crwdns18226:0crwdne18226:0
-      padding-bottom: crwdns18228:0crwdne18228:0
       background-image: crwdns18230:0crwdne18230:0
       background-size: crwdns18232:0crwdne18232:0
     label: crwdns18234:0crwdne18234:0
@@ -158,10 +156,9 @@ blocks:
     class:
       - crwdns19222:0crwdne19222:0
       - crwdns18376:0crwdne18376:0
+      - crwdns22234:0crwdne22234:0
     style:
       background: 'crwdns18378:0crwdne18378:0'
-      padding-top: crwdns18380:0crwdne18380:0
-      padding-bottom: crwdns18382:0crwdne18382:0
       background-image: crwdns18384:0crwdne18384:0
       background-size: crwdns18386:0crwdne18386:0
     title: |
