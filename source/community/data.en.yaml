@@ -11,6 +11,8 @@ blocks:
     start-img:
         class:
             - order-1
+            - d-none
+            - d-sm-block
         style:
             background-color: '#D07FB4'
             background-image: url(/assets/images/community-start.png)
@@ -21,6 +23,7 @@ blocks:
         class:
             - order-0
             - py-5
+            - pr-5
         style:
             color: '#FFFFFF'
             background-color: '#D07FB4'
