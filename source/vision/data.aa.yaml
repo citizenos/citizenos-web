@@ -15,9 +15,8 @@ blocks:
   start:
     class:
       - crwdns19230:0crwdne19230:0
+      - crwdns22240:0crwdne22240:0
     style:
-      padding-top: crwdns18966:0crwdne18966:0
-      padding-bottom: crwdns18968:0crwdne18968:0
       background-color: 'crwdns18970:0crwdne18970:0'
       background-image: crwdns18972:0crwdne18972:0
       background-position: crwdns18974:0crwdne18974:0
@@ -54,9 +53,8 @@ blocks:
   awareness:
     class:
       - crwdns19042:0crwdne19042:0
+      - crwdns22242:0crwdne22242:0
     style:
-      padding-top: crwdns19044:0crwdne19044:0
-      padding-bottom: crwdns19046:0crwdne19046:0
       background-image: crwdns19048:0crwdne19048:0
       background-size: crwdns19050:0crwdne19050:0
       background-position: crwdns19052:0crwdne19052:0
