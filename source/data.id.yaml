@@ -1,4 +1,5 @@
 ---
+path: /
 image: /assets/images/fbimg-home-alt.jpg
 header:
   title: Argument-based discussions and collaborative decision-making for civic initiatives.
@@ -106,10 +107,28 @@ blocks:
       title: Read blog
       url: https://medium.com/citizenos
     readMore: Read more
-  team:
+  meet:
     class:
       - order-7
+      - col-sm-10
       - my-5
+    style:
+      background-image: url(/assets/images/bubble-dots.png)
+      background-position: 60% 130%
+      background-size: 350px 350px
+    title: |
+      Where you can meet us
+    subtitle: |
+      World Forum for Democracy 2019
+    text: |
+      The World Forum for Democracy 2019 will be dedicated to information and democracy. Will you be there? Drop us a line at info @ citizenos.com and let's meet!
+    image: /assets/images/frontpage-meet-democracyforum.png
+    date: 06. - 08.11.2019
+    location: Strasbourg
+  team:
+    class:
+      - order-8
+      - py-5
     title: |
       Help us develop Open Source products and spread participatory democracy.
     text: |
@@ -119,7 +138,7 @@ blocks:
       url: /contribute/
   partners:
     class:
-      - order-8
+      - order-9
       - my-5
     style:
       border-left: '1px solid #E5E5E5'

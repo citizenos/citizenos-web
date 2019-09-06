@@ -13,6 +13,10 @@ navigation:
     title: Tutkimus
     url: /fi/research/
     class: research
+  community:
+    title: Community
+    url: /community/
+    class: community
   blog:
     title: Blogi
     url: https://medium.com/citizenos

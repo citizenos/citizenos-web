@@ -32,9 +32,8 @@ blocks:
   forward-img:
     class:
       - order-2
+      - py-5
     style:
-      padding-top: 5rem
-      padding-bottom: 5rem
       background-color: '#F7F7F7'
       background-image: url(/assets/images/bubble-orange.svg), url(/assets/images/bubble-dots.png)
       background-position: 100% 10%, 90% 10%
@@ -57,9 +56,8 @@ blocks:
     class:
       - order-4
       - order-sm-5
+      - py-5
     style:
-      padding-top: 5rem
-      padding-bottom: 5rem
       background-image: url(/assets/images/bubble-yellow.svg), url(/assets/images/bubble-blue.svg), url(/assets/images/bubble-dots.png)
       background-position: 90% 10%, 10% 80%, 0% 90%
       background-size: 45px 45px, 165px 165px, 350px 350px

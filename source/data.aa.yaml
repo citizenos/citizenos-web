@@ -1,4 +1,5 @@
 ---
+path: crwdns22192:0crwdne22192:0
 image: crwdns19320:0crwdne19320:0
 header:
   title: crwdns20140:0crwdne20140:0
@@ -106,10 +107,28 @@ blocks:
       title: crwdns18042:0crwdne18042:0
       url: crwdns18044:0crwdne18044:0
     readMore: crwdns18046:0crwdne18046:0
+  meet:
+    class:
+      - crwdns22194:0crwdne22194:0
+      - crwdns22196:0crwdne22196:0
+      - crwdns22198:0crwdne22198:0
+    style:
+      background-image: crwdns22200:0crwdne22200:0
+      background-position: crwdns22202:0crwdne22202:0
+      background-size: crwdns22204:0crwdne22204:0
+    title: |
+      crwdns22206:0crwdne22206:0
+    subtitle: |
+      crwdns22246:0crwdne22246:0
+    text: |
+      crwdns22248:0crwdne22248:0
+    image: crwdns22250:0crwdne22250:0
+    date: crwdns22252:0crwdne22252:0
+    location: crwdns22254:0crwdne22254:0
   team:
     class:
-      - crwdns18048:0crwdne18048:0
-      - crwdns18050:0crwdne18050:0
+      - crwdns22218:0crwdne22218:0
+      - crwdns22220:0crwdne22220:0
     title: |
       crwdns18914:0crwdne18914:0
     text: |
@@ -119,7 +138,7 @@ blocks:
       url: crwdns18058:0crwdne18058:0
   partners:
     class:
-      - crwdns18060:0crwdne18060:0
+      - crwdns22222:0crwdne22222:0
       - crwdns18062:0crwdne18062:0
     style:
       border-left: 'crwdns18064:0crwdne18064:0'
