@@ -71,12 +71,24 @@ append stylus
                 border none
                 border-radius 0
 
+        .meet-image
+            background #FADC4B
+
+        .meet-info
+            line-height 16px
+            color #252525
+            opacity 0.6
+
+            img
+                margin-top -3px
+
         @media only screen and (max-width: 576px)
             header
                 .container
                     h1
                         font-size 32px
                         line-height 40px
+
 
 block header
     header
@@ -153,6 +165,25 @@ append content
                 .modal-body.embed-responsive.embed-responsive-16by9
                     iframe.embed-responsive-item(width='560', height='315', src='', frameborder='0', allow='autoplay; encrypted-media', allowfullscreen='')
 
+    #meet-blocks
+        .col-12.text-center
+            h2
+                strong= self.blocks.meet.title
+        .row.mt-5.box-shadow
+            .meet-image.col-12.col-lg-5.px-0
+                img.img-fluid.align-self-center(src=self.blocks.meet.image)
+            .col-12.col-lg-7.bg-white.pt-4.px-4
+                h5.mb-2
+                    strong= self.blocks.meet.subtitle
+                .row
+                    .meet-info.col-12.col-md-auto.mb-3
+                        img.mr-2(src='/assets/images/webinar-calendar.svg', width=16, height=16)
+                        = self.blocks.meet.date
+                    .meet-info.col-12.col-md-auto.mb-3
+                        img.mr-2(src='/assets/images/webinar-location.svg', width=16, height=16)
+                        = self.blocks.meet.location
+                +markdown(self.blocks.meet.text)
+
 
 
 append script
@@ -212,6 +243,9 @@ append script
                 $('#news .block-text h2').after($('#news-blocks').html())
                 $('#news-blocks').remove()
             }
+
+            $('#meet .block-text').html($('#meet-blocks').html())
+            $('#meet-blocks').remove()
 
             $('#team .block-text').addClass('offset-sm-2')
             $('#team .block-text').removeClass('col-sm-10')
