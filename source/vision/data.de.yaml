@@ -15,9 +15,8 @@ blocks:
   start:
     class:
       - order-0
+      - py-5
     style:
-      padding-top: 5rem
-      padding-bottom: 5rem
       background-color: '#AAF3DD'
       background-image: url(/assets/images/bubble-blue.svg), url(/assets/images/bubble-orange.svg)
       background-position: 10% 15%, 90% 90%
@@ -62,9 +61,8 @@ blocks:
   awareness:
     class:
       - order-4
+      - py-5
     style:
-      padding-top: 5rem
-      padding-bottom: 5rem
       background-image: url(/assets/images/bubble-orange.svg), url(/assets/images/vision-awareness.jpg)
       background-size: 164px 164px, cover
       background-position: 10% 10%
