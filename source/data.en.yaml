@@ -143,7 +143,7 @@ blocks:
     team:
         class:
             - order-7
-            - my-5
+            - py-5
         # label: A word from the team
         title: |
             Help us develop Open Source products and spread participatory democracy.

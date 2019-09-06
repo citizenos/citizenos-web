@@ -20,10 +20,9 @@ blocks:
     start:
         class:
             - order-0
+            - py-5
         style:
             color: '#FFFFFF'
-            padding-top: 5rem
-            padding-bottom: 5rem
             background-color: '#D07FB4'
         title: |
             Become a founding member of the civic hacktivist community
@@ -62,9 +61,8 @@ blocks:
         class:
             - order-4
             - order-sm-5
+            - py-5
         style:
-            padding-top: 5rem
-            padding-bottom: 5rem
             background-color: '#F7F7F7'
             background-image: url(/assets/images/bubble-orange.svg), url(/assets/images/bubble-blue.svg), url(/assets/images/bubble-dots.png)
             background-position: 90% 10%, 30% 80%, 20% 90%
@@ -91,10 +89,9 @@ blocks:
         class:
             - order-6
             - col-sm-12
+            - py-5
             - text-center
         style:
-            padding-top: 5rem
-            padding-bottom: 5rem
             background-image: url(/assets/images/bubble-dots.png)
             background-position: center
             background-size: 450px 450px
@@ -133,9 +130,8 @@ blocks:
     hactivist-community-1:
         class:
             - order-8
+            - py-5
         style:
-            padding-top: 5rem
-            padding-bottom: 5rem
             background-color: '#AAF3DD'
         # label: Raising awareness
         title: |
@@ -148,9 +144,8 @@ blocks:
     hactivist-community-2:
         class:
             - order-9
+            - py-5
         style:
-            padding-top: 5rem
-            padding-bottom: 5rem
             background-color: '#AAF3DD'
         # label: Raising awareness
         title: |
@@ -166,9 +161,8 @@ blocks:
         class:
             - order-10
             - order-sm-11
+            - py-5
         style:
-            padding-top: 5rem
-            padding-bottom: 5rem
             background-image: url(/assets/images/bubble-blue.svg), url(/assets/images/bubble-yellow.svg), url(/assets/images/bubble-dots.png)
             background-position: 70% 90%, 30% 10%, 20% 90%
             background-size: 45px 45px, 165px 165px, 350px 350px
@@ -194,10 +188,9 @@ blocks:
         class:
             - order-12
             - col-sm-12
+            - py-5
             - text-center
         style:
-            padding-top: 5rem
-            padding-bottom: 5rem
             background-color: '#F7F7F7'
             background-image: url(/assets/images/bubble-orange.svg), url(/assets/images/bubble-turquoise.svg), url(/assets/images/bubble-dots.png)
             background-position: 90% 50%, 10% 20%, 70% 20%
@@ -223,10 +216,9 @@ blocks:
             - col-sm-12
             - col-lg-8
             - offset-lg-2
+            - py-5
             - text-center
         style:
-            padding-top: 5rem
-            padding-bottom: 5rem
             background-image: url(/assets/images/bubble-dots.png)
             background-position: center
             background-size: 350px 350px
