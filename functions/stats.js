@@ -11,8 +11,13 @@ const getStatsAPI = async () => {
             })
 
             response.on('end', function() {
-                var parsed = JSON.parse(body)
-                resolve(parsed.data)
+                try {
+                    var parsed = JSON.parse(body)
+                    resolve(parsed.data)
+                } catch (e) {
+                    console.error(e)
+                    resolve({})
+                }
             })
         })
   })
@@ -29,8 +34,13 @@ const getStatsERE = async () => {
             })
 
             response.on('end', function() {
-                var parsed = JSON.parse(body)
-                resolve(parsed.data)
+                try {
+                    var parsed = JSON.parse(body)
+                    resolve(parsed.data)
+                } catch (e) {
+                    console.error(e)
+                    resolve({})
+                }
             })
         })
   })
