@@ -5,7 +5,7 @@ $(function () {
         var email = $('#newsletter-form input[name="EMAIL"]').val()
 
         if(email) {
-            $.post('https://citizenos.com/.netlify/functions/newsletter', JSON.stringify({ email: email }), function (data) {
+            $.post('/.netlify/functions/newsletter', JSON.stringify({ email: email }), function (data) {
                 console.log(data)
 
                 $('#newsletter').modal('hide')
