@@ -16,7 +16,12 @@ const getStatsAPI = async () => {
                     resolve(parsed.data)
                 } catch (e) {
                     console.error(e)
-                    resolve({})
+                    resolve({
+                        topicsCreated: 0,
+                        votesCast: 0,
+                        groupsCreated: 0,
+                        usersCreated: 0
+                    })
                 }
             })
         })
@@ -39,7 +44,12 @@ const getStatsERE = async () => {
                     resolve(parsed.data)
                 } catch (e) {
                     console.error(e)
-                    resolve({})
+                    resolve({
+                        topicsCreated: 0,
+                        votesCast: 0,
+                        groupsCreated: 0,
+                        usersCreated: 0
+                    })
                 }
             })
         })
