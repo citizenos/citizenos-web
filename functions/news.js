@@ -1,5 +1,8 @@
 const http = require('https')
+const path = require('path')
+const url = require('url')
 const xml2js = require('xml2js')
+
 
 const getMediumJson = async () => {
     return new Promise((resolve, reject) => {
@@ -31,7 +34,11 @@ exports.handler = async (event) => {
     const result = posts.map(p => {
         let img = null
         try {
-            img = p['content:encoded'][0].split('<figure>')[1].split('</figure>')[0].split('src="')[1].split('"')[0].replace('https://cdn-images-1.medium.com/max/', '').split('/')[1]
+            const imgUrl = url.parse(p['content:encoded'][0].split('<figure>')[1].split('</figure>')[0].split('src="')[1].split('"')[0])
+            const imgFile = path.basename(imgUrl.pathname)
+            const imgHost = imgUrl.host
+
+            img = `https://${imgHost}/fit/c/600/300/${imgFile}`
         } catch (e) {
 
         }
@@ -39,8 +46,7 @@ exports.handler = async (event) => {
         return {
             url: p.link[0].split('?source=rss')[0],
             title: p.title,
-            // text: p.virtuals.subtitle,
-            picture: 'https://miro.medium.com/fit/c/600/300/' + img,
+            picture: img,
             tags: p.category
         }
     })
