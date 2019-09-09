@@ -12,7 +12,7 @@ const getMediumJson = async () => {
 
             response.on('end', function() {
                 xml2js.parseStringPromise(body).then(function (result) {
-                  resolve(result.rss.channel[0].items)
+                  resolve(result.rss.channel[0].item)
                 })
 
             })
@@ -24,13 +24,15 @@ const getMediumJson = async () => {
 exports.handler = async (event) => {
     const posts = await getMediumJson()
     const result = posts.map(p => {
+        let img = null
         try {
-            const img = p['content:encoded'][0].split('<figure>')[1].split('</figure>')[0].split('src="')[1].split('"')[0]
+            img = p['content:encoded'][0].split('<figure>')[1].split('</figure>')[0].split('src="')[1].split('"')[0]
         } catch (e) {
-            const img = null
+
         }
+
         return {
-            url: p.link.split('?source=rss')[0],
+            url: p.link[0].split('?source=rss')[0],
             title: p.title,
             // text: p.virtuals.subtitle,
             // picture: 'https://miro.medium.com/fit/c/600/300/' + p.virtuals.previewImage.imageId,
@@ -45,7 +47,7 @@ exports.handler = async (event) => {
             'Access-Control-Allow-Origin': '*',
             'Cache-Control': 'max-age=300, must-revalidate'
         },
-        body: JSON.stringify(posts)
+        body: JSON.stringify(result)
     }
 
     return response
