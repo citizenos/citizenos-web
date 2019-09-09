@@ -20,7 +20,6 @@ const getMediumJson = async () => {
                     console.error(e)
                     resolve([])
                 }
-
             })
         })
   })
@@ -32,7 +31,7 @@ exports.handler = async (event) => {
     const result = posts.map(p => {
         let img = null
         try {
-            img = p['content:encoded'][0].split('<figure>')[1].split('</figure>')[0].split('src="')[1].split('"')[0]
+            img = p['content:encoded'][0].split('<figure>')[1].split('</figure>')[0].split('src="')[1].split('"')[0].replace('https://cdn-images-1.medium.com/max/', '').split('/')[1]
         } catch (e) {
 
         }
@@ -41,8 +40,7 @@ exports.handler = async (event) => {
             url: p.link[0].split('?source=rss')[0],
             title: p.title,
             // text: p.virtuals.subtitle,
-            // picture: 'https://miro.medium.com/fit/c/600/300/' + p.virtuals.previewImage.imageId,
-            picture: img,
+            picture: 'https://miro.medium.com/fit/c/600/300/' + img,
             tags: p.category
         }
     })
