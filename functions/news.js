@@ -45,7 +45,7 @@ exports.handler = async (event) => {
 
         return {
             url: p.link[0].split('?source=rss')[0],
-            title: p.title,
+            title: p.title[0],
             picture: img,
             tags: p.category
         }
