@@ -11,9 +11,15 @@ const getMediumJson = async () => {
             })
 
             response.on('end', function() {
-                xml2js.parseStringPromise(body).then(function (result) {
-                  resolve(result.rss.channel[0].item)
-                })
+                try {
+                    xml2js.parseStringPromise(body).then(function (result) {
+                      resolve(result.rss.channel[0].item)
+                    })
+                } catch (e) {
+                    console.log(body)
+                    console.error(e)
+                    resolve([])
+                }
 
             })
         })
