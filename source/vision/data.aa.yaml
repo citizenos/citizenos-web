@@ -31,7 +31,6 @@ blocks:
   individual-img:
     class:
       - crwdns19016:0crwdne19016:0
-      - crwdns19232:0crwdne19232:0
     style:
       background-image: crwdns19020:0crwdne19020:0
       background-position: crwdns19022:0crwdne19022:0
@@ -41,7 +40,6 @@ blocks:
   individual:
     class:
       - crwdns19028:0crwdne19028:0
-      - crwdns19234:0crwdne19234:0
     title: |
       crwdns19032:0crwdne19032:0
     text: |
