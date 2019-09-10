@@ -47,7 +47,6 @@ blocks:
     individual-img:
         class:
             - order-2
-            - order-sm-3
         style:
 
             background-image: url(/assets/images/bubble-yellow.svg), url(/assets/images/bubble-dots.png)
@@ -59,7 +58,6 @@ blocks:
     individual:
         class:
             - order-3
-            - order-sm-2
         # label: As an individual
         title: |
             One person can make a difference.
