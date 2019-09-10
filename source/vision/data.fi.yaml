@@ -35,7 +35,6 @@ blocks:
   individual-img:
     class:
       - order-2
-      - order-sm-3
     style:
       background-image: url(/assets/images/bubble-yellow.svg), url(/assets/images/bubble-dots.png)
       background-position: 10% 10%, 90% 10%
@@ -45,7 +44,6 @@ blocks:
   individual:
     class:
       - order-3
-      - order-sm-2
     title: |
       Yksikin ihminen voi vaikuttaa.
     text: |
