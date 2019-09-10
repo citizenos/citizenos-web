@@ -4,7 +4,7 @@
   "description": "Collaborative decisions for teams and communities",
   "private": true,
   "dependencies": {
-    "entu-ssg": "5.0.7",
+    "entu-ssg": "5.1.0",
     "xml2js": "0.4.22"
   },
   "scripts": {

@@ -8,6 +8,8 @@ locales:
 defaultLocale: en
 
 source: ./source
+js: ./source/_scripts
+styl: ./source/_styles
 build: ./build
 assets: ./assets
 

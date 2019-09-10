@@ -6,4 +6,5 @@ $(function () {
             $('html, body').css('background-color', '#FFFFFF')
         }
     })
+
 })

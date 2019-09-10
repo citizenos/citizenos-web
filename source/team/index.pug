@@ -9,11 +9,3 @@ append content
                     tr
                         td= p.title + ':'
                         td= p.name
-
-
-append script
-    script.
-        $(function () {
-            $('#team .block-text').append($('#team-blocks').html())
-            $('#team-blocks').remove()
-        })

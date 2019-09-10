@@ -1,95 +1,6 @@
 extends /_templates/blocks.pug
 
 
-append stylus
-    :stylus
-        header
-            position relative
-            background-color black
-            min-height 73vh
-            width 100%
-            overflow hidden
-            background-image url('/assets/images/frontpage-start-bg.jpg')
-            background-repeat no-repeat
-            background-position center
-            background-size cover
-
-            // video
-            //     position absolute
-            //     top 50%
-            //     left 50%
-            //     min-width 100%
-            //     min-height 100%
-            //     width auto
-            //     height auto
-            //     z-index 0
-            //     -ms-transform translateX(-50%) translateY(-50%)
-            //     -moz-transform translateX(-50%) translateY(-50%)
-            //     -webkit-transform translateX(-50%) translateY(-50%)
-            //     transform translateX(-50%) translateY(-50%)
-
-            .container
-                position relative
-                z-index 2
-                min-height 73vh
-                text-shadow 0px 0px 20px rgba(0, 0, 0, 0.5)
-
-                h1
-                    font-size 46px
-                    font-weight bold
-
-                a
-                    color #ffffff
-
-                .btn-primary
-                    padding 0 !important
-                    height 30px
-                    width 30px
-                    font-size 14px
-                    line-height 30px
-                    text-align center
-
-            .overlay
-                position absolute
-                top 0
-                left 0
-                height 100%
-                width 100%
-                background-color black
-                opacity 0.2
-                z-index 1
-
-        // @media (pointer: coarse) and (hover: none)
-        //     header
-        //         background url('/assets/videos/frontpage-start-bg.jpg') black no-repeat center center scroll
-        //         video
-        //             display none
-
-        #video-popup
-            .modal-content
-                background #000000
-                border none
-                border-radius 0
-
-        .meet-image
-            background #FADC4B
-
-        .meet-info
-            line-height 16px
-            color #252525
-            opacity 0.6
-
-            img
-                margin-top -3px
-
-        @media only screen and (max-width: 576px)
-            header
-                .container
-                    h1
-                        font-size 32px
-                        line-height 40px
-
-
 block header
     header
         .overlay
@@ -186,7 +97,6 @@ append content
                     +markdown(self.blocks.meet.text)
 
 
-
 append script
     script.
         $(function () {
@@ -228,13 +138,6 @@ append script
                 }
             }
 
-            $('#video').removeClass('col-sm-6')
-
-            $('.block.col-sm-4').removeClass('col-sm-6')
-            $('.block-text.col-sm-8').addClass('col-sm-10')
-            $('.block-text.col-sm-10').removeClass('col-sm-8')
-            $('.block-text.col-sm-10').removeClass('.offset-sm-2')
-
             $('#news').removeClass('col-sm-6')
             $('#news .block-text').removeClass('col-sm-8')
             $('#news .block-text').removeClass('offset-sm-2')
@@ -244,67 +147,4 @@ append script
                 $('#news .block-text h2').after($('#news-blocks').html())
                 $('#news-blocks').remove()
             }
-
-            $('#meet .block-text').html($('#meet-blocks').html())
-            $('#meet-blocks').remove()
-
-            $('#team .block-text').addClass('offset-sm-2')
-            $('#team .block-text').removeClass('col-sm-10')
-            $('#team .block-text').addClass('col-sm-8')
-
-            $('#partners .block-text').removeClass('col-sm-10')
-            $('#partners .block-text').addClass('col-sm-8')
-
-            $.getJSON('/.netlify/functions/news', function (data) {
-                var tag = 'technology'
-                var news = []
-
-                for (var i = 0; i < data.length; i++) {
-                    //- if (data[i].tags.indexOf(tag) > -1) {
-                    //-     news.push(data[i])
-                    //- }
-                    news.push(data[i])
-
-                    if (news.length === 3) {
-                        break
-                    }
-                }
-
-                for (var i = 0; i < news.length; i++) {
-                    $('#news-block-' + i + ' img').attr('src', news[i].picture)
-                    $('#news-block-' + i + ' h4').html(news[i].title)
-                    //- $('#news-block-' + i + ' p').html(news[i].text)
-                    $('#news-block-' + i + ' a').attr('href', news[i].url)
-                    $('#news-block-' + i).removeClass('d-none')
-                }
-            })
-
-            $('a[data-target="#video-popup"]').click(function () {
-                $('#video-popup iframe').attr('src', $(this).attr('href'))
-                $('#video-bg').get(0).pause()
-            })
-
-            $('#video-popup').on('hidden.bs.modal', function () {
-                $('#video-popup iframe').attr('src', '')
-                $('#video-bg').get(0).play()
-            })
         })
-
-//-             $(window).scroll(function () {
-//-                 $('.scroll-out').each(function () {
-//-                     var top = $(this).offset().top  - $(window).scrollTop() - $('nav').outerHeight(true)
-//-
-//-                     if (top < 0) {
-//-                         $(this).css({ 'background-position': 'center ' + Math.pow(top, 2) * -0.005 + 'px' })
-//-                     }
-//-                 })
-//-                 $('.scroll-in').each(function () {
-//-                     var top = $(this).offset().top  - $(window).scrollTop() - $('nav').outerHeight(true)
-//-
-//-                     if (top > 0) {
-//-                         $(this).css({ 'background-position': 'center ' + Math.pow(top, 2) * 0.0005 + 'px' })
-//-                     }
-//-                 })
-//-             })
-//-
-//-             $(window).trigger('scroll')

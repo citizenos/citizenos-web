@@ -1,0 +1,85 @@
+header
+    position relative
+    background-color black
+    min-height 73vh
+    width 100%
+    overflow hidden
+    background-image url('/assets/images/frontpage-start-bg.jpg')
+    background-repeat no-repeat
+    background-position center
+    background-size cover
+
+    // video
+    //     position absolute
+    //     top 50%
+    //     left 50%
+    //     min-width 100%
+    //     min-height 100%
+    //     width auto
+    //     height auto
+    //     z-index 0
+    //     -ms-transform translateX(-50%) translateY(-50%)
+    //     -moz-transform translateX(-50%) translateY(-50%)
+    //     -webkit-transform translateX(-50%) translateY(-50%)
+    //     transform translateX(-50%) translateY(-50%)
+
+    .container
+        position relative
+        z-index 2
+        min-height 73vh
+        text-shadow 0px 0px 20px rgba(0, 0, 0, 0.5)
+
+        h1
+            font-size 46px
+            font-weight bold
+
+        a
+            color #ffffff
+
+        .btn-primary
+            padding 0 !important
+            height 30px
+            width 30px
+            font-size 14px
+            line-height 30px
+            text-align center
+
+    .overlay
+        position absolute
+        top 0
+        left 0
+        height 100%
+        width 100%
+        background-color black
+        opacity 0.2
+        z-index 1
+
+// @media (pointer: coarse) and (hover: none)
+//     header
+//         background url('/assets/videos/frontpage-start-bg.jpg') black no-repeat center center scroll
+//         video
+//             display none
+
+#video-popup
+    .modal-content
+        background #000000
+        border none
+        border-radius 0
+
+.meet-image
+    background #FADC4B
+
+.meet-info
+    line-height 16px
+    color #252525
+    opacity 0.6
+
+    img
+        margin-top -3px
+
+@media only screen and (max-width: 576px)
+    header
+        .container
+            h1
+                font-size 32px
+                line-height 40px
