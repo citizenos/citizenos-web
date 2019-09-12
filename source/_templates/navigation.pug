@@ -48,8 +48,8 @@ nav.navbar.fixed-top.bg-white.py-0.navbar-expand-lg
                 .row
                     each title, l in self.languages
                         if self.otherLocalePaths[l]
-                            - var url = self.otherLocalePaths[l]
-                            a.select-language.col-12.col-sm-4.py-3.py-sm-1(href=(url === '/' ? url || '' : url + '/'), data-language=l)= title || l
+                            - var url = `${self.otherLocalePaths[l]}/`.replace('//', '/').replace('//', '/')
+                            a.select-language.col-12.col-sm-4.py-3.py-sm-1(href=url, data-language=l)= title || l
                         else if l === self.locale
                             p.select-language.col-12.col-sm-4.my-0.py-3.py-sm-1= title || l
 
