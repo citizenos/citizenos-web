@@ -14,16 +14,16 @@ blocks:
       Команда
     people:
       - 
-        title: Консультант и основатель
-        name: Ахти Хейнла, один из основателей Skype и Starship Technologies.
+        title: Advisor
+        name: Ahti Heinla - Co-founder and CTO of Starship Technologies
       - 
-        title: Разработчики ПО
-        name: Микк Андресен, Ильмар Тюрк
+        title: Software Developer
+        name: Mikk Andresen
       - 
-        title: Научный сотрудник
-        name: Кади Мария Вооглайд
+        title: Software Developer
+        name: Ilmar Türk
       - 
-        title: Руководитель и менеджер продукта
+        title: Board member, Leader and Product Manager
         name: Марго Лоор
       - 
         title: HR
@@ -35,17 +35,23 @@ blocks:
         title: Юрист
         name: Кати Веллак
       - 
-        title: Разработчик Front-end
-        name: Леннарт Рикк
+        title: Marketing and Communications
+        name: Liina Guiter
       - 
-        title: Маркетинг и связи с общественностью
-        name: Лийна Гуйтер
+        title: Partnerships and Community
+        name: Anett Linno
       - 
-        title: Партнерство и Сообщество
-        name: Анетт Линно
+        title: UX/UI Designers
+        name: Kevin Crepin, Kristian Lember, Jannus Jaska
       - 
-        title: Дизайнеры UX/UI
-        name: Кевин Крепин, Кристиан Лембер, Яннус Яска
+        title: Writing and Social Media Marketing
+        name: Becca Melhuish
       - 
-        title: Участники проекта
-        name: Хенри Лаупмаа, Лия Хянни, Хилле Хинсберг, Эва Трууверк
+        title: Founders
+        name: Ahti Heinla, Teeme Ära Sihtasutus (Let’s Do It Foundation)
+      - 
+        title: Supervisory Board
+        name: Ahti Heinla, Eva Truuverk, Kati Vellak
+      - 
+        title: Contributors
+        name: Henri Laupmaa, Liia Hänni, Hille Hinsberg, Kadi Maria Vooglaid, Jannus Jaska, Lennart Rikk
