@@ -41,11 +41,14 @@ blocks:
         title: Partnerships and Community
         name: Anett Linno
       - 
-        title: UX/UI Designers
-        name: Kevin Crepin, Kristian Lember, Jannus Jaska
-      - 
         title: Writing and Social Media Marketing
         name: Becca Melhuish
+      - 
+        title: Web Developer
+        name: Argo Roots
+      - 
+        title: UX/UI Designers
+        name: Kevin Crepin, Kristian Lember, Jannus Jaska
       - 
         title: Founders
         name: Ahti Heinla, Teeme Ära Sihtasutus (Let’s Do It Foundation)
@@ -54,4 +57,4 @@ blocks:
         name: Ahti Heinla, Eva Truuverk, Kati Vellak
       - 
         title: Contributors
-        name: Henri Laupmaa, Liia Hänni, Hille Hinsberg, Kadi Maria Vooglaid, Jannus Jaska, Lennart Rikk
+        name: Henri Laupmaa, Liia Hänni, Hille Hinsberg, Kadi Maria Vooglaid, Lennart Rikk
