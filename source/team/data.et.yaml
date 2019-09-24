@@ -3,71 +3,88 @@ title: Meeskond
 image: /assets/images/fbimg-home.jpg
 team:
   - 
-    name: Margo
-    title: Board member, Leader and Product Manager
-    text: Brings light, wisdom and paints a big picture.
+    name: Margo Loor
+    title: Board member, Leader, Product Manager
+    text: Brings light, wisdom and paints the big picture.
     avatar: /assets/images/team/margo-avatar.jpg
     picture: /assets/images/team/margo.jpg
-    linkedin:
-    twitter:
-    email:
+    linkedin: https://www.linkedin.com/in/margoloor/
+    twitter: https://twitter.com/loorm
+    email: info@citizenos.com
   - 
-    name: Anett
-    title: Partnerships and Community
+    name: Anett Linno
+    title: Partnerships & Community
     text: With kind tenderness brings structure and clarity to any chaos.
     avatar: /assets/images/team/anett-avatar.jpg
     picture: /assets/images/team/anett.jpg
     linkedin: https://www.linkedin.com/in/anettlinno/
-    twitter:
+    twitter: https://twitter.com/twitanett
     email: anett@citizenos.com
   - 
-    name: Oksana
-    title: Localisation and Translation
+    name: Oksana Naidjonova
+    title: Localisation & Translation
     text: Fights for justice and leads us to become better every day.
     avatar: /assets/images/team/oksana-avatar.jpg
     picture: /assets/images/team/oksana.jpg
     linkedin: https://www.linkedin.com/in/oksananaidjonova/
-    twitter:
+    twitter: https://twitter.com/oksks
     email: oksana@citizenos.com
   - 
-    name: Liina
-    title: Marketing and Communications
+    name: Liina Guiter
+    title: Marketing & Communications
     text: Finds a common language and something to share with any being on this planet.
     avatar: /assets/images/team/liina-avatar.jpg
     picture: /assets/images/team/liina.jpg
+    linkedin: https://www.linkedin.com/in/liinaguiter/
+    twitter: https://twitter.com/liinaguiter
+    email: liina@citizenos.com
   - 
-    name: Mikk
+    name: Mikk Andresen
     title: Software Developer
     text: Builds stuff out of nothing and keeps our morale at a top height.
     avatar: /assets/images/team/mikk-avatar.jpg
     picture: /assets/images/team/mikk.jpg
+    linkedin: https://www.linkedin.com/in/mikkandresen/
+    email: mikk@citizenos.com
   - 
-    name: Ilmar
+    name: Ilmar Türk
     title: Software Developer
     text: Guaranteed delivery of code and smiles.
     avatar: /assets/images/team/ilmar-avatar.jpg
     picture: /assets/images/team/ilmar.jpg
+    linkedin: https://www.linkedin.com/in/ilmarturk/
+    email: ilmar@citizenos.com
   - 
-    name: Kati
+    name: Kati Vellak
     title: Lawyer
     text: Protects us from baddies and energizes anyone in sight.
     avatar: /assets/images/team/kati-avatar.jpg
     picture: /assets/images/team/kati.jpg
+    linkedin: https://www.linkedin.com/in/kativellak/
+    email: kati@citizenos.com
   - 
-    name: Ly
+    name: Ly Kasvandik
     title: Human Relations
     text: Always there to help and protect, when one needs it most.
     avatar: /assets/images/team/ly-avatar.jpg
     picture: /assets/images/team/ly.jpg
+    linkedin: https://www.linkedin.com/in/lykasvandik/
+    email: ly@citizenos.com
+  - 
+    name: Becca Melhuish
+    title: Communications Designer & Copywriter
+    text: Brings sparkle and shine to all of our comms.
+    linkedin: https://www.linkedin.com/in/beccamelhuish/
+    twitter: https://twitter.com/Becca_Melh
+    email: becca.melhuish@gmail.com
 other:
-  title: |
-    Like-minded people
   founder: |
-    **Founder and Advisor**
+    **Advisor**
 
-    Ahti Heinla, one of the founders of Skype and Starship Technologies.
+    Ahti Heinla - Co-founder, CTO at Starship Technologies.
   frontend: |
-    **Supervisory Board**
+    **Founders**
+    Ahti Heinla & Teeme Ära Sihtasutus (Let's Do It Foundation)
   design: |
     **UX/UI Designers**
 
@@ -75,4 +92,4 @@ other:
   minds: |
     **Contributors**
 
-    Henri Laupmaa, Liia Hänni, Hille Hinsberg, Eva Truuverk, Lennart Rikk, Argo Roots
+    Henri Laupmaa, Liia Hänni, Hille Hinsberg, Eva Truuverk, Kadi Maria Vooglaid, Lennart Rikk, Argo Roots
