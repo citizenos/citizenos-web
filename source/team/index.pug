@@ -10,23 +10,23 @@ block content
         if self.team
             .row.mt-5
                 each person, idx in self.team
-                    - var order = idx % 2 === 0 ? `order-${idx}` : `order-${idx + 1}`
+                    - var order = idx % 2 === 0 ? `order-${idx + 1} order-md-${idx}` : `order-${idx + 1}`
 
-                    .d-none.d-md-block.col-md-6.my-5(class=order)
+                    .col-12.col-md-6.mt-0.mb-5.my-md-5(class=order)
                         img.box-shadow.img-fluid(src=person.picture)
-                    .col-12.col-md-6.text-center.my-5(class=`order-${idx}`)
+                    .col-12.col-md-6.text-center.mt-5.my-md-5(class=`order-${idx}`)
                         img.rounded-circle.my-4(src=person.avatar, width=110, height=110)
                         h4= person.name
                         p= person.title
-                        //- if person.twitter
-                        //-     a.px-1(href=person.twitter, target='_blank')
-                        //-         img(src='/assets/images/community-email.svg')
-                        //- if person.linkedin
-                        //-     a.px-1(href=person.linkedin, target='_blank')
-                        //-         img(src='/assets/images/community-email.svg')
-                        //- if person.email
-                        //-     a.px-1(href='mailto:' + person.email)
-                        //-         img(src='/assets/images/community-email.svg')
+                        if person.twitter
+                            a.px-1(href=person.twitter, target='_blank')
+                                img(src='/assets/images/community-twitter.svg')
+                        if person.linkedin
+                            a.px-1(href=person.linkedin, target='_blank')
+                                img(src='/assets/images/community-linkedin.svg')
+                        if person.email
+                            a.px-1(href='mailto:' + person.email)
+                                img(src='/assets/images/community-email.svg')
                         p.mt-3= person.text
 
         if self.other
