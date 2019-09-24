@@ -1,51 +1,72 @@
 ---
 title: crwdns17716:0crwdne17716:0
 image: crwdns19328:0crwdne19328:0
-blocks:
-  team-img:
-    class:
-      - crwdns18498:0crwdne18498:0
-      - crwdns18500:0crwdne18500:0
-    style:
-      background: 'crwdns18502:0crwdne18502:0'
-      min-height: crwdns20072:0crwdne20072:0
-  team:
-    title: |
-      crwdns18504:0crwdne18504:0
-    people:
-      - 
-        title: crwdns19084:0crwdne19084:0
-        name: crwdns19086:0crwdne19086:0
-      - 
-        title: crwdns19088:0crwdne19088:0
-        name: crwdns19090:0crwdne19090:0
-      - 
-        title: crwdns19092:0crwdne19092:0
-        name: crwdns19094:0crwdne19094:0
-      - 
-        title: crwdns19096:0crwdne19096:0
-        name: crwdns19098:0crwdne19098:0
-      - 
-        title: crwdns19100:0crwdne19100:0
-        name: crwdns19102:0crwdne19102:0
-      - 
-        title: crwdns19104:0crwdne19104:0
-        name: crwdns19106:0crwdne19106:0
-      - 
-        title: crwdns19108:0crwdne19108:0
-        name: crwdns19110:0crwdne19110:0
-      - 
-        title: crwdns19112:0crwdne19112:0
-        name: crwdns19114:0crwdne19114:0
-      - 
-        title: crwdns19116:0crwdne19116:0
-        name: crwdns19118:0crwdne19118:0
-      - 
-        title: crwdns20044:0crwdne20044:0
-        name: crwdns19122:0crwdne19122:0
-      - 
-        title: crwdns19124:0crwdne19124:0
-        name: crwdns19126:0crwdne19126:0
-      - 
-        title: crwdns19128:0crwdne19128:0
-        name: crwdns19130:0crwdne19130:0
+team:
+  - 
+    name: crwdns22328:0crwdne22328:0
+    title: crwdns22330:0crwdne22330:0
+    text: crwdns22332:0crwdne22332:0
+    avatar: crwdns22334:0crwdne22334:0
+    picture: crwdns22336:0crwdne22336:0
+    linkedin: crwdns22338:0crwdne22338:0
+    twitter: crwdns22340:0crwdne22340:0
+    email: crwdns22342:0crwdne22342:0
+  - 
+    name: crwdns22344:0crwdne22344:0
+    title: crwdns22346:0crwdne22346:0
+    text: crwdns22348:0crwdne22348:0
+    avatar: crwdns22350:0crwdne22350:0
+    picture: crwdns22352:0crwdne22352:0
+    linkedin: crwdns22354:0crwdne22354:0
+    twitter: crwdns22356:0crwdne22356:0
+    email: crwdns22358:0crwdne22358:0
+  - 
+    name: crwdns22360:0crwdne22360:0
+    title: crwdns22362:0crwdne22362:0
+    text: crwdns22364:0crwdne22364:0
+    avatar: crwdns22366:0crwdne22366:0
+    picture: crwdns22368:0crwdne22368:0
+    linkedin: crwdns22370:0crwdne22370:0
+    twitter: crwdns22372:0crwdne22372:0
+    email: crwdns22374:0crwdne22374:0
+  - 
+    name: crwdns22376:0crwdne22376:0
+    title: crwdns22378:0crwdne22378:0
+    text: crwdns22380:0crwdne22380:0
+    avatar: crwdns22382:0crwdne22382:0
+    picture: crwdns22384:0crwdne22384:0
+  - 
+    name: crwdns22386:0crwdne22386:0
+    title: crwdns22388:0crwdne22388:0
+    text: crwdns22390:0crwdne22390:0
+    avatar: crwdns22392:0crwdne22392:0
+    picture: crwdns22394:0crwdne22394:0
+  - 
+    name: crwdns22396:0crwdne22396:0
+    title: crwdns22398:0crwdne22398:0
+    text: crwdns22400:0crwdne22400:0
+    avatar: crwdns22402:0crwdne22402:0
+    picture: crwdns22404:0crwdne22404:0
+  - 
+    name: crwdns22406:0crwdne22406:0
+    title: crwdns22408:0crwdne22408:0
+    text: crwdns22410:0crwdne22410:0
+    avatar: crwdns22412:0crwdne22412:0
+    picture: crwdns22414:0crwdne22414:0
+  - 
+    name: crwdns22416:0crwdne22416:0
+    title: crwdns22418:0crwdne22418:0
+    text: crwdns22420:0crwdne22420:0
+    avatar: crwdns22422:0crwdne22422:0
+    picture: crwdns22424:0crwdne22424:0
+other:
+  title: |
+    crwdns22426:0crwdne22426:0
+  founder: |
+    crwdns22428:0crwdne22428:0
+  frontend: |
+    crwdns22430:0crwdne22430:0
+  design: |
+    crwdns22432:0crwdne22432:0
+  minds: |
+    crwdns22434:0crwdne22434:0

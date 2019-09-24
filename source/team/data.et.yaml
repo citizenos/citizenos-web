@@ -1,51 +1,78 @@
 ---
 title: Meeskond
 image: /assets/images/fbimg-home.jpg
-blocks:
-  team-img:
-    class:
-      - d-none
-      - d-sm-block
-    style:
-      background: 'linear-gradient(180deg, #0EB7FE 0%, #0680FC 100%)'
-      min-height: 75vh
-  team:
-    title: |
-      Meeskond
-    people:
-      - 
-        title: Asutaja ja nõustaja
-        name: Ahti Heinla, üks ettevõtete Skype ja Starship Technologies asutajatest.
-      - 
-        title: Tarkvaraarendajad
-        name: Mikk Andresen, Ilmar Türk
-      - 
-        title: Teaduspartner
-        name: Kadi Maria Vooglaid
-      - 
-        title: Juhataja ja tootejuht
-        name: Margo Loor
-      - 
-        title: Personalijuht
-        name: Ly Kasvandik
-      - 
-        title: Lokaliseerimine ja tõlkimine
-        name: Oksana Naidjonova
-      - 
-        title: Advokaat
-        name: Kati Vellak
-      - 
-        title: Front-end arendaja
-        name: Lennart Rikk
-      - 
-        title: Turundus ja kommunikatsioon
-        name: Liina Guiter
-      - 
-        title: Partnersuhted ja kogukond
-        name: Anett Linno
-      - 
-        title: UX/UI disainerid
-        name: Kevin Crepin, Kristian Lember, Jannus Jaska
-      - 
-        title: Toetajad
-        name: Henri Laupmaa, Liia Hänni, Hille Hinsberg, Eva Truuverk
+team:
+  - 
+    name: Margo
+    title: Board member, Leader and Product Manager
+    text: Brings light, wisdom and paints a big picture.
+    avatar: /assets/images/team/margo-avatar.jpg
+    picture: /assets/images/team/margo.jpg
+    linkedin:
+    twitter:
+    email:
+  - 
+    name: Anett
+    title: Partnerships and Community
+    text: With kind tenderness brings structure and clarity to any chaos.
+    avatar: /assets/images/team/anett-avatar.jpg
+    picture: /assets/images/team/anett.jpg
+    linkedin: https://www.linkedin.com/in/anettlinno/
+    twitter:
+    email: anett@citizenos.com
+  - 
+    name: Oksana
+    title: Localisation and Translation
+    text: Fights for justice and leads us to become better every day.
+    avatar: /assets/images/team/oksana-avatar.jpg
+    picture: /assets/images/team/oksana.jpg
+    linkedin: https://www.linkedin.com/in/oksananaidjonova/
+    twitter:
+    email: oksana@citizenos.com
+  - 
+    name: Liina
+    title: Marketing and Communications
+    text: Finds a common language and something to share with any being on this planet.
+    avatar: /assets/images/team/liina-avatar.jpg
+    picture: /assets/images/team/liina.jpg
+  - 
+    name: Mikk
+    title: Software Developer
+    text: Builds stuff out of nothing and keeps our morale at a top height.
+    avatar: /assets/images/team/mikk-avatar.jpg
+    picture: /assets/images/team/mikk.jpg
+  - 
+    name: Ilmar
+    title: Software Developer
+    text: Guaranteed delivery of code and smiles.
+    avatar: /assets/images/team/ilmar-avatar.jpg
+    picture: /assets/images/team/ilmar.jpg
+  - 
+    name: Kati
+    title: Lawyer
+    text: Protects us from baddies and energizes anyone in sight.
+    avatar: /assets/images/team/kati-avatar.jpg
+    picture: /assets/images/team/kati.jpg
+  - 
+    name: Ly
+    title: Human Relations
+    text: Always there to help and protect, when one needs it most.
+    avatar: /assets/images/team/ly-avatar.jpg
+    picture: /assets/images/team/ly.jpg
+other:
+  title: |
+    Like-minded people
+  founder: |
+    **Founder and Advisor**
+
+    Ahti Heinla, one of the founders of Skype and Starship Technologies.
+  frontend: |
+    **Supervisory Board**
+  design: |
+    **UX/UI Designers**
+
+    Kevin Crepin, Kristian Lember, Jannus Jaska
+  minds: |
+    **Contributors**
+
+    Henri Laupmaa, Liia Hänni, Hille Hinsberg, Eva Truuverk, Lennart Rikk, Argo Roots
