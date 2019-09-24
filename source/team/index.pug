@@ -1,11 +1,50 @@
-extends /_templates/blocks.pug
+extends /_templates/main.pug
 
 
-append content
-    if self.blocks.team && self.blocks.team.people
-        #team-blocks.d-none
-            table
-                each p in self.blocks.team.people
-                    tr
-                        td= p.title + ':'
-                        td= p.name
+block content
+    .container-fluid
+        .row
+            .col-12.px-0
+                img.box-shadow.img-fluid(src='/assets/images/team/team.jpg')
+    .container
+        if self.team
+            .row.mt-5
+                each person, idx in self.team
+                    - var order = idx % 2 === 0 ? `order-${idx}` : `order-${idx + 1}`
+
+                    .d-none.d-md-block.col-md-6.my-5(class=order)
+                        img.box-shadow.img-fluid(src=person.picture)
+                    .col-12.col-md-6.text-center.my-5(class=`order-${idx}`)
+                        img.rounded-circle.my-4(src=person.avatar, width=110, height=110)
+                        h4= person.name
+                        p= person.title
+                        //- if person.twitter
+                        //-     a.px-1(href=person.twitter, target='_blank')
+                        //-         img(src='/assets/images/community-email.svg')
+                        //- if person.linkedin
+                        //-     a.px-1(href=person.linkedin, target='_blank')
+                        //-         img(src='/assets/images/community-email.svg')
+                        //- if person.email
+                        //-     a.px-1(href='mailto:' + person.email)
+                        //-         img(src='/assets/images/community-email.svg')
+                        p.mt-3= person.text
+
+        if self.other
+            .row.my-5
+                .col-12.my-5.text-center
+                    h2= self.other.title
+                .col-12.col-md-6.col-lg-3.my-3.text-center
+                    img.mb-3(src='/assets/images/team/icon-idea.svg', width=100, height=100)
+                    +markdown(self.other.founder)
+
+                .col-12.col-md-6.col-lg-3.my-3.text-center
+                    img.mb-3(src='/assets/images/team/icon-frontend.svg', width=100, height=100)
+                    +markdown(self.other.frontend)
+
+                .col-12.col-md-6.col-lg-3.my-3.text-center
+                    img.mb-3(src='/assets/images/team/icon-design.svg', width=100, height=100)
+                    +markdown(self.other.design)
+
+                .col-12.col-md-6.col-lg-3.my-3.text-center
+                    img.mb-3(src='/assets/images/team/icon-minds.svg', width=100, height=100)
+                    +markdown(self.other.minds)
