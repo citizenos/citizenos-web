@@ -4,11 +4,12 @@
   "description": "Collaborative decisions for teams and communities",
   "private": true,
   "dependencies": {
-    "entu-ssg": "5.1.0",
+    "entu-ssg": "5.2.0",
     "xml2js": "0.4.22"
   },
   "scripts": {
-    "build": "entu-ssg entu-ssg.yaml full"
+    "build": "entu-ssg entu-ssg.yaml full",
+    "dev": "node ./node_modules/entu-ssg/src/serve.js ./entu-ssg.yaml full"
   },
   "repository": {
     "type": "git",
