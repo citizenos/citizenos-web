@@ -14,7 +14,7 @@ navigation:
     url: /et/research/
     class: research
   community:
-    title: Community
+    title: Kogukond
     url: /community/
     class: community
   blog:
