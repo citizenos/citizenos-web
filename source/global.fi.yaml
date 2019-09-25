@@ -14,7 +14,7 @@ navigation:
     url: /fi/research/
     class: research
   community:
-    title: Community
+    title: Yhteisö
     url: /community/
     class: community
   blog:
