@@ -14,7 +14,7 @@ navigation:
     url: /fr/research/
     class: research
   community:
-    title: Community
+    title: Communauté
     url: /community/
     class: community
   blog:
