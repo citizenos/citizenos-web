@@ -14,7 +14,7 @@ navigation:
     url: /ru/research/
     class: research
   community:
-    title: Community
+    title: Сообщество
     url: /community/
     class: community
   blog:
