@@ -1,5 +1,10 @@
 ---
 title: Вакансии
+#description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras fermentum ornare purus accumsan luctus. Nulla facilisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae.
+#keywords:
+#- lorem
+#- ipsum
+#- dolor
 image: /assets/images/fbimg-home.jpg
 blocks:
   careers-img:
@@ -10,9 +15,10 @@ blocks:
       background: 'linear-gradient(180deg, #0EB7FE 0%, #0680FC 100%)'
       min-height: 75vh
   careers:
+    #label: About
     title: |
       Как присоединиться к команде?
     text: |
-      Want to provide the people of the world with an amazing tool for co-deciding and online participatory democracy?
+      Вы хотели бы предоставить миру чудесный инструмент для совместного решения и внедрения демократии участия в онлайн-формате?
 
-      If our vision inspires you, please write to our Head of Partnerships <anett@citizenos.com>.
+      Если наше видение близко вам по духу, пожалуйста, свяжитесь пожалуйста с нашим руководителем партнерской программы <anett@citizenos.com>.
