@@ -1,5 +1,10 @@
 ---
 title: Kogukond
+#description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras fermentum ornare purus accumsan luctus. Nulla facilisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae.
+#keywords:
+#- lorem
+#- ipsum
+#- dolor
 image: /assets/images/fbimg-vision.jpg
 blocks:
   start-img:
@@ -39,6 +44,7 @@ blocks:
   issue:
     class:
       - order-3
+    #label: As an individual
     title: |
       What’s the issue?
     text: |
@@ -65,6 +71,7 @@ blocks:
       - order-sm-4
     style:
       background-color: '#F7F7F7'
+    #label: COSCon
     title: |
       Our mission
     text: |
@@ -115,6 +122,7 @@ blocks:
       - py-5
     style:
       background-color: '#AAF3DD'
+    #label: Raising awareness
     title: |
       What is the Civic Hactivist Community?
     text: |
@@ -127,6 +135,7 @@ blocks:
       - py-5
     style:
       background-color: '#AAF3DD'
+    #label: Raising awareness
     title: |
       Knowledge shared in the community will include
     text: |
@@ -149,6 +158,7 @@ blocks:
     class:
       - order-11
       - order-sm-10
+    #label: COSCon
     title: |
       Your help is needed to:
     text: |
@@ -176,6 +186,9 @@ blocks:
       The community will be built in a **collaborative, inclusive, transparent**, and **creative** way – become a founder member and help **shape the future of e-democracy**.
 
       To become a Founding Member, register your interest by email and we’ll arrange a call.
+  #button1st:
+  #title: Apply now!
+  #url: '#apply'
   chat:
     class:
       - order-12
