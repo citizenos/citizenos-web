@@ -1,5 +1,10 @@
 ---
 title: crwdns17028:0crwdne17028:0
+#description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras fermentum ornare purus accumsan luctus. Nulla facilisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae.
+#keywords:
+#- lorem
+#- ipsum
+#- dolor
 image: crwdns19314:0crwdne19314:0
 blocks:
   company-img:
@@ -10,6 +15,7 @@ blocks:
       background: 'crwdns17904:0crwdne17904:0'
       min-height: crwdns20064:0crwdne20064:0
   company:
+    #label: About
     title: |
       crwdns17906:0crwdne17906:0
     texts:
