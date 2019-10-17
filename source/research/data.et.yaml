@@ -1,5 +1,10 @@
 ---
 title: Uurimused
+#description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras fermentum ornare purus accumsan luctus. Nulla facilisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae.
+#keywords:
+#- lorem
+#- ipsum
+#- dolor
 image: /assets/images/fbimg-research.jpg
 blocks:
   research-img:
@@ -45,6 +50,7 @@ blocks:
       - order-3
     style:
       background: '#F7F7F7'
+    #label: Moving forward
     title: |
       Andmete kogumine.
     text: |
@@ -67,6 +73,7 @@ blocks:
     class:
       - order-5
       - order-sm-4
+    #label: COSCon
     title: |
       Konverents.
     text: |
