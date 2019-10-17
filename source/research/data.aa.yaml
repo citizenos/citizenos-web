@@ -1,5 +1,10 @@
 ---
 title: crwdns17616:0crwdne17616:0
+#description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras fermentum ornare purus accumsan luctus. Nulla facilisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae.
+#keywords:
+#- lorem
+#- ipsum
+#- dolor
 image: crwdns19324:0crwdne19324:0
 blocks:
   research-img:
@@ -43,6 +48,7 @@ blocks:
       - crwdns18456:0crwdne18456:0
     style:
       background: 'crwdns18460:0crwdne18460:0'
+    #label: Moving forward
     title: |
       crwdns18462:0crwdne18462:0
     text: |
@@ -65,6 +71,7 @@ blocks:
     class:
       - crwdns18486:0crwdne18486:0
       - crwdns18488:0crwdne18488:0
+    #label: COSCon
     title: |
       crwdns18490:0crwdne18490:0
     text: |

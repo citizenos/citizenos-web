@@ -1,5 +1,10 @@
 ---
 title: Urat
+#description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras fermentum ornare purus accumsan luctus. Nulla facilisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae.
+#keywords:
+#- lorem
+#- ipsum
+#- dolor
 image: /assets/images/fbimg-home.jpg
 blocks:
   careers-img:
@@ -10,9 +15,10 @@ blocks:
       background: 'linear-gradient(180deg, #0EB7FE 0%, #0680FC 100%)'
       min-height: 75vh
   careers:
+    #label: About
     title: |
       Miten liittyä tiimiin
     text: |
-      Want to provide the people of the world with an amazing tool for co-deciding and online participatory democracy?
+      Haluatko antaa maailman ihmisille uskomattoman työkalun yhteiseen päätöksentekoon ja osallistuvaan demokratiaan verkossa?
 
-      If our vision inspires you, please write to our Head of Partnerships <anett@citizenos.com>.
+      Jos visiomme innoittaa sinua, kirjoita toki kumppanuuspäälliköllemme <anett@citizenos.com>.

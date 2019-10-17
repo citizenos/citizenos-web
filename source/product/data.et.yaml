@@ -1,5 +1,10 @@
 ---
 title: Toode
+#description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras fermentum ornare purus accumsan luctus. Nulla facilisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae.
+#keywords:
+#- lorem
+#- ipsum
+#- dolor
 image: /assets/images/fbimg-product.jpg
 blocks:
   decision-img:
@@ -152,6 +157,7 @@ blocks:
       background-image: url(/assets/images/bubble-blue.svg)
       background-position: 80% 5%
       background-size: 122px 122px
+    #label: Case study
     title: |
       Kasutajakogemus: Eesti Vabariigi kodanike ja valitsuse vaheline suhtlus
     text: |
@@ -170,6 +176,7 @@ blocks:
       background-image: url(/assets/images/bubble-orange.svg), url(/assets/images/bubble-yellow.svg)
       background-position: 10% 5%, 90% 90%
       background-size: 85px 85px, 55px 55px
+    #label: Case study
     title: |
       Kasutajakogemus: suhtlusulatuse laiendamine.
     text: |

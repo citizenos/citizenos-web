@@ -1,5 +1,10 @@
 ---
 path: /
+#description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras fermentum ornare purus accumsan luctus. Nulla facilisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae.
+#keywords:
+#- lorem
+#- ipsum
+#- dolor
 image: /assets/images/fbimg-home-alt.jpg
 header:
   title: Обсуждения на основе аргументов и совместное принятие решений для гражданских инициатив.
@@ -11,6 +16,13 @@ header:
   demo:
     title: Демо-видео
     url: https://www.youtube.com/embed/UC44qCCIixE?rel=0&showinfo=0&modestbranding=1&autoplay=1&cc_load_policy=1&cc_lang_pref=ru
+#whatIs:
+#title: What is Citizen OS
+#url: /product/
+#startUsing:
+#title: Start using - it’s free!
+#url: https://app.citizenos.com
+#target: _blank
 blocks:
   opensource-img:
     class:
@@ -30,6 +42,7 @@ blocks:
       background-image: url(/assets/images/bubble-dots.png)
       background-position: 0% 25%
       background-size: 360px 360px
+    #label: Our Product
     title: |
       Используйте программное обеспечение с открытым исходным кодом.
     text: |
@@ -65,6 +78,9 @@ blocks:
       title: О концепции
       url: /ru/vision/
     button2nd:
+  #title: Use platform - it’s free!
+  #url: https://app.citizenos.com
+  #target: _blank
   research-img:
     class:
       - order-5
@@ -83,6 +99,7 @@ blocks:
       background-image: url(/assets/images/bubble-dots.png)
       background-position: 30% 25%
       background-size: 360px 360px
+    #label: Let’s Educate
     title: |
       Развитие электронной демократии.
     text: |
@@ -114,21 +131,39 @@ blocks:
       - my-5
     style:
       background-image: url(/assets/images/bubble-dots.png)
-      background-position: 60% 130%
+      background-position: 80% 10%
       background-size: 350px 350px
+    #label: A word from the team
     title: |
       Where you can meet us
-    subtitle: |
-      World Forum for Democracy 2019
-    text: |
-      The World Forum for Democracy 2019 will be dedicated to information and democracy. Will you be there? Drop us a line at <info@citizenos.com> and let's meet!
-    image: /assets/images/frontpage-meet-democracyforum.png
-    date: 06. - 08.11.2019
-    location: Strasbourg
+    blocks:
+      democracyforum:
+        title: |
+          World Forum for Democracy 2019
+        text: |
+          The World Forum for Democracy 2019 will be dedicated to information and democracy.
+
+          Will you be there? Drop us a line at <info@citizenos.com> and let's meet!
+        image: /assets/images/meet/democracyforum.jpg
+        date: 06. - 08.11.2019
+        location: Strasbourg
+      slush:
+        title: |
+          Slush 2019
+        text: |
+          The world's leading startup event.
+
+          Will you be there? Drop us a line at <info@citizenos.com> and let's meet!
+        image: /assets/images/meet/slush.jpg
+        style:
+          background: '#000000'
+        date: 21. - 22.11.2019
+        location: Helsinki
   team:
     class:
       - order-8
       - py-5
+    #label: A word from the team
     title: |
       Помогите нам развивать продукты с открытым исходным кодом и расширить влияние демократии участия.
     text: |
@@ -142,6 +177,7 @@ blocks:
       - my-5
     style:
       border-left: '1px solid #E5E5E5'
+    #label: We’re stronger together
     title: |
       Наши партнеры и сторонники
     text: |

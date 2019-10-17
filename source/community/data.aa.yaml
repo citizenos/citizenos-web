@@ -1,5 +1,10 @@
 ---
 title: crwdns21964:0crwdne21964:0
+#description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras fermentum ornare purus accumsan luctus. Nulla facilisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae.
+#keywords:
+#- lorem
+#- ipsum
+#- dolor
 image: crwdns21966:0crwdne21966:0
 blocks:
   start-img:
@@ -39,6 +44,7 @@ blocks:
   issue:
     class:
       - crwdns22010:0crwdne22010:0
+    #label: As an individual
     title: |
       crwdns22012:0crwdne22012:0
     text: |
@@ -61,6 +67,7 @@ blocks:
       - crwdns22034:0crwdne22034:0
     style:
       background-color: 'crwdns22036:0crwdne22036:0'
+    #label: COSCon
     title: |
       crwdns22038:0crwdne22038:0
     text: |
@@ -109,6 +116,7 @@ blocks:
       - crwdns22092:0crwdne22092:0
     style:
       background-color: 'crwdns22094:0crwdne22094:0'
+    #label: Raising awareness
     title: |
       crwdns22096:0crwdne22096:0
     text: |
@@ -119,6 +127,7 @@ blocks:
       - crwdns22102:0crwdne22102:0
     style:
       background-color: 'crwdns22104:0crwdne22104:0'
+    #label: Raising awareness
     title: |
       crwdns22106:0crwdne22106:0
     text: |
@@ -138,6 +147,7 @@ blocks:
     class:
       - crwdns22124:0crwdne22124:0
       - crwdns22126:0crwdne22126:0
+    #label: COSCon
     title: |
       crwdns22128:0crwdne22128:0
     text: |
@@ -157,6 +167,9 @@ blocks:
       crwdns22148:0crwdne22148:0
     text: |
       crwdns22244:0crwdne22244:0
+  #button1st:
+  #title: Apply now!
+  #url: '#apply'
   chat:
     class:
       - crwdns22152:0crwdne22152:0
