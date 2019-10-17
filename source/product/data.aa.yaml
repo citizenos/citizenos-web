@@ -1,5 +1,10 @@
 ---
 title: crwdns17368:0crwdne17368:0
+#description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras fermentum ornare purus accumsan luctus. Nulla facilisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae.
+#keywords:
+#- lorem
+#- ipsum
+#- dolor
 image: crwdns19322:0crwdne19322:0
 blocks:
   decision-img:
@@ -130,6 +135,7 @@ blocks:
       background-image: crwdns18344:0crwdne18344:0
       background-position: crwdns18346:0crwdne18346:0
       background-size: crwdns18348:0crwdne18348:0
+    #label: Case study
     title: |
       crwdns18350:0crwdne18350:0
     text: |
@@ -148,6 +154,7 @@ blocks:
       background-image: crwdns19212:0crwdne19212:0
       background-position: crwdns19214:0crwdne19214:0
       background-size: crwdns19216:0crwdne19216:0
+    #label: Case study
     title: |
       crwdns19218:0crwdne19218:0
     text: |
