@@ -1,5 +1,10 @@
 ---
 path: crwdns22192:0crwdne22192:0
+#description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras fermentum ornare purus accumsan luctus. Nulla facilisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae.
+#keywords:
+#- lorem
+#- ipsum
+#- dolor
 image: crwdns19320:0crwdne19320:0
 header:
   title: crwdns20140:0crwdne20140:0
@@ -11,6 +16,13 @@ header:
   demo:
     title: crwdns17072:0crwdne17072:0
     url: crwdns19174:0crwdne19174:0
+#whatIs:
+#title: What is Citizen OS
+#url: /product/
+#startUsing:
+#title: Start using - it’s free!
+#url: https://app.citizenos.com
+#target: _blank
 blocks:
   opensource-img:
     class:
@@ -30,6 +42,7 @@ blocks:
       background-image: crwdns17946:0crwdne17946:0
       background-position: crwdns17948:0crwdne17948:0
       background-size: crwdns17950:0crwdne17950:0
+    #label: Our Product
     title: |
       crwdns20122:0crwdne20122:0
     text: |
@@ -65,6 +78,9 @@ blocks:
       title: crwdns17990:0crwdne17990:0
       url: crwdns18928:0crwdne18928:0
     button2nd: crwdns17994:0crwdne17994:0
+  #title: Use platform - it’s free!
+  #url: https://app.citizenos.com
+  #target: _blank
   research-img:
     class:
       - crwdns17996:0crwdne17996:0
@@ -83,6 +99,7 @@ blocks:
       background-image: crwdns18012:0crwdne18012:0
       background-position: crwdns18014:0crwdne18014:0
       background-size: crwdns18016:0crwdne18016:0
+    #label: Let’s Educate
     title: |
       crwdns20124:0crwdne20124:0
     text: |
@@ -114,21 +131,35 @@ blocks:
       - crwdns22198:0crwdne22198:0
     style:
       background-image: crwdns22200:0crwdne22200:0
-      background-position: crwdns22202:0crwdne22202:0
+      background-position: crwdns22950:0crwdne22950:0
       background-size: crwdns22204:0crwdne22204:0
+    #label: A word from the team
     title: |
       crwdns22206:0crwdne22206:0
-    subtitle: |
-      crwdns22246:0crwdne22246:0
-    text: |
-      crwdns22260:0crwdne22260:0
-    image: crwdns22250:0crwdne22250:0
-    date: crwdns22252:0crwdne22252:0
-    location: crwdns22254:0crwdne22254:0
+    blocks:
+      democracyforum:
+        title: |
+          crwdns22952:0crwdne22952:0
+        text: |
+          crwdns22954:0crwdne22954:0
+        image: crwdns22956:0crwdne22956:0
+        date: crwdns22958:0crwdne22958:0
+        location: crwdns22960:0crwdne22960:0
+      slush:
+        title: |
+          crwdns22962:0crwdne22962:0
+        text: |
+          crwdns22964:0crwdne22964:0
+        image: crwdns22966:0crwdne22966:0
+        style:
+          background: 'crwdns22968:0crwdne22968:0'
+        date: crwdns22970:0crwdne22970:0
+        location: crwdns22972:0crwdne22972:0
   team:
     class:
       - crwdns22218:0crwdne22218:0
       - crwdns22220:0crwdne22220:0
+    #label: A word from the team
     title: |
       crwdns18914:0crwdne18914:0
     text: |
@@ -142,6 +173,7 @@ blocks:
       - crwdns18062:0crwdne18062:0
     style:
       border-left: 'crwdns18064:0crwdne18064:0'
+    #label: We’re stronger together
     title: |
       crwdns18066:0crwdne18066:0
     text: |
