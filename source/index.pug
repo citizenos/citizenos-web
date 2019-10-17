@@ -76,25 +76,26 @@ append content
                 .modal-body.embed-responsive.embed-responsive-16by9
                     iframe.embed-responsive-item(width='560', height='315', src='', frameborder='0', allow='autoplay; encrypted-media', allowfullscreen='')
 
-    if self.blocks.meet
+    if self.blocks.meet && self.blocks.meet.blocks
         #meet-blocks
             .col-12.text-center
                 h2
                     strong= self.blocks.meet.title
-            .row.mt-5.box-shadow
-                .meet-image.col-12.col-lg-5.px-0
-                    img.img-fluid.align-self-center(src=self.blocks.meet.image)
-                .col-12.col-lg-7.bg-white.pt-4.px-4
-                    h5.mb-2
-                        strong= self.blocks.meet.subtitle
-                    .row
-                        .meet-info.col-12.col-md-auto.mb-3
-                            img.mr-2(src='/assets/images/webinar-calendar.svg', width=16, height=16)
-                            = self.blocks.meet.date
-                        .meet-info.col-12.col-md-auto.mb-3
-                            img.mr-2(src='/assets/images/webinar-location.svg', width=16, height=16)
-                            = self.blocks.meet.location
-                    +markdown(self.blocks.meet.text)
+            each meet in self.blocks.meet.blocks
+                .row.mt-5.box-shadow
+                    .meet-image.col-12.col-lg-5.px-0.text-center(style=meet.style)
+                        img.img-fluid.align-self-center.p-3(src=meet.image)
+                    .col-12.col-lg-7.bg-white.pt-4.px-4
+                        h5.mb-2
+                            strong= meet.title
+                        .row
+                            .meet-info.col-12.col-md-auto.mb-3
+                                img.mr-2(src='/assets/images/webinar-calendar.svg', width=16, height=16)
+                                = meet.date
+                            .meet-info.col-12.col-md-auto.mb-3
+                                img.mr-2(src='/assets/images/webinar-location.svg', width=16, height=16)
+                                = meet.location
+                        +markdown(meet.text)
 
 
 append script

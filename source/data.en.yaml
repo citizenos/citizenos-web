@@ -147,20 +147,34 @@ blocks:
             - my-5
         style:
             background-image: url(/assets/images/bubble-dots.png)
-            background-position: 60% 130%
+            background-position: 80% 10%
             background-size: 350px 350px
         # label: A word from the team
         title: |
             Where you can meet us
-        subtitle: |
-            World Forum for Democracy 2019
-        text: |
-            The World Forum for Democracy 2019 will be dedicated to information and democracy. Will you be there? Drop us a line at <info@citizenos.com> and let's meet!
+        blocks:
+            democracyforum:
+                title: |
+                    World Forum for Democracy 2019
+                text: |
+                    The World Forum for Democracy 2019 will be dedicated to information and democracy.
 
-#            [Learn more](#)
-        image: /assets/images/frontpage-meet-democracyforum.png
-        date: 06. - 08.11.2019
-        location: Strasbourg
+                    Will you be there? Drop us a line at <info@citizenos.com> and let's meet!
+                image: /assets/images/meet/democracyforum.jpg
+                date: 06. - 08.11.2019
+                location: Strasbourg
+            slush:
+                title: |
+                    Slush 2019
+                text: |
+                    The world's leading startup event.
+
+                    Will you be there? Drop us a line at <info@citizenos.com> and let's meet!
+                image: /assets/images/meet/slush.jpg
+                style:
+                    background: '#000000'
+                date: 21. - 22.11.2019
+                location: Helsinki
 
 
     team:
