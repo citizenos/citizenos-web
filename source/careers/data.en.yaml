@@ -23,44 +23,38 @@ blocks:
         text: |
             Want to provide the people of the world with an amazing tool for co-deciding and online participatory democracy?
 
-            If our vision inspires you, please write to our Head of Partnerships <anett@citizenos.com>.
+            If our vision inspires you, please write to our Human Relations <ly@citizenos.com>.
 
-        #    #### Currently actively searching for: Volunteers: Backend, Frontend, Mobile Developer, UX/UI Designer and Graphic Designer.
-        #    Would you like to help with the environmental situation in Nigeria? Our partner Citizenvoice needs volunteer help integrating the Citizen OS open source code with their website [citizenvoice.ng](https://citizenvoice.ng). If you are available, please contact Thomas at <info@iservefoundations.org>.
+        Currently actively searching for: Software Developer.
+        Citizen OS Foundation aspires to solve the democracy crises by creating online solutions that improve the quality of collaborative decision-making. We are looking for a passionate, independent, motivated teamplayer who would help us fulfill that vision.
 
+        We expect:
 
-    # developer-volunteer:
-    #     class:
-    #         - career
-    #         - d-none
-    #     label: Careers
-    #     title: |
-    #         Volunteers needed
-    #     text: |
-    #         [Back to career opportunities](/careers/){ .close-career .arrow-left .mb-5 }
-    #         Would you like to help make people's voices heard .. in Nigeria? Citizen OS is an online decision-making platform and [citizenvoice.ng](https://citizenvoice.ng) would like to integrate the API to protect people against environmental harms in Nigeria. If you are available, please contact Thomas at <info@citizenvoice.ng>!
-    #
-    #         #### What you’ll be doing:
-    #
-    #         - Be the go-to person for the team for anything office and admin-related
-    #         - Be our culture ambassador and assist in planning company culture initiatives and events
-    #         - Be responsible for executing our office set-ups and lead the planning committee
-    #         - Manage facilities and organise services e.g. internet, cleaning, building insurance, etc.
-    #         - Manage and order office supply e.g. coffee, milk, office stationery, laptops, etc.
-    #         - Negotiate contract and price negotiations with service providers
-    #         - Attend to general front office duties as required
-    #         - General management and maintenance of the office environment - keeping it nice and homey for the team!
-    #         { .bullet }
-    #
-    #         #### What we offer you:
-    #
-    #         - Motivating compensation – motivational base pay and company stock options
-    #         - No corporate BS – we’re moving too fast for that
-    #         - Amazing personal growth experience at one of the fastest-growing startups in Europe
-    #         - Working with a motivated and talented international team, plus regular team events
-    #         - Monthly Taxify credit – both for work and leisure rides
-    #         - Impactful work – you’ll have a rare opportunity to build our home in Australia and help in building a product literally used by millions of people across the world
-    #         { .bullet }
-    #     button1st:
-    #         title: Apply for this position
-    #         url: '#'
+            - good knowledge of and experience with JavaScript, Node.js, AngularJS, PostgreSQL;
+            - good English proficiency;
+            - readiness to work in a team;
+            - good self-discipline.
+             { .bullet }
+
+        We appreciate:
+
+            - interest in e-democracy and e-decisionmaking;
+            - social nerve and argumentative communication skills;
+            - former experience with developing for ID-card, Mobiil-ID and Smart-ID;
+            - HTML, CSS skills;
+            - knowledge of and experience with Git or other version control systems.
+             { .bullet }
+
+        We offer:
+
+            - an opportunity to improve the way countries and societies operate;
+            - interesting challenges in a young and globally rapidly evolving sphere (e-democracy solutions);
+            - an all kinds of awesome, energetic, and diverse team;
+            - trainings, conferences and other means of self development;
+            - possibility to choose between working at the office (@Telliskivi Creative City) or at home;
+            - chance to manage your own time.
+             { .bullet }
+
+    ´     button1st:
+             title: Apply for this position
+             url: '#'
