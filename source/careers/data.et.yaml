@@ -19,6 +19,29 @@ blocks:
     title: |
       Kuidas liituda meie tiimiga?
     text: |
-      Kas soovid aidata luua ühise otsustamise ja online-osalusdemokraatia vahendit, mida saaksid kasutada kõik maailma inimesed?
+      Want to provide the people of the world with an amazing tool for co-deciding and online participatory democracy?
 
-      Kui see plaan tundub Sulle paeluv, palun kirjuta meie partnerlussuhete juhile aadressil <anett@citizenos.com>.
+      If our vision inspires you, please write to our Human Relations <ly@citizenos.com>.
+    Currently actively searching for: Software Developer.
+    0: Citizen OS Foundation aspires to solve the democracy crises by creating online solutions that improve the quality of collaborative decision-making. We are looking for a passionate, independent, motivated teamplayer who would help us fulfill that vision.
+    We expect:
+      - good knowledge of and experience with JavaScript, Node.js, AngularJS, PostgreSQL;
+      - good English proficiency;
+      - readiness to work in a team;
+      - good self-discipline. { .bullet }
+    We appreciate:
+      - interest in e-democracy and e-decisionmaking;
+      - social nerve and argumentative communication skills;
+      - former experience with developing for ID-card, Mobiil-ID and Smart-ID;
+      - HTML, CSS skills;
+      - knowledge of and experience with Git or other version control systems. { .bullet }
+    We offer:
+      - an opportunity to improve the way countries and societies operate;
+      - interesting challenges in a young and globally rapidly evolving sphere (e-democracy solutions);
+      - an all kinds of awesome, energetic, and diverse team;
+      - trainings, conferences and other means of self development;
+      - possibility to choose between working at the office (@Telliskivi Creative City) or at home;
+      - chance to manage your own time. { .bullet }
+  ´     button1st:
+    title: Apply for this position
+    url: '#'
