@@ -1,5 +1,10 @@
 ---
 title: crwdns17014:0crwdne17014:0
+#description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras fermentum ornare purus accumsan luctus. Nulla facilisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae.
+#keywords:
+#- lorem
+#- ipsum
+#- dolor
 image: crwdns19312:0crwdne19312:0
 blocks:
   careers-img:
@@ -10,7 +15,31 @@ blocks:
       background: 'crwdns17894:0crwdne17894:0'
       min-height: crwdns20062:0crwdne20062:0
   careers:
+    #label: About
     title: |
       crwdns17896:0crwdne17896:0
     text: |
-      crwdns22512:0crwdne22512:0
+      crwdns22974:0crwdne22974:0
+    Currently actively searching for: crwdns22976:0crwdne22976:0
+    0: crwdns22978:0crwdne22978:0
+    We expect:
+      - crwdns22980:0crwdne22980:0
+      - crwdns22982:0crwdne22982:0
+      - crwdns22984:0crwdne22984:0
+      - crwdns22986:0{ .bullet }crwdne22986:0
+    We appreciate:
+      - crwdns22988:0crwdne22988:0
+      - crwdns22990:0crwdne22990:0
+      - crwdns22992:0crwdne22992:0
+      - crwdns22994:0crwdne22994:0
+      - crwdns22996:0{ .bullet }crwdne22996:0
+    We offer:
+      - crwdns22998:0crwdne22998:0
+      - crwdns23000:0crwdne23000:0
+      - crwdns23002:0crwdne23002:0
+      - crwdns23004:0crwdne23004:0
+      - crwdns23006:0crwdne23006:0
+      - crwdns23008:0{ .bullet }crwdne23008:0
+  ´     button1st:
+    title: crwdns23010:0crwdne23010:0
+    url: 'crwdns23012:0crwdne23012:0'
