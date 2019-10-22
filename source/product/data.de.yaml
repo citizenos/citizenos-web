@@ -5,7 +5,7 @@ title: Artikel
 #- lorem
 #- ipsum
 #- dolor
-image: /assets/images/fbimg-product.jpg
+image: /assets/images/meta/product.jpg
 blocks:
   decision-img:
     class:
