@@ -15,10 +15,11 @@ blocks:
       background: 'crwdns17894:0crwdne17894:0'
       min-height: crwdns20062:0crwdne20062:0
   careers:
+    #label: About
     title: |
-      crwdns23020:0crwdne23020:0
+      crwdns23028:0crwdne23028:0
     text: |
-      crwdns23022:0{ .bullet }crwdnd23022:0{ .bullet }crwdnd23022:0{ .bullet }crwdne23022:0
+      crwdns23030:0{ .bullet }crwdnd23030:0{ .bullet }crwdnd23030:0{ .bullet }crwdne23030:0
     button1st:
       title: crwdns23024:0crwdne23024:0
       url: 'crwdns23018:0crwdne23018:0'
