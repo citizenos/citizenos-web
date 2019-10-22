@@ -1,4 +1,6 @@
 ---
+data:
+  vacancies: crwdns23032:0crwdne23032:0
 title: crwdns17014:0crwdne17014:0
 #description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras fermentum ornare purus accumsan luctus. Nulla facilisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae.
 #keywords:
@@ -6,20 +8,5 @@ title: crwdns17014:0crwdne17014:0
 #- ipsum
 #- dolor
 image: crwdns19312:0crwdne19312:0
-blocks:
-  careers-img:
-    class:
-      - crwdns17890:0crwdne17890:0
-      - crwdns17892:0crwdne17892:0
-    style:
-      background: 'crwdns17894:0crwdne17894:0'
-      min-height: crwdns20062:0crwdne20062:0
-  careers:
-    #label: About
-    title: |
-      crwdns23028:0crwdne23028:0
-    text: |
-      crwdns23030:0{ .bullet }crwdnd23030:0{ .bullet }crwdnd23030:0{ .bullet }crwdne23030:0
-    button1st:
-      title: crwdns23024:0crwdne23024:0
-      url: 'crwdns23018:0crwdne23018:0'
+text: |
+  crwdns23034:0crwdne23034:0
