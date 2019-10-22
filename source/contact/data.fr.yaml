@@ -5,7 +5,7 @@ title: Contact
 #- lorem
 #- ipsum
 #- dolor
-image: /assets/images/fbimg-vision.jpg
+image: /assets/images/meta/vision.jpg
 blocks:
   contact-img:
     class:
