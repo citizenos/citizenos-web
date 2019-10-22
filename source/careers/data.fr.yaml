@@ -1,4 +1,6 @@
 ---
+data:
+  vacancies: vacancy/data.yaml
 title: Recrutement
 #description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras fermentum ornare purus accumsan luctus. Nulla facilisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae.
 #keywords:
@@ -6,52 +8,15 @@ title: Recrutement
 #- ipsum
 #- dolor
 image: /assets/images/fbimg-home.jpg
-blocks:
-  careers-img:
-    class:
-      - d-none
-      - d-sm-block
-    style:
-      background: 'linear-gradient(180deg, #0EB7FE 0%, #0680FC 100%)'
-      min-height: 75vh
-  careers:
-    #label: About
-    title: |
-      How to join the team.
-    text: |
-      Citizen OS Foundation aspires to solve the democracy crises by creating online solutions that improve the quality of collaborative decision-making. We are looking for independent and motivated teamplayers to help us fulfil that vision.
+text: |
+  ## How to join the team
 
-      We have the spirit of a tech startup and a social purpose of an NGO.
+  Citizen OS Foundation aspires to solve the democracy crises by creating online solutions that improve the quality of collaborative decision-making. We are looking for independent and motivated teamplayers to help us fulfil that vision.
 
-      If our vision inspires you, please write to our Human Resources <ly@citizenos.com> to discuss potential opportunities.
+  We have the spirit of a tech startup and a social purpose of an NGO.
 
-      ## Vacancies.
+  If our vision inspires you, please write to our Human Resources <ly@citizenos.com> to discuss potential opportunities.
 
-      **We are currently actively searching for the following position: Software Developer**.
+  ## Vacancies
 
-      **We expect:**
-      - Good knowledge of and experience with JavaScript, Node.js, AngularJS, PostgreSQL;
-      - good proficiency in English;
-      - a good team-player;
-      - good self-discipline;
-      - confidence and ability to put forward own opinions using solid rational arguments.
-      { .bullet }
-
-      **We appreciate:**
-      - Interest in e-democracy and e-decisionmaking;
-      - former experience with developing for ID-card, Mobiil-ID and Smart-ID;
-      - HTML, CSS skills;
-      - knowledge of and experience with Git or other version control systems.
-      { .bullet }
-
-      **We offer:**
-      - An opportunity to improve the way countries and societies operate;
-      - interesting challenges in a young and globally rapidly evolving sphere (e-democracy solutions);
-      - awesome, energetic, teammates;
-      - training, conferences and other development opportunities;
-      - possibility to choose between working at the office (@Telliskivi Creative City) or remotely with weekly visits;
-      - the flexibility to decide your own working hours.
-      { .bullet }
-    button1st:
-      title: To apply, please email us your CV and a cover letter.
-      url: 'mailto:ly@citizenos.com'
+  We are currently actively searching for the following position:
