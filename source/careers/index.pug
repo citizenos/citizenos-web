@@ -1,1 +1,16 @@
-extends /_templates/blocks.pug
+extends /_templates/main.pug
+
+
+block content
+    .container-fluid
+        .row
+            #img.block.d-none.d-sm-block.col-12.col-sm-4
+            .block.col-12.col-sm-7.offset-sm-1.py-5
+                .block-text
+                    +markdown(self.text)
+
+                    if self.data && self.data.vacancies
+                        ul.bullet
+                            each v in self.data.vacancies
+                                li.my-2
+                                    a.my-2(href=v.path)= v.title
