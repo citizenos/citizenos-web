@@ -5,7 +5,7 @@ path: /
 #- lorem
 #- ipsum
 #- dolor
-image: /assets/images/fbimg-home-alt.jpg
+image: /assets/images/meta/home-alt.jpg
 header:
   title: Обсуждения на основе аргументов и совместное принятие решений для гражданских инициатив.
   0: |
