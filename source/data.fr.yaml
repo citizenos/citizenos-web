@@ -5,7 +5,7 @@ path: /
 #- lorem
 #- ipsum
 #- dolor
-image: /assets/images/fbimg-home-alt.jpg
+image: /assets/images/meta/home-alt.jpg
 header:
   title: Des discussions basées sur des arguments et une prise de décision collaborative pour des initiatives civiques.
   0: |
