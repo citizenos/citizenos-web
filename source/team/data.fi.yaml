@@ -7,7 +7,7 @@ title: Tiimi
 #- dolor
 image: /assets/images/meta/home.jpg
 team:
-  -
+  - 
     name: Margo Loor
     title: Board member, Leader, Product Manager
     text: Brings light, wisdom and paints the big picture.
@@ -16,7 +16,7 @@ team:
     linkedin: https://www.linkedin.com/in/margoloor/
     twitter: https://twitter.com/loorm
     email: info@citizenos.com
-  -
+  - 
     name: Anett Linno
     title: Partnerships & Community
     text: With kind tenderness brings structure and clarity to any chaos.
@@ -25,7 +25,7 @@ team:
     linkedin: https://www.linkedin.com/in/anettlinno/
     twitter: https://twitter.com/twitanett
     email: anett@citizenos.com
-  -
+  - 
     name: Oksana Naidjonova
     title: Localisation & Translation
     text: Fights for justice and leads us to become better every day.
@@ -34,7 +34,7 @@ team:
     linkedin: https://www.linkedin.com/in/oksananaidjonova/
     twitter: https://twitter.com/oksks
     email: oksana@citizenos.com
-  -
+  - 
     name: Liina Guiter
     title: Marketing & Communications
     text: Finds a common language and something to share with any being on this planet.
@@ -43,7 +43,7 @@ team:
     linkedin: https://www.linkedin.com/in/liinaguiter/
     twitter: https://twitter.com/liinaguiter
     email: liina@citizenos.com
-  -
+  - 
     name: Mikk Andresen
     title: Software Developer
     text: Builds stuff out of nothing and keeps our morale at a top height.
@@ -51,7 +51,7 @@ team:
     picture: /assets/images/team/mikk.jpg
     linkedin: https://www.linkedin.com/in/mikkandresen/
     email: mikk@citizenos.com
-  -
+  - 
     name: Ilmar Türk
     title: Software Developer
     text: Guaranteed delivery of code and smiles.
@@ -59,7 +59,7 @@ team:
     picture: /assets/images/team/ilmar.jpg
     linkedin: https://www.linkedin.com/in/ilmarturk/
     email: ilmar@citizenos.com
-  -
+  - 
     name: Kati Vellak
     title: Lawyer
     text: Protects us from baddies and energizes anyone in sight.
@@ -67,7 +67,7 @@ team:
     picture: /assets/images/team/kati.jpg
     linkedin: https://www.linkedin.com/in/kativellak/
     email: kati@citizenos.com
-  -
+  - 
     name: Ly Kasvandik
     title: Human Relations
     text: Always there to help and protect, when one needs it most.
@@ -75,7 +75,7 @@ team:
     picture: /assets/images/team/ly.jpg
     linkedin: https://www.linkedin.com/in/lykasvandik/
     email: ly@citizenos.com
-  -
+  - 
     name: Becca Melhuish
     title: Communications Designer & Copywriter
     text: Brings sparkle and shine to all of our comms.
