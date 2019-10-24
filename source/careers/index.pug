@@ -9,8 +9,8 @@ block content
                 .block-text
                     +markdown(self.text)
 
-                    if self.data && self.data.vacancies
+                    if self.vacancies
                         ul.bullet
-                            each v in self.data.vacancies
+                            each v in self.vacancies
                                 li.my-2
-                                    a.my-2(href=v.path)= v.title
+                                    a.my-2(href=v.url)= v.title
