@@ -5,7 +5,7 @@ path: crwdns22192:0crwdne22192:0
 #- lorem
 #- ipsum
 #- dolor
-image: crwdns19320:0crwdne19320:0
+image: crwdns23046:0crwdne23046:0
 header:
   title: crwdns20140:0crwdne20140:0
   0: |
@@ -149,7 +149,7 @@ blocks:
         title: |
           crwdns22962:0crwdne22962:0
         text: |
-          crwdns22964:0crwdne22964:0
+          crwdns23026:0crwdne23026:0
         image: crwdns22966:0crwdne22966:0
         style:
           background: 'crwdns22968:0crwdne22968:0'

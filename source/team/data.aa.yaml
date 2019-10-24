@@ -1,6 +1,11 @@
 ---
 title: crwdns17716:0crwdne17716:0
-image: crwdns19328:0crwdne19328:0
+#description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras fermentum ornare purus accumsan luctus. Nulla facilisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae.
+#keywords:
+#- lorem
+#- ipsum
+#- dolor
+image: crwdns23062:0crwdne23062:0
 team:
   - 
     name: crwdns22436:0crwdne22436:0
@@ -79,6 +84,8 @@ team:
     linkedin: crwdns22500:0crwdne22500:0
     email: crwdns22504:0crwdne22504:0
 other:
+  #title: |
+  #Like-minded people
   advisor: |
     crwdns22518:0crwdne22518:0
   founder: |

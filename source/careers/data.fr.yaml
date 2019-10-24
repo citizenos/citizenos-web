@@ -1,24 +1,22 @@
 ---
+data:
+  vacancies: vacancy/data.yaml
 title: Recrutement
 #description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras fermentum ornare purus accumsan luctus. Nulla facilisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae.
 #keywords:
 #- lorem
 #- ipsum
 #- dolor
-image: /assets/images/meta/home.jpg
-blocks:
-  careers-img:
-    class:
-      - d-none
-      - d-sm-block
-    style:
-      background: 'linear-gradient(180deg, #0EB7FE 0%, #0680FC 100%)'
-      min-height: 75vh
-  careers:
-    #label: About
-    title: |
-      Comment rejoindre l'équipe.
-    text: |
-      Vous voulez fournir aux gens du monde un outil incroyable pour la co-décision et la démocratie participative en ligne ?
+image: /assets/images/meta/careers.jpg
+text: |
+  ## Why join the team?
 
-      Si notre vision vous inspire, veuillez écrire à notre chef de partenariat <anett@citizenos.com>.
+  Citizen OS Foundation aspires to solve the democracy crises by creating online solutions that improve the quality of collaborative decision-making. We are looking for independent and motivated teamplayers to help us fulfil that vision.
+
+  We have the spirit of a tech startup and a social purpose of an NGO.
+
+  If our vision inspires you, please write to our Human Resources <ly@citizenos.com> to discuss potential opportunities.
+
+  ## Vacancies
+
+  We are currently actively searching for the following position:

@@ -1,6 +1,11 @@
 ---
 title: crwdns17040:0crwdne17040:0
-image: crwdns19316:0crwdne19316:0
+#description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras fermentum ornare purus accumsan luctus. Nulla facilisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae.
+#keywords:
+#- lorem
+#- ipsum
+#- dolor
+image: crwdns23042:0crwdne23042:0
 blocks:
   contact-img:
     class:
@@ -10,6 +15,7 @@ blocks:
       background: 'crwdns17914:0crwdne17914:0'
       min-height: crwdns20066:0crwdne20066:0
   contact:
+    #label: About
     title: |
       crwdns17916:0crwdne17916:0
     text: |
