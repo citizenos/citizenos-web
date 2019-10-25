@@ -1,16 +1,33 @@
 ol
-    list-style-type upper-roman
-    padding-left 1rem
+    margin 0
+    padding 0
+    list-style-type none
+    counter-reset level1
 
-    p
-        margin-bottom 0
+    & > li
+        display table
+        margin-bottom 0.6em
+        counter-increment level1
 
-    ol
-        list-style-type decimal
-        margin-bottom 1rem
-        padding-left 1.5em
+        &:before
+            display table-cell
+            padding-right 0.6em
+            content counter(level1) '. '
 
-        ol
-            margin-bottom 0
-            padding-left 1.5em
-            list-style-type lower-alpha
+        & > ol
+            counter-reset level2
+
+            & > li
+                counter-increment level2
+
+                &:before
+                    content counter(level1) '.' counter(level2) '. '
+
+                & > ol
+                    counter-reset level3
+
+                    & > li
+                        counter-increment level3
+
+                        &:before
+                            content counter(level3, lower-alpha) ') '
