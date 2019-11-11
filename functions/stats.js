@@ -24,6 +24,14 @@ const getStatsAPI = async () => {
                     })
                 }
             })
+        }).on('error', (e) => {
+            console.error(e)
+            resolve({
+                topicsCreated: 0,
+                votesCast: 0,
+                groupsCreated: 0,
+                usersCreated: 0
+            })
         })
   })
 }
@@ -51,6 +59,14 @@ const getStatsERE = async () => {
                         usersCreated: 0
                     })
                 }
+            })
+        }).on('error', (e) => {
+            console.error(e)
+            resolve({
+                topicsCreated: 0,
+                votesCast: 0,
+                groupsCreated: 0,
+                usersCreated: 0
             })
         })
   })
