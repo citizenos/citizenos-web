@@ -7,18 +7,18 @@ title: Вакансии
 #- dolor
 image: /assets/images/meta/careers.jpg
 text: |
-  ## Why join the team?
+  ## Почему стоит присоединиться к нашей команде?
 
-  Citizen OS Foundation aspires to solve the democracy crises by creating online solutions that improve the quality of collaborative decision-making. We are looking for independent and motivated teamplayers to help us fulfil that vision.
+  Фонд Citizen OS стремится разрешить кризис демократии путем создания онлайн-решений, которые улучшают качество совместного принятия решений. Мы ищем независимых и мотивированных сотрудников, которые помогут нам реализовать это видение.
 
-  We have the spirit of a tech startup and a social purpose of an NGO.
+  Мы - технологический стартап и по совместительству НПО с социальной целью.
 
-  If our vision inspires you, please write to our Human Resources <ly@citizenos.com> to discuss potential opportunities.
+  Если вас вдохновляет наше видение, напишите, пожалуйста, в наш отдел кадров <ly@citizenos.com>, чтобы обсудить потенциальные возможности.
 
-  ## Vacancies
+  ## Вакансии
 
-  We are currently actively searching for the following position:
+  В настоящее время мы ведем активный поиск по следующим позициям:
 vacancies:
   - 
-    title: Software Developer
+    title: Разработчик ПО
     url: /careers/software-developer/
