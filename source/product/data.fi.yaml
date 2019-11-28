@@ -1,10 +1,10 @@
 ---
 title: Tuote
-description: Collaborative decision-making, pro / con discussion, custom voting.
+description: Yhteistyöhön perustuva päätöksenteko, keskustelut puolesta ja vastaan, mukautettu äänestys.
 keywords:
-  - Collaborative decision-making
-  - custom voting
-  - Pro con Discussion
+  - Yhteistyöhön perustuva päätöksenteko
+  - Mukautettu äänestys
+  - Keskustelut puolesta ja vastaan
 image: /assets/images/meta/product.jpg
 blocks:
   decision-img:

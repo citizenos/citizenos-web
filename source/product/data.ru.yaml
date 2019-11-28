@@ -1,10 +1,10 @@
 ---
 title: Продукт
-description: Collaborative decision-making, pro / con discussion, custom voting.
+description: Совместное принятие решений, обсуждение в формате «за и против», настраиваемый режим голосования.
 keywords:
-  - Collaborative decision-making
-  - custom voting
-  - Pro con Discussion
+  - Совместное принятие решений
+  - настраиваемый режим голосования
+  - Обсуждение в формате «за и против»
 image: /assets/images/meta/product.jpg
 blocks:
   decision-img:
