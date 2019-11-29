@@ -84,6 +84,11 @@ team:
         picture: /assets/images/team/becca.jpg
         linkedin: https://www.linkedin.com/in/beccamelhuish/
         email: becca.melhuish@gmail.com
+    -
+        name: Agustina Iskandar
+        title: Partnership Lead in Indonesia
+        linkedin: https://www.linkedin.com/in/agustina-iskandar-95a402109/
+        email: agustinaiskandar1989@gmail.com
 
 other:
 #    title: |
