@@ -137,24 +137,16 @@ blocks:
     title: |
       crwdns22206:0crwdne22206:0
     blocks:
-      democracyforum:
+      open government evening:
         title: |
-          crwdns22952:0crwdne22952:0
+          crwdns23179:0crwdne23179:0
         text: |
-          crwdns22954:0crwdne22954:0
-        image: crwdns22956:0crwdne22956:0
-        date: crwdns22958:0crwdne22958:0
-        location: crwdns22960:0crwdne22960:0
-      slush:
-        title: |
-          crwdns22962:0crwdne22962:0
-        text: |
-          crwdns23026:0crwdne23026:0
-        image: crwdns22966:0crwdne22966:0
+          crwdns23181:0crwdne23181:0
+        image: crwdns23183:0crwdne23183:0
         style:
-          background: 'crwdns22968:0crwdne22968:0'
-        date: crwdns22970:0crwdne22970:0
-        location: crwdns22972:0crwdne22972:0
+          background: 'crwdns23185:0crwdne23185:0'
+        date: crwdns23187:0crwdne23187:0
+        location: crwdns23189:0crwdne23189:0
   team:
     class:
       - crwdns22218:0crwdne22218:0
