@@ -153,28 +153,18 @@ blocks:
         title: |
             Where you can meet us
         blocks:
-            democracyforum:
+            open government evening:
                 title: |
-                    World Forum for Democracy 2019
+                    Open Government evening
                 text: |
-                    The World Forum for Democracy 2019 will be dedicated to information and democracy.
+                    "How to Engage Citizens Beyond Elections: Good Examples Around the Globe." Presentation by Sanjay Pradhan, CEO of the Open Government Partnership, followed by a discussion.
 
                     Will you be there? Drop us a line at <info@citizenos.com> and let's meet!
-                image: /assets/images/meet/democracyforum.jpg
-                date: 06. - 08.11.2019
-                location: Strasbourg
-            slush:
-                title: |
-                    Slush 2019
-                text: |
-                    The world's leading startup event. A gathering of 25,000 curious minds, including 4,000 startups and 2,000 investors.
-
-                    Will you be there? Drop us a line at <info@citizenos.com> and let's meet!
-                image: /assets/images/meet/slush.jpg
+                image: /assets/images/meet/sanjaypradhan.jpg
                 style:
                     background: '#000000'
-                date: 21. - 22.11.2019
-                location: Helsinki
+                date: 02.12.2019
+                location: Tallinn
 
 
     team:
