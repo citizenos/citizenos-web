@@ -1,10 +1,10 @@
 ---
 title: Produit
-description: Collaborative decision-making, pro / con discussion, custom voting.
+description: Prise de décision collaborative, discussion pour/contre, vote personnalisé.
 keywords:
-  - Collaborative decision-making
-  - custom voting
-  - Pro con Discussion
+  - Prise de décisions collaborative
+  - vote personnalisé
+  - Discussion pour contre
 image: /assets/images/meta/product.jpg
 blocks:
   decision-img:
