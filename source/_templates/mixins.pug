@@ -1,0 +1,25 @@
+mixin markdown(text)
+    | !{ self.md(text) }
+
+
+mixin video(id, src)
+    .video-popup.modal.fade(id=id, tabindex='-1', role='dialog')
+        .modal-dialog.modal-dialog-centered.modal-lg(role='document')
+            .modal-content
+                .modal-body.embed-responsive.embed-responsive-16by9
+                    iframe.embed-responsive-item(width='560', height='315', src='', frameborder='0', allow='autoplay; encrypted-media', allowfullscreen='')
+    script.
+        $(function () {
+            if (window.location.hash === '##{ id }') {
+                $('##{ id } iframe').attr('src', '#{ src }')
+                $('##{ id }').modal('show')
+            }
+
+            $('##{ id }').on('show.bs.modal', function () {
+                $('##{ id } iframe').attr('src', '#{ src }')
+            })
+
+            $('##{ id }').on('hidden.bs.modal', function () {
+                $('##{ id } iframe').attr('src', '')
+            })
+        })

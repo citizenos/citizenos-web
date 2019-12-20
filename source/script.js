@@ -40,15 +40,6 @@ $(function () {
         }
     })
 
-    $('a[data-target="#video-popup"]').click(function () {
-        $('#video-popup iframe').attr('src', $(this).attr('href'))
-        $('#video-bg').get(0).pause()
-    })
-
-    $('#video-popup').on('hidden.bs.modal', function () {
-        $('#video-popup iframe').attr('src', '')
-        $('#video-bg').get(0).play()
-    })
 
     // $(window).scroll(function () {
     //     $('.scroll-out').each(function () {

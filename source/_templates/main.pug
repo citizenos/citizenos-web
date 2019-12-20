@@ -1,8 +1,7 @@
 block vars
 
 
-mixin markdown(text)
-    | !{ self.md(text) }
+include mixins.pug
 
 
 - self.rootUrl = self.locale === 'en' ? '/' : `/${self.locale}/`

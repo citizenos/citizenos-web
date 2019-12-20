@@ -2,8 +2,5 @@ extends /_templates/blocks.pug
 
 
 append content
-    #video-popup.modal.fade(tabindex='-1', role='dialog')
-        .modal-dialog.modal-dialog-centered.modal-lg(role='document')
-            .modal-content
-                .modal-body.embed-responsive.embed-responsive-16by9
-                    iframe.embed-responsive-item(width='560', height='315', src='', frameborder='0', allow='autoplay; encrypted-media', allowfullscreen='')
+    if self.blocks['start-img'] && self.blocks['start-img'].video
+        +video(self.blocks['start-img'].video.id, self.blocks['start-img'].video.url)

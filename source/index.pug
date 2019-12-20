@@ -14,15 +14,16 @@ block header
                     .col-12.col-sm-6.offset-sm-3.h-100.w-100.pt-2.pb-3.text-white.text-center.align-self-center
                         +markdown(self.header.text)
                         .row.mt-4
-                            if self.header.play
+                            if self.header.video
                                 .col-12.col-sm-6.mt-3.text-center.text-sm-right
-                                    a.btn.btn-primary.mr-2(href=self.header.play.url, data-toggle='modal', data-target='#video-popup')  ►
-                                    a(href=self.header.play.url, data-toggle='modal', data-target='#video-popup')
-                                        strong= self.header.play.title
+                                    a.btn.btn-primary.mr-2(href='#introduction', data-toggle='modal', data-target='#introduction')  ►
+                                    a(href='#introduction', data-toggle='modal', data-target='#introduction')
+                                        strong= self.header.video.title
+
                             if self.header.demo
                                 .col-12.col-sm-6.mt-3.text-center.text-sm-left
-                                    a.btn.btn-primary.mr-2(href=self.header.demo.url, data-toggle='modal', data-target='#video-popup')  ►
-                                    a(href=self.header.demo.url, data-toggle='modal', data-target='#video-popup')
+                                    a.btn.btn-primary.mr-2(href='#demo', data-toggle='modal', data-target='#demo')  ►
+                                    a(href='#demo', data-toggle='modal', data-target='#demo')
                                         strong= self.header.demo.title
 
                             if self.header && self.header.whatIs
@@ -70,11 +71,11 @@ append content
                         if self.blocks.news
                             a.my-2(target='_blank')= self.blocks.news.readMore
 
-    #video-popup.modal.fade(tabindex='-1', role='dialog')
-        .modal-dialog.modal-dialog-centered.modal-lg(role='document')
-            .modal-content
-                .modal-body.embed-responsive.embed-responsive-16by9
-                    iframe.embed-responsive-item(width='560', height='315', src='', frameborder='0', allow='autoplay; encrypted-media', allowfullscreen='')
+    if self.header.video
+        +video('introduction', self.header.video.url)
+
+    if self.header.demo
+        +video('demo', self.header.demo.url)
 
     if self.blocks.meet && self.blocks.meet.blocks
         #meet-blocks
