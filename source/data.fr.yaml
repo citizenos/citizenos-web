@@ -10,9 +10,9 @@ header:
   title: Des discussions basées sur des arguments et une prise de décision collaborative pour des initiatives civiques.
   0: |
 
-  play:
+  video:
     title: Introduction
-    url: https://www.youtube.com/embed/hDLWbQQAk8g?rel=0&showinfo=0&modestbranding=1&autoplay=1&cc_load_policy=1&cc_lang_pref=fr
+    url: https://www.youtube.com/embed/hDLWbQQAk8g?rel=0&showinfo=0&modestbranding=1&autoplay=1&cc_load_policy=1&cc_lang_pref=en
   demo:
     title: Démo
     url: https://www.youtube.com/embed/UC44qCCIixE?rel=0&showinfo=0&modestbranding=1&autoplay=1&cc_load_policy=1&cc_lang_pref=fr

@@ -10,9 +10,9 @@ header:
   title: Argumentoivaa keskustelua ja osallistuvaa päätöksentekoa kansalaisaloitteille.
   0: |
 
-  play:
-    title: Johdanto
-    url: https://www.youtube.com/embed/hDLWbQQAk8g?rel=0&showinfo=0&modestbranding=1&autoplay=1&cc_load_policy=1&cc_lang_pref=fi
+  video:
+    title: Introduction
+    url: https://www.youtube.com/embed/hDLWbQQAk8g?rel=0&showinfo=0&modestbranding=1&autoplay=1&cc_load_policy=1&cc_lang_pref=en
   demo:
     title: Demo
     url: https://www.youtube.com/embed/UC44qCCIixE?rel=0&showinfo=0&modestbranding=1&autoplay=1&cc_load_policy=1&cc_lang_pref=fi
