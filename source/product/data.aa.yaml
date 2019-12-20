@@ -16,10 +16,10 @@ blocks:
       background-position: crwdns20078:0crwdne20078:0
       background-size: crwdns20080:0crwdne20080:0
     text: |
-      crwdns23223:0crwdne23223:0
+      crwdns23235:0crwdne23235:0
     video:
-      id: crwdns23225:0crwdne23225:0
-      url: 'crwdns23227:0crwdne23227:0'
+      id: crwdns23237:0crwdne23237:0
+      url: 'crwdns23239:0crwdne23239:0'
   decision:
     class:
       - crwdns19184:0crwdne19184:0
