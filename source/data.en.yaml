@@ -155,12 +155,12 @@ blocks:
         blocks:
             open government evening:
                 title: |
-                    Open Government evening
+                    sTARTUp Day 2020
                 text: |
-                    "How to Engage Citizens Beyond Elections: Good Examples Around the Globe." Presentation by Sanjay Pradhan, CEO of the Open Government Partnership, followed by a discussion.
+                    The biggest business festival in the Baltics brings together startup-minded people to celebrate entrepreneurship in the smart city of Tartu.
 
                     Will you be there? Drop us a line at <info@citizenos.com> and let's meet!
-                image: /assets/images/meet/sanjaypradhan.jpg
+                image: /assets/images/meet/startupday.png
                 style:
                     background: '#000000'
                 date: 02.12.2019
