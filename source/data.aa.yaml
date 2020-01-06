@@ -145,8 +145,8 @@ blocks:
         image: crwdns23245:0crwdne23245:0
         style:
           background: 'crwdns23185:0crwdne23185:0'
-        date: crwdns23187:0crwdne23187:0
-        location: crwdns23189:0crwdne23189:0
+        date: crwdns23247:0crwdne23247:0
+        location: crwdns23249:0crwdne23249:0
   team:
     class:
       - crwdns22218:0crwdne22218:0
