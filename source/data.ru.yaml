@@ -1,9 +1,9 @@
 ---
 path: /
-description: Citizen OS is a free civic tech platform for participatory democracy - features log-in, pro con discussion and yes / no / delegative / custom voting.
+description: Citizen OS - бесплатная платформа гражданской технологии для демократии участия - аутентификация, обсуждения и голосования за и против, настраиваемые режимы голосования, передача/делегация полномочий при голосовании.
 keywords:
   - да / нет / передача полномочий при голосовании
-  - civic tech
+  - гражданская технология
   - citizen os
 image: /assets/images/meta/home-alt.jpg
 header:
@@ -135,20 +135,20 @@ blocks:
       background-size: 350px 350px
     #label: A word from the team
     title: |
-      Где нас можно встретить
+      Где можно нас встретить
     blocks:
       open government evening:
         title: |
           sTARTUp Day 2020
         text: |
-          The biggest business festival in the Baltics brings together startup-minded people to celebrate entrepreneurship in the smart city of Tartu.
+          Крупнейший бизнес-фестиваль в Прибалтике в очередной раз объединяет людей, ориентированных на стартапы, чтобы отпраздновать развитие предпринимательства в смарт-городе Тарту.
 
-          Will you be there? Drop us a line at <info@citizenos.com> and let's meet!
+          Планируете принять участие? Сообщите нам на <info@citizenos.com> - давайте договоримся о встрече!
         image: /assets/images/meet/startupday.png
         style:
           background: '#000000'
         date: 29-31.01.2020
-        location: Tartu
+        location: Тарту
   team:
     class:
       - order-8
