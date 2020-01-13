@@ -16,7 +16,7 @@ blocks:
       background-position: center center, 0% 20%, 70% 10%
       background-size: 500px 500px, 350px 350px, 100px 100px
     text: |
-      [► Play demo](#demo){.btn .btn-primary data-toggle=modal data-target=#demo}
+      [► Regarder la démo](#demo){.btn .btn-primary data-toggle=modal data-target=#demo}
     video:
       id: demo
       url: 'https://www.youtube.com/embed/UC44qCCIixE?rel=0&showinfo=0&modestbranding=1&autoplay=1&cc_load_policy=1&cc_lang_pref=en'
