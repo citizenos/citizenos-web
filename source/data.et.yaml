@@ -3,7 +3,7 @@ path: /
 description: Citizen OS is a free civic tech platform for participatory democracy - features log-in, pro con discussion and yes / no / delegative / custom voting.
 keywords:
   - yes / no / delegative voting
-  - civic tech
+  - kodanikutehnoloogia
   - citizen os
 image: /assets/images/meta/home-alt.jpg
 header:
@@ -135,15 +135,15 @@ blocks:
       background-size: 350px 350px
     #label: A word from the team
     title: |
-      Where you can meet us
+      Kus meid võib kohata
     blocks:
       open government evening:
         title: |
           sTARTUp Day 2020
         text: |
-          The biggest business festival in the Baltics brings together startup-minded people to celebrate entrepreneurship in the smart city of Tartu.
+          Baltimaade suurim ettevõtlusfestival koondab alustavaid ettevõtjaid, et tähistada ettevõtlust nuti-linnas Tartus.
 
-          Will you be there? Drop us a line at <info@citizenos.com> and let's meet!
+          Kas võtad üritusest osa? Anna meile teada <info@citizenos.com> - lepime kohtumise kokku!
         image: /assets/images/meet/startupday.png
         style:
           background: '#000000'
