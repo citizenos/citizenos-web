@@ -139,40 +139,40 @@ blocks:
     blocks:
       Let's Do It World Conference 2020:
         title: |
-          Let's Do It World Conference 2020
+          Конференция Let's Do It World 2020
         text: |
-          Let’s Do It World (LDIW) Conference 2020 is the meeting place for the LDIW global network. We get together to share, learn, grow and celebrate the success of World Cleanup Day 2019.
+          Конференция Let’s Do It World (LDIW) 2020 - место встречи для глобальной сети LDIW. Мы соберемся вместе, чтобы делиться знаниями, учиться, расти и совместно отпраздновать успех Всемирного Дня Чистоты 2019. 
 
-          Will you be there? Drop us a line at <info@citizenos.com> and let's meet!
+          Планируете принять участие? Сообщите нам на <info@citizenos.com> - давайте договоримся о встрече!
         image: /assets/images/meet/ldi.png
         style:
           background: '#000000'
         date: 23-26.01.2020
-        location: Tallinn
+        location: Таллинн
       startup day:
         title: |
           sTARTUp Day 2020
         text: |
-          The biggest business festival in the Baltics brings together startup-minded people to celebrate entrepreneurship in the smart city of Tartu.
+          Крупнейший бизнес-фестиваль в Прибалтике в очередной раз объединяет людей, ориентированных на стартапы, чтобы отпраздновать развитие предпринимательства в смарт-городе Тарту.
 
-          Will you be there? Drop us a line at <info@citizenos.com> and let's meet!
+          Планируете принять участие? Сообщите нам на <info@citizenos.com> - давайте договоримся о встрече!
         image: /assets/images/meet/startupday.png
         style:
           background: '#000000'
         date: 29-31.01.2020
-        location: Tartu
+        location: Тарту
       tictec:
         title: |
           TICTeC 2020
         text: |
-          Returning for a sixth year, TICTeC 2020 will focus on the impact that civic technology and digital democracy are having upon citizens, decision makers and governments around the world.
+          Ежегодная конференция TICTeC 2020 возвращается уже в шестой раз и в этот раз сосредоточится на воздействии, которое оказывают гражданские технологии и э-демократия на граждан, директивных органов и правительства во всем мире.
 
-          Will you be there? Drop us a line at <info@citizenos.com> and let's meet!
+          Планируете принять участие? Сообщите нам на <info@citizenos.com> - давайте договоримся о встрече!
         image: /assets/images/meet/tictec.png
         style:
           background: '#000000'
         date: 24-25.03.2020
-        location: Reykjavik
+        location: Рейкьявик
   team:
     class:
       - order-8
