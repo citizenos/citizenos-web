@@ -137,16 +137,36 @@ blocks:
     title: |
       crwdns22206:0crwdne22206:0
     blocks:
-      open government evening:
+      Let's Do It World Conference 2020:
         title: |
-          crwdns23241:0crwdne23241:0
+          crwdns23267:0crwdne23267:0
         text: |
-          crwdns23243:0crwdne23243:0
-        image: crwdns23245:0crwdne23245:0
+          crwdns23269:0crwdne23269:0
+        image: crwdns23271:0crwdne23271:0
         style:
-          background: 'crwdns23185:0crwdne23185:0'
-        date: crwdns23247:0crwdne23247:0
-        location: crwdns23249:0crwdne23249:0
+          background: 'crwdns23273:0crwdne23273:0'
+        date: crwdns23275:0crwdne23275:0
+        location: crwdns23277:0crwdne23277:0
+      startup day:
+        title: |
+          crwdns23279:0crwdne23279:0
+        text: |
+          crwdns23281:0crwdne23281:0
+        image: crwdns23283:0crwdne23283:0
+        style:
+          background: 'crwdns23285:0crwdne23285:0'
+        date: crwdns23287:0crwdne23287:0
+        location: crwdns23289:0crwdne23289:0
+      tictec:
+        title: |
+          crwdns23291:0crwdne23291:0
+        text: |
+          crwdns23293:0crwdne23293:0
+        image: crwdns23295:0crwdne23295:0
+        style:
+          background: 'crwdns23297:0crwdne23297:0'
+        date: crwdns23299:0crwdne23299:0
+        location: crwdns23301:0crwdne23301:0
   team:
     class:
       - crwdns22218:0crwdne22218:0
