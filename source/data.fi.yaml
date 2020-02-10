@@ -1,8 +1,8 @@
 ---
 path: /
-description: Citizen OS is a free civic tech platform for participatory democracy - features log-in, pro con discussion and yes / no / delegative / custom voting.
+description: Citizen OS on maksuton kansalaisteknologia-alusta osallistavaa demokratiaa varten. Sisäänkirjautumismahdollisuus, puolesta ja vastaan - keskustelut sekä kyllä / ei / delegatiivinen / mukautettu äänestäminen.
 keywords:
-  - yes / no / delegative voting
+  - kyllä / ei / delegatiivinen äänestäminen
   - kansalaisteknologia
   - citizen os
 image: /assets/images/meta/home-alt.jpg
@@ -135,15 +135,15 @@ blocks:
       background-size: 350px 350px
     #label: A word from the team
     title: |
-      Where you can meet us
+      Missä meidät voi tavata
     blocks:
       Let's Do It World Conference 2020:
         title: |
           Let's Do It World Conference 2020
         text: |
-          Let’s Do It World (LDIW) Conference 2020 is the meeting place for the LDIW global network. We get together to share, learn, grow and celebrate the success of World Cleanup Day 2019.
+          Let’s Do It World (LDIW) Conference 2020 on maailmanlaajuisen LDIW-yleisön kohtaamispaikka. Keräännymme yhteen jakamaan, kasvamaan ja juhlistamaan World Cleanup Day 2019:n menestystä.
 
-          Will you be there? Drop us a line at <info@citizenos.com> and let's meet!
+          Tuletko sinne? Kirjoita meille osoitteeseen <info@citizenos.com>, niin sovitaan tapaamisesta!
         image: /assets/images/meet/ldi.png
         style:
           background: '#000000'
@@ -153,9 +153,9 @@ blocks:
         title: |
           sTARTUp Day 2020
         text: |
-          The biggest business festival in the Baltics brings together startup-minded people to celebrate entrepreneurship in the smart city of Tartu.
+          Baltian suurin yritystapahtuma tuo Tarton älykaupunkiin startup-mielisiä ihmisiä juhlistamaan yrittäjyyttä.
 
-          Will you be there? Drop us a line at <info@citizenos.com> and let's meet!
+          Tuletko sinäkin? Kirjoita meille osoitteeseen <info@citizenos.com>, niin sovitaan tapaamisesta!
         image: /assets/images/meet/startupday.png
         style:
           background: '#000000'
@@ -165,9 +165,9 @@ blocks:
         title: |
           TICTeC 2020
         text: |
-          Returning for a sixth year, TICTeC 2020 will focus on the impact that civic technology and digital democracy are having upon citizens, decision makers and governments around the world.
+          Kuudetta vuotta järjestettävässä TICTeC 2020 -tapahtumassa keskitytään siihen, miten kansalaisteknologia ja digitaalisen demokratia vaikuttavat kansalaisiin, päätöksentekijöihin ja hallituksiin ympäri maailman.
 
-          Will you be there? Drop us a line at <info@citizenos.com> and let's meet!
+          Tuletko sinäkin? Kirjoita meille osoitteeseen <info@citizenos.com>, niin sovitaan tapaamisesta!
         image: /assets/images/meet/tictec.png
         style:
           background: '#000000'
