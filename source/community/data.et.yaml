@@ -1,10 +1,10 @@
 ---
 title: Kogukond
-#description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras fermentum ornare purus accumsan luctus. Nulla facilisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae.
-#keywords:
-#- lorem
-#- ipsum
-#- dolor
+description: Liitu meie aktivistide kogukonnaga! Citizen OS toob kokku aktiivsed inimesed, kelle tänased otsused muudavad homset ühiskonda! Osale, räägi kaasa ja anna oma hääl!
+keywords:
+- kodanikuühiskond
+- aktivist
+- kogukond
 image: /assets/images/meta/vision.jpg
 blocks:
   start-img:
@@ -209,15 +209,15 @@ blocks:
       ##### **Anett Linno**
       Partnerships & Community Foundation Citizen OS
     blocks:
-      - 
+      -
         icon: /assets/images/community-email.svg
         title: anett@citizenos.com
         url: mailto:anett@citizenos.com
-      - 
+      -
         icon: /assets/images/community-skype.svg
         title: anettorg
         url: skype:anettorg
-      - 
+      -
         icon: /assets/images/community-phone.svg
         title: +372 5669 2076
         url: tel:+37256692076
