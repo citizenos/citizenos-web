@@ -1,0 +1,172 @@
+---
+path: crwdns23466:0crwdne23466:0
+description: crwdns23468:0crwdne23468:0
+keywords:
+  - crwdns23470:0crwdne23470:0
+  - crwdns23472:0crwdne23472:0
+  - crwdns23474:0crwdne23474:0
+image: crwdns23476:0crwdne23476:0
+header:
+  title: crwdns23478:0crwdne23478:0
+  0: |
+    crwdns23480:0crwdne23480:0
+  video:
+    title: crwdns23482:0crwdne23482:0
+    url: crwdns23484:0crwdne23484:0
+  demo:
+    title: crwdns23486:0crwdne23486:0
+    url: crwdns23488:0crwdne23488:0
+#whatIs:
+#title: What is Citizen OS
+#url: /product/
+#startUsing:
+#title: Start using - it’s free!
+#url: https://app.citizenos.com
+#target: _blank
+blocks:
+  opensource-img:
+    class:
+      - crwdns23490:0crwdne23490:0
+    style:
+      background-image: crwdns23492:0crwdne23492:0
+      background-position: crwdns23494:0crwdne23494:0
+      background-size: crwdns23496:0crwdne23496:0
+    text: |
+      crwdns23498:0{ .img-fluid }crwdne23498:0
+  opensource:
+    class:
+      - crwdns23500:0crwdne23500:0
+      - crwdns23502:0crwdne23502:0
+      - crwdns23504:0crwdne23504:0
+    style:
+      background-image: crwdns23506:0crwdne23506:0
+      background-position: crwdns23508:0crwdne23508:0
+      background-size: crwdns23510:0crwdne23510:0
+    #label: Our Product
+    title: |
+      crwdns23512:0crwdne23512:0
+    text: |
+      crwdns23514:0crwdne23514:0
+    button1st:
+      title: crwdns23516:0crwdne23516:0
+      url: crwdns23518:0crwdne23518:0
+  democracy-img:
+    class:
+      - crwdns23520:0crwdne23520:0
+      - crwdns23522:0crwdne23522:0
+    style:
+      background-image: crwdns23524:0crwdne23524:0
+      background-position: crwdns23526:0crwdne23526:0
+      background-size: crwdns23528:0crwdne23528:0
+    text: |
+      crwdns23530:0{ .img-fluid }crwdne23530:0
+  democracy:
+    class:
+      - crwdns23532:0crwdne23532:0
+      - crwdns23534:0crwdne23534:0
+      - crwdns23536:0crwdne23536:0
+      - crwdns23538:0crwdne23538:0
+    style:
+      background-image: crwdns23540:0crwdne23540:0
+      background-position: crwdns23542:0crwdne23542:0
+      background-size: crwdns23544:0crwdne23544:0
+    title: |
+      crwdns23546:0crwdne23546:0
+    text: |
+      crwdns23548:0crwdne23548:0
+    button1st:
+      title: crwdns23550:0crwdne23550:0
+      url: crwdns23552:0crwdne23552:0
+    button2nd: crwdns23554:0crwdne23554:0
+  #title: Use platform - it’s free!
+  #url: https://app.citizenos.com
+  #target: _blank
+  research-img:
+    class:
+      - crwdns23556:0crwdne23556:0
+    style:
+      background-image: crwdns23558:0crwdne23558:0
+      background-position: crwdns23560:0crwdne23560:0
+      background-size: crwdns23562:0crwdne23562:0
+    text: |
+      crwdns23564:0{ .img-fluid }crwdne23564:0
+  research:
+    class:
+      - crwdns23566:0crwdne23566:0
+      - crwdns23568:0crwdne23568:0
+      - crwdns23570:0crwdne23570:0
+    style:
+      background-image: crwdns23572:0crwdne23572:0
+      background-position: crwdns23574:0crwdne23574:0
+      background-size: crwdns23576:0crwdne23576:0
+    #label: Let’s Educate
+    title: |
+      crwdns23578:0crwdne23578:0
+    text: |
+      crwdns23580:0crwdne23580:0
+    button1st:
+      title: crwdns23582:0crwdne23582:0
+      url: crwdns23584:0crwdne23584:0
+  news:
+    class:
+      - crwdns23586:0crwdne23586:0
+      - crwdns23588:0crwdne23588:0
+    style:
+      background-color: 'crwdns23590:0crwdne23590:0'
+      background-image: crwdns23592:0crwdne23592:0
+      background-position: crwdns23594:0crwdne23594:0
+      background-size: crwdns23596:0crwdne23596:0
+    title: |
+      crwdns23598:0crwdne23598:0
+    text: |
+      crwdns23600:0{ #news-items }crwdne23600:0
+    button1st:
+      title: crwdns23602:0crwdne23602:0
+      url: crwdns23604:0crwdne23604:0
+    readMore: crwdns23606:0crwdne23606:0
+  meet:
+    class:
+      - crwdns23608:0crwdne23608:0
+      - crwdns23610:0crwdne23610:0
+      - crwdns23612:0crwdne23612:0
+    style:
+      background-image: crwdns23614:0crwdne23614:0
+      background-position: crwdns23616:0crwdne23616:0
+      background-size: crwdns23618:0crwdne23618:0
+    #label: A word from the team
+    title: |
+      crwdns23620:0crwdne23620:0
+    blocks:
+      tictec:
+        title: |
+          crwdns23622:0crwdne23622:0
+        text: |
+          crwdns23624:0crwdne23624:0
+        image: crwdns23626:0crwdne23626:0
+        style:
+          background: 'crwdns23628:0crwdne23628:0'
+        date: crwdns23630:0crwdne23630:0
+        location: crwdns23632:0crwdne23632:0
+  team:
+    class:
+      - crwdns23634:0crwdne23634:0
+      - crwdns23636:0crwdne23636:0
+    #label: A word from the team
+    title: |
+      crwdns23638:0crwdne23638:0
+    text: |
+      crwdns23640:0crwdne23640:0
+    button1st:
+      title: crwdns23642:0crwdne23642:0
+      url: crwdns23644:0crwdne23644:0
+  partners:
+    class:
+      - crwdns23646:0crwdne23646:0
+      - crwdns23648:0crwdne23648:0
+    style:
+      border-left: 'crwdns23650:0crwdne23650:0'
+    #label: We’re stronger together
+    title: |
+      crwdns23652:0crwdne23652:0
+    text: |
+      crwdns23654:0[Partners]crwdnd23654:0{ .mt-4 .w-100 }crwdne23654:0
