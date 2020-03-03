@@ -137,30 +137,6 @@ blocks:
     title: |
       Kus meid võib kohata
     blocks:
-      Let's Do It World Conference 2020:
-        title: |
-          Teeme Ära maailmakonverents 2020
-        text: |
-          Teeme Ära maailmakonverents (LDIW) 2020 on LDIW ülemaailmse võrgustiku kohtumispaik. Saame kokku, et jagada, õppida, areneda ja tähista üheskoos 2019. aasta maailmakoristuspäeva.
-
-          Kas tuled kohale? Anna endast märku aadressil <info@citizenos.com> ja saame kokku!
-        image: /assets/images/meet/ldi.png
-        style:
-          background: '#000000'
-        date: 23-26.01.2020
-        location: Tallinn
-      startup day:
-        title: |
-          sTARTUp Day 2020
-        text: |
-          Baltimaade suurim ettevõtlusfestival koondab alustavaid ettevõtjaid, et tunnustada ettevõtlikkust nuti-linnas Tartus.
-
-          Kas võtad üritusest osa? Anna meile teada <info@citizenos.com> - lepime kohtumise kokku!
-        image: /assets/images/meet/startupday.png
-        style:
-          background: '#000000'
-        date: 29-31.01.2020
-        location: Tartu
       tictec:
         title: |
           TICTeC 2020
