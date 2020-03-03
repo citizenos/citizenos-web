@@ -1,10 +1,10 @@
 ---
 path: /
-description: Citizen OS on osalusdemokraatia arendamiseks loodud tasuta kodanikutehnoloogiaplatvorm. Sellel platvormil saad luua kasutaja ning algatada arutelusid poolt- ja vastuargumentide üle või korraldada poolt-/vastuhääletusi, delegeeritud hääletusi või kohandatud hääletusi.
+description: Citizen OS on tasuta osalusdemokraatia platvorm kodanikualgatuste jaoks. Püstita teema, tekita arutelu, hääleta ja digiallkirjasta!
 keywords:
-  - jah / ei / delegeeritud hääletamine
-  - kodanikutehnoloogia
-  - citizen os
+  - digiallkiri
+  - algatus
+  - petitsioon
 image: /assets/images/meta/home-alt.jpg
 header:
   title: Argumendipõhised arutelud ja ühiste otsuste langetamine kodanikualgatuste jaoks.
