@@ -1,21 +1,21 @@
 ---
 path: /
-description: Citizen OS est une plateforme de technologie civique gratuite pour la démocratie participative qui propose fonctionnalités de connexion, de discussion pour / contre et de vote oui / non / par délégation / personnalisé.
+description: Citizen OS is a free civic tech platform for participatory democracy - features log-in, pro con discussion and yes / no / delegative / custom voting.
 keywords:
-  - vote oui / non / par délégation
+  - yes / no / delegative voting
   - civic tech
   - citizen os
 image: /assets/images/meta/home-alt.jpg
 header:
-  title: Des discussions basées sur des arguments et une prise de décision collaborative pour des initiatives civiques.
+  title: Argument-based discussions and collaborative decision-making for civic initiatives.
   0: |
 
   video:
     title: Introduction
     url: https://www.youtube.com/embed/hDLWbQQAk8g?rel=0&showinfo=0&modestbranding=1&autoplay=1&cc_load_policy=1&cc_lang_pref=en
   demo:
-    title: Démo
-    url: https://www.youtube.com/embed/UC44qCCIixE?rel=0&showinfo=0&modestbranding=1&autoplay=1&cc_load_policy=1&cc_lang_pref=fr
+    title: Demo
+    url: https://www.youtube.com/embed/UC44qCCIixE?rel=0&showinfo=0&modestbranding=1&autoplay=1&cc_load_policy=1&cc_lang_pref=en
 #whatIs:
 #title: What is Citizen OS
 #url: /product/
@@ -44,12 +44,12 @@ blocks:
       background-size: 360px 360px
     #label: Our Product
     title: |
-      Utilisez le logiciel open source.
+      Use the open source software.
     text: |
-      Nous pensons que les outils pour la démocratie participative en ligne devraient être libres d'utilisation pour tous.
+      We believe the tools for online participatory democracy should be free to use for everyone.
     button1st:
-      title: À propos du produit
-      url: /fr/product/
+      title: About product
+      url: /product/
   democracy-img:
     class:
       - order-3
@@ -71,12 +71,12 @@ blocks:
       background-position: 0 10%
       background-size: 122px 122px
     title: |
-      Augmenter la sensibilisation à la démocratie participative.
+      Raising awareness on participatory democracy.
     text: |
-      Nous pensons que la voie à suivre en tant que civilisation est de se réunir au niveau mondial et de décider des choses qui ont un impact sur notre bien-être.
+      We believe the way for us to move forward as a civilization is to globally come together and decide on issues that affect our wellbeing.
     button1st:
-      title: À propos de la vision
-      url: /fr/vision/
+      title: About vision
+      url: /vision/
     button2nd:
   #title: Use platform - it’s free!
   #url: https://app.citizenos.com
@@ -101,12 +101,12 @@ blocks:
       background-size: 360px 360px
     #label: Let’s Educate
     title: |
-      Développer la e-démocratie.
+      Developing e-democracy.
     text: |
-      Nous collaborons avec des chercheurs pour contribuer au développement de nos produits.
+      We collaborate with researchers to help develop our products.
     button1st:
-      title: À propos de la recherche
-      url: /fr/research/
+      title: About research
+      url: /research/
   news:
     class:
       - order-6
@@ -117,13 +117,13 @@ blocks:
       background-position: 60% 10%
       background-size: 360px 360px
     title: |
-      Dernières Actualités
+      Latest news
     text: |
       { #news-items }
     button1st:
-      title: Lire le blog
+      title: Read blog
       url: https://medium.com/citizenos
-    readMore: Lire la suite
+    readMore: Read more
   meet:
     class:
       - order-7
@@ -135,15 +135,15 @@ blocks:
       background-size: 350px 350px
     #label: A word from the team
     title: |
-      Où nous rencontrer
+      Where you can meet us
     blocks:
       tictec:
         title: |
           TICTeC 2020
         text: |
-          De retour pour une sixième année, TICTeC 2020 se concentrera sur l'impact de la technologie civique et de la démocratie numérique sur les citoyens, les décideurs et les gouvernements du monde entier.
+          Returning for a sixth year, TICTeC 2020 will focus on the impact that civic technology and digital democracy are having upon citizens, decision makers and governments around the world.
 
-          Vous y serez ? Envoyez-nous un message à <info@citizenos.com> et rencontrons-nous !
+          Will you be there? Drop us a line at <info@citizenos.com> and let's meet!
         image: /assets/images/meet/tictec.png
         style:
           background: '#000000'
@@ -155,12 +155,12 @@ blocks:
       - py-5
     #label: A word from the team
     title: |
-      Aidez-nous à développer des produits Open Source et à répandre la démocratie participative.
+      Help us develop Open Source products and spread participatory democracy.
     text: |
-      Que vous soyez développeur, traducteur, chercheur, designer, hacktiviste ou journaliste - rejoignez-nous !
+      Whether you are a developer, translator, researcher, designer, hacktivist or journalist - join us!
     button1st:
-      title: Contribuer
-      url: /fr/contribute/
+      title: Contribute
+      url: /contribute/
   partners:
     class:
       - order-9
@@ -169,6 +169,6 @@ blocks:
       border-left: '1px solid #E5E5E5'
     #label: We’re stronger together
     title: |
-      Nos partenaires et supporters
+      Our partners & supporters
     text: |
       ![Partners](/assets/images/frontpage-partners.png){ .mt-4 .w-100 }
