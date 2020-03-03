@@ -1,21 +1,21 @@
 ---
 path: /
-description: Citizen OS on tasuta osalusdemokraatia platvorm kodanikualgatuste jaoks. Püstita teema, tekita arutelu, hääleta ja digiallkirjasta!
+description: Citizen OS is a free civic tech platform for participatory democracy - features log-in, pro con discussion and yes / no / delegative / custom voting.
 keywords:
-  - digiallkiri
-  - algatus
-  - petitsioon
+  - yes / no / delegative voting
+  - civic tech
+  - citizen os
 image: /assets/images/meta/home-alt.jpg
 header:
-  title: Argumendipõhised arutelud ja ühiste otsuste langetamine kodanikualgatuste jaoks.
+  title: Argument-based discussions and collaborative decision-making for civic initiatives.
   0: |
 
   video:
-    title: Tutvustus
+    title: Introduction
     url: https://www.youtube.com/embed/hDLWbQQAk8g?rel=0&showinfo=0&modestbranding=1&autoplay=1&cc_load_policy=1&cc_lang_pref=en
   demo:
     title: Demo
-    url: https://www.youtube.com/embed/UC44qCCIixE?rel=0&showinfo=0&modestbranding=1&autoplay=1&cc_load_policy=1&cc_lang_pref=et
+    url: https://www.youtube.com/embed/UC44qCCIixE?rel=0&showinfo=0&modestbranding=1&autoplay=1&cc_load_policy=1&cc_lang_pref=en
 #whatIs:
 #title: What is Citizen OS
 #url: /product/
@@ -44,12 +44,12 @@ blocks:
       background-size: 360px 360px
     #label: Our Product
     title: |
-      Võta kasutusele meie avatud lähtekoodiga tarkvara.
+      Use the open source software.
     text: |
-      Usume, et online osalusdemokraatia vahendid peaksid olema kõigile tasuta kättesaadavad.
+      We believe the tools for online participatory democracy should be free to use for everyone.
     button1st:
-      title: Teave toote kohta
-      url: /et/product/
+      title: About product
+      url: /product/
   democracy-img:
     class:
       - order-3
@@ -71,12 +71,12 @@ blocks:
       background-position: 0 10%
       background-size: 122px 122px
     title: |
-      Tõstame teadlikkust osalusdemokraatiast.
+      Raising awareness on participatory democracy.
     text: |
-      Usume, et parim viis tsivilisatsioonina edasi arenemiseks on globaalselt kokku tulla ja otsustada teemade üle, mis mõjutavad meie heaolu.
+      We believe the way for us to move forward as a civilization is to globally come together and decide on issues that affect our wellbeing.
     button1st:
-      title: Meie visioonist
-      url: /et/vision/
+      title: About vision
+      url: /vision/
     button2nd:
   #title: Use platform - it’s free!
   #url: https://app.citizenos.com
@@ -101,12 +101,12 @@ blocks:
       background-size: 360px 360px
     #label: Let’s Educate
     title: |
-      Oleme arendamas e-demokraatiat.
+      Developing e-democracy.
     text: |
-      Tootearenduseks teeme koostööd teadlastega.
+      We collaborate with researchers to help develop our products.
     button1st:
-      title: Teave teadusuuringute kohta
-      url: /et/research/
+      title: About research
+      url: /research/
   news:
     class:
       - order-6
@@ -117,13 +117,13 @@ blocks:
       background-position: 60% 10%
       background-size: 360px 360px
     title: |
-      Viimased uudised
+      Latest news
     text: |
       { #news-items }
     button1st:
-      title: Loe blogi
+      title: Read blog
       url: https://medium.com/citizenos
-    readMore: Loe täpsemalt
+    readMore: Read more
   meet:
     class:
       - order-7
@@ -135,15 +135,15 @@ blocks:
       background-size: 350px 350px
     #label: A word from the team
     title: |
-      Kus meid võib kohata
+      Where you can meet us
     blocks:
       tictec:
         title: |
           TICTeC 2020
         text: |
-          TICTeC toimub juba kuuendat aastat. TICTeC 2020 vaatleb eelkõige seda, missugust mõju tsiviiltehnoloogiad ja digitaalne demokraatia kodanikele, otsustajatele ja erinevate riikide valitsustele avaldavad.
+          Returning for a sixth year, TICTeC 2020 will focus on the impact that civic technology and digital democracy are having upon citizens, decision makers and governments around the world.
 
-          Kas tuled ka? Anna endast märku aadressil <info@citizenos.com> ja saame kokku!
+          Will you be there? Drop us a line at <info@citizenos.com> and let's meet!
         image: /assets/images/meet/tictec.png
         style:
           background: '#000000'
@@ -155,12 +155,12 @@ blocks:
       - py-5
     #label: A word from the team
     title: |
-      Aita meil välja töötada avatud lähtekoodiga tooteid ja levitada osalusdemokraatiat.
+      Help us develop Open Source products and spread participatory democracy.
     text: |
-      Kui olete tarkvaraarendaja, tõlkija, teadlane, disainer, häktivist või ajakirjanik, liituge meie tiimiga!
+      Whether you are a developer, translator, researcher, designer, hacktivist or journalist - join us!
     button1st:
-      title: Anna oma panus
-      url: /et/contribute/
+      title: Contribute
+      url: /contribute/
   partners:
     class:
       - order-9
@@ -169,6 +169,6 @@ blocks:
       border-left: '1px solid #E5E5E5'
     #label: We’re stronger together
     title: |
-      Meie partnerid ja toetajad
+      Our partners & supporters
     text: |
       ![Partners](/assets/images/frontpage-partners.png){ .mt-4 .w-100 }
