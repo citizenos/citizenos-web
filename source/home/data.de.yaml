@@ -46,9 +46,9 @@ blocks:
     title: |
       Use the open source software.
     text: |
-      Wir sind der Meinung, dass die Instrumente für eine Online-Partizipatorische Demokratie für jedermann frei verfügbar sein sollten.
+      We believe the tools for online participatory democracy should be free to use for everyone.
     button1st:
-      title: Über das Produkt
+      title: About product
       url: /product/
   democracy-img:
     class:
@@ -75,7 +75,7 @@ blocks:
     text: |
       We believe the way for us to move forward as a civilization is to globally come together and decide on issues that affect our wellbeing.
     button1st:
-      title: Über die Vision
+      title: About vision
       url: /vision/
     button2nd:
   #title: Use platform - it’s free!
@@ -105,7 +105,7 @@ blocks:
     text: |
       We collaborate with researchers to help develop our products.
     button1st:
-      title: Über die Forschung
+      title: About research
       url: /research/
   news:
     class:
@@ -117,13 +117,13 @@ blocks:
       background-position: 60% 10%
       background-size: 360px 360px
     title: |
-      Letzte Neuigkeiten
+      Latest news
     text: |
       { #news-items }
     button1st:
-      title: Blog lesen
+      title: Read blog
       url: https://medium.com/citizenos
-    readMore: Mehr lesen
+    readMore: Read more
   meet:
     class:
       - order-7
@@ -155,11 +155,11 @@ blocks:
       - py-5
     #label: A word from the team
     title: |
-      Helfen Sie uns, Open Source Produkte zu entwickeln und partizipative Demokratie zu verbreiten.
+      Help us develop Open Source products and spread participatory democracy.
     text: |
-      Egal, ob Sie Entwickler, Übersetzer, Forscher, Designer, Hacktivist oder Journalist sind - Treten Sie uns bei!
+      Whether you are a developer, translator, researcher, designer, hacktivist or journalist - join us!
     button1st:
-      title: Mitwirken
+      title: Contribute
       url: /contribute/
   partners:
     class:
@@ -169,6 +169,6 @@ blocks:
       border-left: '1px solid #E5E5E5'
     #label: We’re stronger together
     title: |
-      Unsere Partner & Unterstützer
+      Our partners & supporters
     text: |
       ![Partners](/assets/images/frontpage-partners.png){ .mt-4 .w-100 }
