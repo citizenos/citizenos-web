@@ -1,10 +1,11 @@
 ---
+path: /product
 title: Toode
-description: Argumenteeritud arutelud, algatused ja ühiste otsuste tegemine. Tasuta tarkvara, mis teeb ideede genereerimise, digiallkirjastamise ja hääletamise hõlpsaks.
+description: Koostöös otsuste tegemine, poolt- ja vastuargumentide üle diskuteerimine, kohandatud hääletus.
 keywords:
-  - digiallkirjastamine
-  - avalik arutelu
-  - kollektiivne pöördumine
+  - Koostöös otsuste tegemine
+  - kohandatud hääletamine
+  - Poolt ja vastuargumentide üle diskuteerimine
 image: /assets/images/meta/product.jpg
 blocks:
   decision-img:

@@ -137,30 +137,6 @@ blocks:
     title: |
       Missä meidät voi tavata
     blocks:
-      Let's Do It World Conference 2020:
-        title: |
-          Let's Do It World Conference 2020
-        text: |
-          Let’s Do It World (LDIW) Conference 2020 on maailmanlaajuisen LDIW-yleisön kohtaamispaikka. Keräännymme yhteen jakamaan, kasvamaan ja juhlistamaan World Cleanup Day 2019:n menestystä.
-
-          Tuletko sinne? Kirjoita meille osoitteeseen <info@citizenos.com>, niin sovitaan tapaamisesta!
-        image: /assets/images/meet/ldi.png
-        style:
-          background: '#000000'
-        date: 23-26.01.2020
-        location: Tallinn
-      startup day:
-        title: |
-          sTARTUp Day 2020
-        text: |
-          Baltian suurin yritystapahtuma tuo Tarton älykaupunkiin startup-mielisiä ihmisiä juhlistamaan yrittäjyyttä.
-
-          Tuletko sinäkin? Kirjoita meille osoitteeseen <info@citizenos.com>, niin sovitaan tapaamisesta!
-        image: /assets/images/meet/startupday.png
-        style:
-          background: '#000000'
-        date: 29-31.01.2020
-        location: Tartu
       tictec:
         title: |
           TICTeC 2020

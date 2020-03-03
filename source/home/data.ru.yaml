@@ -137,30 +137,6 @@ blocks:
     title: |
       Где нас можно встретить
     blocks:
-      Let's Do It World Conference 2020:
-        title: |
-          Конференция Let's Do It World 2020
-        text: |
-          Конференция Let’s Do It World (LDIW) 2020 - место встречи для глобальной сети LDIW. Мы соберемся вместе, чтобы делиться знаниями, учиться, расти и совместно отпраздновать успех Всемирного Дня Чистоты 2019. 
-
-          Планируете принять участие? Сообщите нам на <info@citizenos.com> - давайте договоримся о встрече!
-        image: /assets/images/meet/ldi.png
-        style:
-          background: '#000000'
-        date: 23-26.01.2020
-        location: Таллинн
-      startup day:
-        title: |
-          sTARTUp Day 2020
-        text: |
-          Крупнейший бизнес-фестиваль в Прибалтике в очередной раз объединяет людей, ориентированных на стартапы, чтобы отпраздновать развитие предпринимательства в смарт-городе Тарту.
-
-          Планируете принять участие? Сообщите нам на <info@citizenos.com> - давайте договоримся о встрече!
-        image: /assets/images/meet/startupday.png
-        style:
-          background: '#000000'
-        date: 29-31.01.2020
-        location: Тарту
       tictec:
         title: |
           TICTeC 2020

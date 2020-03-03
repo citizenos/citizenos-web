@@ -1,10 +1,11 @@
 ---
+path: /company
 title: Organisatsioon
-description: Citizen OS on tasuta ja turvaline avatud lähtekoodiga platvorm kodanikualgatuste püstitamise jaoks. Oleme sotsiaalne idufirma.
-keywords:
-- avatud lähtekood
-- kodanikualgatus
-- sihtasutus
+#description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras fermentum ornare purus accumsan luctus. Nulla facilisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae.
+#keywords:
+#- lorem
+#- ipsum
+#- dolor
 image: /assets/images/meta/home.jpg
 blocks:
   company-img:
