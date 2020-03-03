@@ -1,21 +1,21 @@
 ---
-path: crwdns23466:0crwdne23466:0
-description: crwdns23468:0crwdne23468:0
+path: crwdns22192:0crwdne22192:0
+description: crwdns23072:0crwdne23072:0
 keywords:
-  - crwdns23470:0crwdne23470:0
-  - crwdns23472:0crwdne23472:0
-  - crwdns23474:0crwdne23474:0
-image: crwdns23476:0crwdne23476:0
+  - crwdns23074:0crwdne23074:0
+  - crwdns23076:0crwdne23076:0
+  - crwdns23078:0crwdne23078:0
+image: crwdns23046:0crwdne23046:0
 header:
-  title: crwdns23478:0crwdne23478:0
+  title: crwdns20140:0crwdne20140:0
   0: |
-    crwdns23480:0crwdne23480:0
+    crwdns20146:0crwdne20146:0
   video:
-    title: crwdns23482:0crwdne23482:0
-    url: crwdns23484:0crwdne23484:0
+    title: crwdns23219:0crwdne23219:0
+    url: crwdns23221:0crwdne23221:0
   demo:
-    title: crwdns23486:0crwdne23486:0
-    url: crwdns23488:0crwdne23488:0
+    title: crwdns17072:0crwdne17072:0
+    url: crwdns19174:0crwdne19174:0
 #whatIs:
 #title: What is Citizen OS
 #url: /product/
@@ -26,147 +26,147 @@ header:
 blocks:
   opensource-img:
     class:
-      - crwdns23490:0crwdne23490:0
+      - crwdns17930:0crwdne17930:0
     style:
-      background-image: crwdns23492:0crwdne23492:0
-      background-position: crwdns23494:0crwdne23494:0
-      background-size: crwdns23496:0crwdne23496:0
+      background-image: crwdns17932:0crwdne17932:0
+      background-position: crwdns17934:0crwdne17934:0
+      background-size: crwdns17936:0crwdne17936:0
     text: |
-      crwdns23498:0{ .img-fluid }crwdne23498:0
+      crwdns17938:0{ .img-fluid }crwdne17938:0
   opensource:
     class:
-      - crwdns23500:0crwdne23500:0
-      - crwdns23502:0crwdne23502:0
-      - crwdns23504:0crwdne23504:0
+      - crwdns17940:0crwdne17940:0
+      - crwdns17942:0crwdne17942:0
+      - crwdns17944:0crwdne17944:0
     style:
-      background-image: crwdns23506:0crwdne23506:0
-      background-position: crwdns23508:0crwdne23508:0
-      background-size: crwdns23510:0crwdne23510:0
+      background-image: crwdns17946:0crwdne17946:0
+      background-position: crwdns17948:0crwdne17948:0
+      background-size: crwdns17950:0crwdne17950:0
     #label: Our Product
     title: |
-      crwdns23512:0crwdne23512:0
+      crwdns20122:0crwdne20122:0
     text: |
-      crwdns23514:0crwdne23514:0
+      crwdns17954:0crwdne17954:0
     button1st:
-      title: crwdns23516:0crwdne23516:0
-      url: crwdns23518:0crwdne23518:0
+      title: crwdns17956:0crwdne17956:0
+      url: crwdns17958:0crwdne17958:0
   democracy-img:
     class:
-      - crwdns23520:0crwdne23520:0
-      - crwdns23522:0crwdne23522:0
+      - crwdns17960:0crwdne17960:0
+      - crwdns17962:0crwdne17962:0
     style:
-      background-image: crwdns23524:0crwdne23524:0
-      background-position: crwdns23526:0crwdne23526:0
-      background-size: crwdns23528:0crwdne23528:0
+      background-image: crwdns17964:0crwdne17964:0
+      background-position: crwdns17966:0crwdne17966:0
+      background-size: crwdns17968:0crwdne17968:0
     text: |
-      crwdns23530:0{ .img-fluid }crwdne23530:0
+      crwdns17970:0{ .img-fluid }crwdne17970:0
   democracy:
     class:
-      - crwdns23532:0crwdne23532:0
-      - crwdns23534:0crwdne23534:0
-      - crwdns23536:0crwdne23536:0
-      - crwdns23538:0crwdne23538:0
+      - crwdns17972:0crwdne17972:0
+      - crwdns17974:0crwdne17974:0
+      - crwdns17976:0crwdne17976:0
+      - crwdns17978:0crwdne17978:0
     style:
-      background-image: crwdns23540:0crwdne23540:0
-      background-position: crwdns23542:0crwdne23542:0
-      background-size: crwdns23544:0crwdne23544:0
+      background-image: crwdns17980:0crwdne17980:0
+      background-position: crwdns17982:0crwdne17982:0
+      background-size: crwdns17984:0crwdne17984:0
     title: |
-      crwdns23546:0crwdne23546:0
+      crwdns20130:0crwdne20130:0
     text: |
-      crwdns23548:0crwdne23548:0
+      crwdns20132:0crwdne20132:0
     button1st:
-      title: crwdns23550:0crwdne23550:0
-      url: crwdns23552:0crwdne23552:0
-    button2nd: crwdns23554:0crwdne23554:0
+      title: crwdns17990:0crwdne17990:0
+      url: crwdns18928:0crwdne18928:0
+    button2nd: crwdns17994:0crwdne17994:0
   #title: Use platform - it’s free!
   #url: https://app.citizenos.com
   #target: _blank
   research-img:
     class:
-      - crwdns23556:0crwdne23556:0
+      - crwdns17996:0crwdne17996:0
     style:
-      background-image: crwdns23558:0crwdne23558:0
-      background-position: crwdns23560:0crwdne23560:0
-      background-size: crwdns23562:0crwdne23562:0
+      background-image: crwdns17998:0crwdne17998:0
+      background-position: crwdns18000:0crwdne18000:0
+      background-size: crwdns18002:0crwdne18002:0
     text: |
-      crwdns23564:0{ .img-fluid }crwdne23564:0
+      crwdns18004:0{ .img-fluid }crwdne18004:0
   research:
     class:
-      - crwdns23566:0crwdne23566:0
-      - crwdns23568:0crwdne23568:0
-      - crwdns23570:0crwdne23570:0
+      - crwdns18006:0crwdne18006:0
+      - crwdns18008:0crwdne18008:0
+      - crwdns18010:0crwdne18010:0
     style:
-      background-image: crwdns23572:0crwdne23572:0
-      background-position: crwdns23574:0crwdne23574:0
-      background-size: crwdns23576:0crwdne23576:0
+      background-image: crwdns18012:0crwdne18012:0
+      background-position: crwdns18014:0crwdne18014:0
+      background-size: crwdns18016:0crwdne18016:0
     #label: Let’s Educate
     title: |
-      crwdns23578:0crwdne23578:0
+      crwdns20124:0crwdne20124:0
     text: |
-      crwdns23580:0crwdne23580:0
+      crwdns20126:0crwdne20126:0
     button1st:
-      title: crwdns23582:0crwdne23582:0
-      url: crwdns23584:0crwdne23584:0
+      title: crwdns18022:0crwdne18022:0
+      url: crwdns18024:0crwdne18024:0
   news:
     class:
-      - crwdns23586:0crwdne23586:0
-      - crwdns23588:0crwdne23588:0
+      - crwdns18026:0crwdne18026:0
+      - crwdns18028:0crwdne18028:0
     style:
-      background-color: 'crwdns23590:0crwdne23590:0'
-      background-image: crwdns23592:0crwdne23592:0
-      background-position: crwdns23594:0crwdne23594:0
-      background-size: crwdns23596:0crwdne23596:0
+      background-color: 'crwdns18030:0crwdne18030:0'
+      background-image: crwdns18032:0crwdne18032:0
+      background-position: crwdns18034:0crwdne18034:0
+      background-size: crwdns18036:0crwdne18036:0
     title: |
-      crwdns23598:0crwdne23598:0
+      crwdns18038:0crwdne18038:0
     text: |
-      crwdns23600:0{ #news-items }crwdne23600:0
+      crwdns18040:0{ #news-items }crwdne18040:0
     button1st:
-      title: crwdns23602:0crwdne23602:0
-      url: crwdns23604:0crwdne23604:0
-    readMore: crwdns23606:0crwdne23606:0
+      title: crwdns18042:0crwdne18042:0
+      url: crwdns18044:0crwdne18044:0
+    readMore: crwdns18046:0crwdne18046:0
   meet:
     class:
-      - crwdns23608:0crwdne23608:0
-      - crwdns23610:0crwdne23610:0
-      - crwdns23612:0crwdne23612:0
+      - crwdns22194:0crwdne22194:0
+      - crwdns22196:0crwdne22196:0
+      - crwdns22198:0crwdne22198:0
     style:
-      background-image: crwdns23614:0crwdne23614:0
-      background-position: crwdns23616:0crwdne23616:0
-      background-size: crwdns23618:0crwdne23618:0
+      background-image: crwdns22200:0crwdne22200:0
+      background-position: crwdns22950:0crwdne22950:0
+      background-size: crwdns22204:0crwdne22204:0
     #label: A word from the team
     title: |
-      crwdns23620:0crwdne23620:0
+      crwdns22206:0crwdne22206:0
     blocks:
       tictec:
         title: |
-          crwdns23622:0crwdne23622:0
+          crwdns23291:0crwdne23291:0
         text: |
-          crwdns23624:0crwdne23624:0
-        image: crwdns23626:0crwdne23626:0
+          crwdns23293:0crwdne23293:0
+        image: crwdns23295:0crwdne23295:0
         style:
-          background: 'crwdns23628:0crwdne23628:0'
-        date: crwdns23630:0crwdne23630:0
-        location: crwdns23632:0crwdne23632:0
+          background: 'crwdns23297:0crwdne23297:0'
+        date: crwdns23299:0crwdne23299:0
+        location: crwdns23301:0crwdne23301:0
   team:
     class:
-      - crwdns23634:0crwdne23634:0
-      - crwdns23636:0crwdne23636:0
+      - crwdns22218:0crwdne22218:0
+      - crwdns22220:0crwdne22220:0
     #label: A word from the team
     title: |
-      crwdns23638:0crwdne23638:0
+      crwdns18914:0crwdne18914:0
     text: |
-      crwdns23640:0crwdne23640:0
+      crwdns18922:0crwdne18922:0
     button1st:
-      title: crwdns23642:0crwdne23642:0
-      url: crwdns23644:0crwdne23644:0
+      title: crwdns18056:0crwdne18056:0
+      url: crwdns18058:0crwdne18058:0
   partners:
     class:
-      - crwdns23646:0crwdne23646:0
-      - crwdns23648:0crwdne23648:0
+      - crwdns22222:0crwdne22222:0
+      - crwdns18062:0crwdne18062:0
     style:
-      border-left: 'crwdns23650:0crwdne23650:0'
+      border-left: 'crwdns18064:0crwdne18064:0'
     #label: We’re stronger together
     title: |
-      crwdns23652:0crwdne23652:0
+      crwdns18066:0crwdne18066:0
     text: |
-      crwdns23654:0[Partners]crwdnd23654:0{ .mt-4 .w-100 }crwdne23654:0
+      crwdns19142:0[Partners]crwdnd19142:0{ .mt-4 .w-100 }crwdne19142:0
