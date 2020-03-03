@@ -1,21 +1,21 @@
 ---
 path: /
-description: Citizen OS on maksuton kansalaisteknologia-alusta osallistavaa demokratiaa varten. Sisäänkirjautumismahdollisuus, puolesta ja vastaan - keskustelut sekä kyllä / ei / delegatiivinen / mukautettu äänestäminen.
+description: Citizen OS is a free civic tech platform for participatory democracy - features log-in, pro con discussion and yes / no / delegative / custom voting.
 keywords:
-  - kyllä / ei / delegatiivinen äänestäminen
-  - kansalaisteknologia
+  - yes / no / delegative voting
+  - civic tech
   - citizen os
 image: /assets/images/meta/home-alt.jpg
 header:
-  title: Argumentoivaa keskustelua ja osallistuvaa päätöksentekoa kansalaisaloitteille.
+  title: Argument-based discussions and collaborative decision-making for civic initiatives.
   0: |
 
   video:
-    title: Johdanto
+    title: Introduction
     url: https://www.youtube.com/embed/hDLWbQQAk8g?rel=0&showinfo=0&modestbranding=1&autoplay=1&cc_load_policy=1&cc_lang_pref=en
   demo:
     title: Demo
-    url: https://www.youtube.com/embed/UC44qCCIixE?rel=0&showinfo=0&modestbranding=1&autoplay=1&cc_load_policy=1&cc_lang_pref=fi
+    url: https://www.youtube.com/embed/UC44qCCIixE?rel=0&showinfo=0&modestbranding=1&autoplay=1&cc_load_policy=1&cc_lang_pref=en
 #whatIs:
 #title: What is Citizen OS
 #url: /product/
@@ -44,12 +44,12 @@ blocks:
       background-size: 360px 360px
     #label: Our Product
     title: |
-      Avoimen lähdekoodin ohjelmiston käyttö.
+      Use the open source software.
     text: |
-      Uskomme, että verkossa tapahtuvan osallistuvan demokratian välineiden tulisi olla kaikkien käytettävissä ilmaiseksi.
+      We believe the tools for online participatory democracy should be free to use for everyone.
     button1st:
-      title: Tietoja tuotteesta
-      url: /fi/product/
+      title: About product
+      url: /product/
   democracy-img:
     class:
       - order-3
@@ -71,12 +71,12 @@ blocks:
       background-position: 0 10%
       background-size: 122px 122px
     title: |
-      Osallistuvasta demokratiasta tiedottaminen.
+      Raising awareness on participatory democracy.
     text: |
-      Uskomme, että meidän pitää kokoontua yhteen ja päättää hyvinvointiamme koskevista asioista kehittyäksemme kansakuntana.
+      We believe the way for us to move forward as a civilization is to globally come together and decide on issues that affect our wellbeing.
     button1st:
-      title: Tietoja visiosta
-      url: /fi/vision/
+      title: About vision
+      url: /vision/
     button2nd:
   #title: Use platform - it’s free!
   #url: https://app.citizenos.com
@@ -101,12 +101,12 @@ blocks:
       background-size: 360px 360px
     #label: Let’s Educate
     title: |
-      Sähköistä demokratiaa kehittämässä.
+      Developing e-democracy.
     text: |
-      Teemme yhteistyötä tutkijoiden kanssa kehittääksemme tuotteitamme.
+      We collaborate with researchers to help develop our products.
     button1st:
-      title: Tietoja tutkimuksesta
-      url: /fi/research/
+      title: About research
+      url: /research/
   news:
     class:
       - order-6
@@ -117,13 +117,13 @@ blocks:
       background-position: 60% 10%
       background-size: 360px 360px
     title: |
-      Viimeisimmät uutiset
+      Latest news
     text: |
       { #news-items }
     button1st:
-      title: Lue blogia
+      title: Read blog
       url: https://medium.com/citizenos
-    readMore: Lue lisää
+    readMore: Read more
   meet:
     class:
       - order-7
@@ -135,15 +135,15 @@ blocks:
       background-size: 350px 350px
     #label: A word from the team
     title: |
-      Missä meidät voi tavata
+      Where you can meet us
     blocks:
       tictec:
         title: |
           TICTeC 2020
         text: |
-          Kuudetta vuotta järjestettävässä TICTeC 2020 -tapahtumassa keskitytään siihen, miten kansalaisteknologia ja digitaalisen demokratia vaikuttavat kansalaisiin, päätöksentekijöihin ja hallituksiin ympäri maailman.
+          Returning for a sixth year, TICTeC 2020 will focus on the impact that civic technology and digital democracy are having upon citizens, decision makers and governments around the world.
 
-          Tuletko sinäkin? Kirjoita meille osoitteeseen <info@citizenos.com>, niin sovitaan tapaamisesta!
+          Will you be there? Drop us a line at <info@citizenos.com> and let's meet!
         image: /assets/images/meet/tictec.png
         style:
           background: '#000000'
@@ -155,12 +155,12 @@ blocks:
       - py-5
     #label: A word from the team
     title: |
-      Auta meitä kehittämään avoimen lähdekoodin tuotteita ja levittämään osallistuvaa demokratiaa.
+      Help us develop Open Source products and spread participatory democracy.
     text: |
-      Olitpa ohjelmistonkehittäjä, kääntäjä, tutkija, suunnittelija, haktivisti tai toimittaja – liity joukkoomme!
+      Whether you are a developer, translator, researcher, designer, hacktivist or journalist - join us!
     button1st:
-      title: Osallistu
-      url: /fi/contribute/
+      title: Contribute
+      url: /contribute/
   partners:
     class:
       - order-9
@@ -169,6 +169,6 @@ blocks:
       border-left: '1px solid #E5E5E5'
     #label: We’re stronger together
     title: |
-      Kumppanimme ja tukijamme
+      Our partners & supporters
     text: |
       ![Partners](/assets/images/frontpage-partners.png){ .mt-4 .w-100 }
