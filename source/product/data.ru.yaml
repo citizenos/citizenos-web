@@ -1,11 +1,11 @@
 ---
 path: /product
 title: Продукт
-description: Совместное принятие решений, обсуждение в формате «за и против», настраиваемый режим голосования.
+description: Free software for easy co-creation, discussion and voting. Start your own citizen initiative, petition site or community decision-making today!
 keywords:
-  - Совместное принятие решений
-  - настраиваемый режим голосования
-  - Обсуждение в формате «за и против»
+  - citizen initiatives
+  - free petition
+  - collaborative decision-making
 image: /assets/images/meta/product.jpg
 blocks:
   decision-img:
