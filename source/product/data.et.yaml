@@ -1,11 +1,11 @@
 ---
 path: /product
 title: Toode
-description: Koostöös otsuste tegemine, poolt- ja vastuargumentide üle diskuteerimine, kohandatud hääletus.
+description: Free software for easy co-creation, discussion and voting. Start your own citizen initiative, petition site or community decision-making today!
 keywords:
-  - Koostöös otsuste tegemine
-  - kohandatud hääletamine
-  - Poolt ja vastuargumentide üle diskuteerimine
+  - citizen initiatives
+  - free petition
+  - collaborative decision-making
 image: /assets/images/meta/product.jpg
 blocks:
   decision-img:
