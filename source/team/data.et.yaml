@@ -1,14 +1,14 @@
 ---
 path: /team
 title: Meeskond
-#description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras fermentum ornare purus accumsan luctus. Nulla facilisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae.
-#keywords:
-#- lorem
-#- ipsum
-#- dolor
+description: Julgus, pealehakkamine, soov ise maailma muuta - Citizen OS. Kui soovid olla osa meie ühiskonda muutusi loovast meeskonnast, võta ühendust!
+keywords:
+- kodanikuliikumine
+- mtü
+- aktivism
 image: /assets/images/meta/home.jpg
 team:
-  - 
+  -
     name: Margo Loor
     title: Juhatuse liige, juht, tootejuht
     text: Toob valgust ja tarkust ning maalib asjadest suure pildi.
@@ -17,7 +17,7 @@ team:
     linkedin: https://www.linkedin.com/in/margoloor/
     twitter: https://twitter.com/loorm
     email: info@citizenos.com
-  - 
+  -
     name: Anett Linno
     title: Partnersuhted ja kogukond
     text: Loob õrna käega mistahes kaosest struktureeritud ja selge pildi.
@@ -26,7 +26,7 @@ team:
     linkedin: https://www.linkedin.com/in/anettlinno/
     twitter: https://twitter.com/twitanett
     email: anett@citizenos.com
-  - 
+  -
     name: Oksana Naidjonova
     title: Lokaliseerimine ja tõlkimine
     text: Võitleb õigluse eest ja aitab meil iga päev paremaks muutuda.
@@ -35,7 +35,7 @@ team:
     linkedin: https://www.linkedin.com/in/oksananaidjonova/
     twitter: https://twitter.com/oksks
     email: oksana@citizenos.com
-  - 
+  -
     name: Liina Guiter
     title: Turundus ja kommunikatsioon
     text: Leiab ühise keele ja midagi mida jagada iga inimesega meie planeedil.
@@ -44,7 +44,7 @@ team:
     linkedin: https://www.linkedin.com/in/liinaguiter/
     twitter: https://twitter.com/liinaguiter
     email: liina@citizenos.com
-  - 
+  -
     name: Mikk Andresen
     title: Tarkvaraarendajа
     text: Loob mitte millestki midagi ja hoiab meie moraali kõrgel.
@@ -52,7 +52,7 @@ team:
     picture: /assets/images/team/mikk.jpg
     linkedin: https://www.linkedin.com/in/mikkandresen/
     email: mikk@citizenos.com
-  - 
+  -
     name: Ilmar Türk
     title: Tarkvaraarendajа
     text: Loob alati õigeks ajaks vajaliku koodi, koos naeratusega.
@@ -60,7 +60,7 @@ team:
     picture: /assets/images/team/ilmar.jpg
     linkedin: https://www.linkedin.com/in/ilmarturk/
     email: ilmar@citizenos.com
-  - 
+  -
     name: Kati Vellak
     title: Advokaat
     text: Kaitseb meid pahalaste eest ja annab energiat kõigile, kes tema teele jäävad.
@@ -68,7 +68,7 @@ team:
     picture: /assets/images/team/kati.jpg
     linkedin: https://www.linkedin.com/in/kativellak/
     email: kati@citizenos.com
-  - 
+  -
     name: Ly Kasvandik
     title: Personalijuht
     text: On alati valmis töötajatele abi ja tuge pakkuma, kui nad seda vajavad.
@@ -76,7 +76,7 @@ team:
     picture: /assets/images/team/ly.jpg
     linkedin: https://www.linkedin.com/in/lykasvandik/
     email: ly@citizenos.com
-  - 
+  -
     name: Becca Melhuish
     title: Kommunikatsioonidisainer ja copywriter
     text: Lisab särtsu kõigisse meie turundussõnumitesse.
@@ -84,7 +84,7 @@ team:
     picture: /assets/images/team/becca.jpg
     linkedin: https://www.linkedin.com/in/beccamelhuish/
     email: becca.melhuish@gmail.com
-  - 
+  -
     name: Agustina Iskandar
     title: Partnerluse juht Indoneesias
     text: Imede tegija, vabaduse kaitsja ning koostöö fänn.

@@ -1,11 +1,11 @@
 ---
 path: /research
 title: Uurimused
-#description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras fermentum ornare purus accumsan luctus. Nulla facilisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae.
-#keywords:
-#- lorem
-#- ipsum
-#- dolor
+description: Citizen OS platvorm on loodud koostöös e-demokraatiat uurivate teadlastega. Töötame järjepidevalt selle nimel, et pakkuda parimat kasutajakogemust.
+keywords:
+- rahvaalgatus
+- digidemokraatia
+- kaasamine ja osalemine
 image: /assets/images/meta/research.jpg
 blocks:
   research-img:

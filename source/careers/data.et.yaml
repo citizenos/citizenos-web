@@ -1,11 +1,11 @@
 ---
 path: /careers
 title: Vabad töökohad
-#description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras fermentum ornare purus accumsan luctus. Nulla facilisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae.
-#keywords:
-#- lorem
-#- ipsum
-#- dolor
+description: Citizen OS arendab e-demokraatia tarkvara ja ülemaailmset võrgustikku. Liitu meie tiimiga!
+keywords:
+- digitaalne demokraatia
+- sotsiaalne ettevõte
+- kodaniku tehnoloogia
 image: /assets/images/meta/careers.jpg
 text: |
   ## Miks tasub liituda meie tiimiga?
@@ -20,6 +20,6 @@ text: |
 
   Otsime praegu aktiivselt uusi töötajaid järgmistesse ametitesse:
 vacancies:
-  - 
+  -
     title: Tarkvaraarendajа
     url: /careers/software-developer/
