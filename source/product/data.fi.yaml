@@ -1,11 +1,11 @@
 ---
 path: /product
 title: Tuote
-description: Yhteistyöhön perustuva päätöksenteko, keskustelut puolesta ja vastaan, mukautettu äänestys.
+description: Free software for easy co-creation, discussion and voting. Start your own citizen initiative, petition site or community decision-making today!
 keywords:
-  - Yhteistyöhön perustuva päätöksenteko
-  - Mukautettu äänestys
-  - Keskustelut puolesta ja vastaan
+  - citizen initiatives
+  - free petition
+  - collaborative decision-making
 image: /assets/images/meta/product.jpg
 blocks:
   decision-img:
