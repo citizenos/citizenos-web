@@ -1,11 +1,11 @@
 ---
 path: /research
 title: Tutkimus
-#description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras fermentum ornare purus accumsan luctus. Nulla facilisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae.
-#keywords:
-#- lorem
-#- ipsum
-#- dolor
+description: The Citizen OS platform has been created in collaboration with e-democracy researchers. We work every day to provide the best user experience.
+keywords:
+  - petition site
+  - citizen assembly
+  - participation
 image: /assets/images/meta/research.jpg
 blocks:
   research-img:
