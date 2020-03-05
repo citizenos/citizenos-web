@@ -1,11 +1,11 @@
 ---
 path: /company
 title: Organisatsioon
-#description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras fermentum ornare purus accumsan luctus. Nulla facilisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae.
-#keywords:
-#- lorem
-#- ipsum
-#- dolor
+description: Citizen OS is a free and secure open source platform for citizen initiatives. We are a not-for-profit organisation.
+keywords:
+  - open source
+  - civic initiative
+  - civic movement
 image: /assets/images/meta/home.jpg
 blocks:
   company-img:
