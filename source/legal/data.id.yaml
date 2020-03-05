@@ -1,11 +1,11 @@
 ---
 path: /legal
 title: Legal
-#description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras fermentum ornare purus accumsan luctus. Nulla facilisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae.
-#keywords:
-#- lorem
-#- ipsum
-#- dolor
+description: Citizen OS Foundation provides free software and builds a network of e-democracy specialists. Our mission is to give citizens a voice in social issues.
+keywords:
+  - digital government
+  - social issue
+  - e-government
 image: /assets/images/meta/vision.jpg
 blocks:
   legal-img:
