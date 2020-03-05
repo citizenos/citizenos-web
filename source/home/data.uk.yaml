@@ -1,10 +1,10 @@
 ---
 path: /
-description: Citizen OS Foundation is a not-for-profit organisation providing a free decision-making civic tech platform.
+#description: Citizen OS Foundation is a not-for-profit organisation providing a free decision-making civic tech platform.
 keywords:
-  - free digital democracy
-  - free e-democracy
-  - free civic technology
+#  - free digital democracy
+#  - free e-democracy
+#  - free civic technology
 image: /assets/images/meta/home-alt.jpg
 header:
   title: Argument-based discussions and collaborative decision-making for civic initiatives.

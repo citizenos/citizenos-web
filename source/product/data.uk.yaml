@@ -1,11 +1,11 @@
 ---
 path: /product
 title: Product
-description: Free software for easy co-creation, discussion and voting. Start your own citizen initiative, petition site or community decision-making today!
+#description: Free software for easy co-creation, discussion and voting. Start your own citizen initiative, petition site or community decision-making today!
 keywords:
-  - citizen initiatives
-  - free petition
-  - collaborative decision-making
+#  - citizen initiatives
+#  - free petition
+#  - collaborative decision-making
 image: /assets/images/meta/product.jpg
 blocks:
   decision-img:
