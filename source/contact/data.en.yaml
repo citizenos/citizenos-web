@@ -1,11 +1,11 @@
 path: /contact
 
 title: Contact
-# description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras fermentum ornare purus accumsan luctus. Nulla facilisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae.
-# keywords:
-#     - lorem
-#     - ipsum
-#     - dolor
+description: Citizen OS is a not-for-profit organisation headquartered in Estonia, but has gained the trust of public and private user groups around the world.
+keywords:
+    - e-voting
+    - engagement tech
+    - open governance
 image: /assets/images/meta/vision.jpg
 
 
