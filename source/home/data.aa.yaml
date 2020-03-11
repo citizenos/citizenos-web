@@ -133,20 +133,21 @@ blocks:
       background-image: crwdns23614:0crwdne23614:0
       background-position: crwdns23616:0crwdne23616:0
       background-size: crwdns23618:0crwdne23618:0
-    #label: A word from the team
-    title: |
-      crwdns23620:0crwdne23620:0
-    blocks:
-      tictec:
-        title: |
-          crwdns23622:0crwdne23622:0
-        text: |
-          crwdns23624:0crwdne23624:0
-        image: crwdns23626:0crwdne23626:0
-        style:
-          background: 'crwdns23628:0crwdne23628:0'
-        date: crwdns23630:0crwdne23630:0
-        location: crwdns23632:0crwdne23632:0
+  #label: A word from the team
+  #title: |
+  #Where you can meet us
+  #blocks:
+  #tictec:
+  #title: |
+  #TICTeC 2020
+  #text: |
+  #Returning for a sixth year, TICTeC 2020 will focus on the impact that civic technology and digital democracy are having upon citizens, decision makers and governments around the world.
+  #Will you be there? Drop us a line at <info@citizenos.com> and let's meet!
+  #image: /assets/images/meet/tictec.png
+  #style:
+  #background: '#000000'
+  #date: 24-25.03.2020
+  #location: Reykjavik
   team:
     class:
       - crwdns23634:0crwdne23634:0
