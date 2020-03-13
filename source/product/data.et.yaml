@@ -1,11 +1,11 @@
 ---
 path: /product
 title: Toode
-description: Free digital democracy software for co-creation, discussion and voting. Start your own citizen initiative, petition site or discussion topic today!
+description: Argumenteeritud arutelud, algatused ja ühiste otsuste tegemine. Tasuta tarkvara, mis teeb ideede genereerimise, digiallkirjastamise ja hääletamise hõlpsaks.
 keywords:
   - citizen initiatives
   - free petition
-  - collaborative decision-making
+  - digiallkirjastamine
 image: /assets/images/meta/product.jpg
 blocks:
   decision-img:
