@@ -1,11 +1,11 @@
 ---
-path: /company
+path: /ettevote
 title: Organisatsioon
-description: Citizen OS is a free and secure open source platform for citizen initiatives. We are a not-for-profit organisation.
+description: Citizen OS on tasuta ja turvaline avatud lähtekoodiga platvorm kodanikualgatuste püstitamise jaoks. Oleme sotsiaalne idufirma.
 keywords:
-  - open source
-  - civic initiative
-  - civic movement
+  - avatud lähtekoodiga
+  - kodanikualgatus
+  - kodanikuliikumine
 image: /assets/images/meta/home.jpg
 blocks:
   company-img:

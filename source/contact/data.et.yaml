@@ -1,11 +1,11 @@
 ---
-path: /contact
+path: /kontakt
 title: Kontakt
-description: Citizen OS is a not-for-profit organisation headquartered in Estonia, but has gained the trust of public and private user groups around the world.
+description: Citizen OS on tasuta e-demokraatia platvorm, mille peakontor asub Eestis, kuid on pälvinud paljude avaliku ja erasektori kasutajagruppide usalduse üle maailma.
 keywords:
-  - e-voting
-  - engagement technology
-  - open governance
+  - e-hääletus
+  - kaasamise tehnoloogia
+  - avatud valitsemine
 image: /assets/images/meta/vision.jpg
 blocks:
   contact-img:

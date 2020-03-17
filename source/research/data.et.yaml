@@ -1,11 +1,11 @@
 ---
-path: /research
+path: /uurimused
 title: Uurimused
-description: The Citizen OS platform has been created in collaboration with e-democracy researchers. We work every day to provide the best user experience.
+description: Citizen OS platvorm on loodud koostöös e-demokraatiat uurivate teadlastega. Töötame järjepidevalt selle nimel, et pakkuda parimat kasutajakogemust.
 keywords:
-  - petition site
-  - citizen assembly
-  - participation
+  - rahvaalgatus
+  - rahvakogu
+  - kaasamine
 image: /assets/images/meta/research.jpg
 blocks:
   research-img:
