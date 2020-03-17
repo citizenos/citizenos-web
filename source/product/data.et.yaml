@@ -1,10 +1,10 @@
 ---
-path: /product
+path: /toode
 title: Toode
 description: Argumenteeritud arutelud, algatused ja ühiste otsuste tegemine. Tasuta tarkvara, mis teeb ideede genereerimise, digiallkirjastamise ja hääletamise hõlpsaks.
 keywords:
-  - citizen initiatives
-  - free petition
+  - kollektiivne pöördumine
+  - tasuta petitsioon
   - digiallkirjastamine
 image: /assets/images/meta/product.jpg
 blocks:
