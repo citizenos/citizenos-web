@@ -23,3 +23,27 @@ mixin video(id, src)
                 $('##{ id } iframe').attr('src', '')
             })
         })
+
+
+mixin header(data, designData)
+    - var data = { ...data, ...designData }
+
+    .container-fluid
+        .row(style=data.style)
+            .data.col-12.col-sm-6
+                .row.h-100.py-5
+                    .data-text.col-12.col-sm-8.offset-sm-2.align-self-center
+                        if data.label
+                            h3= data.label
+                        if data.title
+                            +markdown('## ' + data.title)
+                        if data.text
+                            +markdown(data.text)
+                        if data.texts
+                            each t in data.texts
+                                +markdown(t)
+                        if data.button1st
+                            a.btn.btn-primary.my-2(href=data.button1st.url, target=data.button1st.target)= data.button1st.title
+                        if data.button2nd
+                            .my-2
+                                a.my-2(href=data.button2nd.url, target=data.button2nd.target)= data.button2nd.title
