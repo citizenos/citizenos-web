@@ -1,11 +1,11 @@
 ---
-path: /contribute
+path: /panusta
 title: Panusta
-description: Developer, translator, scientist, designer, hacktivist and journalist - please get in touch! Citizen OS welcomes volunteers who are interested in e-democracy.
+description: Arendaja, tõlkija, teadlane, disainer, häktivist ja ajakirjanik - palun võta ühendust! Citizen OS ootab liituma kõiki vabatahtlikke, kes on huvitatud e-demokraatiast.
 keywords:
-  - civic hacktivist
-  - e-participation
-  - government technology
+  - kodanikuaktivist
+  - e-osalus
+  - valitsemise tehnoloogia
 image: /assets/images/meta/vision.jpg
 blocks:
   contribute-img:
