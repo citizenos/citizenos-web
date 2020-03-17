@@ -210,15 +210,15 @@ blocks:
       ##### **Anett Linno**
       Partnerships & Community Foundation Citizen OS
     blocks:
-      -
+      - 
         icon: /assets/images/community-email.svg
         title: anett@citizenos.com
         url: mailto:anett@citizenos.com
-      -
+      - 
         icon: /assets/images/community-skype.svg
         title: anettorg
         url: skype:anettorg
-      -
+      - 
         icon: /assets/images/community-phone.svg
         title: +372 5669 2076
         url: tel:+37256692076
