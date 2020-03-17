@@ -1,0 +1,100 @@
+---
+path: crwdns24020:0crwdne24020:0
+title: crwdns24022:0crwdne24022:0
+description: crwdns24024:0crwdne24024:0
+keywords:
+  -
+  -
+  -
+image: crwdns24026:0crwdne24026:0
+news:
+  - 
+    url: crwdns24028:0crwdne24028:0
+    title: 'crwdns24030:0crwdne24030:0'
+    author: crwdns24032:0crwdne24032:0
+    date: crwdns24034:0crwdne24034:0
+    image: crwdns24036:0crwdne24036:0
+    top: true
+    categories:
+      - crwdns24038:0crwdne24038:0
+    text: |
+      crwdns24040:0crwdne24040:0
+  - 
+    url: crwdns24042:0crwdne24042:0
+    title: crwdns24044:0crwdne24044:0
+    author: crwdns24046:0crwdne24046:0
+    date: crwdns24048:0crwdne24048:0
+    image: crwdns24050:0crwdne24050:0
+    top: true
+    categories:
+      - crwdns24052:0crwdne24052:0
+    text: |
+      crwdns24054:0crwdne24054:0
+  - 
+    url: crwdns24056:0crwdne24056:0
+    title: 'crwdns24058:0crwdne24058:0'
+    author: crwdns24060:0crwdne24060:0
+    date: crwdns24062:0crwdne24062:0
+    image: crwdns24064:0crwdne24064:0
+    top: true
+    categories:
+      - crwdns24066:0crwdne24066:0
+    text: |
+      crwdns24068:0crwdne24068:0
+readMore: crwdns24070:0crwdne24070:0
+blocks:
+  start-img:
+    class:
+      - crwdns24072:0crwdne24072:0
+    style:
+      background-color: 'crwdns24074:0crwdne24074:0'
+      background-image: crwdns24076:0crwdne24076:0
+      background-position: crwdns24078:0crwdne24078:0
+      background-size: crwdns24080:0crwdne24080:0
+    text: |
+      crwdns24082:0{ .img-fluid }crwdne24082:0
+    video:
+      id: crwdns24084:0crwdne24084:0
+      url: 'crwdns24086:0crwdne24086:0'
+  start:
+    class:
+      - crwdns24088:0crwdne24088:0
+      - crwdns24090:0crwdne24090:0
+    style:
+      background-color: 'crwdns24092:0crwdne24092:0'
+      background-image: crwdns24094:0crwdne24094:0
+      background-position: crwdns24096:0crwdne24096:0
+      background-size: crwdns24098:0crwdne24098:0
+    title: |
+      crwdns24100:0crwdne24100:0
+    text: |
+      crwdns24102:0crwdne24102:0
+    button1st:
+      title: crwdns24104:0crwdne24104:0
+      url: 'crwdns24106:0crwdne24106:0'
+  #[f](https://www.facebook.com/citizenos.web){ .btn .btn-primary .my-2 .ml-3 }
+  #[t](https://twitter.com/Citizen_OS){ .btn .btn-primary .my-2 .ml-3 }
+  top-stories:
+    class:
+      - crwdns24108:0crwdne24108:0
+      - crwdns24110:0crwdne24110:0
+      - crwdns24112:0crwdne24112:0
+      - crwdns24114:0crwdne24114:0
+    style:
+      background-image: crwdns24116:0crwdne24116:0
+      background-position: crwdns24118:0crwdne24118:0
+      background-size: crwdns24120:0crwdne24120:0
+    title: |
+      crwdns24122:0crwdne24122:0
+  organizations:
+    class:
+      - crwdns24124:0crwdne24124:0
+      - crwdns24126:0crwdne24126:0
+      - crwdns24128:0crwdne24128:0
+    style:
+      border-left: 'crwdns24130:0crwdne24130:0'
+    #label: We’re stronger together
+    title: |
+      crwdns24132:0crwdne24132:0
+    text: |
+      crwdns24134:0[Partners]crwdnd24134:0{ .mt-4 .w-100 }crwdne24134:0
