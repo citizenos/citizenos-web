@@ -3,15 +3,15 @@ siteTitle: Citizen OS
 navigation:
   product:
     title: Toode
-    url: /et/product/
+    url: /et/toode/
     class: product
   vision:
     title: Visioon
-    url: /et/vision/
+    url: /et/visioon/
     class: vision
   research:
     title: Uurimused
-    url: /et/research/
+    url: /et/uurimused/
     class: research
   community:
     title: Kogukond
@@ -48,19 +48,19 @@ footer:
       links:
         company:
           title: Organisatsioon
-          url: /et/company/
+          url: /et/ettevote/
         careers:
           title: Vabad töökohad
-          url: /et/careers/
+          url: /et/vabad-tookohad/
         contribute:
           title: Panusta
-          url: /et/contribute/
+          url: /et/kogukond/
         team:
           title: Meeskond
-          url: /et/team/
+          url: /et/meeskond/
         contact:
           title: Kontakt
-          url: /et/contact/
+          url: /et/kontakt/
     community:
       title: Sotsiaalmeedia
       links:
@@ -81,7 +81,7 @@ footer:
           url: https://app.citizenos.com/et/topics/fd8c4e13-6c5f-4423-9408-cf97c30727d7
         legal:
           title: Juriidiline info
-          url: /et/legal/
+          url: /et/juriidiline-info/
         github:
           title: GitHub
           url: https://github.com/citizenos
