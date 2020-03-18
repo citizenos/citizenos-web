@@ -148,7 +148,7 @@ blocks:
         subtext: Pakkumistepõhine
         button:
           title: Võta meiega ühendust
-          url: /et/contact/
+          url: /et/kontakt/
   case-study-2-img:
     class:
       - order-6
