@@ -51,7 +51,7 @@ blocks:
       background-position: 10% 10%, 90% 10%
       background-size: 45px 45px, 350px 350px
     text: |
-      ![](/assets/images/vision-individual.png){ .img-fluid }
+      ![An active citizen who believes that her participation in political issues has an impact.](/assets/images/vision-individual.png){ .img-fluid }
   individual:
     class:
       - order-3
