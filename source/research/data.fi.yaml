@@ -17,7 +17,7 @@ blocks:
       background-position: 10% 50%, 90% 90%
       background-size: 350px 350px, 100px 100px
     text: |
-      ![](/assets/images/research-start.png){ .img-fluid }
+      ![An illustration of a lightbulb with red dots and arrows circling around it to signify gathering ideas and discussing democratically.](/assets/images/research-start.png){ .img-fluid }
   research:
     class:
       - order-0
@@ -45,7 +45,7 @@ blocks:
       background-position: 100% 10%, 90% 10%
       background-size: 165px 165px, 350px 350px
     text: |
-      ![](/assets/images/research-forward.jpg){ .img-fluid .box-shadow }
+      ![People raising their hands at the Citizen OS COSCON conference.](/assets/images/research-forward.jpg){ .img-fluid .box-shadow }
   forward:
     class:
       - order-3
@@ -69,7 +69,7 @@ blocks:
       background-position: 90% 10%, 10% 80%, 0% 90%
       background-size: 45px 45px, 165px 165px, 350px 350px
     text: |
-      ![](/assets/images/research-video.jpg){ .img-fluid .box-shadow }
+      ![Three speakers on a panel at the first COSCON conference.](/assets/images/research-video.jpg){ .img-fluid .box-shadow }
   conference:
     class:
       - order-5
