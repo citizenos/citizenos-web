@@ -32,7 +32,7 @@ blocks:
       background-position: crwdns23494:0crwdne23494:0
       background-size: crwdns23496:0crwdne23496:0
     text: |
-      crwdns23498:0{ .img-fluid }crwdne23498:0
+      crwdns24150:0{ .img-fluid }crwdne24150:0
   opensource:
     class:
       - crwdns23500:0crwdne23500:0
@@ -59,7 +59,7 @@ blocks:
       background-position: crwdns23526:0crwdne23526:0
       background-size: crwdns23528:0crwdne23528:0
     text: |
-      crwdns23530:0{ .img-fluid }crwdne23530:0
+      crwdns24152:0{ .img-fluid }crwdne24152:0
   democracy:
     class:
       - crwdns23532:0crwdne23532:0
@@ -89,7 +89,7 @@ blocks:
       background-position: crwdns23560:0crwdne23560:0
       background-size: crwdns23562:0crwdne23562:0
     text: |
-      crwdns23564:0{ .img-fluid }crwdne23564:0
+      crwdns24154:0{ .img-fluid }crwdne24154:0
   research:
     class:
       - crwdns23566:0crwdne23566:0
@@ -170,4 +170,4 @@ blocks:
     title: |
       crwdns23652:0crwdne23652:0
     text: |
-      crwdns23654:0[Partners]crwdnd23654:0{ .mt-4 .w-100 }crwdne23654:0
+      crwdns24156:0{ .mt-4 .w-100 }crwdne24156:0
