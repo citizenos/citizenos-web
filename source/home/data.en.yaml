@@ -37,7 +37,7 @@ blocks:
             background-position: 20% 80%
             background-size: 122px 122px
         text: |
-            ![](/assets/images/frontpage-product.png){ .img-fluid }
+            ![The Citizen OS platform is free to use on your desktop, laptop, tablet or mobile.](/assets/images/frontpage-product.png){ .img-fluid }
 
     opensource:
         class:
@@ -68,7 +68,7 @@ blocks:
             background-position: 30% 25%, 20% 75%
             background-size: 360px 360px, 100px 100px
         text: |
-            ![](/assets/images/frontpage-start.png){ .img-fluid }
+            ![Citizen OS’s  first COSCON conference  which brought  together e-democracy researchers from around the world.](/assets/images/frontpage-start.png){ .img-fluid }
 
     democracy:
         class:
@@ -101,7 +101,7 @@ blocks:
             background-position: 85% 85%
             background-size: 75px 75px
         text: |
-            ![](/assets/images/frontpage-lets-educate.png){ .img-fluid }
+            ![Man in a white shirt holds a microphone while speaking at a participatory democracy festival.](/assets/images/frontpage-lets-educate.png){ .img-fluid }
 
     research:
         class:
@@ -190,4 +190,4 @@ blocks:
         title: |
             Our partners & supporters
         text: |
-            ![Partners](/assets/images/frontpage-partners.png){ .mt-4 .w-100 }
+            ![Citizen OS Foundation’s supporters and partners logos.](/assets/images/frontpage-partners.png){ .mt-4 .w-100 }
