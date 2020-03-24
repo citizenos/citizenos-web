@@ -63,8 +63,8 @@ blocks:
         text: |
             All data is anonymized and used to understand the effects of online participatory democracy.
         button1st:
-            title: Read blog
-            url: https://medium.com/citizenos
+            title: Read news
+            url: /news/
 
 
     conference-img:
