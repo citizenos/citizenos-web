@@ -58,7 +58,7 @@ blocks:
       Kõik andmed on anonüümseks muudetud ja neid kasutatakse selleks, et mõista online-osalusdemokraatia mõju.
     button1st:
       title: Read news
-      url: /news/
+      url: /et/uudised/
   conference-img:
     class:
       - order-4
