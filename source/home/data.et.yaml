@@ -6,6 +6,8 @@ keywords:
   - kodanikutehnoloogia
   - citizen os
 image: /assets/images/meta/home-alt.jpg
+data:
+  news: /news/data.en.yaml
 header:
   title: Argumendipõhised arutelud ja ühiste otsuste langetamine kodanikualgatuste jaoks.
   0: |
@@ -121,9 +123,8 @@ blocks:
     text: |
       { #news-items }
     button1st:
-      title: Loe blogi
-      url: https://medium.com/citizenos
-    readMore: Loe edasi
+      title: Read all news
+      url: /news/
   meet:
     class:
       - order-7
