@@ -18,8 +18,8 @@ navigation:
     url: /et/kogukond/
     class: community
   blog:
-    title: News
-    url: /news/
+    title: Uudised
+    url: /et/uudised/
     class: news
 language: English
 languages:
