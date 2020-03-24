@@ -10,11 +10,10 @@ image: /assets/images/meta/vision.jpg
 
 
 news:
-    -
+    2020-02-27:
         url: /news/digital-signing-through-smart-id-our-open-source-gift
         title: 'Digital Signing through Smart-ID: our open source gift'
         author: Becca Melhuish
-        date: Feb 27, 2020
         image: /assets/images/news/digital-signing-through-smart-id-our-open-source-gift.png
         top: true
         categories:
@@ -22,11 +21,10 @@ news:
         text: |
             Here at Citizen OS, we’ve been busy writing two free, open source sets of code in JavaScript, which act as interfaces for using Estonia’s Smart-ID and Mobile-ID services. They’re yours if you want them!
 
-    -
+    2019-12-20:
         url: /news/where-is-participation-heading-and-how-can-each-of-us-change-it
         title: Where is participation heading and how can each of us change it?
         author: Questions by Gertha Teidla-Kunitsõn, written answers by Margo Loor.
-        date: Dec 20, 2019
         image: /assets/images/news/where-is-participation-heading-and-how-can-each-of-us-change-it.jpeg
         top: true
         categories:
@@ -34,11 +32,10 @@ news:
         text: |
             Gertha Teidla-Kunitsõn from the Estonian Youth Work Center asked our CEO about the status of participation in society today and where is participation heading in the future. As well as some great ideas and insights, Margo Loor gave suggestions on how young people can become even more involved in decision-making.
 
-    -
+    2019-11-13:
         url: /news/is-the-time-of-representative-democracy-over-estonia-without-a-parliament
         title: 'Is the time of representative democracy over: Estonia without a parliament?'
         author: Margo Loor
-        date: Nov 13, 2019
         image: /assets/images/news/is-the-time-of-representative-democracy-over-estonia-without-a-parliament.jpeg
         top: true
         categories:
