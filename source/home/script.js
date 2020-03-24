@@ -16,31 +16,6 @@ $(function () {
     $('#partners .block-text').removeClass('col-sm-10')
     $('#partners .block-text').addClass('col-sm-8')
 
-    $.getJSON('/.netlify/functions/news', function (data) {
-        var tag = 'technology'
-        var news = []
-
-        for (var i = 0; i < data.length; i++) {
-            //- if (data[i].tags.indexOf(tag) > -1) {
-            //-     news.push(data[i])
-            //- }
-            news.push(data[i])
-
-            if (news.length === 3) {
-                break
-            }
-        }
-
-        for (var i = 0; i < news.length; i++) {
-            $('#news-block-' + i + ' img').attr('src', news[i].picture)
-            $('#news-block-' + i + ' h4').html(news[i].title)
-            //- $('#news-block-' + i + ' p').html(news[i].text)
-            $('#news-block-' + i + ' a').attr('href', news[i].url)
-            $('#news-block-' + i).removeClass('d-none')
-        }
-    })
-
-
     // $(window).scroll(function () {
     //     $('.scroll-out').each(function () {
     //         var top = $(this).offset().top  - $(window).scrollTop() - $('nav').outerHeight(true)

@@ -94,7 +94,7 @@ blocks:
             background-position: 100% 15%, 90% 15%
             background-size: 165px 165px, 350px 350px
         text: |
-            ![](/assets/images/product-features.jpg){ .img-fluid .box-shadow }
+            ![A female member of Citizen OS staff attending an event to answer questions about the platform.](/assets/images/product-features.jpg){ .img-fluid .box-shadow }
 
     features:
         class:
@@ -165,7 +165,7 @@ blocks:
         class:
             - order-6
         text: |
-            ![](/assets/images/product-case-study-2.jpg){ .img-fluid .box-shadow }
+            ![CA screenshot of the Citizen OS platform being used for participatory democracy.](/assets/images/product-case-study-2.jpg){ .img-fluid .box-shadow }
 
     case-study-2:
         class:
@@ -186,7 +186,7 @@ blocks:
             - order-8
             - order-sm-9
         text: |
-            ![](/assets/images/product-case-study.jpg){ .img-fluid .box-shadow }
+            ![View of the audience at the Estonian Opinion Festival, who use the Citizen OS argumentation widget for their annual event. ](/assets/images/product-case-study.jpg){ .img-fluid .box-shadow }
 
     case-study:
         class:
