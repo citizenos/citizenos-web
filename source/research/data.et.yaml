@@ -57,8 +57,8 @@ blocks:
     text: |
       Kõik andmed on anonüümseks muudetud ja neid kasutatakse selleks, et mõista online-osalusdemokraatia mõju.
     button1st:
-      title: Loe blogi
-      url: https://medium.com/citizenos
+      title: Read news
+      url: /news/
   conference-img:
     class:
       - order-4
