@@ -50,9 +50,6 @@ blocks:
       background-size: crwdns24080:0crwdne24080:0
     text: |
       crwdns24082:0{ .img-fluid }crwdne24082:0
-    video:
-      id: crwdns24084:0crwdne24084:0
-      url: 'crwdns24086:0crwdne24086:0'
   start:
     class:
       - crwdns24088:0crwdne24088:0
