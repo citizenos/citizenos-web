@@ -65,7 +65,9 @@ blocks:
     title: |
       News
     text: |
-      Banjo tote bag bicycle rights, High Life sartorial cray craft beer whatever street art fap. Hashtag typewriter banh mi, squid keffiyeh High Life Brooklyn twee craft beer tousled chillwave. PBR&B selfies chillwave, bespoke tote bag blog post-ironic. Single-origin coffee put a bird on it cra.
+      Find out what we’re up to, who’s using our platform, and our hopes for the future of participatory e-democracy.
+
+      Browse below for case studies, interviews, product updates and more.
     button1st:
       title: Sign up for news
       url: '#subscribe'
@@ -83,6 +85,15 @@ blocks:
       background-size: 450px 450px
     title: |
       Our top stories
+  all-stories:
+    class:
+      - order-6
+      - col-sm-12
+      - py-5
+    style:
+      background-color: '#F7F7F7'
+    title: |
+      All stories
   organizations:
     class:
       - order-9
