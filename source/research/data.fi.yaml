@@ -57,8 +57,8 @@ blocks:
     text: |
       Kaikki tiedot puhdistetaan tunnistetiedoista, ja niitä käytetään osallistuvan verkkodemokratian vaikutusten ymmärtämiseen.
     button1st:
-      title: Lue blogia
-      url: https://medium.com/citizenos
+      title: Read news
+      url: /news/
   conference-img:
     class:
       - order-4
