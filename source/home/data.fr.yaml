@@ -6,6 +6,8 @@ keywords:
   - free e-democracy
   - technologie civique gratuite
 image: /assets/images/meta/home-alt.jpg
+data:
+  news: /news/data.en.yaml
 header:
   title: Argument-based discussions and collaborative decision-making for civic initiatives.
   0: |
@@ -121,9 +123,8 @@ blocks:
     text: |
       { #news-items }
     button1st:
-      title: Read blog
-      url: https://medium.com/citizenos
-    readMore: Read more
+      title: Read all news
+      url: /news/
   meet:
     class:
       - order-7
