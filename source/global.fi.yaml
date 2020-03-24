@@ -18,8 +18,9 @@ navigation:
     url: /community/
     class: community
   blog:
-    title: Blogi
-    url: https://medium.com/citizenos
+    title: News
+    url: /news/
+    class: news
 language: English
 languages:
   en: English
@@ -64,9 +65,6 @@ footer:
     community:
       title: Sosiaalinen media
       links:
-        blog:
-          title: Blogi
-          url: https://medium.com/citizenos
         twitter:
           title: Twitter
           url: https://twitter.com/Citizen_OS
