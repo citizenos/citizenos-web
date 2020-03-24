@@ -124,7 +124,7 @@ blocks:
       { #news-items }
     button1st:
       title: Read all news
-      url: /news/
+      url: /et/uudised/
   meet:
     class:
       - order-7
