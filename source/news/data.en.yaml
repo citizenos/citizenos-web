@@ -100,6 +100,17 @@ blocks:
             Our top stories
 
 
+    all-stories:
+        class:
+            - order-6
+            - col-sm-12
+            - py-5
+        style:
+            background-color: '#F7F7F7'
+        title: |
+            All stories
+
+
     organizations:
         class:
             - order-9

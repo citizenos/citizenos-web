@@ -9,6 +9,14 @@ $(function () {
     $('#top-stories .block-text').append($('#top-stories-blocks').html())
     $('#top-stories-blocks').remove()
 
+    $('#all-stories').removeClass('col-sm-6')
+    $('#all-stories .block-text').removeClass('col-sm-8')
+    $('#all-stories .block-text').removeClass('offset-sm-2')
+    $('#all-stories .block-text').addClass('col-sm-10')
+    $('#all-stories .block-text').addClass('offset-sm-1')
+    $('#all-stories .block-text').append($('#all-stories-blocks').html())
+    $('#all-stories-blocks').remove()
+
     $('#organizations').removeClass('col-sm-6')
     $('#organizations .block-text').removeClass('col-sm-8')
     $('#organizations .block-text').removeClass('offset-sm-2')
