@@ -57,8 +57,8 @@ blocks:
     text: |
       Все полученные данные анонимизированы и используются для изучения того, какое влияние оказывает демократия участия в сфере онлайн.
     button1st:
-      title: Читать блог
-      url: https://medium.com/citizenos
+      title: Read news
+      url: /news/
   conference-img:
     class:
       - order-4
