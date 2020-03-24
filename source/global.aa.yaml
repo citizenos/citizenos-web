@@ -18,8 +18,9 @@ navigation:
     url: crwdns22226:0crwdne22226:0
     class: crwdns22228:0crwdne22228:0
   blog:
-    title: crwdns18088:0crwdne18088:0
-    url: crwdns18090:0crwdne18090:0
+    title: crwdns24328:0crwdne24328:0
+    url: crwdns24330:0crwdne24330:0
+    class: crwdns24332:0crwdne24332:0
 language: crwdns17246:0crwdne17246:0
 languages:
   en: crwdns17248:0crwdne17248:0
@@ -64,9 +65,6 @@ footer:
     community:
       title: crwdns20104:0crwdne20104:0
       links:
-        blog:
-          title: crwdns18116:0crwdne18116:0
-          url: crwdns18118:0crwdne18118:0
         twitter:
           title: crwdns18120:0crwdne18120:0
           url: crwdns18122:0crwdne18122:0
