@@ -50,9 +50,6 @@ blocks:
       background-size: 350px 350px, 102px 102px, 65px 65px, 135px 135px
     text: |
       ![](/assets/images/vision-start.png){ .img-fluid }
-    video:
-      id: video
-      url: 'https://www.youtube.com/embed/hDLWbQQAk8g?rel=0&showinfo=0&modestbranding=1&autoplay=1&cc_load_policy=1&cc_lang_pref=en'
   start:
     class:
       - order-0
