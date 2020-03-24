@@ -6,6 +6,8 @@ keywords:
   - crwdns23882:0crwdne23882:0
   - crwdns23884:0crwdne23884:0
 image: crwdns23476:0crwdne23476:0
+data:
+  news: crwdns24334:0crwdne24334:0
 header:
   title: crwdns23478:0crwdne23478:0
   0: |
@@ -121,9 +123,8 @@ blocks:
     text: |
       crwdns23600:0{ #news-items }crwdne23600:0
     button1st:
-      title: crwdns23602:0crwdne23602:0
-      url: crwdns23604:0crwdne23604:0
-    readMore: crwdns23606:0crwdne23606:0
+      title: crwdns24336:0crwdne24336:0
+      url: crwdns24338:0crwdne24338:0
   meet:
     class:
       - crwdns23608:0crwdne23608:0
