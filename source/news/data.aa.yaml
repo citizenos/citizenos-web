@@ -8,39 +8,36 @@ keywords:
   -
 image: crwdns24026:0crwdne24026:0
 news:
-  - 
-    url: crwdns24028:0crwdne24028:0
-    title: 'crwdns24030:0crwdne24030:0'
-    author: crwdns24032:0crwdne24032:0
-    date: crwdns24034:0crwdne24034:0
-    image: crwdns24036:0crwdne24036:0
+  2020-02-27:
+    url: crwdns24252:0crwdne24252:0
+    title: 'crwdns24254:0crwdne24254:0'
+    author: crwdns24256:0crwdne24256:0
+    image: crwdns24258:0crwdne24258:0
     top: true
     categories:
-      - crwdns24038:0crwdne24038:0
+      - crwdns24260:0crwdne24260:0
     text: |
-      crwdns24040:0crwdne24040:0
-  - 
-    url: crwdns24042:0crwdne24042:0
-    title: crwdns24044:0crwdne24044:0
-    author: crwdns24046:0crwdne24046:0
-    date: crwdns24048:0crwdne24048:0
-    image: crwdns24050:0crwdne24050:0
+      crwdns24262:0crwdne24262:0
+  2019-12-20:
+    url: crwdns24264:0crwdne24264:0
+    title: crwdns24266:0crwdne24266:0
+    author: crwdns24268:0crwdne24268:0
+    image: crwdns24270:0crwdne24270:0
     top: true
     categories:
-      - crwdns24052:0crwdne24052:0
+      - crwdns24272:0crwdne24272:0
     text: |
-      crwdns24054:0crwdne24054:0
-  - 
-    url: crwdns24056:0crwdne24056:0
-    title: 'crwdns24058:0crwdne24058:0'
-    author: crwdns24060:0crwdne24060:0
-    date: crwdns24062:0crwdne24062:0
-    image: crwdns24064:0crwdne24064:0
+      crwdns24274:0crwdne24274:0
+  2019-11-13:
+    url: crwdns24276:0crwdne24276:0
+    title: 'crwdns24278:0crwdne24278:0'
+    author: crwdns24280:0crwdne24280:0
+    image: crwdns24282:0crwdne24282:0
     top: true
     categories:
-      - crwdns24066:0crwdne24066:0
+      - crwdns24284:0crwdne24284:0
     text: |
-      crwdns24068:0crwdne24068:0
+      crwdns24286:0crwdne24286:0
 readMore: crwdns24070:0crwdne24070:0
 blocks:
   start-img:
@@ -53,9 +50,6 @@ blocks:
       background-size: crwdns24080:0crwdne24080:0
     text: |
       crwdns24082:0{ .img-fluid }crwdne24082:0
-    video:
-      id: crwdns24084:0crwdne24084:0
-      url: 'crwdns24086:0crwdne24086:0'
   start:
     class:
       - crwdns24088:0crwdne24088:0
@@ -68,7 +62,7 @@ blocks:
     title: |
       crwdns24100:0crwdne24100:0
     text: |
-      crwdns24102:0crwdne24102:0
+      crwdns24316:0crwdne24316:0
     button1st:
       title: crwdns24104:0crwdne24104:0
       url: 'crwdns24106:0crwdne24106:0'
@@ -86,6 +80,15 @@ blocks:
       background-size: crwdns24120:0crwdne24120:0
     title: |
       crwdns24122:0crwdne24122:0
+  all-stories:
+    class:
+      - crwdns24318:0crwdne24318:0
+      - crwdns24320:0crwdne24320:0
+      - crwdns24322:0crwdne24322:0
+    style:
+      background-color: 'crwdns24324:0crwdne24324:0'
+    title: |
+      crwdns24326:0crwdne24326:0
   organizations:
     class:
       - crwdns24124:0crwdne24124:0

@@ -6,6 +6,8 @@ keywords:
   - crwdns23882:0crwdne23882:0
   - crwdns23884:0crwdne23884:0
 image: crwdns23476:0crwdne23476:0
+data:
+  news: crwdns24334:0crwdne24334:0
 header:
   title: crwdns23478:0crwdne23478:0
   0: |
@@ -32,7 +34,7 @@ blocks:
       background-position: crwdns23494:0crwdne23494:0
       background-size: crwdns23496:0crwdne23496:0
     text: |
-      crwdns23498:0{ .img-fluid }crwdne23498:0
+      crwdns24150:0{ .img-fluid }crwdne24150:0
   opensource:
     class:
       - crwdns23500:0crwdne23500:0
@@ -59,7 +61,7 @@ blocks:
       background-position: crwdns23526:0crwdne23526:0
       background-size: crwdns23528:0crwdne23528:0
     text: |
-      crwdns23530:0{ .img-fluid }crwdne23530:0
+      crwdns24152:0{ .img-fluid }crwdne24152:0
   democracy:
     class:
       - crwdns23532:0crwdne23532:0
@@ -89,7 +91,7 @@ blocks:
       background-position: crwdns23560:0crwdne23560:0
       background-size: crwdns23562:0crwdne23562:0
     text: |
-      crwdns23564:0{ .img-fluid }crwdne23564:0
+      crwdns24154:0{ .img-fluid }crwdne24154:0
   research:
     class:
       - crwdns23566:0crwdne23566:0
@@ -121,9 +123,8 @@ blocks:
     text: |
       crwdns23600:0{ #news-items }crwdne23600:0
     button1st:
-      title: crwdns23602:0crwdne23602:0
-      url: crwdns23604:0crwdne23604:0
-    readMore: crwdns23606:0crwdne23606:0
+      title: crwdns24336:0crwdne24336:0
+      url: crwdns24338:0crwdne24338:0
   meet:
     class:
       - crwdns23608:0crwdne23608:0
@@ -170,4 +171,4 @@ blocks:
     title: |
       crwdns23652:0crwdne23652:0
     text: |
-      crwdns23654:0[Partners]crwdnd23654:0{ .mt-4 .w-100 }crwdne23654:0
+      crwdns24156:0{ .mt-4 .w-100 }crwdne24156:0

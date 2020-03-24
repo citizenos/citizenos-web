@@ -6,9 +6,9 @@ image: /assets/images/news/digital-signing-through-smart-id-our-open-source-gift
 author: Becca Melhuish
 date: Feb 27, 2020
 text: |
-  Here at Citizen OS, we’ve been busy writing two free, open source sets of code in JavaScript, which act as interfaces for using Estonia’s Smart-ID and Mobile-ID services. They’re yours if you want them!
+  *Here at Citizen OS, we’ve been busy writing two free, open source sets of code in JavaScript, which act as interfaces for using Estonia’s Smart-ID and Mobile-ID services. They’re yours if you want them!*
 
-  ![](/assets/images/news/digital-signing-through-smart-id-our-open-source-gift.png)
+  ![The Estonian ID-card inserted into a port in a laptop.](/assets/images/news/digital-signing-through-smart-id-our-open-source-gift.png)
 
   The Estonian ID Card for online authentication and digital signatures { .text-muted }
 
@@ -38,8 +38,8 @@ text: |
 
   Ilmar Türk, our trusty Software Developer who brought these two new codes to life, says:
 
-  “We’re proud to play a small part in making e-governance and online participation possible, and hope that these small code libraries will give a little extra boost to the future of e-democracy and citizen involvement, both within Estonia and the wider world.
+  “We’re proud to play a small part in making e-governance and online participation possible, and hope that these small code libraries will give a little extra boost to the future of e-democracy and citizen involvement, both within Estonia and the wider world.”
 
   “And a big thank you to our friend Andri Möll from Rahvaalgatus, who created the brilliant code library js-undersign. This code allows users to download signatures in container files (a.k.a bdoc files, for the developers out there), and was a huge help to us in our own code development.”
 
-  If any other countries are feeling inspired to create their own Smart-ID based local government initiative for citizen involvement, or a citizens’ initiative portal for public participation and proposals like Estonia’s Rahvaalgatus platform, then just drop us a line — we’re up for it!
+  **If any other countries are feeling inspired to create their own Smart-ID based local government initiative for citizen involvement, or a citizens’ initiative portal for public participation and proposals like Estonia’s Rahvaalgatus platform, then just drop us a line at <info@citizenos.com> — we’re up for it!**

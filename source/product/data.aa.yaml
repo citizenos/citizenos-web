@@ -81,7 +81,7 @@ blocks:
       background-position: crwdns18272:0crwdne18272:0
       background-size: crwdns18274:0crwdne18274:0
     text: |
-      crwdns18276:0{ .img-fluid .box-shadow }crwdne18276:0
+      crwdns24158:0{ .img-fluid .box-shadow }crwdne24158:0
   features:
     class:
       - crwdns19190:0crwdne19190:0
@@ -131,7 +131,7 @@ blocks:
     class:
       - crwdns19198:0crwdne19198:0
     text: |
-      crwdns18338:0{ .img-fluid .box-shadow }crwdne18338:0
+      crwdns24160:0{ .img-fluid .box-shadow }crwdne24160:0
   case-study-2:
     class:
       - crwdns19200:0crwdne19200:0
@@ -149,7 +149,7 @@ blocks:
       - crwdns19202:0crwdne19202:0
       - crwdns19204:0crwdne19204:0
     text: |
-      crwdns19206:0{ .img-fluid .box-shadow }crwdne19206:0
+      crwdns24162:0{ .img-fluid .box-shadow }crwdne24162:0
   case-study:
     class:
       - crwdns19208:0crwdne19208:0

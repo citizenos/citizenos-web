@@ -17,7 +17,7 @@ blocks:
       background-position: crwdns18412:0crwdne18412:0
       background-size: crwdns18414:0crwdne18414:0
     text: |
-      crwdns18416:0{ .img-fluid }crwdne18416:0
+      crwdns24164:0{ .img-fluid }crwdne24164:0
   research:
     class:
       - crwdns19226:0crwdne19226:0
@@ -43,7 +43,7 @@ blocks:
       background-position: crwdns18450:0crwdne18450:0
       background-size: crwdns18452:0crwdne18452:0
     text: |
-      crwdns18454:0{ .img-fluid .box-shadow }crwdne18454:0
+      crwdns24166:0{ .img-fluid .box-shadow }crwdne24166:0
   forward:
     class:
       - crwdns18456:0crwdne18456:0
@@ -55,8 +55,8 @@ blocks:
     text: |
       crwdns18464:0crwdne18464:0
     button1st:
-      title: crwdns18466:0crwdne18466:0
-      url: crwdns18468:0crwdne18468:0
+      title: crwdns24340:0crwdne24340:0
+      url: crwdns24342:0crwdne24342:0
   conference-img:
     class:
       - crwdns18470:0crwdne18470:0
@@ -67,7 +67,7 @@ blocks:
       background-position: crwdns18480:0crwdne18480:0
       background-size: crwdns18482:0crwdne18482:0
     text: |
-      crwdns18484:0{ .img-fluid .box-shadow }crwdne18484:0
+      crwdns24168:0{ .img-fluid .box-shadow }crwdne24168:0
   conference:
     class:
       - crwdns18486:0crwdne18486:0
