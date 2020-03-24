@@ -65,7 +65,7 @@ blocks:
     title: |
       crwdns24100:0crwdne24100:0
     text: |
-      crwdns24102:0crwdne24102:0
+      crwdns24316:0crwdne24316:0
     button1st:
       title: crwdns24104:0crwdne24104:0
       url: 'crwdns24106:0crwdne24106:0'
@@ -83,6 +83,15 @@ blocks:
       background-size: crwdns24120:0crwdne24120:0
     title: |
       crwdns24122:0crwdne24122:0
+  all-stories:
+    class:
+      - crwdns24318:0crwdne24318:0
+      - crwdns24320:0crwdne24320:0
+      - crwdns24322:0crwdne24322:0
+    style:
+      background-color: 'crwdns24324:0crwdne24324:0'
+    title: |
+      crwdns24326:0crwdne24326:0
   organizations:
     class:
       - crwdns24124:0crwdne24124:0
