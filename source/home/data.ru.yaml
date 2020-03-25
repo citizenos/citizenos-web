@@ -1,22 +1,22 @@
 ---
 path: /
-description: Citizen OS Foundation is a not-for-profit organisation providing a free decision-making civic tech platform.
+description: Фонд Citizen OS — некоммерческая организация, предоставляющая бесплатную гражданскую технологическую платформу для принятия совместных решений.
 keywords:
   - бесплатная цифровая демократия
   - бесплатная электронная демократия
-  - free civic technology
+  - бесплатная гражданская технология
 image: /assets/images/meta/home-alt.jpg
 data:
-  news: /news/data.en.yaml
+  news: /novosti/data.en.yaml
 header:
-  title: Argument-based discussions and collaborative decision-making for civic initiatives.
+  title: Обсуждения на основе аргументов и совместное принятие решений для гражданских инициатив.
   0: |
 
   video:
-    title: Introduction
+    title: Введение
     url: https://www.youtube.com/embed/hDLWbQQAk8g?rel=0&showinfo=0&modestbranding=1&autoplay=1&cc_load_policy=1&cc_lang_pref=en
   demo:
-    title: Demo
+    title: Демо-видео
     url: https://www.youtube.com/embed/UC44qCCIixE?rel=0&showinfo=0&modestbranding=1&autoplay=1&cc_load_policy=1&cc_lang_pref=en
 #whatIs:
 #title: What is Citizen OS
@@ -34,7 +34,7 @@ blocks:
       background-position: 20% 80%
       background-size: 122px 122px
     text: |
-      ![The Citizen OS platform is free to use on your desktop, laptop, tablet or mobile.](/assets/images/frontpage-product.png){ .img-fluid }
+      ![Платформа Citizen OS бесплатна для использования на десктопе, ноутбуке, планшете или мобильном телефоне.](/assets/images/frontpage-product.png){ .img-fluid }
   opensource:
     class:
       - order-2
@@ -46,11 +46,11 @@ blocks:
       background-size: 360px 360px
     #label: Our Product
     title: |
-      Use the open source software.
+      Используйте программное обеспечение с открытым исходным кодом.
     text: |
-      We believe the tools for online participatory democracy should be free to use for everyone.
+      Мы считаем, что инструменты онлайн-демократии участия должны быть бесплатными для каждого.
     button1st:
-      title: About product
+      title: О продукте
       url: /produkt/
   democracy-img:
     class:
@@ -73,11 +73,11 @@ blocks:
       background-position: 0 10%
       background-size: 122px 122px
     title: |
-      Raising awareness on participatory democracy.
+      Повышение информированности о демократии участия.
     text: |
-      We believe the way for us to move forward as a civilization is to globally come together and decide on issues that affect our wellbeing.
+      Мы считаем, что единственный способ продолжить развитие нашей великой цивилизации — это глобальное объединение всех и каждого для того, чтобы вместе принимать решения, имеющие влияние на наше благополучие.
     button1st:
-      title: About vision
+      title: О концепции
       url: /koncepciya/
     button2nd:
   #title: Use platform - it’s free!
@@ -91,7 +91,7 @@ blocks:
       background-position: 85% 85%
       background-size: 75px 75px
     text: |
-      ![Man in a white shirt holds a microphone while speaking at a participatory democracy festival.](/assets/images/frontpage-lets-educate.png){ .img-fluid }
+      ![Человек в белой рубашке держит микрофон, выступая на фестивале демократии участия.](/assets/images/frontpage-lets-educate.png){ .img-fluid }
   research:
     class:
       - order-5
@@ -103,11 +103,11 @@ blocks:
       background-size: 360px 360px
     #label: Let’s Educate
     title: |
-      Developing e-democracy.
+      Развитие электронной демократии.
     text: |
-      We collaborate with researchers to help develop our products.
+      Мы сотрудничаем с исследователями для непрерывного развития наших продуктов.
     button1st:
-      title: About research
+      title: Об исследованиях
       url: /issledovaniya/
   news:
     class:
@@ -119,11 +119,11 @@ blocks:
       background-position: 60% 10%
       background-size: 360px 360px
     title: |
-      Latest news
+      Последние новости
     text: |
       { #news-items }
     button1st:
-      title: Read all news
+      title: Читать все новости
       url: /novosti/
   meet:
     class:
