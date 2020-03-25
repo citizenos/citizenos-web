@@ -1,6 +1,6 @@
 ---
 path: /novosti
-title: News
+title: Новости
 description:
 keywords:
   -
@@ -35,7 +35,7 @@ news:
     image: /assets/images/news/is-the-time-of-representative-democracy-over-estonia-without-a-parliament.jpeg
     top: true
     categories:
-      - Новости э-демократии
+      - E-democracy news
     text: |
       Political events across the democratic world have created a ghost – the ghost of direct democracy. Populist movements everywhere demand that the people’s voice be heard more, mostly in the form of Swiss-style referendums. What is not understood is that a Swiss referendum and something like the Brexit referendum in the UK are as different as night and day.
 readMore: Read more
@@ -60,7 +60,7 @@ blocks:
       background-position:
       background-size:
     title: |
-      News
+      Новости
     text: |
       Find out what we’re up to, who’s using our platform, and our hopes for the future of participatory e-democracy.
 
