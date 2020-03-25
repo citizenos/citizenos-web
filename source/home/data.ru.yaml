@@ -2,8 +2,8 @@
 path: /
 description: Citizen OS Foundation is a not-for-profit organisation providing a free decision-making civic tech platform.
 keywords:
-  - free digital democracy
-  - free e-democracy
+  - бесплатная цифровая демократия
+  - бесплатная электронная демократия
   - free civic technology
 image: /assets/images/meta/home-alt.jpg
 data:
@@ -51,7 +51,7 @@ blocks:
       We believe the tools for online participatory democracy should be free to use for everyone.
     button1st:
       title: About product
-      url: /product/
+      url: /produkt/
   democracy-img:
     class:
       - order-3
@@ -61,7 +61,7 @@ blocks:
       background-position: 30% 25%, 20% 75%
       background-size: 360px 360px, 100px 100px
     text: |
-      ![Citizen OS’s  first COSCON conference  which brought  together e-democracy researchers from around the world.](/assets/images/frontpage-start.png){ .img-fluid }
+      ![Citizen OS’s first COSCON conference, which brought together e-democracy researchers from around the world.](/assets/images/frontpage-start.png){ .img-fluid }
   democracy:
     class:
       - order-4
@@ -78,7 +78,7 @@ blocks:
       We believe the way for us to move forward as a civilization is to globally come together and decide on issues that affect our wellbeing.
     button1st:
       title: About vision
-      url: /vision/
+      url: /koncepciya/
     button2nd:
   #title: Use platform - it’s free!
   #url: https://app.citizenos.com
@@ -108,7 +108,7 @@ blocks:
       We collaborate with researchers to help develop our products.
     button1st:
       title: About research
-      url: /research/
+      url: /issledovaniya/
   news:
     class:
       - order-6
@@ -124,7 +124,7 @@ blocks:
       { #news-items }
     button1st:
       title: Read all news
-      url: /news/
+      url: /novosti/
   meet:
     class:
       - order-7
@@ -160,7 +160,7 @@ blocks:
       Whether you are a developer, translator, researcher, designer, hacktivist or journalist - join us!
     button1st:
       title: Contribute
-      url: /contribute/
+      url: /podderzhi-proekt/
   partners:
     class:
       - order-9
