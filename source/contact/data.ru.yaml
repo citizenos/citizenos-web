@@ -1,11 +1,11 @@
 ---
 path: /kontakty
 title: Контакты
-description: Citizen OS is a not-for-profit organisation headquartered in Estonia, which has gained the trust of public and private user groups around the world.
+description: Citizen OS — некоммерческая организация со штаб-квартирой в Эстонии, завоевавшая доверие государственных и частных групп пользователей по всему миру.
 keywords:
-  - e-voting
-  - engagement technology
-  - open governance
+  - э-голосование
+  - технология вовлечения
+  - открытое управление
 image: /assets/images/meta/vision.jpg
 blocks:
   contact-img:
