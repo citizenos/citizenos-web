@@ -61,7 +61,7 @@ blocks:
       background-position: 30% 25%, 20% 75%
       background-size: 360px 360px, 100px 100px
     text: |
-      ![Citizen OS’s first COSCON conference, which brought together e-democracy researchers from around the world.](/assets/images/frontpage-start.png){ .img-fluid }
+      ![Первая конференция Citizen OS COSCON, на которой собрались исследователи в области электронной демократии со всего мира.](/assets/images/frontpage-start.png){ .img-fluid }
   democracy:
     class:
       - order-4
@@ -155,11 +155,11 @@ blocks:
       - py-5
     #label: A word from the team
     title: |
-      Help us develop Open Source products and spread participatory democracy.
+      Помогите нам развивать продукты с открытым исходным кодом и расширить влияние демократии участия.
     text: |
-      Whether you are a developer, translator, researcher, designer, hacktivist or journalist - join us!
+      Если вы разработчик, переводчик, исследователь, дизайнер, хактивист или журналист — присоединяйтесь к нам!
     button1st:
-      title: Contribute
+      title: Поддержать проект
       url: /podderzhi-proekt/
   partners:
     class:
@@ -169,6 +169,6 @@ blocks:
       border-left: '1px solid #E5E5E5'
     #label: We’re stronger together
     title: |
-      Our partners & supporters
+      Наши партнеры и сторонники
     text: |
-      ![Citizen OS Foundation’s supporters and partners logos.](/assets/images/frontpage-partners.png){ .mt-4 .w-100 }
+      ![Логотипы сторонников и и партнеров фонда Citizen OS.](/assets/images/frontpage-partners.png){ .mt-4 .w-100 }
