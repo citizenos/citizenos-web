@@ -15,11 +15,11 @@ navigation:
     class: research
   community:
     title: Сообщество
-    url: /community/
+    url: /soobshchestvo/
     class: community
   blog:
     title: News
-    url: /news/
+    url: /novosti/
     class: news
 language: English
 languages:

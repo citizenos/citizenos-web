@@ -61,7 +61,7 @@ blocks:
       background-position: 30% 25%, 20% 75%
       background-size: 360px 360px, 100px 100px
     text: |
-      ![Citizen OS’s  first COSCON conference  which brought  together e-democracy researchers from around the world.](/assets/images/frontpage-start.png){ .img-fluid }
+      ![Citizen OS’s first COSCON conference, which brought together e-democracy researchers from around the world.](/assets/images/frontpage-start.png){ .img-fluid }
   democracy:
     class:
       - order-4

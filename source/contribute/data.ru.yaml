@@ -3,9 +3,9 @@ path: /podderzhi-proekt
 title: Поддержать проект
 description: Developer, translator, scientist, designer, hacktivist and journalist - please get in touch! Citizen OS welcomes volunteers who are interested in e-democracy.
 keywords:
-  - civic hacktivist
-  - e-participation
-  - government technology
+  - гражданский хактивист
+  - электронное участие
+  - государственная технология
 image: /assets/images/meta/vision.jpg
 blocks:
   contribute-img:

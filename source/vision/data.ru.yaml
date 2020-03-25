@@ -1,11 +1,11 @@
 ---
 path: /koncepciya
 title: Видение
-description: Let’s contribute to society through citizen initiatives! Citizen OS is a free e-democracy platform for participation and collaborative decision-making.
+description: Давайте внесем свой вклад в общество через гражданские инициативы! Citizen OS - это бесплатная электронная демократическая платформа для участия и совместного принятия решений.
 keywords:
-  - deliberate discussion
-  - free participatory democracy
-  - free direct democracy
+  - осмысленное обсуждение
+  - бесплатная демократия участия
+  - бесплатная прямая демократия
 image: /assets/images/meta/vision.jpg
 blocks:
   start-img:
@@ -51,7 +51,7 @@ blocks:
       background-position: 10% 10%, 90% 10%
       background-size: 45px 45px, 350px 350px
     text: |
-      ![An active citizen who believes that her participation in political issues has an impact.](/assets/images/vision-individual.png){ .img-fluid }
+      ![Активная гражданка, которая верит, что ее участие в политических проблемах имеет влияние.](/assets/images/vision-individual.png){ .img-fluid }
   individual:
     class:
       - order-3
