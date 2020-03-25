@@ -1,11 +1,11 @@
 ---
 path: /organizaciya
 title: Компания
-description: Citizen OS is a free and secure open source platform for citizen initiatives. We are a not-for-profit organisation.
+description: Citizen OS — бесплатная и безопасная платформа с открытым исходным кодом для гражданских инициатив. Мы - некоммерческая организация.
 keywords:
-  - open source
-  - civic initiative
-  - civic movement
+  - открытый исходный код
+  - гражданская инициатива
+  - гражданское движение
 image: /assets/images/meta/home.jpg
 blocks:
   company-img:
