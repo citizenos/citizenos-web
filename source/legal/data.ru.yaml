@@ -1,11 +1,11 @@
 ---
 path: /yuridicheskaya-informaciya
 title: Юридическая информация
-description: Citizen OS Foundation provides free software and builds a network of e-democracy specialists. Our mission is to give citizens a voice in social issues.
+description: Фонд Citizen OS предоставляет бесплатное программное обеспечение и создает сообщество специалистов в области электронной демократии.
 keywords:
   - цифровое правительство
-  - social issue
-  - e-government
+  - социальная проблема
+  - электронное правительство
 image: /assets/images/meta/vision.jpg
 blocks:
   legal-img:
