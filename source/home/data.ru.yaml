@@ -7,7 +7,7 @@ keywords:
   - бесплатная гражданская технология
 image: /assets/images/meta/home-alt.jpg
 data:
-  news: /novosti/data.en.yaml
+  news: /news/data.en.yaml
 header:
   title: Обсуждения на основе аргументов и совместное принятие решений для гражданских инициатив.
   0: |
