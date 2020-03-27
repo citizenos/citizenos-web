@@ -7,7 +7,7 @@ keywords:
   - ilmaista kansalaisteknologiaa
 image: /assets/images/meta/home-alt.jpg
 data:
-  news: uutiset/data.en.yaml
+  news: /news/data.en.yaml
 header:
   title: Väittelyyn perustuvaa keskustelua ja yhteistä päätöksentekoa kansalaisaloitteisiin liittyen.
   0: |
