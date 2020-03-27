@@ -1,11 +1,11 @@
 ---
-path: /team
+path: /tiimi
 title: Tiimi
-description: Courage, self-determination, desire to change the world is what we value at Citizen OS. If you would like to be a part of the team, contact us!
+description: Me Citizen OS:llä arvostamme rohkeutta, päättäväisyyttä ja halua muuttaa maailmaa. Ota yhteyttä, mikäli haluat liittyä mukaan!
 keywords:
-  - social movement
-  - ngo
-  - democracy foundation
+  - kansanliike
+  - kansalaisjärjestö
+  - demokratian perusta
 image: /assets/images/meta/home.jpg
 team:
   - 

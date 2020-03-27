@@ -15,11 +15,11 @@ navigation:
     class: research
   community:
     title: Yhteisö
-    url: /community/
+    url: /yhteiso/
     class: community
   blog:
-    title: News
-    url: /news/
+    title: Uutiset
+    url: /uutiset/
     class: news
 language: English
 languages:

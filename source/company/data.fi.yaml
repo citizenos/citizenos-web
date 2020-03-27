@@ -1,11 +1,11 @@
 ---
-path: /company
+path: /yritys
 title: Yritys
-description: Citizen OS is a free and secure open source platform for citizen initiatives. We are a not-for-profit organisation.
+description: Citizen OS on ilmainen ja turvallinen avoimen lähdekoodin alusta kansalaisaloitteille. Olemme voittoa tavoittelematon järjestö.
 keywords:
-  - open source
-  - civic initiative
-  - civic movement
+  - avoin lähdekoodi
+  - kansalaisaloite
+  - kansalaisliike
 image: /assets/images/meta/home.jpg
 blocks:
   company-img:

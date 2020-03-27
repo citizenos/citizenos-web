@@ -1,19 +1,19 @@
 ---
 path: /
-description: Citizen OS Foundation is a not-for-profit organisation providing a free decision-making civic tech platform.
+description: Citizen OS Foundation on voittoa tavoittelematon järjestö, joka tarjoaa ilmaisen päätöksentekoon tarkoitetun kansalaisteknologia-alustan.
 keywords:
-  - free digital democracy
-  - free e-democracy
-  - free civic technology
+  - ilmaista digitaalista demokratiaa
+  - ilmaista verkkodemokratiaa
+  - ilmaista kansalaisteknologiaa
 image: /assets/images/meta/home-alt.jpg
 data:
-  news: /news/data.en.yaml
+  news: uutiset/data.en.yaml
 header:
-  title: Argument-based discussions and collaborative decision-making for civic initiatives.
+  title: Väittelyyn perustuvaa keskustelua ja yhteistä päätöksentekoa kansalaisaloitteisiin liittyen.
   0: |
 
   video:
-    title: Introduction
+    title: Esittely
     url: https://www.youtube.com/embed/hDLWbQQAk8g?rel=0&showinfo=0&modestbranding=1&autoplay=1&cc_load_policy=1&cc_lang_pref=en
   demo:
     title: Demo
@@ -34,7 +34,7 @@ blocks:
       background-position: 20% 80%
       background-size: 122px 122px
     text: |
-      ![The Citizen OS platform is free to use on your desktop, laptop, tablet or mobile.](/assets/images/frontpage-product.png){ .img-fluid }
+      ![Voit käyttää Citizen OS -alustaa ilmaiseksi pöytäkoneellasi, läppärilläsi, tabletillasi tai kännykälläsi.](/assets/images/frontpage-product.png){ .img-fluid }
   opensource:
     class:
       - order-2
@@ -46,12 +46,12 @@ blocks:
       background-size: 360px 360px
     #label: Our Product
     title: |
-      Use the open source software.
+      Käytä avoimen lähdekoodin ohjelmistoa.
     text: |
-      We believe the tools for online participatory democracy should be free to use for everyone.
+      Uskomme, että osallistavan verkkodemokratian työkalujen tulisi olla ilmaisia ja kaikkien käytettävissä.
     button1st:
-      title: About product
-      url: /product/
+      title: Tietoa tuotteesta
+      url: /tuote/
   democracy-img:
     class:
       - order-3
@@ -61,7 +61,7 @@ blocks:
       background-position: 30% 25%, 20% 75%
       background-size: 360px 360px, 100px 100px
     text: |
-      ![Citizen OS’s first COSCON conference, which brought together e-democracy researchers from around the world.](/assets/images/frontpage-start.png){ .img-fluid }
+      ![Citizen OS:n ensimmäinen COSCON-konferenssi, joka toi yhteen verkkodemokratian tutkijoita ympäri maailmaa.](/assets/images/frontpage-start.png){ .img-fluid }
   democracy:
     class:
       - order-4
@@ -73,12 +73,12 @@ blocks:
       background-position: 0 10%
       background-size: 122px 122px
     title: |
-      Raising awareness on participatory democracy.
+      Nostamassa tietoisuutta osallistavasta demokratiasta.
     text: |
-      We believe the way for us to move forward as a civilization is to globally come together and decide on issues that affect our wellbeing.
+      Uskomme, että kehittyäksemme sivilisaationa meidän on tehtävä maailmanlaajuista yhteistyötä ja päätettävä yhdessä niistä asioista, jotka vaikuttavat hyvinvointiimme.
     button1st:
-      title: About vision
-      url: /vision/
+      title: Tietoa visiosta
+      url: /visio/
     button2nd:
   #title: Use platform - it’s free!
   #url: https://app.citizenos.com
@@ -91,7 +91,7 @@ blocks:
       background-position: 85% 85%
       background-size: 75px 75px
     text: |
-      ![Man in a white shirt holds a microphone while speaking at a participatory democracy festival.](/assets/images/frontpage-lets-educate.png){ .img-fluid }
+      ![Valkopaitainen mies pitelee mikrofonia puhuessaan osallistavan demokratian festivaaleilla.](/assets/images/frontpage-lets-educate.png){ .img-fluid }
   research:
     class:
       - order-5
@@ -103,12 +103,12 @@ blocks:
       background-size: 360px 360px
     #label: Let’s Educate
     title: |
-      Developing e-democracy.
+      Kehittämässä verkkodemokratiaa.
     text: |
-      We collaborate with researchers to help develop our products.
+      Teemme yhteistyötä tutkijoiden kanssa kehittääksemme tuotteitamme.
     button1st:
-      title: About research
-      url: /research/
+      title: Lisätietoa tutkimuksesta
+      url: /tutkimus/
   news:
     class:
       - order-6
@@ -119,12 +119,12 @@ blocks:
       background-position: 60% 10%
       background-size: 360px 360px
     title: |
-      Latest news
+      Uusimmat uutiset
     text: |
       { #news-items }
     button1st:
-      title: Read all news
-      url: /news/
+      title: Lue kaikki uutiset
+      url: /uutiset/
   meet:
     class:
       - order-7
@@ -155,12 +155,12 @@ blocks:
       - py-5
     #label: A word from the team
     title: |
-      Help us develop Open Source products and spread participatory democracy.
+      Auta meitä kehittämään avoimen lähdekoodin tuotteita ja levittämään osallistavaa demokratiaa.
     text: |
-      Whether you are a developer, translator, researcher, designer, hacktivist or journalist - join us!
+      Olit sitten kehittäjä, kääntäjä, tutkija, suunnittelija, haktivisti tai toimittaja, liity joukkoomme!
     button1st:
-      title: Contribute
-      url: /contribute/
+      title: Osallistu
+      url: /osallistu/
   partners:
     class:
       - order-9
@@ -169,6 +169,6 @@ blocks:
       border-left: '1px solid #E5E5E5'
     #label: We’re stronger together
     title: |
-      Our partners & supporters
+      Yhteistyökumppanimme ja tukijamme
     text: |
-      ![Citizen OS Foundation’s supporters and partners logos.](/assets/images/frontpage-partners.png){ .mt-4 .w-100 }
+      ![Citizen OS Foundationin tukijoiden ja yhteistyökumppaneiden logot.](/assets/images/frontpage-partners.png){ .mt-4 .w-100 }
