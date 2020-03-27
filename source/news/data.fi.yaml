@@ -1,6 +1,6 @@
 ---
-path: /news
-title: News
+path: /uutiset
+title: Uutiset
 description:
 keywords:
   -
@@ -60,7 +60,7 @@ blocks:
       background-position:
       background-size:
     title: |
-      News
+      Uutiset
     text: |
       Find out what we’re up to, who’s using our platform, and our hopes for the future of participatory e-democracy.
 
