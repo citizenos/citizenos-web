@@ -1,11 +1,11 @@
 ---
-path: /research
+path: /tutkimus
 title: Tutkimus
-description: The Citizen OS platform has been created in collaboration with e-democracy researchers. We work every day to provide the best user experience.
+description: Citizen OS -alusta on luotu yhteistyössä verkkodemokratian tutkijoiden kanssa. Työskentelemme joka päivä tarjotaksemme parhaan käyttökokemuksen.
 keywords:
-  - petition site
-  - citizen assembly
-  - participation
+  - vetoomussivusto
+  - kansalaiskokous
+  - osallistuminen
 image: /assets/images/meta/research.jpg
 blocks:
   research-img:
@@ -17,7 +17,7 @@ blocks:
       background-position: 10% 50%, 90% 90%
       background-size: 350px 350px, 100px 100px
     text: |
-      ![An illustration of a lightbulb with red dots and arrows circling around it to signify gathering ideas and discussing democratically.](/assets/images/research-start.png){ .img-fluid }
+      ![Piirroskuva punaisten pallojen ja nuolten ympäröimästä hehkulampusta, joka symboloi ideoiden keräämistä ja demokraattista keskustelua.](/assets/images/research-start.png){ .img-fluid }
   research:
     class:
       - order-0
@@ -45,7 +45,7 @@ blocks:
       background-position: 100% 10%, 90% 10%
       background-size: 165px 165px, 350px 350px
     text: |
-      ![People raising their hands at the Citizen OS COSCON conference.](/assets/images/research-forward.jpg){ .img-fluid .box-shadow }
+      ![Ihmiset nostavat käsiä ilmaan Citizen OS:n COSCON-konferenssissa.](/assets/images/research-forward.jpg){ .img-fluid .box-shadow }
   forward:
     class:
       - order-3
@@ -57,8 +57,8 @@ blocks:
     text: |
       Kaikki tiedot puhdistetaan tunnistetiedoista, ja niitä käytetään osallistuvan verkkodemokratian vaikutusten ymmärtämiseen.
     button1st:
-      title: Read news
-      url: /news/
+      title: Lue uutisia
+      url: /uutiset/
   conference-img:
     class:
       - order-4
@@ -69,7 +69,7 @@ blocks:
       background-position: 90% 10%, 10% 80%, 0% 90%
       background-size: 45px 45px, 165px 165px, 350px 350px
     text: |
-      ![Three speakers on a panel at the first COSCON conference.](/assets/images/research-video.jpg){ .img-fluid .box-shadow }
+      ![Kolme puhujaa ensimmäisen COSCON-konferenssin paneelikeskustelussa.](/assets/images/research-video.jpg){ .img-fluid .box-shadow }
   conference:
     class:
       - order-5
