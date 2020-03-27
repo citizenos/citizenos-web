@@ -1,11 +1,11 @@
 ---
-path: /contribute
+path: /osallistu
 title: Osallistu
-description: Developer, translator, scientist, designer, hacktivist and journalist - please get in touch! Citizen OS welcomes volunteers who are interested in e-democracy.
+description: Kehittäjä, kääntäjä, tutkija, suunnittelija, haktivisti tai toimittaja – ota meihin yhteyttä! Citizen OS toivottaa tervetulleiksi kaikki verkkodemokratiasta kiinnostuneet vapaaehtoiset.
 keywords:
-  - civic hacktivist
-  - e-participation
-  - government technology
+  - kansalaishaktivisti
+  - verkko-osallistuminen
+  - hallintoteknologia
 image: /assets/images/meta/vision.jpg
 blocks:
   contribute-img:
