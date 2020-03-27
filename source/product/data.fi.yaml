@@ -1,11 +1,11 @@
 ---
-path: /product
+path: /tuote
 title: Tuote
-description: Free digital democracy software for co-creation, discussion and voting. Start your own citizen initiative, petition site or discussion topic today!
+description: Ilmainen verkkodemokratiaohjelmisto yhteiseen luomistyöhön, keskusteluun ja äänestämiseen. Käynnistä oma kansalaisaloitteesi, vetoomussivustosi tai keskustelunaiheesi tänään!
 keywords:
-  - citizen initiatives
-  - free petition
-  - collaborative decision-making
+  - kansalaisaloitteet
+  - ilmainen vetoomus
+  - yhteistyöhön perustuva päätöksenteko
 image: /assets/images/meta/product.jpg
 blocks:
   decision-img:
@@ -87,7 +87,7 @@ blocks:
       background-position: 100% 15%, 90% 15%
       background-size: 165px 165px, 350px 350px
     text: |
-      ![A female member of Citizen OS staff attending an event to answer questions about the platform.](/assets/images/product-features.jpg){ .img-fluid .box-shadow }
+      ![Citizen OS:n naispuolinen työntekijä osallistumassa tapahtumaan vastatakseen kysymyksiin tästä alustasta.](/assets/images/product-features.jpg){ .img-fluid .box-shadow }
   features:
     class:
       - order-4
@@ -153,7 +153,7 @@ blocks:
     class:
       - order-6
     text: |
-      ![A screenshot of the Citizen OS platform being used for participatory democracy.](/assets/images/product-case-study-2.jpg){ .img-fluid .box-shadow }
+      ![Näyttökuva siitä, kuinka Citizen OS -alustaa käytetään osallistavaan demokratiaan.](/assets/images/product-case-study-2.jpg){ .img-fluid .box-shadow }
   case-study-2:
     class:
       - order-7
@@ -171,7 +171,7 @@ blocks:
       - order-8
       - order-sm-9
     text: |
-      ![View of the audience at the Estonian Opinion Festival, who use the Citizen OS argumentation widget for their annual event. ](/assets/images/product-case-study.jpg){ .img-fluid .box-shadow }
+      ![Estonian Opinion Festival -tapahtuman yleisöä. Tämä vuosittainen tapahtuma hyödyntää Citizen OS:n argumentaatiowidgettiä. ](/assets/images/product-case-study.jpg){ .img-fluid .box-shadow }
   case-study:
     class:
       - order-9
