@@ -58,7 +58,7 @@ blocks:
       Kaikki tiedot puhdistetaan tunnistetiedoista, ja niitä käytetään osallistuvan verkkodemokratian vaikutusten ymmärtämiseen.
     button1st:
       title: Lue uutisia
-      url: /uutiset/
+      url: /fi/uutiset/
   conference-img:
     class:
       - order-4
