@@ -66,7 +66,7 @@ news:
     text: |
       crwdns24566:0crwdne24566:0
   2019-07-18:
-    url: crwdns24568:0crwdne24568:0
+    url: crwdns24612:0crwdne24612:0
     title: crwdns24570:0crwdne24570:0
     author: crwdns24572:0crwdne24572:0
     image: crwdns24574:0crwdne24574:0
@@ -74,6 +74,15 @@ news:
       - crwdns24576:0crwdne24576:0
     text: |
       crwdns24578:0crwdne24578:0
+  2019-07-04:
+    url: crwdns24614:0crwdne24614:0
+    title: crwdns24616:0crwdne24616:0
+    author: crwdns24618:0crwdne24618:0
+    image: crwdns24620:0crwdne24620:0
+    categories:
+      - crwdns24622:0crwdne24622:0
+    text: |
+      crwdns24624:0crwdne24624:0
 readMore: crwdns24070:0crwdne24070:0
 blocks:
   start-img:
