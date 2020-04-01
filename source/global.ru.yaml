@@ -7,11 +7,11 @@ navigation:
     class: product
   vision:
     title: Концепция
-    url: /ru/vision/
+    url: /ru/koncepciya/
     class: vision
   research:
     title: Исследования
-    url: /ru/research/
+    url: /ru/issledovaniya/
     class: research
   community:
     title: Сообщество
@@ -52,7 +52,7 @@ footer:
           url: /ru/organizaciya/
         careers:
           title: Вакансии
-          url: /ru/careers/
+          url: /ru/vakansii/
         contribute:
           title: Поддержать проект
           url: /ru/podderzhi-proekt/
@@ -79,7 +79,7 @@ footer:
           url: https://app.citizenos.com/en/topics/c6b6d06a-e8cf-4297-9654-8c1cf01b133b
         legal:
           title: Юридическая информация
-          url: /ru/legal/
+          url: /ru/yuridicheskaya-informaciya/
         github:
           title: GitHub
           url: https://github.com/citizenos
