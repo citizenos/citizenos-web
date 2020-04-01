@@ -10,7 +10,7 @@ image: /assets/images/meta/vision.jpg
 news:
   2020-02-27:
     url: /news/digital-signing-through-smart-id-our-open-source-gift
-    title: 'Digital Signing through Smart-ID: our open source gift'
+    title: Digital Signing through Smart-ID - our open source gift
     author: Becca Melhuish
     image: /assets/images/news/digital-signing-through-smart-id-our-open-source-gift.png
     top: true
@@ -25,19 +25,37 @@ news:
     image: /assets/images/news/where-is-participation-heading-and-how-can-each-of-us-change-it.jpeg
     top: true
     categories:
-      - Case studies
+      - E-democracy news
     text: |
-      Gertha Teidla-Kunitsõn from the Estonian Youth Work Center asked our CEO about the status of participation in society today and where is participation heading in the future. As well as some great ideas and insights, Margo Loor gave suggestions on how young people can become even more involved in decision-making.
+      Gertha Teidla-Kunitsõn from the Estonian Youth Work Center asked our CEO about the status of participation in society today and where is participation heading in the future.
   2019-11-13:
     url: /news/is-the-time-of-representative-democracy-over-estonia-without-a-parliament
-    title: 'Is the time of representative democracy over: Estonia without a parliament?'
+    title: Is the time of representative democracy over - Estonia without a parliament?
     author: Margo Loor
     image: /assets/images/news/is-the-time-of-representative-democracy-over-estonia-without-a-parliament.jpeg
     top: true
     categories:
       - E-democracy news
     text: |
-      Political events across the democratic world have created a ghost – the ghost of direct democracy. Populist movements everywhere demand that the people’s voice be heard more, mostly in the form of Swiss-style referendums. What is not understood is that a Swiss referendum and something like the Brexit referendum in the UK are as different as night and day.
+      Political events across the democratic world have created a ghost – the ghost of direct democracy. Populist movements everywhere demand that the people’s voice be heard more, mostly in the form of Swiss-style referendums.
+  2019-12-02:
+    url: /news/le-ciel-and-citizen-os-join-forces-for-the-planet
+    title: Le Ciel and Citizen OS join forces for the planet.
+    author: Becca Melhuish
+    image: /assets/images/news/le-ciel-and-citizen-os-join-forces-for-the-planet.jpeg
+    categories:
+      - Citizen OS news
+    text: |
+      "The Twelve", a new documentary revealing indigenous communities’ wisdom to inspire global collective action, is being supported by Citizen OS through the creation of an online community platform.
+  2019-11-08:
+    url: /news/gmb-indonesia-empowering-youth-leaders-for-unity-and-peace
+    title: GMB Indonesia - empowering Youth Leaders for unity and peace.
+    author: Anett Linno, edited by Becca Melhuish
+    image: /assets/images/news/gmb-indonesia-empowering-youth-leaders-for-unity-and-peace.jpeg
+    categories:
+      - Citizen OS news
+    text: |
+      Our Head of Partnerships, Anett Linno, walks us through her experiences at our partner GMB Indonesia’s Youth Adventure and Leaders Forum, in this personal blog and in-depth photo story.
 readMore: Read more
 blocks:
   start-img:
