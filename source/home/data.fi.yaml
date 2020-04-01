@@ -51,7 +51,7 @@ blocks:
       Uskomme, että osallistavan verkkodemokratian työkalujen tulisi olla ilmaisia ja kaikkien käytettävissä.
     button1st:
       title: Tietoa tuotteesta
-      url: /tuote/
+      url: /fi/tuote/
   democracy-img:
     class:
       - order-3
@@ -78,7 +78,7 @@ blocks:
       Uskomme, että kehittyäksemme sivilisaationa meidän on tehtävä maailmanlaajuista yhteistyötä ja päätettävä yhdessä niistä asioista, jotka vaikuttavat hyvinvointiimme.
     button1st:
       title: Tietoa visiosta
-      url: /visio/
+      url: /fi/visio/
     button2nd:
   #title: Use platform - it’s free!
   #url: https://app.citizenos.com
@@ -108,7 +108,7 @@ blocks:
       Teemme yhteistyötä tutkijoiden kanssa kehittääksemme tuotteitamme.
     button1st:
       title: Lisätietoa tutkimuksesta
-      url: /tutkimus/
+      url: /fi/tutkimus/
   news:
     class:
       - order-6
@@ -124,7 +124,7 @@ blocks:
       { #news-items }
     button1st:
       title: Lue kaikki uutiset
-      url: /uutiset/
+      url: /fi/uutiset/
   meet:
     class:
       - order-7
@@ -160,7 +160,7 @@ blocks:
       Olit sitten kehittäjä, kääntäjä, tutkija, suunnittelija, haktivisti tai toimittaja, liity joukkoomme!
     button1st:
       title: Osallistu
-      url: /osallistu/
+      url: /fi/osallistu/
   partners:
     class:
       - order-9
