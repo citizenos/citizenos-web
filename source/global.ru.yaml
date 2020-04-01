@@ -3,7 +3,7 @@ siteTitle: Citizen OS
 navigation:
   product:
     title: Продукт
-    url: /ru/product/
+    url: /ru/produkt/
     class: product
   vision:
     title: Концепция
@@ -19,7 +19,7 @@ navigation:
     class: community
   blog:
     title: Новости
-    url: /novosti/
+    url: /ru/novosti/
     class: news
 language: English
 languages:
@@ -49,19 +49,19 @@ footer:
       links:
         company:
           title: Компания
-          url: /ru/company/
+          url: /ru/organizaciya/
         careers:
           title: Вакансии
           url: /ru/careers/
         contribute:
           title: Поддержать проект
-          url: /ru/contribute/
+          url: /ru/podderzhi-proekt/
         team:
           title: Команда
-          url: /ru/team/
+          url: /ru/komanda/
         contact:
           title: Контакты
-          url: /ru/contact/
+          url: /ru/kontakty/
     community:
       title: Социальные Сети
       links:
