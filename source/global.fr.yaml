@@ -3,7 +3,7 @@ siteTitle: Citizen OS
 navigation:
   product:
     title: Produit
-    url: /product/
+    url: /fr/produit/
     class: product
   vision:
     title: Vision
@@ -15,7 +15,7 @@ navigation:
     class: research
   community:
     title: Communauté
-    url: /community/
+    url: /fr/communaute/
     class: community
   blog:
     title: News
@@ -49,7 +49,7 @@ footer:
       links:
         company:
           title: Société
-          url: /company/
+          url: /fr/societe/
         careers:
           title: Recrutement
           url: /careers/
@@ -79,7 +79,7 @@ footer:
           url: https://app.citizenos.com/en/topics/c6b6d06a-e8cf-4297-9654-8c1cf01b133b
         legal:
           title: Légal
-          url: /legal/
+          url: /fr/legal/
         github:
           title: GitHub
           url: https://github.com/citizenos
