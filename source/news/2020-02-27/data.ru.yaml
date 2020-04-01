@@ -1,6 +1,7 @@
 ---
 path: /news/digital-signing-through-smart-id-our-open-source-gift
-title: 'Digital Signing through Smart-ID: our open source gift'
+title:
+  Digital Signing through Smart-ID: our open source gift
 description: Here at Citizen OS, we’ve been busy writing two free, open source sets of code in JavaScript, which act as interfaces for using Estonia’s Smart-ID and Mobile-ID services. They’re yours if you want them!
 image: /assets/images/news/digital-signing-through-smart-id-our-open-source-gift.png
 author: Becca Melhuish
