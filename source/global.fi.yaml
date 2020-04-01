@@ -3,15 +3,15 @@ siteTitle: Citizen OS
 navigation:
   product:
     title: Tuote
-    url: /product/
+    url: /fi/tuote/
     class: product
   vision:
     title: Visio
-    url: /vision/
+    url: /fi/visio/
     class: vision
   research:
     title: Tutkimus
-    url: /research/
+    url: /fi/tutkimus/
     class: research
   community:
     title: Yhteisö
@@ -49,19 +49,19 @@ footer:
       links:
         company:
           title: Yritys
-          url: /company/
+          url: /fi/yritys/
         careers:
           title: Urat
-          url: /careers/
+          url: /fi/urat/
         contribute:
           title: Osallistu
-          url: /contribute/
+          url: /fi/osallistu/
         team:
           title: Tiimi
-          url: /team/
+          url: /fi/tiimi/
         contact:
           title: Yhteydenotto
-          url: /contact/
+          url: /fi/yhteydenotto/
     community:
       title: Sosiaalinen media
       links:
@@ -79,7 +79,7 @@ footer:
           url: https://app.citizenos.com/en/topics/c6b6d06a-e8cf-4297-9654-8c1cf01b133b
         legal:
           title: Lakiteknistä
-          url: /legal/
+          url: /fi/laillisuus/
         github:
           title: GitHub
           url: https://github.com/citizenos
