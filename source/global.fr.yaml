@@ -3,15 +3,15 @@ siteTitle: Citizen OS
 navigation:
   product:
     title: Produit
-    url: /fr/product/
+    url: /product/
     class: product
   vision:
     title: Vision
-    url: /fr/vision/
+    url: /vision/
     class: vision
   research:
     title: Recherche
-    url: /fr/research/
+    url: /research/
     class: research
   community:
     title: Communauté
@@ -49,19 +49,19 @@ footer:
       links:
         company:
           title: Société
-          url: /fr/company/
+          url: /company/
         careers:
           title: Recrutement
-          url: /fr/careers/
+          url: /careers/
         contribute:
           title: Contribuer
-          url: /fr/contribute/
+          url: /contribute/
         team:
           title: Équipe
-          url: /fr/team/
+          url: /team/
         contact:
           title: Contact
-          url: /fr/contact/
+          url: /contact/
     community:
       title: Réseaux sociaux
       links:
