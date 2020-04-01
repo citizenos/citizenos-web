@@ -1,14 +1,14 @@
 path: /news/digital-signing-through-smart-id-our-open-source-gift
 
 
-title: Digital Signing through Smart-ID: our open source gift
+title: Digital Signing through Smart-ID, our open source gift.
 description: Here at Citizen OS, we’ve been busy writing two free, open source sets of code in JavaScript, which act as interfaces for using Estonia’s Smart-ID and Mobile-ID services. They’re yours if you want them!
 
 image: /assets/images/news/digital-signing-through-smart-id-our-open-source-gift.png
 
 author: Becca Melhuish
 
-date: Feb 27, 2020
+date: 2020-02-27
 
 text: |
     *Here at Citizen OS, we’ve been busy writing two free, open source sets of code in JavaScript, which act as interfaces for using Estonia’s Smart-ID and Mobile-ID services. They’re yours if you want them!*
@@ -29,7 +29,7 @@ text: |
 
     So, being such enthusiastic supporters of online voting, e-democracy and participation here at Citizen OS, we decided to help. We have written two free, open source sets of code in JavaScript — the most popular programming language — which act as interfaces for using the Smart-ID and Mobile-ID services.
 
-    You can access the open source codes on GitHub here for Smart-ID and here for Mobile-ID.
+    You can access the open source codes on GitHub for [Smart-ID](https://github.com/citizenos/smart-id-rest) and for [Mobile-ID](https://github.com/citizenos/mobiil-id-rest).
 
     Any JavaScript developers wanting to use these codes will still need to have to have a contract with SK Solutions for the use of the Mobile-ID/Smart-ID services, but won’t suffer any additional development costs for the code. Both code libraries can also be used for the verification of ID card signature certificates, for users who are digitally signing with the use of their physical ID card and card reader.
 
