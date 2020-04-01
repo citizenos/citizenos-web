@@ -19,7 +19,7 @@ navigation:
     class: community
   blog:
     title: Uutiset
-    url: fi/uutiset/
+    url: /fi/uutiset/
     class: news
 language: English
 languages:
