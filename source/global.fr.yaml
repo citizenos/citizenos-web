@@ -7,11 +7,11 @@ navigation:
     class: product
   vision:
     title: Vision
-    url: /vision/
+    url: /fr/vision/
     class: vision
   research:
     title: Recherche
-    url: /research/
+    url: /fr/recherche/
     class: research
   community:
     title: Communauté
@@ -19,7 +19,7 @@ navigation:
     class: community
   blog:
     title: News
-    url: /news/
+    url: /fr/actualites/
     class: news
 language: English
 languages:
@@ -52,16 +52,16 @@ footer:
           url: /fr/societe/
         careers:
           title: Recrutement
-          url: /careers/
+          url: /fr/recrutement/
         contribute:
           title: Contribuer
-          url: /contribute/
+          url: /fr/contribuer/
         team:
           title: Équipe
-          url: /team/
+          url: /fr/equipe/
         contact:
           title: Contact
-          url: /contact/
+          url: /fr/nous-contacter/
     community:
       title: Réseaux sociaux
       links:
