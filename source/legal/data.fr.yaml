@@ -1,11 +1,11 @@
 ---
 path: /fr/legal/
 title: Légal
-description: Citizen OS Foundation provides free software and builds a network of e-democracy specialists. Our mission is to give citizens a voice in social issues.
+description: La fondation Citizen OS fournit des logiciels libres et construit un réseau de spécialistes de l'e-démocratie. Notre mission est de donner aux citoyens une voix dans les questions sociales.
 keywords:
-  - digital government
-  - social issue
-  - e-government
+  - gouvernement numérique
+  - problème social
+  - e-gouvernement
 image: /assets/images/meta/vision.jpg
 blocks:
   legal-img:
