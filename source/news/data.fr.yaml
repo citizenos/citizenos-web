@@ -1,6 +1,6 @@
 ---
 path: /fr/actualites/
-title: News
+title: Actualités
 description:
 keywords:
   -
@@ -105,7 +105,7 @@ blocks:
       background-position:
       background-size:
     title: |
-      News
+      Actualités
     text: |
       Find out what we’re up to, who’s using our platform, and our hopes for the future of participatory e-democracy.
 
