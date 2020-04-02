@@ -51,7 +51,7 @@ blocks:
       Мы считаем, что инструменты онлайн-демократии участия должны быть бесплатными для каждого.
     button1st:
       title: О продукте
-      url: /produkt/
+      url: /ru/produkt/
   democracy-img:
     class:
       - order-3
@@ -78,7 +78,7 @@ blocks:
       Мы считаем, что единственный способ продолжить развитие нашей великой цивилизации — это глобальное объединение всех и каждого для того, чтобы вместе принимать решения, имеющие влияние на наше благополучие.
     button1st:
       title: О концепции
-      url: /koncepciya/
+      url: /ru/koncepciya/
     button2nd:
   #title: Use platform - it’s free!
   #url: https://app.citizenos.com
@@ -108,7 +108,7 @@ blocks:
       Мы сотрудничаем с исследователями для непрерывного развития наших продуктов.
     button1st:
       title: Об исследованиях
-      url: /issledovaniya/
+      url: /ru/issledovaniya/
   news:
     class:
       - order-6
@@ -124,7 +124,7 @@ blocks:
       { #news-items }
     button1st:
       title: Читать все новости
-      url: /novosti/
+      url: /ru/novosti/
   meet:
     class:
       - order-7
@@ -160,7 +160,7 @@ blocks:
       Если вы разработчик, переводчик, исследователь, дизайнер, хактивист или журналист — присоединяйтесь к нам!
     button1st:
       title: Поддержать проект
-      url: /podderzhi-proekt/
+      url: /ru/podderzhi-proekt/
   partners:
     class:
       - order-9

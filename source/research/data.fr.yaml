@@ -1,10 +1,10 @@
 ---
-path: /research
+path: /recherche
 title: Recherche
-description: The Citizen OS platform has been created in collaboration with e-democracy researchers. We work every day to provide the best user experience.
+description: La plateforme Citizen OS a été créée en collaboration avec des chercheurs en e-démocratie. Nous travaillons chaque jour pour vous offrir la meilleure expérience utilisateur.
 keywords:
-  - petition site
-  - citizen assembly
+  - site de pétitions
+  - assemblée citoyenne
   - participation
 image: /assets/images/meta/research.jpg
 blocks:
@@ -17,7 +17,7 @@ blocks:
       background-position: 10% 50%, 90% 90%
       background-size: 350px 350px, 100px 100px
     text: |
-      ![An illustration of a lightbulb with red dots and arrows circling around it to signify gathering ideas and discussing democratically.](/assets/images/research-start.png){ .img-fluid }
+      ![Illustration d'une ampoule avec des points et des flèches rouges représentant la collecte d'idées et la discussion démocratique.](/assets/images/research-start.png){ .img-fluid }
   research:
     class:
       - order-0
@@ -45,7 +45,7 @@ blocks:
       background-position: 100% 10%, 90% 10%
       background-size: 165px 165px, 350px 350px
     text: |
-      ![People raising their hands at the Citizen OS COSCON conference.](/assets/images/research-forward.jpg){ .img-fluid .box-shadow }
+      ![Des personnes levant la main à la conférence COSCON de Citizen OS.](/assets/images/research-forward.jpg){ .img-fluid .box-shadow }
   forward:
     class:
       - order-3
@@ -57,7 +57,7 @@ blocks:
     text: |
       Toutes les données sont anonymisées et utilisées pour comprendre les effets de la démocratie participative en ligne.
     button1st:
-      title: Read news
+      title: Lire les actualités
       url: /news/
   conference-img:
     class:
@@ -69,7 +69,7 @@ blocks:
       background-position: 90% 10%, 10% 80%, 0% 90%
       background-size: 45px 45px, 165px 165px, 350px 350px
     text: |
-      ![Three speakers on a panel at the first COSCON conference.](/assets/images/research-video.jpg){ .img-fluid .box-shadow }
+      ![Trois intervenants à une présentation lors de la première conférence COSCON.](/assets/images/research-video.jpg){ .img-fluid .box-shadow }
   conference:
     class:
       - order-5

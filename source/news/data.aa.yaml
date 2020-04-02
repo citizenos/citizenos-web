@@ -10,7 +10,7 @@ image: crwdns24026:0crwdne24026:0
 news:
   2020-02-27:
     url: crwdns24252:0crwdne24252:0
-    title: 'crwdns24254:0crwdne24254:0'
+    title: crwdns24522:0crwdne24522:0
     author: crwdns24256:0crwdne24256:0
     image: crwdns24258:0crwdne24258:0
     top: true
@@ -25,19 +25,64 @@ news:
     image: crwdns24270:0crwdne24270:0
     top: true
     categories:
-      - crwdns24348:0crwdne24348:0
+      - crwdns24524:0crwdne24524:0
     text: |
-      crwdns24274:0crwdne24274:0
+      crwdns24526:0crwdne24526:0
   2019-11-13:
     url: crwdns24276:0crwdne24276:0
-    title: 'crwdns24278:0crwdne24278:0'
+    title: crwdns24528:0crwdne24528:0
     author: crwdns24280:0crwdne24280:0
     image: crwdns24282:0crwdne24282:0
     top: true
     categories:
       - crwdns24350:0crwdne24350:0
     text: |
-      crwdns24286:0crwdne24286:0
+      crwdns24530:0crwdne24530:0
+  2019-12-02:
+    url: crwdns24532:0crwdne24532:0
+    title: crwdns24534:0crwdne24534:0
+    author: crwdns24536:0crwdne24536:0
+    image: crwdns24538:0crwdne24538:0
+    categories:
+      - crwdns24540:0crwdne24540:0
+    text: |
+      crwdns24542:0crwdne24542:0
+  2019-11-08:
+    url: crwdns24544:0crwdne24544:0
+    title: crwdns24546:0crwdne24546:0
+    author: crwdns24548:0crwdne24548:0
+    image: crwdns24550:0crwdne24550:0
+    categories:
+      - crwdns24552:0crwdne24552:0
+    text: |
+      crwdns24554:0crwdne24554:0
+  2019-09-05:
+    url: crwdns24556:0crwdne24556:0
+    title: crwdns24558:0crwdne24558:0
+    author: crwdns24560:0crwdne24560:0
+    image: crwdns24562:0crwdne24562:0
+    categories:
+      - crwdns24564:0crwdne24564:0
+    text: |
+      crwdns24566:0crwdne24566:0
+  2019-07-18:
+    url: crwdns24630:0crwdne24630:0
+    title: crwdns24570:0crwdne24570:0
+    author: crwdns24572:0crwdne24572:0
+    image: crwdns24574:0crwdne24574:0
+    categories:
+      - crwdns24576:0crwdne24576:0
+    text: |
+      crwdns24578:0crwdne24578:0
+  2019-07-04:
+    url: crwdns24614:0crwdne24614:0
+    title: crwdns24616:0crwdne24616:0
+    author: crwdns24618:0crwdne24618:0
+    image: crwdns24620:0crwdne24620:0
+    categories:
+      - crwdns24622:0crwdne24622:0
+    text: |
+      crwdns24624:0crwdne24624:0
 readMore: crwdns24070:0crwdne24070:0
 blocks:
   start-img:

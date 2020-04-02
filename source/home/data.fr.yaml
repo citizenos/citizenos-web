@@ -1,22 +1,22 @@
 ---
 path: /
-description: Citizen OS Foundation is a not-for-profit organisation providing a free decision-making civic tech platform.
+description: La fondation Citizen OS est une organisation à but non lucratif qui fournit une plate-forme de prise de décision de technologie civique gratuite.
 keywords:
-  - free digital democracy
-  - free e-democracy
+  - démocratie numérique libre
+  - e-démocratie libre
   - technologie civique gratuite
 image: /assets/images/meta/home-alt.jpg
 data:
   news: /news/data.en.yaml
 header:
-  title: Argument-based discussions and collaborative decision-making for civic initiatives.
+  title: Des discussions basées sur des arguments et une prise de décision collaborative pour des initiatives civiques.
   0: |
 
   video:
     title: Introduction
     url: https://www.youtube.com/embed/hDLWbQQAk8g?rel=0&showinfo=0&modestbranding=1&autoplay=1&cc_load_policy=1&cc_lang_pref=en
   demo:
-    title: Demo
+    title: Démo
     url: https://www.youtube.com/embed/UC44qCCIixE?rel=0&showinfo=0&modestbranding=1&autoplay=1&cc_load_policy=1&cc_lang_pref=en
 #whatIs:
 #title: What is Citizen OS
@@ -34,7 +34,7 @@ blocks:
       background-position: 20% 80%
       background-size: 122px 122px
     text: |
-      ![The Citizen OS platform is free to use on your desktop, laptop, tablet or mobile.](/assets/images/frontpage-product.png){ .img-fluid }
+      ![La plateforme Citizen OS est gratuite sur votre ordinateur de bureau, ordinateur portable, tablette ou téléphone mobile.](/assets/images/frontpage-product.png){ .img-fluid }
   opensource:
     class:
       - order-2
@@ -46,11 +46,11 @@ blocks:
       background-size: 360px 360px
     #label: Our Product
     title: |
-      Use the open source software.
+      Utilisez le logiciel open source.
     text: |
-      We believe the tools for online participatory democracy should be free to use for everyone.
+      Nous pensons que les outils pour la démocratie participative en ligne devraient être libres d'utilisation pour tous.
     button1st:
-      title: About product
+      title: À propos du produit
       url: /product/
   democracy-img:
     class:
@@ -61,7 +61,7 @@ blocks:
       background-position: 30% 25%, 20% 75%
       background-size: 360px 360px, 100px 100px
     text: |
-      ![Citizen OS’s first COSCON conference, which brought together e-democracy researchers from around the world.](/assets/images/frontpage-start.png){ .img-fluid }
+      ![La première conférence COSCON de Citizen OS, qui a réuni des chercheurs en e-démocratie du monde entier.](/assets/images/frontpage-start.png){ .img-fluid }
   democracy:
     class:
       - order-4
@@ -73,11 +73,11 @@ blocks:
       background-position: 0 10%
       background-size: 122px 122px
     title: |
-      Raising awareness on participatory democracy.
+      Augmenter la sensibilisation à la démocratie participative.
     text: |
-      We believe the way for us to move forward as a civilization is to globally come together and decide on issues that affect our wellbeing.
+      Nous pensons que la voie à suivre en tant que civilisation est de se réunir au niveau mondial et de décider des choses qui ont un impact sur notre bien-être.
     button1st:
-      title: About vision
+      title: À propos de la vision
       url: /vision/
     button2nd:
   #title: Use platform - it’s free!
@@ -91,7 +91,7 @@ blocks:
       background-position: 85% 85%
       background-size: 75px 75px
     text: |
-      ![Man in a white shirt holds a microphone while speaking at a participatory democracy festival.](/assets/images/frontpage-lets-educate.png){ .img-fluid }
+      ![Un homme en chemise blanche tenant un microphone en parlant à un festival de démocratie participative.](/assets/images/frontpage-lets-educate.png){ .img-fluid }
   research:
     class:
       - order-5
@@ -103,11 +103,11 @@ blocks:
       background-size: 360px 360px
     #label: Let’s Educate
     title: |
-      Developing e-democracy.
+      Développer la e-démocratie.
     text: |
-      We collaborate with researchers to help develop our products.
+      Nous collaborons avec des chercheurs pour contribuer au développement de nos produits.
     button1st:
-      title: About research
+      title: À propos de la recherche
       url: /research/
   news:
     class:
@@ -119,11 +119,11 @@ blocks:
       background-position: 60% 10%
       background-size: 360px 360px
     title: |
-      Latest news
+      Dernières Actualités
     text: |
       { #news-items }
     button1st:
-      title: Read all news
+      title: Lire toutes les actualités
       url: /news/
   meet:
     class:
@@ -155,11 +155,11 @@ blocks:
       - py-5
     #label: A word from the team
     title: |
-      Help us develop Open Source products and spread participatory democracy.
+      Aidez-nous à développer des produits Open Source et à répandre la démocratie participative.
     text: |
-      Whether you are a developer, translator, researcher, designer, hacktivist or journalist - join us!
+      Que vous soyez développeur, traducteur, chercheur, designer, hacktiviste ou journaliste - rejoignez-nous !
     button1st:
-      title: Contribute
+      title: Contribuer
       url: /contribute/
   partners:
     class:
@@ -169,6 +169,6 @@ blocks:
       border-left: '1px solid #E5E5E5'
     #label: We’re stronger together
     title: |
-      Our partners & supporters
+      Nos partenaires et supporters
     text: |
-      ![Citizen OS Foundation’s supporters and partners logos.](/assets/images/frontpage-partners.png){ .mt-4 .w-100 }
+      ![Logos des supporters et partenaires de la Fondation Citizen OS. ](/assets/images/frontpage-partners.png){ .mt-4 .w-100 }

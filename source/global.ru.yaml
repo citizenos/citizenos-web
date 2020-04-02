@@ -3,15 +3,15 @@ siteTitle: Citizen OS
 navigation:
   product:
     title: Продукт
-    url: /ru/product/
+    url: /ru/produkt/
     class: product
   vision:
     title: Концепция
-    url: /ru/vision/
+    url: /ru/koncepciya/
     class: vision
   research:
     title: Исследования
-    url: /ru/research/
+    url: /ru/issledovaniya/
     class: research
   community:
     title: Сообщество
@@ -19,7 +19,7 @@ navigation:
     class: community
   blog:
     title: Новости
-    url: /novosti/
+    url: /ru/novosti/
     class: news
 language: English
 languages:
@@ -49,19 +49,19 @@ footer:
       links:
         company:
           title: Компания
-          url: /ru/company/
+          url: /ru/organizaciya/
         careers:
           title: Вакансии
-          url: /ru/careers/
+          url: /ru/vakansii/
         contribute:
           title: Поддержать проект
-          url: /ru/contribute/
+          url: /ru/podderzhi-proekt/
         team:
           title: Команда
-          url: /ru/team/
+          url: /ru/komanda/
         contact:
           title: Контакты
-          url: /ru/contact/
+          url: /ru/kontakty/
     community:
       title: Социальные Сети
       links:
@@ -79,7 +79,7 @@ footer:
           url: https://app.citizenos.com/en/topics/c6b6d06a-e8cf-4297-9654-8c1cf01b133b
         legal:
           title: Юридическая информация
-          url: /ru/legal/
+          url: /ru/yuridicheskaya-informaciya/
         github:
           title: GitHub
           url: https://github.com/citizenos

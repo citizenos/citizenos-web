@@ -1,11 +1,11 @@
 ---
-path: /contact
+path: /nous-contacter
 title: Contact
-description: Citizen OS is a not-for-profit organisation headquartered in Estonia, which has gained the trust of public and private user groups around the world.
+description: Citizen OS est une organisation sans but lucratif basée en Estonie, qui a gagné la confiance de groupes d'utilisateurs publics et privés partout dans le monde.
 keywords:
-  - e-voting
-  - engagement technology
-  - open governance
+  - vote électronique
+  - technologie d'engagement
+  - gouvernance ouverte
 image: /assets/images/meta/vision.jpg
 blocks:
   contact-img:

@@ -148,7 +148,7 @@ blocks:
         subtext: Зависит от проекта
         button:
           title: Свяжитесь с нами
-          url: /ru/contact/
+          url: /ru/kontakty/
   case-study-2-img:
     class:
       - order-6

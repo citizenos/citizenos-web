@@ -3,7 +3,7 @@ siteTitle: Citizen OS
 navigation:
   product:
     title: Produit
-    url: /fr/product/
+    url: /fr/produit/
     class: product
   vision:
     title: Vision
@@ -11,15 +11,15 @@ navigation:
     class: vision
   research:
     title: Recherche
-    url: /fr/research/
+    url: /fr/recherche/
     class: research
   community:
     title: Communauté
-    url: /community/
+    url: /fr/communaute/
     class: community
   blog:
-    title: News
-    url: /news/
+    title: Actualités
+    url: /fr/actualites/
     class: news
 language: English
 languages:
@@ -49,19 +49,19 @@ footer:
       links:
         company:
           title: Société
-          url: /fr/company/
+          url: /fr/societe/
         careers:
           title: Recrutement
-          url: /fr/careers/
+          url: /fr/recrutement/
         contribute:
           title: Contribuer
-          url: /fr/contribute/
+          url: /fr/contribuer/
         team:
           title: Équipe
-          url: /fr/team/
+          url: /fr/equipe/
         contact:
           title: Contact
-          url: /fr/contact/
+          url: /fr/nous-contacter/
     community:
       title: Réseaux sociaux
       links:

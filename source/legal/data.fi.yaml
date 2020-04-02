@@ -20,7 +20,7 @@ blocks:
     title: |
       Lakiteknistä
     text: |
-      - [Articles of Association of the Foundation Citizen OS](/fi/legal/statute/)
-      - [Terms of Use](/fi/legal/tou/)
-      - [Privacy and Cookies Policy](/fi/legal/privacy/)
-      - [Citizen OS API Terms of Use](/fi/legal/api/)
+      - [Articles of Association of the Foundation Citizen OS](/fi/laillisuus/säännöt/)
+      - [Terms of Use](/fi/laillisuus/tou/)
+      - [Privacy and Cookies Policy](/fi/laillisuus/yksityisyys/)
+      - [Citizen OS API Terms of Use](/fi/laillisuus/api/)

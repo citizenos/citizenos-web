@@ -1,11 +1,11 @@
 ---
-path: /contribute
+path: /contribuer
 title: Contribuer
-description: Developer, translator, scientist, designer, hacktivist and journalist - please get in touch! Citizen OS welcomes volunteers who are interested in e-democracy.
+description: Développeurs, traducteurs, scientifiques, concepteurs, hacktivistes et journalistes - n'hésitez pas à nous contacter ! Citizen OS accueille des bénévoles intéressés par l'e-démocratie.
 keywords:
-  - civic hacktivist
+  - hacktiviste civique
   - e-participation
-  - government technology
+  - technologie gouvernementale
 image: /assets/images/meta/vision.jpg
 blocks:
   contribute-img:
