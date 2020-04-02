@@ -1,5 +1,5 @@
 ---
-path: /fr/legal/
+path: /legal
 title: Légal
 description: La fondation Citizen OS fournit des logiciels libres et construit un réseau de spécialistes de l'e-démocratie. Notre mission est de donner aux citoyens une voix dans les questions sociales.
 keywords:
@@ -20,7 +20,7 @@ blocks:
     title: |
       Légal
     text: |
-      - [Articles of Association of the Foundation Citizen OS](/fr/legal/statute/)
+      - [Articles of Association of the Foundation Citizen OS](/fr/legal/statut/)
       - [Terms of Use](/fr/legal/tou/)
-      - [Privacy and Cookies Policy](/fr/legal/privacy/)
+      - [Privacy and Cookies Policy](/fr/legal/confidentialite/)
       - [Citizen OS API Terms of Use](/fr/legal/api/)
