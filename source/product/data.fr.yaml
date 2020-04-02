@@ -1,11 +1,11 @@
 ---
 path: /fr/produit/
 title: Produit
-description: Free digital democracy software for co-creation, discussion and voting. Start your own citizen initiative, petition site or discussion topic today!
+description: Logiciel de démocratie numérique libre pour la co-création, la discussion et le vote. Commencez votre propre initiative citoyenne, votre site de pétition ou votre sujet de discussion aujourd'hui !
 keywords:
-  - citizen initiatives
-  - free petition
-  - collaborative decision-making
+  - initiatives citoyennes
+  - pétition gratuite
+  - prise de décisions collaborative
 image: /assets/images/meta/product.jpg
 blocks:
   decision-img:
@@ -19,7 +19,7 @@ blocks:
     text: |
       [► Regarder la démo](#demo){.btn .btn-primary data-toggle=modal data-target=#demo}
     video:
-      id: demo
+      id: démo
       url: 'https://www.youtube.com/embed/UC44qCCIixE?rel=0&showinfo=0&modestbranding=1&autoplay=1&cc_load_policy=1&cc_lang_pref=en'
   decision:
     class:
@@ -87,7 +87,7 @@ blocks:
       background-position: 100% 15%, 90% 15%
       background-size: 165px 165px, 350px 350px
     text: |
-      ![A female member of Citizen OS staff attending an event to answer questions about the platform.](/assets/images/product-features.jpg){ .img-fluid .box-shadow }
+      ![Une employée de Citizen OS participant à un événement pour répondre aux questions sur la plateforme.](/assets/images/product-features.jpg){ .img-fluid .box-shadow }
   features:
     class:
       - order-4
@@ -153,7 +153,7 @@ blocks:
     class:
       - order-6
     text: |
-      ![A screenshot of the Citizen OS platform being used for participatory democracy.](/assets/images/product-case-study-2.jpg){ .img-fluid .box-shadow }
+      ![Une capture d'écran de la plateforme Citizen OS utilisée pour la démocratie participative.](/assets/images/product-case-study-2.jpg){ .img-fluid .box-shadow }
   case-study-2:
     class:
       - order-7
@@ -171,7 +171,7 @@ blocks:
       - order-8
       - order-sm-9
     text: |
-      ![View of the audience at the Estonian Opinion Festival, who use the Citizen OS argumentation widget for their annual event. ](/assets/images/product-case-study.jpg){ .img-fluid .box-shadow }
+      ![Vue du public pendant l'Opinion Festival en Estonie, qui utilise le widget d'argumentation Citizen OS pour leur événement annuel. ](/assets/images/product-case-study.jpg){ .img-fluid .box-shadow }
   case-study:
     class:
       - order-9
