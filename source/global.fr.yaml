@@ -18,7 +18,7 @@ navigation:
     url: /fr/communaute/
     class: community
   blog:
-    title: News
+    title: Actualités
     url: /fr/actualites/
     class: news
 language: English
