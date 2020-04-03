@@ -58,7 +58,7 @@ blocks:
       Toutes les données sont anonymisées et utilisées pour comprendre les effets de la démocratie participative en ligne.
     button1st:
       title: Lire les actualités
-      url: /news/
+      url: /fr/actualites/
   conference-img:
     class:
       - order-4
