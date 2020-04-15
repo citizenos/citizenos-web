@@ -25,7 +25,6 @@ news:
         title: Where is participation heading and how can each of us change it?
         author: Questions by Gertha Teidla-Kunitsõn, written answers by Margo Loor.
         image: /assets/images/news/where-is-participation-heading-and-how-can-each-of-us-change-it.jpeg
-        top: true
         categories:
             - E-democracy news
         text: |
@@ -67,6 +66,7 @@ news:
         title: AFoorum - Widening the scope of the Opinion Festival in Estonia.
         author: Becca Melhuish
         image: /assets/images/news/afoorum-widening-the-scope-of-estonias-opinion-festival.png
+        top: true
         categories:
             - Case studies
         text: |
