@@ -15,7 +15,6 @@ news:
         title: Digital Signing through Smart-ID - our open source gift
         author: Becca Melhuish
         image: /assets/images/news/digital-signing-through-smart-id-our-open-source-gift.png
-        top: true
         categories:
             - Citizen OS news
         text: |
@@ -78,6 +77,7 @@ news:
         title: The unexamined life is not worth living - On Socrates and Citizen OS.
         author: Paul Emmet
         image: /assets/images/news/the-unexamined-life-is-not-worth-living-on-socrates-and-citizen-os.jpeg
+        top: true
         categories:
             - Citizen OS news, E-democracy news
         text: |
