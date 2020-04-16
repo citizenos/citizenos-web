@@ -13,7 +13,6 @@ news:
     title: crwdns24522:0crwdne24522:0
     author: crwdns24256:0crwdne24256:0
     image: crwdns24258:0crwdne24258:0
-    top: true
     categories:
       - crwdns24346:0crwdne24346:0
     text: |
@@ -23,7 +22,6 @@ news:
     title: crwdns24266:0crwdne24266:0
     author: crwdns24268:0crwdne24268:0
     image: crwdns24270:0crwdne24270:0
-    top: true
     categories:
       - crwdns24524:0crwdne24524:0
     text: |
@@ -61,6 +59,7 @@ news:
     title: crwdns24558:0crwdne24558:0
     author: crwdns24560:0crwdne24560:0
     image: crwdns24562:0crwdne24562:0
+    top: true
     categories:
       - crwdns24564:0crwdne24564:0
     text: |
@@ -70,6 +69,7 @@ news:
     title: crwdns24570:0crwdne24570:0
     author: crwdns24572:0crwdne24572:0
     image: crwdns24574:0crwdne24574:0
+    top: true
     categories:
       - crwdns24576:0crwdne24576:0
     text: |
