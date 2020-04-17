@@ -5,7 +5,7 @@ block content
     .container-fluid
         .row
             .col-12.px-0
-                img.box-shadow.img-fluid(src='/assets/images/team/team.jpg')
+                img.box-shadow.img-fluid(src='/assets/images/team/team.jpg', alt='Team photo')
     .container
         if self.team
             .row.mt-5
@@ -13,20 +13,20 @@ block content
                     - var order = idx % 2 === 0 ? `order-${idx + 1} order-md-${idx}` : `order-${idx + 1}`
 
                     .col-12.col-md-6.mt-0.mb-5.my-md-5(class=order)
-                        img.box-shadow.img-fluid(src=person.picture)
+                        img.box-shadow.img-fluid(src=person.picture, alt=person.name)
                     .col-12.col-md-6.text-center.mt-5.my-md-5(class=`order-${idx}`)
-                        img.rounded-circle.my-4(src=person.avatar, width=110, height=110)
+                        img.rounded-circle.my-4(src=person.avatar, width=110, height=110, alt=person.name)
                         h4= person.name
                         p= person.title
                         if person.twitter
                             a.px-1(href=person.twitter, target='_blank')
-                                img(src='/assets/images/community-twitter.svg')
+                                img(src='/assets/images/community-twitter.svg', alt='Twitter icon')
                         if person.linkedin
                             a.px-1(href=person.linkedin, target='_blank')
-                                img(src='/assets/images/community-linkedin.svg')
+                                img(src='/assets/images/community-linkedin.svg', alt='Linkedin icon')
                         if person.email
                             a.px-1(href='mailto:' + person.email)
-                                img(src='/assets/images/community-email.svg')
+                                img(src='/assets/images/community-email.svg', alt='Email icon')
                         p.mt-3= person.text
 
         if self.other
@@ -34,17 +34,17 @@ block content
                 .col-12.my-5.text-center
                     h2= self.other.title
                 .col-12.col-md-6.col-lg-3.my-3.text-center
-                    img.mb-3(src='/assets/images/team/icon-advisor.svg', width=100, height=100)
+                    img.mb-3(src='/assets/images/team/icon-advisor.svg', width=100, height=100, alt='Advisor icon')
                     +markdown(self.other.advisor)
 
                 .col-12.col-md-6.col-lg-3.my-3.text-center
-                    img.mb-3(src='/assets/images/team/icon-founder.svg', width=100, height=100)
+                    img.mb-3(src='/assets/images/team/icon-founder.svg', width=100, height=100, alt='Founder icon')
                     +markdown(self.other.founder)
 
                 .col-12.col-md-6.col-lg-3.my-3.text-center
-                    img.mb-3(src='/assets/images/team/icon-design.svg', width=100, height=100)
+                    img.mb-3(src='/assets/images/team/icon-design.svg', width=100, height=100, alt='Design icon')
                     +markdown(self.other.design)
 
                 .col-12.col-md-6.col-lg-3.my-3.text-center
-                    img.mb-3(src='/assets/images/team/icon-minds.svg', width=100, height=100)
+                    img.mb-3(src='/assets/images/team/icon-minds.svg', width=100, height=100, alt='Minds icon')
                     +markdown(self.other.minds)
