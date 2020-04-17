@@ -148,7 +148,7 @@ blocks:
         subtext: Sur offre
         button:
           title: Nous contacter
-          url: /fr/contact/
+          url: /fr/nous-contacter/
   case-study-2-img:
     class:
       - order-6
