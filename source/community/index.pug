@@ -27,6 +27,6 @@ append content
                 each b in self.blocks.chat.blocks
                     .col-12.col-sm-4.text-center
                         a.d-block.mb-4(href=b.url)
-                            img.mb-2(src=b.icon)
+                            img.mb-2(src=b.icon, alt=b.alt)
                             br
                             = b.title
