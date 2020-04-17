@@ -184,7 +184,7 @@ blocks:
     title: |
       Étude de cas : généraliser la portée de la communication.
     text: |
-      [Opinion Festival](https://www.arvamusfestival.ee/fr) a intégré le widget d'argumentation de Citizen OS, permettant des discussions en ligne sur les sujets du festival au-delà des deux jours du festival physique.
+      [Opinion Festival](https://www.arvamusfestival.ee/en/) a intégré le widget d'argumentation de Citizen OS, permettant des discussions en ligne sur les sujets du festival au-delà des deux jours du festival physique.
   stats:
     class:
       - order-10
