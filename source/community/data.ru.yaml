@@ -214,11 +214,14 @@ blocks:
         icon: /assets/images/community-email.svg
         title: anett@citizenos.com
         url: mailto:anett@citizenos.com
+        alt: Email icon
       - 
         icon: /assets/images/community-skype.svg
         title: anettorg
         url: skype:anettorg
+        alt: Skype icon
       - 
         icon: /assets/images/community-phone.svg
         title: +372 5669 2076
         url: tel:+37256692076
+        alt: Phone icon
