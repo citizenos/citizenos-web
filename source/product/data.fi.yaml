@@ -184,7 +184,7 @@ blocks:
     title: |
       Tapaustutkimus: Viestinnän mahdollisuuksien laajentaminen.
     text: |
-      [Arvamusfestival](https://www.arvamusfestival.ee/en) integroi Citizen OS:n pienoissovelluksen kannanotoille, jolloin juhlien puheenaiheista voitiin käydä verkkokeskusteluja myös varsinaisten kaksipäiväisten juhlien lisäksi.
+      [Arvamusfestival](https://www.arvamusfestival.ee/en/) integroi Citizen OS:n pienoissovelluksen kannanotoille, jolloin juhlien puheenaiheista voitiin käydä verkkokeskusteluja myös varsinaisten kaksipäiväisten juhlien lisäksi.
   stats:
     class:
       - order-10
