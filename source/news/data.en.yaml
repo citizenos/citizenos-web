@@ -10,6 +10,17 @@ image: /assets/images/meta/vision.jpg
 
 
 news:
+    2020-04-20:
+        url: /news/estonias-richness-of-life-party-a-recipe-for-post-ideology-deep-democracy-politics/
+        title: Estonia’s Richness Of Life Party - a recipe for post-ideology deep-democracy politics?
+        author: Becca Melhuish
+        image:
+        top: true
+        categories:
+            - Citizen OS news, E-democracy news
+        text: |
+            A radically different approach to party politics – paving the way for a bottom-up digital eco-state led directly by the people.
+
     2020-02-27:
         url: /news/digital-signing-through-smart-id-our-open-source-gift/
         title: Digital Signing through Smart-ID - our open source gift
@@ -30,6 +41,16 @@ news:
         text: |
             Gertha Teidla-Kunitsõn from the Estonian Youth Work Center asked our CEO about the status of participation in society today and where is participation heading in the future.
 
+    2019-12-02:
+        url: /news/le-ciel-and-citizen-os-join-forces-for-the-planet/
+        title: Le Ciel and Citizen OS join forces for the planet.
+        author: Becca Melhuish
+        image: /assets/images/news/le-ciel-and-citizen-os-join-forces-for-the-planet.jpeg
+        categories:
+            - Citizen OS news
+        text: |
+            "The Twelve", a new documentary revealing indigenous communities’ wisdom to inspire global collective action, is being supported by Citizen OS through the creation of an online community platform.
+
     2019-11-13:
         url: /news/is-the-time-of-representative-democracy-over-estonia-without-a-parliament/
         title: Is the time of representative democracy over - Estonia without a parliament?
@@ -40,16 +61,6 @@ news:
             - E-democracy news
         text: |
             Political events across the democratic world have created a ghost – the ghost of direct democracy. Populist movements everywhere demand that the people’s voice be heard more, mostly in the form of Swiss-style referendums.
-
-    2019-12-02:
-        url: /news/le-ciel-and-citizen-os-join-forces-for-the-planet/
-        title: Le Ciel and Citizen OS join forces for the planet.
-        author: Becca Melhuish
-        image: /assets/images/news/le-ciel-and-citizen-os-join-forces-for-the-planet.jpeg
-        categories:
-            - Citizen OS news
-        text: |
-            "The Twelve", a new documentary revealing indigenous communities’ wisdom to inspire global collective action, is being supported by Citizen OS through the creation of an online community platform.
 
     2019-11-08:
         url: /news/gmb-indonesia-empowering-youth-leaders-for-unity-and-peace/
@@ -91,17 +102,6 @@ news:
             - Citizen OS news, E-democracy news
         text: |
             Citizen OS’s localisation lead on her childhood translation profession, coffee-addicted eagles, and a cunning plan to take over the world.
-
-    2020-04-20:
-        url: /news/estonias-richness-of-life-party-a-recipe-for-post-ideology-deep-democracy-politics/
-        title: Estonia’s Richness Of Life Party - a recipe for post-ideology deep-democracy politics?
-        author: Becca Melhuish
-        image:
-        top: true
-        categories:
-            - Citizen OS news, E-democracy news
-        text: |
-            A radically different approach to party politics – paving the way for a bottom-up digital eco-state led directly by the people.
 
 readMore: Read more
 
