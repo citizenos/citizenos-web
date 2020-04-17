@@ -36,12 +36,12 @@ text: |
     My biggest challenge, but also one of our proudest achievements, is that a large chunk of our products have been translated by volunteers — ordinary people like us, with a passion for opening up the possibilities that our platform offers to their colleagues, fellow countrymen, neighbourhood, school, etc.
 
     Translating is not an easy job, so in order to make their translating experience as smooth and easy (and the outcome as good) as possible, a lot of prep work needs to be done behind the scenes:
-    —choosing and setting up the translation environment in the most seamless and convenient way;
-    —making string keys (automatic translations) and texts self-explanatory;
-    —adding screenshots and descriptions to almost every string;
-    —making sure that any ambiguous terms are spotted and explained;
-    —ensuring translation memory offers up useful suggestions,
-    —and ensuring every volunteer question or comment gets a timely response and action from us.
+    — choosing and setting up the translation environment in the most seamless and convenient way;
+    — making string keys (automatic translations) and texts self-explanatory;
+    — adding screenshots and descriptions to almost every string;
+    — making sure that any ambiguous terms are spotted and explained;
+    — ensuring translation memory offers up useful suggestions,
+    — and ensuring every volunteer question or comment gets a timely response and action from us.
 
     As we’re fully open-source, our translation project is also wide open for anyone to join and contribute. This means it can sometimes be a challenge to keep the translation quality high — when the trolls arrive and submit nonsensical words instead of translations. We’ve recently had to apply stricter control measures in order to protect our products and users.
 

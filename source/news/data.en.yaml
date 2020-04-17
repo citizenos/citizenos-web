@@ -77,7 +77,6 @@ news:
         title: The unexamined life is not worth living - On Socrates and Citizen OS.
         author: Paul Emmet
         image: /assets/images/news/the-unexamined-life-is-not-worth-living-on-socrates-and-citizen-os.jpeg
-        top: true
         categories:
             - Citizen OS news, E-democracy news
         text: |
@@ -98,6 +97,7 @@ news:
         title: Estonia’s Richness Of Life Party - a recipe for post-ideology deep-democracy politics?
         author: Becca Melhuish
         image:
+        top: true
         categories:
             - Citizen OS news, E-democracy news
         text: |
