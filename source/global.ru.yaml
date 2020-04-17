@@ -15,7 +15,7 @@ navigation:
     class: research
   community:
     title: Сообщество
-    url: /soobshchestvo/
+    url: /ru/soobshchestvo/
     class: community
   blog:
     title: Новости
