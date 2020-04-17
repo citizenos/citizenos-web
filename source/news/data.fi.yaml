@@ -9,7 +9,7 @@ keywords:
 image: /assets/images/meta/vision.jpg
 news:
   2020-02-27:
-    url: /news/digital-signing-through-smart-id-our-open-source-gift
+    url: /news/digital-signing-through-smart-id-our-open-source-gift/
     title: Digital Signing through Smart-ID - our open source gift
     author: Becca Melhuish
     image: /assets/images/news/digital-signing-through-smart-id-our-open-source-gift.png
@@ -18,7 +18,7 @@ news:
     text: |
       Here at Citizen OS, we’ve been busy writing two free, open source sets of code in JavaScript, which act as interfaces for using Estonia’s Smart-ID and Mobile-ID services. They’re yours if you want them!
   2019-12-20:
-    url: /news/where-is-participation-heading-and-how-can-each-of-us-change-it
+    url: /news/where-is-participation-heading-and-how-can-each-of-us-change-it/
     title: Where is participation heading and how can each of us change it?
     author: Questions by Gertha Teidla-Kunitsõn, written answers by Margo Loor.
     image: /assets/images/news/where-is-participation-heading-and-how-can-each-of-us-change-it.jpeg
@@ -27,7 +27,7 @@ news:
     text: |
       Gertha Teidla-Kunitsõn from the Estonian Youth Work Center asked our CEO about the status of participation in society today and where is participation heading in the future.
   2019-11-13:
-    url: /news/is-the-time-of-representative-democracy-over-estonia-without-a-parliament
+    url: /news/is-the-time-of-representative-democracy-over-estonia-without-a-parliament/
     title: Is the time of representative democracy over - Estonia without a parliament?
     author: Margo Loor
     image: /assets/images/news/is-the-time-of-representative-democracy-over-estonia-without-a-parliament.jpeg
@@ -37,7 +37,7 @@ news:
     text: |
       Political events across the democratic world have created a ghost – the ghost of direct democracy. Populist movements everywhere demand that the people’s voice be heard more, mostly in the form of Swiss-style referendums.
   2019-12-02:
-    url: /news/le-ciel-and-citizen-os-join-forces-for-the-planet
+    url: /news/le-ciel-and-citizen-os-join-forces-for-the-planet/
     title: Le Ciel and Citizen OS join forces for the planet.
     author: Becca Melhuish
     image: /assets/images/news/le-ciel-and-citizen-os-join-forces-for-the-planet.jpeg
@@ -46,7 +46,7 @@ news:
     text: |
       "The Twelve", a new documentary revealing indigenous communities’ wisdom to inspire global collective action, is being supported by Citizen OS through the creation of an online community platform.
   2019-11-08:
-    url: /news/gmb-indonesia-empowering-youth-leaders-for-unity-and-peace
+    url: /news/gmb-indonesia-empowering-youth-leaders-for-unity-and-peace/
     title: GMB Indonesia - empowering Youth Leaders for unity and peace.
     author: Anett Linno, edited by Becca Melhuish
     image: /assets/images/news/gmb-indonesia-empowering-youth-leaders-for-unity-and-peace.jpeg
@@ -55,7 +55,7 @@ news:
     text: |
       Our Head of Partnerships, Anett Linno, walks us through her experiences at our partner GMB Indonesia’s Youth Adventure and Leaders Forum, in this personal blog and in-depth photo story.
   2019-09-05:
-    url: /news/afoorum-widening-the-scope-of-estonias-opinion-festival
+    url: /news/afoorum-widening-the-scope-of-estonias-opinion-festival/
     title: AFoorum - Widening the scope of the Opinion Festival in Estonia.
     author: Becca Melhuish
     image: /assets/images/news/afoorum-widening-the-scope-of-estonias-opinion-festival.png
@@ -65,7 +65,7 @@ news:
     text: |
       This annual democracy festival’s mission to improve debate culture and enhance civic education is supported by Citizen OS’s open source platform for the second year running.
   2019-07-18:
-    url: /news/the-unexamined-life-is-not-worth-living-on-socrates-and-citizen-os
+    url: /news/the-unexamined-life-is-not-worth-living-on-socrates-and-citizen-os/
     title: The unexamined life is not worth living - On Socrates and Citizen OS.
     author: Paul Emmet
     image: /assets/images/news/the-unexamined-life-is-not-worth-living-on-socrates-and-citizen-os.jpeg
@@ -75,7 +75,7 @@ news:
     text: |
       Socratic discourses are no longer the privilege of the scholars and the intellectuals — now concerned citizens can propose, discuss, and learn from others, with the Citizen OS e-democracy platform.
   2019-07-04:
-    url: /news/meet-the-team-localisation-lead-oksana-naidjonova
+    url: /news/meet-the-team-localisation-lead-oksana-naidjonova/
     title: Meet The Team - Localisation lead Oksana Naidjonova
     author: Oksana Naidjonova answered, Becca Melhuish asked
     image: /assets/images/news/meet-the-team-localisation-lead-oksana-naidjonova.jpg
