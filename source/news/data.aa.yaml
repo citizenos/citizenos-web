@@ -69,7 +69,6 @@ news:
     title: crwdns24570:0crwdne24570:0
     author: crwdns24572:0crwdne24572:0
     image: crwdns24574:0crwdne24574:0
-    top: true
     categories:
       - crwdns24576:0crwdne24576:0
     text: |
@@ -83,6 +82,16 @@ news:
       - crwdns24622:0crwdne24622:0
     text: |
       crwdns24624:0crwdne24624:0
+  2020-04-20:
+    url: crwdns24674:0crwdne24674:0
+    title: crwdns24676:0crwdne24676:0
+    author: crwdns24678:0crwdne24678:0
+    image: crwdns24680:0crwdne24680:0
+    top: true
+    categories:
+      - crwdns24682:0crwdne24682:0
+    text: |
+      crwdns24684:0crwdne24684:0
 readMore: crwdns24070:0crwdne24070:0
 blocks:
   start-img:
