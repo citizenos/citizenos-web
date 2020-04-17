@@ -148,7 +148,7 @@ blocks:
         subtext: Tarjouspohjainen
         button:
           title: Ota yhteyttä
-          url: /fi/contact/
+          url: /fi/yhteydenotto/
   case-study-2-img:
     class:
       - order-6
