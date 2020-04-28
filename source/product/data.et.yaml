@@ -16,11 +16,11 @@ blocks:
       background-image: url(/assets/images/product-start.png), url(/assets/images/bubble-dots.png), url(/assets/images/bubble-orange.svg)
       background-position: center center, 0% 20%, 70% 10%
       background-size: 500px 500px, 350px 350px, 100px 100px
-    text: |
-      [► Platvormi demo](#demo){.btn .btn-primary data-toggle=modal data-target=#demo}
-    video:
-      id: demo
-      url: 'https://www.youtube.com/embed/UC44qCCIixE?rel=0&showinfo=0&modestbranding=1&autoplay=1&cc_load_policy=1&cc_lang_pref=en'
+  #text: |
+  #[► Play demo](#demo){.btn .btn-primary data-toggle=modal data-target=#demo}
+  #video:
+  #id: demo
+  #url: 'https://www.youtube.com/embed/UC44qCCIixE?rel=0&showinfo=0&modestbranding=1&autoplay=1&cc_load_policy=1&cc_lang_pref=en'
   decision:
     class:
       - order-0
@@ -41,8 +41,10 @@ blocks:
       - [Case studies](#case-study-2)
       { .arrow }
     button1st:
-      title: Telli uudised
-      url: '#subscribe'
+      title: Play demo
+      url: 'https://www.youtube.com/embed/UC44qCCIixE?rel=0&showinfo=0&modestbranding=1&autoplay=1&cc_load_policy=1&cc_lang_pref=en'
+  #title: Sign up for news
+  #url: '#subscribe'
   flexibleformat:
     class:
       - order-2
