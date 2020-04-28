@@ -8,12 +8,21 @@ keywords:
   -
 image: /assets/images/meta/vision.jpg
 news:
+  2020-04-28:
+    url: /news//news/team-decisions-in-the-time-of-corona/
+    title: Team Decisions in the Time of Corona.
+    author: Becca Melhuish
+    image: /assets/images/news/team-decisions-in-the-time-of-corona.png
+    top: true
+    categories:
+      - Citizen OS news, E-democracy news
+    text: |
+      Still haven’t found the perfect tool for remote group decision-making? Our free co-decision platform which might be just what you’re looking for.
   2020-04-20:
     url: /et/uudised/elurikkuse-erakond-postideoloogilise-syvademokraatliku-poliitika-retsept
     title: Estonia’s Richness Of Life Party - a recipe for post-ideology deep-democracy politics?
     author: Becca Melhuish
     image: /assets/images/news/estonias-richness-of-life-party-a-recipe-for-post-ideology-deep-democracy-politics.png
-    top: true
     categories:
       - Citizen OS news, E-democracy news
     text: |
