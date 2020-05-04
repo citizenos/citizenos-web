@@ -11,6 +11,17 @@ image: /assets/images/meta/vision.jpg
 
 news:
 
+    2020-05-05:
+        url: /news/my-mistake-my-best-lesson/
+        title: My Mistake - My Best Lesson.
+        author: Agustina Iskandar
+        image: /assets/images/news/my-mistake-my-best-lesson.png
+        top: true
+        categories:
+            - Case studies
+        text: |
+            Agustina Iskandar, leader of civic movement Let’s Do It Indonesia, recounts a candid and heartfelt story of a leadership mistake, and how she regained trust with the help of the Citizen OS platform.
+
     2020-04-28:
         url: /news/team-decisions-in-the-time-of-corona/
         title: Team Decisions in the Time of Corona.
@@ -88,7 +99,6 @@ news:
         title: AFoorum - Widening the scope of the Opinion Festival in Estonia.
         author: Becca Melhuish
         image: /assets/images/news/afoorum-widening-the-scope-of-estonias-opinion-festival.png
-        top: true
         categories:
             - Case studies
         text: |
