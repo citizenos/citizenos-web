@@ -1,6 +1,6 @@
 ---
 path: /uudised
-title: Uudised
+title: News
 description:
 keywords:
   -
@@ -8,16 +8,35 @@ keywords:
   -
 image: /assets/images/meta/vision.jpg
 news:
-  2020-04-20:
-    url: /et/uudised/elurikkuse-erakond-postideoloogilise-syvademokraatliku-poliitika-retsept
-    title: Estonia’s Richness Of Life Party - a recipe for post-ideology deep-democracy politics?
+  2020-05-05:
+    url: /news/my-mistake-my-best-lesson/
+    title: My Mistake - My Best Lesson.
+    author: Agustina Iskandar
+    image: /assets/images/news/my-mistake-my-best-lesson.png
+    top: true
+    categories:
+      - Case studies
+    text: |
+      Agustina Iskandar, leader of civic movement Let’s Do It Indonesia, recounts a candid and heartfelt story of a leadership mistake, and how she regained trust with the help of the Citizen OS platform.
+  2020-04-28:
+    url: /news/team-decisions-in-the-time-of-corona/
+    title: Team Decisions in the Time of Corona.
     author: Becca Melhuish
-    image: /assets/images/news/estonias-richness-of-life-party-a-recipe-for-post-ideology-deep-democracy-politics.png
+    image: /assets/images/news/team-decisions-in-the-time-of-corona.png
     top: true
     categories:
       - Citizen OS news, E-democracy news
     text: |
-      A radically different approach to party politics – paving the way for a bottom-up digital eco-state led directly by the people.
+      Still haven’t found the perfect tool for remote group decision-making? Our free co-decision platform which might be just what you’re looking for.
+  2020-04-20:
+    url: /et/uudised/elurikkuse-erakond-postideoloogilise-syvademokraatliku-poliitika-retsept
+    title: Elurikkuse Erakond - postideoloogilise süvademokraatliku poliitika retsept?
+    author: Becca Melhuish
+    image: /assets/images/news/estonias-richness-of-life-party-a-recipe-for-post-ideology-deep-democracy-politics.png
+    categories:
+      - Citizen OS news, E-democracy news
+    text: |
+      Radikaalselt teistsugune lähenemine erakonnapoliitikale sillutab teed rahva poolt otse juhitavale, alt üles toimivale nutikale maheriigile.
   2020-02-27:
     url: /news/digital-signing-through-smart-id-our-open-source-gift/
     title: Digital Signing through Smart-ID - our open source gift
@@ -69,7 +88,6 @@ news:
     title: AFoorum - Widening the scope of the Opinion Festival in Estonia.
     author: Becca Melhuish
     image: /assets/images/news/afoorum-widening-the-scope-of-estonias-opinion-festival.png
-    top: true
     categories:
       - Case studies
     text: |

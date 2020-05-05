@@ -16,11 +16,11 @@ blocks:
       background-image: url(/assets/images/product-start.png), url(/assets/images/bubble-dots.png), url(/assets/images/bubble-orange.svg)
       background-position: center center, 0% 20%, 70% 10%
       background-size: 500px 500px, 350px 350px, 100px 100px
-    text: |
-      [► Platvormi demo](#demo){.btn .btn-primary data-toggle=modal data-target=#demo}
-    video:
-      id: demo
-      url: 'https://www.youtube.com/embed/UC44qCCIixE?rel=0&showinfo=0&modestbranding=1&autoplay=1&cc_load_policy=1&cc_lang_pref=en'
+  #text: |
+  #[► Play demo](#demo){.btn .btn-primary data-toggle=modal data-target=#demo}
+  #video:
+  #id: demo
+  #url: 'https://www.youtube.com/embed/UC44qCCIixE?rel=0&showinfo=0&modestbranding=1&autoplay=1&cc_load_policy=1&cc_lang_pref=en'
   decision:
     class:
       - order-0
@@ -41,8 +41,10 @@ blocks:
       - [Case studies](#case-study-2)
       { .arrow }
     button1st:
-      title: Telli uudised
-      url: '#subscribe'
+      title: Esita demo
+      url: 'https://www.youtube.com/embed/UC44qCCIixE?rel=0&showinfo=0&modestbranding=1&autoplay=1&cc_load_policy=1&cc_lang_pref=en'
+  #title: Sign up for news
+  #url: '#subscribe'
   flexibleformat:
     class:
       - order-2
@@ -87,7 +89,7 @@ blocks:
       background-position: 100% 15%, 90% 15%
       background-size: 165px 165px, 350px 350px
     text: |
-      ![A female member of Citizen OS staff attending an event to answer questions about the platform.](/assets/images/product-features.jpg){ .img-fluid .box-shadow }
+      ![Citizen OS-i personali naisliige avalikul üritusel platvormi kohta esitatud küsimustele vastamas.](/assets/images/product-features.jpg){ .img-fluid .box-shadow }
   features:
     class:
       - order-4
@@ -153,7 +155,7 @@ blocks:
     class:
       - order-6
     text: |
-      ![A screenshot of the Citizen OS platform being used for participatory democracy.](/assets/images/product-case-study-2.jpg){ .img-fluid .box-shadow }
+      ![Osalusdemokraatia teostamiseks kasutatava Citizen OS-i platvormi kuvatõmmis.](/assets/images/product-case-study-2.jpg){ .img-fluid .box-shadow }
   case-study-2:
     class:
       - order-7
@@ -171,7 +173,7 @@ blocks:
       - order-8
       - order-sm-9
     text: |
-      ![View of the audience at the Estonian Opinion Festival, who use the Citizen OS argumentation widget for their annual event. ](/assets/images/product-case-study.jpg){ .img-fluid .box-shadow }
+      ![Foto iga-aastasel Eesti arvamusfestivalil Citizen OS-i argumenteerimisvidinat kasutavast publikust. ](/assets/images/product-case-study.jpg){ .img-fluid .box-shadow }
   case-study:
     class:
       - order-9
