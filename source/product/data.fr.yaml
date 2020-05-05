@@ -41,8 +41,8 @@ blocks:
       - [Études de cas](#case-study-2)
       { .arrow }
     button1st:
-      title: Play demo
-      url: 'https://www.youtube.com/embed/UC44qCCIixE?rel=0&showinfo=0&modestbranding=1&autoplay=1&cc_load_policy=1&cc_lang_pref=en'
+      title: Regarder la démo
+      url: 'https://www.youtube.com/embed/UC44qCCIixE?rel=0&showinfo=0&modestbranding=1&autoplay=1&cc_load_policy=1&cc_lang_pref=fr'
   #title: Sign up for news
   #url: '#subscribe'
   flexibleformat:

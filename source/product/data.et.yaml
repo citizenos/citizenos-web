@@ -42,7 +42,7 @@ blocks:
       { .arrow }
     button1st:
       title: Esita demo
-      url: 'https://www.youtube.com/embed/UC44qCCIixE?rel=0&showinfo=0&modestbranding=1&autoplay=1&cc_load_policy=1&cc_lang_pref=en'
+      url: 'https://www.youtube.com/embed/UC44qCCIixE?rel=0&showinfo=0&modestbranding=1&autoplay=1&cc_load_policy=1&cc_lang_pref=et'
   #title: Sign up for news
   #url: '#subscribe'
   flexibleformat:
