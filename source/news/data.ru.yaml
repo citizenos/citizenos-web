@@ -8,12 +8,21 @@ keywords:
   -
 image: /assets/images/meta/vision.jpg
 news:
+  2020-05-14:
+    url: /news/the-civic-hactivist-community-who-and-why
+    title: The Civic Hactivist Community — Who and Why?
+    author: Becca Melhuish
+    image: /assets/images/news/the-civic-hactivist-community-who-and-why.jpg
+    top: true
+    categories:
+      - Citizen OS news, E-democracy news
+    text: |
+      Who’s at the helm of the Civic Hactivist Community, and what’s it for? Members of the community’s founding organisations share their hopes for the future of this new participatory e-democracy network.
   2020-05-05:
     url: /news/my-mistake-my-best-lesson/
     title: My Mistake - My Best Lesson.
     author: Agustina Iskandar
     image: /assets/images/news/my-mistake-my-best-lesson.png
-    top: true
     categories:
       - Case studies
     text: |
