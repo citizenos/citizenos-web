@@ -1,16 +1,27 @@
 footer.container-fluid
-    .row.py-5
-        .col-12.col-sm-5.offset-sm-1
-            .row
-                each nav in self.footer.navigation
-                    .col-12.col-sm-4
-                        h2= nav.title
-                        if nav.links
-                            each l in nav.links
-                                p
-                                    a(href=l.url)= l.title
+    .container
+        .row.py-5
+            .col-12.col-sm-5.mt-5.mt-sm-0
+                a.d-block.pb-2(href=self.rootUrl)
+                    img(src='/assets/images/citizenos-logo.png', height=37, width=201, alt='Citizen OS logo')
+                p= self.footer.text
+            .col-12.col-sm-1
+                h2= self.footer.navigation.about.title
+                if self.footer.navigation.about.links
+                    each l in self.footer.navigation.about.links
+                        p
+                            a(href=l.url)= l.title
 
-        .col-12.col-sm-5.col-md-4.offset-sm-0.offset-md-1.mt-5.mt-sm-0.text-sm-right
-            a.d-block.pb-2(href=self.rootUrl)
-                img(src='/assets/images/citizenos-logo.png', height=37, width=201, alt='Citizen OS logo')
-            p= self.footer.text
+            .col-12.col-sm-1.offset-sm-1
+                h2= self.footer.navigation.support.title
+                if self.footer.navigation.support.links
+                    each l in self.footer.navigation.support.links
+                        p
+                            a(href=l.url)= l.title
+
+            .col-12.col-sm-3.offset-sm-1
+                h2= self.footer.navigation.community.title
+                if self.footer.navigation.community.links
+                    each l in self.footer.navigation.community.links
+                        a.d-inline-block.mr-2.mb-2(href=l.url)
+                            img(src=l.icon, alt=l.title + ' icon')
