@@ -11,12 +11,22 @@ image: /assets/images/meta/vision.jpg
 
 news:
 
+    2020-05-25:
+        url: /news/challenges-in-the-field-of-participatory-e-democracy/
+        title: Challenges in the Field of Participatory e-Democracy.
+        author: Becca Melhuish
+        image: /assets/images/news/challenges-in-the-field-of-participatory-e-democracy.jpg
+        top: true
+        categories:
+            - Citizen OS news, E-democracy news
+        text: |
+            Founding members of the new global Civic Hacktivist Community share their thoughts on the challenges facing the emerging field of participatory e-democracy, and their vision for its future.
+
     2020-05-14:
         url: /news/the-civic-hacktivist-community-who-and-why/
         title: The Civic Hacktivist Community — Who and Why?
         author: Becca Melhuish
         image: /assets/images/news/the-civic-hacktivist-community-who-and-why.jpg
-        top: true
         categories:
             - Citizen OS news, E-democracy news
         text: |
