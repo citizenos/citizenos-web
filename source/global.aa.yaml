@@ -63,14 +63,28 @@ footer:
           title: crwdns18110:0crwdne18110:0
           url: crwdns18112:0crwdne18112:0
     community:
-      title: crwdns20104:0crwdne20104:0
+      title: crwdns25250:0crwdne25250:0
       links:
         twitter:
           title: crwdns18120:0crwdne18120:0
+          icon: crwdns25252:0crwdne25252:0
           url: crwdns18122:0crwdne18122:0
+        linkedin:
+          title: crwdns25274:0crwdne25274:0
+          icon: crwdns25256:0crwdne25256:0
+          url: crwdns25258:0crwdne25258:0
         facebook:
           title: crwdns18124:0crwdne18124:0
+          icon: crwdns25260:0crwdne25260:0
           url: crwdns18126:0crwdne18126:0
+        instagram:
+          title: crwdns25262:0crwdne25262:0
+          icon: crwdns25264:0crwdne25264:0
+          url: crwdns25266:0crwdne25266:0
+        youtube:
+          title: crwdns25268:0crwdne25268:0
+          icon: crwdns25270:0crwdne25270:0
+          url: crwdns25272:0crwdne25272:0
     support:
       title: crwdns18128:0crwdne18128:0
       links:

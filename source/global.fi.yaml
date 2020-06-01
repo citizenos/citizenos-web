@@ -63,14 +63,28 @@ footer:
           title: Yhteydenotto
           url: /fi/yhteydenotto/
     community:
-      title: Sosiaalinen media
+      title: Follow us
       links:
         twitter:
           title: Twitter
+          icon: /assets/images/community-twitter.svg
           url: https://twitter.com/Citizen_OS
+        linkedin:
+          title: LinkedIn
+          icon: /assets/images/community-linkedin.svg
+          url: https://www.linkedin.com/company/citizenos/
         facebook:
           title: Facebook
+          icon: /assets/images/community-facebook.svg
           url: https://www.facebook.com/citizenos.web
+        instagram:
+          title: Instagram
+          icon: /assets/images/community-instagram.svg
+          url: https://www.instagram.com/citizen_os_foundation/
+        youtube:
+          title: YouTube
+          icon: /assets/images/community-youtube.svg
+          url: https://www.youtube.com/channel/UCahwJw-DTZ24yC1HiDCofhQ
     support:
       title: Tuki
       links:
