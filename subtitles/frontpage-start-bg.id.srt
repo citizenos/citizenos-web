@@ -1,54 +1,54 @@
 1
 00:00:01,880 --> 00:00:04,640
-The way that the system currently functions
+Cara sistem bekerja saat ini
 
 2
 00:00:04,640 --> 00:00:07,280
-is built on traditions and the way that things have
+dibangun menurut tradisi dan memang
 
 3
 00:00:07,280 --> 00:00:08,140
-always been.
+selalu demikian.
 
 4
 00:00:08,140 --> 00:00:12,300
-It's an online collaborative decision-making tool,
+Ini adalah alat pengambilan keputusan kolaboratif secara online,
 
 5
 00:00:12,300 --> 00:00:14,660
-which basically means that if you have
+yang pada dasarnya berarti jika ada
 
 6
 00:00:14,660 --> 00:00:18,820
-many people that want to discuss, propose arguments,
+banyak orang yang ingin berdiskusi, mengajukan argumen,
 
 7
 00:00:18,820 --> 00:00:22,660
-decide, vote on things together -
+memutuskan, menggunakan hak pilih bersama-sama -
 
 8
 00:00:22,660 --> 00:00:27,060
-they no longer have to meet in the same physical space.
+mereka tidak lagi perlu bertemu di ruang fisik yang sama.
 
 9
 00:00:28,380 --> 00:00:30,300
-Often that would be impossible
+Sering kali itu tidak memungkinkan
 
 10
 00:00:30,300 --> 00:00:32,200
-because there's too many of them or
+karena ada banyak jumlahnya atau
 
 11
 00:00:32,200 --> 00:00:34,880
-they are too geographically spread out.
+secara geografis mereka tersebar.
 
 12
 00:00:35,820 --> 00:00:38,560
-We have been using Citizen OS
+Kami telah menggunakan Citizen OS
 
 13
 00:00:38,580 --> 00:00:42,360
-for a simple organizational task, that
+untuk tugas organisasi sederhana, ketika
 
 14
 00:00:42,360 --> 00:00:45,800
