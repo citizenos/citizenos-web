@@ -3,23 +3,23 @@ siteTitle: Citizen OS
 navigation:
   product:
     title: Produk
-    url: /produk/
+    url: /id/produk/
     class: product
   vision:
     title: Visi
-    url: /visi/
+    url: /id/visi/
     class: vision
   research:
     title: Riset
-    url: /riset/
+    url: /id/riset/
     class: research
   community:
     title: Masyarakat
-    url: /masyarakat/
+    url: /id/masyarakat/
     class: community
   blog:
     title: Berita
-    url: /berita/
+    url: /id/berita/
     class: news
 language: English
 languages:
@@ -49,19 +49,19 @@ footer:
       links:
         company:
           title: Perusahaan
-          url: /perusahaan/
+          url: /id/perusahaan/
         careers:
           title: Karier
-          url: /karier/
+          url: /id/karier/
         contribute:
           title: Kontribusi
-          url: /kontribusi/
+          url: /id/kontribusi/
         team:
           title: Tim
-          url: /tim/
+          url: /id/tim/
         contact:
           title: Kontak
-          url: /kontak/
+          url: /id/kontak/
     community:
       title: Ikuti kami
       links:
@@ -93,7 +93,7 @@ footer:
           url: https://app.citizenos.com/en/topics/c6b6d06a-e8cf-4297-9654-8c1cf01b133b
         legal:
           title: Legal
-          url: /legal/
+          url: /id/legal/
         github:
           title: GitHub
           url: https://github.com/citizenos
