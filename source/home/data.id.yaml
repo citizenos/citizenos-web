@@ -51,7 +51,7 @@ blocks:
       Kami percaya alat untuk demokrasi partisipatoris online harus gratis digunakan untuk semua orang.
     button1st:
       title: Tentang produk
-      url: /produk/
+      url: /id/produk/
   democracy-img:
     class:
       - order-3
@@ -78,7 +78,7 @@ blocks:
       Kami percaya agar kita dapat melangkah ke depan sebagai peradaban adalah dengan secara global bekerja sama dan memutuskan isu-isu yang memengaruhi kesejahteraan kita.
     button1st:
       title: Tentang visi
-      url: /visi/
+      url: /id/visi/
     button2nd:
   #title: Use platform - it’s free!
   #url: https://app.citizenos.com
@@ -108,7 +108,7 @@ blocks:
       Kami berkolaborasi dengan peneliti untuk membantu mengembangkan produk kami.
     button1st:
       title: Tentang riset
-      url: /riset/
+      url: /id/riset/
   news:
     class:
       - order-6
@@ -124,7 +124,7 @@ blocks:
       { #news-items }
     button1st:
       title: Baca semua berita
-      url: /berita/
+      url: /id/berita/
   meet:
     class:
       - order-7
@@ -160,7 +160,7 @@ blocks:
       Baik Anda pengembang, penerjemah, peneliti, desainer, hacktivist, atau jurnalis - bergabunglah dengan kami!
     button1st:
       title: Kontribusi
-      url: /kontribusi/
+      url: /id/kontribusi/
   partners:
     class:
       - order-9
