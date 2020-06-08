@@ -28,7 +28,8 @@ news:
         image: /assets/images/news/challenges-in-the-field-of-participatory-e-democracy.jpg
         top: true
         categories:
-            - Citizen OS news, E-democracy news
+            - Citizen OS news
+            - E-democracy news
         text: |
             Founding members of the new global Civic Hacktivist Community share their thoughts on the challenges facing the emerging field of participatory e-democracy, and their vision for its future.
 
@@ -38,7 +39,8 @@ news:
         author: Becca Melhuish
         image: /assets/images/news/the-civic-hacktivist-community-who-and-why.jpg
         categories:
-            - Citizen OS news, E-democracy news
+            - Citizen OS news
+            - E-democracy news
         text: |
             Who’s at the helm of the Civic Hacktivist Community, and what’s it for? Members of the community’s founding organisations share their hopes for the future of this new participatory e-democracy network.
 
@@ -59,7 +61,8 @@ news:
         image: /assets/images/news/team-decisions-in-the-time-of-corona.png
         top: true
         categories:
-            - Citizen OS news, E-democracy news
+            - Citizen OS news
+            - E-democracy news
         text: |
             Still haven’t found the perfect tool for remote group decision-making? Our free co-decision platform might be just what you’re looking for.
 
@@ -69,7 +72,8 @@ news:
         author: Becca Melhuish
         image: /assets/images/news/estonias-richness-of-life-party-a-recipe-for-post-ideology-deep-democracy-politics.png
         categories:
-            - Citizen OS news, E-democracy news
+            - Citizen OS news
+            - E-democracy news
         text: |
             A radically different approach to party politics – paving the way for a bottom-up digital eco-state led directly by the people.
 
@@ -140,7 +144,8 @@ news:
         author: Paul Emmet
         image: /assets/images/news/the-unexamined-life-is-not-worth-living-on-socrates-and-citizen-os.jpeg
         categories:
-            - Citizen OS news, E-democracy news
+            - Citizen OS news
+            - E-democracy news
         text: |
             Socratic discourses are no longer the privilege of the scholars and the intellectuals — now concerned citizens can propose, discuss, and learn from others, with the Citizen OS e-democracy platform.
 
@@ -150,11 +155,14 @@ news:
         author: Oksana Naidjonova answered, Becca Melhuish asked
         image: /assets/images/news/meet-the-team-localisation-lead-oksana-naidjonova.jpg
         categories:
-            - Citizen OS news, E-democracy news
+            - Citizen OS news
+            - E-democracy news
         text: |
             Citizen OS’s localisation lead on her childhood translation profession, coffee-addicted eagles, and a cunning plan to take over the world.
 
 readMore: Read more
+
+allNews: All news
 
 
 blocks:
