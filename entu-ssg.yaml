@@ -4,6 +4,7 @@ locales:
     - fi
     - fr
     - ru
+    - id
     - aa # Crowdin In-context pseudo language
 defaultLocale: en
 
