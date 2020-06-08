@@ -24,7 +24,8 @@ news:
     image: crwdns25282:0crwdne25282:0
     top: true
     categories:
-      - crwdns25284:0crwdne25284:0
+      - crwdns25306:0crwdne25306:0
+      - crwdns25308:0crwdne25308:0
     text: |
       crwdns25286:0crwdne25286:0
   2020-05-14:
@@ -33,7 +34,8 @@ news:
     author: crwdns25224:0crwdne25224:0
     image: crwdns25238:0crwdne25238:0
     categories:
-      - crwdns25228:0crwdne25228:0
+      - crwdns25310:0crwdne25310:0
+      - crwdns25312:0crwdne25312:0
     text: |
       crwdns25244:0crwdne25244:0
   2020-05-05:
@@ -52,7 +54,8 @@ news:
     image: crwdns25110:0crwdne25110:0
     top: true
     categories:
-      - crwdns25112:0crwdne25112:0
+      - crwdns25314:0crwdne25314:0
+      - crwdns25316:0crwdne25316:0
     text: |
       crwdns25204:0crwdne25204:0
   2020-04-20:
@@ -61,7 +64,8 @@ news:
     author: crwdns24678:0crwdne24678:0
     image: crwdns24722:0crwdne24722:0
     categories:
-      - crwdns24682:0crwdne24682:0
+      - crwdns25318:0crwdne25318:0
+      - crwdns25320:0crwdne25320:0
     text: |
       crwdns24684:0crwdne24684:0
   2020-02-27:
@@ -125,7 +129,8 @@ news:
     author: crwdns24572:0crwdne24572:0
     image: crwdns24574:0crwdne24574:0
     categories:
-      - crwdns24576:0crwdne24576:0
+      - crwdns25322:0crwdne25322:0
+      - crwdns25324:0crwdne25324:0
     text: |
       crwdns24578:0crwdne24578:0
   2019-07-04:
@@ -134,10 +139,12 @@ news:
     author: crwdns24618:0crwdne24618:0
     image: crwdns24620:0crwdne24620:0
     categories:
-      - crwdns24622:0crwdne24622:0
+      - crwdns25326:0crwdne25326:0
+      - crwdns25328:0crwdne25328:0
     text: |
       crwdns24624:0crwdne24624:0
 readMore: crwdns24070:0crwdne24070:0
+allNews: crwdns25330:0crwdne25330:0
 blocks:
   start-img:
     class:
