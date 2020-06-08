@@ -1,5 +1,5 @@
 ---
-path: /news
+path: /berita
 title: News
 description:
 keywords:
@@ -8,6 +8,15 @@ keywords:
   -
 image: /assets/images/meta/vision.jpg
 news:
+  2020-06-08:
+    url: /news/come-and-participate-in-a-new-participation-service-pilot-project/
+    title: Come and participate in a new participation-service pilot project!
+    author: Anett Linno, Liina Guiter
+    image: /assets/images/news/come-and-participate-in-a-new-participation-service-pilot-project.jpg
+    categories:
+      - Citizen OS news
+    text: |
+      Citizen OS Foundation is developing a participation service to help successfully carry out initiatives in society.
   2020-05-25:
     url: /news/challenges-in-the-field-of-participatory-e-democracy/
     title: Challenges in the Field of Participatory e-Democracy.
@@ -150,7 +159,7 @@ blocks:
       background-position:
       background-size:
     title: |
-      News
+      Berita
     text: |
       Find out what we’re up to, who’s using our platform, and our hopes for the future of participatory e-democracy.
 

@@ -1,19 +1,19 @@
 ---
 path: /
-description: Citizen OS Foundation is a not-for-profit organisation providing a free decision-making civic tech platform.
+description: Citizen OS Foundation adalah organisasi bukan-untuk-laba yang menyediakan platform teknologi sipil pengambilan keputusan secara gratis.
 keywords:
-  - free digital democracy
-  - free e-democracy
-  - free civic technology
+  - demokrasi digital gratis
+  - e-democracy gratis
+  - teknologi sipil gratis
 image: /assets/images/meta/home-alt.jpg
 data:
   news: /news/data.en.yaml
 header:
-  title: Argument-based discussions and collaborative decision-making for civic initiatives.
+  title: Diskusi berbasis argumen dan pengambilan keputusan kolaboratif untuk prakarsa sipil.
   0: |
 
   video:
-    title: Introduction
+    title: Pengantar
     url: https://www.youtube.com/embed/hDLWbQQAk8g?rel=0&showinfo=0&modestbranding=1&autoplay=1&cc_load_policy=1&cc_lang_pref=en
   demo:
     title: Demo
@@ -34,7 +34,7 @@ blocks:
       background-position: 20% 80%
       background-size: 122px 122px
     text: |
-      ![The Citizen OS platform is free to use on your desktop, laptop, tablet or mobile.](/assets/images/frontpage-product.png){ .img-fluid }
+      ![Platform Citizen OS bebas digunakan di desktop, laptop, tablet, atau ponsel Anda.](/assets/images/frontpage-product.png){ .img-fluid }
   opensource:
     class:
       - order-2
@@ -46,12 +46,12 @@ blocks:
       background-size: 360px 360px
     #label: Our Product
     title: |
-      Use the open source software.
+      Gunakan perangkat lunak open source.
     text: |
-      We believe the tools for online participatory democracy should be free to use for everyone.
+      Kami percaya alat untuk demokrasi partisipatoris online harus gratis digunakan untuk semua orang.
     button1st:
-      title: About product
-      url: /product/
+      title: Tentang produk
+      url: /id/produk/
   democracy-img:
     class:
       - order-3
@@ -61,7 +61,7 @@ blocks:
       background-position: 30% 25%, 20% 75%
       background-size: 360px 360px, 100px 100px
     text: |
-      ![Citizen OS’s first COSCON conference, which brought together e-democracy researchers from around the world.](/assets/images/frontpage-start.png){ .img-fluid }
+      ![Konferensi COSCON pertama Citizen OS, yang mengumpulkan para peneliti e-democracy dari seluruh dunia.](/assets/images/frontpage-start.png){ .img-fluid }
   democracy:
     class:
       - order-4
@@ -73,12 +73,12 @@ blocks:
       background-position: 0 10%
       background-size: 122px 122px
     title: |
-      Raising awareness on participatory democracy.
+      Meningkatkan kepedulian tentang demokrasi partisipatoris.
     text: |
-      We believe the way for us to move forward as a civilization is to globally come together and decide on issues that affect our wellbeing.
+      Kami percaya agar kita dapat melangkah ke depan sebagai peradaban adalah dengan secara global bekerja sama dan memutuskan isu-isu yang memengaruhi kesejahteraan kita.
     button1st:
-      title: About vision
-      url: /vision/
+      title: Tentang visi
+      url: /id/visi/
     button2nd:
   #title: Use platform - it’s free!
   #url: https://app.citizenos.com
@@ -91,7 +91,7 @@ blocks:
       background-position: 85% 85%
       background-size: 75px 75px
     text: |
-      ![Man in a white shirt holds a microphone while speaking at a participatory democracy festival.](/assets/images/frontpage-lets-educate.png){ .img-fluid }
+      ![Pria berkemeja putih memegang mikrofon sedang berbicara di festival demokrasi partisipatoris.](/assets/images/frontpage-lets-educate.png){ .img-fluid }
   research:
     class:
       - order-5
@@ -103,12 +103,12 @@ blocks:
       background-size: 360px 360px
     #label: Let’s Educate
     title: |
-      Developing e-democracy.
+      Mengembangkan e-democracy.
     text: |
-      We collaborate with researchers to help develop our products.
+      Kami berkolaborasi dengan peneliti untuk membantu mengembangkan produk kami.
     button1st:
-      title: About research
-      url: /research/
+      title: Tentang riset
+      url: /id/riset/
   news:
     class:
       - order-6
@@ -119,12 +119,12 @@ blocks:
       background-position: 60% 10%
       background-size: 360px 360px
     title: |
-      Latest news
+      Berita terkini
     text: |
       { #news-items }
     button1st:
-      title: Read all news
-      url: /news/
+      title: Baca semua berita
+      url: /id/berita/
   meet:
     class:
       - order-7
@@ -155,12 +155,12 @@ blocks:
       - py-5
     #label: A word from the team
     title: |
-      Help us develop Open Source products and spread participatory democracy.
+      Bantu kami mengembangkan produk Open Source dan menyebarkan demokrasi partisipatoris.
     text: |
-      Whether you are a developer, translator, researcher, designer, hacktivist or journalist - join us!
+      Baik Anda pengembang, penerjemah, peneliti, desainer, hacktivist, atau jurnalis - bergabunglah dengan kami!
     button1st:
-      title: Contribute
-      url: /contribute/
+      title: Kontribusi
+      url: /id/kontribusi/
   partners:
     class:
       - order-9
@@ -169,6 +169,6 @@ blocks:
       border-left: '1px solid #E5E5E5'
     #label: We’re stronger together
     title: |
-      Our partners & supporters
+      Mitra & pendukung kami
     text: |
-      ![Citizen OS Foundation’s supporters and partners logos.](/assets/images/frontpage-partners.png){ .mt-4 .w-100 }
+      ![Logo pendukung dan mitra Citizen OS Foundation.](/assets/images/frontpage-partners.png){ .mt-4 .w-100 }
