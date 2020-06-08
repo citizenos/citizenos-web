@@ -18,27 +18,28 @@ append content
                                     +markdown(b.text)
 
     #all-stories-blocks.d-none
-        .row
-            -
-                var links = Object.values(self.news).map(x => x.categories).flat().filter((v, i, a) => a.indexOf(v) === i)
-                links.sort()
-                links = links.map(x => { return { id: x.replace(/\ /g, '-').toLowerCase(), 'title': x }})
-            ul.list-inline
-                li.list-inline-item.mr-5
-                    a.cat-link.active(href='', data-cat='all')=self.allNews
-                each l in links
+        if self.news
+            .row
+                -
+                    var links = Object.values(self.news).map(x => x.categories).flat().filter((v, i, a) => a.indexOf(v) === i)
+                    links.sort()
+                    links = links.map(x => { return { id: x.replace(/\ /g, '-').toLowerCase(), 'title': x }})
+                ul.list-inline
                     li.list-inline-item.mr-5
-                        a.cat-link(href='', data-cat=l.id)=l.title
+                        a.cat-link.active(href='', data-cat='all')=self.allNews
+                    each l in links
+                        li.list-inline-item.mr-5
+                            a.cat-link(href='', data-cat=l.id)=l.title
 
-        .row.mt-5
-            each b, idx in self.news
-                - var date = (new Date(idx)).toLocaleDateString('en-GB', { year: 'numeric', month: 'short', day: 'numeric' })
+            .row.mt-5
+                each b, idx in self.news
+                    - var date = (new Date(idx)).toLocaleDateString('en-GB', { year: 'numeric', month: 'short', day: 'numeric' })
 
-                .cat-box.col-12.col-sm-4.mb-5(data-cat=`#${b.categories.join('#').replace(/\ /g, '-').toLowerCase()}#`)
-                    .news-block.text-left.col-12.h-100.bg-white.box-shadow.p-0
-                        a(href=b.url)
-                            .news-block-img.w-100(style=`background-image:url(${b.image})`)
-                            .py-3.px-3
-                                h4.mt-0.mb-2= b.title
-                                p.text-muted= date + ' - ' + b.author
-                                +markdown(b.text)
+                    .cat-box.col-12.col-sm-4.mb-5(data-cat=`#${b.categories.join('#').replace(/\ /g, '-').toLowerCase()}#`)
+                        .news-block.text-left.col-12.h-100.bg-white.box-shadow.p-0
+                            a(href=b.url)
+                                .news-block-img.w-100(style=`background-image:url(${b.image})`)
+                                .py-3.px-3
+                                    h4.mt-0.mb-2= b.title
+                                    p.text-muted= date + ' - ' + b.author
+                                    +markdown(b.text)
