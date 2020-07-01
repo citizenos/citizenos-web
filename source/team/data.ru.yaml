@@ -27,7 +27,7 @@ team:
     twitter: https://twitter.com/twitanett
     email: anett@citizenos.com
   - 
-    name: Оксана Найденова
+    name: Oksana Naidjonova (on parental leave)
     title: Локализация и перевод
     text: Сражается за правое дело и всегда вдохновляет нас быть лучше.
     avatar: /assets/images/team/oksana-avatar.jpg
@@ -92,6 +92,14 @@ team:
     picture: /assets/images/team/agustina.jpg
     linkedin: https://www.linkedin.com/in/agustina-iskandar-95a402109/
     email: agustina@citizenos.com
+  - 
+    name: Helen Kask
+    title: Localisation & Translation
+    text: Ridiculously passionate about languages and fighting injustice.
+    avatar: /assets/images/team/helen-avatar.png
+    picture: /assets/images/team/helen.jpg
+    linkedin: https://www.linkedin.com/in/helen-k-57440a71/
+    email: helen@citizenos.com
 other:
   #title: |
   #Like-minded people

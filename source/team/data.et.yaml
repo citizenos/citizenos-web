@@ -27,7 +27,7 @@ team:
     twitter: https://twitter.com/twitanett
     email: anett@citizenos.com
   - 
-    name: Oksana Naidjonova
+    name: Oksana Naidjonova (on parental leave)
     title: Lokaliseerimine ja tõlkimine
     text: Võitleb õigluse eest ja aitab meil iga päev paremaks muutuda.
     avatar: /assets/images/team/oksana-avatar.jpg
@@ -62,7 +62,7 @@ team:
     email: ilmar@citizenos.com
   - 
     name: Kati Vellak
-    title: Advokaat
+    title: Jurist
     text: Kaitseb meid pahalaste eest ja annab energiat kõigile, kes tema teele jäävad.
     avatar: /assets/images/team/kati-avatar.jpg
     picture: /assets/images/team/kati.jpg
@@ -92,6 +92,14 @@ team:
     picture: /assets/images/team/agustina.jpg
     linkedin: https://www.linkedin.com/in/agustina-iskandar-95a402109/
     email: agustina@citizenos.com
+  - 
+    name: Helen Kask
+    title: Localisation & Translation
+    text: Ridiculously passionate about languages and fighting injustice.
+    avatar: /assets/images/team/helen-avatar.png
+    picture: /assets/images/team/helen.jpg
+    linkedin: https://www.linkedin.com/in/helen-k-57440a71/
+    email: helen@citizenos.com
 other:
   #title: |
   #Like-minded people
