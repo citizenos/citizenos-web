@@ -28,8 +28,8 @@ team:
     email: anett@citizenos.com
   - 
     name: Liina Guiter
-    title: Marketing & Communications
-    text: Finds a common language and something to share with any being on this planet.
+    title: Turundus ja kommunikatsioon
+    text: Leiab ühise keele ja midagi mida jagada iga inimesega meie planeedil.
     avatar: /assets/images/team/liina-avatar.jpg
     picture: /assets/images/team/liina.jpg
     linkedin: https://www.linkedin.com/in/liinaguiter/
@@ -38,7 +38,7 @@ team:
   - 
     name: Mikk Andresen
     title: Tarkvaraarendajа
-    text: Builds stuff out of nothing and keeps our morale at a top height.
+    text: Loob mitte millestki midagi ja hoiab meie moraali kõrgel.
     avatar: /assets/images/team/mikk-avatar.jpg
     picture: /assets/images/team/mikk.jpg
     linkedin: https://www.linkedin.com/in/mikkandresen/
@@ -46,7 +46,7 @@ team:
   - 
     name: Ilmar Türk
     title: Tarkvaraarendajа
-    text: Guaranteed delivery of code and smiles.
+    text: Loob alati õigeks ajaks vajaliku koodi, koos naeratusega.
     avatar: /assets/images/team/ilmar-avatar.jpg
     picture: /assets/images/team/ilmar.jpg
     linkedin: https://www.linkedin.com/in/ilmarturk/
@@ -54,7 +54,7 @@ team:
   - 
     name: Kati Vellak
     title: Jurist
-    text: Protects us from baddies and energizes anyone in sight.
+    text: Kaitseb meid pahalaste eest ja annab energiat kõigile, kes tema teele jäävad.
     avatar: /assets/images/team/kati-avatar.jpg
     picture: /assets/images/team/kati.jpg
     linkedin: https://www.linkedin.com/in/kativellak/
@@ -62,23 +62,23 @@ team:
   - 
     name: Ly Kasvandik
     title: Personalijuht
-    text: Always there to help and protect, when one needs it most.
+    text: On alati valmis töötajatele abi ja tuge pakkuma, kui nad seda vajavad.
     avatar: /assets/images/team/ly-avatar.jpg
     picture: /assets/images/team/ly.jpg
     linkedin: https://www.linkedin.com/in/lykasvandik/
     email: ly@citizenos.com
   - 
     name: Becca Melhuish
-    title: Communications Designer & Copywriter
-    text: Brings sparkle and shine to all of our comms.
+    title: Kommunikatsioonidisainer ja reklaamtekstide koostaja
+    text: Lisab särtsu kõigisse meie turundussõnumitesse.
     avatar: /assets/images/team/becca-avatar.jpg
     picture: /assets/images/team/becca.jpg
     linkedin: https://www.linkedin.com/in/beccamelhuish/
     email: becca.melhuish@gmail.com
   - 
     name: Agustina Iskandar
-    title: Partnership Lead in Indonesia
-    text: Creator of miracles, protector of freedom and serial collaborator.
+    title: Partnerluse juht Indoneesias
+    text: Imede tegija, vabaduse kaitsja ning koostöö fänn.
     avatar: /assets/images/team/agustina-avatar.jpg
     picture: /assets/images/team/agustina.jpg
     linkedin: https://www.linkedin.com/in/agustina-iskandar-95a402109/
@@ -86,7 +86,7 @@ team:
   - 
     name: Helen Kask
     title: Lokaliseerimine ja tõlkimine
-    text: Ridiculously passionate about languages and fighting injustice.
+    text: Naeruväärselt kirglik keelte vastu ja võitluses ebaõigluse vastu.
     avatar: /assets/images/team/helen-avatar.png
     picture: /assets/images/team/helen.jpg
     linkedin: https://www.linkedin.com/in/helen-k-57440a71/
@@ -94,7 +94,7 @@ team:
   - 
     name: Oksana Naidjonova (lapsehoolduspuhkusel)
     title: Lokaliseerimine ja tõlkimine
-    text: Fights for justice and leads us to become better every day.
+    text: Võitleb õigluse eest ja aitab meil iga päev paremaks muutuda.
     avatar: /assets/images/team/oksana-avatar.jpg
     picture: /assets/images/team/oksana.jpg
     linkedin: https://www.linkedin.com/in/oksananaidjonova/
