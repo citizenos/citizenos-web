@@ -27,67 +27,58 @@ team:
     twitter: https://twitter.com/twitanett
     email: anett@citizenos.com
   - 
-    name: Oksana Naidjonova (on parental leave)
-    title: Локализация и перевод
-    text: Сражается за правое дело и всегда вдохновляет нас быть лучше.
-    avatar: /assets/images/team/oksana-avatar.jpg
-    picture: /assets/images/team/oksana.jpg
-    linkedin: https://www.linkedin.com/in/oksananaidjonova/
-    twitter: https://twitter.com/oksks
-    email: oksana@citizenos.com
-  - 
-    name: Лийна Гуйтер
-    title: Маркетинг и связи с общественностью
-    text: Может найти общий язык и тему для обсуждения с любым живым существом.
+    name: Liina Guiter
+    title: Marketing & Communications
+    text: Finds a common language and something to share with any being on this planet.
     avatar: /assets/images/team/liina-avatar.jpg
     picture: /assets/images/team/liina.jpg
     linkedin: https://www.linkedin.com/in/liinaguiter/
     twitter: https://twitter.com/liinaguiter
     email: liina@citizenos.com
   - 
-    name: Микк Андресен
-    title: Разработчик ПО
-    text: Созидает буквально «из ничего» и поддерживает моральный дух команды на высоте.
+    name: Mikk Andresen
+    title: Software Developer
+    text: Builds stuff out of nothing and keeps our morale at a top height.
     avatar: /assets/images/team/mikk-avatar.jpg
     picture: /assets/images/team/mikk.jpg
     linkedin: https://www.linkedin.com/in/mikkandresen/
     email: mikk@citizenos.com
   - 
-    name: Ильмар Тюрк
+    name: Ilmar Türk
     title: Разработчик ПО
-    text: Отлично пишет код, а шутит еще лучше.
+    text: Guaranteed delivery of code and smiles.
     avatar: /assets/images/team/ilmar-avatar.jpg
     picture: /assets/images/team/ilmar.jpg
     linkedin: https://www.linkedin.com/in/ilmarturk/
     email: ilmar@citizenos.com
   - 
-    name: Кати Веллак
-    title: Юрист
-    text: Защищает нас от злодеев и заряжает всех вокруг энергией.
+    name: Kati Vellak
+    title: Lawyer
+    text: Protects us from baddies and energizes anyone in sight.
     avatar: /assets/images/team/kati-avatar.jpg
     picture: /assets/images/team/kati.jpg
     linkedin: https://www.linkedin.com/in/kativellak/
     email: kati@citizenos.com
   - 
-    name: Ли Касвандик
-    title: Отдел кадров
-    text: Всегда рядом, чтобы помочь и защитить в трудный момент.
+    name: Ly Kasvandik
+    title: Human Relations
+    text: Always there to help and protect, when one needs it most.
     avatar: /assets/images/team/ly-avatar.jpg
     picture: /assets/images/team/ly.jpg
     linkedin: https://www.linkedin.com/in/lykasvandik/
     email: ly@citizenos.com
   - 
-    name: Бекка Мелуиш
-    title: Дизайнер коммуникаций и копирайтер
-    text: Делает связь с компанией яркой и незабываемой.
+    name: Becca Melhuish
+    title: Communications Designer & Copywriter
+    text: Brings sparkle and shine to all of our comms.
     avatar: /assets/images/team/becca-avatar.jpg
     picture: /assets/images/team/becca.jpg
     linkedin: https://www.linkedin.com/in/beccamelhuish/
     email: becca.melhuish@gmail.com
   - 
-    name: Агустина Искандар
-    title: Руководитель партнeрства в Индонезии
-    text: Создатель чудес, защитник свободы и серийный сотрудник.
+    name: Agustina Iskandar
+    title: Partnership Lead in Indonesia
+    text: Creator of miracles, protector of freedom and serial collaborator.
     avatar: /assets/images/team/agustina-avatar.jpg
     picture: /assets/images/team/agustina.jpg
     linkedin: https://www.linkedin.com/in/agustina-iskandar-95a402109/
@@ -100,6 +91,15 @@ team:
     picture: /assets/images/team/helen.jpg
     linkedin: https://www.linkedin.com/in/helen-k-57440a71/
     email: helen@citizenos.com
+  - 
+    name: Oksana Naidjonova (on Parental Leave)
+    title: Localisation & Translation
+    text: Fights for justice and leads us to become better every day.
+    avatar: /assets/images/team/oksana-avatar.jpg
+    picture: /assets/images/team/oksana.jpg
+    linkedin: https://www.linkedin.com/in/oksananaidjonova/
+    twitter: https://twitter.com/oksks
+    email: oksana@citizenos.com
 other:
   #title: |
   #Like-minded people

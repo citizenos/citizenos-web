@@ -27,18 +27,9 @@ team:
     twitter: https://twitter.com/twitanett
     email: anett@citizenos.com
   - 
-    name: Oksana Naidjonova (on parental leave)
-    title: Lokalisointi ja kääntäminen
-    text: Taistelee oikeuden puolesta ja tekee meistä parempia joka päivä.
-    avatar: /assets/images/team/oksana-avatar.jpg
-    picture: /assets/images/team/oksana.jpg
-    linkedin: https://www.linkedin.com/in/oksananaidjonova/
-    twitter: https://twitter.com/oksks
-    email: oksana@citizenos.com
-  - 
     name: Liina Guiter
-    title: Markkinointi ja viestintä
-    text: Löytää yhteisen kielen ja jotain yhteistä jokaisen tämän planeetan olennon kanssa.
+    title: Marketing & Communications
+    text: Finds a common language and something to share with any being on this planet.
     avatar: /assets/images/team/liina-avatar.jpg
     picture: /assets/images/team/liina.jpg
     linkedin: https://www.linkedin.com/in/liinaguiter/
@@ -46,8 +37,8 @@ team:
     email: liina@citizenos.com
   - 
     name: Mikk Andresen
-    title: Ohjelmistokehittäjä
-    text: Rakentaa asioita tyhjästä ja pitää moraalimme korkeana.
+    title: Software Developer
+    text: Builds stuff out of nothing and keeps our morale at a top height.
     avatar: /assets/images/team/mikk-avatar.jpg
     picture: /assets/images/team/mikk.jpg
     linkedin: https://www.linkedin.com/in/mikkandresen/
@@ -55,39 +46,39 @@ team:
   - 
     name: Ilmar Türk
     title: Ohjelmistokehittäjä
-    text: Koodin ja hymyn taattu toimittaja.
+    text: Guaranteed delivery of code and smiles.
     avatar: /assets/images/team/ilmar-avatar.jpg
     picture: /assets/images/team/ilmar.jpg
     linkedin: https://www.linkedin.com/in/ilmarturk/
     email: ilmar@citizenos.com
   - 
     name: Kati Vellak
-    title: Juristi
-    text: Suojelee meitä pahiksilta ja antaa energiaa kaikille ympärillään.
+    title: Lawyer
+    text: Protects us from baddies and energizes anyone in sight.
     avatar: /assets/images/team/kati-avatar.jpg
     picture: /assets/images/team/kati.jpg
     linkedin: https://www.linkedin.com/in/kativellak/
     email: kati@citizenos.com
   - 
     name: Ly Kasvandik
-    title: Ihmissuhteet
-    text: Aina valmis auttamaan ja suojelemaan, kun on tarvetta.
+    title: Human Relations
+    text: Always there to help and protect, when one needs it most.
     avatar: /assets/images/team/ly-avatar.jpg
     picture: /assets/images/team/ly.jpg
     linkedin: https://www.linkedin.com/in/lykasvandik/
     email: ly@citizenos.com
   - 
     name: Becca Melhuish
-    title: Viestintäsuunnittelija ja copywriter
-    text: Tuo kiiltoa ja kimallusta kaikkeen viestintäämme.
+    title: Communications Designer & Copywriter
+    text: Brings sparkle and shine to all of our comms.
     avatar: /assets/images/team/becca-avatar.jpg
     picture: /assets/images/team/becca.jpg
     linkedin: https://www.linkedin.com/in/beccamelhuish/
     email: becca.melhuish@gmail.com
   - 
     name: Agustina Iskandar
-    title: Kumppanuusjohtaja Indonesiassa
-    text: Ihmeiden luoja, vapauden suojelija ja sarjayhteistyöntekijä.
+    title: Partnership Lead in Indonesia
+    text: Creator of miracles, protector of freedom and serial collaborator.
     avatar: /assets/images/team/agustina-avatar.jpg
     picture: /assets/images/team/agustina.jpg
     linkedin: https://www.linkedin.com/in/agustina-iskandar-95a402109/
@@ -100,6 +91,15 @@ team:
     picture: /assets/images/team/helen.jpg
     linkedin: https://www.linkedin.com/in/helen-k-57440a71/
     email: helen@citizenos.com
+  - 
+    name: Oksana Naidjonova (on Parental Leave)
+    title: Localisation & Translation
+    text: Fights for justice and leads us to become better every day.
+    avatar: /assets/images/team/oksana-avatar.jpg
+    picture: /assets/images/team/oksana.jpg
+    linkedin: https://www.linkedin.com/in/oksananaidjonova/
+    twitter: https://twitter.com/oksks
+    email: oksana@citizenos.com
 other:
   #title: |
   #Like-minded people

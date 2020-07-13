@@ -27,15 +27,6 @@ team:
     twitter: https://twitter.com/twitanett
     email: anett@citizenos.com
   - 
-    name: Oksana Naidjonova (on parental leave)
-    title: Lokaliseerimine ja tõlkimine
-    text: Võitleb õigluse eest ja aitab meil iga päev paremaks muutuda.
-    avatar: /assets/images/team/oksana-avatar.jpg
-    picture: /assets/images/team/oksana.jpg
-    linkedin: https://www.linkedin.com/in/oksananaidjonova/
-    twitter: https://twitter.com/oksks
-    email: oksana@citizenos.com
-  - 
     name: Liina Guiter
     title: Turundus ja kommunikatsioon
     text: Leiab ühise keele ja midagi mida jagada iga inimesega meie planeedil.
@@ -78,7 +69,7 @@ team:
     email: ly@citizenos.com
   - 
     name: Becca Melhuish
-    title: Kommunikatsioonidisainer ja copywriter
+    title: Kommunikatsioonidisainer ja reklaamtekstide koostaja
     text: Lisab särtsu kõigisse meie turundussõnumitesse.
     avatar: /assets/images/team/becca-avatar.jpg
     picture: /assets/images/team/becca.jpg
@@ -94,12 +85,21 @@ team:
     email: agustina@citizenos.com
   - 
     name: Helen Kask
-    title: Localisation & Translation
-    text: Ridiculously passionate about languages and fighting injustice.
+    title: Lokaliseerimine ja tõlkimine
+    text: Naeruväärselt kirglik keelte vastu ja võitluses ebaõigluse vastu.
     avatar: /assets/images/team/helen-avatar.png
     picture: /assets/images/team/helen.jpg
     linkedin: https://www.linkedin.com/in/helen-k-57440a71/
     email: helen@citizenos.com
+  - 
+    name: Oksana Naidjonova (lapsehoolduspuhkusel)
+    title: Lokaliseerimine ja tõlkimine
+    text: Võitleb õigluse eest ja aitab meil iga päev paremaks muutuda.
+    avatar: /assets/images/team/oksana-avatar.jpg
+    picture: /assets/images/team/oksana.jpg
+    linkedin: https://www.linkedin.com/in/oksananaidjonova/
+    twitter: https://twitter.com/oksks
+    email: oksana@citizenos.com
 other:
   #title: |
   #Like-minded people
