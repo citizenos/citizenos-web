@@ -8,6 +8,16 @@ keywords:
   -
 image: /assets/images/meta/vision.jpg
 news:
+  2020-07-29:
+    url: /news/turning-citizen-ideas-into-action-on-waste-bintan-indonesia/
+    title: Turning Citizen Ideas into Action on Waste — Bintan, Indonesia.
+    author: Indonesian team, edited by Becca Melhuish
+    image: /assets/images/news/turning-citizen-ideas-into-action-on-waste-bintan-indonesia.jpeg
+    top: true
+    categories:
+      - Citizen OS news, Case studies
+    text: |
+      Let’s Do It Indonesia have announced the success of their first 34 Island Project governmental meeting—turning local people’s wishes into reality with the help of Citizen OS.
   2020-06-08:
     url: /news/come-and-participate-in-a-new-participation-service-pilot-project/
     title: Come and participate in a new participation-service pilot project!
@@ -100,7 +110,6 @@ news:
     title: Is the time of representative democracy over - Estonia without a parliament?
     author: Margo Loor
     image: /assets/images/news/is-the-time-of-representative-democracy-over-estonia-without-a-parliament.jpeg
-    top: true
     categories:
       - E-democracy news
     text: |
