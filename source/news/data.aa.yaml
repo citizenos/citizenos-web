@@ -8,6 +8,16 @@ keywords:
   -
 image: crwdns24026:0crwdne24026:0
 news:
+  2020-07-29:
+    url: crwdns25574:0crwdne25574:0
+    title: crwdns25576:0crwdne25576:0
+    author: crwdns25578:0crwdne25578:0
+    image: crwdns25580:0crwdne25580:0
+    top: true
+    categories:
+      - crwdns25582:0crwdne25582:0
+    text: |
+      crwdns25584:0crwdne25584:0
   2020-06-08:
     url: crwdns25294:0crwdne25294:0
     title: crwdns25296:0crwdne25296:0
@@ -100,7 +110,6 @@ news:
     title: crwdns24528:0crwdne24528:0
     author: crwdns24280:0crwdne24280:0
     image: crwdns24282:0crwdne24282:0
-    top: true
     categories:
       - crwdns24350:0crwdne24350:0
     text: |
