@@ -11,6 +11,17 @@ image: /assets/images/meta/vision.jpg
 
 news:
 
+    2020-08-05:
+        url: /news/the-key-to-online-democracy-is-trust/
+        title: The key to online democracy is trust.
+        author: Margo Loor, CEO and Product Manager / Edited by Becca Melhuish
+        image: /assets/images/news/the-key-to-online-democracy-is-trust.jpg
+        top: true
+        categories:
+            - Citizen OS news
+        text: |
+            Online voting systems need solid security measures. We keep the Citizen OS platform up-to-date with new laws and best practice—our CEO and Product Manager, Margo Loor, explains how.
+
     2020-07-29:
         url: /news/turning-citizen-ideas-into-action-on-waste-bintan-indonesia/
         title: Turning Citizen Ideas into Action on Waste — Bintan, Indonesia.
@@ -70,7 +81,6 @@ news:
         title: Team Decisions in the Time of Corona.
         author: Becca Melhuish
         image: /assets/images/news/team-decisions-in-the-time-of-corona.png
-        top: true
         categories:
             - Citizen OS news
             - E-democracy news
