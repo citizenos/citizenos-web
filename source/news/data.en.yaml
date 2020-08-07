@@ -39,7 +39,8 @@ news:
         image: /assets/images/news/turning-citizen-ideas-into-action-on-waste-bintan-indonesia.jpeg
         top: true
         categories:
-            - Citizen OS news, Case studies
+            - Citizen OS news
+            - Case studies
         text: |
             Let’s Do It Indonesia have announced the success of their first 34 Island Project governmental meeting—turning local people’s wishes into reality with the help of Citizen OS.
 
