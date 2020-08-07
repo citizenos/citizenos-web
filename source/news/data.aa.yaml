@@ -8,6 +8,36 @@ keywords:
   -
 image: crwdns24026:0crwdne24026:0
 news:
+  2020-08-07:
+    url: crwdns25602:0crwdne25602:0
+    title: crwdns25604:0crwdne25604:0
+    author: crwdns25606:0crwdne25606:0
+    image: crwdns25608:0crwdne25608:0
+    categories:
+      - crwdns25610:0crwdne25610:0
+    text: |
+      crwdns25612:0crwdne25612:0
+  2020-08-05:
+    url: crwdns25588:0crwdne25588:0
+    title: crwdns25590:0crwdne25590:0
+    author: crwdns25592:0crwdne25592:0
+    image: crwdns25594:0crwdne25594:0
+    top: true
+    categories:
+      - crwdns25596:0crwdne25596:0
+    text: |
+      crwdns25598:0crwdne25598:0
+  2020-07-29:
+    url: crwdns25574:0crwdne25574:0
+    title: crwdns25600:0crwdne25600:0
+    author: crwdns25578:0crwdne25578:0
+    image: crwdns25580:0crwdne25580:0
+    top: true
+    categories:
+      - crwdns25614:0crwdne25614:0
+      - crwdns25616:0crwdne25616:0
+    text: |
+      crwdns25584:0crwdne25584:0
   2020-06-08:
     url: crwdns25294:0crwdne25294:0
     title: crwdns25296:0crwdne25296:0
@@ -52,7 +82,6 @@ news:
     title: crwdns25106:0crwdne25106:0
     author: crwdns25108:0crwdne25108:0
     image: crwdns25110:0crwdne25110:0
-    top: true
     categories:
       - crwdns25314:0crwdne25314:0
       - crwdns25316:0crwdne25316:0
@@ -100,7 +129,6 @@ news:
     title: crwdns24528:0crwdne24528:0
     author: crwdns24280:0crwdne24280:0
     image: crwdns24282:0crwdne24282:0
-    top: true
     categories:
       - crwdns24350:0crwdne24350:0
     text: |
