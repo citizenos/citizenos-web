@@ -34,7 +34,8 @@ news:
     image: crwdns25580:0crwdne25580:0
     top: true
     categories:
-      - crwdns25582:0crwdne25582:0
+      - crwdns25614:0crwdne25614:0
+      - crwdns25616:0crwdne25616:0
     text: |
       crwdns25584:0crwdne25584:0
   2020-06-08:
