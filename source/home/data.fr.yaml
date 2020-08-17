@@ -9,11 +9,11 @@ image: /assets/images/meta/home-alt.jpg
 data:
   news: /news/data.en.yaml
 header:
-  title: Des discussions basées sur des arguments et une prise de décision collaborative pour des initiatives civiques.
-  0: |
-
+  title: Decide Together
+  text: |
+    Use our free online platform for democratic discussions & citizen participation.
   video:
-    title: Introduction
+    title: Intro
     url: https://www.youtube.com/embed/hDLWbQQAk8g?rel=0&showinfo=0&modestbranding=1&autoplay=1&cc_load_policy=1&cc_lang_pref=en
   demo:
     title: Démo
@@ -46,11 +46,11 @@ blocks:
       background-size: 360px 360px
     #label: Our Product
     title: |
-      Utilisez le logiciel open source.
+      Our free platform.
     text: |
-      Nous pensons que les outils pour la démocratie participative en ligne devraient être libres d'utilisation pour tous.
+      Make democratic decisions - discuss and crowdsource ideas, e-sign petitions.
     button1st:
-      title: À propos du produit
+      title: Learn More
       url: /fr/produit/
   democracy-img:
     class:
@@ -73,11 +73,11 @@ blocks:
       background-position: 0 10%
       background-size: 122px 122px
     title: |
-      Augmenter la sensibilisation à la démocratie participative.
+      A participatory future.
     text: |
-      Nous pensons que la voie à suivre en tant que civilisation est de se réunir au niveau mondial et de décider des choses qui ont un impact sur notre bien-être.
+      We believe in a deeper democracy, where all citizens have a say in decisions that affect them.
     button1st:
-      title: À propos de la vision
+      title: Our Vision
       url: /fr/vision/
     button2nd:
   #title: Use platform - it’s free!
@@ -103,12 +103,12 @@ blocks:
       background-size: 360px 360px
     #label: Let’s Educate
     title: |
-      Développer la e-démocratie.
+      Join our Community.
     text: |
-      Nous collaborons avec des chercheurs pour contribuer au développement de nos produits.
+      We run a global community for participatory e-democracy enthusiasts, and everyone’s welcome.
     button1st:
-      title: À propos de la recherche
-      url: /fr/recherche/
+      title: Learn More
+      url: /community/
   news:
     class:
       - order-6
@@ -119,11 +119,11 @@ blocks:
       background-position: 60% 10%
       background-size: 360px 360px
     title: |
-      Dernières Actualités
+      Latest news.
     text: |
       { #news-items }
     button1st:
-      title: Lire toutes les actualités
+      title: More stories
       url: /fr/actualites/
   meet:
     class:
@@ -155,12 +155,12 @@ blocks:
       - py-5
     #label: A word from the team
     title: |
-      Aidez-nous à développer des produits Open Source et à répandre la démocratie participative.
+      About Us.
     text: |
-      Que vous soyez développeur, traducteur, chercheur, designer, hacktiviste ou journaliste - rejoignez-nous !
+      We’re a non-profit civic tech organisation based in Tallinn, Estonia - the world’s leading digital nation.
     button1st:
-      title: Contribuer
-      url: /fr/contribuer/
+      title: Learn More
+      url: /company/
   partners:
     class:
       - order-9
