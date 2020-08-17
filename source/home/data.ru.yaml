@@ -9,11 +9,11 @@ image: /assets/images/meta/home-alt.jpg
 data:
   news: /news/data.en.yaml
 header:
-  title: Обсуждения на основе аргументов и совместное принятие решений для гражданских инициатив.
-  0: |
-
+  title: Decide Together
+  text: |
+    Use our free online platform for democratic discussions & citizen participation.
   video:
-    title: Введение
+    title: Intro
     url: https://www.youtube.com/embed/hDLWbQQAk8g?rel=0&showinfo=0&modestbranding=1&autoplay=1&cc_load_policy=1&cc_lang_pref=en
   demo:
     title: Демо-видео
@@ -46,11 +46,11 @@ blocks:
       background-size: 360px 360px
     #label: Our Product
     title: |
-      Используйте программное обеспечение с открытым исходным кодом.
+      Our free platform.
     text: |
-      Мы считаем, что инструменты онлайн-демократии участия должны быть бесплатными для каждого.
+      Make democratic decisions - discuss and crowdsource ideas, e-sign petitions.
     button1st:
-      title: О продукте
+      title: Learn More
       url: /ru/produkt/
   democracy-img:
     class:
@@ -73,11 +73,11 @@ blocks:
       background-position: 0 10%
       background-size: 122px 122px
     title: |
-      Повышение информированности о демократии участия.
+      A participatory future.
     text: |
-      Мы считаем, что единственный способ продолжить развитие нашей великой цивилизации — это глобальное объединение всех и каждого для того, чтобы вместе принимать решения, имеющие влияние на наше благополучие.
+      We believe in a deeper democracy, where all citizens have a say in decisions that affect them.
     button1st:
-      title: О концепции
+      title: Our Vision
       url: /ru/koncepciya/
     button2nd:
   #title: Use platform - it’s free!
@@ -103,12 +103,12 @@ blocks:
       background-size: 360px 360px
     #label: Let’s Educate
     title: |
-      Развитие электронной демократии.
+      Join our Community.
     text: |
-      Мы сотрудничаем с исследователями для непрерывного развития наших продуктов.
+      We run a global community for participatory e-democracy enthusiasts, and everyone’s welcome.
     button1st:
-      title: Об исследованиях
-      url: /ru/issledovaniya/
+      title: Learn More
+      url: /community/
   news:
     class:
       - order-6
@@ -119,11 +119,11 @@ blocks:
       background-position: 60% 10%
       background-size: 360px 360px
     title: |
-      Последние новости
+      Latest news.
     text: |
       { #news-items }
     button1st:
-      title: Читать все новости
+      title: More stories
       url: /ru/novosti/
   meet:
     class:
@@ -155,12 +155,12 @@ blocks:
       - py-5
     #label: A word from the team
     title: |
-      Помогите нам развивать продукты с открытым исходным кодом и расширить влияние демократии участия.
+      About Us.
     text: |
-      Если вы разработчик, переводчик, исследователь, дизайнер, хактивист или журналист — присоединяйтесь к нам!
+      We’re a non-profit civic tech organisation based in Tallinn, Estonia - the world’s leading digital nation.
     button1st:
-      title: Поддержать проект
-      url: /ru/podderzhi-proekt/
+      title: Learn More
+      url: /company/
   partners:
     class:
       - order-9
