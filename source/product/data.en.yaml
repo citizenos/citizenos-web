@@ -82,7 +82,7 @@ blocks:
                     Get input from a wider audience. Ideal for citizen participation projects.
             widget:
                 poster: /assets/images/flexibleformat-widget.png
-                title: Remote decisions
+                title: Remote decision-making
                 text: |
                     Invite participants, discuss privately or publicly. Free open-source code is available for [download at GitHub](https://github.com/citizenos), if you wish to set up a private server.
 
