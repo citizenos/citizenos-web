@@ -75,9 +75,12 @@ blocks:
       background-position: 10% 10%
     #label: Raising awareness
     title: |
-      Üheskoos suudame arendada online-osalusdemokraatiat.
+      Living our values.
     text: |
-      Arendame tooteid, mis aitavad inimestel luua paremat tulevikku. Kas oled arendaja, tõlkija, teadlane, disainer, häkkimishuviline või ajakirjanik? Liitu meie tiimiga!
+      Our ethos of transparency, participation and deliberation runs through everything we do.
+
+      Our team is non-hierarchical, the code open source and platform design backed by rigorous research.
     button1st:
-      title: Panusta
-      url: /et/kogukond/
+      title: Use platform
+      url: https://app.citizenos.com
+      target: _blank
