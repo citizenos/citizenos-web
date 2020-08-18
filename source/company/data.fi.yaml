@@ -21,7 +21,9 @@ blocks:
       Yritys
     texts:
       - |
-        Citizen OS on Virossa toimiva avoimen lähdekoodin sosiaalinen yritys. Viron valtiosta tuli ensimmäinen API-kumppani tammikuussa 2016. Siitä alkaen Citizen OS on voittanut puolelleen lukuisien julkisten ja yksityisten käyttäjäryhmien luottamuksen eri puolilla maailmaa.
+        Citizen OS is an open source civic tech non-profit, based in Tallinn, Estonia.
+
+        The Citizen OS platform went live in September, 2015. Since then, we have gained the trust of many public and private user groups around the world.
       - |
         Kaikki tieto on salattu ja suojattu pilviservereille.
       - |
@@ -29,8 +31,8 @@ blocks:
       - |
         #### Citizen OS:ia tukevat:
       - |
-        - [Let’s Do It! -järjestö](https://www.letsdoitworld.org/)
-        - [Viron yhteistyövaliokunta](https://www.kogu.ee/en/)
+        - Philanthropist & entrepreneur Ahti Heinla
+        - [Let’s Do It! Foundation](https://www.letsdoitworld.org/)
         { .arrow }
       - |
         Citizen OS -hanketta on rahoitettu valtiosta riippumattomille järjestöille tarkoitetuin EEA-maksuosuuksin, joiden välittäjänä on toiminut [Open Estonia Foundation](https://oef.org.ee/in-english).
