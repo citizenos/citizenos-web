@@ -31,14 +31,14 @@ blocks:
       background-position: 10% 5%, 90% 90%
       background-size: 75px 75px, 65px 65px
     title: |
-      Prise de décision en ligne dans les équipes et les communautés.
+      Collective decisions and civic participation.
     text: |
-      Prenez des décisions fondées sur des arguments. Structurez les discussions et respectez vos délais de vote. Collectez des votes pour des pétitions.
+      Use the free online platform for discussions, voting and crowdsourcing ideas. With optional e-ID function.
 
-      - [Fonctionnalités de la plateforme](#features)
-      - [Comment ça marche](#options)
-      - [Combien ça coûte](#options)
-      - [Études de cas](#case-study-2)
+      - [What can I use the Citizen OS platform for?](#flexibleformat)
+      - [Why use the Citizen OS platform?](#features)
+      - [Case studies](#case-study-2)
+      - [Statistics](#stats)
       { .arrow }
     button1st:
       title: Regarder la démo
@@ -56,30 +56,30 @@ blocks:
       background-size: 38px 42px
     label: Un format flexible
     title: |
-      Comment pouvez-vous utiliser la plate-forme de Citizen OS ?
+      What can I use Citizen OS for?
     text: |
       { #flexibleformat-items }
     blocks:
       petitions:
         poster: /assets/images/flexibleformat-petitions.png
-        title: Pétitions
+        title: Voting
         text: |
-          Édition collaborative. Collectez des milliers ou des millions de signatures. Suivez les nouvelles.
+          Ideal for e-democracy initiatives.
       onlinemeetings:
         poster: /assets/images/flexibleformat-onlinemeetings.png
-        title: Réunions en ligne
+        title: Discussions
         text: |
-          Faites des réunions en ligne. Tout le monde peut laisser ses commentaires et voter au moment qui leur convient.
+          Enjoy rational, balanced group discussions. Integrable discussion widget also available.
       gatheringideas:
         poster: /assets/images/flexibleformat-gatheringideas.png
-        title: Collecter des idées
+        title: Crowd-sourcing Ideas
         text: |
-          Partagez votre processus de prise de décision avec un plus grand public.
+          Get input from a wider audience. Ideal for citizen participation projects.
       widget:
         poster: /assets/images/flexibleformat-widget.png
-        title: Discussions pour/contre argumentées
+        title: Remote decisions
         text: |
-          Intégrez notre widget dans votre site ou votre plate-forme pour mener une discussion basée sur des arguments pour et contre.
+          Invite participants, discuss privately or publicly. Free open-source code is available for [download on GitHub](https://github.com/citizenos) if you wish to set up a private server.
   features-img:
     class:
       - order-3
@@ -97,60 +97,54 @@ blocks:
       background: '#F7F7F7'
     label: Fonctionnalités
     title: |
-      Clarté
+      Why use the Citizen OS platform?
     text: |
-      -Aperçu des progrès de la prise de décision.
-      - vote des délais.
+      - 100% free to use. No ads, no charges.
+      - A ready-made platform – just log in and get started.
+      - Customisable voting - multiple choice, vote delegation.
+      - Activity feed.
       { .bullet }
 
-      ## Participation{ .mt-5 }
-
-      - les idées sont recueillies de bas en haut.
-      - La discussion se passe de façon structurée.
-      - Peut impliquer des milliers ou des millions de participants.
+      - Private or public discussions.
+      - Co-edit texts before or during a discussion.
+      - In 13 languages and easy to translate.
       { .bullet }
 
-      ## Sécurité & recherche{ .mt-5 }
-
-      - Développement continu pour faire face à nouvelles lois.
-      - Le développement des produits suit la démarche scientifique.
-      - Coffre-fort de données chiffrée, plateforme sécurisée sur un serveur cloud.
+      - e-ID compatible – for logins, votes & digital signatures.
+      - Continuous development to keep up with new laws.
+      - Product development follows scientific e-democracy practices.
+      - Safe encrypted data, secure platform in a cloud server.
+      - Long-term funding by a philanthroper - we’re sticking around.
+      - Open source code.
       { .bullet }
-  options:
-    class:
-      - order-5
-      - col-sm-12
-      - text-center
-    style:
-      background: '#AAF3DD'
-    title: |
-      Produits
-    blocks:
-      app:
-        title: Utiliser sur notre site
-        text: |
-          La plate-forme Citizen OS est gratuite pour tous sur notre site.
-        subtext: Gratuit pour toujours !
-        button:
-          title: Utiliser la plateforme
-          url: https://app.citizenos.com/fr/
-          target: _blank
-      api:
-        title: Intégrer l'API
-        text: |
-          Utilisez l'API Citizen OS comme base pour construire une plate-forme de décision en ligne avec votre propre marque.
-        subtext: Gratuit pour toujours !
-        button:
-          title: GitHub
-          url: https://github.com/citizenos/citizenos-web
-      consult:
-        title: Consulter & intégrer
-        text: |
-          Laissez notre équipe s'occuper de tout, de la consultation à une adaptation de travail avec vos systèmes.
-        subtext: Sur offre
-        button:
-          title: Nous contacter
-          url: /fr/nous-contacter/
+  #options:
+  #class:
+  #- order-5
+  #- col-sm-12
+  #- text-center
+  #style:
+  #background: '#AAF3DD'
+  #label: Products
+  #title: |
+  #How can I use Citizen OS?
+  #blocks:
+  #app:
+  #title: Use on our website
+  #text: |
+  #Currently in 13 languages.
+  #subtext: Free
+  #button:
+  #title: Use platform
+  #url: https://app.citizenos.com
+  #target: _blank
+  #consult:
+  #title: Set up own server
+  #text: |
+  #Download the code and contact us if you need help with consulting.
+  #subtext: Free open-source code
+  #button:
+  #title: Download
+  #url: https://github.com/citizenos/citizenos-web
   case-study-2-img:
     class:
       - order-6
@@ -163,17 +157,17 @@ blocks:
       background-image: url(/assets/images/bubble-blue.svg)
       background-position: 80% 5%
       background-size: 122px 122px
-    #label: Case study
+    label: Case study
     title: |
-      Étude de cas : Communication entre les citoyens et le gouvernement estonien
+      Estonia’s Citizen Initiatives Platform.
     text: |
-      Le code source ouvert de Citizen OS a été utilisé pour créer la plate-forme d'initiatives citoyennes [www.rahvaalgatus.ee](https://www.rahvaalgatus.ee), où les pétitions peuvent être lancées, et les votes peuvent être recueillis et envoyés au Parlement.
+      The Citizen OS open source code was partly used to set up [Rahvalgaatus.ee](https://www.rahvaalgatus.ee). Here, petitions can be launched, signed and submitted directly to the Estonian Parliament.
   case-study-img:
     class:
       - order-8
       - order-sm-9
     text: |
-      ![Vue du public pendant l'Opinion Festival en Estonie, qui utilise le widget d'argumentation Citizen OS pour leur événement annuel. ](/assets/images/product-case-study.jpg){ .img-fluid .box-shadow }
+      ![Many indonesians smiling, wearing World Cleanup Day shirts, walking on a beach, carrying bags full of plastic garbage.](/assets/images/product-case-study.jpeg){ .img-fluid .box-shadow }
   case-study:
     class:
       - order-9
@@ -182,11 +176,13 @@ blocks:
       background-image: url(/assets/images/bubble-orange.svg), url(/assets/images/bubble-yellow.svg)
       background-position: 10% 5%, 90% 90%
       background-size: 85px 85px, 55px 55px
-    #label: Case study
+    label: Case study
     title: |
-      Étude de cas : généraliser la portée de la communication.
+      For a Greener Indonesia.
     text: |
-      [Opinion Festival](https://www.arvamusfestival.ee/en/) a intégré le widget d'argumentation de Citizen OS, permettant des discussions en ligne sur les sujets du festival au-delà des deux jours du festival physique.
+      With their [34 Islands Project](https://citizenos.com/news/turning-citizen-ideas-into-action-on-waste-bintan-indonesia/), civic movement Let’s Do It Indonesia is working to build a greener future.
+
+      Using the Citizen OS platform, local people can submit sustainable waste management ideas and vote for their favourites.
   stats:
     class:
       - order-10
@@ -199,9 +195,8 @@ blocks:
     title: |
       Notre communauté de prise de décision en ligne grandit.
     button1st:
-      title: Utiliser la plateforme
-      url: https://app.citizenos.com/fr/
-      target: _blank
+      title: Sign up for news
+      url: '#subscribe'
     blocks:
       topicsCreated:
         title: discussions
