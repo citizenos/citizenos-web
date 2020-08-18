@@ -31,9 +31,9 @@ blocks:
       background-position: crwdns18208:0crwdne18208:0
       background-size: crwdns18210:0crwdne18210:0
     title: |
-      crwdns18212:0crwdne18212:0
+      crwdns26178:0crwdne26178:0
     text: |
-      crwdns19238:0{ .arrow }crwdne19238:0
+      crwdns26180:0[Statistics]crwdnd26180:0{ .arrow }crwdne26180:0
     button1st:
       title: crwdns25118:0crwdne25118:0
       url: 'crwdns25120:0crwdne25120:0'
@@ -50,30 +50,30 @@ blocks:
       background-size: crwdns18232:0crwdne18232:0
     label: crwdns18234:0crwdne18234:0
     title: |
-      crwdns18236:0crwdne18236:0
+      crwdns26182:0crwdne26182:0
     text: |
       crwdns18238:0{ #flexibleformat-items }crwdne18238:0
     blocks:
       petitions:
         poster: crwdns18240:0crwdne18240:0
-        title: crwdns18242:0crwdne18242:0
+        title: crwdns26184:0crwdne26184:0
         text: |
-          crwdns18244:0crwdne18244:0
+          crwdns26186:0crwdne26186:0
       onlinemeetings:
         poster: crwdns18246:0crwdne18246:0
-        title: crwdns18248:0crwdne18248:0
+        title: crwdns26188:0crwdne26188:0
         text: |
-          crwdns18250:0crwdne18250:0
+          crwdns26190:0crwdne26190:0
       gatheringideas:
         poster: crwdns18252:0crwdne18252:0
-        title: crwdns18254:0crwdne18254:0
+        title: crwdns26192:0crwdne26192:0
         text: |
-          crwdns18256:0crwdne18256:0
+          crwdns26194:0crwdne26194:0
       widget:
         poster: crwdns18258:0crwdne18258:0
-        title: crwdns18260:0crwdne18260:0
+        title: crwdns26196:0crwdne26196:0
         text: |
-          crwdns18262:0crwdne18262:0
+          crwdns26198:0crwdne26198:0
   features-img:
     class:
       - crwdns19188:0crwdne19188:0
@@ -91,44 +91,37 @@ blocks:
       background: 'crwdns18282:0crwdne18282:0'
     label: crwdns18284:0crwdne18284:0
     title: |
-      crwdns18286:0crwdne18286:0
+      crwdns26200:0crwdne26200:0
     text: |
-      crwdns18288:0{ .bullet }crwdnd18288:0{ .mt-5 }crwdnd18288:0{ .bullet }crwdnd18288:0{ .mt-5 }crwdnd18288:0{ .bullet }crwdne18288:0
-  options:
-    class:
-      - crwdns19192:0crwdne19192:0
-      - crwdns19194:0crwdne19194:0
-      - crwdns19196:0crwdne19196:0
-    style:
-      background: 'crwdns18298:0crwdne18298:0'
-    title: |
-      crwdns18300:0crwdne18300:0
-    blocks:
-      app:
-        title: crwdns18302:0crwdne18302:0
-        text: |
-          crwdns18304:0crwdne18304:0
-        subtext: crwdns18306:0crwdne18306:0
-        button:
-          title: crwdns18308:0crwdne18308:0
-          url: crwdns18310:0crwdne18310:0
-          target: crwdns18312:0crwdne18312:0
-      api:
-        title: crwdns18314:0crwdne18314:0
-        text: |
-          crwdns18316:0crwdne18316:0
-        subtext: crwdns20022:0crwdne20022:0
-        button:
-          title: crwdns20024:0crwdne20024:0
-          url: crwdns20026:0crwdne20026:0
-      consult:
-        title: crwdns18324:0crwdne18324:0
-        text: |
-          crwdns18326:0crwdne18326:0
-        subtext: crwdns18328:0crwdne18328:0
-        button:
-          title: crwdns18330:0crwdne18330:0
-          url: crwdns18332:0crwdne18332:0
+      crwdns26202:0{ .bullet }crwdnd26202:0{ .bullet }crwdnd26202:0{ .bullet }crwdne26202:0
+  #options:
+  #class:
+  #- order-5
+  #- col-sm-12
+  #- text-center
+  #style:
+  #background: '#AAF3DD'
+  #label: Products
+  #title: |
+  #How can I use Citizen OS?
+  #blocks:
+  #app:
+  #title: Use on our website
+  #text: |
+  #Currently in 13 languages.
+  #subtext: Free
+  #button:
+  #title: Use platform
+  #url: https://app.citizenos.com
+  #target: _blank
+  #consult:
+  #title: Set up own server
+  #text: |
+  #Download the code and contact us if you need help with consulting.
+  #subtext: Free open-source code
+  #button:
+  #title: Download
+  #url: https://github.com/citizenos/citizenos-web
   case-study-2-img:
     class:
       - crwdns19198:0crwdne19198:0
@@ -141,17 +134,17 @@ blocks:
       background-image: crwdns18344:0crwdne18344:0
       background-position: crwdns18346:0crwdne18346:0
       background-size: crwdns18348:0crwdne18348:0
-    #label: Case study
+    label: crwdns26204:0crwdne26204:0
     title: |
-      crwdns18350:0crwdne18350:0
+      crwdns26206:0crwdne26206:0
     text: |
-      crwdns18352:0[www.rahvaalgatus.ee]crwdne18352:0
+      crwdns26208:0[Rahvalgaatus.ee]crwdne26208:0
   case-study-img:
     class:
       - crwdns19202:0crwdne19202:0
       - crwdns19204:0crwdne19204:0
     text: |
-      crwdns24162:0{ .img-fluid .box-shadow }crwdne24162:0
+      crwdns26210:0{ .img-fluid .box-shadow }crwdne26210:0
   case-study:
     class:
       - crwdns19208:0crwdne19208:0
@@ -160,11 +153,11 @@ blocks:
       background-image: crwdns19212:0crwdne19212:0
       background-position: crwdns19214:0crwdne19214:0
       background-size: crwdns19216:0crwdne19216:0
-    #label: Case study
+    label: crwdns26212:0crwdne26212:0
     title: |
-      crwdns19218:0crwdne19218:0
+      crwdns26214:0crwdne26214:0
     text: |
-      crwdns19220:0crwdne19220:0
+      crwdns26216:0crwdne26216:0
   stats:
     class:
       - crwdns19222:0crwdne19222:0
@@ -177,9 +170,8 @@ blocks:
     title: |
       crwdns18388:0crwdne18388:0
     button1st:
-      title: crwdns18390:0crwdne18390:0
-      url: crwdns18392:0crwdne18392:0
-      target: crwdns18394:0crwdne18394:0
+      title: crwdns26218:0crwdne26218:0
+      url: 'crwdns26220:0crwdne26220:0'
     blocks:
       topicsCreated:
         title: crwdns18396:0crwdne18396:0
