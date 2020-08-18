@@ -79,7 +79,7 @@ blocks:
         poster: /assets/images/flexibleformat-widget.png
         title: Remote decisions
         text: |
-          Invite participants, discuss privately or publicly. Free open-source code is available for [download on GitHub](https://github.com/citizenos) if you wish to set up a private server.
+          Invite participants, discuss privately or publicly. Free open-source code is available for [download at GitHub](https://github.com/citizenos), if you wish to set up a private server.
   features-img:
     class:
       - order-3
