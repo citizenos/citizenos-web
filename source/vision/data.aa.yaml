@@ -17,7 +17,7 @@ blocks:
       background-position: crwdns20086:0crwdne20086:0
       background-size: crwdns20088:0crwdne20088:0
     text: |
-      crwdns23229:0crwdne23229:0
+      crwdns26148:0crwdne26148:0
     video:
       id: crwdns23231:0crwdne23231:0
       url: 'crwdns23233:0crwdne23233:0'
@@ -31,9 +31,9 @@ blocks:
       background-position: crwdns18974:0crwdne18974:0
       background-size: crwdns18976:0crwdne18976:0
     title: |
-      crwdns18978:0crwdne18978:0
+      crwdns26150:0crwdne26150:0
     text: |
-      crwdns18980:0{ .arrow }crwdne18980:0
+      crwdns26152:0crwdne26152:0
     button1st:
       title: crwdns18982:0crwdne18982:0
       url: 'crwdns18984:0crwdne18984:0'
@@ -53,13 +53,12 @@ blocks:
       - crwdns19028:0crwdne19028:0
     #label: As an individual
     title: |
-      crwdns19032:0crwdne19032:0
+      crwdns26154:0crwdne26154:0
     text: |
-      crwdns19034:0crwdne19034:0
+      crwdns26156:0crwdne26156:0
     button1st:
-      title: crwdns19036:0crwdne19036:0
-      url: crwdns19038:0crwdne19038:0
-      target: crwdns19040:0crwdne19040:0
+      title: crwdns26158:0crwdne26158:0
+      url: crwdns26160:0crwdne26160:0
   awareness:
     class:
       - crwdns19042:0crwdne19042:0

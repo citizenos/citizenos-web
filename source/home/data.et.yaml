@@ -9,11 +9,11 @@ image: /assets/images/meta/home-alt.jpg
 data:
   news: /news/data.en.yaml
 header:
-  title: Argumendipõhised arutelud ja ühiste otsuste langetamine kodanikualgatuste jaoks.
-  0: |
-
+  title: Decide Together
+  text: |
+    A free online platform for democratic discussions & citizen participation.
   video:
-    title: Tutvustus
+    title: Intro
     url: https://www.youtube.com/embed/hDLWbQQAk8g?rel=0&showinfo=0&modestbranding=1&autoplay=1&cc_load_policy=1&cc_lang_pref=et
   demo:
     title: Demo
@@ -46,11 +46,11 @@ blocks:
       background-size: 360px 360px
     #label: Our Product
     title: |
-      Võta kasutusele meie avatud lähtekoodiga tarkvara.
+      A free platform.
     text: |
-      Usume, et online osalusdemokraatia vahendid peaksid olema kõigile tasuta kättesaadavad.
+      Make democratic decisions - discuss and crowdsource ideas, e-sign petitions.
     button1st:
-      title: Teave toote kohta
+      title: Learn More
       url: /et/toode/
   democracy-img:
     class:
@@ -73,11 +73,11 @@ blocks:
       background-position: 0 10%
       background-size: 122px 122px
     title: |
-      Tõstame teadlikkust osalusdemokraatiast.
+      A participatory future.
     text: |
-      Usume, et parim viis tsivilisatsioonina edasi arenemiseks on globaalselt kokku tulla ja otsustada teemade üle, mis mõjutavad meie heaolu.
+      We believe in a deeper democracy, where all citizens have a say in decisions that affect them.
     button1st:
-      title: Meie visioonist
+      title: Our Vision
       url: /et/visioon/
     button2nd:
   #title: Use platform - it’s free!
@@ -103,12 +103,12 @@ blocks:
       background-size: 360px 360px
     #label: Let’s Educate
     title: |
-      Arendame e-demokraatiat.
+      A community of innovators.
     text: |
-      Oma toodete arendamiseks teeme koostööd e-demokraatiat uurivate teadlastega.
+      We run a global community for participatory e-democracy enthusiasts, and everyone’s welcome.
     button1st:
-      title: Teave teadusuuringute kohta
-      url: /et/uurimused/
+      title: Learn More
+      url: /community/
   news:
     class:
       - order-6
@@ -119,11 +119,11 @@ blocks:
       background-position: 60% 10%
       background-size: 360px 360px
     title: |
-      Viimased uudised
+      Latest news.
     text: |
       { #news-items }
     button1st:
-      title: Loe kõiki uudiseid
+      title: More stories
       url: /et/uudised/
   meet:
     class:
@@ -155,12 +155,12 @@ blocks:
       - py-5
     #label: A word from the team
     title: |
-      Aita meil välja töötada avatud lähtekoodiga tooteid ja levitada osalusdemokraatiat.
+      About Us.
     text: |
-      Kui olete tarkvaraarendaja, tõlkija, teadlane, disainer, häktivist või ajakirjanik, liituge meie tiimiga!
+      We’re a non-profit civic tech organisation based in Tallinn, Estonia - the world’s leading digital nation.
     button1st:
-      title: Panusta
-      url: /et/kogukond/
+      title: Learn More
+      url: /company/
   partners:
     class:
       - order-9

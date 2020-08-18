@@ -9,11 +9,11 @@ image: crwdns23476:0crwdne23476:0
 data:
   news: /news/data.en.yaml
 header:
-  title: crwdns23478:0crwdne23478:0
-  0: |
-    crwdns23480:0crwdne23480:0
+  title: crwdns26104:0crwdne26104:0
+  text: |
+    crwdns26142:0crwdne26142:0
   video:
-    title: crwdns23482:0crwdne23482:0
+    title: crwdns26108:0crwdne26108:0
     url: crwdns23484:0crwdne23484:0
   demo:
     title: crwdns23486:0crwdne23486:0
@@ -46,11 +46,11 @@ blocks:
       background-size: crwdns23510:0crwdne23510:0
     #label: Our Product
     title: |
-      crwdns23512:0crwdne23512:0
+      crwdns26144:0crwdne26144:0
     text: |
-      crwdns23514:0crwdne23514:0
+      crwdns26112:0crwdne26112:0
     button1st:
-      title: crwdns23516:0crwdne23516:0
+      title: crwdns26114:0crwdne26114:0
       url: crwdns23518:0crwdne23518:0
   democracy-img:
     class:
@@ -73,11 +73,11 @@ blocks:
       background-position: crwdns23542:0crwdne23542:0
       background-size: crwdns23544:0crwdne23544:0
     title: |
-      crwdns23546:0crwdne23546:0
+      crwdns26116:0crwdne26116:0
     text: |
-      crwdns23548:0crwdne23548:0
+      crwdns26118:0crwdne26118:0
     button1st:
-      title: crwdns23550:0crwdne23550:0
+      title: crwdns26120:0crwdne26120:0
       url: crwdns23552:0crwdne23552:0
     button2nd: crwdns23554:0crwdne23554:0
   #title: Use platform - it’s free!
@@ -103,12 +103,12 @@ blocks:
       background-size: crwdns23576:0crwdne23576:0
     #label: Let’s Educate
     title: |
-      crwdns23578:0crwdne23578:0
+      crwdns26146:0crwdne26146:0
     text: |
-      crwdns23580:0crwdne23580:0
+      crwdns26124:0crwdne26124:0
     button1st:
-      title: crwdns23582:0crwdne23582:0
-      url: crwdns23584:0crwdne23584:0
+      title: crwdns26126:0crwdne26126:0
+      url: crwdns26128:0crwdne26128:0
   news:
     class:
       - crwdns23586:0crwdne23586:0
@@ -119,11 +119,11 @@ blocks:
       background-position: crwdns23594:0crwdne23594:0
       background-size: crwdns23596:0crwdne23596:0
     title: |
-      crwdns23598:0crwdne23598:0
+      crwdns26130:0crwdne26130:0
     text: |
       crwdns23600:0{ #news-items }crwdne23600:0
     button1st:
-      title: crwdns24336:0crwdne24336:0
+      title: crwdns26132:0crwdne26132:0
       url: crwdns24338:0crwdne24338:0
   meet:
     class:
@@ -155,12 +155,12 @@ blocks:
       - crwdns23636:0crwdne23636:0
     #label: A word from the team
     title: |
-      crwdns23638:0crwdne23638:0
+      crwdns26134:0crwdne26134:0
     text: |
-      crwdns23640:0crwdne23640:0
+      crwdns26136:0crwdne26136:0
     button1st:
-      title: crwdns23642:0crwdne23642:0
-      url: crwdns23644:0crwdne23644:0
+      title: crwdns26138:0crwdne26138:0
+      url: crwdns26140:0crwdne26140:0
   partners:
     class:
       - crwdns23646:0crwdne23646:0
