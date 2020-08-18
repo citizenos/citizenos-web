@@ -212,7 +212,7 @@ blocks:
             background-image: url(/assets/images/pattern.svg)
             background-size: 38px 42px
         title: |
-            Our online decision-making community is growing.
+            Our impact keeps on growing.
         button1st:
             title: Sign up for news
             url: '#subscribe'
