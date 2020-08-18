@@ -9,11 +9,11 @@ image: /assets/images/meta/home-alt.jpg
 data:
   news: /news/data.en.yaml
 header:
-  title: Diskusi berbasis argumen dan pengambilan keputusan kolaboratif untuk prakarsa sipil.
-  0: |
-
+  title: Decide Together
+  text: |
+    A free online platform for democratic discussions & citizen participation.
   video:
-    title: Pengantar
+    title: Intro
     url: https://www.youtube.com/embed/hDLWbQQAk8g?rel=0&showinfo=0&modestbranding=1&autoplay=1&cc_load_policy=1&cc_lang_pref=en
   demo:
     title: Demo
@@ -46,11 +46,11 @@ blocks:
       background-size: 360px 360px
     #label: Our Product
     title: |
-      Gunakan perangkat lunak open source.
+      A free platform.
     text: |
-      Kami percaya alat untuk demokrasi partisipatoris online harus gratis digunakan untuk semua orang.
+      Make democratic decisions - discuss and crowdsource ideas, e-sign petitions.
     button1st:
-      title: Tentang produk
+      title: Learn More
       url: /id/produk/
   democracy-img:
     class:
@@ -73,11 +73,11 @@ blocks:
       background-position: 0 10%
       background-size: 122px 122px
     title: |
-      Meningkatkan kepedulian tentang demokrasi partisipatoris.
+      A participatory future.
     text: |
-      Kami percaya agar kita dapat melangkah ke depan sebagai peradaban adalah dengan secara global bekerja sama dan memutuskan isu-isu yang memengaruhi kesejahteraan kita.
+      We believe in a deeper democracy, where all citizens have a say in decisions that affect them.
     button1st:
-      title: Tentang visi
+      title: Our Vision
       url: /id/visi/
     button2nd:
   #title: Use platform - it’s free!
@@ -103,12 +103,12 @@ blocks:
       background-size: 360px 360px
     #label: Let’s Educate
     title: |
-      Mengembangkan e-democracy.
+      A community of innovators.
     text: |
-      Kami berkolaborasi dengan peneliti untuk membantu mengembangkan produk kami.
+      We run a global community for participatory e-democracy enthusiasts, and everyone’s welcome.
     button1st:
-      title: Tentang riset
-      url: /id/riset/
+      title: Learn More
+      url: /community/
   news:
     class:
       - order-6
@@ -119,11 +119,11 @@ blocks:
       background-position: 60% 10%
       background-size: 360px 360px
     title: |
-      Berita terkini
+      Latest news.
     text: |
       { #news-items }
     button1st:
-      title: Baca semua berita
+      title: More stories
       url: /id/berita/
   meet:
     class:
@@ -155,12 +155,12 @@ blocks:
       - py-5
     #label: A word from the team
     title: |
-      Bantu kami mengembangkan produk Open Source dan menyebarkan demokrasi partisipatoris.
+      About Us.
     text: |
-      Baik Anda pengembang, penerjemah, peneliti, desainer, hacktivist, atau jurnalis - bergabunglah dengan kami!
+      We’re a non-profit civic tech organisation based in Tallinn, Estonia - the world’s leading digital nation.
     button1st:
-      title: Kontribusi
-      url: /id/kontribusi/
+      title: Learn More
+      url: /company/
   partners:
     class:
       - order-9
