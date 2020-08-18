@@ -15,7 +15,7 @@ data:
 header:
     title: Decide Together
     text: |
-        Use our free online platform for democratic discussions & citizen participation.
+        A free online platform for democratic discussions & citizen participation.
 
     video:
         title: Intro
@@ -55,7 +55,7 @@ blocks:
             background-size: 360px 360px
         # label: Our Product
         title: |
-            Our free platform.
+            A free platform.
         text: |
             Make democratic decisions - discuss and crowdsource ideas, e-sign petitions.
 
@@ -119,7 +119,7 @@ blocks:
             background-size: 360px 360px
         # label: Let’s Educate
         title: |
-            Join our Community.
+            A community of innovators.
         text: |
             We run a global community for participatory e-democracy enthusiasts, and everyone’s welcome.
         button1st:

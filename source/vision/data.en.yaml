@@ -19,7 +19,7 @@ blocks:
             background-position: center center, 0 10%, 75% 20%
             background-size: 500px 500px, 350px 350px, 65px 65px
         text: |
-            [► Play video](#video){.btn .btn-primary data-toggle=modal data-target=#video}
+            [► Our Vision](#video){.btn .btn-primary data-toggle=modal data-target=#video}
         video:
             id: video
             url: 'https://www.youtube.com/embed/hDLWbQQAk8g?rel=0&showinfo=0&modestbranding=1&autoplay=1&cc_load_policy=1&cc_lang_pref=en'
@@ -34,13 +34,12 @@ blocks:
             background-position: 10% 15%, 90% 90%
             background-size: 42px 42px, 102px 102px
         title: |
-            You have a voice and it needs to be heard.
+            Our mission.
         text: |
-            We believe social change happens when people come together and decide on things.
+            To empower as many people as possible to participate in respectful, meaningful discussions.
 
-            - [Get involved](#individual)
-            - [Contribute to Citizen OS](#awareness)
-            { .arrow }
+            We aim to facilitate collective decisions on issues that directly affect people’s wellbeing.
+
         button1st:
             title: Sign up for news
             url: '#subscribe'
@@ -65,18 +64,17 @@ blocks:
             - order-3
         # label: As an individual
         title: |
-            One person can make a difference.
+            The future we want.
         text: |
-            Participatory democracy is individual participation in political decisions that affect your life.
-
-            ## But there’s definitely strength in numbers.
-
             Governments are increasingly trusting citizens to help solve difficult social issues.
 
+            And citizens are increasingly demanding it.
+
+            Together, we can bring politics into the 21st Century - harnessing the power of tech for participatory democracy.
+
         button1st:
-            title: Use platform
-            url: https://app.citizenos.com
-            target: _blank
+            title: Get involved
+            url: /community/
 
 
     awareness:
