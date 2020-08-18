@@ -17,7 +17,7 @@ blocks:
       background-position: center center, 0 10%, 75% 20%
       background-size: 500px 500px, 350px 350px, 65px 65px
     text: |
-      [► Vaata videot](#video){.btn .btn-primary data-toggle=modal data-target=#video}
+      [► Our Vision](#video){.btn .btn-primary data-toggle=modal data-target=#video}
     video:
       id: video
       url: 'https://www.youtube.com/embed/hDLWbQQAk8g?rel=0&showinfo=0&modestbranding=1&autoplay=1&cc_load_policy=1&cc_lang_pref=en'
@@ -31,13 +31,11 @@ blocks:
       background-position: 10% 15%, 90% 90%
       background-size: 42px 42px, 102px 102px
     title: |
-      Sul on hääl – tee see kuuldavaks!
+      Our mission.
     text: |
-      Usume, et sotsiaalsed muutused saavad alguse sellest, kui inimesed kokku tulevad ja üheskoos otsuseid langetavad.
+      To empower as many people as possible to participate in respectful, meaningful discussions.
 
-      - [Liitu aruteluga](#individual)
-      - [Panusta Citizen OS-i arengusse](#awareness)
-      { .arrow }
+      We aim to facilitate collective decisions on issues that directly affect people’s wellbeing.
     button1st:
       title: Telli uudised
       url: '#subscribe'
@@ -57,17 +55,16 @@ blocks:
       - order-3
     #label: As an individual
     title: |
-      Iga inimese hääl on oluline.
+      The future we want.
     text: |
-      Osalusdemokraatia tähendab sekkumist nende poliitiliste otsuste tegemisse, mis mõjutavad Sinu elu.
+      Governments are increasingly trusting citizens to help solve difficult social issues.
 
-      ## Kuid kahtlemata peitub numbrites jõud.
+      And citizens are increasingly demanding it.
 
-      Valitsused usaldavad keerukate sotsiaalsete probleemide lahendamise üha sagedamini kodanikele.
+      Together, we can bring politics into the 21st Century - harnessing the power of tech for participatory democracy.
     button1st:
-      title: Ava platvorm
-      url: https://app.citizenos.com/et/
-      target: _blank
+      title: Get involved
+      url: /community/
   awareness:
     class:
       - order-4
