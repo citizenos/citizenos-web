@@ -7,7 +7,7 @@ keywords:
   - crwdns23884:0crwdne23884:0
 image: crwdns23476:0crwdne23476:0
 data:
-  news: crwdns24334:0crwdne24334:0
+  news: /news/data.en.yaml
 header:
   title: crwdns26104:0crwdne26104:0
   text: |
