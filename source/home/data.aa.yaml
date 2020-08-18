@@ -77,7 +77,7 @@ blocks:
     text: |
       crwdns26118:0crwdne26118:0
     button1st:
-      title: crwdns26120:0crwdne26120:0
+      title: crwdns26174:0crwdne26174:0
       url: crwdns23552:0crwdne23552:0
     button2nd: crwdns23554:0crwdne23554:0
   #title: Use platform - it’s free!
@@ -107,7 +107,7 @@ blocks:
     text: |
       crwdns26124:0crwdne26124:0
     button1st:
-      title: crwdns26126:0crwdne26126:0
+      title: crwdns26176:0crwdne26176:0
       url: crwdns26128:0crwdne26128:0
   news:
     class:
