@@ -18,31 +18,33 @@ blocks:
   contribute:
     #label: About
     title: |
-      Mi
+      How to get involved?
     text: |
 
-      Ryhdy vapaaehtoiseksi ja auta meitä parantamaan Citizen OS:n alustaa. Olitpa ohjelmistonkehittäjä, kääntäjä, tutkija, suunnittelija, haktivisti tai toimittaja – liity joukkoomme!
+      Help us improve the Citizen OS platform as a volunteer. Whether you are a developer, translator, researcher, designer, hacktivist or journalist - join us!
 
-      #### Auta kääntämisessä.
+      #### Join the Civic Hacktivist Community
 
-      Mikäli Citizen OS:n alusta ei vielä tue kieltäsi ja haluaisit liittyä vapaaehtoisten kääntäjiemme tiimiin, ole hyvä ja kerro siitä meille osoitteeseen <translations@citizenos.com>.
+      We run a global community for civic tech and participatory democracy enthusiasts. It’s a space for the exchange of knowledge and ideas about e-democracy and collaborative decision-making, and everyone’s welcome. [Find out more ](https://citizenos.com/community/).
 
-      Citizen OS:n alustan kääntäminen uusille kielille on helppoa. Monet vapaaehtoiset tekevät kanssamme työtä joka päivä. [Käy katsomassa]
-      (https://crowdin.com/project/citizenos-fe)!
+      #### Help translate.
 
-      #### Auta kehittämään avoimen lähdekoodin ohjelmistoa.
+      If Citizen OS platform doesn’t yet support your language and you'd like to join our volunteer translators' team, please get in touch at <translations@citizenos.com>.
 
-      Oletko ohjelmistonkehittäjä tai suunnittelija, jolle verkkopäätöksenteon tulevaisuus on sydämenasia?
+      Translating the Citizen OS platform into a new language is easy; many volunteers work with us every day. [Check it out](https://crowdin.com/project/citizenos-fe)!
 
-      Mikäli sinulla on ajatuksia siitä, miten parantaa avointa lähdekoodiamme tai lisätä sen toimintojen määrää, [jaa toki ne kanssamme GitHubissa]
-      (https://github.com/citizenos).
+      #### Help develop Open Source software.
 
-      #### Auta tutkimuksessa.
+      Are you a developer or designer, to whom the future of online decision-making is a topic close to heart?
 
-      Mikäli työskentelet digitaalisen demokratian kentällä, haluaisimme oikein mielellämme tavata sinut tai julkaista töitäsi blogissamme. Ole hyvä ja ota yhteyttä kumppanuuspäällikköömme <anett@citizenos.com>.
+      If you have ideas on how to improve or add functionality to our open source code, please [share it with us on GitHub](https://github.com/citizenos).
 
-      #### Auta muilla aloilla.
+      #### Help with research.
 
-      Jos sinulla on jotakin kysyttävää, ole hyvä ja kirjoita kumppanuuspäälliköllemme <anett@citizenos.com>.
+      If you are working in the field of e-democracy, we would love to meet you or publish your works on our blog. Please email our Head of Partnerships, Anett Linno at <anett@citizenos.com>.
 
-      Jos haluat liittyä tiimiimme, katso avoimina olevat paikat [täältä](/fi/urat/).
+      #### Help in other areas.
+
+      With any other offers, please contact our Head of Partnerships <anett@citizenos.com>.
+
+      If you would like to join the team, check out available positions [here](/careers/).
