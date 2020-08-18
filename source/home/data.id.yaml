@@ -50,7 +50,7 @@ blocks:
     text: |
       Make democratic decisions - discuss and crowdsource ideas, e-sign petitions.
     button1st:
-      title: Learn More
+      title: About platform
       url: /id/produk/
   democracy-img:
     class:
