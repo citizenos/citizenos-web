@@ -31,14 +31,14 @@ blocks:
       background-position: 10% 5%, 90% 90%
       background-size: 75px 75px, 65px 65px
     title: |
-      Online-otsustuskeskkond rühmade ja kogukondade jaoks.
+      Collective decisions and civic participation.
     text: |
-      Langeta argumenteeritud otsuseid! Määratle arutelude struktuur ja järgi hääletuskuupäevasid. Kogu petitsioonidele toetushääli.
+      Use the free online platform for discussions, voting and crowdsourcing ideas. With optional e-ID function.
 
-      - [Platform features](#features)
-      - [How does it work](#options)
-      - [How much does it cost](#options)
+      - [What can I use the Citizen OS platform for?](#flexibleformat)
+      - [Why use the Citizen OS platform?](#features)
       - [Case studies](#case-study-2)
+      - [Statistics](#stats)
       { .arrow }
     button1st:
       title: Esita demo
@@ -56,30 +56,30 @@ blocks:
       background-size: 38px 42px
     label: Paindlik vorming
     title: |
-      Mida platvormil Citizen OS teha saab?
+      What can I use Citizen OS for?
     text: |
       { #flexibleformat-items }
     blocks:
       petitions:
         poster: /assets/images/flexibleformat-petitions.png
-        title: Petitsioonid
+        title: Voting
         text: |
-          Saate petitsioone kollektiivselt muuta ja koguda neile tuhandeid või miljoneid allkirju. Lisaks saad osalejatele saata teavet petitsioonile järgnenud sündmuste kohta.
+          Ideal for e-democracy initiatives.
       onlinemeetings:
         poster: /assets/images/flexibleformat-onlinemeetings.png
-        title: Online-koosolekud
+        title: Discussions
         text: |
-          Korralda koosolekuid veebis. Igaüks saab jätta oma kommentaare ja hääletada talle sobival ajal.
+          Enjoy rational, balanced group discussions. Integrable discussion widget also available.
       gatheringideas:
         poster: /assets/images/flexibleformat-gatheringideas.png
-        title: Ideede kogumine
+        title: Crowd-sourcing Ideas
         text: |
-          Kaasa otsustusprotsessi rohkem inimesi.
+          Get input from a wider audience. Ideal for citizen participation projects.
       widget:
         poster: /assets/images/flexibleformat-widget.png
-        title: Arutelud poolt- ja vastuargumentidega
+        title: Remote decisions
         text: |
-          Integreerige meie vidin oma saidile või platvormile, et viia läbi arutelusid poolt- ja vastuargumentide kaalumiseks.
+          Invite participants, discuss privately or publicly. Free open-source code is available for [download on GitHub](https://github.com/citizenos) if you wish to set up a private server.
   features-img:
     class:
       - order-3
@@ -97,60 +97,54 @@ blocks:
       background: '#F7F7F7'
     label: Funktsioonid
     title: |
-      Selgus
+      Why use the Citizen OS platform?
     text: |
-      - Ülevaade otsustusprotsessist.
-      - Hääletustähtajad.
+      - 100% free to use. No ads, no charges.
+      - A ready-made platform – just log in and get started.
+      - Customisable voting - multiple choice, vote delegation.
+      - Activity feed.
       { .bullet }
 
-      ## Kaasamine{ .mt-5 }
-
-      - Ideede kogumist alustatakse organisatsiooni madalaimalt tasemelt.
-      - Arutelu toimub struktureeritult.
-      - Osaleda võib miljoneid inimesi.
+      - Private or public discussions.
+      - Co-edit texts before or during a discussion.
+      - In 13 languages and easy to translate.
       { .bullet }
 
-      ## Turvalisus ja uurimused{ .mt-5 }
-
-      - Pidev arendustöö uute seadustega kooskõlas püsimiseks.
-      - Tootearendus põhineb teaduslikul lähenemisel.
-      - Turvaliselt krüptitud andmed, turvaline pilveserverisse installitud platvorm.
+      - e-ID compatible – for logins, votes & digital signatures.
+      - Continuous development to keep up with new laws.
+      - Product development follows scientific e-democracy practices.
+      - Safe encrypted data, secure platform in a cloud server.
+      - Long-term funding by a philanthroper - we’re sticking around.
+      - Open source code.
       { .bullet }
-  options:
-    class:
-      - order-5
-      - col-sm-12
-      - text-center
-    style:
-      background: '#AAF3DD'
-    title: |
-      Tooted
-    blocks:
-      app:
-        title: Kasuta meie kodulehel
-        text: |
-          Platvorm Citizen OS on meie veebisaidil kõigile tasuta kasutamiseks kättesaadav.
-        subtext: Igavesti tasuta!
-        button:
-          title: Ava platvorm
-          url: https://app.citizenos.com/et/
-          target: _blank
-      api:
-        title: Integreeri API
-        text: |
-          Kasutage Citizen OS-i rakendusliidest alusena, millele luua oma kaubamärgiga online-otsustusplatvorm.
-        subtext: Igavesti tasuta!
-        button:
-          title: GitHub
-          url: https://github.com/citizenos/citizenos-web
-      consult:
-        title: Konsulteeri ja integreeri
-        text: |
-          Lase meie tiimil kogu töö ära teha – alates konsulteerimisest kuni süsteemi teie vajadustele vastavaks kohandamiseni.
-        subtext: Pakkumistepõhine
-        button:
-          title: Võta meiega ühendust
-          url: /et/kontakt/
+  #options:
+  #class:
+  #- order-5
+  #- col-sm-12
+  #- text-center
+  #style:
+  #background: '#AAF3DD'
+  #label: Products
+  #title: |
+  #How can I use Citizen OS?
+  #blocks:
+  #app:
+  #title: Use on our website
+  #text: |
+  #Currently in 13 languages.
+  #subtext: Free
+  #button:
+  #title: Use platform
+  #url: https://app.citizenos.com
+  #target: _blank
+  #consult:
+  #title: Set up own server
+  #text: |
+  #Download the code and contact us if you need help with consulting.
+  #subtext: Free open-source code
+  #button:
+  #title: Download
+  #url: https://github.com/citizenos/citizenos-web
   case-study-2-img:
     class:
       - order-6
@@ -163,17 +157,17 @@ blocks:
       background-image: url(/assets/images/bubble-blue.svg)
       background-position: 80% 5%
       background-size: 122px 122px
-    #label: Case study
+    label: Case study
     title: |
-      Kasutajakogemus: Eesti Vabariigi kodanike ja valitsuse vaheline suhtlus
+      Estonia’s Citizen Initiatives Platform.
     text: |
-      Platvormi Citizen OS avatud lähtekoodi kasutati kodanikualgatuse platvotmi [www.rahvaalgatus.ee](https://www.rahvaalgatus.ee) seadistamiseks. Sellel saidil saab luua petitsioone, koguda neile toetushääli ja saata petitsioone Parlamenti.
+      The Citizen OS open source code was partly used to set up [Rahvalgaatus.ee](https://www.rahvaalgatus.ee). Here, petitions can be launched, signed and submitted directly to the Estonian Parliament.
   case-study-img:
     class:
       - order-8
       - order-sm-9
     text: |
-      ![Foto iga-aastasel Eesti arvamusfestivalil Citizen OS-i argumenteerimisvidinat kasutavast publikust. ](/assets/images/product-case-study.jpg){ .img-fluid .box-shadow }
+      ![Many indonesians smiling, wearing World Cleanup Day shirts, walking on a beach, carrying bags full of plastic garbage.](/assets/images/product-case-study.jpeg){ .img-fluid .box-shadow }
   case-study:
     class:
       - order-9
@@ -182,11 +176,13 @@ blocks:
       background-image: url(/assets/images/bubble-orange.svg), url(/assets/images/bubble-yellow.svg)
       background-position: 10% 5%, 90% 90%
       background-size: 85px 85px, 55px 55px
-    #label: Case study
+    label: Case study
     title: |
-      Kasutajakogemus: suhtlusulatuse laiendamine.
+      For a Greener Indonesia.
     text: |
-      [Arvamusfestival](https://www.arvamusfestival.ee) integreeris platvormi Citizen OS argumenteerimisvidina, mille abil said online arutelud festivalil püstitatud teemadel jätkuda ka pärast kaht festivalipäeva.
+      With their [34 Islands Project](https://citizenos.com/news/turning-citizen-ideas-into-action-on-waste-bintan-indonesia/), civic movement Let’s Do It Indonesia is working to build a greener future.
+
+      Using the Citizen OS platform, local people can submit sustainable waste management ideas and vote for their favourites.
   stats:
     class:
       - order-10
@@ -199,9 +195,8 @@ blocks:
     title: |
       Meie online-otsustuskeskkond kasvab järjepidevalt.
     button1st:
-      title: Ava platvorm
-      url: https://app.citizenos.com/et/
-      target: _blank
+      title: Sign up for news
+      url: '#subscribe'
     blocks:
       topicsCreated:
         title: arutelusid
