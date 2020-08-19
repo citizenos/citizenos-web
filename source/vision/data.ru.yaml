@@ -64,7 +64,7 @@ blocks:
       Together, we can bring politics into the 21st Century - harnessing the power of tech for participatory democracy.
     button1st:
       title: Get involved
-      url: /community/
+      url: /ru/soobshchestvo/
   awareness:
     class:
       - order-4
@@ -82,5 +82,5 @@ blocks:
       Our team is non-hierarchical, the code open source and platform design backed by rigorous research.
     button1st:
       title: Use platform
-      url: https://app.citizenos.com
+      url: https://app.citizenos.com/ru/
       target: _blank
