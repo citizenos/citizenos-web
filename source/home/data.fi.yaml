@@ -107,7 +107,7 @@ blocks:
       We run a global community for participatory e-democracy enthusiasts, and everyone’s welcome.
     button1st:
       title: About Community
-      url: /community/
+      url: /fi/yhteiso/
   news:
     class:
       - order-6
@@ -159,7 +159,7 @@ blocks:
       We’re a non-profit civic tech organisation based in Tallinn, Estonia - the world’s leading digital nation.
     button1st:
       title: About Company
-      url: /company/
+      url: /fi/yritys/
   partners:
     class:
       - order-9
