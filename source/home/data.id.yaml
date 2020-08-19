@@ -20,7 +20,7 @@ header:
     url: https://www.youtube.com/embed/UC44qCCIixE?rel=0&showinfo=0&modestbranding=1&autoplay=1&cc_load_policy=1&cc_lang_pref=en
 #whatIs:
 #title: What is Citizen OS
-#url: /product/
+#url: /platform/
 #startUsing:
 #title: Start using - it’s free!
 #url: https://app.citizenos.com
@@ -44,14 +44,13 @@ blocks:
       background-image: url(/assets/images/bubble-dots.png)
       background-position: 0% 25%
       background-size: 360px 360px
-    #label: Our Product
     title: |
       A free platform.
     text: |
       Make democratic decisions - discuss and crowdsource ideas, e-sign petitions.
     button1st:
       title: About platform
-      url: /id/produk/
+      url: /platform/
   democracy-img:
     class:
       - order-3
