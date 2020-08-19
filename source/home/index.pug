@@ -129,6 +129,10 @@ append script
             //-     }
             //- }
 
+            if ('#{ self.locale }' !== 'en') {
+                $('#news').remove()
+            }
+
             $('#news').removeClass('col-sm-6')
             $('#news .block-text').removeClass('col-sm-8')
             $('#news .block-text').removeClass('offset-sm-2')
