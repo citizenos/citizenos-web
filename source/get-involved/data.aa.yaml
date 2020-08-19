@@ -1,0 +1,23 @@
+---
+path: crwdns26244:0crwdne26244:0
+title: crwdns26246:0crwdne26246:0
+description: crwdns23946:0crwdne23946:0
+keywords:
+  - crwdns23948:0crwdne23948:0
+  - crwdns23950:0crwdne23950:0
+  - crwdns23952:0crwdne23952:0
+image: crwdns23044:0crwdne23044:0
+blocks:
+  get-involved-img:
+    class:
+      - crwdns26248:0crwdne26248:0
+      - crwdns26250:0crwdne26250:0
+    style:
+      background: 'crwdns26252:0crwdne26252:0'
+      min-height: crwdns26254:0crwdne26254:0
+  get-involved:
+    #label: About
+    title: |
+      crwdns26256:0crwdne26256:0
+    text: |
+      crwdns26258:0[here]crwdne26258:0
