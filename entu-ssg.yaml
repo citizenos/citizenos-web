@@ -5,7 +5,7 @@ locales:
     - fr
     - ru
     - id
-    - aa # Crowdin In-context pseudo language
+    # - aa # Crowdin In-context pseudo language
 defaultLocale: en
 
 source: ./source
