@@ -1,10 +1,10 @@
 siteTitle: Citizen OS
 
 navigation:
-    product:
-        title: Product
-        url: /product/
-        class: product
+    platform:
+        title: Platform
+        url: /platform/
+        class: platform
     vision:
         title: Vision
         url: /vision/
