@@ -1,10 +1,10 @@
 ---
 siteTitle: Citizen OS
 navigation:
-  product:
-    title: Produk
-    url: /id/produk/
-    class: product
+  platform:
+    title: Platform
+    url: /platform/
+    class: platform
   vision:
     title: Visi
     url: /id/visi/
@@ -54,9 +54,9 @@ footer:
         careers:
           title: Karier
           url: /id/karier/
-        contribute:
-          title: Kontribusi
-          url: /id/kontribusi/
+        getInvolved:
+          title: Get involved
+          url: /get-involved/
         team:
           title: Tim
           url: /id/tim/
