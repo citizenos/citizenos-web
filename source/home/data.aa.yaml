@@ -20,7 +20,7 @@ header:
     url: crwdns23488:0crwdne23488:0
 #whatIs:
 #title: What is Citizen OS
-#url: /product/
+#url: /platform/
 #startUsing:
 #title: Start using - it’s free!
 #url: https://app.citizenos.com
@@ -44,14 +44,13 @@ blocks:
       background-image: crwdns23506:0crwdne23506:0
       background-position: crwdns23508:0crwdne23508:0
       background-size: crwdns23510:0crwdne23510:0
-    #label: Our Product
     title: |
       crwdns26144:0crwdne26144:0
     text: |
       crwdns26112:0crwdne26112:0
     button1st:
       title: crwdns26162:0crwdne26162:0
-      url: crwdns23518:0crwdne23518:0
+      url: crwdns26274:0crwdne26274:0
   democracy-img:
     class:
       - crwdns23520:0crwdne23520:0
