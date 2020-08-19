@@ -1,6 +1,6 @@
-path: /contribute
+path: /get-involved
 
-title: Contribute
+title: Get involved
 description: Developer, translator, scientist, designer, hacktivist and journalist - please get in touch! Citizen OS welcomes volunteers who are interested in e-democracy.
 keywords:
     - civic hacktivist
@@ -10,7 +10,7 @@ image: /assets/images/meta/vision.jpg
 
 
 blocks:
-    contribute-img:
+    get-involved-img:
         class:
             - d-none
             - d-sm-block
@@ -18,7 +18,7 @@ blocks:
             background: 'linear-gradient(180deg, #0EB7FE 0%, #0680FC 100%)'
             min-height: 75vh
 
-    contribute:
+    get-involved:
         # label: About
         title: |
             How to get involved?

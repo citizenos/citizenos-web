@@ -58,9 +58,9 @@ footer:
                 careers:
                     title: Careers
                     url: /careers/
-                contribute:
-                    title: Contribute
-                    url: /contribute/
+                getInvolved:
+                    title: Get involved
+                    url: /get-involved/
                 team:
                     title: Team
                     url: /team/
