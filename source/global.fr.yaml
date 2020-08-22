@@ -2,9 +2,9 @@
 siteTitle: Citizen OS
 navigation:
   platform:
-    title: Platform
-    url: /platform/
-    class: platform
+    title: Plateforme
+    url: fr/plateforme/
+    class: plateforme
   vision:
     title: Vision
     url: /fr/vision/
@@ -55,8 +55,8 @@ footer:
           title: Recrutement
           url: /fr/recrutement/
         getInvolved:
-          title: Get involved
-          url: /get-involved/
+          title: Participer
+          url: /fr/participer/
         team:
           title: Équipe
           url: /fr/equipe/
