@@ -1,6 +1,6 @@
 ---
-path: /platform
-title: Platform
+path: fr/plateforme
+title: Plateforme
 description: Logiciel de démocratie numérique libre pour la co-création, la discussion et le vote. Commencez votre propre initiative citoyenne, votre site de pétition ou votre sujet de discussion aujourd'hui !
 keywords:
   - initiatives citoyennes
@@ -31,7 +31,7 @@ blocks:
       background-position: 10% 5%, 90% 90%
       background-size: 75px 75px, 65px 65px
     title: |
-      Collective decisions and civic participation.
+      Décisions collectives et participation civique.
     text: |
       Use the free online platform for discussions, voting and crowdsourcing ideas. With optional e-ID function.
 
@@ -62,7 +62,7 @@ blocks:
     blocks:
       petitions:
         poster: /assets/images/flexibleformat-petitions.png
-        title: Voting
+        title: Vote
         text: |
           Make democratic decisions with customisable voting. Perfect for e-democracy initiatives.
       onlinemeetings:
@@ -74,7 +74,7 @@ blocks:
         poster: /assets/images/flexibleformat-gatheringideas.png
         title: Crowdsourcing Ideas
         text: |
-          Get input from a wider audience. Ideal for citizen participation projects.
+          Obtenez les commentaires d'un public plus large. Idéal pour les projets de participation citoyenne.
       widget:
         poster: /assets/images/flexibleformat-widget.png
         title: Follow up
@@ -153,9 +153,9 @@ blocks:
       background-image: url(/assets/images/bubble-blue.svg)
       background-position: 80% 5%
       background-size: 122px 122px
-    label: Case study
+    label: Étude de cas
     title: |
-      Estonia’s Citizen Initiatives Platform.
+      La plateforme d’initiatives citoyennes d’Estonie.
     text: |
       The Citizen OS open source code was partly used to set up the citizen initiatives website [Rahvalgaatus.ee](https://www.rahvaalgatus.ee). Here, petitions can be launched, signed and submitted directly to the Estonian Parliament.
   case-study-img:
@@ -163,7 +163,7 @@ blocks:
       - order-8
       - order-sm-9
     text: |
-      ![Many indonesians smiling, wearing World Cleanup Day shirts, walking on a beach, carrying bags full of plastic garbage.](/assets/images/product-case-study.jpeg){ .img-fluid .box-shadow }
+      ![De nombreux Indonésiens sourient, portant des t-shirts de la Journée mondiale du nettoyage, marchant sur une plage, transportant des sacs remplis d'ordures en plastique.](/assets/images/product-case-study.jpeg){ .img-fluid .box-shadow }
   case-study:
     class:
       - order-9
@@ -172,13 +172,13 @@ blocks:
       background-image: url(/assets/images/bubble-orange.svg), url(/assets/images/bubble-yellow.svg)
       background-position: 10% 5%, 90% 90%
       background-size: 85px 85px, 55px 55px
-    label: Case study
+    label: Étude de cas
     title: |
-      For a Greener Indonesia.
+      Pour une Indonésie plus verte.
     text: |
-      With their [34 Islands Project](https://citizenos.com/news/turning-citizen-ideas-into-action-on-waste-bintan-indonesia/), civic movement Let’s Do It Indonesia is working to build a greener future.
+      Avec leur [34 Island Project](https://citizenos.com/news/turning-Citizen-ideas-into-action-on-waste-bintan-indonesia/), le mouvement civique Let's Do It Indonesia travaille à construire un avenir plus vert.
 
-      Using the Citizen OS platform, local people can submit sustainable waste management ideas and vote for their favourites.
+      En utilisant la plateforme Citizen OS, les locaux peuvent soumettre des idées de gestion des déchets durables et voter pour leurs favorites.
   stats:
     class:
       - order-10
@@ -189,9 +189,9 @@ blocks:
       background-image: url(/assets/images/pattern.svg)
       background-size: 38px 42px
     title: |
-      Our impact keeps on growing.
+      Notre impact ne cesse de croître.
     button1st:
-      title: Sign up for news
+      title: S'inscrire aux actualités
       url: '#subscribe'
     blocks:
       topicsCreated:
