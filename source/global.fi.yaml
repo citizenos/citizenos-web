@@ -2,9 +2,9 @@
 siteTitle: Citizen OS
 navigation:
   platform:
-    title: Platform
-    url: /platform/
-    class: platform
+    title: Alusta
+    url: /fi/alusta/
+    class: alusta
   vision:
     title: Visio
     url: /fi/visio/
@@ -55,8 +55,8 @@ footer:
           title: Urat
           url: /fi/urat/
         getInvolved:
-          title: Get involved
-          url: /get-involved/
+          title: Osallistu
+          url: /fi/osallistu/
         team:
           title: Tiimi
           url: /fi/tiimi/
