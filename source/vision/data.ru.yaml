@@ -31,11 +31,11 @@ blocks:
       background-position: 10% 15%, 90% 90%
       background-size: 42px 42px, 102px 102px
     title: |
-      Our mission.
+      Наша миссия
     text: |
-      To empower as many people as possible to participate in respectful, meaningful discussions.
+      Помочь максимальному количеству людей участвовать в важных и полезных дискуссиях.
 
-      We aim to facilitate collective decisions on issues that directly affect people’s wellbeing.
+      Мы хотим, чтобы принимать коллективные решения было легко, особенно в тех областях, от которых напрямую зависит жизнь людей.
     button1st:
       title: Our vision
       url: 'https://www.youtube.com/embed/hDLWbQQAk8g?rel=0&showinfo=0&modestbranding=1&autoplay=1&cc_load_policy=1&cc_lang_pref=en'
@@ -55,15 +55,15 @@ blocks:
       - order-3
     #label: As an individual
     title: |
-      The future we want.
+      Будущее, о котором мы мечтаем
     text: |
-      Governments are increasingly trusting citizens to help solve difficult social issues.
+      Правительства все чаще доверяют гражданам возможность решать сложные социальные вопросы.
 
-      And citizens are increasingly demanding it.
+      А граждане все чаще этого требуют.
 
-      Together, we can bring politics into the 21st Century - harnessing the power of tech for participatory democracy.
+      Вместе мы создадим политику XXI века, поставив технологии на службу демократии участия.
     button1st:
-      title: Get involved
+      title: Присоединяйтесь!
       url: /get-involved/
   awareness:
     class:
@@ -75,11 +75,11 @@ blocks:
       background-position: 10% 10%
     #label: Raising awareness
     title: |
-      Living our values.
+      Наши ценности
     text: |
-      Our ethos of transparency, participation and deliberation runs through everything we do.
+      Наши основные ценности — прозрачность, совместная работа и дискуссии.
 
-      Our team is non-hierarchical, the code open source and platform design backed by rigorous research.
+      Наша команда лишена иерархии, мы используем ПО с открытым исходным кодом, а за дизайном нашей платформы стоят глубокие исследования.
     button1st:
       title: Try it now
       url: https://app.citizenos.com/ru/
