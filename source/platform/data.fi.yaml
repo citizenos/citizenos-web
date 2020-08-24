@@ -1,6 +1,6 @@
 ---
-path: /platform
-title: Platform
+path: /alusta
+title: Alusta
 description: Ilmainen verkkodemokratiaohjelmisto yhteiseen luomistyöhön, keskusteluun ja äänestämiseen. Käynnistä oma kansalaisaloitteesi, vetoomussivustosi tai keskustelunaiheesi tänään!
 keywords:
   - kansalaisaloitteet
@@ -31,7 +31,7 @@ blocks:
       background-position: 10% 5%, 90% 90%
       background-size: 75px 75px, 65px 65px
     title: |
-      Collective decisions and civic participation.
+      Kollektiiviset päätökset ja kansalaisosallistuminen.
     text: |
       Use the free online platform for discussions, voting and crowdsourcing ideas. With optional e-ID function.
 
@@ -62,19 +62,19 @@ blocks:
     blocks:
       petitions:
         poster: /assets/images/flexibleformat-petitions.png
-        title: Voting
+        title: Äänestäminen
         text: |
           Make democratic decisions with customisable voting. Perfect for e-democracy initiatives.
       onlinemeetings:
         poster: /assets/images/flexibleformat-onlinemeetings.png
-        title: Discussions
+        title: Keskustelut
         text: |
           Enjoy rational, balanced group discussions, weighing up the pros and cons.
       gatheringideas:
         poster: /assets/images/flexibleformat-gatheringideas.png
         title: Crowdsourcing Ideas
         text: |
-          Get input from a wider audience. Ideal for citizen participation projects.
+          Laajenna osallistujamäärää. Sopii täydellisesti kansalaisosallistumisprojekteihin.
       widget:
         poster: /assets/images/flexibleformat-widget.png
         title: Follow up
@@ -153,9 +153,9 @@ blocks:
       background-image: url(/assets/images/bubble-blue.svg)
       background-position: 80% 5%
       background-size: 122px 122px
-    label: Case study
+    label: Tapaustutkimus
     title: |
-      Estonia’s Citizen Initiatives Platform.
+      Viron kansalaisaloitealusta.
     text: |
       The Citizen OS open source code was partly used to set up the citizen initiatives website [Rahvalgaatus.ee](https://www.rahvaalgatus.ee). Here, petitions can be launched, signed and submitted directly to the Estonian Parliament.
   case-study-img:
@@ -163,7 +163,7 @@ blocks:
       - order-8
       - order-sm-9
     text: |
-      ![Many indonesians smiling, wearing World Cleanup Day shirts, walking on a beach, carrying bags full of plastic garbage.](/assets/images/product-case-study.jpeg){ .img-fluid .box-shadow }
+      ![Monet indonesialaiset pitävät hymyssä suin World Cleanup Day -paitoja, siivoavat rannoilta muoviroskaa.](/assets/images/product-case-study.jpeg){ .img-fluid .box-shadow }
   case-study:
     class:
       - order-9
@@ -172,13 +172,13 @@ blocks:
       background-image: url(/assets/images/bubble-orange.svg), url(/assets/images/bubble-yellow.svg)
       background-position: 10% 5%, 90% 90%
       background-size: 85px 85px, 55px 55px
-    label: Case study
+    label: Tapaustutkimus
     title: |
-      For a Greener Indonesia.
+      Vihreämmän Indonesian puolesta.
     text: |
-      With their [34 Islands Project](https://citizenos.com/news/turning-citizen-ideas-into-action-on-waste-bintan-indonesia/), civic movement Let’s Do It Indonesia is working to build a greener future.
+      Kansanliike Let’s Do It Indonesia työskentelee vihreämmän tulevaisuuden puolesta [34 Islands Project](https://citizenos.com/news/turning-citizen-ideas-into-action-on-waste-bintan-indonesia/) -projektin avulla.
 
-      Using the Citizen OS platform, local people can submit sustainable waste management ideas and vote for their favourites.
+      Paikalliset ihmiset voivat lähettää Citizen OS -alustan avulla kestäviä jätteenkäsittelyideoita ja äänestää suosikki-ideoitaan.
   stats:
     class:
       - order-10
@@ -189,9 +189,9 @@ blocks:
       background-image: url(/assets/images/pattern.svg)
       background-size: 38px 42px
     title: |
-      Our impact keeps on growing.
+      Vaikutuksemme kasvaa jatkuvasti.
     button1st:
-      title: Sign up for news
+      title: Rekisteröidy vastaanottaaksesi uutisia
       url: '#subscribe'
     blocks:
       topicsCreated:
