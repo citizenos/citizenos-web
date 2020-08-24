@@ -2,9 +2,9 @@
 siteTitle: Citizen OS
 navigation:
   platform:
-    title: Platform
-    url: /platform/
-    class: platform
+    title: Платформа
+    url: /ru/platforma
+    class: платформа
   vision:
     title: Концепция
     url: /ru/koncepciya/
@@ -55,8 +55,8 @@ footer:
           title: Вакансии
           url: /ru/vakansii/
         getInvolved:
-          title: Get involved
-          url: /get-involved/
+          title: Присоединяйтесь!
+          url: ru/prinyat-uchastie/
         team:
           title: Команда
           url: /ru/komanda/
