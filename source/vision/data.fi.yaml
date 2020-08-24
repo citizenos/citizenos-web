@@ -31,11 +31,11 @@ blocks:
       background-position: 10% 15%, 90% 90%
       background-size: 42px 42px, 102px 102px
     title: |
-      Our mission.
+      Missiomme.
     text: |
-      To empower as many people as possible to participate in respectful, meaningful discussions.
+      Tarjota mahdollisimman monille ihmisille mahdollisuus osallistua kunnioittaviin ja merkityksellisiin keskusteluihin.
 
-      We aim to facilitate collective decisions on issues that directly affect people’s wellbeing.
+      Pyrimme helpottamaan kollektiivista päätöksentekoa asioissa, jotka vaikuttavat suoraan ihmisten hyvinvointiin.
     button1st:
       title: Our vision
       url: 'https://www.youtube.com/embed/hDLWbQQAk8g?rel=0&showinfo=0&modestbranding=1&autoplay=1&cc_load_policy=1&cc_lang_pref=en'
@@ -55,15 +55,15 @@ blocks:
       - order-3
     #label: As an individual
     title: |
-      The future we want.
+      Haluamamme tulevaisuus.
     text: |
-      Governments are increasingly trusting citizens to help solve difficult social issues.
+      Hallitukset luottavat yhä enemmän kansalaisiin vaikeiden sosiaalisten ongelmien ratkaisemisessa.
 
-      And citizens are increasingly demanding it.
+      Kansalaiset myös vaativat sitä yhä enemmän.
 
-      Together, we can bring politics into the 21st Century - harnessing the power of tech for participatory democracy.
+      Voimme yhdessä tuoda politiikan 2000-luvulle – hyödyntämällä teknologian voimaa osallistavassa demokratiassa.
     button1st:
-      title: Get involved
+      title: Osallistu
       url: /get-involved/
   awareness:
     class:
@@ -75,11 +75,11 @@ blocks:
       background-position: 10% 10%
     #label: Raising awareness
     title: |
-      Living our values.
+      Arvojemme mukaan eläminen.
     text: |
-      Our ethos of transparency, participation and deliberation runs through everything we do.
+      Avoimuuden, osallistumisen ja harkinnan periaatteet kulkevat läpi kaiken, mitä teemme.
 
-      Our team is non-hierarchical, the code open source and platform design backed by rigorous research.
+      Tiimimme on ei-hierarkkinen, käytämme avointa lähdekoodia ja alustan suunnittelua tukee tieteellinen tutkimus.
     button1st:
       title: Try it now
       url: https://app.citizenos.com/fi/
