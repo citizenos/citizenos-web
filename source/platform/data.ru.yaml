@@ -1,6 +1,6 @@
 ---
 path: /ru/платформа/
-title: Platform
+title: Платформа
 description: Бесплатная цифровая демократическая платформа для совместного создания, обсуждения и голосования. Создайте свою собственную гражданскую инициативу, сайт петиций или откройте новую тему для обсуждения!
 keywords:
   - гражданские инициативы
@@ -31,7 +31,7 @@ blocks:
       background-position: 10% 5%, 90% 90%
       background-size: 75px 75px, 65px 65px
     title: |
-      Collective decisions and civic participation.
+      Коллективное принятие решений и построение гражданского общества
     text: |
       Use the free online platform for discussions, voting and crowdsourcing ideas. With optional e-ID function.
 
@@ -62,19 +62,19 @@ blocks:
     blocks:
       petitions:
         poster: /assets/images/flexibleformat-petitions.png
-        title: Voting
+        title: Голосование
         text: |
           Make democratic decisions with customisable voting. Perfect for e-democracy initiatives.
       onlinemeetings:
         poster: /assets/images/flexibleformat-onlinemeetings.png
-        title: Discussions
+        title: Обсуждения
         text: |
           Enjoy rational, balanced group discussions, weighing up the pros and cons.
       gatheringideas:
         poster: /assets/images/flexibleformat-gatheringideas.png
         title: Crowdsourcing Ideas
         text: |
-          Get input from a wider audience. Ideal for citizen participation projects.
+          Задействуйте более широкую аудиторию. Платформа идеально подходит для проектов, требующих участия большого количества граждан.
       widget:
         poster: /assets/images/flexibleformat-widget.png
         title: Follow up
@@ -153,9 +153,9 @@ blocks:
       background-image: url(/assets/images/bubble-blue.svg)
       background-position: 80% 5%
       background-size: 122px 122px
-    label: Case study
+    label: Тематическое исследование
     title: |
-      Estonia’s Citizen Initiatives Platform.
+      Эстонская платформа Citizen Initiatives
     text: |
       The Citizen OS open source code was partly used to set up the citizen initiatives website [Rahvalgaatus.ee](https://www.rahvaalgatus.ee). Here, petitions can be launched, signed and submitted directly to the Estonian Parliament.
   case-study-img:
@@ -163,7 +163,7 @@ blocks:
       - order-8
       - order-sm-9
     text: |
-      ![Many indonesians smiling, wearing World Cleanup Day shirts, walking on a beach, carrying bags full of plastic garbage.](/assets/images/product-case-study.jpeg){ .img-fluid .box-shadow }
+      ![Индонезийцы улыбаются, надевают футболки Всемирного дня чистоты и идут на пляж собирать пластиковый мусор.](/assets/images/product-case-study.jpeg){ .img-fluid .box-shadow }
   case-study:
     class:
       - order-9
@@ -172,13 +172,12 @@ blocks:
       background-image: url(/assets/images/bubble-orange.svg), url(/assets/images/bubble-yellow.svg)
       background-position: 10% 5%, 90% 90%
       background-size: 85px 85px, 55px 55px
-    label: Case study
+    label: Тематическое исследование
     title: |
-      For a Greener Indonesia.
+      За чистую Индонезию!
     text: |
-      With their [34 Islands Project](https://citizenos.com/news/turning-citizen-ideas-into-action-on-waste-bintan-indonesia/), civic movement Let’s Do It Indonesia is working to build a greener future.
-
-      Using the Citizen OS platform, local people can submit sustainable waste management ideas and vote for their favourites.
+      Движение Let’s Do It Indonesia разработало проект [34 Islands](https://citizenos.com/news/turning-citizen-ideas-into-action-on-waste-bintan-indonesia/), цель которого — построение "зеленого" будущего.
+      С помощью платформы Citizen OS жители Индонезии могут предлагать свои идеи по утилизации отходов и голосовать за чужие.
   stats:
     class:
       - order-10
@@ -189,9 +188,9 @@ blocks:
       background-image: url(/assets/images/pattern.svg)
       background-size: 38px 42px
     title: |
-      Our impact keeps on growing.
+      Мы растем и становимся влиятельнее
     button1st:
-      title: Sign up for news
+      title: Подписаться на новости
       url: '#subscribe'
     blocks:
       topicsCreated:
