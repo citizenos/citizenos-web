@@ -1,6 +1,6 @@
 ---
-path: /get-involved
-title: Get involved
+path: /fi/osallistu
+title: Osallistu
 description: Kehittäjä, kääntäjä, tutkija, suunnittelija, haktivisti tai toimittaja – ota meihin yhteyttä! Citizen OS toivottaa tervetulleiksi kaikki verkkodemokratiasta kiinnostuneet vapaaehtoiset.
 keywords:
   - kansalaishaktivisti
@@ -18,7 +18,7 @@ blocks:
   get-involved:
     #label: About
     title: |
-      How to get involved?
+      Miten voin osallistua?
     text: |
 
       Help us improve the Citizen OS platform as a volunteer. Whether you are a developer, translator, researcher, designer, hacktivist or journalist - join us!
