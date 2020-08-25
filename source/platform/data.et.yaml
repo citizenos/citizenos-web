@@ -1,6 +1,6 @@
 ---
-path: /platform
-title: Platform
+path: /platvorm
+title: Platvorm
 description: Argumenteeritud arutelud, algatused ja ühiste otsuste tegemine. Tasuta tarkvara, mis teeb ideede genereerimise, digiallkirjastamise ja hääletamise hõlpsaks.
 keywords:
   - kollektiivne pöördumine
@@ -31,7 +31,7 @@ blocks:
       background-position: 10% 5%, 90% 90%
       background-size: 75px 75px, 65px 65px
     title: |
-      Collective decisions and civic participation.
+      Koostööpõhised otsused ja kodanikuaktiivsus.
     text: |
       Use the free online platform for discussions, voting and crowdsourcing ideas. With optional e-ID function.
 
@@ -62,12 +62,12 @@ blocks:
     blocks:
       petitions:
         poster: /assets/images/flexibleformat-petitions.png
-        title: Voting
+        title: Hääletamine
         text: |
           Make democratic decisions with customisable voting. Perfect for e-democracy initiatives.
       onlinemeetings:
         poster: /assets/images/flexibleformat-onlinemeetings.png
-        title: Discussions
+        title: Arutelud
         text: |
           Enjoy rational, balanced group discussions, weighing up the pros and cons.
       gatheringideas:
