@@ -1,6 +1,6 @@
 ---
-path: /get-involved
-title: Get involved
+path: /loo-kaasa
+title: Löö kaasa
 description: Arendaja, tõlkija, teadlane, disainer, häktivist ja ajakirjanik - palun võta ühendust! Citizen OS ootab liituma kõiki vabatahtlikke, kes on huvitatud e-demokraatiast.
 keywords:
   - kodanikuaktivist
@@ -18,7 +18,7 @@ blocks:
   get-involved:
     #label: About
     title: |
-      How to get involved?
+      Kuidas ma saan teiega koostööd teha?
     text: |
 
       Help us improve the Citizen OS platform as a volunteer. Whether you are a developer, translator, researcher, designer, hacktivist or journalist - join us!
