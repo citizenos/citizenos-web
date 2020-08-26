@@ -11,7 +11,7 @@ data:
 header:
   title: Putuskan Bersama
   text: |
-    Use our free Citizen OS platform for democratic discussions & citizen participation.
+    Gunakan platform Citizen OS untuk diskusi demokratis & partisipasi warga negara.
   video:
     title: Intro
     url: https://www.youtube.com/embed/hDLWbQQAk8g?rel=0&showinfo=0&modestbranding=1&autoplay=1&cc_load_policy=1&cc_lang_pref=en
@@ -45,11 +45,11 @@ blocks:
       background-position: 0% 25%
       background-size: 360px 360px
     title: |
-      A free co-decision platform.
+      Platform keputusan bersama gratis.
     text: |
-      Crowdsource ideas, discuss pros and cons and vote on decisions.
+      Crowdsource ide, diskusikan pro dan kontra, dan adakan pemilihan keputusan.
     button1st:
-      title: Learn more
+      title: Lihat lengkap
       url: /platform/
   democracy-img:
     class:
@@ -76,7 +76,7 @@ blocks:
     text: |
       Kami percaya pada demokrasi yang lebih dalam, ketika semua warga memiliki hak berpendapat dalam keputusan yang memengaruhi mereka.
     button1st:
-      title: Our vision
+      title: Visi kami
       url: /id/visi/
     button2nd:
   #title: Use platform - it’s free!
@@ -106,7 +106,7 @@ blocks:
     text: |
       Kami menjalankan masyarakat global untuk penggemar e-democracy partisipatoris, dan semua orang boleh bergabung.
     button1st:
-      title: Learn more
+      title: Lihat lengkap
       url: /masyarakat/
   news:
     class:
@@ -152,13 +152,13 @@ blocks:
     class:
       - order-8
       - py-5
-    label: A word from the team
+    label: Sepatah kata dari tim
     title: |
       Tentang Kami.
     text: |
-      We’re a non-profit civic tech organisation based in Tallinn, Estonia - one of the world’s leading digital nations.
+      Kami adalah organisasi teknologi sipil nirlaba yang berbasis di Tallinn, Estonia - salah satu negara digital terkemuka di dunia.
     button1st:
-      title: Learn more
+      title: Lihat lengkap
       url: /perusahaan/
   partners:
     class:
