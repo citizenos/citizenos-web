@@ -50,7 +50,7 @@ blocks:
       Crowdsource ideas, discuss pros and cons and vote on decisions.
     button1st:
       title: Learn more
-      url: /platvorm/
+      url: /et/platvorm/
   democracy-img:
     class:
       - order-3
@@ -107,7 +107,7 @@ blocks:
       Haldame ülemaailmset e-osalusdemokraatia entusiastide kogukonda, millega on oodatud liituma kõik inimesed.
     button1st:
       title: Learn more
-      url: /kogukond/
+      url: /et/kogukond/
   news:
     class:
       - order-6
@@ -159,7 +159,7 @@ blocks:
       We’re a non-profit civic tech organisation based in Tallinn, Estonia - one of the world’s leading digital nations.
     button1st:
       title: Learn more
-      url: /ettevote/
+      url: /et/ettevote/
   partners:
     class:
       - order-9
