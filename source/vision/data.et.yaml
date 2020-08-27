@@ -64,7 +64,7 @@ blocks:
       Üheskoos saame poliitika 21. sajandisse tuua ja tehnoloogia abil osalusdemokraatia rolli suurendada.
     button1st:
       title: Get involved
-      url: /get-involved/
+      url: /et/loo-kaasa/
   awareness:
     class:
       - order-4
