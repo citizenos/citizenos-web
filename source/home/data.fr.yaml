@@ -11,7 +11,7 @@ data:
 header:
   title: Décidez ensemble
   text: |
-    Use our free Citizen OS platform for democratic discussions & citizen participation.
+    Utilisez notre plateforme gratuite Citizen OS pour des discussions démocratiques et la participation des citoyens.
   video:
     title: Introduction
     url: https://www.youtube.com/embed/hDLWbQQAk8g?rel=0&showinfo=0&modestbranding=1&autoplay=1&cc_load_policy=1&cc_lang_pref=en
@@ -45,11 +45,11 @@ blocks:
       background-position: 0% 25%
       background-size: 360px 360px
     title: |
-      A free co-decision platform.
+      Une plateforme de codécision gratuite.
     text: |
-      Crowdsource ideas, discuss pros and cons and vote on decisions.
+      Crowdsourcez des idées, discutez les avantages et inconvénients et votez sur les décisions.
     button1st:
-      title: Learn more
+      title: En savoir plus
       url: /fr/plateforme/
   democracy-img:
     class:
@@ -76,7 +76,7 @@ blocks:
     text: |
       Nous croyons en une démocratie plus profonde, où tous les citoyens ont leur mot à dire dans les décisions qui les concernent.
     button1st:
-      title: Our vision
+      title: Notre vision
       url: /fr/vision/
     button2nd:
   #title: Use platform - it’s free!
@@ -106,7 +106,7 @@ blocks:
     text: |
       Nous gérons une communauté mondiale pour les enthousiastes de la démocratie participative en ligne, et nous accueillons tout le monde.
     button1st:
-      title: Learn more
+      title: En savoir plus
       url: /fr/communaute/
   news:
     class:
@@ -152,13 +152,13 @@ blocks:
     class:
       - order-8
       - py-5
-    label: A word from the team
+    label: Un mot de l'équipe
     title: |
       À propos de nous.
     text: |
-      We’re a non-profit civic tech organisation based in Tallinn, Estonia - one of the world’s leading digital nations.
+      Nous sommes une organisation à but non-lucratif de technologies civiques basée à Tallinn, en Estonie - l'une des principales nations numériques du monde.
     button1st:
-      title: Learn more
+      title: En savoir plus
       url: /fr/societe/
   partners:
     class:
