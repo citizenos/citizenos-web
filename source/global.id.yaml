@@ -3,7 +3,7 @@ siteTitle: Citizen OS
 navigation:
   platform:
     title: Platform
-    url: /platform/
+    url: /id/platform/
     class: platform
   vision:
     title: Visi
@@ -56,7 +56,7 @@ footer:
           url: /id/karier/
         getInvolved:
           title: Terlibat
-          url: /terlibat/
+          url: /id/terlibat/
         team:
           title: Tim
           url: /id/tim/
