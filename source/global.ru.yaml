@@ -56,7 +56,7 @@ footer:
           url: /ru/vakansii/
         getInvolved:
           title: Присоединяйтесь!
-          url: ru/prinyat-uchastie/
+          url: /ru/prinyat-uchastie/
         team:
           title: Команда
           url: /ru/komanda/
