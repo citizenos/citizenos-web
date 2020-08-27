@@ -50,7 +50,7 @@ blocks:
       Crowdsource ide, diskusikan pro dan kontra, dan adakan pemilihan keputusan.
     button1st:
       title: Lihat lengkap
-      url: /platform/
+      url: /id/platform/
   democracy-img:
     class:
       - order-3
@@ -107,7 +107,7 @@ blocks:
       Kami menjalankan masyarakat global untuk penggemar e-democracy partisipatoris, dan semua orang boleh bergabung.
     button1st:
       title: Lihat lengkap
-      url: /masyarakat/
+      url: /id/masyarakat/
   news:
     class:
       - order-6
@@ -159,7 +159,7 @@ blocks:
       Kami adalah organisasi teknologi sipil nirlaba yang berbasis di Tallinn, Estonia - salah satu negara digital terkemuka di dunia.
     button1st:
       title: Lihat lengkap
-      url: /perusahaan/
+      url: /id/perusahaan/
   partners:
     class:
       - order-9
