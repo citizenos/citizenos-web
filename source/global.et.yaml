@@ -3,7 +3,7 @@ siteTitle: Citizen OS
 navigation:
   platform:
     title: Platvorm
-    url: /platvorm/
+    url: /et/platvorm/
     class: platvorm
   vision:
     title: Visioon
@@ -56,7 +56,7 @@ footer:
           url: /et/vabad-tookohad/
         getInvolved:
           title: Löö kaasa
-          url: /loo-kaasa/
+          url: /et/loo-kaasa/
         team:
           title: Meeskond
           url: /et/meeskond/
