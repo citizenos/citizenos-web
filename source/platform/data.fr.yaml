@@ -33,12 +33,12 @@ blocks:
     title: |
       Décisions collectives et participation civique.
     text: |
-      Use the free online platform for discussions, voting and crowdsourcing ideas. With optional e-ID function.
+      Utilisez la plateforme gratuite pour discuter, voter et crowdsourcer des idées. Avec une fonctionnalité e-ID optionnelle.
 
-      - [What is Citizen OS for?](#flexibleformat)
-      - [Why use Citizen OS?](#features)
-      - [Case studies](#case-study-2)
-      - [Statistics](#stats)
+      - [À quoi sert Citizen OS ?](#formatflexible)
+      - [Pourquoi utiliser Citizen OS ?](#fonctionnalités)
+      - [Études de cas](#etudedecas-2)
+      - [Statistiques](#stats)
       { .arrow }
     button1st:
       title: Regarder la démo
@@ -56,7 +56,7 @@ blocks:
       background-size: 38px 42px
     label: Un format flexible
     title: |
-      What is Citizen OS for?
+      À quoi sert Citizen OS ?
     text: |
       { #flexibleformat-items }
     blocks:
@@ -64,22 +64,22 @@ blocks:
         poster: /assets/images/flexibleformat-petitions.png
         title: Vote
         text: |
-          Make democratic decisions with customisable voting. Perfect for e-democracy initiatives.
+          Prenez des décisions démocratiques avec un vote personnalisable. Parfait pour les initiatives d'e-démocratie.
       onlinemeetings:
         poster: /assets/images/flexibleformat-onlinemeetings.png
         title: Discussions
         text: |
-          Enjoy rational, balanced group discussions, weighing up the pros and cons.
+          Profitez de discussions de groupe rationnelles et équilibrées, pesant le pour et le contre.
       gatheringideas:
         poster: /assets/images/flexibleformat-gatheringideas.png
-        title: Crowdsourcing Ideas
+        title: Crowdsourcing d'idées
         text: |
           Obtenez les commentaires d'un public plus large. Idéal pour les projets de participation citoyenne.
       widget:
         poster: /assets/images/flexibleformat-widget.png
-        title: Follow up
+        title: Suivi
         text: |
-          Update participants on actions taken after a group decision.
+          Gardez les participants au courant des actions prises par le groupe.
   features-img:
     class:
       - order-3
