@@ -64,7 +64,7 @@ blocks:
       Вместе мы создадим политику XXI века, поставив технологии на службу демократии участия.
     button1st:
       title: Присоединяйтесь!
-      url: /get-involved/
+      url: /ru/prinyat-uchastie/
   awareness:
     class:
       - order-4
