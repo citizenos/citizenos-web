@@ -37,8 +37,8 @@ blocks:
 
       Nous cherchons à faciliter les décisions collectives sur des questions qui affectent directement le bien-être des personnes.
     button1st:
-      title: Our vision
-      url: 'https://www.youtube.com/embed/hDLWbQQAk8g?rel=0&showinfo=0&modestbranding=1&autoplay=1&cc_load_policy=1&cc_lang_pref=en'
+      title: Notre vision
+      url: 'https://www.youtube.com/embed/hDLWbQQAk8g?rel=0&showinfo=0&modestbranding=1&autoplay=1&cc_load_policy=1&cc_lang_pref=fr'
   #[f](https://www.facebook.com/citizenos.web){ .btn .btn-primary .my-2 .ml-3 }
   #[t](https://twitter.com/Citizen_OS){ .btn .btn-primary .my-2 .ml-3 }
   individual-img:
@@ -64,7 +64,7 @@ blocks:
       Ensemble, nous pouvons mettre la politique au goût du XXIe siècle - exploiter le pouvoir de la technologie pour la démocratie participative.
     button1st:
       title: Participer
-      url: /get-involved/
+      url: /fr/participer/
   awareness:
     class:
       - order-4
@@ -81,6 +81,6 @@ blocks:
 
       Notre équipe est non hiérarchique, le code open source et la conception des plateformes appuyées par des recherches rigoureuses.
     button1st:
-      title: Try it now
+      title: Essayer maintenant
       url: https://app.citizenos.com/fr/
       target: _blank
