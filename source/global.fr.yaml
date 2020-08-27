@@ -3,7 +3,7 @@ siteTitle: Citizen OS
 navigation:
   platform:
     title: Plateforme
-    url: fr/plateforme/
+    url: /fr/plateforme/
     class: plateforme
   vision:
     title: Vision
