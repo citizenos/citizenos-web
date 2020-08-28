@@ -11,7 +11,7 @@ data:
 header:
   title: Otsustame üheskoos
   text: |
-    Use our free Citizen OS platform for democratic discussions & citizen participation.
+    Kasuta meie Citizen OS platvormi demokraatlikeks aruteludeks ja kodanike kaasamiseks.
   video:
     title: Sissejuhatus
     url: https://www.youtube.com/embed/hDLWbQQAk8g?rel=0&showinfo=0&modestbranding=1&autoplay=1&cc_load_policy=1&cc_lang_pref=et
@@ -45,11 +45,11 @@ blocks:
       background-position: 0% 25%
       background-size: 360px 360px
     title: |
-      A free co-decision platform.
+      Tasuta ühisotsustamise platvorm.
     text: |
-      Crowdsource ideas, discuss pros and cons and vote on decisions.
+      Kogu rahvaalgatuslikke ideid, arutle nende plusside ja miinuste üle ja hääleta.
     button1st:
-      title: Learn more
+      title: Vaata lisa
       url: /et/platvorm/
   democracy-img:
     class:
@@ -76,7 +76,7 @@ blocks:
     text: |
       Usume tugevamasse demokraatiasse, mille puhul on kõigil kodanikel õigus neid mõjutavates otsustes sõna sekka öelda.
     button1st:
-      title: Our vision
+      title: Meie visioon
       url: /et/visioon/
     button2nd:
   #title: Use platform - it’s free!
@@ -106,7 +106,7 @@ blocks:
     text: |
       Haldame ülemaailmset e-osalusdemokraatia entusiastide kogukonda, millega on oodatud liituma kõik inimesed.
     button1st:
-      title: Learn more
+      title: Vaata lisa
       url: /et/kogukond/
   news:
     class:
@@ -152,13 +152,13 @@ blocks:
     class:
       - order-8
       - py-5
-    label: A word from the team
+    label: Teade meie meeskonnalt
     title: |
       About Us.
     text: |
-      We’re a non-profit civic tech organisation based in Tallinn, Estonia - one of the world’s leading digital nations.
+      Oleme kodanikutehnoloogiat loov mittetulundusühing, mis asub maailma digitaalse tippriigi Eesti pealinnas Tallinnas.
     button1st:
-      title: Learn more
+      title: Vaata lisa
       url: /et/ettevote/
   partners:
     class:
