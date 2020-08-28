@@ -18,7 +18,7 @@ blocks:
   company:
     #label: About
     title: |
-      About us.
+      Meist.
     texts:
       - |
         Citizen OS is an open source civic tech non-profit, based in Tallinn, Estonia.
