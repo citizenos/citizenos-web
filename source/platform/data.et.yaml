@@ -33,11 +33,11 @@ blocks:
     title: |
       Koostööpõhised otsused ja kodanikuaktiivsus.
     text: |
-      Use the free online platform for discussions, voting and crowdsourcing ideas. With optional e-ID function.
+      Kasuta tasuta veebiplatvormi aruteludeks, hääletamiseks ja rahvaalgatuslike ideede kogumiseks. Valikulise e-ID funktsiooniga.
 
-      - [What is Citizen OS for?](#flexibleformat)
-      - [Why use Citizen OS?](#features)
-      - [Case studies](#case-study-2)
+      - [Milleks Cittizen OS-i kasutatakse?](#flexibleformat)
+      - [Miks peaksin Cittizen OS-i kasutama?](#features)
+      - [Juhtumiuuringud](#case-study-2)
       - [Statistics](#stats)
       { .arrow }
     button1st:
@@ -56,7 +56,7 @@ blocks:
       background-size: 38px 42px
     label: Paindlik vorming
     title: |
-      What is Citizen OS for?
+      Mis on Citizen OS-i eesmärk?
     text: |
       { #flexibleformat-items }
     blocks:
@@ -64,22 +64,22 @@ blocks:
         poster: /assets/images/flexibleformat-petitions.png
         title: Hääletamine
         text: |
-          Make democratic decisions with customisable voting. Perfect for e-democracy initiatives.
+          Tee meie kohandatava hääletusalgoritmi abil demokraatlikke otsuseid. Sobib ideaalselt e-demokraatia algatuste jaoks.
       onlinemeetings:
         poster: /assets/images/flexibleformat-onlinemeetings.png
         title: Arutelud
         text: |
-          Enjoy rational, balanced group discussions, weighing up the pros and cons.
+          Naudi ratsionaalseid ja tasakaalustatud, poolt- ja vastuargumente kaaluvaid rühmaarutelusid.
       gatheringideas:
         poster: /assets/images/flexibleformat-gatheringideas.png
-        title: Crowdsourcing Ideas
+        title: Rahvaalgatuslike ideede kogumine
         text: |
           Saa tagasisidet laiemalt ringilt. Ideaalne kodanikualgatusprojektide jaoks.
       widget:
         poster: /assets/images/flexibleformat-widget.png
-        title: Follow up
+        title: Järelkontakt
         text: |
-          Update participants on actions taken after a group decision.
+          Teavita osalejaid rühmaotsuse järel tehtud toimingutest.
   features-img:
     class:
       - order-3
@@ -97,7 +97,7 @@ blocks:
       background: '#F7F7F7'
     label: Funktsioonid
     title: |
-      Why use Citizen OS?
+      Miks peaksid kasutama Citizen OS-i?
     text: |
       - 100% free to use, always. No ads, no charges.
       - A ready-made platform – just log in and get started.
