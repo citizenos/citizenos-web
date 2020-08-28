@@ -37,7 +37,7 @@ blocks:
 
       Soovime soodustada kollektiivseid otsuseid küsimustes, mis inimeste heaolu otseselt mõjutavad.
     button1st:
-      title: Our vision
+      title: Meie missioon
       url: 'https://www.youtube.com/embed/hDLWbQQAk8g?rel=0&showinfo=0&modestbranding=1&autoplay=1&cc_load_policy=1&cc_lang_pref=en'
   #[f](https://www.facebook.com/citizenos.web){ .btn .btn-primary .my-2 .ml-3 }
   #[t](https://twitter.com/Citizen_OS){ .btn .btn-primary .my-2 .ml-3 }
@@ -81,6 +81,6 @@ blocks:
 
       Meie meeskonnas pole hierarhiaid, tarkvara on avatud lähtekoodiga ja selle loomise aluseks oli põhjalik uurimistöö.
     button1st:
-      title: Try it now
+      title: Proovi kohe
       url: https://app.citizenos.com/et/
       target: _blank
