@@ -118,7 +118,7 @@ blocks:
       background-position: 60% 10%
       background-size: 360px 360px
     title: |
-      Latest news.
+      Viimased uudised.
     text: |
       { #news-items }
     button1st:
@@ -154,7 +154,7 @@ blocks:
       - py-5
     label: Teade meie meeskonnalt
     title: |
-      About Us.
+      Meist.
     text: |
       Oleme kodanikutehnoloogiat loov mittetulundusühing, mis asub maailma digitaalse tippriigi Eesti pealinnas Tallinnas.
     button1st:
