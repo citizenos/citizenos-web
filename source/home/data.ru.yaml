@@ -11,7 +11,7 @@ data:
 header:
   title: Решаем вместе
   text: |
-    Use our free Citizen OS platform for democratic discussions & citizen participation.
+    Используйте бесплатную платформу Citizen OS для принятия решений и обсуждения важных вопросов
   video:
     title: Введение
     url: https://www.youtube.com/embed/hDLWbQQAk8g?rel=0&showinfo=0&modestbranding=1&autoplay=1&cc_load_policy=1&cc_lang_pref=en
@@ -45,11 +45,11 @@ blocks:
       background-position: 0% 25%
       background-size: 360px 360px
     title: |
-      A free co-decision platform.
+      Бесплатная платформа для совместного принятия решений
     text: |
-      Crowdsource ideas, discuss pros and cons and vote on decisions.
+      Собирайие идеи, обсуждайте аргументы "за" и "против" и голосуйте за решения.
     button1st:
-      title: Learn more
+      title: Подробнее
       url: /ru/platforma
   democracy-img:
     class:
@@ -76,7 +76,7 @@ blocks:
     text: |
       Мы верим в настоящую демократию,  где все граждане имеют право голоса в важных для себя вопросах.
     button1st:
-      title: Our vision
+      title: Наша концепция
       url: /ru/koncepciya/
     button2nd:
   #title: Use platform - it’s free!
@@ -106,7 +106,7 @@ blocks:
     text: |
       Мы создали глобальное сообщество энтузиастов демократии участия и ждем всех.
     button1st:
-      title: Learn more
+      title: Подробнее
       url: /ru/soobshchestvo/
   news:
     class:
@@ -152,13 +152,13 @@ blocks:
     class:
       - order-8
       - py-5
-    label: A word from the team
+    label: Мнение команды
     title: |
       О сайте
     text: |
-      We’re a non-profit civic tech organisation based in Tallinn, Estonia - one of the world’s leading digital nations.
+      Мы — некоммерческая организация в области гражданских технологий. Мы находимся в Таллине, в Эстонии, а это одна из самых цифровизированных стран мира.
     button1st:
-      title: Learn more
+      title: Подробнее
       url: /ru/organizaciya/
   partners:
     class:
