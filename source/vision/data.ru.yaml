@@ -37,8 +37,8 @@ blocks:
 
       Мы хотим, чтобы принимать коллективные решения было легко, особенно в тех областях, от которых напрямую зависит жизнь людей.
     button1st:
-      title: Our vision
-      url: 'https://www.youtube.com/embed/hDLWbQQAk8g?rel=0&showinfo=0&modestbranding=1&autoplay=1&cc_load_policy=1&cc_lang_pref=en'
+      title: Наша концепция
+      url: 'https://www.youtube.com/embed/hDLWbQQAk8g?rel=0&showinfo=0&modestbranding=1&autoplay=1&cc_load_policy=1&cc_lang_pref=ru'
   #[f](https://www.facebook.com/citizenos.web){ .btn .btn-primary .my-2 .ml-3 }
   #[t](https://twitter.com/Citizen_OS){ .btn .btn-primary .my-2 .ml-3 }
   individual-img:
@@ -81,6 +81,6 @@ blocks:
 
       Наша команда лишена иерархии, мы используем ПО с открытым исходным кодом, а за дизайном нашей платформы стоят глубокие исследования.
     button1st:
-      title: Try it now
+      title: Попробовать сейчас
       url: https://app.citizenos.com/ru/
       target: _blank
