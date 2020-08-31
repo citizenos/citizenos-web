@@ -11,7 +11,7 @@ data:
 header:
   title: Päätä yhdessä
   text: |
-    Use our free Citizen OS platform for democratic discussions & citizen participation.
+    Käytä ilmaista Citizen OS -alustaa demokraattiseen keskusteluun ja kansalaisosallistumiseen.
   video:
     title: Esittely
     url: https://www.youtube.com/embed/hDLWbQQAk8g?rel=0&showinfo=0&modestbranding=1&autoplay=1&cc_load_policy=1&cc_lang_pref=en
@@ -45,11 +45,11 @@ blocks:
       background-position: 0% 25%
       background-size: 360px 360px
     title: |
-      A free co-decision platform.
+      Maksuton yhteispäätösalusta.
     text: |
-      Crowdsource ideas, discuss pros and cons and vote on decisions.
+      Joukkoista ideoita, käy keskusteluja puolesta ja vastaan ja äänestä päätöksistä.
     button1st:
-      title: Learn more
+      title: Lue lisää
       url: /fi/alusta/
   democracy-img:
     class:
@@ -76,7 +76,7 @@ blocks:
     text: |
       Uskomme entistä syvempään demokratiaan, jossa kaikilla kansalaisilla on sananvaltaa heitä koskevissa päätöksissä.
     button1st:
-      title: Our vision
+      title: Visiomme
       url: /fi/visio/
     button2nd:
   #title: Use platform - it’s free!
@@ -106,7 +106,7 @@ blocks:
     text: |
       Pyöritämme globaalia yhteisöä osallistavan e-demokratian harrastajille, ja kaikki ovat tervetulleita.
     button1st:
-      title: Learn more
+      title: Lue lisää
       url: /fi/yhteiso/
   news:
     class:
@@ -152,13 +152,13 @@ blocks:
     class:
       - order-8
       - py-5
-    label: A word from the team
+    label: Viesti tiimiltä
     title: |
       Tietoja meistä.
     text: |
-      We’re a non-profit civic tech organisation based in Tallinn, Estonia - one of the world’s leading digital nations.
+      Olemme tallinnalainen voittoa tavoittelematon kansalaisteknologiaorganisaatio – toimimme yhdessä maailman johtavista digitaalisista valtioista: Virossa.
     button1st:
-      title: Learn more
+      title: Lue lisää
       url: /fi/yritys/
   partners:
     class:
