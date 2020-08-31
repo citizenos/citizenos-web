@@ -18,16 +18,16 @@ blocks:
   company:
     #label: About
     title: |
-      About us.
+      Tietoja meistä.
     texts:
       - |
-        Citizen OS is an open source civic tech non-profit, based in Tallinn, Estonia.
+        Citizen OS on Tallinnassa sijaitseva avoimen lähdekoodin voittoa tavoittelematon kansalaisteknologiaorganisaatio.
 
-        We’re on a mission to change the world for the better; visit our [Vision](/vision/) page to find out how.
+        Tehtävämme on tehdä maailmasta parempi paikka: lue miten käymällä [Vision](/vision/)-sivullamme.
 
-        The Citizen OS platform went live in September, 2015. Since then, we have gained the trust of many public and private user groups around the world.
+        Citizen OS -alusta lanseerattiin syyskuussa 2015. Sen jälkeen olemme luoneet luottamuksellisia suhteita monien julkisten ja yksityisten käyttäjäryhmien kanssa ympäri maailmaa.
       - |
-        We take the security of our platform very seriously; read more about this [here](https://citizenos.com/news/the-key-to-online-democracy-is-trust/).
+        Suhtaudumem alustamme turvallisuuteen hyvin vakavasti. Lue lisää [täältä](https://citizenos.com/news/the-key-to-online-democracy is-trust/).
       - |
 
       - |
