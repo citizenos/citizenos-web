@@ -18,19 +18,23 @@ blocks:
   company:
     #label: About
     title: |
-      Organisatsioon
+      Meist.
     texts:
       - |
-        Citizen OS on avatud lähtekoodiga sotsiaalne platvorm, mille peakontor asub Eestis. Eesti Valitsusest sai 2016. aasta jaanuaris Citizen OS-i esimene API partner. Sellest ajast on Citizen OS pälvinud paljude avaliku ja erasektori kasutajagruppide usalduse kõikjal maailmas.
+        Citizen OS on avatud lähtekoodiga kodanikutehnoloogiat loov mittetulundusühing, mille peakontor asub Eestis, Tallinnas..
+
+        Meie eesmärgiks on maailma paremaks muuta. Selle kohta saad lähemalt lugeda meie lehelt [Vision](/vision/).
+
+        Citizen OS platvorm avaldati veebis 2015. aasta septembris. Tegevuse jooksul oleme teeninud paljude erinevate riikide riiklike kasutajate ja erakasutajate poolehoiu.
       - |
-        Kõik andmed on krüptitud ja neid hoitakse turvaliselt pilveserverites.
+        Peame oma platvormi turvalisust väga oluliseks. Loe selle kohta lähemalt [here] (https://citizenos.com/news/the-key-to-online-democracy-is-trust/).
       - |
 
       - |
         #### Citizen OS-i toetavad:
       - |
-        - ["Teeme ära!" Fond](https://www.letsdoitworld.org/)
-        - [Eesti Koostöökogu](https://www.kogu.ee/)
+        - Filantroop ja ettevõtja Ahti Heinla
+        - [Sihtasutus Teeme Ära!](https://www.letsdoitworld.org/)
         { .arrow }
       - |
         Projekti Citizen OS rahastas MTÜ Fund EEA Grants [Avatud Eesti Fondi](https://oef.org.ee) vahendusel.

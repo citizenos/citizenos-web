@@ -9,18 +9,18 @@ image: /assets/images/meta/home-alt.jpg
 data:
   news: /news/data.en.yaml
 header:
-  title: Decide Together
+  title: Otsustame üheskoos
   text: |
-    A free online platform for democratic discussions & citizen participation.
+    Kasuta meie Citizen OS platvormi demokraatlikeks aruteludeks ja kodanike kaasamiseks.
   video:
-    title: Intro
+    title: Sissejuhatus
     url: https://www.youtube.com/embed/hDLWbQQAk8g?rel=0&showinfo=0&modestbranding=1&autoplay=1&cc_load_policy=1&cc_lang_pref=et
   demo:
     title: Demo
     url: https://www.youtube.com/embed/UC44qCCIixE?rel=0&showinfo=0&modestbranding=1&autoplay=1&cc_load_policy=1&cc_lang_pref=et
 #whatIs:
 #title: What is Citizen OS
-#url: /product/
+#url: /platform/
 #startUsing:
 #title: Start using - it’s free!
 #url: https://app.citizenos.com
@@ -44,14 +44,13 @@ blocks:
       background-image: url(/assets/images/bubble-dots.png)
       background-position: 0% 25%
       background-size: 360px 360px
-    #label: Our Product
     title: |
-      A free platform.
+      Tasuta ühisotsustamise platvorm.
     text: |
-      Make democratic decisions - discuss and crowdsource ideas, e-sign petitions.
+      Kogu rahvaalgatuslikke ideid, arutle nende plusside ja miinuste üle ja hääleta.
     button1st:
-      title: Learn More
-      url: /et/toode/
+      title: Vaata lisa
+      url: /et/platvorm/
   democracy-img:
     class:
       - order-3
@@ -73,11 +72,11 @@ blocks:
       background-position: 0 10%
       background-size: 122px 122px
     title: |
-      A participatory future.
+      Osalusdemokraatia tulevik.
     text: |
-      We believe in a deeper democracy, where all citizens have a say in decisions that affect them.
+      Usume tugevamasse demokraatiasse, mille puhul on kõigil kodanikel õigus neid mõjutavates otsustes sõna sekka öelda.
     button1st:
-      title: Our Vision
+      title: Meie visioon
       url: /et/visioon/
     button2nd:
   #title: Use platform - it’s free!
@@ -103,12 +102,12 @@ blocks:
       background-size: 360px 360px
     #label: Let’s Educate
     title: |
-      A community of innovators.
+      Innovaatorite kogukond.
     text: |
-      We run a global community for participatory e-democracy enthusiasts, and everyone’s welcome.
+      Haldame ülemaailmset e-osalusdemokraatia entusiastide kogukonda, millega on oodatud liituma kõik inimesed.
     button1st:
-      title: Learn More
-      url: /community/
+      title: Vaata lisa
+      url: /et/kogukond/
   news:
     class:
       - order-6
@@ -119,11 +118,11 @@ blocks:
       background-position: 60% 10%
       background-size: 360px 360px
     title: |
-      Latest news.
+      Viimased uudised.
     text: |
       { #news-items }
     button1st:
-      title: More stories
+      title: Veel lugusid
       url: /et/uudised/
   meet:
     class:
@@ -153,14 +152,14 @@ blocks:
     class:
       - order-8
       - py-5
-    #label: A word from the team
+    label: Teade meie meeskonnalt
     title: |
-      About Us.
+      Meist.
     text: |
-      We’re a non-profit civic tech organisation based in Tallinn, Estonia - the world’s leading digital nation.
+      Oleme kodanikutehnoloogiat loov mittetulundusühing, mis asub maailma digitaalse tippriigi Eesti pealinnas Tallinnas.
     button1st:
-      title: Learn More
-      url: /company/
+      title: Vaata lisa
+      url: /et/ettevote/
   partners:
     class:
       - order-9

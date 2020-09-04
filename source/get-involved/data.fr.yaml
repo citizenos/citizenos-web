@@ -1,6 +1,6 @@
 ---
-path: /contribuer
-title: Contribuer
+path: /participer 
+title: Participer
 description: Développeurs, traducteurs, scientifiques, concepteurs, hacktivistes et journalistes - n'hésitez pas à nous contacter ! Citizen OS accueille des bénévoles intéressés par l'e-démocratie.
 keywords:
   - hacktiviste civique
@@ -8,39 +8,43 @@ keywords:
   - technologie gouvernementale
 image: /assets/images/meta/vision.jpg
 blocks:
-  contribute-img:
+  get-involved-img:
     class:
       - d-none
       - d-sm-block
     style:
       background: 'linear-gradient(180deg, #0EB7FE 0%, #0680FC 100%)'
       min-height: 75vh
-  contribute:
+  get-involved:
     #label: About
     title: |
-      Comment contribuer ?
+      Comment s'impliquer ?
     text: |
 
-      Aidez-nous à améliorer la plateforme Citizen OS en tant que bénévole. Que vous soyez développeur, traducteur, chercheur, designer, hacktiviste ou journaliste - rejoignez-nous ! 
+      Aidez-nous à améliorer la plate-forme Citizen OS en tant que volontaire. Que vous soyez développeur, traducteur, chercheur, concepteur, hacktiviste ou journaliste - rejoignez-nous !
 
-      ###### Aidez à traduire. 
+      #### Rejoignez la communauté des hacktivistes civiques.
 
-      Si la plate-forme Citizen OS ne prend pas encore en charge votre langue et que vous souhaitez rejoindre notre équipe de traducteurs bénévoles, veuillez nous le faire savoir à <translations@citizenos.com>. 
+      Nous gérons une communauté mondiale pour les enthousiastes des technologies civiques et de la démocratie participative. C’est un espace pour l’échange de connaissances et d’idées sur l’e-démocratie et la prise de décision collaborative, et tout le monde peut participer. [En savoir plus](https://citizenos.com/community/).
 
-      Traduire la plateforme Citizen OS dans une nouvelle langue est facile, de nombreux bénévoles travaillent avec nous tous les jours. [Venez voir](https://crowdin.com/project/citizenos-fe) ! 
+      #### Aidez à traduire.
 
-      ###### Aidez à développer des logiciels libres. 
+      Si la plateforme Citizen OS ne prend pas encore en charge votre langue et que vous souhaitez rejoindre l'équipe de nos traducteurs bénévoles, veuillez nous contacter à l'adresse <translations@citizenos.com>.
 
-      Vous êtes développeur ou designer, pour qui l'avenir de la prise de décision en ligne est un sujet qui vous tient à cœur ?
+      Traduire la plateforme Citizen OS dans une nouvelle langue est facile ; de nombreux bénévoles travaillent avec nous tous les jours. [Venez voir](https://crowdin.com/project/citizenos-fe) !
 
-      Si vous avez des idées sur la façon d'améliorer ou d'ajouter des fonctionnalités à notre code source ouvert, [partagez-le avec nous sur GitHub] (https://github.com/citizenos).
+      #### Aidez à développer un logiciel Open Source.
 
-      ###### Aidez la recherche.
+      Vous êtes un développeur ou un concepteur, et l'avenir de la prise de décision en ligne est un sujet qui vous tient à cœur ?
 
-      Si vous travaillez dans le domaine de la démocratie électronique, nous serions ravis de vous rencontrer ou de publier vos travaux sur notre blog. Veuillez prendre contact avec notre responsable des partenariats <anett@citizenos.com>. 
+      Si vous avez des idées sur la façon d'améliorer ou d'ajouter des fonctionnalités à notre code open source, veuillez [les partager avec nous sur GitHub](https://github.com/citizenos).
 
-      #### Aider dans d'autres domaines.
+      #### Aide à la recherche.
 
-      En cas de questions, veuillez écrire à notre responsable des partenariats <anett@citizenos.com>. 
+      Si vous travaillez dans le domaine de l'e-démocratie, nous aimerions vous rencontrer ou publier vos travaux sur notre blog. Veuillez envoyer un e-mail à notre responsable des partenariats, Anett Linno à <anett@citizenos.com>.
 
-      Si vous souhaitez rejoindre l'équipe, consultez les postes disponibles [ici](/fr/recrutement/).
+      #### Aide dans d'autres domaines.
+
+      Pour toute autre offre, veuillez contacter notre Responsable des Partenariats <anett@citizenos.com>.
+
+      Si vous souhaitez rejoindre l'équipe, consultez les postes disponibles [ici](/careers/).

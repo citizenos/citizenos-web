@@ -1,6 +1,6 @@
 ---
-path: /toode
-title: Toode
+path: /platvorm
+title: Platvorm
 description: Argumenteeritud arutelud, algatused ja ühiste otsuste tegemine. Tasuta tarkvara, mis teeb ideede genereerimise, digiallkirjastamise ja hääletamise hõlpsaks.
 keywords:
   - kollektiivne pöördumine
@@ -31,14 +31,14 @@ blocks:
       background-position: 10% 5%, 90% 90%
       background-size: 75px 75px, 65px 65px
     title: |
-      Online-otsustuskeskkond rühmade ja kogukondade jaoks.
+      Koostööpõhised otsused ja kodanikuaktiivsus.
     text: |
-      Langeta argumenteeritud otsuseid! Määratle arutelude struktuur ja järgi hääletuskuupäevasid. Kogu petitsioonidele toetushääli.
+      Kasuta tasuta veebiplatvormi aruteludeks, hääletamiseks ja rahvaalgatuslike ideede kogumiseks. Valikulise e-ID funktsiooniga.
 
-      - [Platform features](#features)
-      - [How does it work](#options)
-      - [How much does it cost](#options)
-      - [Case studies](#case-study-2)
+      - [Milleks Cittizen OS-i kasutatakse?](#flexibleformat)
+      - [Miks peaksin Cittizen OS-i kasutama?](#features)
+      - [Juhtumiuuringud](#case-study-2)
+      - [Statistics](#stats)
       { .arrow }
     button1st:
       title: Esita demo
@@ -56,30 +56,30 @@ blocks:
       background-size: 38px 42px
     label: Paindlik vorming
     title: |
-      Mida platvormil Citizen OS teha saab?
+      Mis on Citizen OS-i eesmärk?
     text: |
       { #flexibleformat-items }
     blocks:
       petitions:
         poster: /assets/images/flexibleformat-petitions.png
-        title: Petitsioonid
+        title: Hääletamine
         text: |
-          Saate petitsioone kollektiivselt muuta ja koguda neile tuhandeid või miljoneid allkirju. Lisaks saad osalejatele saata teavet petitsioonile järgnenud sündmuste kohta.
+          Tee meie kohandatava hääletusalgoritmi abil demokraatlikke otsuseid. Sobib ideaalselt e-demokraatia algatuste jaoks.
       onlinemeetings:
         poster: /assets/images/flexibleformat-onlinemeetings.png
-        title: Online-koosolekud
+        title: Arutelud
         text: |
-          Korralda koosolekuid veebis. Igaüks saab jätta oma kommentaare ja hääletada talle sobival ajal.
+          Naudi ratsionaalseid ja tasakaalustatud, poolt- ja vastuargumente kaaluvaid rühmaarutelusid.
       gatheringideas:
         poster: /assets/images/flexibleformat-gatheringideas.png
-        title: Ideede kogumine
+        title: Rahvaalgatuslike ideede kogumine
         text: |
-          Kaasa otsustusprotsessi rohkem inimesi.
+          Saa tagasisidet laiemalt ringilt. Ideaalne kodanikualgatusprojektide jaoks.
       widget:
         poster: /assets/images/flexibleformat-widget.png
-        title: Arutelud poolt- ja vastuargumentidega
+        title: Järelkontakt
         text: |
-          Integreerige meie vidin oma saidile või platvormile, et viia läbi arutelusid poolt- ja vastuargumentide kaalumiseks.
+          Teavita osalejaid rühmaotsuse järel tehtud toimingutest.
   features-img:
     class:
       - order-3
@@ -97,60 +97,50 @@ blocks:
       background: '#F7F7F7'
     label: Funktsioonid
     title: |
-      Selgus
+      Miks peaksid kasutama Citizen OS-i?
     text: |
-      - Ülevaade otsustusprotsessist.
-      - Hääletustähtajad.
+      - Alati 100% tasuta tarkvara. Ei mingeid reklaame ega tasusid.
+      - Kasutusvalmis platvorm – logi lihtsalt sisse ja hakka tööle.
+      - Juba 13 keeles ja lihtsasti tõlgitav.
       { .bullet }
 
-      ## Kaasamine{ .mt-5 }
-
-      - Ideede kogumist alustatakse organisatsiooni madalaimalt tasemelt.
-      - Arutelu toimub struktureeritult.
-      - Osaleda võib miljoneid inimesi.
+      - Tasakaalustatud arutelud poolt- ja vastuargumentide esitamiseks.
+      - Sina otsustad, kas soovid pidada privaatseid või avalikke arutelusid.
+      - Privaatsed rühmad, selleks, et pidada samade inimestega mitmeid arutelusid.
       { .bullet }
 
-      ## Turvalisus ja uurimused{ .mt-5 }
-
-      - Pidev arendustöö uute seadustega kooskõlas püsimiseks.
-      - Tootearendus põhineb teaduslikul lähenemisel.
-      - Turvaliselt krüptitud andmed, turvaline pilveserverisse installitud platvorm.
+      - Kohandatav ja anonüümne, kindlate tähtaegadega hääletamine.
+      - Täpsemad hääletusfunktsioonid, näiteks minihääled ja delegeerimine.
+      - Ühildub e-ID-ga – sisselogimiseks, hääletamiseks ja digiallkirjade andmiseks.
       { .bullet }
-  options:
-    class:
-      - order-5
-      - col-sm-12
-      - text-center
-    style:
-      background: '#AAF3DD'
-    title: |
-      Tooted
-    blocks:
-      app:
-        title: Kasuta meie kodulehel
-        text: |
-          Platvorm Citizen OS on meie veebisaidil kõigile tasuta kasutamiseks kättesaadav.
-        subtext: Igavesti tasuta!
-        button:
-          title: Ava platvorm
-          url: https://app.citizenos.com/et/
-          target: _blank
-      api:
-        title: Integreeri API
-        text: |
-          Kasutage Citizen OS-i rakendusliidest alusena, millele luua oma kaubamärgiga online-otsustusplatvorm.
-        subtext: Igavesti tasuta!
-        button:
-          title: GitHub
-          url: https://github.com/citizenos/citizenos-web
-      consult:
-        title: Konsulteeri ja integreeri
-        text: |
-          Lase meie tiimil kogu töö ära teha – alates konsulteerimisest kuni süsteemi teie vajadustele vastavaks kohandamiseni.
-        subtext: Pakkumistepõhine
-        button:
-          title: Võta meiega ühendust
-          url: /et/kontakt/
+  #options:
+  #class:
+  #- order-5
+  #- col-sm-12
+  #- text-center
+  #style:
+  #background: '#AAF3DD'
+  #label: Products
+  #title: |
+  #How can I use Citizen OS?
+  #blocks:
+  #app:
+  #title: Use on our website
+  #text: |
+  #Currently in 13 languages.
+  #subtext: Free
+  #button:
+  #title: Use platform
+  #url: https://app.citizenos.com
+  #target: _blank
+  #consult:
+  #title: Set up own server
+  #text: |
+  #Download the code and contact us if you need help with consulting.
+  #subtext: Free open-source code
+  #button:
+  #title: Download
+  #url: https://github.com/citizenos/citizenos-web
   case-study-2-img:
     class:
       - order-6
@@ -163,17 +153,17 @@ blocks:
       background-image: url(/assets/images/bubble-blue.svg)
       background-position: 80% 5%
       background-size: 122px 122px
-    #label: Case study
+    label: Juhtumiuuring
     title: |
-      Kasutajakogemus: Eesti Vabariigi kodanike ja valitsuse vaheline suhtlus
+      Eesti kodanikualgatuste platvorm.
     text: |
-      Platvormi Citizen OS avatud lähtekoodi kasutati kodanikualgatuse platvotmi [www.rahvaalgatus.ee](https://www.rahvaalgatus.ee) seadistamiseks. Sellel saidil saab luua petitsioone, koguda neile toetushääli ja saata petitsioone Parlamenti.
+      Osa platvormi Citizen OS avatud lähtekoodist kasutati kodanikualgatuse veebisaidi [Rahvalgaatus.ee](https://www.rahvaalgatus.ee) seadistamiseks. Sellel saidil saab luua petitsioone, neid allkirjastada ja seejärel otse Riigikogusse saata.
   case-study-img:
     class:
       - order-8
       - order-sm-9
     text: |
-      ![Foto iga-aastasel Eesti arvamusfestivalil Citizen OS-i argumenteerimisvidinat kasutavast publikust. ](/assets/images/product-case-study.jpg){ .img-fluid .box-shadow }
+      ![Paljud indoneeslased naeratavad, kannavad maailma puhastuspäeva särke, jalutavad rannal ja kannavad plastprügiga täidetud kotte.](/assets/images/product-case-study.jpeg){ .img-fluid .box-shadow }
   case-study:
     class:
       - order-9
@@ -182,11 +172,13 @@ blocks:
       background-image: url(/assets/images/bubble-orange.svg), url(/assets/images/bubble-yellow.svg)
       background-position: 10% 5%, 90% 90%
       background-size: 85px 85px, 55px 55px
-    #label: Case study
+    label: Juhtumiuuring
     title: |
-      Kasutajakogemus: suhtlusulatuse laiendamine.
+      Rohelisema Indoneesia nimel.
     text: |
-      [Arvamusfestival](https://www.arvamusfestival.ee) integreeris platvormi Citizen OS argumenteerimisvidina, mille abil said online arutelud festivalil püstitatud teemadel jätkuda ka pärast kaht festivalipäeva.
+      Oma [34 saare projektiga](https://citizenos.com/news/turning-citizen-ideas-into-action-on-waste-bintan-indonesia/) soovib kodanikualgatus Teeme Ära Indoneesia luua puhtama tulevikuühiskonna.
+
+      Platvormil Citizen OS saavad kohalikud elanikud esitada ideid jätkusuutliku jäätmekäitlussüsteemi loomiseks ja ka oma lemmikideede poolt hääletada.
   stats:
     class:
       - order-10
@@ -197,11 +189,10 @@ blocks:
       background-image: url(/assets/images/pattern.svg)
       background-size: 38px 42px
     title: |
-      Meie online-otsustuskeskkond kasvab järjepidevalt.
+      Meie mõju kasvab jätkuvalt.
     button1st:
-      title: Ava platvorm
-      url: https://app.citizenos.com/et/
-      target: _blank
+      title: Liitu, et saada värskeid uudiseid
+      url: '#subscribe'
     blocks:
       topicsCreated:
         title: arutelusid

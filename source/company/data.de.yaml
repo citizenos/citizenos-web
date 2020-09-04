@@ -18,19 +18,23 @@ blocks:
   company:
     #label: About
     title: |
-      Unternehmen
+      About us.
     texts:
       - |
-        Citizen OS is an open source social enterprise, located in Estonia. The Government of Estonia became the first API partner in January, 2016. Since then, Citizen OS has gained the trust of many public and private user groups around the world.
+        Citizen OS is an open source civic tech non-profit, based in Tallinn, Estonia.
+
+        We’re on a mission to change the world for the better; visit our [Vision](/vision/) page to find out how.
+
+        The Citizen OS platform went live in September, 2015. Since then, we have gained the trust of many public and private user groups around the world.
       - |
-        All data is encrypted and kept safe in cloud servers.
+        We take the security of our platform very seriously; read more about this [here](https://citizenos.com/news/the-key-to-online-democracy-is-trust/).
       - |
 
       - |
         #### Citizen OS is supported by:
       - |
+        - Philanthropist & entrepreneur Ahti Heinla
         - [Let’s Do It! Foundation](https://www.letsdoitworld.org/)
-        - [Estonian Cooperation Assembly](https://www.kogu.ee/en/)
         { .arrow }
       - |
         Project Citizen OS has been funded by the NGO Fund EEA Grants through the [Open Estonia Foundation](https://oef.org.ee/in-english).

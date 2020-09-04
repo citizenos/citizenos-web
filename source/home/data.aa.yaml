@@ -7,7 +7,7 @@ keywords:
   - crwdns23884:0crwdne23884:0
 image: crwdns23476:0crwdne23476:0
 data:
-  news: /news/data.en.yaml
+  news: crwdns24334:0crwdne24334:0
 header:
   title: crwdns26104:0crwdne26104:0
   text: |
@@ -20,7 +20,7 @@ header:
     url: crwdns23488:0crwdne23488:0
 #whatIs:
 #title: What is Citizen OS
-#url: /product/
+#url: /platform/
 #startUsing:
 #title: Start using - it’s free!
 #url: https://app.citizenos.com
@@ -44,14 +44,13 @@ blocks:
       background-image: crwdns23506:0crwdne23506:0
       background-position: crwdns23508:0crwdne23508:0
       background-size: crwdns23510:0crwdne23510:0
-    #label: Our Product
     title: |
       crwdns26144:0crwdne26144:0
     text: |
       crwdns26112:0crwdne26112:0
     button1st:
-      title: crwdns26114:0crwdne26114:0
-      url: crwdns23518:0crwdne23518:0
+      title: crwdns26162:0crwdne26162:0
+      url: crwdns26274:0crwdne26274:0
   democracy-img:
     class:
       - crwdns23520:0crwdne23520:0
@@ -77,7 +76,7 @@ blocks:
     text: |
       crwdns26118:0crwdne26118:0
     button1st:
-      title: crwdns26120:0crwdne26120:0
+      title: crwdns26174:0crwdne26174:0
       url: crwdns23552:0crwdne23552:0
     button2nd: crwdns23554:0crwdne23554:0
   #title: Use platform - it’s free!
@@ -107,7 +106,7 @@ blocks:
     text: |
       crwdns26124:0crwdne26124:0
     button1st:
-      title: crwdns26126:0crwdne26126:0
+      title: crwdns26176:0crwdne26176:0
       url: crwdns26128:0crwdne26128:0
   news:
     class:
@@ -159,7 +158,7 @@ blocks:
     text: |
       crwdns26136:0crwdne26136:0
     button1st:
-      title: crwdns26138:0crwdne26138:0
+      title: crwdns26222:0crwdne26222:0
       url: crwdns26140:0crwdne26140:0
   partners:
     class:

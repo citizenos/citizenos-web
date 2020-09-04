@@ -1,10 +1,10 @@
 ---
 siteTitle: Citizen OS
 navigation:
-  product:
-    title: Toode
-    url: /et/toode/
-    class: product
+  platform:
+    title: Platvorm
+    url: /et/platvorm/
+    class: platvorm
   vision:
     title: Visioon
     url: /et/visioon/
@@ -54,9 +54,9 @@ footer:
         careers:
           title: Vabad töökohad
           url: /et/vabad-tookohad/
-        contribute:
-          title: Panusta
-          url: /et/kogukond/
+        getInvolved:
+          title: Löö kaasa
+          url: /et/loo-kaasa/
         team:
           title: Meeskond
           url: /et/meeskond/

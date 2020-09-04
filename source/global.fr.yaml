@@ -1,10 +1,10 @@
 ---
 siteTitle: Citizen OS
 navigation:
-  product:
-    title: Produit
-    url: /fr/produit/
-    class: product
+  platform:
+    title: Plateforme
+    url: /fr/plateforme/
+    class: plateforme
   vision:
     title: Vision
     url: /fr/vision/
@@ -54,9 +54,9 @@ footer:
         careers:
           title: Recrutement
           url: /fr/recrutement/
-        contribute:
-          title: Contribuer
-          url: /fr/contribuer/
+        getInvolved:
+          title: Participer
+          url: /fr/participer/
         team:
           title: Équipe
           url: /fr/equipe/

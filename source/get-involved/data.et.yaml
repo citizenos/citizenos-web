@@ -1,6 +1,6 @@
 ---
-path: /panusta
-title: Panusta
+path: /loo-kaasa
+title: Löö kaasa
 description: Arendaja, tõlkija, teadlane, disainer, häktivist ja ajakirjanik - palun võta ühendust! Citizen OS ootab liituma kõiki vabatahtlikke, kes on huvitatud e-demokraatiast.
 keywords:
   - kodanikuaktivist
@@ -8,24 +8,28 @@ keywords:
   - valitsemise tehnoloogia
 image: /assets/images/meta/vision.jpg
 blocks:
-  contribute-img:
+  get-involved-img:
     class:
       - d-none
       - d-sm-block
     style:
       background: 'linear-gradient(180deg, #0EB7FE 0%, #0680FC 100%)'
       min-height: 75vh
-  contribute:
+  get-involved:
     #label: About
     title: |
-      Kuidas panustada?
+      Kuidas ma saan teiega koostööd teha?
     text: |
 
-      Aita meil vabatahtlikuna arendada platvormi Citizen OS. Ükskõik, kas oled arendaja, tõlkija, teadlane, disainer, häkker või ajakirjanik – liitu meie tiimiga!
+      Aita meil vabatahtlikuna arendada platvormi Citizen OS. Oled oodatud meie tiimiga liituma, ükskõik, kas oled arendaja, tõlkija, teadlane, disainer, häkker või ajakirjanik!
+
+      #### Liitu meie häkkerikogukonnaga.
+
+      Me haldame ülemaailmset kodanikutehnoloogia- ja osalusdemokraatiaaktivistide kogukonda. See on koht, kus osalejad saavad jagada oma teadmisi ja ideid e-demokraatia ja koostööpõhise otsustelangetamise kohta. Meie kogukonnaga võivad liituda kõik.[Loe lähemalt ](https://crowdin.com/project/citizenos-fe)!
 
       #### Aita tõlkida.
 
-      Kui platvorm Citizen OS pole veel Su keelde tõlgitud ja sooviksid meie vabatahtliku tõlkijate tiimiga liituda, anna oma soovist märku aadressil <translations@citizenos.com>.
+      Kui platvorm Citizen OS pole veel su keelde tõlgitud ja sooviksid meie vabatahtliku tõlkijate tiimiga liituda, anna oma soovist märku aadressil <translations@citizenos.com>.
 
       Platvormi Citizen OS uutesse keeltesse tõlkimine on lihtne, meiega teevad igapäevast koostööd paljud vabatahtlikud. [Vaata järele](https://crowdin.com/project/citizenos-fe)!
 
@@ -33,14 +37,14 @@ blocks:
 
       Kas oled tarkvaraarendaja või disainer, kellele online-keskkonnas otsuste tegemise võimalus südamelähedase teemana tundub?
 
-      Kui Sul on ideid, kuidas meie avatud lähtekoodiga tarkvara paremaks muuta või sellele uut funktsionaalsust lisada, palun [jaga oma mõtteid meiega GitHubis](https://github.com/citizenos).
+      Kui sul on ideid, kuidas meie avatud lähtekoodiga tarkvara paremaks muuta või sellele uut funktsionaalsust lisada, palun [jaga oma mõtteid meiega GitHubis](https://github.com/citizenos).
 
       #### Abi uurimustööga.
 
-      Kui töötad e-demokraatia valdkonnas, sooviksime meeleldi Suga kohtuda või Su töid meie blogis avaldada. Palun võta ühendust meie partnersuhete juhiga aadressil <anett@citizenos.com>.
+      Kui töötad e-demokraatia valdkonnas, sooviksime meeleldi sinuga kohtuda või su töid meie blogis avaldada. Palun võta ühendust meie partnersuhete juhi Anett Linnoga aadressil <anett@citizenos.com>.
 
       #### Abi muudes valdkondades.
 
-      Küsimuste korral kirjuta meie partnersuhete juhile aadressil <anett@citizenos.com>.
+      Kui sul on muud laadi koostööpakkumisi, kirjuta palun meie partnersuhete juhile aadressil <anett@citizenos.com>.
 
-      Kui soovid meie tiimiga liituda, tutvu vabade ametikohtadega [siin](/et/vabad-tookohad/).
+      Kui soovid meie tiimiga liituda, tutvu vabade ametikohtadega [here](/careers/).

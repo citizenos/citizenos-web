@@ -8,41 +8,43 @@ keywords:
   - hallintoteknologia
 image: /assets/images/meta/vision.jpg
 blocks:
-  contribute-img:
+  get-involved-img:
     class:
       - d-none
       - d-sm-block
     style:
       background: 'linear-gradient(180deg, #0EB7FE 0%, #0680FC 100%)'
       min-height: 75vh
-  contribute:
+  get-involved:
     #label: About
     title: |
-      Mi
+      Miten voin osallistua?
     text: |
 
-      Ryhdy vapaaehtoiseksi ja auta meitä parantamaan Citizen OS:n alustaa. Olitpa ohjelmistonkehittäjä, kääntäjä, tutkija, suunnittelija, haktivisti tai toimittaja – liity joukkoomme!
+      Auta meitä kehittämään Citizen OS -alustaa vapaaehtoisena. Olitpa sitten ohjelmistokehittäjä, kääntäjä, tutkija, suunnittelija, haktivisti tai journalisti, tule mukaan!
 
-      #### Auta kääntämisessä.
+      #### Liity kansalaishaktivistiyhteisöön
 
-      Mikäli Citizen OS:n alusta ei vielä tue kieltäsi ja haluaisit liittyä vapaaehtoisten kääntäjiemme tiimiin, ole hyvä ja kerro siitä meille osoitteeseen <translations@citizenos.com>.
+      Pyöritämme globaalia yhteisöä kansalaisteknologian ja osallistavan demokratian harrastajille. Se tarjoaa tilan tiedon ja ajatusten vaihtoon e-demokratiasta ja yhteistyöhön perustuvasta päätöksenteosta, ja kaikki ovat tervetulleita. [Find out more ](https://citizenos.com/community/).
 
-      Citizen OS:n alustan kääntäminen uusille kielille on helppoa. Monet vapaaehtoiset tekevät kanssamme työtä joka päivä. [Käy katsomassa]
-      (https://crowdin.com/project/citizenos-fe)!
+      #### Auta kääntämisessä
 
-      #### Auta kehittämään avoimen lähdekoodin ohjelmistoa.
+       Jos Citizen OS -alusta ei vielä ole tuettu omalla kielelläsi ja haluat liittyä vapaaehtoisten kääntäjiemme joukkoon, ota rohkeasti yhteyttä osoitteeseen <translations@citizenos.com>.
 
-      Oletko ohjelmistonkehittäjä tai suunnittelija, jolle verkkopäätöksenteon tulevaisuus on sydämenasia?
+       Citizen OS -alustan kääntäminen uudelle kielelle on helppoa – monet vapaaehtoiset työskentelevät kanssamme joka päivä. [Tutustu](https://crowdin.com/project/citizenos-fe)!
 
-      Mikäli sinulla on ajatuksia siitä, miten parantaa avointa lähdekoodiamme tai lisätä sen toimintojen määrää, [jaa toki ne kanssamme GitHubissa]
-      (https://github.com/citizenos).
+      #### Auta kehittämään avoimen lähdekoodin ohjelmistoa
 
-      #### Auta tutkimuksessa.
+       Oletko ohjelmistokehittäjä tai suunnittelija, jolle online-päätöksenteon tulevaisuus on lähellä sydäntä?
 
-      Mikäli työskentelet digitaalisen demokratian kentällä, haluaisimme oikein mielellämme tavata sinut tai julkaista töitäsi blogissamme. Ole hyvä ja ota yhteyttä kumppanuuspäällikköömme <anett@citizenos.com>.
+      Jos sinulla on parannusehdotuksia tai uusia ominaisuusideoita avoimeen lähdekoodiimme, please [jaa ideasi meille rohkeasti GitHubissa](https://github.com/citizenos).
 
-      #### Auta muilla aloilla.
+      #### Auta tutkimuksessa
 
-      Jos sinulla on jotakin kysyttävää, ole hyvä ja kirjoita kumppanuuspäälliköllemme <anett@citizenos.com>.
+       Jos työskentelet e-demokratian parissa, haluaisimme tavata sinut tai julkaista tekstejäsi blogissamme. Ole hyvä ja lähetä sähköpostia kumppanuusjohtajallemme Anett Linnolle osoitteeseen <anett@citizenos.com>.
 
-      Jos haluat liittyä tiimiimme, katso avoimina olevat paikat [täältä](/fi/urat/).
+      #### Auta muilla tavoilla
+
+       Muiden tarjousten tiimoilta ota yhteyttä kumppanuusjohtajaamme: <anett@citizenos.com>.
+
+      Jos haluat liittyä tiimiin, voit tutustua avoimiin työpaikkoihimme [täällä](/careers/).

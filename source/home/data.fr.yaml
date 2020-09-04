@@ -9,18 +9,18 @@ image: /assets/images/meta/home-alt.jpg
 data:
   news: /news/data.en.yaml
 header:
-  title: Decide Together
+  title: Décidez ensemble
   text: |
-    A free online platform for democratic discussions & citizen participation.
+    Utilisez notre plateforme gratuite Citizen OS pour des discussions démocratiques et la participation des citoyens.
   video:
-    title: Intro
+    title: Introduction
     url: https://www.youtube.com/embed/hDLWbQQAk8g?rel=0&showinfo=0&modestbranding=1&autoplay=1&cc_load_policy=1&cc_lang_pref=en
   demo:
     title: Démo
     url: https://www.youtube.com/embed/UC44qCCIixE?rel=0&showinfo=0&modestbranding=1&autoplay=1&cc_load_policy=1&cc_lang_pref=en
 #whatIs:
 #title: What is Citizen OS
-#url: /product/
+#url: /platform/
 #startUsing:
 #title: Start using - it’s free!
 #url: https://app.citizenos.com
@@ -44,14 +44,13 @@ blocks:
       background-image: url(/assets/images/bubble-dots.png)
       background-position: 0% 25%
       background-size: 360px 360px
-    #label: Our Product
     title: |
-      A free platform.
+      Une plateforme de codécision gratuite.
     text: |
-      Make democratic decisions - discuss and crowdsource ideas, e-sign petitions.
+      Crowdsourcez des idées, discutez les avantages et inconvénients et votez sur les décisions.
     button1st:
-      title: Learn More
-      url: /fr/produit/
+      title: En savoir plus
+      url: /fr/plateforme/
   democracy-img:
     class:
       - order-3
@@ -73,11 +72,11 @@ blocks:
       background-position: 0 10%
       background-size: 122px 122px
     title: |
-      A participatory future.
+      Un avenir participatif.
     text: |
-      We believe in a deeper democracy, where all citizens have a say in decisions that affect them.
+      Nous croyons en une démocratie plus profonde, où tous les citoyens ont leur mot à dire dans les décisions qui les concernent.
     button1st:
-      title: Our Vision
+      title: Notre vision
       url: /fr/vision/
     button2nd:
   #title: Use platform - it’s free!
@@ -103,12 +102,12 @@ blocks:
       background-size: 360px 360px
     #label: Let’s Educate
     title: |
-      A community of innovators.
+      Une communauté d'innovateurs.
     text: |
-      We run a global community for participatory e-democracy enthusiasts, and everyone’s welcome.
+      Nous gérons une communauté mondiale pour les enthousiastes de la démocratie participative en ligne, et nous accueillons tout le monde.
     button1st:
-      title: Learn More
-      url: /community/
+      title: En savoir plus
+      url: /fr/communaute/
   news:
     class:
       - order-6
@@ -119,11 +118,11 @@ blocks:
       background-position: 60% 10%
       background-size: 360px 360px
     title: |
-      Latest news.
+      Dernières actualités.
     text: |
       { #news-items }
     button1st:
-      title: More stories
+      title: Plus d'histoires
       url: /fr/actualites/
   meet:
     class:
@@ -153,14 +152,14 @@ blocks:
     class:
       - order-8
       - py-5
-    #label: A word from the team
+    label: Un mot de l'équipe
     title: |
-      About Us.
+      À propos de nous.
     text: |
-      We’re a non-profit civic tech organisation based in Tallinn, Estonia - the world’s leading digital nation.
+      Nous sommes une organisation à but non-lucratif de technologies civiques basée à Tallinn, en Estonie - l'une des principales nations numériques du monde.
     button1st:
-      title: Learn More
-      url: /company/
+      title: En savoir plus
+      url: /fr/societe/
   partners:
     class:
       - order-9

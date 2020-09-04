@@ -1,6 +1,6 @@
 ---
-path: /contribute
-title: Contribute
+path: /get-involved
+title: Get involved
 description: Developer, translator, scientist, designer, hacktivist and journalist - please get in touch! Citizen OS welcomes volunteers who are interested in e-democracy.
 keywords:
   - civic hacktivist
@@ -8,26 +8,30 @@ keywords:
   - government technology
 image: /assets/images/meta/vision.jpg
 blocks:
-  contribute-img:
+  get-involved-img:
     class:
       - d-none
       - d-sm-block
     style:
       background: 'linear-gradient(180deg, #0EB7FE 0%, #0680FC 100%)'
       min-height: 75vh
-  contribute:
+  get-involved:
     #label: About
     title: |
-      How to contribute?
+      How to get involved?
     text: |
 
       Help us improve the Citizen OS platform as a volunteer. Whether you are a developer, translator, researcher, designer, hacktivist or journalist - join us!
 
+      #### Join the Civic Hacktivist Community.
+
+      We run a global community for civic tech and participatory democracy enthusiasts. It’s a space for the exchange of knowledge and ideas about e-democracy and collaborative decision-making, and everyone’s welcome. [Find out more ](https://citizenos.com/community/).
+
       #### Help translate.
 
-      If Citizen OS platform doesn’t yet support your language and you'd like to join our volunteer translators' team, please let us know at <translations@citizenos.com>.
+      If Citizen OS platform doesn’t yet support your language and you'd like to join our volunteer translators' team, please get in touch at <translations@citizenos.com>.
 
-      Translating the Citizen OS platform into a new language is easy, many volunteers work with us every day. [Check it out](https://crowdin.com/project/citizenos-fe)!
+      Translating the Citizen OS platform into a new language is easy; many volunteers work with us every day. [Check it out](https://crowdin.com/project/citizenos-fe)!
 
       #### Help develop Open Source software.
 
@@ -37,10 +41,10 @@ blocks:
 
       #### Help with research.
 
-      If you are working in the field of e-democracy, we would love to meet you or publish your works on our blog. Please get in touch with our Head of Partnerships <anett@citizenos.com>.
+      If you are working in the field of e-democracy, we would love to meet you or publish your works on our blog. Please email our Head of Partnerships, Anett Linno at <anett@citizenos.com>.
 
       #### Help in other areas.
 
-      In case of questions, please write to our Head of Partnerships <anett@citizenos.com>.
+      With any other offers, please contact our Head of Partnerships <anett@citizenos.com>.
 
       If you would like to join the team, check out available positions [here](/careers/).

@@ -1,10 +1,10 @@
 ---
 siteTitle: Citizen OS
 navigation:
-  product:
-    title: Tuote
-    url: /fi/tuote/
-    class: product
+  platform:
+    title: Alusta
+    url: /fi/alusta/
+    class: alusta
   vision:
     title: Visio
     url: /fi/visio/
@@ -54,7 +54,7 @@ footer:
         careers:
           title: Urat
           url: /fi/urat/
-        contribute:
+        getInvolved:
           title: Osallistu
           url: /fi/osallistu/
         team:

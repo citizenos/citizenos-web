@@ -9,9 +9,9 @@ image: /assets/images/meta/home-alt.jpg
 data:
   news: /news/data.en.yaml
 header:
-  title: Decide Together
+  title: Putuskan Bersama
   text: |
-    A free online platform for democratic discussions & citizen participation.
+    Gunakan platform Citizen OS untuk diskusi demokratis & partisipasi warga negara.
   video:
     title: Intro
     url: https://www.youtube.com/embed/hDLWbQQAk8g?rel=0&showinfo=0&modestbranding=1&autoplay=1&cc_load_policy=1&cc_lang_pref=en
@@ -20,7 +20,7 @@ header:
     url: https://www.youtube.com/embed/UC44qCCIixE?rel=0&showinfo=0&modestbranding=1&autoplay=1&cc_load_policy=1&cc_lang_pref=en
 #whatIs:
 #title: What is Citizen OS
-#url: /product/
+#url: /platform/
 #startUsing:
 #title: Start using - it’s free!
 #url: https://app.citizenos.com
@@ -44,14 +44,13 @@ blocks:
       background-image: url(/assets/images/bubble-dots.png)
       background-position: 0% 25%
       background-size: 360px 360px
-    #label: Our Product
     title: |
-      A free platform.
+      Platform keputusan bersama gratis.
     text: |
-      Make democratic decisions - discuss and crowdsource ideas, e-sign petitions.
+      Crowdsource ide, diskusikan pro dan kontra, dan adakan pemilihan keputusan.
     button1st:
-      title: Learn More
-      url: /id/produk/
+      title: Lihat lengkap
+      url: /id/platform/
   democracy-img:
     class:
       - order-3
@@ -73,11 +72,11 @@ blocks:
       background-position: 0 10%
       background-size: 122px 122px
     title: |
-      A participatory future.
+      Masa depan partisipatoris.
     text: |
-      We believe in a deeper democracy, where all citizens have a say in decisions that affect them.
+      Kami percaya pada demokrasi yang lebih dalam, ketika semua warga memiliki hak berpendapat dalam keputusan yang memengaruhi mereka.
     button1st:
-      title: Our Vision
+      title: Visi kami
       url: /id/visi/
     button2nd:
   #title: Use platform - it’s free!
@@ -103,12 +102,12 @@ blocks:
       background-size: 360px 360px
     #label: Let’s Educate
     title: |
-      A community of innovators.
+      Masyarakat inovator.
     text: |
-      We run a global community for participatory e-democracy enthusiasts, and everyone’s welcome.
+      Kami menjalankan masyarakat global untuk penggemar e-democracy partisipatoris, dan semua orang boleh bergabung.
     button1st:
-      title: Learn More
-      url: /community/
+      title: Lihat lengkap
+      url: /id/masyarakat/
   news:
     class:
       - order-6
@@ -119,11 +118,11 @@ blocks:
       background-position: 60% 10%
       background-size: 360px 360px
     title: |
-      Latest news.
+      Berita terkini.
     text: |
       { #news-items }
     button1st:
-      title: More stories
+      title: Cerita lebih banyak
       url: /id/berita/
   meet:
     class:
@@ -153,14 +152,14 @@ blocks:
     class:
       - order-8
       - py-5
-    #label: A word from the team
+    label: Sepatah kata dari tim
     title: |
-      About Us.
+      Tentang Kami.
     text: |
-      We’re a non-profit civic tech organisation based in Tallinn, Estonia - the world’s leading digital nation.
+      Kami adalah organisasi teknologi sipil nirlaba yang berbasis di Tallinn, Estonia - salah satu negara digital terkemuka di dunia.
     button1st:
-      title: Learn More
-      url: /company/
+      title: Lihat lengkap
+      url: /id/perusahaan/
   partners:
     class:
       - order-9
