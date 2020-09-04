@@ -3,7 +3,7 @@ siteTitle: Citizen OS
 navigation:
   platform:
     title: Платформа
-    url: /ru/platforma
+    url: /ru/platforma/
     class: платформа
   vision:
     title: Концепция
