@@ -15,7 +15,7 @@ data:
 header:
     title: Decide Together
     text: |
-        A free online platform for democratic discussions & citizen participation.
+        Use our free Citizen OS platform for democratic discussions & citizen participation.
 
     video:
         title: Intro
@@ -26,7 +26,7 @@ header:
         url: https://www.youtube.com/embed/UC44qCCIixE?rel=0&showinfo=0&modestbranding=1&autoplay=1&cc_load_policy=1&cc_lang_pref=en
     # whatIs:
     #     title: What is Citizen OS
-    #     url: /product/
+    #     url: /platform/
     # startUsing:
     #     title: Start using - it’s free!
     #     url: https://app.citizenos.com
@@ -53,15 +53,14 @@ blocks:
             background-image: url(/assets/images/bubble-dots.png)
             background-position: 0% 25%
             background-size: 360px 360px
-        # label: Our Product
         title: |
-            A free platform.
+            A free co-decision platform.
         text: |
-            Make democratic decisions - discuss and crowdsource ideas, e-sign petitions.
+            Crowdsource ideas, discuss pros and cons and vote on decisions.
 
         button1st:
-            title: Learn More
-            url: /product/
+            title: Learn more
+            url: /platform/
 
 
     democracy-img:
@@ -90,7 +89,7 @@ blocks:
         text: |
             We believe in a deeper democracy, where all citizens have a say in decisions that affect them.
         button1st:
-            title: Our Vision
+            title: Our vision
             url: /vision/
         button2nd:
             # title: Use platform - it’s free!
@@ -123,7 +122,7 @@ blocks:
         text: |
             We run a global community for participatory e-democracy enthusiasts, and everyone’s welcome.
         button1st:
-            title: Learn More
+            title: Learn more
             url: /community/
 
 
@@ -175,14 +174,14 @@ blocks:
         class:
             - order-8
             - py-5
-        # label: A word from the team
+        label: A word from the team
         title: |
             About Us.
         text: |
-            We’re a non-profit civic tech organisation based in Tallinn, Estonia - the world’s leading digital nation.
+            We’re a non-profit civic tech organisation based in Tallinn, Estonia - one of the world’s leading digital nations.
 
         button1st:
-            title: Learn More
+            title: Learn more
             url: /company/
 
     partners:

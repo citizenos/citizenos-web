@@ -77,7 +77,7 @@ const getStatsRAA = async () => {
     return new Promise((resolve, reject) => {
         resolve({
             topicsCreated: 0,
-            votesCast: 80000,
+            votesCast: 91000,
             groupsCreated: 0,
             usersCreated: 50000
         })
