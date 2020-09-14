@@ -29,9 +29,9 @@ blocks:
     title: |
       Tugineb uurimustele ja andmetele.
     text: |
-      We collaborate with e-democracy researchers to help develop our products.
+      Teeme oma toodete arendamiseks koostööd e-demokraatiat uurivate teadlastega.
 
-      If you are an e-democracy researcher, please [write to our Product Manager](mailto:margo@citizenos.com).
+      Kui tegeled e-demokraatia uurimisega, [kirjuta palun meie tootejuhile](mailto:margo@citizenos.com).
     button1st:
       title: Telli uudised
       url: '#subscribe'
