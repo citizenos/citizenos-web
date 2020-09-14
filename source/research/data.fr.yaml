@@ -29,9 +29,9 @@ blocks:
     title: |
       Basé sur la recherche et les données.
     text: |
-      Nous collaborons avec des chercheurs en e-démocratie pour aider à développer nos produits.
+      We collaborate with e-democracy researchers to help develop our products.
 
-      Si vous êtes un chercheur en e-démocratie, veuillez écrire à notre Gestionnaire de produits <margo@citizenos.com>.
+      If you are an e-democracy researcher, please [write to our Product Manager](mailto:margo@citizenos.com).
     button1st:
       title: S'inscrire aux actualités
       url: '#subscribe'
