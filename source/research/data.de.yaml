@@ -29,9 +29,9 @@ blocks:
     title: |
       Auf Forschung und Daten angewiesen.
     text: |
-      Um unsere Produkte weiterzuentwickeln, kooperieren wir mit Forschern der E-Demokratie.
+      We collaborate with e-democracy researchers to help develop our products.
 
-      Wenn Sie ein Forscher der E-Demokratie sind, schreiben Sie bitte an unseren Produktmanager <margo@citizenos.com>.
+      If you are an e-democracy researcher, please [write to our Product Manager](mailto:margo@citizenos.com).
     button1st:
       title: Für News anmelden
       url: '#subscribe'
