@@ -29,9 +29,9 @@ blocks:
     title: |
       Tutkimukseen ja asiatietoon nojautuminen.
     text: |
-      We collaborate with e-democracy researchers to help develop our products.
+      Teemme yhteistyötä digitaalisen demokratian tutkijoiden kanssa kehittääksemme tuotteitamme.
 
-      If you are an e-democracy researcher, please [write to our Product Manager](mailto:margo@citizenos.com).
+      Jos olet digitaalisen demokratian tutkija, ole hyvä ja [kirjoita tuotepäälliköllemme](mailto:margo@citizenos.com).
     button1st:
       title: Rekisteröidy vastaanottaaksesi uutisia
       url: '#subscribe'
