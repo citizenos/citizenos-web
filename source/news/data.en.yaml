@@ -11,6 +11,17 @@ image: /assets/images/meta/vision.jpg
 
 news:
 
+    2020-09-15:
+        url: /news/democracy-is-impossible-without-reasoned-debate
+        title: Democracy is impossible without reasoned debate.
+        author: Margo Loor
+        image: /assets/images/news/democracy-is-impossible-without-reasoned-debate.jpg
+        categories:
+            - Citizen OS news
+            - E-democracy news
+        text: |
+            Our CEO Margo Loor on why public discussion yields the best decisions, as published in the Good Citizen magazine.
+
     2020-08-07:
         url: /news/a-new-approach-for-maximum-transparency
         title: A new approach for maximum transparency.
