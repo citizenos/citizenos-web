@@ -29,9 +29,9 @@ blocks:
     title: |
       Опираясь на исследования и научные данные.
     text: |
-      We collaborate with e-democracy researchers to help develop our products.
+      Мы сотрудничаем с исследователями в сфере электронной демократии, чтобы постоянно развивать наш продукт.
 
-      If you are an e-democracy researcher, please [write to our Product Manager](mailto:margo@citizenos.com).
+      Если вы являетесь исследователем в данной области, [напишите нашему менеджеру продукта](mailto:margo@citizenos.com).
     button1st:
       title: Подписаться на новостную рассылку
       url: '#subscribe'
