@@ -9,10 +9,6 @@ navigation:
     title: Visioon
     url: /et/visioon/
     class: vision
-  research:
-    title: Uurimused
-    url: /et/uurimused/
-    class: research
   community:
     title: Kogukond
     url: /et/kogukond/
