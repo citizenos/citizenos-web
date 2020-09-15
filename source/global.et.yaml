@@ -9,10 +9,6 @@ navigation:
     title: Visioon
     url: /et/visioon/
     class: vision
-  research:
-    title: Uurimused
-    url: /et/uurimused/
-    class: research
   community:
     title: Kogukond
     url: /et/kogukond/
@@ -48,9 +44,9 @@ footer:
     about:
       title: Meist
       links:
-        company:
-          title: Organisatsioon
-          url: /et/ettevote/
+        aboutUs:
+          title: About us
+          url: /about-us/
         careers:
           title: Vabad töökohad
           url: /et/vabad-tookohad/

@@ -159,7 +159,7 @@ blocks:
       We’re a non-profit civic tech organisation based in Tallinn, Estonia - one of the world’s leading digital nations.
     button1st:
       title: Learn more
-      url: /company/
+      url: /about-us/
   partners:
     class:
       - order-9

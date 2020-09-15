@@ -9,10 +9,6 @@ navigation:
     title: Visio
     url: /fi/visio/
     class: vision
-  research:
-    title: Tutkimus
-    url: /fi/tutkimus/
-    class: research
   community:
     title: Yhteisö
     url: /fi/yhteiso/
@@ -48,9 +44,9 @@ footer:
     about:
       title: Tietoja
       links:
-        company:
-          title: Yritys
-          url: /fi/yritys/
+        aboutUs:
+          title: About us
+          url: /about-us/
         careers:
           title: Urat
           url: /fi/urat/
