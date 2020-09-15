@@ -159,7 +159,7 @@ blocks:
       Nous sommes une organisation à but non-lucratif de technologies civiques basée à Tallinn, en Estonie - l'une des principales nations numériques du monde.
     button1st:
       title: En savoir plus
-      url: /fr/societe/
+      url: /about-us/
   partners:
     class:
       - order-9
