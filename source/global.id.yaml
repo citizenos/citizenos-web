@@ -82,6 +82,10 @@ footer:
           title: YouTube
           icon: /assets/images/community-youtube.svg
           url: https://www.youtube.com/channel/UCahwJw-DTZ24yC1HiDCofhQ
+        github:
+          title: GitHub
+          icon: /assets/images/community-github.svg
+          url: https://github.com/citizenos
     support:
       title: Dukungan
       links:
