@@ -9,10 +9,6 @@ navigation:
     title: Visio
     url: /fi/visio/
     class: vision
-  research:
-    title: Tutkimus
-    url: /fi/tutkimus/
-    class: research
   community:
     title: Yhteisö
     url: /fi/yhteiso/
