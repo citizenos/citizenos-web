@@ -9,10 +9,6 @@ navigation:
     title: Vision
     url: /vision/
     class: vision
-  research:
-    title: Forschung
-    url: /research/
-    class: research
   community:
     title: Community
     url: /community/
