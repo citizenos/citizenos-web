@@ -9,10 +9,6 @@ navigation:
     title: Концепция
     url: /ru/koncepciya/
     class: vision
-  research:
-    title: Исследования
-    url: /ru/issledovaniya/
-    class: research
   community:
     title: Сообщество
     url: /ru/soobshchestvo/
