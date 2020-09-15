@@ -48,9 +48,9 @@ footer:
     about:
       title: Tentang
       links:
-        company:
-          title: Perusahaan
-          url: /id/perusahaan/
+        aboutUs:
+          title: About us
+          url: /about-us/
         careers:
           title: Karier
           url: /id/karier/
