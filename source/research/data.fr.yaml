@@ -31,7 +31,7 @@ blocks:
     text: |
       Nous collaborons avec des chercheurs en e-démocratie pour aider à développer nos produits.
 
-      Si vous êtes un chercheur en e-démocratie, veuillez écrire à notre Gestionnaire de produits <margo@citizenos.com>.
+      Si vous êtes un chercheur en e-démocratie, veuillez [écrire à notre Gestionnaire de produits](mailto:margo@citizenos.com).
     button1st:
       title: S'inscrire aux actualités
       url: '#subscribe'
