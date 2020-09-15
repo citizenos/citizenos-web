@@ -9,10 +9,6 @@ navigation:
     title: Visi
     url: /id/visi/
     class: vision
-  research:
-    title: Riset
-    url: /id/riset/
-    class: research
   community:
     title: Masyarakat
     url: /id/masyarakat/
