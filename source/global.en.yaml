@@ -9,10 +9,6 @@ navigation:
         title: Vision
         url: /vision/
         class: vision
-    research:
-        title: Research
-        url: /research/
-        class: research
     community:
         title: Community
         url: /community/
@@ -52,9 +48,9 @@ footer:
         about:
             title: About
             links:
-                company:
-                    title: Company
-                    url: /company/
+                aboutUs:
+                    title: About us
+                    url: /about-us/
                 careers:
                     title: Careers
                     url: /careers/
