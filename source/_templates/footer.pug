@@ -22,6 +22,7 @@ footer.container-fluid
             .col-12.col-sm-3.offset-sm-1
                 h2= self.footer.navigation.community.title
                 if self.footer.navigation.community.links
-                    each l in self.footer.navigation.community.links
-                        a.d-inline-block.mr-2.mb-2(href=l.url)
-                            img(src=l.icon, alt=l.title + ' icon')
+                    .row
+                        each l in self.footer.navigation.community.links
+                            a.col-2.mb-4(href=l.url, target='_blank')
+                                img(src=l.icon, alt=l.title + ' icon')
