@@ -182,7 +182,7 @@ blocks:
 
         button1st:
             title: Learn more
-            url: /company/
+            url: /about-us/
 
     partners:
         class:
