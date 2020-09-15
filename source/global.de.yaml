@@ -48,9 +48,9 @@ footer:
     about:
       title: Über uns
       links:
-        company:
-          title: Unternehmen
-          url: /company/
+        aboutUs:
+          title: About us
+          url: /about-us/
         careers:
           title: Karrieren
           url: /careers/
