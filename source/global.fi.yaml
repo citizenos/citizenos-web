@@ -48,9 +48,9 @@ footer:
     about:
       title: Tietoja
       links:
-        company:
-          title: Yritys
-          url: /fi/yritys/
+        aboutUs:
+          title: About us
+          url: /about-us/
         careers:
           title: Urat
           url: /fi/urat/
