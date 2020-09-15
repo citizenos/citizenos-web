@@ -48,9 +48,9 @@ footer:
     about:
       title: О платформе
       links:
-        company:
-          title: Компания
-          url: /ru/organizaciya/
+        aboutUs:
+          title: About us
+          url: /about-us/
         careers:
           title: Вакансии
           url: /ru/vakansii/
