@@ -117,6 +117,7 @@ news:
         categories:
             - Citizen OS news
             - E-democracy news
+            - Case studies
         text: |
             Still haven’t found the perfect tool for remote group decision-making? Our free co-decision platform might be just what you’re looking for.
 
@@ -128,6 +129,7 @@ news:
         categories:
             - Citizen OS news
             - E-democracy news
+            - Case studies
         text: |
             A radically different approach to party politics – paving the way for a bottom-up digital eco-state led directly by the people.
 
@@ -148,6 +150,7 @@ news:
         image: /assets/images/news/where-is-participation-heading-and-how-can-each-of-us-change-it.jpeg
         categories:
             - E-democracy news
+            - Citizen OS news
         text: |
             Gertha Teidla-Kunitsõn from the Estonian Youth Work Center asked our CEO about the status of participation in society today and where is participation heading in the future.
 
@@ -158,6 +161,7 @@ news:
         image: /assets/images/news/le-ciel-and-citizen-os-join-forces-for-the-planet.jpeg
         categories:
             - Citizen OS news
+            - Case studies
         text: |
             "The Twelve", a new documentary revealing indigenous communities’ wisdom to inspire global collective action, is being supported by Citizen OS through the creation of an online community platform.
 
@@ -178,6 +182,7 @@ news:
         image: /assets/images/news/gmb-indonesia-empowering-youth-leaders-for-unity-and-peace.jpeg
         categories:
             - Citizen OS news
+            - Case studies
         text: |
             Our Head of Partnerships, Anett Linno, walks us through her experiences at our partner GMB Indonesia’s Youth Adventure and Leaders Forum, in this personal blog and in-depth photo story.
 
@@ -209,7 +214,6 @@ news:
         image: /assets/images/news/meet-the-team-localisation-lead-oksana-naidjonova.jpg
         categories:
             - Citizen OS news
-            - E-democracy news
         text: |
             Citizen OS’s localisation lead on her childhood translation profession, coffee-addicted eagles, and a cunning plan to take over the world.
 
