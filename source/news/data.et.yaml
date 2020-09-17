@@ -8,6 +8,17 @@ keywords:
   -
 image: /assets/images/meta/vision.jpg
 news:
+  2020-09-18:
+    url: /news/the-34-islands-project-for-a-greener-indonesia
+    title: The 34 Islands Project–for a Greener Indonesia.
+    author: Becca Melhuish
+    image: /assets/images/news/the-34-islands-project-for-a-greener-indonesia.jpg
+    top: true
+    categories:
+      - Citizen OS news
+      - Case studies
+    text: |
+      Grassroots community decision-making is combating waste pollution in Indonesia.
   2020-09-15:
     url: /et/uudised/demokraatia-ilma-argumenteeritud-aruteluta-ei-ole-võimalik/
     title: Democracy is impossible without reasoned debate.
@@ -32,7 +43,6 @@ news:
     title: The key to online democracy is trust.
     author: Margo Loor, CEO and Product Manager / Edited by Becca Melhuish
     image: /assets/images/news/the-key-to-online-democracy-is-trust.jpg
-    top: true
     categories:
       - Citizen OS news
     text: |
