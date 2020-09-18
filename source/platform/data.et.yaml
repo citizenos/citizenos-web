@@ -31,7 +31,7 @@ blocks:
       background-position: 10% 5%, 90% 90%
       background-size: 75px 75px, 65px 65px
     title: |
-      Ühised otsused ja kodanike kaasamine.
+      Ühised otsused ja kodanikuaktiivsus.
     text: |
       Kasuta tasuta veebiplatvormi aruteludeks, hääletamiseks ja rahvaalgatuslike ideede kogumiseks. Valikulise e-ID funktsiooniga.
 
@@ -77,9 +77,9 @@ blocks:
           Saa tagasisidet laiemalt ringilt. Ideaalne kodanikualgatusprojektide jaoks.
       widget:
         poster: /assets/images/flexibleformat-widget.png
-        title: Järelkontakt
+        title: Follow up
         text: |
-          Teavita osalejaid rühmaotsuse järel tehtud toimingutest.
+          Loo ühiseid algatusi ja kogu tuhandeid digiallkirju. Kasuta e-ID identifitseerimist, et otsuseid digiallkirjastada.
   features-img:
     class:
       - order-3
