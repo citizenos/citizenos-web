@@ -8,6 +8,17 @@ keywords:
   -
 image: /assets/images/meta/vision.jpg
 news:
+  2020-09-18:
+    url: /news/the-34-islands-project-for-a-greener-indonesia
+    title: The 34 Islands Project–for a Greener Indonesia.
+    author: Becca Melhuish
+    image: /assets/images/news/the-34-islands-project-for-a-greener-indonesia.jpg
+    top: true
+    categories:
+      - Citizen OS news
+      - Case studies
+    text: |
+      Grassroots community decision-making is combating waste pollution in Indonesia.
   2020-09-15:
     url: /news/democracy-is-impossible-without-reasoned-debate
     title: Democracy is impossible without reasoned debate.
@@ -32,7 +43,6 @@ news:
     title: The key to online democracy is trust.
     author: Margo Loor, CEO and Product Manager / Edited by Becca Melhuish
     image: /assets/images/news/the-key-to-online-democracy-is-trust.jpg
-    top: true
     categories:
       - Citizen OS news
     text: |
@@ -95,6 +105,7 @@ news:
     categories:
       - Citizen OS news
       - E-democracy news
+      - Case studies
     text: |
       Still haven’t found the perfect tool for remote group decision-making? Our free co-decision platform might be just what you’re looking for.
   2020-04-20:
@@ -105,6 +116,7 @@ news:
     categories:
       - Citizen OS news
       - E-democracy news
+      - Case studies
     text: |
       A radically different approach to party politics – paving the way for a bottom-up digital eco-state led directly by the people.
   2020-02-27:
@@ -123,6 +135,7 @@ news:
     image: /assets/images/news/where-is-participation-heading-and-how-can-each-of-us-change-it.jpeg
     categories:
       - E-democracy news
+      - Citizen OS news
     text: |
       Gertha Teidla-Kunitsõn from the Estonian Youth Work Center asked our CEO about the status of participation in society today and where is participation heading in the future.
   2019-12-02:
@@ -132,6 +145,7 @@ news:
     image: /assets/images/news/le-ciel-and-citizen-os-join-forces-for-the-planet.jpeg
     categories:
       - Citizen OS news
+      - Case studies
     text: |
       "The Twelve", a new documentary revealing indigenous communities’ wisdom to inspire global collective action, is being supported by Citizen OS through the creation of an online community platform.
   2019-11-13:
@@ -150,6 +164,7 @@ news:
     image: /assets/images/news/gmb-indonesia-empowering-youth-leaders-for-unity-and-peace.jpeg
     categories:
       - Citizen OS news
+      - Case studies
     text: |
       Our Head of Partnerships, Anett Linno, walks us through her experiences at our partner GMB Indonesia’s Youth Adventure and Leaders Forum, in this personal blog and in-depth photo story.
   2019-09-05:
@@ -178,7 +193,6 @@ news:
     image: /assets/images/news/meet-the-team-localisation-lead-oksana-naidjonova.jpg
     categories:
       - Citizen OS news
-      - E-democracy news
     text: |
       Citizen OS’s localisation lead on her childhood translation profession, coffee-addicted eagles, and a cunning plan to take over the world.
 readMore: Read more
