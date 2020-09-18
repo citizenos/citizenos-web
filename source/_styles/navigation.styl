@@ -83,3 +83,18 @@ nav
             margin-bottom 2px
             width 160px
             height 30px
+
+@media all and (min-width: 992px)
+    .navbar
+        .nav-item
+            .dropdown-menu
+                margin-top 0
+                border-top-color #E5E5E5
+                border-top-right-radius 0
+                border-top-left-radius 0
+                display none
+                margin-top 0
+
+            &:hover
+                .dropdown-menu
+                    display block
