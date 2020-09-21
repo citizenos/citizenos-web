@@ -65,7 +65,7 @@ blocks:
       background-position: 90% 10%, 30% 80%, 20% 90%
       background-size: 45px 45px, 165px 165px, 350px 350px
     text: |
-      ![Rühm spetsialiste istub laua ääres arvutite taga ja arutleb kodanikutehnoloogia ja osalusdemokraatia üle.](/assets/images/community-mission.jpg){ .img-fluid .box-shadow }
+      ![Grupp spetsialiste istub laua ääres arvutite taga ja arutleb kodanikutehnoloogia ja osalusdemokraatia üle.](/assets/images/community-mission.jpg){ .img-fluid .box-shadow }
   mission:
     class:
       - order-5
