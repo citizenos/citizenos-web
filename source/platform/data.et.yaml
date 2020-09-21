@@ -69,7 +69,7 @@ blocks:
         poster: /assets/images/flexibleformat-onlinemeetings.png
         title: Arutelud
         text: |
-          Naudi ratsionaalseid ja tasakaalustatud, poolt- ja vastuargumente kaaluvaid rühmaarutelusid.
+          Naudi ratsionaalseid ja tasakaalustatud, poolt- ja vastuargumente kaaluvaid grupiarutelusid.
       gatheringideas:
         poster: /assets/images/flexibleformat-gatheringideas.png
         title: Rahvaalgatuslike ideede kogumine
@@ -106,7 +106,7 @@ blocks:
 
       - Tasakaalustatud arutelud poolt- ja vastuargumentide esitamiseks.
       - Sina otsustad, kas soovid pidada privaatseid või avalikke arutelusid.
-      - Privaatsed rühmad, selleks, et pidada samade inimestega mitmeid arutelusid.
+      - Privaatsed grupid, selleks, et pidada samade inimestega mitmeid arutelusid.
       { .bullet }
 
       - Kohandatav ja anonüümne, kindlate tähtaegadega hääletamine.
@@ -199,6 +199,6 @@ blocks:
       votesCast:
         title: hääli
       groupsCreated:
-        title: rühmi
+        title: gruppe
       usersCreated:
         title: kasutajaid
