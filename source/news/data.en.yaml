@@ -16,6 +16,7 @@ news:
         title: The dawn of participatory e-democracy in India?
         author: Sara Sinha
         image: /assets/images/news/the-dawn-of-participatory-e-democracy-in-india.jpg
+        top: true
         categories:
             - E-democracy news
             - Case studies
@@ -70,7 +71,6 @@ news:
         title: Turning citizen ideas into action on waste—Bintan, Indonesia.
         author: Indonesian team, edited by Becca Melhuish
         image: /assets/images/news/turning-citizen-ideas-into-action-on-waste-bintan-indonesia.jpeg
-        top: true
         categories:
             - Citizen OS news
             - Case studies
