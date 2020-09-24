@@ -18,6 +18,7 @@ text: |
     Sara Sinha, Citizen OS intern and Open Society Technologies Masters student.{ .text-muted }
 
     **To begin, could you tell us a little bit about the paper you’ve written, and what sort of topics you explore in it?**
+    { .pt-5 }
 
     One of the key topics covered is clearly differentiating between "e-governance" and "e-democracy", as often these terms are used interchangeably, when in fact they’re very different. And this is particularly important in the Indian context, where civic tech initiatives are still very much focused on e-governance, and only just starting to develop along the e-democracy path.
 
@@ -26,12 +27,14 @@ text: |
     The article also gives an overview of the e-democracy field in India, which looks very different to how it does in the West. In India there’s much more top-down participation, on the whole, rather than bottom-up initiatives.
 
     **Interesting. Can you explain a bit more about this idea of the quality levels of participation?**
+    { .pt-5 }
 
     Yes it’s a really interesting question, to explore what exactly is meant by participation, and how deep it should go. Even EU definitions are just definitions, and are difficult to implement in practice. But in my article I highlight some authors who go further in describing the levels of participation—spelling out clearly what is meant by 'bottom-up' and 'top-down', what should happen in each scenario, what the outcomes should be, and so on. They’ve tried to come up with a set of criteria for quality participation, which gives a very different way of looking at it, in the Indian context at least.
 
     But to try and summarise I’d say that really the crux of this is that high quality participatory initiatives meet two criteria. They should increase the levels of trust between the government and citizens, and there should be a genuine sharing of power between the government and citizens. The different levels of quality in participation are linked to this latter point, so to what extent the power is really being shared--and shared democratically and transparently—in the decisions being made.
 
     **Could you give some examples of the civic tech initiatives in India that you currently see as the most exciting, in terms of meeting some of these criteria?**
+    { .pt-5 }
 
     There are many exciting initiatives in the field of e-governance in India, but in e-democracy there’s currently only a handful. But these few pioneers are really setting the stage, and I think helping determine what the next set of platforms will look like.
 
@@ -42,12 +45,14 @@ text: |
     One initiative that springs to mind was a recent campaign around gender-based violence, looking at how to change the laws in this area, and to raise awareness that this is an issue that can only be addressed by systemic change. It’s quite revolutionary for India because we’re quite a conservative society, but this campaign was very progressive and very much about the youth deciding what direction we should actually go in. Saying, look—these are our visions for the future, and we want you to accept our vision, because we are the citizens and the people who put you in office, so we should play a strategic role in shaping this.
 
     **Fantastic. And how did the campaign go? Did it achieve any law changes, or other impacts?**
+    { .pt-5 }
 
     The objective wasn’t so much about the law changes per se, though recently there have indeed been some legal changes, but it’s difficult to say whether those changes were a direct outcome of this campaign or not. But I think the approach they used—which I think works really well—is that you don’t focus on one specific law, but first you just say ‘let’s start a discussion’, and ‘let’s get as many people on board as we can’. Then once you have the numbers and have a significant percentage of the population actually thinking about these issues, it’s possible that the government actually realises on its own that the climate has changed, and that it’s time to reform laws which are obsolete.
 
     In terms of the balance of power I think this is great, as the government is really only peripherally involved in this kind of participation. So then it’s not about necessarily having a formal partnership with the government, in which the citizens are really the weaker partner—with the government deciding when and how the citizens can participate—as is often the way with more top-down forms of participation.
 
     **Can you talk about some of the civic tech projects you mentioned that you feel don’t really cut it when it comes to quality participation?**
+    { .pt-5 }
 
     Yes, at present a lot of platforms are being labelled as civic tech platforms, but analysis has shown that most of these are operating in the space of urban governance. So participation is restricted to very specific issues, which at least from my perspective, don’t really count as true participation.
 
@@ -58,6 +63,7 @@ text: |
     But just to clarify, I’m not saying that there’s no value in urban governance civic tech initiatives—we’re a developing country and these sorts of citizen-government partnerships are one way to help us meet our Sustainable Development goals—but just that they need to be more democratic, and more transparent.
 
     **Thinking ahead to the future, how would you like to see the field of participatory e-democracy panning out in India, in an ideal scenario? What’s your vision for its possible future there?**
+    { .pt-5 }
 
     Ten years from now, I’d love to see that citizens are still concerned about solving the country's problems, but that they’re able to engage with each other in a productive way which also helps to build social relations. So we would have the collective intelligence of Indian minds working on the big challenges that face the country together—with people from different communities collaborating and sharing ideas.
 
