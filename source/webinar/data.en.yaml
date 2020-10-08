@@ -10,23 +10,40 @@ title: Webinar
 
 blocks:
     header:
-        title: 'Free Webinar: Making better decisions in your team and network via technological connectedness'
+        title: 'The Participatory Youth Leadership Network'
 
     text:
         text: |
-            ## What?
+            ## An Invitation to Collaborate
 
-            A great collective decision needs two components: an argument-based discussion and a diversity of opinions. How to collect all opinions and vote for the best outcome when people are living and working far away from each other? In this webinar we are going to discuss:
+            We at Citizen OS, a civic tech non-profit based working all around the world to enhance democracy and participation in civil society, cordially invite you to collaborate in the development of a new community of practice – the Participatory Youth Leadership Network (PYLN).
 
-            - How to build argument-based decision-making culture in your organization
-            - Scientific proof for larger groups making better decisions.
-            - Using technological connectedness to empower your network or community - an example based on the Citizen OS platform.
+            ## The Network
 
-            [Save your seat](){data-toggle=modal data-target=#join-popup} for the webinar now or [leave your contacts](mailto:anett@citizenos.com) and we will send you the recording!
+            The Participatory Youth Leadership Network is a dedicated network for youth organisations all across India to collaborate and share best practice in the areas of participatory leadership and civic engagement.
+
+            As part of the network, members will gain valuable insights, skills, knowledge and contacts to help achieve their youth organisation’s goals in the most innovative and democratic ways.
+
+            The network will be divided into two parts – external collaboration and internal collaboration.
+
+            External collaboration involves a comprehensive programme of free webinars, workshops, training
+            sessions and networking on topics such as inclusive leadership, constructive argumentation, theory of change and values-centred approaches. This programme will be attended by youth organisations in India, Citizen OS and our international contributors.
+
+            Internal collaboration involves organisations forming their own steering groups and deciding their own agendas using the civic tools provided by [Citizen OS](https://citizenos.com/platform/). Let it be said, the use of our platform is strictly voluntary, members can use any platform that they mutually agree upon.
+
+            ## The Process
+
+            Keeping in mind that countries have different contexts, we would like the India chapter of PYLN to focus on building a community of practice in the Indian context. We are looking at community members to form their own steering groups, keeping in mind their organisational interests.
+
+            However, as mentioned above, our international contributors will join our structured programme in order to learn, understand and share.
+
+
+
+            [Save your seat](){data-toggle=modal data-target=#join-popup} for the programme now! [leave your contacts](mailto:anett@citizenos.com) and we will send you and all details and a link to the introductory webinar!
 
     join:
         title: When?
-        date: Thursday April 11, 2019
+        date: Intro webinar - Oct 16th, 2020
         time: 12:00 GMT
         how: How to join?
         button:
@@ -34,9 +51,9 @@ blocks:
             url: '#join'
 
     form:
-        title: Save my seat! Citizen OS free webinar on Thursday, April 11 at 12:00 GMT
+        title: Save my seat! The Participatory Youth Leadership Network programme. Introductory webinar on Friday, October 16th at 12:00 GMT
         email: Email Address
-        subscribe: Subscribe
+        subscribe: Save my seat
 
     footer:
         text: |
