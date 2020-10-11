@@ -8,6 +8,17 @@ keywords:
   -
 image: /assets/images/meta/vision.jpg
 news:
+  2020-09-24:
+    url: /news/the-dawn-of-participatory-e-democracy-in-india
+    title: The dawn of participatory e-democracy in India?
+    author: Sara Sinha
+    image: /assets/images/news/the-dawn-of-participatory-e-democracy-in-india.jpg
+    top: true
+    categories:
+      - E-democracy news
+      - Case studies
+    text: |
+      Open Society Technologies scholar Sara Sinha fills us in on the participatory e-democracy scene in India, the academic research in this area, and her hopes for the future of this field in her homeland.
   2020-09-18:
     url: /news/the-34-islands-project-for-a-greener-indonesia
     title: The 34 Islands Project–for a Greener Indonesia.
@@ -52,7 +63,6 @@ news:
     title: Turning citizen ideas into action on waste—Bintan, Indonesia.
     author: Indonesian team, edited by Becca Melhuish
     image: /assets/images/news/turning-citizen-ideas-into-action-on-waste-bintan-indonesia.jpeg
-    top: true
     categories:
       - Citizen OS news
       - Case studies
