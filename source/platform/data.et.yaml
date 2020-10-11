@@ -76,8 +76,8 @@ blocks:
         text: |
           Saa tagasisidet laiemalt ringilt. Ideaalne kodanikualgatusprojektide jaoks.
       widget:
-        poster: /assets/images/flexibleformat-widget2.png
-        title: Järelkontakt
+        poster: /assets/images/flexibleformat-widget.png
+        title: Follow up
         text: |
           Loo ühiseid algatusi ja kogu tuhandeid digiallkirju. Kasuta e-ID identifitseerimist, et otsuseid digiallkirjastada.
   features-img:
