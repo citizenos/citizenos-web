@@ -159,7 +159,7 @@ blocks:
       Olemme tallinnalainen voittoa tavoittelematon kansalaisteknologiaorganisaatio – toimimme yhdessä maailman johtavista digitaalisista valtioista: Virossa.
     button1st:
       title: Lue lisää
-      url: /about-us/
+      url: /fi/tietoja-meista/
   partners:
     class:
       - order-9
