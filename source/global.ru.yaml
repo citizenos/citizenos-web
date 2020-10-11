@@ -45,8 +45,8 @@ footer:
       title: О платформе
       links:
         aboutUs:
-          title: About us
-          url: /about-us/
+          title: О нас
+          url: /ru/o-nas/
         careers:
           title: Вакансии
           url: /ru/vakansii/
