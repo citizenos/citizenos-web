@@ -159,7 +159,7 @@ blocks:
       Oleme kodanikutehnoloogiat loov mittetulundusühing, mis asub maailma digitaalse tippriigi Eesti pealinnas Tallinnas.
     button1st:
       title: Vaata lisa
-      url: /about-us/
+      url: /et/meist/
   partners:
     class:
       - order-9
