@@ -45,8 +45,8 @@ footer:
       title: A propos
       links:
         aboutUs:
-          title: About us
-          url: /about-us/
+          title: À propos de nous
+          url: /fr/a-propos-de-nous/
         careers:
           title: Recrutement
           url: /fr/recrutement/
