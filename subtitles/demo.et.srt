@@ -92,7 +92,7 @@ saad luua gruppe.
 
 24
 00:01:47,340 --> 00:01:52,860
-Iga kord, kui luuakse uus teema, saavad rühma liikmed automaatse meilisõnumi.
+Iga kord, kui luuakse uus teema, saavad grupi liikmed automaatse meilisõnumi.
 
 25
 00:01:52,860 --> 00:02:00,360
