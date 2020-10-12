@@ -16,6 +16,7 @@ news:
         title: Join India’s Participatory Youth Leadership Network.
         author: Becca Melhuish
         image: /assets/images/news/join-indias-participatory-youth-leadership-network1.png
+        top: true
         categories:
             - Citizen OS news
             - Case studies
@@ -103,7 +104,6 @@ news:
         title: Challenges in the Field of Participatory e-Democracy.
         author: Becca Melhuish
         image: /assets/images/news/challenges-in-the-field-of-participatory-e-democracy.jpg
-        top: true
         categories:
             - Citizen OS news
             - E-democracy news
