@@ -16,7 +16,7 @@ news:
         title: Join India’s Participatory Youth Leadership Network.
         author: Becca Melhuish
         image: /assets/images/news/join-indias-participatory-youth-leadership-network1.png
-        top: true
+#        top: true
         categories:
             - Citizen OS news
             - Case studies
@@ -28,7 +28,7 @@ news:
         title: The dawn of participatory e-democracy in India?
         author: Sara Sinha
         image: /assets/images/news/the-dawn-of-participatory-e-democracy-in-india.jpg
-        top: true
+#        top: true
         categories:
             - E-democracy news
             - Case studies
@@ -40,7 +40,7 @@ news:
         title: The 34 Islands Project–for a Greener Indonesia.
         author: Becca Melhuish
         image: /assets/images/news/the-34-islands-project-for-a-greener-indonesia.jpg
-        top: true
+#        top: true
         categories:
             - Citizen OS news
             - Case studies
@@ -279,18 +279,18 @@ blocks:
         # [t](https://twitter.com/Citizen_OS){ .btn .btn-primary .my-2 .ml-3 }
 
 
-    top-stories:
-        class:
-            - order-6
-            - col-sm-12
-            - py-5
-            - text-center
-        style:
-            background-image: url(/assets/images/bubble-dots.png)
-            background-position: center 10%
-            background-size: 450px 450px
-        title: |
-            Our top stories
+#    top-stories:
+#        class:
+#            - order-6
+#            - col-sm-12
+#            - py-5
+#            - text-center
+#        style:
+#            background-image: url(/assets/images/bubble-dots.png)
+#            background-position: center 10%
+#            background-size: 450px 450px
+#        title: |
+#            Our top stories
 
 
     all-stories:
