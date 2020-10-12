@@ -8,6 +8,16 @@ keywords:
   -
 image: /assets/images/meta/vision.jpg
 news:
+  2020-10-13:
+    url: /news/join-indias-participatory-youth-leadership-network
+    title: Join India’s Participatory Youth Leadership Network.
+    author: Becca Melhuish
+    image: /assets/images/news/join-indias-participatory-youth-leadership-network.png
+    categories:
+      - Citizen OS news
+      - Case studies
+    text: |
+      We’re launching a new community of practice in India, the Participatory Youth Leadership Network, which will bring together youth leaders and youth organisations in India and beyond.
   2020-09-24:
     url: /news/the-dawn-of-participatory-e-democracy-in-india
     title: The dawn of participatory e-democracy in India?
