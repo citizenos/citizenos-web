@@ -1,11 +1,11 @@
 ---
 path: /pyln
 title: Participatory Youth Leadership Network
-#description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras fermentum ornare purus accumsan luctus. Nulla facilisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae.
-#keywords:
-#- lorem
-#- ipsum
-#- dolor
+description: Join the Participatory Youth Leadership Network, Indian chapter! Collaborate and innovate your organisation or team with the help of mentors.
+keywords:
+  - free course
+  - leadership
+  - network
 blocks:
   header:
     title: 'The Participatory Youth Leadership Network'
