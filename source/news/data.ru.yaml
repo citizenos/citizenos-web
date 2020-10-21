@@ -8,6 +8,16 @@ keywords:
   -
 image: /assets/images/meta/vision.jpg
 news:
+  2020-10-22:
+    url: /news/the-ultimate-winter-school-for-digital-change-makers
+    title: The Ultimate Winter School for Digital Change-makers.
+    author: Becca Melhuish
+    image: /assets/images/news/the-ultimate-winter-school-for-digital-change-makers.png
+    #top: true
+    categories:
+      - Citizen OS news
+    text: |
+      We’ve teamed up with Tallinn University to deliver an engaging and enriching Winter School course, focused specifically on digital innovation and civic engagement.
   2020-10-13:
     url: /news/join-indias-participatory-youth-leadership-network
     title: Join India’s Participatory Youth Leadership Network.
