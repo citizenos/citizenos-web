@@ -15,8 +15,6 @@ blocks:
 
       Youth organisations of India and beyond, we invite you to collaborate in the development of a new community of practice in India – the Participatory Youth Leadership Network (PYLN).
 
-      Please join our introductory webinar on Friday 16 October at 12pm-1pm GMT+3, to find out more.
-
       ## About the Network
 
       The Participatory Youth Leadership Network is a dedicated network for youth organisations all across India to collaborate and share best practice in the areas of participatory leadership and civic engagement.
@@ -49,8 +47,6 @@ blocks:
 
       Currently, both India and Estonia are making significant progress in the area of e-governance projects. However, our analysis has been that there is a gap in India and Estonia and across the world, when it comes to technology-driven citizen participation that is truly 'bottom-up'.
 
-      Currently, Citizen OS has an international ['Civic Hacktivist' community](https://citizenos.com/community/). However, this community focuses on the “Civic” and the “Tech” in more or less equal parts.
-
       The Participatory Youth Leadership Network will look at broader applications of design thinking and value-sensitive design to address gaps in participatory leadership.
 
       ## Platform Objectives
@@ -77,19 +73,19 @@ blocks:
 
       Making democratic collective decisions about the development of the network, building trust and communication among members.
 
-      **Join the introductory webinar**
+      **Join the next webinar**
 
-      [Save your seat](){data-toggle=modal data-target=#join-popup} for the introductory webinar now! [leave your contacts](mailto:anett@citizenos.com) and we will send you a link to the session!
+      [Save your seat](){data-toggle=modal data-target=#join-popup} for the next webinar now! [leave your contacts](mailto:anett@citizenos.com) and we will send you a link to the session!
   join:
-    title: Find out more!
-    date: Intro webinar - Oct 16th, 2020.
-    time: From 12pm - 1pm GMT+3
-    how: How to join?
+    title: Next webinar.
+    date: TBD
+    time: TBD
+    how: Join the email list!
     button:
-      title: Save my seat
+      title: Join the email list!
       url: '#join'
   form:
-    title: We'll send you the Zoom link to the introductory webinar. See you on Friday, October 16th at 12pm GMT+3!
+    title: Join the email list and get details and link to the next webinar.
     email: Email Address
     subscribe: Save my seat
   footer:
