@@ -101,9 +101,24 @@ team:
     twitter: https://twitter.com/Sarasinha1992
     email: sara@citizenos.com
   - 
-    name: Оксана Найденова (в отпуске по уходу за ребенком)
-    title: Локализация и перевод
-    text: Сражается за правое дело и всегда вдохновляет нас быть лучше.
+    name: Tasia Rosalina Tedjo Purnomo
+    title: Social media for Citizen OS Indonesia
+    text: Support system fuelled with curiosity and values.
+    avatar: /assets/images/team/tasia-avatar.jpg
+    picture: /assets/images/team/tasia.jpg
+    linkedin: https://www.linkedin.com/in/tasia-rosalina
+    email: tasia@citizenos.com
+  - 
+    name: Leony Chrisanti
+    title: Designer for Citizen OS Indonesia
+    text: Professional and responsible.
+    avatar: /assets/images/team/leony-avatar.jpg
+    picture: /assets/images/team/leony.jpg
+    email: leonychrisanti1789@gmail.com
+  - 
+    name: Oksana Naidjonova (on Parental Leave)
+    title: Localisation & Translation
+    text: Fights for justice and leads us to become better every day.
     avatar: /assets/images/team/oksana-avatar.jpg
     picture: /assets/images/team/oksana.jpg
     linkedin: https://www.linkedin.com/in/oksananaidjonova/
@@ -120,10 +135,10 @@ other:
     **Основатели**
     Ахти Хейнла и Фонд Teeme Ära
   design: |
-    **UX/UI дизайнеры**
+    **UX/UI Designers**
 
-    Кевин Крепин, Кристиан Лембер, Яннус Яска
+    Kevin Crepin, Kristian Lember, Jannus Jaska.
   minds: |
-    **Помощники**
+    **Contributors**
 
-    Хенри Лаупмаа, Лийя Хянни, Хилле Хинсберг, Ева Трууверк, Кади Мария Вооглайд, Леннарт Рикк, Арго Роотс
+    Henri Laupmaa, Liia Hänni, Hille Hinsberg, Eva Truuverk, Kadi Maria Vooglaid, Lennart Rikk. Web built by Argo Roots using Entu SSG.
