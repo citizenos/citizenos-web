@@ -116,9 +116,9 @@ team:
     picture: /assets/images/team/leony.jpg
     email: leonychrisanti1789@gmail.com
   - 
-    name: Oksana Naidjonova (away on Parental Leave)
-    title: Localisation & Translation
-    text: Fights for justice and leads us to become better every day.
+    name: Oksana Naidjonova (vanhempainvapaalla)
+    title: Lokalisointi ja kääntäminen
+    text: Taistelee oikeuden puolesta ja tekee meistä parempia joka päivä.
     avatar: /assets/images/team/oksana-avatar.jpg
     picture: /assets/images/team/oksana.jpg
     linkedin: https://www.linkedin.com/in/oksananaidjonova/
@@ -136,7 +136,7 @@ other:
 
     Ahti Heinla & Teeme Ära Sihtasutus (Let's Do It Foundation)
   design: |
-    **UX/UI Designers**
+    **UX/UI-suunnittelijat**
 
     Kevin Crepin, Kristian Lember, Jannus Jaska.
   minds: |
