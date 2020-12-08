@@ -20,11 +20,11 @@ blocks:
 
       Additionally, the workshop also provides strategies for mediation and compromise.
 
-      ## An Invitation to Collaborate
+      ## An Invitation to Collaborate{ .pt-5 }
 
       Youth organisations of India and beyond, we invite you to collaborate in the development of a new community of practice in India – the Participatory Youth Leadership Network (PYLN).
 
-      ## About the Network
+      ## About the Network{ .pt-5 }
 
       The Participatory Youth Leadership Network is a dedicated network for youth organisations all across India to collaborate and share best practice in the areas of participatory leadership and civic engagement.
 
@@ -36,29 +36,27 @@ blocks:
 
       Internal collaboration involves organisations forming their own steering groups and deciding their own agendas using the civic tools provided by Citizen OS Foundation. However, the use of the Citizen OS platform is strictly voluntary, members are free to use any platform that they mutually agree upon.
 
-      ## Network Members
+      ## Network Members{ .pt-5 }
 
-      Membership is open to all organisations that work towards youth empowerment and/or youth engagement in India, as well as youth leaders (individuals). There is no age-restriction for community members.
+      Membership is open to all organisations that work towards youth empowerment and/or youth engagement in India, as well as youth leaders (individuals). There is no age restriction for community members.
 
-      Anyone from the member organisations (including volunteers and interns) are welcome to collaborate with us.
-      Certificates of participation will also available upon request.
+      Anyone from the member organisations (including volunteers and interns) are welcome to collaborate with us. Certificates of participation will also available upon request.
 
-      ## Program Contributors
+      ## Program Contributors{ .pt-5 }
 
       International contributors who would like to use this opportunity to reflect upon or share best practices are welcome to participate.
 
-
-      ## The Future
+      ## The Future{ .pt-5 }
 
       We are looking at developing a more global network in the future.
 
-      ## The Background
+      ## The Background{ .pt-5 }
 
       Currently, both India and Estonia are making significant progress in the area of e-governance projects. However, our analysis has been that there is a gap in India and Estonia and across the world, when it comes to technology-driven citizen participation that is truly 'bottom-up'.
 
       The Participatory Youth Leadership Network will look at broader applications of design thinking and value-sensitive design to address gaps in participatory leadership.
 
-      ## Platform Objectives
+      ## Platform Objectives{ .pt-5 }
 
       The overall objective of the Participatory Youth Leadership Network is to enable structured collaboration between member organisations on the topics of participation, inclusive leadership and civic engagement.
 
@@ -68,7 +66,7 @@ blocks:
       - Leadership and argumentation training
       - Project presentations and feedback sessions
 
-      ## Platform Values
+      ## Platform Values{ .pt-5 }
 
       **Equal opportunities for participation**
 
@@ -82,16 +80,16 @@ blocks:
 
       Making democratic collective decisions about the development of the network, building trust and communication among members.
 
-      **Join the next webinar**
+      ## Join the next webinar{ .pt-5 }
 
-      [Save your seat](){data-toggle=modal data-target=#join-popup} for the next webinar now! [leave your contacts](mailto:anett@citizenos.com) and we will send you a link to the session!
+      [Save your seat](){data-toggle=modal data-target=#join-popup} for the next webinar now! [Leave your contact details](mailto:anett@citizenos.com) and we will send you a link to the session.
   join:
     title: Threat Mapping Workshop.
     date: 15.12.2020
-    time: 17:30 (Delhi time, UTC+5:30 hours)
-    how: Register for the webinar!
+    time: 17:30 (Delhi time)
+    how: Join the webinar!
     button:
-      title: Join the email list.
+      title: Register.
       url: '#join'
   form:
     title: Join the email list and get details and link to the next webinar.
