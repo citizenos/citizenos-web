@@ -16,6 +16,13 @@ blocks:
 
     text:
         text: |
+
+            ## The next webinar is Threat Mapping Workshop. ##
+
+            This workshop aims at deepening the political discourse by allowing organisations to evaluate who their main opponents are and by what means their opponents can challenge them or threaten their initiative.
+
+            Additionally, the workshop also provides strategies for mediation and compromise.
+
             ## An Invitation to Collaborate
 
             Youth organisations of India and beyond, we invite you to collaborate in the development of a new community of practice in India – the Participatory Youth Leadership Network (PYLN).
@@ -83,12 +90,12 @@ blocks:
             [Save your seat](){data-toggle=modal data-target=#join-popup} for the next webinar now! [leave your contacts](mailto:anett@citizenos.com) and we will send you a link to the session!
 
     join:
-        title: Next webinar.
-        date: TBD
-        time: TBD
-        how: Join the email list!
+        title: Threat Mapping Workshop.
+        date: 15.12.2020
+        time: 17:30 (Delhi time, UTC+5:30 hours)
+        how: Register for the webinar!
         button:
-            title: Join the email list!
+            title: Join the email list.
             url: '#join'
 
     form:
