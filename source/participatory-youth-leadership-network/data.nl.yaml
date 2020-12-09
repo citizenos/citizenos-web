@@ -14,7 +14,7 @@ blocks:
   text:
     text: |
 
-      ## The next webinar is Threat Mapping Workshop. ##
+      ## Join the Threat Mapping Workshop, our next webinar. ##
 
       This workshop aims at deepening the political discourse by allowing organisations to evaluate who their main opponents are and by what means their opponents can challenge them or threaten their initiative.
 
@@ -86,7 +86,7 @@ blocks:
   join:
     title: Threat Mapping Workshop.
     date: 15.12.2020
-    time: 17:30 (Delhi time)
+    time: 17:30 (Indian Time)
     how: Join the webinar!
     button:
       title: Register.
