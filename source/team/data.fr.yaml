@@ -93,8 +93,8 @@ team:
     email: helen@citizenos.com
   - 
     name: Sara Sinha
-    title: Partnership Lead in India
-    text: Open governance enthusiast.
+    title: Responsable du partenariat en Inde
+    text: Adepte de la gouvernance ouverte.
     avatar: /assets/images/team/sara-avatar.png
     picture: /assets/images/team/sara.png
     linkedin: https://www.linkedin.com/in/sara-sinha-361577146/
@@ -102,16 +102,16 @@ team:
     email: sara@citizenos.com
   - 
     name: Tasia Rosalina Tedjo Purnomo
-    title: Social Media Manager for Citizen OS Indonesia
-    text: Support system fuelled with curiosity and values.
+    title: Responsable des réseaux sociaux pour Citizen OS Indonésie
+    text: Système d'assistance alimenté par la curiosité et les valeurs.
     avatar: /assets/images/team/tasia-avatar.jpg
     picture: /assets/images/team/tasia.jpg
     linkedin: https://www.linkedin.com/in/tasia-rosalina
     email: tasia@citizenos.com
   - 
     name: Leony Chrisanti
-    title: Designer for Citizen OS Indonesia
-    text: Professional and responsible.
+    title: Concepteur pour Citizen OS Indonésie
+    text: Professionnelle et responsable.
     avatar: /assets/images/team/leony-avatar.jpg
     picture: /assets/images/team/leony.jpg
     email: leonychrisanti1789@gmail.com
@@ -139,6 +139,6 @@ other:
 
     Kevin Crepin, Kristian Lember, Jannus Jaska.
   minds: |
-    **Contributors**
+    **Contributeurs**
 
-    Henri Laupmaa, Liia Hänni, Hille Hinsberg, Eva Truuverk, Kadi Maria Vooglaid, Lennart Rikk. Web built by Argo Roots using Entu SSG.
+    Henri Laupmaa, Liia Hänni, Hille Hinsberg, Eva Truuverk, Kadi Maria Vooglaid, Lennart Rikk. Web construit par Argo Roots avec Entu SSG.
