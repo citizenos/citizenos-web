@@ -76,9 +76,9 @@ const getStatsERE = async () => {
 const getStatsRAA = async () => {
     return new Promise((resolve, reject) => {
         resolve({
-            topicsCreated: 0,
+            topicsCreated: 1012,
             votesCast: 91000,
-            groupsCreated: 0,
+            groupsCreated: 107,
             usersCreated: 50000
         })
     })
