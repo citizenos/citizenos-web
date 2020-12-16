@@ -91,7 +91,13 @@ exports.handler = async (event) => {
     const raaPromise = getStatsRAA()
 
     const api = await apiPromise
-    const ere = await erePromise
+    // const ere = await erePromise
+    const ere = {
+        topicsCreated: 0,
+        votesCast: 0,
+        groupsCreated: 0,
+        usersCreated: 0
+    }
     const raa = await raaPromise
 
     const result = {
