@@ -13,7 +13,6 @@ news:
     title: The Ultimate Winter School for Digital Change-makers.
     author: Becca Melhuish
     image: /assets/images/news/the-ultimate-winter-school-for-digital-change-makers.png
-    #top: true
     categories:
       - Citizen OS news
     text: |
@@ -23,7 +22,6 @@ news:
     title: Join India’s Participatory Youth Leadership Network.
     author: Becca Melhuish
     image: /assets/images/news/join-indias-participatory-youth-leadership-network1.png
-    #top: true
     categories:
       - Citizen OS news
       - Case studies
@@ -34,7 +32,6 @@ news:
     title: The dawn of participatory e-democracy in India?
     author: Sara Sinha
     image: /assets/images/news/the-dawn-of-participatory-e-democracy-in-india.jpg
-    #top: true
     categories:
       - E-democracy news
       - Case studies
@@ -45,7 +42,6 @@ news:
     title: The 34 Islands Project–for a Greener Indonesia.
     author: Becca Melhuish
     image: /assets/images/news/the-34-islands-project-for-a-greener-indonesia.jpg
-    #top: true
     categories:
       - Citizen OS news
       - Case studies
