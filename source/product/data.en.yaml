@@ -1,6 +1,6 @@
-path: /platform
+path: /product
 
-title: Platform
+title: Product
 description: Free digital democracy software for co-creation, discussion and voting. Start your own citizen initiative, petition site or discussion topic today!
 keywords:
     - citizen initiatives
@@ -140,7 +140,7 @@ blocks:
 #                    Currently in 13 languages.
 #                subtext: Free
 #                button:
-#                    title: Use platform
+#                    title: Use product
 #                    url: https://app.citizenos.com
 #                    target: _blank
 #            consult:
@@ -193,7 +193,7 @@ blocks:
             For a Greener Indonesia.
 
         text: |
-            With their [34 Islands Project](https://citizenos.com/news/turning-citizen-ideas-into-action-on-waste-bintan-indonesia/), civic movement Let’s Do It Indonesia is working to build a greener future.
+            With their [34 Islands Project](/news/turning-citizen-ideas-into-action-on-waste-bintan-indonesia/), civic movement Let’s Do It Indonesia is working to build a greener future.
 
             Using the Citizen OS platform, local people can submit sustainable waste management ideas and vote for their favourites.
 
