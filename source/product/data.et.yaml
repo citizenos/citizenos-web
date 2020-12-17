@@ -64,15 +64,15 @@ blocks:
         poster: /assets/images/flexibleformat-petitions.png
         title: Hääletamine
         text: |
-          Tee meie kohandatava hääletusalgoritmi abil demokraatlikke otsuseid. Sobib ideaalselt e-demokraatia algatuste jaoks.
+          Tee kohandatava hääletuse abil demokraatlikke otsuseid. Sobib e-demokraatia algatuste läbiviimiseks.
       onlinemeetings:
         poster: /assets/images/flexibleformat-onlinemeetings.png
         title: Arutelud
         text: |
-          Naudi ratsionaalseid ja tasakaalustatud, poolt- ja vastuargumente kaaluvaid grupiarutelusid.
+          Korralda ratsionaalseid ja tasakaalustatud grupiarutelusid, mis võimaldavad kaaluda poolt- ja vastuargumente.
       gatheringideas:
         poster: /assets/images/flexibleformat-gatheringideas.png
-        title: Rahvaalgatuslike ideede kogumine
+        title: Crowdsourcing Ideas
         text: |
           Saa tagasisidet laiemalt ringilt. Ideaalne kodanikualgatusprojektide jaoks.
       widget:
