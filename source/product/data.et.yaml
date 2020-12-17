@@ -1,6 +1,6 @@
 ---
-path: /product
-title: Product
+path: /toode
+title: Toode
 description: Argumenteeritud arutelud, algatused ja ühiste otsuste tegemine. Tasuta tarkvara, mis teeb ideede genereerimise, digiallkirjastamise ja hääletamise hõlpsaks.
 keywords:
   - kollektiivne pöördumine
@@ -41,7 +41,7 @@ blocks:
       - [Statistika](#stats)
       { .arrow }
     button1st:
-      title: Esita demo
+      title: Vaata demo
       url: 'https://www.youtube.com/embed/UC44qCCIixE?rel=0&showinfo=0&modestbranding=1&autoplay=1&cc_load_policy=1&cc_lang_pref=et'
   #title: Sign up for news
   #url: '#subscribe'
