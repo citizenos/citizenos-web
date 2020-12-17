@@ -33,12 +33,12 @@ blocks:
     title: |
       Ühised otsused ja kodanikuaktiivsus.
     text: |
-      Use the free online platform for discussions, voting and crowdsourcing ideas. With optional e-ID function.
+      Kasuta tasuta veebiplatvormi aruteludeks, hääletamiseks ja rahvaalgatuslike ideede kogumiseks. Valikulise e-ID funktsiooniga.
 
-      - [What is Citizen OS for?](#flexibleformat)
-      - [Features](#features)
-      - [Case studies](#case-study-2)
-      - [Statistics](#stats)
+      - [Milleks Citizen OS-i kasutatakse?](#flexibleformat)
+      - [Funktsioonid](#features)
+      - [Juhtumiuuringud](#case-study-2)
+      - [Statistika](#stats)
       { .arrow }
     button1st:
       title: Vaata demo
@@ -54,9 +54,9 @@ blocks:
       background: '#F7F7F7'
       background-image: url(/assets/images/pattern.svg)
       background-size: 38px 42px
-    label: Paindlik vorming
+    label: Paindlik toode
     title: |
-      Mis on Citizen OS-i eesmärk?
+      Milleks Citizen OS-i kasutatakse?
     text: |
       { #flexibleformat-items }
     blocks:
@@ -143,14 +143,12 @@ blocks:
   #url: https://github.com/citizenos/citizenos-web
   case-study-2-img:
     class:
-      - order-8
-      - order-sm-9
+      - order-6
     text: |
       ![A screenshot of the Citizen OS platform being used for participatory democracy.](/assets/images/product-case-study-2.jpg){ .img-fluid .box-shadow }
   case-study-2:
     class:
-      - order-8
-      - order-sm-9
+      - order-7
     style:
       background-image: url(/assets/images/bubble-blue.svg)
       background-position: 80% 5%
