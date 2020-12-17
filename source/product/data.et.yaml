@@ -191,7 +191,7 @@ blocks:
     title: |
       Meie mõju kasvab jätkuvalt.
     button1st:
-      title: Liitu, et saada värskeid uudiseid
+      title: Liitu uudiskirjaga
       url: '#subscribe'
     blocks:
       topicsCreated:
