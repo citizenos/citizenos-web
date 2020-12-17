@@ -97,6 +97,9 @@ blocks:
     form:
         title: Join the email list and get details and link to the next webinar.
         email: Email Address
+        firstName: First Name
+        lastName: Last Name
+        phoneNumber: Phone Number
         subscribe: Save my seat
 
     footer:

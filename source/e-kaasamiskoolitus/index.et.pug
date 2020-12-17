@@ -40,7 +40,7 @@ block body
         .modal-dialog.modal-dialog-centered.modal-lg(role='document')
             if self.blocks && self.blocks.form
                 #mc_embed_signup
-                    form#mc-embedded-subscribe-form.validate(action='https://citizenos.us19.list-manage.com/subscribe/post?u=ab576406496d96d9a8387879f&id=0804e75bba', method='post', name='mc-embedded-subscribe-form', target='_blank', novalidate='')
+                    form#mc-embedded-subscribe-form.validate(action='https://citizenos.us19.list-manage.com/subscribe/post?u=ab576406496d96d9a8387879f&id=63449b8f38', method='post', name='mc-embedded-subscribe-form', target='_blank', novalidate='')
                         .modal-content
                             #mc_embed_signup_scroll
                                 .modal-header
@@ -51,6 +51,20 @@ block body
                                             = self.blocks.form.email
                                             span.asterisk *
                                         input#mce-EMAIL.required.email.w-100(type='email', value='', name='EMAIL')
+                                    .mc-field-group.w-100.mr-0
+                                        label(for='mce-FNAME')
+                                            = self.blocks.form.firstName
+                                            span.asterisk *
+                                        input#mce-FNAME.required.w-100(type='text', value='', name='FNAME')
+                                    .mc-field-group.w-100.mr-0
+                                        label(for='mce-LNAME')
+                                            = self.blocks.form.lastName
+                                            span.asterisk *
+                                        input#mce-LNAME.required.w-100(type='text', value='', name='LNAME')
+                                    .mc-field-group.w-100.mr-0
+                                        label(for='mce-PHONE')
+                                            = self.blocks.form.phoneNumber
+                                        input#mce-PHONE.w-100(type='tel', value='', name='PHONE')
                                     #mce-responses.clear
                                         #mce-error-response.response(style='display:none')
                                         #mce-success-response.response(style='display:none')
