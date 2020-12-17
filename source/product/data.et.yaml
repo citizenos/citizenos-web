@@ -143,12 +143,14 @@ blocks:
   #url: https://github.com/citizenos/citizenos-web
   case-study-2-img:
     class:
-      - order-6
+      - order-8
+      - order-sm-9
     text: |
       ![A screenshot of the Citizen OS platform being used for participatory democracy.](/assets/images/product-case-study-2.jpg){ .img-fluid .box-shadow }
   case-study-2:
     class:
-      - order-7
+      - order-8
+      - order-sm-9
     style:
       background-image: url(/assets/images/bubble-blue.svg)
       background-position: 80% 5%
