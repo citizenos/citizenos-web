@@ -254,36 +254,10 @@ blocks:
       url: '#subscribe'
   #[f](https://www.facebook.com/citizenos.web){ .btn .btn-primary .my-2 .ml-3 }
   #[t](https://twitter.com/Citizen_OS){ .btn .btn-primary .my-2 .ml-3 }
-  #top-stories:
-  #class:
-  #- order-6
-  #- col-sm-12
-  #- py-5
-  #- text-center
-  #style:
-  #background-image: url(/assets/images/bubble-dots.png)
-  #background-position: center 10%
-  #background-size: 450px 450px
-  #title: |
-  #Our top stories
   all-stories:
     class:
       - order-6
       - col-sm-12
       - py-5
-    style:
-      background-color: '#F7F7F7'
     title: |
       All stories
-  organizations:
-    class:
-      - order-9
-      - my-5
-      - col-12
-    style:
-      border-left: '1px solid #E5E5E5'
-    #label: We’re stronger together
-    title: |
-      Like-minded organizations
-    text: |
-      ![Partners](/assets/images/frontpage-partners.png){ .mt-4 .w-100 }
