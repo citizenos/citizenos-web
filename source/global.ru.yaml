@@ -1,10 +1,10 @@
 ---
 siteTitle: Citizen OS
 navigation:
-  platform:
-    title: Платформа
-    url: /ru/platforma/
-    class: платформа
+  product:
+    title: Product
+    url: /product/
+    class: product
   vision:
     title: Концепция
     url: /ru/koncepciya/
@@ -29,9 +29,9 @@ languages:
   ru: Pусский
   ua: Українська
 selectLanguage: Языки
-platformLink:
-  title: Открыть платформу
-  url: https://app.citizenos.com/ru/
+productLink:
+  title: Use product
+  url: https://app.citizenos.com
 mobileMenu: МЕНЮ
 newsletter:
   title: Подпишитесь на рассылку Citizen OS
