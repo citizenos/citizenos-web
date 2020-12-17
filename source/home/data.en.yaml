@@ -144,28 +144,30 @@ blocks:
             url: /news/
 
 
-    # meet:
-    #     class:
-    #         - order-7
-    #         - col-sm-10
-    #         - my-5
-    #     style:
-    #         background-image: url(/assets/images/bubble-dots.png)
-    #         background-position: 80% 10%
-    #         background-size: 350px 350px
-    #     label: A word from the team
-    #     title: |
-    #         Where you can meet us
-    #     blocks:
-    #         tictec:
-    #             title: |
-    #                 TICTeC 2020
-    #             text: |
-    #                 Returning for a sixth year, TICTeC 2020 will focus on the impact that civic technology and digital democracy are having upon citizens, decision makers and governments around the world.
+    meet:
+        class:
+            - order-7
+            - col-sm-10
+            - my-5
+        style:
+            background-image: url(/assets/images/bubble-dots.png)
+            background-position: 80% 10%
+            background-size: 350px 350px
+        label: A word from the team
+        title: |
+            Where you can virtually meet us
+        blocks:
+            tictec:
+                title: |
+                    Tallinn Winter School 2021
+                text: |
+                    We are offering a short course in collaboration with Tallinn University: Digital Innovation for Civic Engagement Projects (Online edition)
 
-    #                 Will you be there? Drop us a line at <info@citizenos.com> and let's meet!
-    #             image: /assets/images/meet/tictec.png
-    #             style:
-    #                 background: '#000000'
-    #             date: 24-25.03.2020
-    #             location: Reykjavik
+                    Learn how to start a digital transformation in your communities and civic initiatives - involving more people in the discussions and decision-making process using technology.
+
+                    Read more about the course and register [here.](https://winterschool.tlu.ee/digital-innovation-for-civic-engagement-projects/)
+                image: /assets/images/meet/the-ultimate-winter-school-for-digital-change-makers.png
+                style:
+                    background: '#000000'
+                date: 11-20.01.2021
+                location: Virtual visits to different locations in Tallinn!
