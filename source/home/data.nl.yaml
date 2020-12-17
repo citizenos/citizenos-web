@@ -20,7 +20,7 @@ header:
     url: https://www.youtube.com/embed/UC44qCCIixE?rel=0&showinfo=0&modestbranding=1&autoplay=1&cc_load_policy=1&cc_lang_pref=en
 #whatIs:
 #title: What is Citizen OS
-#url: /platform/
+#url: /product/
 #startUsing:
 #title: Start using - it’s free!
 #url: https://app.citizenos.com
@@ -50,7 +50,7 @@ blocks:
       Crowdsource ideas, discuss pros and cons and vote on decisions.
     button1st:
       title: Learn more
-      url: /platform/
+      url: /product/
   democracy-img:
     class:
       - order-3
@@ -79,7 +79,7 @@ blocks:
       title: Our vision
       url: /vision/
     button2nd:
-  #title: Use platform - it’s free!
+  #title: Use product - it’s free!
   #url: https://app.citizenos.com
   #target: _blank
   research-img:
