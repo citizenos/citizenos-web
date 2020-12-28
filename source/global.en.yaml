@@ -31,7 +31,7 @@ languages:
     ua: Українська
 selectLanguage: Languages
 productLink:
-        title: Use product
+        title: Use platform
         url: https://app.citizenos.com
 
 mobileMenu: MENU
