@@ -1,6 +1,6 @@
 ---
-path: /about-us
-title: About us
+path: /tietoja-meista
+title: Tietoja meistä
 description: Citizen OS on ilmainen ja turvallinen avoimen lähdekoodin alusta kansalaisaloitteille. Olemme voittoa tavoittelematon järjestö.
 keywords:
   - avoin lähdekoodi
@@ -27,7 +27,7 @@ blocks:
 
         Citizen OS -alusta lanseerattiin syyskuussa 2015. Sen jälkeen olemme luoneet luottamuksellisia suhteita monien julkisten ja yksityisten käyttäjäryhmien kanssa ympäri maailmaa.
       - |
-        Suhtaudumem alustamme turvallisuuteen hyvin vakavasti. Lue lisää [täältä](https://citizenos.com/news/the-key-to-online-democracy-is-trust/).
+        We take the security of our platform very seriously; read more about this [here](/news/the-key-to-online-democracy-is-trust/).
       - |
 
       - |

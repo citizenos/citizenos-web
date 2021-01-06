@@ -92,14 +92,29 @@ team:
     linkedin: https://www.linkedin.com/in/helen-k-57440a71/
     email: helen@citizenos.com
   - 
-    name: Sara Sinha
-    title: Partnership Lead in India
-    text: Open governance enthusiast.
+    name: Сара Синья
+    title: Partnership and Community Lead in India
+    text: Приверженка идеи открытого управления.
     avatar: /assets/images/team/sara-avatar.png
     picture: /assets/images/team/sara.png
     linkedin: https://www.linkedin.com/in/sara-sinha-361577146/
     twitter: https://twitter.com/Sarasinha1992
     email: sara@citizenos.com
+  - 
+    name: Тасия Розалина Теджо Пурномо
+    title: SMM-менеджер Citizen OS в Индонезии
+    text: Всеобщая помощница, всегда открытая новым идеям.
+    avatar: /assets/images/team/tasia-avatar.jpg
+    picture: /assets/images/team/tasia.jpg
+    linkedin: https://www.linkedin.com/in/tasia-rosalina
+    email: tasia@citizenos.com
+  - 
+    name: Леони Крисанти
+    title: Дизайнер Citizen OS в Индонезии
+    text: Профессиональна и ответственна.
+    avatar: /assets/images/team/leony-avatar.jpg
+    picture: /assets/images/team/leony.jpg
+    email: leonychrisanti1789@gmail.com
   - 
     name: Оксана Найденова (в отпуске по уходу за ребенком)
     title: Локализация и перевод
@@ -122,8 +137,8 @@ other:
   design: |
     **UX/UI дизайнеры**
 
-    Кевин Крепин, Кристиан Лембер, Яннус Яска
+    Кевин Крепин, Кристиан Лембер, Яннус Яска.
   minds: |
     **Помощники**
 
-    Хенри Лаупмаа, Лийя Хянни, Хилле Хинсберг, Ева Трууверк, Кади Мария Вооглайд, Леннарт Рикк, Арго Роотс
+    Хенри Лаупмаа, Лийя Хянни, Хилле Хинсберг, Ева Трууверк, Кади Мария Вооглайд, Леннарт Рикк. Создание веб-сайта на основе Entu SSG: Арго Роотс.

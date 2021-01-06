@@ -1,10 +1,10 @@
 ---
 siteTitle: Citizen OS
 navigation:
-  platform:
-    title: Platvorm
-    url: /et/platvorm/
-    class: platvorm
+  product:
+    title: Product
+    url: /product/
+    class: product
   vision:
     title: Visioon
     url: /et/visioon/
@@ -29,9 +29,9 @@ languages:
   ru: Pусский
   ua: Українська
 selectLanguage: Keeled
-platformLink:
-  title: Ava platvorm
-  url: https://app.citizenos.com/et/
+productLink:
+  title: Use platform
+  url: https://app.citizenos.com
 mobileMenu: MENÜÜ
 newsletter:
   title: Liitu Citizen OSi uudiskirjaga
