@@ -47,14 +47,3 @@ nav.navbar.fixed-top.bg-white.py-0.navbar-expand-lg
                 li.nav-item.ml-md-3.mr-md-1.text-center
                     a.btn.btn-primary.mt-3.mb-4.my-md-3(href=self.platformLink.url, target='_blank')
                         strong= self.platformLink.title
-
-script.
-    $(function () {
-        $(document).on('click touchend', function () {
-            $('.collapse').collapse('hide')
-        })
-
-        $('.select-language').click(function () {
-            window.localStorage.setItem('language', $(this).data('language'))
-        })
-    })

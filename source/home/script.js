@@ -16,6 +16,8 @@ $(function () {
     $('#partners .block-text').removeClass('col-sm-10')
     $('#partners .block-text').addClass('col-sm-8')
 
+    var locale = $('html').attr('lang')
+
     // $(window).scroll(function () {
     //     $('.scroll-out').each(function () {
     //         var top = $(this).offset().top  - $(window).scrollTop() - $('nav').outerHeight(true)
@@ -34,4 +36,56 @@ $(function () {
     // })
     //
     // $(window).trigger('scroll')
+
+    //- var getBrowserLocale = function () {
+    //-     var language
+    //-     if (navigator.languages && navigator.languages.length) {
+    //-         language = navigator.languages[0]
+    //-     } else {
+    //-         language = navigator.userLanguage || navigator.language || navigator.browserLanguage || 'en'
+    //-     }
+    //-
+    //-     language = language.substring(0, 2)
+    //-
+    //-     if (['en', 'et', 'ru', 'fi', 'fr'].indexOf(language) === -1) {
+    //-         language = 'en'
+    //-     }
+    //-
+    //-     return language
+    //- }
+    //-
+    //- var getOtherLocalePath = function (locale) {
+    //-     var otherLocalePaths = JSON.parse('!{ JSON.stringify(self.otherLocalePaths) }')
+    //-     return otherLocalePaths[locale]
+    //- }
+    //-
+    //- var savedLocale = window.localStorage.getItem('language')
+    //- var browserLocale = getBrowserLocale()
+    //-
+    //- if (locale !== 'aa') {
+    //-     if (!savedLocale) {
+    //-         window.localStorage.setItem('language',  browserLocale)
+    //-
+    //-         if (browserLocale !== locale) {
+    //-             window.location.replace(getOtherLocalePath(browserLocale) + '/')
+    //-         }
+    //-     } else if (savedLocale !== locale) {
+    //-         window.location.replace(getOtherLocalePath(savedLocale) + '/')
+    //-     }
+    //- }
+
+    if (locale !== 'en') {
+        $('#news').remove()
+    }
+
+    $('#news').removeClass('col-sm-6')
+    $('#news .block-text').removeClass('col-sm-8')
+    $('#news .block-text').removeClass('offset-sm-2')
+    $('#news .block-text').addClass('col-sm-10')
+    $('#news .block-text').addClass('offset-sm-1')
+    if (locale === 'en') {
+        $('#news .block-text h2').after($('#news-blocks').html())
+        $('#news-blocks').remove()
+    }
+
 })

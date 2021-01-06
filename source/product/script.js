@@ -53,6 +53,8 @@ $(function () {
     //- $('#how-carousel').trigger('slid.bs.carousel')
 
     var statsSet = false
+    var locale = $('html').attr('lang')
+
     $(window).on('resize scroll', function () {
         var elementTop = $('#stats').offset().top
         var elementBottom = elementTop + $('#stats').outerHeight()
@@ -65,7 +67,6 @@ $(function () {
                 $('.stats-value').each(function () {
                     var id = $(this).data('id')
                     var value = data[id]
-                    var locale = $('html').attr('lang')
 
                     $(this).prop('Counter',0).animate({
                         Counter: value
