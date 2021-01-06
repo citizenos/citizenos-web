@@ -51,4 +51,33 @@ $(function () {
     //-     $('#carousel-text').html($('#carousel-text-' + id).html())
     //- })
     //- $('#how-carousel').trigger('slid.bs.carousel')
+
+    var statsSet = false
+    $(window).on('resize scroll', function () {
+        var elementTop = $('#stats').offset().top
+        var elementBottom = elementTop + $('#stats').outerHeight()
+        var viewportTop = $(window).scrollTop()
+        var viewportBottom = viewportTop + $(window).height()
+
+        if (!statsSet && elementBottom > viewportTop && elementTop < viewportBottom) {
+            statsSet = true
+            $.getJSON('/.netlify/functions/stats', function (data) {
+                $('.stats-value').each(function () {
+                    var id = $(this).data('id')
+                    var value = data[id]
+                    var locale = $('html').attr('lang')
+
+                    $(this).prop('Counter',0).animate({
+                        Counter: value
+                    }, {
+                        duration: 3000,
+                        easing: 'swing',
+                        step: function (now) {
+                            $(this).text(Math.ceil(now).toLocaleString(locale))
+                        }
+                    })
+                })
+            })
+        }
+    })
 })

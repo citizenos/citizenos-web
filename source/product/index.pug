@@ -47,36 +47,3 @@ append content
                         h4
                             = b.title
                             span.stats-value.d-block.mb-2(data-id=id)
-
-
-append script
-    script.
-        $(function () {
-            var statsSet = false
-            $(window).on('resize scroll', function () {
-                var elementTop = $('#stats').offset().top
-                var elementBottom = elementTop + $('#stats').outerHeight()
-                var viewportTop = $(window).scrollTop()
-                var viewportBottom = viewportTop + $(window).height()
-
-                if (!statsSet && elementBottom > viewportTop && elementTop < viewportBottom) {
-                    statsSet = true
-                    $.getJSON('/.netlify/functions/stats', function (data) {
-                        $('.stats-value').each(function () {
-                            var id = $(this).data('id')
-                            var value = data[id]
-
-                            $(this).prop('Counter',0).animate({
-                                Counter: value
-                            }, {
-                                duration: 3000,
-                                easing: 'swing',
-                                step: function (now) {
-                                    $(this).text(Math.ceil(now).toLocaleString('#{ self.locale }'))
-                                }
-                            })
-                        })
-                    })
-                }
-            })
-        })
