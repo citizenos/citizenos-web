@@ -2,22 +2,6 @@ extends /_templates/blocks.pug
 
 
 append content
-    #top-stories-blocks.d-none
-        .row.mt-5
-            each b, idx in self.news
-                if b.top
-                    - var date = new Date(idx)
-                    - var dateStr = `${date.toLocaleDateString('en', { day: 'numeric' })} ${date.toLocaleDateString('en', { month: 'long' })} ${date.toLocaleDateString('en', { year: 'numeric' })}`
-
-                    .col-12.col-sm-4.mb-5
-                        .news-block.text-left.col-12.h-100.bg-white.box-shadow.p-0
-                            a(href=b.url)
-                                .news-block-img.w-100(style=`background-image:url(${b.image})`)
-                                .py-3.px-3.h-50
-                                    h4.mt-0.mb-2= b.title
-                                    p.text-muted= dateStr + ' - ' + b.author
-                                    +markdown(b.text)
-
     #all-stories-blocks.d-none
         if self.news
             .row

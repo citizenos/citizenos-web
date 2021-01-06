@@ -76,9 +76,9 @@ const getStatsERE = async () => {
 const getStatsRAA = async () => {
     return new Promise((resolve, reject) => {
         resolve({
-            topicsCreated: 0,
+            topicsCreated: 1012,
             votesCast: 91000,
-            groupsCreated: 0,
+            groupsCreated: 107,
             usersCreated: 50000
         })
     })
@@ -91,7 +91,13 @@ exports.handler = async (event) => {
     const raaPromise = getStatsRAA()
 
     const api = await apiPromise
-    const ere = await erePromise
+    // const ere = await erePromise
+    const ere = {
+        topicsCreated: 0,
+        votesCast: 0,
+        groupsCreated: 0,
+        usersCreated: 0
+    }
     const raa = await raaPromise
 
     const result = {

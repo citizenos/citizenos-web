@@ -39,9 +39,14 @@ nav.navbar.fixed-top.bg-white.py-0.navbar-expand-lg
                             - var url = `${self.otherLocalePaths[l]}/`.replace('//', '/').replace('//', '/')
                             a.dropdown-item.text-center.text-md-left(href=url, data-language=l)= title || l
 
-            li.nav-item.ml-md-3.mr-md-1.text-center
-                a.btn.btn-primary.mt-3.mb-4.my-md-3(href=self.platformLink.url, target='_blank')
-                    strong= self.platformLink.title
+            if self.productLink
+                li.nav-item.ml-md-3.mr-md-1.text-center
+                    a.btn.btn-primary.mt-3.mb-4.my-md-3(href=self.productLink.url, target='_blank')
+                        strong= self.productLink.title
+            else if self.platformLink
+                li.nav-item.ml-md-3.mr-md-1.text-center
+                    a.btn.btn-primary.mt-3.mb-4.my-md-3(href=self.platformLink.url, target='_blank')
+                        strong= self.platformLink.title
 
 script.
     $(function () {

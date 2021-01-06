@@ -46,8 +46,14 @@ append content
     #news-blocks.d-none
         if self.data.news
             .row.mt-5
+                -
+                    var nr = 0
+                    var getNr = () => {
+                        nr++
+                        return nr
+                    }
                 each b, idx in self.data.news.news
-                    if b.top
+                    if getNr() < 4
                         - var date = new Date(idx)
                         - var dateStr = `${date.toLocaleDateString('en', { day: 'numeric' })} ${date.toLocaleDateString('en', { month: 'long' })} ${date.toLocaleDateString('en', { year: 'numeric' })}`
 
