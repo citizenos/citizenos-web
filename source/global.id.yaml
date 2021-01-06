@@ -1,10 +1,10 @@
 ---
 siteTitle: Citizen OS
 navigation:
-  platform:
-    title: Platform
-    url: /id/platform/
-    class: platform
+  product:
+    title: Product
+    url: /product/
+    class: product
   vision:
     title: Visi
     url: /id/visi/
@@ -29,8 +29,8 @@ languages:
   ru: Pусский
   ua: Українська
 selectLanguage: Bahasa
-platformLink:
-  title: Gunakan platform
+productLink:
+  title: Use platform
   url: https://app.citizenos.com
 mobileMenu: MENU
 newsletter:

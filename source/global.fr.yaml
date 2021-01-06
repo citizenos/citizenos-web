@@ -1,10 +1,10 @@
 ---
 siteTitle: Citizen OS
 navigation:
-  platform:
-    title: Plateforme
-    url: /fr/plateforme/
-    class: plateforme
+  product:
+    title: Product
+    url: /product/
+    class: product
   vision:
     title: Vision
     url: /fr/vision/
@@ -29,9 +29,9 @@ languages:
   ru: Pусский
   ua: Українська
 selectLanguage: Langues
-platformLink:
-  title: Utiliser la plateforme
-  url: https://app.citizenos.com/fr/
+productLink:
+  title: Use platform
+  url: https://app.citizenos.com
 mobileMenu: MENU
 newsletter:
   title: Inscrivez-vous à la newsletter Citizen OS !
@@ -45,8 +45,8 @@ footer:
       title: A propos
       links:
         aboutUs:
-          title: About us
-          url: /about-us/
+          title: À propos de nous
+          url: /fr/a-propos-de-nous/
         careers:
           title: Recrutement
           url: /fr/recrutement/
