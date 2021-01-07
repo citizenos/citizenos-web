@@ -50,7 +50,7 @@ blocks:
       Собирайие идеи, обсуждайте аргументы "за" и "против" и голосуйте за решения.
     button1st:
       title: Подробнее
-      url: /product/
+      url: /ru/produkt/
   democracy-img:
     class:
       - order-3
