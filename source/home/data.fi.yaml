@@ -50,7 +50,7 @@ blocks:
       Joukkoista ideoita, käy keskusteluja puolesta ja vastaan ja äänestä päätöksistä.
     button1st:
       title: Lue lisää
-      url: /product/
+      url: /fi/product/
   democracy-img:
     class:
       - order-3
