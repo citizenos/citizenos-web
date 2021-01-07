@@ -2,9 +2,9 @@
 siteTitle: Citizen OS
 navigation:
   product:
-    title: Product
-    url: /product/
-    class: product
+    title: Продукт
+    url: /ru/produkt/
+    class: продукт
   vision:
     title: Концепция
     url: /ru/koncepciya/
