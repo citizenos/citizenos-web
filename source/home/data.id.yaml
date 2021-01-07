@@ -50,7 +50,7 @@ blocks:
       Crowdsource ide, diskusikan pro dan kontra, dan adakan pemilihan keputusan.
     button1st:
       title: Lihat lengkap
-      url: /product/
+      url: /id/produk/
   democracy-img:
     class:
       - order-3
@@ -133,7 +133,7 @@ blocks:
       background-image: url(/assets/images/bubble-dots.png)
       background-position: 80% 10%
       background-size: 350px 350px
-    label: A word from the team
+    label: Sepatah kata dari tim
     title: |
       Where you can virtually meet us
     blocks:
