@@ -2,9 +2,9 @@
 siteTitle: Citizen OS
 navigation:
   product:
-    title: Product
-    url: /product/
-    class: product
+    title: Produit
+    url: /fr/produit/
+    class: produit
   vision:
     title: Vision
     url: /fr/vision/
