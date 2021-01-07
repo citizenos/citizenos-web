@@ -50,7 +50,7 @@ blocks:
       Kogu rahvaalgatuslikke ideid, arutle nende plusside ja miinuste üle ja hääleta.
     button1st:
       title: Vaata lisa
-      url: /product/
+      url: /et/toode/
   democracy-img:
     class:
       - order-3
