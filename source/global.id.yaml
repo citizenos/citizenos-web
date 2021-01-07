@@ -2,9 +2,9 @@
 siteTitle: Citizen OS
 navigation:
   product:
-    title: Product
-    url: /product/
-    class: product
+    title: Produk
+    url: /id/produk/
+    class: produk
   vision:
     title: Visi
     url: /id/visi/
@@ -31,7 +31,7 @@ languages:
 selectLanguage: Bahasa
 productLink:
   title: Gunakan platform
-  url: https://app.citizenos.com
+  url: https://app.citizenos.com/id/
 mobileMenu: MENU
 newsletter:
   title: Mendaftarlah untuk buletin Citizen OS!
@@ -45,8 +45,8 @@ footer:
       title: Tentang
       links:
         aboutUs:
-          title: About us
-          url: /about-us/
+          title: Tentang kami
+          url: /id/tentang-kami/
         careers:
           title: Karier
           url: /id/karier/
