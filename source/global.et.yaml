@@ -2,9 +2,9 @@
 siteTitle: Citizen OS
 navigation:
   product:
-    title: Product
-    url: /product/
-    class: product
+    title: Toode
+    url: /et/toode/
+    class: toode
   vision:
     title: Visioon
     url: /et/visioon/
@@ -30,8 +30,8 @@ languages:
   ua: Українська
 selectLanguage: Keeled
 productLink:
-  title: Use platform
-  url: https://app.citizenos.com
+  title: Ava platvorm
+  url: https://app.citizenos.com/et/
 mobileMenu: MENÜÜ
 newsletter:
   title: Liitu Citizen OSi uudiskirjaga

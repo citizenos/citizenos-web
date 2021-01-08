@@ -2,9 +2,9 @@
 siteTitle: Citizen OS
 navigation:
   product:
-    title: Product
-    url: /product/
-    class: product
+    title: Tuote
+    url: /fi/product/
+    class: tuote
   vision:
     title: Visio
     url: /fi/visio/
@@ -30,8 +30,8 @@ languages:
   ua: Українська
 selectLanguage: Kielet
 productLink:
-  title: Use platform
-  url: https://app.citizenos.com
+  title: Käytä alustaa
+  url: https://app.citizenos.com/fi/
 mobileMenu: VALIKKO
 newsletter:
   title: Tilaa Citizen OS -uutiskirje!

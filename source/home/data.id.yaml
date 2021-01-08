@@ -14,7 +14,7 @@ header:
     Gunakan platform Citizen OS untuk diskusi demokratis & partisipasi warga negara.
   video:
     title: Intro
-    url: https://www.youtube.com/embed/OydbEvJfhdM?rel=0&showinfo=0&modestbranding=1&autoplay=1&cc_load_policy=1&cc_lang_pref=en
+    url: https://www.youtube.com/embed/hDLWbQQAk8g?rel=0&showinfo=0&modestbranding=1&autoplay=1&cc_load_policy=1&cc_lang_pref=en
   demo:
     title: Demo
     url: https://www.youtube.com/embed/OydbEvJfhdM?rel=0&showinfo=0&modestbranding=1&autoplay=1&cc_load_policy=1&cc_lang_pref=en
@@ -50,7 +50,7 @@ blocks:
       Crowdsource ide, diskusikan pro dan kontra, dan adakan pemilihan keputusan.
     button1st:
       title: Lihat lengkap
-      url: /product/
+      url: /id/produk/
   democracy-img:
     class:
       - order-3
@@ -133,7 +133,7 @@ blocks:
       background-image: url(/assets/images/bubble-dots.png)
       background-position: 80% 10%
       background-size: 350px 350px
-    label: A word from the team
+    label: Sepatah kata dari tim
     title: |
       Where you can virtually meet us
     blocks:

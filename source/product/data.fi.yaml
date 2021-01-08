@@ -1,6 +1,6 @@
 ---
-path: /product
-title: Product
+path: /tuote
+title: Tuote
 description: Ilmainen verkkodemokratiaohjelmisto yhteiseen luomistyöhön, keskusteluun ja äänestämiseen. Käynnistä oma kansalaisaloitteesi, vetoomussivustosi tai keskustelunaiheesi tänään!
 keywords:
   - kansalaisaloitteet
@@ -33,12 +33,12 @@ blocks:
     title: |
       Kollektiiviset päätökset ja kansalaisosallistuminen.
     text: |
-      Use the free online platform for discussions, voting and crowdsourcing ideas. With optional e-ID function.
+      Käytä maksutonta verkkoalustaa keskusteluihin, äänestyksiin ja ideoiden joukkoistamiseen. Käytettävissä myös e-ID-toiminnolla.
 
-      - [What is Citizen OS for?](#flexibleformat)
-      - [Features](#features)
-      - [Case studies](#case-study-2)
-      - [Statistics](#stats)
+      - [Mihin Citizen OS:ää voi käyttää?](#joustavaformaatti)
+      - [Miksi Citizen OS:ää kannattaa käyttää?](#ominaisuudet)
+      - [Tapaustutkimukset](#tapaustutkimus-2)
+      - [Tilastot](#tilastot)
       { .arrow }
     button1st:
       title: Toista demo
@@ -99,19 +99,19 @@ blocks:
     title: |
       Miksi Citizen OS:ää kannattaa käyttää?
     text: |
-      - 100% free to use, always. No ads, no charges.
-      - A ready-made platform – just log in and get started.
-      - Already in 14 languages and easy to translate.
+      - Käyttä on aina täysin maksutonta. Ei mainoksia, ei veloituksia.
+      - Käyttövalmis alusta – kirjaudu vain sisään ja aloita.
+      - Saatavilla jo 13 eri kielellä ja helppo kääntää uusille kielille.
       { .bullet }
 
-      - Pro and con discussions for balanced debates.
-      - Private or public discussions – you choose.
-      - Private groups for multiple discussions with the same people.
+      - Tasapainoiset keskustelut puolesta ja vastaan.
+      - Yksityiset tai julkiset keskustelut – sinä päätät.
+      - Yksityiset ryhmät useille keskusteluille samojen ihmisten kanssa.
       { .bullet }
 
-      - Customisable & anonymous voting with deadlines.
-      - Advanced voting features such as mini-votes and delegation.
-      - e-ID compatible – for logins, votes & digital signatures.
+      - Mukautettava ja anonyymi äänestys määräaikoineen.
+      - Lisä-äänestysominaisuuksia, kuten miniäänet ja delegointi.
+      - Käytettävissä e-ID-toiminnolla – sisäänkirjautuminen, äänestäminen ja sähköinen allekirjoitus.
       { .bullet }
   #options:
   #class:
@@ -145,7 +145,7 @@ blocks:
     class:
       - order-6
     text: |
-      ![A screenshot of the Citizen OS platform being used for participatory democracy.](/assets/images/product-case-study-2.jpg){ .img-fluid .box-shadow }
+      ![Näyttökuva siitä, kuinka Citizen OS -alustaa käytetään osallistavaan demokratiaan.](/assets/images/product-case-study-2.jpg){ .img-fluid .box-shadow }
   case-study-2:
     class:
       - order-7
@@ -153,11 +153,11 @@ blocks:
       background-image: url(/assets/images/bubble-blue.svg)
       background-position: 80% 5%
       background-size: 122px 122px
-    label: Case study
+    label: Tapaustutkimus
     title: |
-      Estonia’s Citizen Initiatives Platform.
+      Viron kansalaisaloitealusta.
     text: |
-      The Citizen OS free open source code was initally used to set up the citizen initiatives website [Rahvalgaatus.ee](https://www.rahvaalgatus.ee). Here, petitions can be launched, signed and submitted directly to the Estonian Parliament.
+      Citizen OS:n avointa lähdekoodia käytettiin osittain [Rahvaalgatus.ee](https://www.rahvaalgatus.ee) -kansalaisaloitesivuston luomisessa. Sivustossa voi luoda ja allekirjoittaa kansalaisaloitteita, jotka toimitetaan suoraan Viron parlamentille.
   case-study-img:
     class:
       - order-8
@@ -176,9 +176,9 @@ blocks:
     title: |
       Vihreämmän Indonesian puolesta.
     text: |
-      With their [34 Islands Project](/news/turning-citizen-ideas-into-action-on-waste-bintan-indonesia/), civic movement Let’s Do It Indonesia is working to build a greener future.
+      Kansanliike Let’s Do It Indonesia työskentelee vihreämmän tulevaisuuden puolesta [34 Islands Project](https://citizenos.com/news/turning-citizen-ideas-into-action-on-waste-bintan-indonesia/) -projektin avulla.
 
-      Using the Citizen OS platform, local people can submit sustainable waste management ideas and vote for their favourites.
+      Paikalliset ihmiset voivat lähettää Citizen OS -alustan avulla kestäviä jätteenkäsittelyideoita ja äänestää suosikki-ideoitaan.
   stats:
     class:
       - order-10
