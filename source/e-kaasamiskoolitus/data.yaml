@@ -84,7 +84,7 @@ blocks:
             [Registreeru](){data-toggle=modal data-target=#join-popup} või saada korraldajale [e-kiri](mailto:anett@citizenos.com).
 
     join:
-        title: E-kaasamiskoolitus
+        title: E-kaasamiskoolitus. Hind €30
         date: 22, 29 jaan, 5 veebr.
         time: Pärastlõunal, täpsustamisel
         how: Registreeru koolitusele!
