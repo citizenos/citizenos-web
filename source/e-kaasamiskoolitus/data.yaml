@@ -1,6 +1,6 @@
 path: /e-kaasamiskoolitus
 
-title: Ühiselt otsustamise ja tegutsemise online-koolitus kogukondadele
+title: E-kaasamiskoolitus kogukondadele
 description: Osale e-kaasamiskoolitusel, mis koosneb kolmest töötoast. Planeeri kaasamine oma kogukonnas ning tee parimaid otsuseid.
 keywords:
     - kaasamine
@@ -10,12 +10,12 @@ keywords:
 
 blocks:
     header:
-        title: 'Ühiselt otsustamise ja tegutsemise online-koolitus kogukondadele'
+        title: 'E-kaasamiskoolitus kogukondadele'
 
     text:
         text: |
 
-            ## Parem koostöö ##
+            ## Ühiselt otsustamine ja tegutsemine ##
 
             Meie igapäevaelu puudutavaid teemasid ühiselt läbi arutades saame teha paremaid otsuseid. Mida erinevamad on aruteludest osa võtvate inimeste maailmavaated ja kogemused, seda mitmekesisemaid ideid ja argumente teema kohta välja tuuakse. Lisaks on erinevatest uuringutest teada, et inimesed, kes on saanud väljendada oma arvamust arutelu all olevate teemade kohta, on suurema tõenäosusega valmis osalema ideede ellu viimisel ka siis, kui  nende idee või seisukoht ei osutunud valituks. Seepärast on oluline anda võimalus oma seisukohta avaldada kõikidele, keda antud teema otseselt puudutab. Kuidas seda teha, seda me koolitusel käsitlemegi.
 
@@ -39,7 +39,7 @@ blocks:
 
             ## I töötuba: Kaasamise planeerimine ja kaasav juhtimine{ .pt-5 }
 
-            **Millal:** 22.01.2021 kella 10:00 - 12:30.
+            **Millal:** 22.01.2021
 
             **Mis:**
             Sellel koolituspäeval võtame kaasamismudeli abil ette ühise otsustamise ja tegutsemise projektid ning mõtleme läbi, mis eesmärgil me tahame inimesi kaasa kutsuda, kes need inimesed on ja mis kanaleid pidi nendeni jõuda. Vaatame erinevas etapis olevaid projekte, kus on vaja kaasata: 1) meeskonda või liikmeskonda 2) eksperte ja huvigruppe 3) laiemat avalikkust. Lisaks räägime sellest, mis on kaasav juhtimine ja kuidas kogukonna eestvedaja saab projekte kaasavalt juhtida.
@@ -52,7 +52,7 @@ blocks:
 
             ## II töötuba: Kuidas suurendada levikut ja jõuda õigete inimesteni?{ .pt-5 }
 
-            **Millal:** 29 jaanuar kella 10-12:30.
+            **Millal:** 29 jaanuar
 
             **Mis:**
             Kuidas leida omale kaasamõtlejaid, kellega koos kogukondlikku arutelu korraldada või ühist projekti algatada? Kelle ideid, kogemusi ja arvamust on vaja veel teada saada enne, kui saab päriselt tegutsema asuda? Keda on vaja kaasata elluviimise faasis? Kus need inimesed on ja kuidas nendeni jõuda. Just nendele ja mitmele teisele küsimusele, nagu näiteks, missuguse sõnumiga inimesteni jõuab, saavad vastatud meie viimases töötoas.
@@ -64,7 +64,7 @@ blocks:
 
             ## III töötuba: Argumenteeritud arutelude läbiviimine ja modereerimine{ .pt-5 }
 
-            **Millal:** 05.02.2021 kella 10:00 - 12:30.
+            **Millal:** 05.02.2021
 
             **Mis:**
             Kvaliteetse otsuse tegemise jaoks on vaja koguda erinevate huvipoolte argumente. Uuringute järgi on näiteks juhtimisvigade üheks olulisimaks põhjuseks mitmekesiste argumentide puudumine, liiga ühekülgne lähenemine otsusele. Kuidas saab kogukonna eestvedaja korraldada arutelusid, mis  järgivad head suhtlemistava (ei lähe laadaks) ning kus esitatakse sisulisi, heade argumentidega toetatud seisukohti? Selles töötoas viimegi läbi ühe praktilise näite argumenteeritud arutelust ning vaatame ühiselt, mis on selle osad.
@@ -86,7 +86,7 @@ blocks:
     join:
         title: E-kaasamiskoolitus
         date: 22, 29 jaan, 5 veebr.
-        time: 10:00 - 12:30
+        time: Pärastlõunal, täpsustamisel
         how: Registreeru koolitusele!
         button:
             title: Registreeru
