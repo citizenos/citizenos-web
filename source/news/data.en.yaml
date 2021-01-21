@@ -11,6 +11,16 @@ image: /assets/images/meta/vision.jpg
 
 news:
 
+    2021-01-21:
+        url: /news/12-digital-changemakers-successfully-upskilled
+        title: 12 digital changemakers successfully upskilled.
+        author: Becca Melhuish
+        image: /assets/images/news/12-digital-changemakers-successfully-upskilled.png
+        categories:
+            - Citizen OS news
+        text: |
+            After ten enriching days on our co-led Digital Innovation Program, an international group of twelve young students are now ready to apply their newly-learned skills to the benefit of their communities.
+
     2020-10-22:
         url: /news/the-ultimate-winter-school-for-digital-change-makers
         title: The Ultimate Winter School for Digital Change-makers.
