@@ -144,16 +144,16 @@ blocks:
             url: /news/
 
 
-    meet:
-        class:
-            - order-7
-            - col-sm-10
-            - my-5
-        style:
-            background-image: url(/assets/images/bubble-dots.png)
-            background-position: 80% 10%
-            background-size: 350px 350px
-        label: A word from the team
+#    meet:
+#        class:
+#            - order-7
+#            - col-sm-10
+#            - my-5
+#        style:
+#            background-image: url(/assets/images/bubble-dots.png)
+#            background-position: 80% 10%
+#            background-size: 350px 350px
+#        label: A word from the team
 #        title: |
 #            Where you can virtually meet us
 #        blocks:
