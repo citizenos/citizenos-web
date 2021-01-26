@@ -154,20 +154,20 @@ blocks:
             background-position: 80% 10%
             background-size: 350px 350px
         label: A word from the team
-        title: |
-            Where you can virtually meet us
-        blocks:
-            tictec:
-                title: |
-                    Tallinn Winter School 2021
-                text: |
-                    We are offering a short course in collaboration with Tallinn University.
+#        title: |
+#            Where you can virtually meet us
+#        blocks:
+#            tictec:
+#                title: |
+#                    Tallinn Winter School 2021
+#                text: |
+#                    We are offering a short course in collaboration with Tallinn University.
 
-                    Learn how to start a digital transformation in your communities and civic initiatives - involving more people in the discussions and decision-making process using technology.
+#                    Learn how to start a digital transformation in your communities and civic initiatives - involving more people in the discussions and decision-making process using technology.
 
-                    Read more about the course and register [here.](https://winterschool.tlu.ee/digital-innovation-for-civic-engagement-projects/)
-                image: /assets/images/meet/the-ultimate-winter-school-for-digital-change-makers.png
-                style:
-                    background: '#000000'
-                date: 11-20.01.2021
-                location: Virtual visits to different locations in Tallinn!
+#                    Read more about the course and register [here.](https://winterschool.tlu.ee/digital-innovation-for-civic-engagement-projects/)
+#                image: /assets/images/meet/the-ultimate-winter-school-for-digital-change-makers.png
+#                style:
+#                    background: '#000000'
+#                date: 11-20.01.2021
+#                location: Virtual visits to different locations in Tallinn!
