@@ -77,9 +77,9 @@ blocks:
           Saa sisendit laiemalt ringilt. Ideaalne kodanikualgatuste jaoks.
       widget:
         poster: /assets/images/flexibleformat-widget.png
-        title: Follow up
+        title: Digiallkirjasta ja loo järelkontakt
         text: |
-          Loo ühiseid algatusi ja kogu tuhandeid digiallkirju. Kasuta e-ID identifitseerimist, et otsuseid digiallkirjastada.
+          Kasuta e-ID identifitseerimist, et otsuseid digiallkirjastada. Teavita osalejaid rühmaotsuse järel tehtud toimingutest.
   features-img:
     class:
       - order-3
@@ -176,9 +176,9 @@ blocks:
     title: |
       Rohelisema Indoneesia nimel.
     text: |
-      Oma [34 saare projektiga](https://citizenos. com/news/turning-citizen-ideas-into-action-on-waste-bintan-indonesia/) soovib kodanikualgatus Teeme Ära Indoneesia luua puhtama tulevikuühiskonna.
+      With their [34 Islands Project](/news/turning-citizen-ideas-into-action-on-waste-bintan-indonesia/), civic movement Let’s Do It Indonesia is working to build a greener future.
 
-      Platvormil Citizen OS saavad kohalikud elanikud esitada ideid jätkusuutliku jäätmekäitlussüsteemi loomiseks ja ka oma lemmikideede poolt hääletada.
+      Using the Citizen OS platform, local people can submit sustainable waste management ideas and vote for their favourites.
   stats:
     class:
       - order-10
