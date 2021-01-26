@@ -124,13 +124,3 @@ blocks:
     button1st:
       title: Больше историй
       url: /ru/novosti/
-  meet:
-    class:
-      - order-7
-      - col-sm-10
-      - my-5
-    style:
-      background-image: url(/assets/images/bubble-dots.png)
-      background-position: 80% 10%
-      background-size: 350px 350px
-    label: Мнение команды
