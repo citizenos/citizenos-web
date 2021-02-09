@@ -77,9 +77,9 @@ blocks:
           Saa sisendit laiemalt ringilt. Ideaalne kodanikualgatuste jaoks.
       widget:
         poster: /assets/images/flexibleformat-widget.png
-        title: Follow up
+        title: Digiallkirjasta ja loo järelkontakt
         text: |
-          Loo ühiseid algatusi ja kogu tuhandeid digiallkirju. Kasuta e-ID identifitseerimist, et otsuseid digiallkirjastada.
+          Kasuta e-ID identifitseerimist, et otsuseid digiallkirjastada. Teavita osalejaid rühmaotsuse järel tehtud toimingutest.
   features-img:
     class:
       - order-3
@@ -157,7 +157,7 @@ blocks:
     title: |
       Eesti kodanikualgatuste platvorm.
     text: |
-      Osa platvormi Citizen OS avatud lähtekoodist kasutati kodanikualgatuse veebisaidi [Rahvalgaatus.ee](https://www.rahvaalgatus.ee) seadistamiseks. Sellel saidil saab luua petitsioone, neid allkirjastada ja seejärel otse Riigikogusse saata.
+      Osa platvormi Citizen OS avatud lähtekoodist kasutati kodanikualgatuse veebisaidi [Rahvaalgatus.ee](https://www.rahvaalgatus.ee) seadistamiseks. Sellel saidil saab luua petitsioone, neid allkirjastada ja seejärel otse Riigikogusse saata.
   case-study-img:
     class:
       - order-8
@@ -176,7 +176,7 @@ blocks:
     title: |
       Rohelisema Indoneesia nimel.
     text: |
-      Oma [34 saare projektiga](https://citizenos. com/news/turning-citizen-ideas-into-action-on-waste-bintan-indonesia/) soovib kodanikualgatus Teeme Ära Indoneesia luua puhtama tulevikuühiskonna.
+      Oma [34 saare projektiga](/news/turning-citizen-ideas-into-action-on-waste-bintan-indonesia/) soovib kodanikualgatus Teeme Ära Indoneesia luua puhtama tulevikuühiskonna.
 
       Platvormil Citizen OS saavad kohalikud elanikud esitada ideid jätkusuutliku jäätmekäitlussüsteemi loomiseks ja ka oma lemmikideede poolt hääletada.
   stats:

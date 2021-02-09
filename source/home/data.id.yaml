@@ -124,30 +124,11 @@ blocks:
     button1st:
       title: Cerita lebih banyak
       url: /id/berita/
-  meet:
+  in-media:
     class:
       - order-7
-      - col-sm-10
-      - my-5
-    style:
-      background-image: url(/assets/images/bubble-dots.png)
-      background-position: 80% 10%
-      background-size: 350px 350px
-    label: Sepatah kata dari tim
+      - text-center
     title: |
-      Where you can virtually meet us
-    blocks:
-      tictec:
-        title: |
-          Tallinn Winter School 2021
-        text: |
-          We are offering a short course in collaboration with Tallinn University.
-
-          Learn how to start a digital transformation in your communities and civic initiatives - involving more people in the discussions and decision-making process using technology.
-
-          Read more about the course and register [here.](https://winterschool.tlu.ee/digital-innovation-for-civic-engagement-projects/)
-        image: /assets/images/meet/the-ultimate-winter-school-for-digital-change-makers.png
-        style:
-          background: '#000000'
-        date: 11-20.01.2021
-        location: Virtual visits to different locations in Tallinn!
+      In the media
+    text: |
+      - [![](/assets/images/in-media/probintan.png)](https://bintan.batampos.co.id/2020/07/02/dorong-tiap-desa-punya-sistem-pengelolaan-sampah/?__cf_chl_jschl_tk__=e233c034611ddbe316d179a8cd2eb606db322ac9-1608160807-0-AS9xW9vwxWSfiVeBpbwK1LUG5dy3Ec0M7p5kNBLoYvbnEI8qaYeApAroQbWEpRerbLgKFAmptb2-lQUKVw60pA-B2p6WkaQAB2BZZUejI8SaW3yV4XWlE4orvi1KxXN2vVQhWi6uYFVYndhB9FLJ_euYNo_8g6kmkmmfvmqnXo_-aZ7RGoInf7zqWyIu4_7oyp6a7S3ABJZixedlH-42xvQZiOzTIVYgSrwRRH9kpB1JR_AZ1-U8lvi6Td-0pVTkjjuuAREXgRbO20JOrPAHKlbeYWrUA9IorHX-NeXE2AKcZgRKODkZdteHRx24KQgtninqrjjqicLvUxx-ZJpUn0EY-zf1t2P6Bi_oWKZJOGoZjc-cY9go31jkIxtwB3K3jQ)
