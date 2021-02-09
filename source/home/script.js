@@ -18,6 +18,7 @@ $(function () {
     $('#in-media .block-text').removeClass('offset-sm-2')
     $('#in-media .block-text').addClass('col-sm-10')
     $('#in-media .block-text').addClass('offset-sm-1')
+    $('#in-media .block-text a').attr('target', '_blank')
 
     $('#partners .block-text').removeClass('col-sm-10')
     $('#partners .block-text').addClass('col-sm-8')
