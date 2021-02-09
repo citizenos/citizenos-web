@@ -13,6 +13,12 @@ $(function () {
     $('#team .block-text').removeClass('col-sm-10')
     $('#team .block-text').addClass('col-sm-8')
 
+    $('#in-media').removeClass('col-sm-6')
+    $('#in-media .block-text').removeClass('col-sm-8')
+    $('#in-media .block-text').removeClass('offset-sm-2')
+    $('#in-media .block-text').addClass('col-sm-10')
+    $('#in-media .block-text').addClass('offset-sm-1')
+
     $('#partners .block-text').removeClass('col-sm-10')
     $('#partners .block-text').addClass('col-sm-8')
 

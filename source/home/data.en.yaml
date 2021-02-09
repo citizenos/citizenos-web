@@ -143,10 +143,19 @@ blocks:
             title: More stories
             url: /news/
 
+    in-media:
+        class:
+            - order-7
+            - text-center
+        title: |
+            In the media
+        text: |
+            ![](/assets/images/in-media/err.png){ .in-media .err } ![](/assets/images/in-media/hea-kodanik.png){ .in-media .hea-kodanik } ![](/assets/images/in-media/e-estonia.png){ .in-media .e-estonia } ![](/assets/images/in-media/aef.png){ .in-media .aef }
+
 
 #    meet:
 #        class:
-#            - order-7
+#            - order-8
 #            - col-sm-10
 #            - my-5
 #        style:
