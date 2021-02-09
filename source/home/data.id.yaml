@@ -124,3 +124,11 @@ blocks:
     button1st:
       title: Cerita lebih banyak
       url: /id/berita/
+  in-media:
+    class:
+      - order-7
+      - text-center
+    title: |
+      In the media
+    text: |
+      ![](/assets/images/in-media/err.png){ .in-media .err } ![](/assets/images/in-media/hea-kodanik.png){ .in-media .hea-kodanik } ![](/assets/images/in-media/e-estonia.png){ .in-media .e-estonia } ![](/assets/images/in-media/aef.png){ .in-media .aef }
