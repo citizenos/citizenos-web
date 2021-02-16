@@ -11,6 +11,16 @@ image: /assets/images/meta/vision.jpg
 
 news:
 
+    2021-02-16:
+        url: /news/our-new-community-e-participation-course
+        title: Our new community e-participation course.
+        author: Becca Melhuish
+        image: /assets/images/news/our-new-community-e-participation-course.png
+        categories:
+            - Citizen OS news
+        text: |
+            Seventeen Estonian community leaders took part in our fresh new training programme.
+
     2021-01-21:
         url: /news/12-digital-changemakers-successfully-upskilled
         title: 12 digital changemakers successfully upskilled.
