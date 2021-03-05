@@ -11,6 +11,16 @@ image: /assets/images/meta/vision.jpg
 
 news:
 
+    2021-03-05:
+        url: /news/celebrating-freedom-of-expression-in-indonesia
+        title: Celebrating freedom of expression in Indonesia.
+        author: Becca Melhuish
+        image: /assets/images/news/celebrating-freedom-of-expression-in-indonesia.png
+        categories:
+            - Citizen OS news
+        text: |
+            Citizen OS Indonesia held the Indonesian Opinion Festival.
+
     2021-02-16:
         url: /news/our-new-community-e-participation-course
         title: Our new community e-participation course.
