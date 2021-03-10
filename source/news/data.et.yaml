@@ -8,6 +8,15 @@ keywords:
   -
 image: /assets/images/meta/vision.jpg
 news:
+  2021-03-10:
+    url: /news/meet-our-young-changemakers
+    title: Meet our young changemakers.
+    author: Becca Melhuish
+    image: /assets/images/news/meet-our-young-changemakers.jpg
+    categories:
+      - Citizen OS news
+    text: |
+      Find out what our inspiring team of young Estonian changemakers thinks about civil society activism, “being the change”, and the future potential of participatory e-democracy.
   2021-03-05:
     url: /news/celebrating-freedom-of-expression-in-indonesia
     title: Celebrating freedom of expression in Indonesia.
