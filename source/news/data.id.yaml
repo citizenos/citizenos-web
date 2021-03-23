@@ -8,6 +8,33 @@ keywords:
   -
 image: /assets/images/meta/vision.jpg
 news:
+  2021-03-10:
+    url: /news/meet-our-young-changemakers
+    title: Meet our young changemakers.
+    author: Becca Melhuish
+    image: /assets/images/news/meet-our-young-changemakers.jpg
+    categories:
+      - Citizen OS news
+    text: |
+      Find out what our inspiring team of young Estonian changemakers thinks about civil society activism, “being the change”, and the future potential of participatory e-democracy.
+  2021-03-05:
+    url: /news/celebrating-freedom-of-expression-in-indonesia
+    title: Celebrating freedom of expression in Indonesia.
+    author: Becca Melhuish
+    image: /assets/images/news/celebrating-freedom-of-expression-in-indonesia.png
+    categories:
+      - Citizen OS news
+    text: |
+      Led by Citizen OS Indonesia, the first ever Indonesian Opinion Festival saw 527 participants come together to discuss important social issues, with outcomes being passed on to government for action.
+  2021-02-16:
+    url: /news/our-new-community-e-participation-course
+    title: Our new community e-participation course.
+    author: Becca Melhuish
+    image: /assets/images/news/our-new-community-e-participation-course.png
+    categories:
+      - Citizen OS news
+    text: |
+      Seventeen Estonian community leaders took part in our fresh new training programme.
   2021-01-21:
     url: /news/12-digital-changemakers-successfully-upskilled
     title: 12 digital changemakers successfully upskilled.
