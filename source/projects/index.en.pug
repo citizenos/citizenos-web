@@ -1,0 +1,6 @@
+extends /_templates/blocks.pug
+
+
+append content
+    if self.blocks['start-img'] && self.blocks['start-img'].video
+        +video(self.blocks['start-img'].video.id, self.blocks['start-img'].video.url)
