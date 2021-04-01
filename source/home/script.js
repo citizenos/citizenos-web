@@ -81,18 +81,11 @@ $(function () {
     //-     }
     //- }
 
-    if (locale !== 'en') {
-        $('#news').remove()
-    }
-
     $('#news').removeClass('col-sm-6')
     $('#news .block-text').removeClass('col-sm-8')
     $('#news .block-text').removeClass('offset-sm-2')
     $('#news .block-text').addClass('col-sm-10')
     $('#news .block-text').addClass('offset-sm-1')
-    if (locale === 'en') {
-        $('#news .block-text h2').after($('#news-blocks').html())
-        $('#news-blocks').remove()
-    }
-
+    $('#news .block-text h2').after($('#news-blocks').html())
+    $('#news-blocks').remove()
 })
