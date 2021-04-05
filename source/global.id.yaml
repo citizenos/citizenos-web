@@ -6,9 +6,9 @@ navigation:
     url: /id/produk/
     class: produk
   vision:
-    title: Visi
-    url: /id/visi/
-    class: vision
+    title: Projects
+    url: /projects/
+    class: projects
   community:
     title: Masyarakat
     url: /id/masyarakat/
