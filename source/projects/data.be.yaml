@@ -35,17 +35,12 @@ blocks:
     text: |
       We join forces with organisations worldwide to work on innovative e-democracy and participation projects.
 
-      - [Digital Transformation for Civic Engagement](#project1)
-      - [EuroChangemakers](#project2)
-      - Civic Hacktivist Community
-      - Participatory Youth Leadership Network
-      { .arrow }
-  #button1st:
-  #title: Our vision
-  #url: 'https://www.youtube.com/embed/hDLWbQQAk8g?rel=0&showinfo=0&modestbranding=1&autoplay=1&cc_load_policy=1&cc_lang_pref=en'
-  #[f](https://www.facebook.com/citizenos.web){ .btn .btn-primary .my-2 .ml-3 }
-  #[t](https://twitter.com/Citizen_OS){ .btn .btn-primary .my-2 .ml-3 }
-  project1-img:
+      - [Digital Transformation for Civic Engagement](#individual)
+      - [EuroChangemakers](#awareness)
+      {.arrow }
+  #- Civic Hacktivist Community
+  #- Participatory Youth Leadership Network
+  individual-img:
     class:
       - order-2
     style:
@@ -54,18 +49,17 @@ blocks:
       background-size: 45px 45px, 350px 350px
     text: |
       ![An active citizen who believes that her participation in political issues has an impact.](/assets/images/vision-individual.png){ .img-fluid }
-  project1:
+  individual:
     class:
       - order-3
-    #label: As an individual
     title: |
       Digital Transformation for Civic Engagement.
     text: |
       This new Erasmus+ youth exchange programme will train up Europe’s next generation of leaders in civic engagement project design and participatory leadership, through engaging, hands-on learning methods.
-  #button1st:
-  #title: Learn more
-  #url: /erasmus/
-  project2:
+    button1st:
+      title: Learn more
+      url: /erasmus/
+  awareness:
     class:
       - order-4
       - py-5
@@ -73,7 +67,7 @@ blocks:
       background-image: url(/assets/images/bubble-orange.svg), url(/assets/images/vision-awareness.jpg)
       background-size: 164px 164px, cover
       background-position: 10% 10%
-    #label: Raising awareness
+    #label: Erasmus+ project
     title: |
       EuroChangemakers
     text: |
@@ -81,43 +75,4 @@ blocks:
     button1st:
       title: Learn more
       url: https://eurocm.geyc.ro/
-      target: _blank
-  project3-img:
-    class:
-      - order-2
-    style:
-      background-image: url(/assets/images/bubble-yellow.svg), url(/assets/images/bubble-dots.png)
-      background-position: 10% 10%, 90% 10%
-      background-size: 45px 45px, 350px 350px
-    text: |
-      ![An active citizen who believes that her participation in political issues has an impact.](/assets/images/vision-individual.png){ .img-fluid }
-  project3:
-    class:
-      - order-3
-    #label: As an individual
-    title: |
-      Civic Hacktivist Community.
-    text: |
-      In 2019, we launched this international community for the exchange of knowledge and ideas about e-democracy and collaborative decision-making.
-    button1st:
-      title: Learn more
-      url: /community/
-  project4:
-    class:
-      - order-4
-      - py-5
-    style:
-      background-image: url(/assets/images/bubble-orange.svg), url(/assets/images/vision-awareness.jpg)
-      background-size: 164px 164px, cover
-      background-position: 10% 10%
-    #label: Raising awareness
-    title: |
-      Participatory Youth Leadership Network.
-    text: |
-      Citizen OS’s Indian chapter, PYLN, collaborates with Indian organisations and hacktivists who share our vision of furthering participatory leadership.
-
-      PYLN supports and co-creates action-based research such as campaigns, petitions, bottom-up decision making and grassroots initiatives.
-    button1st:
-      title: Learn more
-      url: /pyln/
       target: _blank
