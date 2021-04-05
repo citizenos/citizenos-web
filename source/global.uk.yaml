@@ -6,9 +6,9 @@ navigation:
     url: /product/
     class: product
   vision:
-    title: Vision
-    url: /vision/
-    class: vision
+    title: Projects
+    url: /projects/
+    class: projects
   community:
     title: Community
     url: /community/
