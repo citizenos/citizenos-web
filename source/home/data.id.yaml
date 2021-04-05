@@ -76,8 +76,8 @@ blocks:
     text: |
       Kami percaya pada demokrasi yang lebih dalam, ketika semua warga memiliki hak berpendapat dalam keputusan yang memengaruhi mereka.
     button1st:
-      title: Visi kami
-      url: /id/visi/
+      title: Our Projects
+      url: /projects/
     button2nd:
   #title: Use product - it’s free!
   #url: https://app.citizenos.com
