@@ -6,9 +6,9 @@ navigation:
     url: /fi/product/
     class: tuote
   vision:
-    title: Visio
-    url: /fi/visio/
-    class: vision
+    title: Projects
+    url: /projects/
+    class: projects
   community:
     title: Yhteisö
     url: /fi/yhteiso/
