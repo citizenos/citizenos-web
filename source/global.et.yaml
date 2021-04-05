@@ -6,9 +6,9 @@ navigation:
     url: /et/toode/
     class: toode
   vision:
-    title: Visioon
-    url: /et/visioon/
-    class: vision
+    title: Projects
+    url: /projects/
+    class: projects
   community:
     title: Kogukond
     url: /et/kogukond/
