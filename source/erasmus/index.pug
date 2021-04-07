@@ -1,7 +1,7 @@
 extends /_templates/main.pug
 
 
-block body
+block content
     .container-fluid
         #header.row.py-5
             .col-12.text-center
@@ -31,10 +31,18 @@ block body
 
         #footer.row.py-5
             .col-12.text-center
-                a.navbar-brand(href=self.rootUrl)
-                    img.mb-2(src='/assets/images/citizenos-logo.png', height=37, width=201, alt='Citizen OS logo')
-                if self.blocks && self.blocks.footer
-                    +markdown(self.blocks.footer.text)
+                    img.mb-2(src='/assets/images/erasmus+.jpeg', height=150,
+                    width=650, alt='Erasmus+ logo')
+
+        #footer.row.py-5
+            .col-12.text-center
+                    img.mb-2(src='/assets/images/erasmus+_noored_siniseltaustal_eng.png', height=250, width=400, alt='Erasmus+ and European Solicarity Corps Solidarity Programme logo')
+
+        #footer.row.py-5
+            .col-12.text-center
+                    img.mb-2(src='/assets/images/european_solidarity_corps_LOGO.jpg', height=150,
+                    width=600, alt='European Solidarity Corps logo')
+
 
     #join-popup.modal.fade(tabindex='-1', role='dialog')
         .modal-dialog.modal-dialog-centered.modal-lg(role='document')
