@@ -51,20 +51,6 @@ blocks:
 
             ![Erasmus+ logo](/assets/images/erasmus+.jpeg){ .img-fluid }
 
-    join:
-        title: Timeline and activities
-        date: 17-25 August 2021
-        time: Full days
-        how: How to apply?
-        button:
-            title: Leave us your details
-            url: '#join'
-
-    form:
-        title: We will send you details on how to apply.
-        email: Email Address
-        subscribe: Please send info
-
     footer:
         text: |
             [Citizen OS](/) is an Open Source social enterprise.
