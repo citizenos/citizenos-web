@@ -35,10 +35,6 @@ blocks:
       If you are interested in participating or simply finding out more about the program, please [contact our Partnerships and Community Lead Anett Linno.](mailto:anett@citizenos.com)
 
       **This project is supported by Erasmus+ and the European Solidarity Corps Agency from the European Solidarity Corps Programme. [www.euroopanoored.eu](http://euroopanoored.eu).**
-
-      ![Erasmus+ logo](/assets/images/erasmus+.jpeg){ .img-fluid }
-      ![Erasmus+ and european solidarity corps agency logo](/assets/images/erasmus+_noored_siniseltaustal_eng.png){ .img-fluid }
-      ![European solidarity corps logo](/assets/images/european_solidarity_corps_LOGO.jpg){ .img-fluid }
   join:
     title: Timeline and activities
     date: 17-25 August 2021
@@ -46,10 +42,3 @@ blocks:
     button:
       title: Application will open soon
       url: '#join'
-  #form:
-  #title: Leave us your email and we'll send details on how to apply.
-  #email: Email Address
-  #subscribe: Send
-  footer:
-    text: |
-      [Citizen OS](/) is an Open Source social enterprise.
