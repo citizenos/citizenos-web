@@ -9,10 +9,10 @@ navigation:
     title: Projects
     url: /projects/
     class: projects
-  community:
-    title: Kogukond
-    url: /et/kogukond/
-    class: community
+  #community:
+  #title: Community
+  #url: /community/
+  #class: community
   blog:
     title: Uudised
     url: /et/uudised/
