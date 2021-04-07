@@ -9,10 +9,10 @@ navigation:
     title: Projects
     url: /projects/
     class: projects
-  community:
-    title: Community
-    url: /community/
-    class: community
+  #community:
+  #title: Community
+  #url: /community/
+  #class: community
   blog:
     title: News
     url: /news/
