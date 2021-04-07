@@ -9,10 +9,10 @@ navigation:
     title: Projects
     url: /projects/
     class: projects
-  community:
-    title: Masyarakat
-    url: /id/masyarakat/
-    class: community
+  #community:
+  #title: Community
+  #url: /community/
+  #class: community
   blog:
     title: Berita
     url: /id/berita/
