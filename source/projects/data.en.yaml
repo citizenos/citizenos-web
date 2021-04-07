@@ -40,10 +40,9 @@ blocks:
 
             - [Digital Transformation for Civic Engagement](#individual)
             - [EuroChangemakers](#awareness)
+            - [Civic Hacktivist Community](#individual2)
+            - [Participatory Youth Leadership Network](#awareness2)
             {.arrow }
-#            - Civic Hacktivist Community
-#            - Participatory Youth Leadership Network
-
 
     individual-img:
         class:
@@ -87,45 +86,56 @@ blocks:
             url: https://eurocm.geyc.ro/
             target: _blank
 
-    #project3-img:
-        #class:
-            #- order-2
-        #style:
+    individual2-img:
+        class:
+            - order-6
+        style:
 
-            #background-image: url(/assets/images/bubble-yellow.svg), url(/assets/images/bubble-dots.png)
-            #background-position: 10% 10%, 90% 10%
-            #background-size: 45px 45px, 350px 350px
-        #text: |
-            #![An active citizen who believes that her participation in political issues has an impact.](/assets/images/vision-individual.png){ .img-fluid }
+            background-image: url(/assets/images/bubble-yellow.svg), url(/assets/images/bubble-dots.png)
+            background-position: 10% 10%, 90% 10%
+            background-size: 45px 45px, 350px 350px
+        text: |
+            ![An image of a lit light bulb with four smaller red bubbles surrounding it in a circle with arrows pointing from one to the next bubble.](/assets/images/research-start.png){ .img-fluid }
 
-    #project3:
-        #class:
-            #- order-3
-        #title: |
-            #Civic Hacktivist Community.
-        #text: |
-            #In 2019, we launched this international community for the exchange of knowledge and ideas about e-democracy and collaborative decision-making.
+    individual2:
+        class:
+            - order-7
+        title: |
+            Civic Hacktivist Community.
+        text: |
+            In 2019, we launched this international community for the exchange of knowledge and ideas about e-democracy and collaborative decision-making.
 
-        #button1st:
-            #title: Learn more
-            #url: /community/
+        button1st:
+            title: Learn more
+            url: /community/
 
-    #project4:
-        #class:
-            #- order-4
-            #- py-5
-        #style:
-            #background-image: url(/assets/images/bubble-orange.svg), url(/assets/images/vision-awareness.jpg)
-            #background-size: 164px 164px, cover
-            #background-position: 10% 10%
-        # label: Raising awareness
-        #title: |
-            #Participatory Youth Leadership Network.
-        #text: |
-            #Citizen OS’s Indian chapter, PYLN, collaborates with Indian organisations and hacktivists who share our vision of furthering participatory leadership.
+    awarness2-img:
+        class:
+            - order-9
+        style:
 
-            #PYLN supports and co-creates action-based research such as campaigns, petitions, bottom-up decision making and grassroots initiatives.
-        #button1st:
-            #title: Learn more
-            #url: /pyln/
-            #target: _blank
+            background-image: url(/assets/images/bubble-yellow.svg), url(/assets/images/bubble-dots.png)
+            background-position: 10% 10%, 90% 10%
+            background-size: 45px 45px, 350px 350px
+        text: |
+            ![A woman's upper body on the left, the woman staring at a sceen with different people in many windows.](/assets/images/projects-pyln.jpg){ .img-fluid }
+
+    awareness2:
+        class:
+            - order-8
+#            - py-5
+#        style:
+#            background-image: url(/assets/images/bubble-orange.svg), url(/assets/images/projects-pyln.jpg)
+#            background-size: 164px 164px, cover
+#            background-position: 10% 10%
+        #label: Raising awareness
+        title: |
+            Participatory Youth Leadership Network.
+        text: |
+            Citizen OS’s Indian chapter, PYLN, collaborates with Indian organisations and hacktivists who share our vision of furthering participatory leadership.
+
+            PYLN supports and co-creates action-based research such as campaigns, petitions, bottom-up decision making and grassroots initiatives.
+        button1st:
+            title: Learn more
+            url: /pyln/
+            target: _blank
