@@ -269,7 +269,7 @@ blocks:
       background-position: 0 10%, 0% 90%, 20% 10%, 80% 80%
       background-size: 350px 350px, 102px 102px, 65px 65px, 135px 135px
     text: |
-      ![](/assets/images/vision-start.png){ .img-fluid }
+      ![](/assets/images/news-start.png){ .img-fluid }
   start:
     class:
       - order-0
