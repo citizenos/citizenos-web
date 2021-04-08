@@ -1,11 +1,11 @@
 ---
 path: /toode
 title: Toode
-description: Argumenteeritud arutelud, algatused ja ühiste otsuste tegemine. Tasuta tarkvara, mis teeb ideede genereerimise, digiallkirjastamise ja hääletamise hõlpsaks.
+description: Free co-decision platform - co-create, discuss and vote in a group. Use in member-led organisations to make better decisions together.
 keywords:
-  - kollektiivne pöördumine
-  - tasuta petitsioon
-  - digiallkirjastamine
+  - decisionmaking in a group
+  - voting tool
+  - group decisions
 image: /assets/images/meta/product.jpg
 blocks:
   decision-img:
@@ -95,9 +95,9 @@ blocks:
       - order-4
     style:
       background: '#F7F7F7'
-    label: Funktsioonid
+    #label: Features
     title: |
-      Miks peaksid kasutama Citizen OS-i?
+      Features
     text: |
       - Alati 100% tasuta tarkvara. Ei mingeid reklaame ega tasusid.
       - Kasutusvalmis platvorm – logi lihtsalt sisse ja hakka tööle.
@@ -113,6 +113,9 @@ blocks:
       - Täpsemad hääletusfunktsioonid, näiteks minihääled ja delegeerimine.
       - Ühildub e-ID-ga – sisselogimiseks, hääletamiseks ja digiallkirjade andmiseks.
       { .bullet }
+    button1st:
+      title: Full list of features
+      url: '/product/features/'
   #options:
   #class:
   #- order-5
