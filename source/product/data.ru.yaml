@@ -1,11 +1,11 @@
 ---
 path: /produkt
 title: Продукт
-description: Бесплатная цифровая демократическая платформа для совместного создания, обсуждения и голосования. Создайте свою собственную гражданскую инициативу, сайт петиций или откройте новую тему для обсуждения!
+description: Free co-decision platform - co-create, discuss and vote in a group. Use in member-led organisations to make better decisions together.
 keywords:
-  - гражданские инициативы
-  - бесплатная петиция
-  - совместное принятие решений
+  - decisionmaking in a group
+  - voting tool
+  - group decisions
 image: /assets/images/meta/product.jpg
 blocks:
   decision-img:
@@ -95,9 +95,9 @@ blocks:
       - order-4
     style:
       background: '#F7F7F7'
-    label: Особенности
+    #label: Features
     title: |
-      Почему именно Citizen OS?
+      Features
     text: |
       - Платформа полностью бесплатна, без рекламы и без комиссий.
       - Готовая платформа. Просто войдите в систему и начинайте работу.
@@ -113,6 +113,9 @@ blocks:
       - Расширенные возможности голосования, например мини-голосования и делегирование голосов.
       - Совместимость с электронным ID для входа в систему, голосования и использования цифровых подписей.
       { .bullet }
+    button1st:
+      title: Full list of features
+      url: '/product/features/'
   #options:
   #class:
   #- order-5
