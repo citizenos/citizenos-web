@@ -1,11 +1,11 @@
 ---
 path: /product
 title: Product
-description: Free digital democracy software for co-creation, discussion and voting. Start your own citizen initiative, petition site or discussion topic today!
+description: Free co-decision platform - co-create, discuss and vote in a group. Use in member-led organisations to make better decisions together.
 keywords:
-  - citizen initiatives
-  - free petition
-  - collaborative decision-making
+  - decisionmaking in a group
+  - voting tool
+  - group decisions
 image: /assets/images/meta/product.jpg
 blocks:
   decision-img:
@@ -95,9 +95,9 @@ blocks:
       - order-4
     style:
       background: '#F7F7F7'
-    label: Features
+    #label: Features
     title: |
-      Why use Citizen OS?
+      Features
     text: |
       - 100% free to use, always. No ads, no charges.
       - A ready-made platform – just log in and get started.
@@ -113,6 +113,9 @@ blocks:
       - Advanced voting features such as mini-votes and delegation.
       - e-ID compatible – for logins, votes & digital signatures.
       { .bullet }
+    button1st:
+      title: Full list of features
+      url: '/product/features/'
   #options:
   #class:
   #- order-5
