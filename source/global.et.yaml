@@ -6,7 +6,7 @@ navigation:
     url: /et/toode/
     class: toode
   vision:
-    title: Projects
+    title: Projektid
     url: /projects/
     class: projects
   #community:
