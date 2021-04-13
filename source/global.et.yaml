@@ -7,8 +7,8 @@ navigation:
     class: toode
   vision:
     title: Projektid
-    url: /projects/
-    class: projects
+    url: /projektid/
+    class: projektid
   #community:
   #title: Community
   #url: /community/
