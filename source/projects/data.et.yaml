@@ -33,12 +33,12 @@ blocks:
     title: |
       Koostöö muutuste nimel.
     text: |
-      We join forces with organisations worldwide to work on innovative e-democracy and participation projects.
+      Ühendame innovaatiliste e-demokraatia projektide ja osalusprojektidega töötamiseks jõud erinevate riikide organisatsioonidega.
 
-      - [Digital Transformation for Civic Engagement](#individual)
-      - [EuroChangemakers](#awareness)
-      - [Civic Hacktivist Community](#individual2)
-      - [Participatory Youth Leadership Network](#awareness2)
+      - [Digitaalne muundumine ühiskonna kaasamiseks](#üksikisik)
+      - [EuroChangemakers](#teadlikkus)
+      - [Kodanikuhäktivistide kogukond](#üksikisik2)
+      - [Noorte osalusdemokraatiajuhtide võrgustik](#teadlikkus2)
       {.arrow }
   individual-img:
     class:
@@ -48,16 +48,16 @@ blocks:
       background-position: 10% 10%, 90% 10%
       background-size: 45px 45px, 350px 350px
     text: |
-      ![An active citizen who believes that her participation in political issues has an impact.](/assets/images/vision-individual.png){ .img-fluid }
+      ![Aktiivne kodanik, kes usub, et suudab poliitilistes küsimustes kaasa rääkides ühiskonnaelu mõjutada.](/assets/images/vision-individual.png){ .img-fluid }
   individual:
     class:
       - order-3
     title: |
-      Digital Transformation for Civic Engagement.
+      Kodanike kaasamise digitaalne muundamine.
     text: |
-      Our new Erasmus+ youth exchange programme will train up Europe’s next generation of leaders in civic engagement project design and participatory leadership, through engaging, hands-on learning methods.
+      Meie uus Erasmus+ noortehvahetusprogramm koolitab välja Euroopa kodanike kaasamise projektide kujundamise ja osalusdemokraatia valdkonna liidreid, kasutades kaasavaid ja praktikapõhiseid õppemeetodeid.
     button1st:
-      title: Learn more
+      title: Vaata lisa
       url: /erasmus/
   awareness:
     class:
@@ -71,9 +71,9 @@ blocks:
     title: |
       EuroChangemakers
     text: |
-      This 18-month project responds to the current democratic participation challenges faced during the COVID-19 pandemic through civic hackathons, a new platform, a youth network and a policy White Paper.
+      See 18-kuuline projekt on loodud praegusel, COVID-19-ajastul tekkinud osalusdemokraatiaga seotud katsumuste ületamiseks. Projekti osaks on avalikud häkatonid, uus platvorm, noortevõrgustik ning põhimõtete ülevaatedokument.
     button1st:
-      title: Learn more
+      title: Vaata lisa
       url: https://eurocm.geyc.ro/
       target: _blank
   individual2-img:
@@ -84,17 +84,17 @@ blocks:
       background-position: 10% 10%, 90% 10%
       background-size: 45px 45px, 350px 350px
     text: |
-      ![An image of a lit light bulb with four smaller red bubbles surrounding it in a circle with arrows pointing from one to the next bubble.](/assets/images/research-start.png){ .img-fluid }
+      ![Pilt põlevast lambipirnist, mida ümbritsevad ringina neli väiksemat punast mulli. Iga mulli sees on järgmise mulli suunas näitav nool.](/assets/images/research-start.png){ .img-fluid }
   individual2:
     class:
       - order-7
     title: |
-      Civic Hacktivist Community.
+      Kodanikuhäktivistide kogukond.
     text: |
-      In 2019, we launched this international community for the exchange of knowledge and ideas about e-democracy and collaborative decision-making.
+      2019. aastal käivitasime selle rahvusvahelise kogukonna eesmärgiga jagada teadmisi ja ideid e-demokraatia ning koostööpõhise otsustelangetamise teemadel.
     button1st:
-      title: Learn more
-      url: /community/
+      title: Vaata lisa
+      url: /kogukond/
   awarness2-img:
     class:
       - order-9
@@ -103,7 +103,7 @@ blocks:
       background-position: 10% 10%, 90% 10%
       background-size: 45px 45px, 350px 350px
     text: |
-      ![A woman's upper body on the left, the woman staring at a sceen with different people in many windows.](/assets/images/projects-pyln.jpg){ .img-fluid }
+      ![Naise ülakeha vasakul pool, naine vaatab ekraani mitme akna all seisvate erinevate inimestega.](/assets/images/projects-pyln.jpg){ .img-fluid }
   awareness2:
     class:
       - order-8
@@ -114,12 +114,12 @@ blocks:
     #background-position: 10% 10%
     #label: Raising awareness
     title: |
-      Participatory Youth Leadership Network.
+      Osalevate noortejuhtide võrgustik.
     text: |
-      Citizen OS’s Indian chapter, PYLN, collaborates with Indian organisations and hacktivists who share our vision of furthering participatory leadership.
+      Citizen OS-i India tütarorganisatsioon PYLN teeb koostööd India organisatsioonide ja häktivistidega, kellel on meiega ühesugune nägemus osaluspõhise juhtimise edendamisest.
 
-      PYLN supports and co-creates action-based research such as campaigns, petitions, bottom-up decision making and grassroots initiatives.
+      PYLN toetab ja kaasloob tegevuspõhiseid teadusalgatusi. Niisugusteks algatusteks on näiteks kampaaniad, petitsioonid, alt-ülesse suunatud otsustusprotsessid ning rohujuuretasandi algatused.
     button1st:
-      title: Learn more
+      title: Vaata lisa
       url: /pyln/
       target: _blank
