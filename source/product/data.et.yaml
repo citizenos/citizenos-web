@@ -1,11 +1,11 @@
 ---
 path: /toode
 title: Toode
-description: Free co-decision platform - co-create, discuss and vote in a group. Use in member-led organisations to make better decisions together.
+description: Tasuta ühisotsustamisplatvorm, mis pakub gruppidele võimaluse üheskoos luua, arutada ja hääletada. See platvorm sobib liikmete juhitud organisatsioonidele paremate ühisotsuste tegemiseks.
 keywords:
-  - decisionmaking in a group
-  - voting tool
-  - group decisions
+  - grupis otsuste tegemine
+  - hääletustööriist
+  - grupiotsused
 image: /assets/images/meta/product.jpg
 blocks:
   decision-img:
@@ -97,7 +97,7 @@ blocks:
       background: '#F7F7F7'
     #label: Features
     title: |
-      Features
+      Funktsioonid
     text: |
       - Alati 100% tasuta tarkvara. Ei mingeid reklaame ega tasusid.
       - Kasutusvalmis platvorm – logi lihtsalt sisse ja hakka tööle.
@@ -114,8 +114,8 @@ blocks:
       - Ühildub e-ID-ga – sisselogimiseks, hääletamiseks ja digiallkirjade andmiseks.
       { .bullet }
     button1st:
-      title: Full list of features
-      url: '/product/features/'
+      title: Täielik funktsioonide loend
+      url: '/toode/funktsioonid/'
   #options:
   #class:
   #- order-5
