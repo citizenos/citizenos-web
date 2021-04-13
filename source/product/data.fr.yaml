@@ -1,11 +1,11 @@
 ---
 path: /produit
 title: Produit
-description: Free co-decision platform - co-create, discuss and vote in a group. Use in member-led organisations to make better decisions together.
+description: 'Plateforme libre de codécision : cocréez, discutez et votez dans un groupe. Utilisez dans les organisations dirigées par ses membres pour prendre de meilleures décisions ensemble.'
 keywords:
-  - decisionmaking in a group
-  - voting tool
-  - group decisions
+  - prise de décision dans un groupe
+  - outil de vote
+  - décisions de groupe
 image: /assets/images/meta/product.jpg
 blocks:
   decision-img:
@@ -97,7 +97,7 @@ blocks:
       background: '#F7F7F7'
     #label: Features
     title: |
-      Features
+      Fonctionnalités
     text: |
       - 100 % gratuit à utiliser, pour toujours. Pas de publicité, pas de frais.
       - Une plateforme prête à l'emploi - connectez-vous simplement et commencez.
@@ -114,8 +114,8 @@ blocks:
       - Compatible e-ID - pour les connexions, votes et signatures numériques.
       { .bullet }
     button1st:
-      title: Full list of features
-      url: '/product/features/'
+      title: Liste complète des fonctionnalités
+      url: '/fr/produit/fonctionnalites'
   #options:
   #class:
   #- order-5
