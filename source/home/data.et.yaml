@@ -76,8 +76,8 @@ blocks:
     text: |
       Usume tugevamasse demokraatiasse, mille puhul on kõigil kodanikel õigus neid mõjutavates otsustes sõna sekka öelda.
     button1st:
-      title: Our Projects
-      url: /projects/
+      title: Meie projektid
+      url: /projektid/
     button2nd:
   #title: Use product - it’s free!
   #url: https://app.citizenos.com
