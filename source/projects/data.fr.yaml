@@ -1,11 +1,11 @@
 ---
-path: /projects
-title: Projects
-description: We run educational and fun projects, in collaboration with universities and organisations from around the world. See which one suits you!
+path: /projets
+title: Projets
+description: Nous menons des projets éducatifs et amusants, en collaboration avec des universités et des organisations du monde entier. Trouvez le vôtre !
 keywords:
-  - youth leadership
-  - e-democracy course
-  - participation tools
+  - leadership des jeunes
+  - cours de e-démocratie
+  - outils de participation
 image: /assets/images/meta/vision.jpg
 blocks:
   start-img:
@@ -31,14 +31,14 @@ blocks:
       background-position: 10% 15%, 90% 90%
       background-size: 42px 42px, 102px 102px
     title: |
-      Collaborating for change.
+      Collaboration pour le changement.
     text: |
-      We join forces with organisations worldwide to work on innovative e-democracy and participation projects.
+      Nous unissons nos forces avec les organisations du monde entier pour travailler sur des projets innovants de e-démocratie et de participation.
 
-      - [Digital Transformation for Civic Engagement](#individual)
+      - [Transformation numérique pour l'engagement civique](#individual)
       - [EuroChangemakers](#awareness)
-      - [Civic Hacktivist Community](#individual2)
-      - [Participatory Youth Leadership Network](#awareness2)
+      - [Communauté civique Hacktiviste](#individual2)
+      - [Réseau participatif de leadership jeunes](#awareness2)
       {.arrow }
   individual-img:
     class:
@@ -48,17 +48,17 @@ blocks:
       background-position: 10% 10%, 90% 10%
       background-size: 45px 45px, 350px 350px
     text: |
-      ![An active citizen who believes that her participation in political issues has an impact.](/assets/images/vision-individual.png){ .img-fluid }
+      ![Une citoyenne active qui croit que sa participation aux questions politiques a un impact.](/assets/images/vision-individual.png){ .img-fluid }
   individual:
     class:
       - order-3
     title: |
-      Digital Transformation for Civic Engagement.
+      Transformation numérique pour l'engagement civique.
     text: |
-      Our new Erasmus+ youth exchange programme will train up Europe’s next generation of leaders in civic engagement project design and participatory leadership, through engaging, hands-on learning methods.
+      Notre nouveau programme d’échange de jeunes Erasmus+ formera la prochaine génération de leaders européens en matière de conception de projets d’engagement civique et de leadership participatif, grâce à des méthodes d’apprentissage pratiques et engageantes.
     button1st:
-      title: Learn more
-      url: /erasmus/
+      title: En savoir plus
+      url: fr/erasmus/
   awareness:
     class:
       - order-4
@@ -71,9 +71,9 @@ blocks:
     title: |
       EuroChangemakers
     text: |
-      This 18-month project responds to the current democratic participation challenges faced during the COVID-19 pandemic through civic hackathons, a new platform, a youth network and a policy White Paper.
+      Ce projet de 18 mois répond aux défis actuels de participation démocratique rencontrés pendant la pandémie COVID-19 par le biais de hackathons civiques, une nouvelle plateforme, un réseau de jeunes et un livre blanc de politiques.
     button1st:
-      title: Learn more
+      title: En savoir plus
       url: https://eurocm.geyc.ro/
       target: _blank
   individual2-img:
@@ -84,17 +84,17 @@ blocks:
       background-position: 10% 10%, 90% 10%
       background-size: 45px 45px, 350px 350px
     text: |
-      ![An image of a lit light bulb with four smaller red bubbles surrounding it in a circle with arrows pointing from one to the next bubble.](/assets/images/research-start.png){ .img-fluid }
+      ![Image d'une ampoule électrique allumée avec quatre petites bulles rouges l'entourant en cercle, avec des flèches pointant d'une bulle à l'autre.](/assets/images/research-start.png){ .img-fluid }
   individual2:
     class:
       - order-7
     title: |
-      Civic Hacktivist Community.
+      Communauté civique hacktiviste.
     text: |
-      In 2019, we launched this international community for the exchange of knowledge and ideas about e-democracy and collaborative decision-making.
+      En 2019, nous avons lancé cette communauté internationale pour l’échange de connaissances et d’idées sur la démocratie numérique et la prise de décision collaborative.
     button1st:
-      title: Learn more
-      url: /community/
+      title: En savoir plus
+      url: /fr/communaute/
   awarness2-img:
     class:
       - order-9
@@ -103,7 +103,7 @@ blocks:
       background-position: 10% 10%, 90% 10%
       background-size: 45px 45px, 350px 350px
     text: |
-      ![A woman's upper body on the left, the woman staring at a sceen with different people in many windows.](/assets/images/projects-pyln.jpg){ .img-fluid }
+      ![Le haut du corps d'une femme sur la gauche, la femme fixant un écran avec différentes personnes dans plusieurs fenêtres.](/assets/images/projects-pyln.jpg){ .img-fluid }
   awareness2:
     class:
       - order-8
@@ -114,12 +114,12 @@ blocks:
     #background-position: 10% 10%
     #label: Raising awareness
     title: |
-      Participatory Youth Leadership Network.
+      Réseau de leadership participatif des jeunes.
     text: |
-      Citizen OS’s Indian chapter, PYLN, collaborates with Indian organisations and hacktivists who share our vision of furthering participatory leadership.
+      Le chapitre indien de Citizen OS, PYLN, collabore avec des organisations indiennes et des hacktivistes qui partagent notre vision de la promotion du leadership participatif.
 
-      PYLN supports and co-creates action-based research such as campaigns, petitions, bottom-up decision making and grassroots initiatives.
+      PYLN soutient et cocrée des recherches axées sur l’action telles que des campagnes, des pétitions, des prises de décision ascendantes et des initiatives de base.
     button1st:
-      title: Learn more
+      title: En savoir plus
       url: /pyln/
       target: _blank
