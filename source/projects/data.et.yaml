@@ -58,7 +58,7 @@ blocks:
       Meie uus Erasmus+ noortehvahetusprogramm koolitab välja Euroopa kodanike kaasamise projektide kujundamise ja osalusdemokraatia valdkonna liidreid, kasutades kaasavaid ja praktikapõhiseid õppemeetodeid.
     button1st:
       title: Vaata lisa
-      url: /erasmus/
+      url: /ee/erasmus/
   awareness:
     class:
       - order-4
@@ -94,7 +94,7 @@ blocks:
       2019. aastal käivitasime selle rahvusvahelise kogukonna eesmärgiga jagada teadmisi ja ideid e-demokraatia ning koostööpõhise otsustelangetamise teemadel.
     button1st:
       title: Vaata lisa
-      url: /kogukond/
+      url: /community/
   awarness2-img:
     class:
       - order-9
