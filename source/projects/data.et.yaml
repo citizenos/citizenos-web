@@ -94,7 +94,7 @@ blocks:
       2019. aastal käivitasime selle rahvusvahelise kogukonna eesmärgiga jagada teadmisi ja ideid e-demokraatia ning koostööpõhise otsustelangetamise teemadel.
     button1st:
       title: Vaata lisa
-      url: /community/
+      url: /ee/kogukond/
   awarness2-img:
     class:
       - order-9
