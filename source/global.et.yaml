@@ -7,7 +7,7 @@ navigation:
     class: toode
   vision:
     title: Projektid
-    url: /projektid/
+    url: /ee/projektid/
     class: projektid
   #community:
   #title: Community
