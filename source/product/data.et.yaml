@@ -115,7 +115,7 @@ blocks:
       { .bullet }
     button1st:
       title: Täielik funktsioonide loend
-      url: '/product/features/'
+      url: '/ee/toode/funktsioonid/'
   #options:
   #class:
   #- order-5
