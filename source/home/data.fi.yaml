@@ -76,8 +76,8 @@ blocks:
     text: |
       Uskomme entistä syvempään demokratiaan, jossa kaikilla kansalaisilla on sananvaltaa heitä koskevissa päätöksissä.
     button1st:
-      title: Our Projects
-      url: /projects/
+      title: Meidän projektimme
+      url: /fi/projektit/
     button2nd:
   #title: Use product - it’s free!
   #url: https://app.citizenos.com
