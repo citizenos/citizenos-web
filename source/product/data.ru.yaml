@@ -1,11 +1,11 @@
 ---
 path: /produkt
 title: Продукт
-description: Free co-decision platform - co-create, discuss and vote in a group. Use in member-led organisations to make better decisions together.
+description: 'Бесплатная платформа для совместного принятия решений: их совместное создание, обсуждение и голосование в группе. Используйте в организациях с коллективным управлением, чтобы принимать лучшие решения вместе.'
 keywords:
-  - decisionmaking in a group
-  - voting tool
-  - group decisions
+  - групповое принятие решений
+  - инструмент голосования
+  - групповые решения
 image: /assets/images/meta/product.jpg
 blocks:
   decision-img:
@@ -97,7 +97,7 @@ blocks:
       background: '#F7F7F7'
     #label: Features
     title: |
-      Features
+      Особенности
     text: |
       - Платформа полностью бесплатна, без рекламы и без комиссий.
       - Готовая платформа. Просто войдите в систему и начинайте работу.
@@ -114,7 +114,7 @@ blocks:
       - Совместимость с электронным ID для входа в систему, голосования и использования цифровых подписей.
       { .bullet }
     button1st:
-      title: Full list of features
+      title: Все особенности
       url: '/product/features/'
   #options:
   #class:
