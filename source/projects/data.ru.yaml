@@ -1,11 +1,11 @@
 ---
-path: /projects
-title: Projects
-description: We run educational and fun projects, in collaboration with universities and organisations from around the world. See which one suits you!
+path: /proyekty
+title: Проекты
+description: Мы проводим образовательные и развлекательные проекты в сотрудничестве с университетами и организациями со всего мира. Выберите тот, который подойдет именно вам!
 keywords:
-  - youth leadership
-  - e-democracy course
-  - participation tools
+  - молодежное лидерство
+  - курс электронной демократии
+  - инструменты участия
 image: /assets/images/meta/vision.jpg
 blocks:
   start-img:
@@ -31,14 +31,14 @@ blocks:
       background-position: 10% 15%, 90% 90%
       background-size: 42px 42px, 102px 102px
     title: |
-      Collaborating for change.
+      Сотрудничество ради изменений.
     text: |
-      We join forces with organisations worldwide to work on innovative e-democracy and participation projects.
+      Вместе с организациями по всему миру мы работаем над инновационными общественными проектами по электронной демократии.
 
-      - [Digital Transformation for Civic Engagement](#individual)
+      - [Цифровое преобразование гражданской активности](#individual)
       - [EuroChangemakers](#awareness)
-      - [Civic Hacktivist Community](#individual2)
-      - [Participatory Youth Leadership Network](#awareness2)
+      - [Гражданское сообщество хактивистов](#individual2)
+      - [Сеть коллективного молодежного лидерства](#awareness2)
       {.arrow }
   individual-img:
     class:
@@ -48,17 +48,17 @@ blocks:
       background-position: 10% 10%, 90% 10%
       background-size: 45px 45px, 350px 350px
     text: |
-      ![An active citizen who believes that her participation in political issues has an impact.](/assets/images/vision-individual.png){ .img-fluid }
+      ![Активная гражданка, которая верит, что ее участие в политических проблемах имеет влияние.](/assets/images/vision-individual.png){ .img-fluid }
   individual:
     class:
       - order-3
     title: |
-      Digital Transformation for Civic Engagement.
+      Цифровое преобразование гражданской активности.
     text: |
-      Our new Erasmus+ youth exchange programme will train up Europe’s next generation of leaders in civic engagement project design and participatory leadership, through engaging, hands-on learning methods.
+      Наша новая программа обмена молодежью Erasmus+ подготовит новое поколение европейских лидеров по вопросам разработки гражданских проектов и совместного руководства с помощью практических методов обучения.
     button1st:
-      title: Learn more
-      url: /erasmus/
+      title: Подробнее
+      url: /ru/erasmus/
   awareness:
     class:
       - order-4
@@ -71,9 +71,9 @@ blocks:
     title: |
       EuroChangemakers
     text: |
-      This 18-month project responds to the current democratic participation challenges faced during the COVID-19 pandemic through civic hackathons, a new platform, a youth network and a policy White Paper.
+      Этот 18-месячный проект отвечает на текущие проблемы демократического участия, с которыми пришлось столкнуться во время пандемии COVID-19, посредством гражданских хакатонов, новой платформы, молодежной сети и политики Белой книги.
     button1st:
-      title: Learn more
+      title: Подробнее
       url: https://eurocm.geyc.ro/
       target: _blank
   individual2-img:
@@ -84,17 +84,17 @@ blocks:
       background-position: 10% 10%, 90% 10%
       background-size: 45px 45px, 350px 350px
     text: |
-      ![An image of a lit light bulb with four smaller red bubbles surrounding it in a circle with arrows pointing from one to the next bubble.](/assets/images/research-start.png){ .img-fluid }
+      ![Изображение горящей лампочки с четырьмя маленькими красными пузырьками вокруг нее. Пузырьки образуют окружность с помощью стрелок, которые указывают от одного пузырька на другой.(/assets/images/research-start.png){ .img-fluid }
   individual2:
     class:
       - order-7
     title: |
-      Civic Hacktivist Community.
+      Гражданское сообщество хактивистов.
     text: |
-      In 2019, we launched this international community for the exchange of knowledge and ideas about e-democracy and collaborative decision-making.
+      В 2019 году мы объявили об открытии этого международного сообщества по обмену знаниями и идеями об электронной демократии и совместном принятии решений.
     button1st:
-      title: Learn more
-      url: /community/
+      title: Подробнее
+      url: /ru/soobshchestvo/
   awarness2-img:
     class:
       - order-9
@@ -103,7 +103,7 @@ blocks:
       background-position: 10% 10%, 90% 10%
       background-size: 45px 45px, 350px 350px
     text: |
-      ![A woman's upper body on the left, the woman staring at a sceen with different people in many windows.](/assets/images/projects-pyln.jpg){ .img-fluid }
+      ![Портрет женщины, которая смотрит на большое количество экранов с разными людьми.](/assets/images/projects-pyln.jpg){ .img-fluid }
   awareness2:
     class:
       - order-8
@@ -114,12 +114,12 @@ blocks:
     #background-position: 10% 10%
     #label: Raising awareness
     title: |
-      Participatory Youth Leadership Network.
+      Сеть коллективного молодежного лидерства.
     text: |
-      Citizen OS’s Indian chapter, PYLN, collaborates with Indian organisations and hacktivists who share our vision of furthering participatory leadership.
+      Индийское отделение Citizen OS, PYLN, сотрудничает с индийскими организациями и хактивистами, которые разделяют наше видение дальнейшего развития сферы коллективного лидерства.
 
-      PYLN supports and co-creates action-based research such as campaigns, petitions, bottom-up decision making and grassroots initiatives.
+      PYLN поддерживает и помогает проводить исследования на основе конкретных действий, таких как кампании, петиции, принятие решений «снизу вверх» и инициативы на низовом уровне.
     button1st:
-      title: Learn more
+      title: Подробнее
       url: /pyln/
       target: _blank
