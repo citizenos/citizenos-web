@@ -1,11 +1,11 @@
 ---
 path: /tuote
 title: Tuote
-description: Free co-decision platform - co-create, discuss and vote in a group. Use in member-led organisations to make better decisions together.
+description: Vapaa yhteispäätösalusta – luo, keskustele ja äänestä ryhmässä yhteistyössä. Käytä jäsenjohtoisissa organisaatioissa parempien päätösten tekemiseen yhdessä.
 keywords:
-  - decisionmaking in a group
-  - voting tool
-  - group decisions
+  - päätöksenteko ryhmässä
+  - äänestystyökalu
+  - ryhmäpäätökset
 image: /assets/images/meta/product.jpg
 blocks:
   decision-img:
@@ -97,7 +97,7 @@ blocks:
       background: '#F7F7F7'
     #label: Features
     title: |
-      Features
+      Ominaisuudet
     text: |
       - Käyttä on aina täysin maksutonta. Ei mainoksia, ei veloituksia.
       - Käyttövalmis alusta – kirjaudu vain sisään ja aloita.
@@ -114,8 +114,8 @@ blocks:
       - Käytettävissä e-ID-toiminnolla – sisäänkirjautuminen, äänestäminen ja sähköinen allekirjoitus.
       { .bullet }
     button1st:
-      title: Full list of features
-      url: '/product/features/'
+      title: Täysi luettelo ominaisuuksista
+      url: '/fi/tuote/ominaisuudet/'
   #options:
   #class:
   #- order-5
