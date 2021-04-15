@@ -76,7 +76,7 @@ blocks:
     text: |
       Мы верим в настоящую демократию,  где все граждане имеют право голоса в важных для себя вопросах.
     button1st:
-      title: Our Projects
+      title: Наши проекты
       url: /projects/
     button2nd:
   #title: Use product - it’s free!
