@@ -6,13 +6,13 @@ navigation:
     url: /ru/produkt/
     class: продукт
   vision:
-    title: Концепция
-    url: /ru/koncepciya/
-    class: vision
-  community:
-    title: Сообщество
-    url: /ru/soobshchestvo/
-    class: community
+    title: Проекты
+    url: /ru/proyekty/
+    class: проекты
+  #community:
+  #title: Community
+  #url: /community/
+  #class: community
   blog:
     title: Новости
     url: /ru/novosti/

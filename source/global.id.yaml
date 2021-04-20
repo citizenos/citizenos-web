@@ -6,13 +6,13 @@ navigation:
     url: /id/produk/
     class: produk
   vision:
-    title: Visi
-    url: /id/visi/
-    class: vision
-  community:
-    title: Masyarakat
-    url: /id/masyarakat/
-    class: community
+    title: Proyek
+    url: /id/proyek/
+    class: proyek
+  #community:
+  #title: Community
+  #url: /community/
+  #class: community
   blog:
     title: Berita
     url: /id/berita/

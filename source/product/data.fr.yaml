@@ -1,11 +1,11 @@
 ---
 path: /produit
 title: Produit
-description: Logiciel de démocratie numérique libre pour la co-création, la discussion et le vote. Commencez votre propre initiative citoyenne, votre site de pétition ou votre sujet de discussion aujourd'hui !
+description: 'Plateforme libre de codécision : cocréez, discutez et votez dans un groupe. Utilisez dans les organisations dirigées par ses membres pour prendre de meilleures décisions ensemble.'
 keywords:
-  - initiatives citoyennes
-  - pétition gratuite
-  - prise de décisions collaborative
+  - prise de décision dans un groupe
+  - outil de vote
+  - décisions de groupe
 image: /assets/images/meta/product.jpg
 blocks:
   decision-img:
@@ -95,9 +95,9 @@ blocks:
       - order-4
     style:
       background: '#F7F7F7'
-    label: Fonctionnalités
+    #label: Features
     title: |
-      Pourquoi utiliser Citizen OS ?
+      Fonctionnalités
     text: |
       - 100 % gratuit à utiliser, pour toujours. Pas de publicité, pas de frais.
       - Une plateforme prête à l'emploi - connectez-vous simplement et commencez.
@@ -113,6 +113,9 @@ blocks:
       - Fonctionnalités de vote avancées telles que les mini-votes et la délégation.
       - Compatible e-ID - pour les connexions, votes et signatures numériques.
       { .bullet }
+    button1st:
+      title: Liste complète des fonctionnalités
+      url: '/fr/produit/fonctionnalites'
   #options:
   #class:
   #- order-5

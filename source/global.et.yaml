@@ -6,13 +6,13 @@ navigation:
     url: /et/toode/
     class: toode
   vision:
-    title: Visioon
-    url: /et/visioon/
-    class: vision
-  community:
-    title: Kogukond
-    url: /et/kogukond/
-    class: community
+    title: Projektid
+    url: /ee/projektid/
+    class: projektid
+  #community:
+  #title: Community
+  #url: /community/
+  #class: community
   blog:
     title: Uudised
     url: /et/uudised/

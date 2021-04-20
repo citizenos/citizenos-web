@@ -76,8 +76,8 @@ blocks:
     text: |
       We believe in a deeper democracy, where all citizens have a say in decisions that affect them.
     button1st:
-      title: Our vision
-      url: /vision/
+      title: Our Projects
+      url: /projects/
     button2nd:
   #title: Use product - it’s free!
   #url: https://app.citizenos.com

@@ -6,13 +6,13 @@ navigation:
     url: /fr/produit/
     class: produit
   vision:
-    title: Vision
-    url: /fr/vision/
-    class: vision
-  community:
-    title: Communauté
-    url: /fr/communaute/
-    class: community
+    title: Projets
+    url: /fr/projets/
+    class: projets
+  #community:
+  #title: Community
+  #url: /community/
+  #class: community
   blog:
     title: Actualités
     url: /fr/actualites/

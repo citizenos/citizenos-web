@@ -1,11 +1,11 @@
 ---
 path: /tuote
 title: Tuote
-description: Ilmainen verkkodemokratiaohjelmisto yhteiseen luomistyöhön, keskusteluun ja äänestämiseen. Käynnistä oma kansalaisaloitteesi, vetoomussivustosi tai keskustelunaiheesi tänään!
+description: Vapaa yhteispäätösalusta – luo, keskustele ja äänestä ryhmässä yhteistyössä. Käytä jäsenjohtoisissa organisaatioissa parempien päätösten tekemiseen yhdessä.
 keywords:
-  - kansalaisaloitteet
-  - ilmainen vetoomus
-  - yhteistyöhön perustuva päätöksenteko
+  - päätöksenteko ryhmässä
+  - äänestystyökalu
+  - ryhmäpäätökset
 image: /assets/images/meta/product.jpg
 blocks:
   decision-img:
@@ -95,9 +95,9 @@ blocks:
       - order-4
     style:
       background: '#F7F7F7'
-    label: Ominaisuudet
+    #label: Features
     title: |
-      Miksi Citizen OS:ää kannattaa käyttää?
+      Ominaisuudet
     text: |
       - Käyttä on aina täysin maksutonta. Ei mainoksia, ei veloituksia.
       - Käyttövalmis alusta – kirjaudu vain sisään ja aloita.
@@ -113,6 +113,9 @@ blocks:
       - Lisä-äänestysominaisuuksia, kuten miniäänet ja delegointi.
       - Käytettävissä e-ID-toiminnolla – sisäänkirjautuminen, äänestäminen ja sähköinen allekirjoitus.
       { .bullet }
+    button1st:
+      title: Täysi luettelo ominaisuuksista
+      url: '/fi/tuote/ominaisuudet/'
   #options:
   #class:
   #- order-5

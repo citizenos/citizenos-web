@@ -76,8 +76,8 @@ blocks:
     text: |
       Nous croyons en une démocratie plus profonde, où tous les citoyens ont leur mot à dire dans les décisions qui les concernent.
     button1st:
-      title: Notre vision
-      url: /fr/vision/
+      title: Nos projets
+      url: /fr/projets/
     button2nd:
   #title: Use product - it’s free!
   #url: https://app.citizenos.com

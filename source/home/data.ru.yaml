@@ -76,8 +76,8 @@ blocks:
     text: |
       Мы верим в настоящую демократию,  где все граждане имеют право голоса в важных для себя вопросах.
     button1st:
-      title: Наша концепция
-      url: /ru/koncepciya/
+      title: Наши проекты
+      url: /ru/proyekty/
     button2nd:
   #title: Use product - it’s free!
   #url: https://app.citizenos.com

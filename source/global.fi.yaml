@@ -6,13 +6,13 @@ navigation:
     url: /fi/product/
     class: tuote
   vision:
-    title: Visio
-    url: /fi/visio/
-    class: vision
-  community:
-    title: Yhteisö
-    url: /fi/yhteiso/
-    class: community
+    title: Projektit
+    url: /fi/projektit/
+    class: projektit
+  #community:
+  #title: Community
+  #url: /community/
+  #class: community
   blog:
     title: Uutiset
     url: /fi/uutiset/
