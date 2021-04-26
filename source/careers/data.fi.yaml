@@ -8,14 +8,21 @@ keywords:
   - kansalaisteknologia
 image: /assets/images/meta/careers.jpg
 text: |
-  ## Miksi liittyisit tiimiimme?
+  ## Why join the team?
 
-  Citizen OS Foundation pyrkii ratkaisemaan demokratian kriisejä luomalla verkkoratkaisuja, jotka parantavat yhteistyöhön perustuvan päätöksenteon laatua. Etsimme itsenäisiä ja motivoituneita tiimipelaajia avuksemme tämän vision toteuttamiseen.
+  Citizen OS Foundation aspires to solve the democracy crises by creating online solutions that improve the quality of collaborative decision-making. We are looking for independent and motivated team players to help us fulfil that vision.
 
-  Meillä on teknologia-startupin henki ja kansalaisjärjestön yhteiskunnallinen päämäärä.
+  We have the spirit of a tech startup and a social purpose of an NGO.
 
-  Jos visiomme inspiroi sinua, ota rohkeasti [yhteyttä henkilöstöosastoomme](mailto:ly@citizenos.com) ja keskustele mahdollisuuksistasi.
+  If our vision inspires you, please [email our Human Resources](mailto:ly@citizenos.com) to discuss potential opportunities.
 
-  ## Avoimet työpaikat
-
-  Meillä ei tällä hetkellä ole avoimia työpaikkoja.
+  ## Vacancies
+#We do not currently have any vacancies.
+#vacancies:
+#-
+#title: Software Developer
+#url: /careers/software-developer/
+vacancies:
+  - 
+    title: Volunteer for Participatory Youth Leadership Network
+    url: /careers/volunteer
