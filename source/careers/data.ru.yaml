@@ -8,14 +8,21 @@ keywords:
   - гражданские технологии
 image: /assets/images/meta/careers.jpg
 text: |
-  ## Зачем вступать в нашу команду?
+  ## Why join the team?
 
-  Цель фонда Citizen OS — разрешить кризис демократии путем создания онлайн-платформ, позволяющих принимать решения совместно. Мы ищем независимых и мотивированных командных игроков, которые помогут нам реализовать нашу миссию.
+  Citizen OS Foundation aspires to solve the democracy crises by creating online solutions that improve the quality of collaborative decision-making. We are looking for independent and motivated team players to help us fulfil that vision.
 
-  Мы — технологический стартап и по совместительству НПО, преследующая общественно полезные цели.
+  We have the spirit of a tech startup and a social purpose of an NGO.
 
-  Если вас вдохновляют наши идеи, [напишите в наш HR-отдел](mailto:ly@citizenos.com), чтобы обсудить потенциальные возможности.
+  If our vision inspires you, please [email our Human Resources](mailto:ly@citizenos.com) to discuss potential opportunities.
 
-  ## Вакансии
-
-  Пока нет активных вакансий.
+  ## Vacancies
+#We do not currently have any vacancies.
+#vacancies:
+#-
+#title: Software Developer
+#url: /careers/software-developer/
+vacancies:
+  - 
+    title: Volunteer for Participatory Youth Leadership Network
+    url: /careers/volunteer
