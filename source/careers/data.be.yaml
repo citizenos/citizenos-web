@@ -17,5 +17,12 @@ text: |
   If our vision inspires you, please [email our Human Resources](mailto:ly@citizenos.com) to discuss potential opportunities.
 
   ## Vacancies
-
-  We do not currently have any vacancies.
+#We do not currently have any vacancies.
+#vacancies:
+#-
+#title: Software Developer
+#url: /careers/software-developer/
+vacancies:
+  - 
+    title: Volunteer for Participatory Youth Leadership Network
+    url: /careers/volunteer
