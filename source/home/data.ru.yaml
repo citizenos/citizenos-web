@@ -134,3 +134,28 @@ blocks:
       - [![](/assets/images/in-media/wcd.png)](https://www.youtube.com/watch?v=vqchbMJc9q8&fbclid=IwAR1v8AVjrTCAqZC_GacnoQLWZvyl4XMka_hYfxDSdtx9Q3syUsE8pZnAVxE)
       - [![](/assets/images/in-media/e-estonia.png)](https://e-estonia.com/e-talks-citizen-os-e-democracy-platform-for-the-citizens-of-the-world/)
       - [![](/assets/images/in-media/rohelised.png)](https://erakond.ee/eestimaa-rohelised/uldkoosolek-oli-edukas-citizen-os-kaasabil-valiti-kaks-juhti-ja-teised-kogud/#)
+  meet:
+    class:
+      - order-8
+      - col-sm-10
+      - my-5
+    style:
+      background-image: url(/assets/images/bubble-dots.png)
+      background-position: 80% 10%
+      background-size: 350px 350px
+    label: A word from the team
+    title: |
+      Where you can virtually meet us
+    blocks:
+      tictec:
+        title: |
+          Civic Tech Conference by Swiss Federation of Youth Parliaments.
+        text: |
+          Our CEO Margo Loor is presenting the keynote on the benefits of civic tech tools for municipalities.
+
+          Read more about the conference [here.](https://www.dsj.ch/veranstaltungen/fachveranstaltungen/civic-tech-konferenz/)
+        image: /assets/images/DSJ_logo.png
+        style:
+          background: '#FFFFFF'
+        date: 04.05.2021
+        location: Online
