@@ -60,7 +60,7 @@ blocks:
       background-position: 30% 25%, 20% 75%
       background-size: 360px 360px, 100px 100px
     text: |
-      ![Citizen OS-i esimene COSCON konverents, mis tõi kokku erinevate riikide e-demokraatiat uurivad teadlased.](/assets/images/frontpage-start.png){ .img-fluid }
+      ![People sitting in circles, discussing.](/assets/images/vision-start.png){ .img-fluid }
   democracy:
     class:
       - order-4
@@ -82,32 +82,32 @@ blocks:
   #title: Use product - it’s free!
   #url: https://app.citizenos.com
   #target: _blank
-  research-img:
-    class:
-      - order-5
-    style:
-      background-image: url(/assets/images/bubble-turquoise.svg)
-      background-position: 85% 85%
-      background-size: 75px 75px
-    text: |
-      ![Osalusdemokraatiafestivalil kõnelev valge särgiga mees hoiab mikrofoni.](/assets/images/frontpage-lets-educate.png){ .img-fluid }
-  research:
-    class:
-      - order-5
-      - col-sm-4
-      - offset-sm-1
-    style:
-      background-image: url(/assets/images/bubble-dots.png)
-      background-position: 30% 25%
-      background-size: 360px 360px
-    #label: Let’s Educate
-    title: |
-      Innovaatorite kogukond.
-    text: |
-      Haldame ülemaailmset e-osalusdemokraatia entusiastide kogukonda, millega on oodatud liituma kõik inimesed.
-    button1st:
-      title: Vaata lisa
-      url: /et/kogukond/
+  #research-img:
+  #class:
+  #- order-5
+  #style:
+  #background-image: url(/assets/images/bubble-#turquoise.svg)
+  #background-position: 85% 85%
+  #background-size: 75px 75px
+  #text: |
+  #![Man in a white shirt holds a microphone while speaking at a participatory democracy festival.](/assets/images/frontpage-lets-educate.png){ .img-fluid }
+  #research:
+  #class:
+  #- order-5
+  #- col-sm-4
+  #- offset-sm-1
+  #style:
+  #background-image: url(/assets/images/bubble-dots.png)
+  #background-position: 30% 25%
+  #background-size: 360px 360px
+  ## label: Let’s Educate
+  #title: |
+  #A community of innovators.
+  #text: |
+  #We run a global community for participatory e-democracy enthusiasts, and everyone’s welcome.
+  #button1st:
+  #title: Learn more
+  #url: /community/
   news:
     class:
       - order-6
