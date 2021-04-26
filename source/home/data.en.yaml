@@ -72,7 +72,7 @@ blocks:
             background-position: 30% 25%, 20% 75%
             background-size: 360px 360px, 100px 100px
         text: |
-            ![Citizen OS’s first COSCON conference, which brought together e-democracy researchers from around the world.](/assets/images/frontpage-start.png){ .img-fluid }
+            ![People sitting in circles, discussing.](/assets/images/vision-start.png){ .img-fluid }
 
     democracy:
         class:
@@ -97,33 +97,33 @@ blocks:
             # target: _blank
 
 
-    research-img:
-        class:
-            - order-5
-        style:
-            background-image: url(/assets/images/bubble-turquoise.svg)
-            background-position: 85% 85%
-            background-size: 75px 75px
-        text: |
-            ![Man in a white shirt holds a microphone while speaking at a participatory democracy festival.](/assets/images/frontpage-lets-educate.png){ .img-fluid }
-
-    research:
-        class:
-            - order-5
-            - col-sm-4
-            - offset-sm-1
-        style:
-            background-image: url(/assets/images/bubble-dots.png)
-            background-position: 30% 25%
-            background-size: 360px 360px
-        # label: Let’s Educate
-        title: |
-            A community of innovators.
-        text: |
-            We run a global community for participatory e-democracy enthusiasts, and everyone’s welcome.
-        button1st:
-            title: Learn more
-            url: /community/
+#    research-img:
+#        class:
+#            - order-5
+#        style:
+#            background-image: url(/assets/images/bubble-#turquoise.svg)
+#            background-position: 85% 85%
+#            background-size: 75px 75px
+#        text: |
+#            ![Man in a white shirt holds a microphone while speaking at a participatory democracy festival.](/assets/images/frontpage-lets-educate.png){ .img-fluid }
+#
+#    research:
+#        class:
+#            - order-5
+#            - col-sm-4
+#            - offset-sm-1
+#        style:
+#            background-image: url(/assets/images/bubble-dots.png)
+#            background-position: 30% 25%
+#            background-size: 360px 360px
+#        # label: Let’s Educate
+#        title: |
+#            A community of innovators.
+#        text: |
+#            We run a global community for participatory e-democracy enthusiasts, and everyone’s welcome.
+#        button1st:
+#            title: Learn more
+#            url: /community/
 
 
     news:
