@@ -151,7 +151,7 @@ blocks:
       ![Une capture d'écran de la plateforme Citizen OS utilisée pour la démocratie participative.](/assets/images/product-case-study-2.jpg){ .img-fluid .box-shadow }
   case-study-2:
     class:
-      - order-7
+      - order-5
     style:
       background-image: url(/assets/images/bubble-blue.svg)
       background-position: 80% 5%
@@ -163,13 +163,13 @@ blocks:
       Le code open source de Citizen OS a été partiellement utilisé pour mettre en place le site des initiatives citoyennes [Rahvaalgatus.ee](https://www. ahvaalgatus.ee) Des pétitions peuvent y être lancées, signées et soumises directement au parlement estonien.
   case-study-img:
     class:
-      - order-8
+      - order-7
       - order-sm-9
     text: |
       ![De nombreux Indonésiens sourient, portant des t-shirts de la Journée mondiale du nettoyage, marchant sur une plage, transportant des sacs remplis d'ordures en plastique.](/assets/images/product-case-study.jpeg){ .img-fluid .box-shadow }
   case-study:
     class:
-      - order-9
+      - order-8
       - order-sm-8
     style:
       background-image: url(/assets/images/bubble-orange.svg), url(/assets/images/bubble-yellow.svg)
