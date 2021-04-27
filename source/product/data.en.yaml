@@ -165,7 +165,7 @@ blocks:
 
     case-study-2:
         class:
-            - order-7
+            - order-5
         style:
             background-image: url(/assets/images/bubble-blue.svg)
             background-position: 80% 5%
@@ -179,14 +179,14 @@ blocks:
 
     case-study-img:
         class:
-            - order-8
+            - order-7
             - order-sm-9
         text: |
             ![Many indonesians smiling, wearing World Cleanup Day shirts, walking on a beach, carrying bags full of plastic garbage.](/assets/images/product-case-study.jpeg){ .img-fluid .box-shadow }
 
     case-study:
         class:
-            - order-9
+            - order-8
             - order-sm-8
         style:
             background-image: url(/assets/images/bubble-orange.svg), url(/assets/images/bubble-yellow.svg)
