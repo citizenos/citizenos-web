@@ -151,7 +151,7 @@ blocks:
       ![Скриншот с платформы Citizen OS, используемой для демократии участия.](/assets/images/product-case-study-2.jpg){ .img-fluid .box-shadow }
   case-study-2:
     class:
-      - order-7
+      - order-5
     style:
       background-image: url(/assets/images/bubble-blue.svg)
       background-position: 80% 5%
@@ -163,13 +163,13 @@ blocks:
       Открытый исходный код платформы Citizen OS частично использовался для сайта гражданских инициатив [Rahvaalgatus.ee](https://www.rahvaalgatus.ee). На этом сайте можно разместить петицию, собрать подписи и сразу отправить ее в парламент Эстонии.
   case-study-img:
     class:
-      - order-8
+      - order-7
       - order-sm-9
     text: |
       ![Индонезийцы улыбаются, надевают футболки Всемирного дня чистоты и идут на пляж собирать пластиковый мусор.](/assets/images/product-case-study.jpeg){ .img-fluid .box-shadow }
   case-study:
     class:
-      - order-9
+      - order-8
       - order-sm-8
     style:
       background-image: url(/assets/images/bubble-orange.svg), url(/assets/images/bubble-yellow.svg)
