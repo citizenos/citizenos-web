@@ -92,7 +92,7 @@ blocks:
             - order-3
         style:
             background-color: '#F7F7F7'
-            background-image: url(/assets/images/bubble-orange.svg), url(/assets/images/bubble-dots.png)
+#            background-image: url(/assets/images/bubble-orange.svg), url(/assets/images/bubble-dots.png)
             background-position: 100% 15%, 90% 15%
             background-size: 165px 165px, 350px 350px
         text: |
@@ -107,9 +107,9 @@ blocks:
         title: |
             Features
         text: |
-            - 100% free to use, always. No ads, no charges.
+            - Free to use, [please email us](mailto:support@citizenos.com) for onboarding and support.
             - A ready-made platform – just log in and get started.
-            - Already in 14 languages and easy to translate.
+            - Already in 15 languages and easy to translate.
             { .bullet }
 
             - Pro and con discussions for balanced debates.
@@ -119,7 +119,7 @@ blocks:
 
             - Customisable & anonymous voting with deadlines.
             - Advanced voting features such as mini-votes and delegation.
-            - e-ID compatible – for logins, votes & digital signatures.
+            - e-ID compatible - applicable in Estonia only.
             { .bullet }
 
         button1st:
