@@ -1,11 +1,11 @@
 ---
 path: /toode
 title: Toode
-description: Tasuta ühisotsustamisplatvorm, mis pakub gruppidele võimaluse üheskoos luua, arutada ja hääletada. See platvorm sobib liikmete juhitud organisatsioonidele paremate ühisotsuste tegemiseks.
+description: Tasuta kaasamisplatvorm, mis võimaldab ühisloomet, arutelusid ja hääletusi. Kasutage üldkoosolekute, asünkroonsete koosolekute ja hääletuste läbiviimiseks.
 keywords:
-  - grupis otsuste tegemine
-  - hääletustööriist
-  - grupiotsused
+  - ühiste otsuste tegemine
+  - e-hääletus tarkvara
+  - üldkoosolek tarkvara
 image: /assets/images/meta/product.jpg
 blocks:
   decision-img:
@@ -99,19 +99,19 @@ blocks:
     title: |
       Funktsioonid
     text: |
-      - Free to use, [please email us](mailto:support@citizenos.com) for onboarding and support.
-      - A ready-made platform – just log in and get started.
-      - Already in 15 languages and easy to translate.
+      - Tasuta tarkvara, [palun saatke meile e-mail](mailto:support@citizenos.com) sissejuhatava koolituse tellimiseks ja kasutajatoe saamiseks.
+      - Kasutusvalmis platvorm – logi lihtsalt sisse ja hakka tööle.
+      - Juba 15 keeles ja lihtsasti tõlgitav.
       { .bullet }
 
-      - Pro and con discussions for balanced debates.
-      - Private or public discussions – you choose.
-      - Private groups for multiple discussions with the same people.
+      - Tasakaalustatud arutelud poolt- ja vastuargumentide esitamiseks.
+      - Valige, kas pidada privaatseid või avalikke arutelusid.
+      - Privaatsete gruppide loomise võimalus, et pidada samade inimestega mitmeid arutelusid.
       { .bullet }
 
-      - Customisable & anonymous voting with deadlines.
-      - Advanced voting features such as mini-votes and delegation.
-      - e-ID compatible - applicable in Estonia only.
+      - Kohandatav, anonüümne, kindlate tähtaegadega hääletamine.
+      - Erinevad hääletusfunktsioonid, näiteks minihääletus ja häälte delegeerimine.
+      - Ühildub e-ID-ga – sisselogimiseks, hääletamiseks ja digiallkirjade andmiseks.
       { .bullet }
     button1st:
       title: Täielik funktsioonide loend
