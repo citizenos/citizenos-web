@@ -31,9 +31,9 @@ blocks:
       background-position: 10% 5%, 90% 90%
       background-size: 75px 75px, 65px 65px
     title: |
-      Ühised otsused ja kodanikuaktiivsus.
+      Ühised otsused ja kaasamine.
     text: |
-      Kasuta tasuta veebiplatvormi aruteludeks, hääletamiseks ja rahvaalgatuslike ideede kogumiseks. Valikulise e-ID funktsiooniga.
+      Kasutage Citizen OS platvormi koosolekute ja digiallkirjastatud hääletuste, ideekorjete või arutelude läbiviimiseks.
 
       - [Milleks Citizen OS-i kasutatakse?](#flexibleformat)
       - [Funktsioonid](#features)
