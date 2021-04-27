@@ -151,7 +151,7 @@ blocks:
       ![Näyttökuva siitä, kuinka Citizen OS -alustaa käytetään osallistavaan demokratiaan.](/assets/images/product-case-study-2.jpg){ .img-fluid .box-shadow }
   case-study-2:
     class:
-      - order-7
+      - order-5
     style:
       background-image: url(/assets/images/bubble-blue.svg)
       background-position: 80% 5%
@@ -163,13 +163,13 @@ blocks:
       Citizen OS:n avointa lähdekoodia käytettiin osittain [Rahvaalgatus.ee](https://www.rahvaalgatus.ee) -kansalaisaloitesivuston luomisessa. Sivustossa voi luoda ja allekirjoittaa kansalaisaloitteita, jotka toimitetaan suoraan Viron parlamentille.
   case-study-img:
     class:
-      - order-8
+      - order-7
       - order-sm-9
     text: |
       ![Monet indonesialaiset pitävät hymyssä suin World Cleanup Day -paitoja, siivoavat rannoilta muoviroskaa.](/assets/images/product-case-study.jpeg){ .img-fluid .box-shadow }
   case-study:
     class:
-      - order-9
+      - order-8
       - order-sm-8
     style:
       background-image: url(/assets/images/bubble-orange.svg), url(/assets/images/bubble-yellow.svg)
