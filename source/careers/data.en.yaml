@@ -48,18 +48,11 @@ text: |
     - Certification of volunteership in case required.
      { .bullet }
 
-button1st:
-    title: To apply, please email us your CV and a cover letter.
-    url: 'mailto:sara@citizenos.com'
+     To apply, [please email us your CV and a cover letter](mailto:sara@citizenos.com).
 
-button2nd:
-    title: all vacancies
-    url: /careers/
+#    ## Vacancies
 
-
-    ## Vacancies
-
-#    We do not currently have any vacancies.
+#    We do not currently have any other vacancies.
 
 
 #vacancies:
