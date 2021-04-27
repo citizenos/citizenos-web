@@ -54,6 +54,7 @@ text: |
     - Co-create petition texts before opening them up for signatures.
     - e-ID compatible – for logins, votes & digital signatures, in Estonia.
     - Multiple choices voting. Choose more than one correct answer.
+     { .bullet }
 
     **Technical details**
     - Browser-based user interface – no need for an app.
@@ -63,19 +64,21 @@ text: |
     - Discussion widget available for integrating with your website.
     - e-ID log-in and vote signing in Estonia.
     - Technical support from our friendly, full-time team.
+     { .bullet }
 
     **User-driven Translation**
     - Already in 15 languages – quick and easy to translate.
     - Convenient & user-driven translation – request a language and translate at your own pace.
     - Collaboration function to translate with your group.
     - Personalised translation support plus online demos and FAQs.
+     { .bullet }
 
     **Want more details about a particular feature?**
 
 button1st:
     title: Contact us for more info or book a demo.
 
-    url: 'mailto:anett@citizenos.com'
+    url: 'mailto:support@citizenos.com'
 
 button2nd:
     title: Or simply try it out for yourself!
