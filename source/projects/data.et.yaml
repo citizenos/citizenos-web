@@ -1,11 +1,11 @@
 ---
-path: /projektid
+path: /ee/projektid
 title: Projektid
 description: Teostame koostöös erinevate riikide ülikoolide ja organisatsioonidega harivaid ja lõbusaid projekte. Leia enda jaoks sobiv projekt!
 keywords:
   - noortejuhtimine
-  - e-demokraatia kursus
-  - osavõtutööriistad
+  - kaasamiskoolitus
+  - kaasamise rakendus
 image: /assets/images/meta/vision.jpg
 blocks:
   start-img:
