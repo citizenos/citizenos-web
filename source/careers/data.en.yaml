@@ -16,7 +16,46 @@ text: |
 
     We have the spirit of a tech startup and a social purpose of an NGO.
 
-    Looking for meaningful volunteer opportunities? See our [Get Involved page.](/get-involved)
+    See all the ways you can contribute to advancing our mission on the [Get Involved page.](/get-involved)
+
+    ## Volunteer position
+
+    We are looking for a long term volunteer (minimum one month) to assist us in developing the [Participatory Youth Leadership Network](/pyln/), the India chapter of Citizen OS. The role requires a commitment of 4-6 hours per week.
+
+    **We expect:**
+    - Passion for civic engagement;
+    - willingness to develop and support innovative forms of civic engagement;
+    - proficiency in English;
+    - team-player.
+     { .bullet }
+
+    **We appreciate:**
+    - Knowledge of at least one Indian language;
+    - interest in civic technology or e-democracy or e-engagement;
+    - interest in political, economic and social issues in the Indian context;
+    - idea for a civic engagement project to co-create with us;
+    - confidence and self-motivation;
+    - ability to plan and manage one's own projects.
+     { .bullet }
+
+    **We offer:**
+    - The chance to learn more about how countries and societies operate;
+    - interesting challenges in a young and globally rapidly evolving sphere (e-democracy solutions);
+    - awesome, energetic, teammates;
+    - training, conferences and other development opportunities;
+    - possibility to choose between working at the office (@Telliskivi Creative City) or remotely;
+    - the flexibility to decide your own working hours;
+    - Certification of volunteership in case required.
+     { .bullet }
+
+button1st:
+    title: To apply, please email us your CV and a cover letter.
+    url: 'mailto:sara@citizenos.com'
+
+button2nd:
+    title: all vacancies
+    url: /careers/
+
 
     ## Vacancies
 
@@ -27,8 +66,3 @@ text: |
 #    -
 #        title: Software Developer
 #        url: /careers/software-developer/
-
-vacancies:
-    -
-        title: Volunteer for Participatory Youth Leadership Network
-        url: /careers/volunteer
