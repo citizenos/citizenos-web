@@ -85,7 +85,7 @@ blocks:
       - order-3
     style:
       background-color: '#F7F7F7'
-      background-image: url(/assets/images/bubble-orange.svg), url(/assets/images/bubble-dots.png)
+      #background-image: url(/assets/images/bubble-orange.svg), url(/assets/images/bubble-dots.png)
       background-position: 100% 15%, 90% 15%
       background-size: 165px 165px, 350px 350px
     text: |
@@ -99,19 +99,19 @@ blocks:
     title: |
       Fonctionnalités
     text: |
-      - 100 % gratuit à utiliser, pour toujours. Pas de publicité, pas de frais.
-      - Une plateforme prête à l'emploi - connectez-vous simplement et commencez.
-      - Déjà en 13 langues et facile à traduire.
+      - Free to use, [please email us](mailto:support@citizenos.com) for onboarding and support.
+      - A ready-made platform – just log in and get started.
+      - Already in 15 languages and easy to translate.
       { .bullet }
 
-      - Discussions pour et contre pour des débats équilibrés.
-      - Discussions privées ou publiques - vous choisissez.
-      - Groupes privés pour de multiples discussions avec les mêmes personnes.
+      - Pro and con discussions for balanced debates.
+      - Private or public discussions – you choose.
+      - Private groups for multiple discussions with the same people.
       { .bullet }
 
-      - Votes personnalisables et anonymes avec des délais.
-      - Fonctionnalités de vote avancées telles que les mini-votes et la délégation.
-      - Compatible e-ID - pour les connexions, votes et signatures numériques.
+      - Customisable & anonymous voting with deadlines.
+      - Advanced voting features such as mini-votes and delegation.
+      - e-ID compatible - applicable in Estonia only.
       { .bullet }
     button1st:
       title: Liste complète des fonctionnalités
