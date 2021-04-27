@@ -85,7 +85,7 @@ blocks:
       - order-3
     style:
       background-color: '#F7F7F7'
-      background-image: url(/assets/images/bubble-orange.svg), url(/assets/images/bubble-dots.png)
+      #background-image: url(/assets/images/bubble-orange.svg), url(/assets/images/bubble-dots.png)
       background-position: 100% 15%, 90% 15%
       background-size: 165px 165px, 350px 350px
     text: |
@@ -99,19 +99,19 @@ blocks:
     title: |
       Funktsioonid
     text: |
-      - Alati 100% tasuta tarkvara. Ei mingeid reklaame ega tasusid.
-      - Kasutusvalmis platvorm – logi lihtsalt sisse ja hakka tööle.
-      - Juba 13 keeles ja lihtsasti tõlgitav.
+      - Free to use, [please email us](mailto:support@citizenos.com) for onboarding and support.
+      - A ready-made platform – just log in and get started.
+      - Already in 15 languages and easy to translate.
       { .bullet }
 
-      - Tasakaalustatud arutelud poolt- ja vastuargumentide esitamiseks.
-      - Sina otsustad, kas soovid pidada privaatseid või avalikke arutelusid.
-      - Privaatsed grupid, selleks, et pidada samade inimestega mitmeid arutelusid.
+      - Pro and con discussions for balanced debates.
+      - Private or public discussions – you choose.
+      - Private groups for multiple discussions with the same people.
       { .bullet }
 
-      - Kohandatav ja anonüümne, kindlate tähtaegadega hääletamine.
-      - Täpsemad hääletusfunktsioonid, näiteks minihääled ja delegeerimine.
-      - Ühildub e-ID-ga – sisselogimiseks, hääletamiseks ja digiallkirjade andmiseks.
+      - Customisable & anonymous voting with deadlines.
+      - Advanced voting features such as mini-votes and delegation.
+      - e-ID compatible - applicable in Estonia only.
       { .bullet }
     button1st:
       title: Täielik funktsioonide loend
