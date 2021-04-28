@@ -9,7 +9,7 @@ image: /assets/images/meta/home-alt.jpg
 data:
   news: /news/data.en.yaml
 header:
-  title: Otsustage koos
+  title: Otsustame koos!
   text: |
     Kasutage Citizen OS tasuta platvormi asünkroonsete koosolekute läbiviimisel & kodanike kaasamisel.
   video:
