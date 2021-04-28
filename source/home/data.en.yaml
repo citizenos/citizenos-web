@@ -145,7 +145,7 @@ blocks:
 
     in-media:
         class:
-            - order-7
+            - order-8
             - text-center
         title: |
             In the media
@@ -157,7 +157,7 @@ blocks:
 
     meet:
         class:
-            - order-8
+            - order-7
             - col-sm-10
             - my-5
         style:
