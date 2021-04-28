@@ -1,11 +1,11 @@
 ---
 path: /toode
 title: Toode
-description: Free participation platform for discussions and voting. Use for general meetings, asynchronous meetings, crowdsourcing ideas, petitions. Sign digitally in Estonia.
+description: Tasuta kaasamisplatvorm aruteludeks ja hääletusteks. Kasutage üldkoosolekute, ideekorjete, kodanikealgatuste läbiviimisel. Digiallkirjastatud hääletamisega.
 keywords:
-  - asynchronous meeting tool
-  - general meeting tool
-  - e-voting
+  - asünkroonse koosoleku tarkvara
+  - üldkoosoleku läbiviimise tööriist
+  - e-hääletus
 image: /assets/images/meta/product.jpg
 blocks:
   decision-img:
@@ -33,12 +33,12 @@ blocks:
     title: |
       Ühised otsused ja kaasamine.
     text: |
-      Use for general meetings, asynchronous meetings, crowdsourcing ideas, petitions. Sign digitally in Estonia.
+      Kasutage Citizen OS platvormi üldkoosolekute, asünkroonsete koosolekute, ideekorjete ja kodanikealgatuste jaoks.  Hääletada saab digiallkirjaga.
 
-      - [What is Citizen OS for?](#flexibleformat)
-      - [Features](#features)
-      - [Case studies](#case-study-2)
-      - [Statistics](#stats)
+      - [Mille jaoks saab platvormi kasutada?](#flexibleformat)
+      - [Funktsioonid](#features)
+      - [Juhtumiuuringud](#case-study-2)
+      - [Statistika](#stats)
       { .arrow }
     button1st:
       title: Vaata demo
@@ -99,19 +99,19 @@ blocks:
     title: |
       Funktsioonid
     text: |
-      - Pro and con discussions for balanced debates.
-      - Private or public discussions – you choose.
-      - Private groups for multiple discussions with the same people.
+      - Tasakaalustatud arutelud poolt- ja vastuargumentide esitamisega.
+      - Privaatsed või avalikud arutelud / hääletused.
+      - Privaatsed grupid, et pidada samade inimestega mitmeid arutelusid.
       { .bullet }
 
-      - Customisable & anonymous voting with deadlines.
-      - Advanced voting features such as mini-votes and delegation.
-      - e-ID compatible - applicable in Estonia only.
+      - Kohandatav ja anonüümne, tähtaegadega hääletamine.
+      - Erinevad hääletusfunktsioonid, näiteks häälte delegeerimine ja veto.
+      - Digiallkirjastatud hääletus ja sisselogimine. 
       { .bullet }
 
-      - Free to use, [please email us](mailto:support@citizenos.com) for onboarding and support.
-      - A ready-made platform – just log in and get started.
-      - Already in 15 languages and easy to translate.
+      - Tasuta tarkvara. [Palun saatke meile e-mail](mailto:support@citizenos.com) sissejuhatava koolituse tellimiseks või kasutajatoega ühendumiseks.
+      - Kasutusvalmis platvorm – logige sisse ja hakake tööle.
+      - Juba 15 keeles ja lihtsasti tõlgitav.
       { .bullet }
     button1st:
       title: Kõik funktsioonid
