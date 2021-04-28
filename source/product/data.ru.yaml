@@ -1,11 +1,11 @@
 ---
 path: /produkt
 title: Продукт
-description: 'Бесплатная платформа для совместного принятия решений: их совместное создание, обсуждение и голосование в группе. Используйте в организациях с коллективным управлением, чтобы принимать лучшие решения вместе.'
+description: Free participation platform for discussions and voting. Use for general meetings, asynchronous meetings, crowdsourcing ideas, petitions. Sign digitally in Estonia.
 keywords:
-  - групповое принятие решений
-  - инструмент голосования
-  - групповые решения
+  - asynchronous meeting tool
+  - general meeting tool
+  - e-voting
 image: /assets/images/meta/product.jpg
 blocks:
   decision-img:
@@ -33,12 +33,12 @@ blocks:
     title: |
       Коллективное принятие решений и построение гражданского общества
     text: |
-      Используйте бесплатную онлайн-платформу для обсуждений, голосования и поиска идей. Платформа совместима с электронным ID .
+      Use for general meetings, asynchronous meetings, crowdsourcing ideas, petitions. Sign digitally in Estonia.
 
-      - [Для чего предназначена платформа Citizen OS??](#flexibleformat)
-      - [Почему именно Citizen OS?](#features)
-      - [Тематические исследования](#case-study-2)
-      - [Cтатистика](#stats)
+      - [What is Citizen OS for?](#flexibleformat)
+      - [Features](#features)
+      - [Case studies](#case-study-2)
+      - [Statistics](#stats)
       { .arrow }
     button1st:
       title: Воспроизвести демо-видео
@@ -99,11 +99,6 @@ blocks:
     title: |
       Особенности
     text: |
-      - Free to use, [please email us](mailto:support@citizenos.com) for onboarding and support.
-      - A ready-made platform – just log in and get started.
-      - Already in 15 languages and easy to translate.
-      { .bullet }
-
       - Pro and con discussions for balanced debates.
       - Private or public discussions – you choose.
       - Private groups for multiple discussions with the same people.
@@ -112,6 +107,11 @@ blocks:
       - Customisable & anonymous voting with deadlines.
       - Advanced voting features such as mini-votes and delegation.
       - e-ID compatible - applicable in Estonia only.
+      { .bullet }
+
+      - Free to use, [please email us](mailto:support@citizenos.com) for onboarding and support.
+      - A ready-made platform – just log in and get started.
+      - Already in 15 languages and easy to translate.
       { .bullet }
     button1st:
       title: Все особенности
