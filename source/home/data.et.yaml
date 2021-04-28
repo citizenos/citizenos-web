@@ -11,7 +11,7 @@ data:
 header:
   title: Otsustage koos
   text: |
-    Use our free Citizen OS platform for asynchronous meetings & citizen participation.
+    Use our free Citizen OS platform for voting during meetings & citizen participation.
   video:
     title: Sissejuhatus
     url: https://www.youtube.com/embed/hDLWbQQAk8g?rel=0&showinfo=0&modestbranding=1&autoplay=1&cc_load_policy=1&cc_lang_pref=et
@@ -60,7 +60,7 @@ blocks:
       background-position: 30% 25%, 20% 75%
       background-size: 360px 360px, 100px 100px
     text: |
-      ![People sitting in circles, discussing.](/assets/images/vision-start.png){ .img-fluid }
+      ![Inimesed ringis istumas, arutlemas.](/assets/images/vision-start.png){ .img-fluid }
   democracy:
     class:
       - order-4
