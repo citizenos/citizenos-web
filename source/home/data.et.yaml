@@ -1,17 +1,17 @@
 ---
 path: /
-description: Citizen OS on osalusdemokraatia arendamiseks loodud tasuta kodanikutehnoloogiaplatvorm. Sellel platvormil saad luua kasutaja ning algatada arutelusid poolt- ja vastuargumentide üle või korraldada poolt-/vastuhääletusi, delegeeritud hääletusi või kohandatud hääletusi.
+description: Sihtasutus Citizen OS on sotsiaalne ettevõte, mis pakub tasuta ühiste otsuste tegemise platvormi. Tarkvara saab kasutada üldkoosolekute, asünkroonsete koosolekute, ideekorjete ja kodanike kaasamise jaoks. 
 keywords:
-  - jah / ei / delegeeritud hääletamine
-  - kodanikutehnoloogia
-  - citizen os
+  - tasuta kaasamisplatvorm
+  - tasuta e-demokraatia platvorm
+  - tasuta e-hääletus
 image: /assets/images/meta/home-alt.jpg
 data:
   news: /news/data.en.yaml
 header:
   title: Otsustage koos
   text: |
-    Use our free Citizen OS platform for asynchronous meetings & citizen participation.
+    Kasutage Citizen OS tasuta platvormi asünkroonsete koosolekute läbiviimisel & kodanike kaasamisel.
   video:
     title: Sissejuhatus
     url: https://www.youtube.com/embed/hDLWbQQAk8g?rel=0&showinfo=0&modestbranding=1&autoplay=1&cc_load_policy=1&cc_lang_pref=et
