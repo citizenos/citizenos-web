@@ -126,7 +126,7 @@ blocks:
       url: /fi/uutiset/
   in-media:
     class:
-      - order-7
+      - order-8
       - text-center
     title: |
       Mediassa
@@ -136,7 +136,7 @@ blocks:
       - [![](/assets/images/in-media/rohelised.png)](https://erakond.ee/eestimaa-rohelised/uldkoosolek-oli-edukas-citizen-os-kaasabil-valiti-kaks-juhti-ja-teised-kogud/#)
   meet:
     class:
-      - order-8
+      - order-7
       - col-sm-10
       - my-5
     style:
