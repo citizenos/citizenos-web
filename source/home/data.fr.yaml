@@ -11,7 +11,7 @@ data:
 header:
   title: Décidez ensemble
   text: |
-    Use our free Citizen OS platform for asynchronous meetings & citizen participation.
+    Utilisez notre plateforme gratuite Citizen OS pour des réunions asynchrones et la participation citoyenne.
   video:
     title: Introduction
     url: https://www.youtube.com/embed/hDLWbQQAk8g?rel=0&showinfo=0&modestbranding=1&autoplay=1&cc_load_policy=1&cc_lang_pref=en
@@ -60,7 +60,7 @@ blocks:
       background-position: 30% 25%, 20% 75%
       background-size: 360px 360px, 100px 100px
     text: |
-      ![People sitting in circles, discussing.](/assets/images/vision-start.png){ .img-fluid }
+      ![Personnes assises en cercles en train de parler.](/assets/images/vision-start.png){ .img-fluid }
   democracy:
     class:
       - order-4
@@ -145,7 +145,7 @@ blocks:
       background-size: 350px 350px
     label: Un mot de l'équipe
     title: |
-      Where you can virtually meet us
+      Où nous rencontrer virtuellement
     blocks:
       tictec:
         title: |
