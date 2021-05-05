@@ -58,7 +58,7 @@ blocks:
       Notre nouveau programme d’échange de jeunes Erasmus+ formera la prochaine génération de leaders européens en matière de conception de projets d’engagement civique et de leadership participatif, grâce à des méthodes d’apprentissage pratiques et engageantes.
     button1st:
       title: En savoir plus
-      url: fr/erasmus/
+      url: /fr/erasmus/
   awareness:
     class:
       - order-4
