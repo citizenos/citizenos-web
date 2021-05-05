@@ -3,7 +3,7 @@ siteTitle: Citizen OS
 navigation:
   product:
     title: Tuote
-    url: /fi/product/
+    url: /fi/tuote/
     class: tuote
   vision:
     title: Projektit
