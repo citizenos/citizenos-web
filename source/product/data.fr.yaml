@@ -115,7 +115,7 @@ blocks:
       { .bullet }
     button1st:
       title: Liste complète des fonctionnalités
-      url: '/fr/produit/fonctionnalites'
+      url: '/fr/product/features/'
   #options:
   #class:
   #- order-5

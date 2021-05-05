@@ -115,7 +115,7 @@ blocks:
       { .bullet }
     button1st:
       title: Täysi luettelo ominaisuuksista
-      url: '/fi/tuote/ominaisuudet/'
+      url: '/fi/product/features/'
   #options:
   #class:
   #- order-5
