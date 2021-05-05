@@ -1,11 +1,11 @@
 ---
 path: /tuote
 title: Tuote
-description: Vapaa yhteispäätösalusta – luo, keskustele ja äänestä ryhmässä yhteistyössä. Käytä jäsenjohtoisissa organisaatioissa parempien päätösten tekemiseen yhdessä.
+description: Maksuton osallistumisalusta keskusteluille ja äänestyksille. Käytä esimerkiksi tavallisiin kokouksiin, asynkronisiin kokouksiin, ideoiden joukkoistamiseen ja kansalaisaloitteisiin. Allekirjoita digitaalisesti Virossa.
 keywords:
-  - päätöksenteko ryhmässä
-  - äänestystyökalu
-  - ryhmäpäätökset
+  - asynkroninen kokoustyökalu
+  - tavallinen kokoustyökalu
+  - verkkoäänestys
 image: /assets/images/meta/product.jpg
 blocks:
   decision-img:
@@ -33,12 +33,12 @@ blocks:
     title: |
       Kollektiiviset päätökset ja kansalaisosallistuminen.
     text: |
-      Käytä maksutonta verkkoalustaa keskusteluihin, äänestyksiin ja ideoiden joukkoistamiseen. Käytettävissä myös e-ID-toiminnolla.
+      Käytä esimerkiksi tavallisiin kokouksiin, asynkronisiin kokouksiin, ideoiden joukkoistamiseen ja kansalaisaloitteisiin. Allekirjoita digitaalisesti Virossa.
 
-      - [Mihin Citizen OS:ää voi käyttää?](#joustavaformaatti)
-      - [Miksi Citizen OS:ää kannattaa käyttää?](#ominaisuudet)
-      - [Tapaustutkimukset](#tapaustutkimus-2)
-      - [Tilastot](#tilastot)
+      - [Mihin Citizen OS:ää voi käyttää?](#flexibleformat)
+      - [Ominaisuudet](#features)
+      - [Tapaustutkimukset](#case-study-2)
+      - [Tilastot](#stats)
       { .arrow }
     button1st:
       title: Toista demo
@@ -85,7 +85,7 @@ blocks:
       - order-3
     style:
       background-color: '#F7F7F7'
-      background-image: url(/assets/images/bubble-orange.svg), url(/assets/images/bubble-dots.png)
+      #background-image: url(/assets/images/bubble-orange.svg), url(/assets/images/bubble-dots.png)
       background-position: 100% 15%, 90% 15%
       background-size: 165px 165px, 350px 350px
     text: |
@@ -99,19 +99,19 @@ blocks:
     title: |
       Ominaisuudet
     text: |
-      - Käyttä on aina täysin maksutonta. Ei mainoksia, ei veloituksia.
-      - Käyttövalmis alusta – kirjaudu vain sisään ja aloita.
-      - Saatavilla jo 13 eri kielellä ja helppo kääntää uusille kielille.
+      – Tasapainoiset keskustelut puolesta ja vastaan.
+      – Yksityiset tai julkiset keskustelut – sinä valitset.
+      – Useita keskusteluja samojen ihmisten kanssa yksityisissä ryhmissä.
       { .bullet }
 
-      - Tasapainoiset keskustelut puolesta ja vastaan.
-      - Yksityiset tai julkiset keskustelut – sinä päätät.
-      - Yksityiset ryhmät useille keskusteluille samojen ihmisten kanssa.
+      – Mukautettava ja anonyymi äänestys määräaikoineen.
+      – Lisä-äänestysominaisuuksia, kuten miniäänet ja delegointi.
+      – Käytettävissä e-ID-toiminnolla – käytössä vain Virossa.
       { .bullet }
 
-      - Mukautettava ja anonyymi äänestys määräaikoineen.
-      - Lisä-äänestysominaisuuksia, kuten miniäänet ja delegointi.
-      - Käytettävissä e-ID-toiminnolla – sisäänkirjautuminen, äänestäminen ja sähköinen allekirjoitus.
+      – Käyttö on maksutonta – saat tietoa käytön aloittamisesta sekä tukea [lähettämällä meille sähköpostia](mailto:support@citizenos.com).
+      – Käyttövalmis alusta – kirjaudu vain sisään ja aloita.
+      – Saatavilla jo 15 eri kielellä ja helppo kääntää uusille kielille.
       { .bullet }
     button1st:
       title: Täysi luettelo ominaisuuksista
@@ -151,7 +151,7 @@ blocks:
       ![Näyttökuva siitä, kuinka Citizen OS -alustaa käytetään osallistavaan demokratiaan.](/assets/images/product-case-study-2.jpg){ .img-fluid .box-shadow }
   case-study-2:
     class:
-      - order-7
+      - order-5
     style:
       background-image: url(/assets/images/bubble-blue.svg)
       background-position: 80% 5%
@@ -163,13 +163,13 @@ blocks:
       Citizen OS:n avointa lähdekoodia käytettiin osittain [Rahvaalgatus.ee](https://www.rahvaalgatus.ee) -kansalaisaloitesivuston luomisessa. Sivustossa voi luoda ja allekirjoittaa kansalaisaloitteita, jotka toimitetaan suoraan Viron parlamentille.
   case-study-img:
     class:
-      - order-8
+      - order-7
       - order-sm-9
     text: |
       ![Monet indonesialaiset pitävät hymyssä suin World Cleanup Day -paitoja, siivoavat rannoilta muoviroskaa.](/assets/images/product-case-study.jpeg){ .img-fluid .box-shadow }
   case-study:
     class:
-      - order-9
+      - order-8
       - order-sm-8
     style:
       background-image: url(/assets/images/bubble-orange.svg), url(/assets/images/bubble-yellow.svg)

@@ -11,7 +11,7 @@ data:
 header:
   title: Décidez ensemble
   text: |
-    Utilisez notre plateforme gratuite Citizen OS pour des discussions démocratiques et la participation des citoyens.
+    Utilisez notre plateforme gratuite Citizen OS pour des réunions asynchrones et la participation citoyenne.
   video:
     title: Introduction
     url: https://www.youtube.com/embed/hDLWbQQAk8g?rel=0&showinfo=0&modestbranding=1&autoplay=1&cc_load_policy=1&cc_lang_pref=en
@@ -60,7 +60,7 @@ blocks:
       background-position: 30% 25%, 20% 75%
       background-size: 360px 360px, 100px 100px
     text: |
-      ![La première conférence COSCON de Citizen OS, qui a réuni des chercheurs en e-démocratie du monde entier.](/assets/images/frontpage-start.png){ .img-fluid }
+      ![Personnes assises en cercles en train de parler.](/assets/images/vision-start.png){ .img-fluid }
   democracy:
     class:
       - order-4
@@ -82,32 +82,32 @@ blocks:
   #title: Use product - it’s free!
   #url: https://app.citizenos.com
   #target: _blank
-  research-img:
-    class:
-      - order-5
-    style:
-      background-image: url(/assets/images/bubble-turquoise.svg)
-      background-position: 85% 85%
-      background-size: 75px 75px
-    text: |
-      ![Un homme en chemise blanche tenant un microphone en parlant à un festival de démocratie participative.](/assets/images/frontpage-lets-educate.png){ .img-fluid }
-  research:
-    class:
-      - order-5
-      - col-sm-4
-      - offset-sm-1
-    style:
-      background-image: url(/assets/images/bubble-dots.png)
-      background-position: 30% 25%
-      background-size: 360px 360px
-    #label: Let’s Educate
-    title: |
-      Une communauté d'innovateurs.
-    text: |
-      Nous gérons une communauté mondiale pour les enthousiastes de la démocratie participative en ligne, et nous accueillons tout le monde.
-    button1st:
-      title: En savoir plus
-      url: /fr/communaute/
+  #research-img:
+  #class:
+  #- order-5
+  #style:
+  #background-image: url(/assets/images/bubble-#turquoise.svg)
+  #background-position: 85% 85%
+  #background-size: 75px 75px
+  #text: |
+  #![Man in a white shirt holds a microphone while speaking at a participatory democracy festival.](/assets/images/frontpage-lets-educate.png){ .img-fluid }
+  #research:
+  #class:
+  #- order-5
+  #- col-sm-4
+  #- offset-sm-1
+  #style:
+  #background-image: url(/assets/images/bubble-dots.png)
+  #background-position: 30% 25%
+  #background-size: 360px 360px
+  ## label: Let’s Educate
+  #title: |
+  #A community of innovators.
+  #text: |
+  #We run a global community for participatory e-democracy enthusiasts, and everyone’s welcome.
+  #button1st:
+  #title: Learn more
+  #url: /community/
   news:
     class:
       - order-6
@@ -126,7 +126,7 @@ blocks:
       url: /fr/actualites/
   in-media:
     class:
-      - order-7
+      - order-8
       - text-center
     title: |
       Dans les médias
@@ -134,3 +134,28 @@ blocks:
       - [![](/assets/images/in-media/wcd.png)](https://www.youtube.com/watch?v=vqchbMJc9q8&fbclid=IwAR1v8AVjrTCAqZC_GacnoQLWZvyl4XMka_hYfxDSdtx9Q3syUsE8pZnAVxE)
       - [![](/assets/images/in-media/e-estonia.png)](https://e-estonia.com/e-talks-citizen-os-e-democracy-platform-for-the-citizens-of-the-world/)
       - [![](/assets/images/in-media/rohelised.png)](https://erakond.ee/eestimaa-rohelised/uldkoosolek-oli-edukas-citizen-os-kaasabil-valiti-kaks-juhti-ja-teised-kogud/#)
+  meet:
+    class:
+      - order-7
+      - col-sm-10
+      - my-5
+    style:
+      background-image: url(/assets/images/bubble-dots.png)
+      background-position: 80% 10%
+      background-size: 350px 350px
+    label: Un mot de l'équipe
+    title: |
+      Où nous rencontrer virtuellement
+    blocks:
+      tictec:
+        title: |
+          Civic Tech Conference by Swiss Federation of Youth Parliaments.
+        text: |
+          Our CEO Margo Loor is presenting the keynote on the benefits of civic tech tools for municipalities.
+
+          Read more about the conference [here.](https://www.dsj.ch/veranstaltungen/fachveranstaltungen/civic-tech-konferenz/)
+        image: /assets/images/DSJ_logo.png
+        style:
+          background: '#FFFFFF'
+        date: 04.05.2021
+        location: Online
