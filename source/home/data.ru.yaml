@@ -11,7 +11,7 @@ data:
 header:
   title: Решаем вместе
   text: |
-    Use our free Citizen OS platform for asynchronous meetings & citizen participation.
+    Используйте бесплатную платформу Citizen OS для разновременных встреч и совместного принятия решений.
   video:
     title: Введение
     url: https://www.youtube.com/embed/hDLWbQQAk8g?rel=0&showinfo=0&modestbranding=1&autoplay=1&cc_load_policy=1&cc_lang_pref=en
@@ -60,7 +60,7 @@ blocks:
       background-position: 30% 25%, 20% 75%
       background-size: 360px 360px, 100px 100px
     text: |
-      ![People sitting in circles, discussing.](/assets/images/vision-start.png){ .img-fluid }
+      ![Люди сидят группами и обсуждают что-то.](/assets/images/vision-start.png){ .img-fluid }
   democracy:
     class:
       - order-4
@@ -145,7 +145,7 @@ blocks:
       background-size: 350px 350px
     label: Мнение команды
     title: |
-      Where you can virtually meet us
+      Где нас можно найти:
     blocks:
       tictec:
         title: |
