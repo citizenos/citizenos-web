@@ -1,10 +1,10 @@
 ---
 path: /tuote
 title: Tuote
-description: Free participation platform for discussions and voting. Use for general meetings, asynchronous meetings, crowdsourcing ideas, petitions. Sign digitally in Estonia.
+description: Maksuton osallistumisalusta keskusteluille ja äänestyksille. Käytä esimerkiksi tavallisiin kokouksiin, asynkronisiin kokouksiin, ideoiden joukkoistamiseen ja kansalaisaloitteisiin. Allekirjoita digitaalisesti Virossa.
 keywords:
-  - asynchronous meeting tool
-  - general meeting tool
+  - asynkroninen kokoustyökalu
+  - tavallinen kokoustyökalu
   - verkkoäänestys
 image: /assets/images/meta/product.jpg
 blocks:
@@ -33,12 +33,12 @@ blocks:
     title: |
       Kollektiiviset päätökset ja kansalaisosallistuminen.
     text: |
-      Use for general meetings, asynchronous meetings, crowdsourcing ideas, petitions. Sign digitally in Estonia.
+      Käytä esimerkiksi tavallisiin kokouksiin, asynkronisiin kokouksiin, ideoiden joukkoistamiseen ja kansalaisaloitteisiin. Allekirjoita digitaalisesti Virossa.
 
-      - [What is Citizen OS for?](#flexibleformat)
-      - [Features](#features)
-      - [Case studies](#case-study-2)
-      - [Statistics](#stats)
+      - [Mihin Citizen OS:ää voi käyttää?](#flexibleformat)
+      - [Ominaisuudet](#features)
+      - [Tapaustutkimukset](#case-study-2)
+      - [Tilastot](#stats)
       { .arrow }
     button1st:
       title: Toista demo
@@ -99,19 +99,19 @@ blocks:
     title: |
       Ominaisuudet
     text: |
-      - Pro and con discussions for balanced debates.
-      - Private or public discussions – you choose.
-      - Private groups for multiple discussions with the same people.
+      – Tasapainoiset keskustelut puolesta ja vastaan.
+      – Yksityiset tai julkiset keskustelut – sinä valitset.
+      – Useita keskusteluja samojen ihmisten kanssa yksityisissä ryhmissä.
       { .bullet }
 
-      - Customisable & anonymous voting with deadlines.
-      - Advanced voting features such as mini-votes and delegation.
-      - e-ID compatible - applicable in Estonia only.
+      – Mukautettava ja anonyymi äänestys määräaikoineen.
+      – Lisä-äänestysominaisuuksia, kuten miniäänet ja delegointi.
+      – Käytettävissä e-ID-toiminnolla – käytössä vain Virossa.
       { .bullet }
 
-      - Free to use, [please email us](mailto:support@citizenos.com) for onboarding and support.
-      - A ready-made platform – just log in and get started.
-      - Already in 15 languages and easy to translate.
+      – Käyttö on maksutonta – saat tietoa käytön aloittamisesta sekä tukea [lähettämällä meille sähköpostia](mailto:support@citizenos.com).
+      – Käyttövalmis alusta – kirjaudu vain sisään ja aloita.
+      – Saatavilla jo 15 eri kielellä ja helppo kääntää uusille kielille.
       { .bullet }
     button1st:
       title: Täysi luettelo ominaisuuksista
