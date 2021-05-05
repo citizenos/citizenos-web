@@ -11,6 +11,17 @@ image: /assets/images/meta/vision.jpg
 
 news:
 
+    2021-05-06:
+        url: /news/pare-general-meeting-goes-online
+        title: Interview—PARE General Meeting goes online.
+        author: Becca Melhuish
+        image: /assets/images/news/how-to-carry-out-general-meeting-using-cos.png
+        categories:
+            - Citizen OS news
+            - Case studies
+        text: |
+            Find out how Estonia’s PARE Union moved their general meeting online with the help of the Citizen OS platform.
+
     2021-03-10:
         url: /news/meet-our-young-changemakers
         title: Meet our young changemakers.
