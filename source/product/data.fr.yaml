@@ -35,9 +35,9 @@ blocks:
     text: |
       Utilisation pour les réunions générales, les réunions asynchrones, les idées de crowdsourcing, les pétitions. Signez numériquement en Estonie.
 
-      - [À quoi sert Citizen OS ?](#formatflexible)
-      - [Pourquoi utiliser Citizen OS ?](#fonctionnalités)
-      - [Études de cas](#etudedecas-2)
+      - [À quoi sert Citizen OS ?](#flexibleformat)
+      - [Pourquoi utiliser Citizen OS ?](#features)
+      - [Études de cas](#case-study-2)
       - [Statistiques](#stats)
       { .arrow }
     button1st:
@@ -109,7 +109,7 @@ blocks:
       - Compatible avec l'e-ID, applicable en Estonie uniquement.
       { .bullet }
 
-      - Utilisation gratuite, [veuillez nous envoyer un e-mail] (mailto:support@citizenos.com) pour la mise en service et l'assistance.
+      - Utilisation gratuite, [veuillez nous envoyer un e-mail](mailto:support@citizenos.com) pour la mise en service et l'assistance.
       - Une plateforme prête à l'emploi, il suffit de se connecter et de commencer.
       - Déjà en 15 langues et facile à traduire.
       { .bullet }
