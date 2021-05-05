@@ -1,10 +1,10 @@
 ---
 path: /produkt
 title: Продукт
-description: Free participation platform for discussions and voting. Use for general meetings, asynchronous meetings, crowdsourcing ideas, petitions. Sign digitally in Estonia.
+description: Бесплатная платформа для обсуждения и голосования. Используйте для общих и разновременных встреч, краудсорсинга идей, петиций. Возможность электронной подписи для жителей Эстонии.
 keywords:
-  - asynchronous meeting tool
-  - general meeting tool
+  - инструмент для разновременных встреч
+  - инструмент для общих встреч
   - э-голосование
 image: /assets/images/meta/product.jpg
 blocks:
@@ -33,12 +33,12 @@ blocks:
     title: |
       Коллективное принятие решений и построение гражданского общества
     text: |
-      Use for general meetings, asynchronous meetings, crowdsourcing ideas, petitions. Sign digitally in Estonia.
+      Используйте для общих и разновременных встреч, краудсорсинга идей, петиций. Возможность электронной подписи для жителей Эстонии.
 
-      - [What is Citizen OS for?](#flexibleformat)
-      - [Features](#features)
-      - [Case studies](#case-study-2)
-      - [Statistics](#stats)
+      - [Для чего предназначена платформа Citizen OS?](#flexibleformat)
+      - [Особенности](#features)
+      - [Тематические исследования](#case-study-2)
+      - [Cтатистика](#stats)
       { .arrow }
     button1st:
       title: Воспроизвести демо-видео
@@ -99,19 +99,19 @@ blocks:
     title: |
       Особенности
     text: |
-      - Pro and con discussions for balanced debates.
-      - Private or public discussions – you choose.
-      - Private groups for multiple discussions with the same people.
+      - Всесторонние сбалансированные обсуждения.
+      - Частные или публичные обсуждения — на ваш выбор.
+      - Частные группы для разных обсуждений с одними и теми же людьми.
       { .bullet }
 
-      - Customisable & anonymous voting with deadlines.
-      - Advanced voting features such as mini-votes and delegation.
-      - e-ID compatible - applicable in Estonia only.
+      - Настраиваемое и анонимное голосование с указанием сроков.
+      - Расширенные функции голосования, такие как мини-голосование и передача полномочий.
+      - Совместимость с e-ID — только для жителей Эстонии.
       { .bullet }
 
-      - Free to use, [please email us](mailto:support@citizenos.com) for onboarding and support.
-      - A ready-made platform – just log in and get started.
-      - Already in 15 languages and easy to translate.
+      - Бесплатное пользование, [пожалуйста, напишите нам](support@citizenos.com) для подключения и поддержки.
+      - Платформа готова к использованию — просто авторизуйтесь и приступайте к работе.
+      - Переведена уже на 15 языков.
       { .bullet }
     button1st:
       title: Все особенности
