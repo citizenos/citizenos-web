@@ -115,7 +115,7 @@ blocks:
       { .bullet }
     button1st:
       title: Все особенности
-      url: '/ru/produkt/osobennosti/'
+      url: '/ru/product/features/'
   #options:
   #class:
   #- order-5
