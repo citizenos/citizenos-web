@@ -35,10 +35,10 @@ blocks:
     text: |
       Ühendame innovaatiliste e-demokraatia projektide ja osalusprojektidega töötamiseks jõud erinevate riikide organisatsioonidega.
 
-      - [Digitaalne muundumine ühiskonna kaasamiseks](#üksikisik)
-      - [EuroChangemakers](#teadlikkus)
-      - [Kodanikuhäktivistide kogukond](#üksikisik2)
-      - [Noorte osalusdemokraatiajuhtide võrgustik](#teadlikkus2)
+      - [Digitaalne muundumine ühiskonna kaasamiseks](#individual)
+      - [EuroChangemakers](#awareness)
+      - [Kodanikuhäktivistide kogukond](#individual2)
+      - [Noorte osalusdemokraatiajuhtide võrgustik](#awareness2)
       {.arrow }
   individual-img:
     class:
@@ -58,7 +58,7 @@ blocks:
       Meie uus Erasmus+ noortehvahetusprogramm koolitab välja Euroopa kodanike kaasamise projektide kujundamise ja osalusdemokraatia valdkonna liidreid, kasutades kaasavaid ja praktikapõhiseid õppemeetodeid.
     button1st:
       title: Vaata lisa
-      url: /ee/erasmus/
+      url: /et/erasmus/
   awareness:
     class:
       - order-4
@@ -94,7 +94,7 @@ blocks:
       2019. aastal käivitasime selle rahvusvahelise kogukonna eesmärgiga jagada teadmisi ja ideid e-demokraatia ning koostööpõhise otsustelangetamise teemadel.
     button1st:
       title: Vaata lisa
-      url: /ee/kogukond/
+      url: /et/kogukond/
   awarness2-img:
     class:
       - order-9
