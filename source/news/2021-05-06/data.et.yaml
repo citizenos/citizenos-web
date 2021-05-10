@@ -2,7 +2,7 @@
 path: /uudised/pare-yldkoosolekud-on-nyyd-virtuaalsed
 title: Intervjuu—PARE üldkoosolekud on nüüd virtuaalsed.
 description: Loe lähemalt, kuidas Eesti Personalijuhtimise Ühing (PARE) muutis Citizen OS platvormi abil oma üldkoosoleku virtuaalseks ja kogus digiallkirjastatud hääli.
-image: /assets/images/news/union-general-meeting-goes-online.png
+image: /assets/images/news/pare-ceo.jpg
 author: Becca Melhuish
 date: 2020-05-06
 text: |
@@ -11,6 +11,9 @@ text: |
   ![PARE eestvedajad naeratavad ja näitavad pöial püsti märki.](/assets/images/news/pare-general-meeting-goes-online.png)
 
   PARE eestvedajad.{ .text-muted }
+
+  **Miks te otsustasite Citizen OS platvormi PARE-s kasutusele võtta?**
+  { .pt-5}
 
   PARE tegevjuht Kärt Kinnas: “Viimane aasta on sundinud meid kõiki koroonapandeemia tõttu tegema asju harjumuspärasest erineval moel, juurde õppima uusi viise tegutsemiseks ning kolima mitmeid tegevusi digitaalkeskkonda. Otsustasime juba kevadel 2020, et sügisene üldkoosolek tuleb korraldada digitaalselt.
 
@@ -38,7 +41,7 @@ text: |
 
   Tahtsime anda liikmetele võimaluse materjalidega varem tutvuda ning arutelus osaleda juba enne üldkoosolekut, seega saatsin kaks nädalat varem kõigile liikmetele Citizen OS platvormi kasutusjuhendi ja lingi, kust nad teema leidsid.
 
-  ![PARE juhised koosolekul osalejatele .](/assets/images/news/pare-union-step-by-step-est.png)
+  ![PARE juhised koosolekul osalejatele.](/assets/images/news/pare-union-step-by-step-est.png)
 
   PARE juhised koosolekul osalejatele.{ .text-muted }
 
@@ -67,7 +70,7 @@ text: |
 
   Vestlesime ka meie Partnersuhete juhi, Anett Linnoga, et ta oma mõtteid koostööprotsessist jagaks. Anetti sõnul on PARE ja Citizen OS-i omavaheline koostöö hea näide sellest, kuidas uut tööriista rakendada:
 
-  **“„Iga uue tehnoloogia kasutuselevõtt organisatsioonis nõuab teatavat planeerimist ja ettevalmistust ning Citizen OS ei ole siinkohal erand. Aastate jooksul oleme aru saanud, et edukus sõltub suuresti sellest, kui hästi on organisatsiooni poolt korraldatud platvormi kasutusele võtmise protsess ning PARE tegi seda väga edukalt.”**
+  **„Iga uue tehnoloogia kasutuselevõtt organisatsioonis nõuab teatavat planeerimist ja ettevalmistust ning Citizen OS ei ole siinkohal erand. Aastate jooksul oleme aru saanud, et edukus sõltub suuresti sellest, kui hästi on organisatsiooni poolt korraldatud platvormi kasutusele võtmise protsess ning PARE tegi seda väga edukalt.”**
   { .text-center }
 
   { #three-dots }
