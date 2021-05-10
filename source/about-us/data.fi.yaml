@@ -1,0 +1,40 @@
+---
+path: /tietoja-meista
+title: Tietoja meistä
+description: Citizen OS on ilmainen ja turvallinen avoimen lähdekoodin alusta kansalaisaloitteille. Olemme voittoa tavoittelematon järjestö.
+keywords:
+  - avoin lähdekoodi
+  - kansalaisaloite
+  - kansalaisliike
+image: /assets/images/meta/home.jpg
+blocks:
+  company-img:
+    class:
+      - d-none
+      - d-sm-block
+    style:
+      background: 'linear-gradient(180deg, #0EB7FE 0%, #0680FC 100%)'
+      min-height: 75vh
+  company:
+    #label: About
+    title: |
+      Tietoja meistä.
+    texts:
+      - |
+        Citizen OS on Tallinnassa sijaitseva voittoa tavoittelematon avoimen lähdekoodin kansalaisteknologiaorganisaatio.
+
+        Tehtävämme on tehdä maailmasta parempi paikka: lue miten käymällä [Projektit](/fi/projektit/)-sivullamme.
+
+        Citizen OS -alusta lanseerattiin syyskuussa 2015. Sen jälkeen olemme luoneet luottamuksellisia suhteita monien julkisten ja yksityisten käyttäjäryhmien kanssa ympäri maailmaa.
+      - |
+        Suhtaudumem alustamme turvallisuuteen hyvin vakavasti. Lue lisää [täältä](/news/the-key-to-online-democracy-is-trust/).
+      - |
+
+      - |
+        #### Citizen OS:ia tukevat:
+      - |
+        - Filantrooppi ja yrittäjä Ahti Heinla
+        - [Let’s Do It! Foundation](https://www.letsdoitworld.org/)
+        { .arrow }
+      - |
+        Citizen OS -hanketta on rahoitettu valtiosta riippumattomille järjestöille tarkoitetuin EEA-maksuosuuksin, joiden välittäjänä on toiminut [Open Estonia Foundation](https://oef.org.ee/in-english).
