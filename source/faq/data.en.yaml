@@ -1,0 +1,95 @@
+path: /faq
+
+title: FAQ
+description: Frequently asked questions. If you cannot see your answer here, please email us at support@citizenos.com!
+keywords:
+    - digital signature
+    - decide together
+    - e-participation
+image: /assets/images/meta/home.jpg
+
+
+blocks:
+    decision-img:
+        class:
+            - order-1
+        style:
+            background-color: '#FFF1AD'
+            background-image: url(/assets/images/product-start.png), url(/assets/images/bubble-dots.png), url(/assets/images/bubble-orange.svg)
+            background-position: center center, 0% 20%, 70% 10%
+            background-size: 500px 500px, 350px 350px, 100px 100px
+
+    decision:
+        class:
+            - order-0
+            - py-5
+        style:
+            background-color: '#FFF1AD'
+            background-image: url(/assets/images/bubble-turquoise.svg), url(/assets/images/bubble-yellow.svg)
+            background-position: 10% 5%, 90% 90%
+            background-size: 75px 75px, 65px 65px
+        label: Frequently asked questions
+        title: |
+            User Help FAQs for our platform.
+        text:
+            We’ve put together this list of Frequently Asked Questions for our Citizen OS co-decision platform. Watch this space for our new Help Centre coming soon, but in the meantime—if you ever get stuck this is a great place to start!
+
+            -[Why can't I access the group or topic I've been invited to?](#access)
+            -[Features](#features)
+            -[Case studies](#case-study-2)
+            -[Statistics](#stats)
+            { .arrow }
+        button1st:
+            title: Play demo
+            url: 'https://www.youtube.com/embed/UC44qCCIixE?rel=0&showinfo=0&modestbranding=1&autoplay=1&cc_load_policy=1&cc_lang_pref=en'
+            title: Step-by-step written guide.
+            url: https://app.citizenos.com/et/topics/c6b6d06a-e8cf-4297-9654-8c1cf01b133b?argumentsPage=1
+
+        button1st:
+            title: Email support
+            url: 'mailto:support@citizenos.com'
+
+    features-img:
+        class:
+            - order-2
+        style:
+            background-color: '#F7F7F7'
+            background-image: url(/assets/images/bubble-orange.svg), url(/assets/images/bubble-dots.png)
+            background-position: 100% 15%, 90% 15%
+            background-size: 165px 165px, 350px 350px
+        text: |
+            ![A female member of Citizen OS staff attending an event to answer questions about the platform.](/assets/images/product-features.jpg){ .img-fluid .box-shadow }
+
+    features:
+        class:
+            - order-3
+        style:
+            background: '#F7F7F7'
+#        label: Features
+        title: |
+            Why can't I access the group or topic I've been invited to?
+        text: |
+            **Topics and groups can only be accessed using a Citizen OS account which is registered with the same email address the invitation was sent to.**
+
+            Follow these two key steps for topic/group access:
+
+            1. **Click on the link in the invitation email** you received for joining the group or topic.
+
+            2. **Login or register using the same email address the invitation was sent to**, according to the two scenarios below:
+
+            - If you already have a Citizen OS account registered with the email address your invitation was sent to, log in using that account.
+
+            **or**
+
+            - If you do not yet have a Citizen OS account registered with the email address your invitation was sent to, register a new one with the correct address.
+
+            A few tips:
+
+            - **If you are logging in with a social login** such as Google or Facebook, this will only work if your social media account is registered with the same email address as the one with which you were invited to the group or topic.
+            - **If you are logging in with your ID-card/Mobile ID**, this will only work if you have previously created a Citizen OS account with the email address to which the invitation was sent, and have previously digitally signed at least one document through that account. If this is not the case, you will need to log in using the email address instead.
+            - **If you are unsure what email address your Citizen OS account is registered with**, or which account you are currently logged in to, you can check this in “My Account” next to your profile avatar.
+            { .bullet }
+
+        button1st:
+            title: Email support
+            url: 'mailto:support@citizenos.com'

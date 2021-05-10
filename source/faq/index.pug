@@ -1,0 +1,49 @@
+extends /_templates/blocks.pug
+
+
+append content
+    if self.blocks['decision-img'] && self.blocks['decision-img'].video
+        +video(self.blocks['decision-img'].video.id, self.blocks['decision-img'].video.url)
+
+    if self.blocks.flexibleformat && self.blocks.flexibleformat.blocks
+        #flexibleformat-blocks.d-none
+            .row.mt-5
+                each b, key in self.blocks.flexibleformat.blocks
+                    if key !== 'widget'
+                        .col-12.col-sm-4.mb-5
+                            .news-block.col-12.h-100.bg-white.box-shadow.p-0
+                                img.w-100(src=b.poster, alt=b.title)
+                                .py-3.px-3
+                                    h4.mt-0.mb-2= b.title
+                                    +markdown(b.text)
+            .row
+                - var b = self.blocks.flexibleformat.blocks.widget
+                .news-block.col-12
+                    .col-12.h-100.bg-white.box-shadow.p-0
+                        .row
+                            .col-12.col-sm-4
+                                #flexibleformat-lastbox.col-12.py-3.px-5.h-100.d-flex.align-items-center
+                                    img.w-100(src=b.poster, alt=b.title)
+                            .col-12.col-sm-8.pt-3.px-4.px-sm-3.text-left
+                                h4.mt-0.mb-2= b.title
+                                +markdown(b.text)
+
+    if self.blocks.options && self.blocks.options.blocks
+        #option-blocks.d-none
+            .row.mt-5
+                each b in self.blocks.options.blocks
+                    .col-12.col-sm-4.mb-3
+                        .option-block.col-12.h-100.bg-white.py-4.px-5.box-shadow
+                            h4= b.title
+                            +markdown(b.text)
+                            span.d-block.my-3= b.subtext
+                            a.btn.btn-primary.my-2(href=b.button.url)= b.button.title
+
+    if self.blocks.stats && self.blocks.stats.blocks
+        #stats-blocks.d-none
+            .row.my-5
+                each b, id in self.blocks.stats.blocks
+                    .stats-block.col-12.col-sm-3.text-center
+                        h4
+                            = b.title
+                            span.stats-value.d-block.mb-2(data-id=id)
