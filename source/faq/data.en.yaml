@@ -28,23 +28,29 @@ blocks:
             background-image: url(/assets/images/bubble-turquoise.svg), url(/assets/images/bubble-yellow.svg)
             background-position: 10% 5%, 90% 90%
             background-size: 75px 75px, 65px 65px
-        label: Frequently asked questions
+#        label: Frequently asked questions
         title: |
             User Help FAQs for our platform.
         text:
             We’ve put together this list of Frequently Asked Questions for our Citizen OS co-decision platform. Watch this space for our new Help Centre coming soon, but in the meantime—if you ever get stuck this is a great place to start!
 
             -[Why can't I access the group or topic I've been invited to?](#access)
-            -[Features](#features)
-            -[Case studies](#case-study-2)
-            -[Statistics](#stats)
+            -[Can I see how many people have voted while the vote is still in progress?](#people)
+            -[Can I see who has voted while the vote is still in progress?](#case-study-2)
+            -[In Estonia, when votes are cast using digital signatures, what file formats and data will I be able to download?](#stats)
+            -[In Estonia, when submitting digital signatures to the Commercial Register, Riigikogu or local government, what file types should I download?](#stats)
+            -[Can I see if any of the email addresses I invited to a group or topic bounced?](#stats)
+            -[What is the maximum attachment size that can be uploaded, and what file types are allowed?](#stats)
+            -[In what situations does the Citizen OS platform send out automatic email notifications to users?](#stats)
+            -[Why can't I log in through Internet Explorer?](#stats)
+            -[How does Foundation Citizen OS fund itself if the platform is free?](#stats)
             { .arrow }
 
         button1st:
             title: Email support
             url: 'mailto:support@citizenos.com'
 
-    features-img:
+    access-img:
         class:
             - order-2
         style:
@@ -53,9 +59,9 @@ blocks:
             background-position: 100% 15%, 90% 15%
             background-size: 165px 165px, 350px 350px
         text: |
-            ![A female member of Citizen OS staff attending an event to answer questions about the platform.](/assets/images/product-features.jpg){ .img-fluid .box-shadow }
+            ![A female member of Citizen OS staff attending an event to answer questions about the platform.](/assets/images/product-start.png){ .img-fluid .box-shadow }
 
-    features:
+    access:
         class:
             - order-3
         style:
