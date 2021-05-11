@@ -1,11 +1,11 @@
 ---
-path: /faq
-title: FAQ
-description: Frequently asked questions. If you cannot see your answer here, please email us at support@citizenos.com!
+path: kkk
+title: KKK
+description: 'Korduma kippuvad küsimused. Kui te siit vastust ei leidnud, kirjutage palun klienditoele: support@citizenos.com!'
 keywords:
-  - digital signature
-  - decide together
-  - e-participation
+  - digiallkiri
+  - e-koosolek
+  - e-kaasamine
 image: /assets/images/meta/home.jpg
 blocks:
   decision-img:
@@ -24,32 +24,31 @@ blocks:
       background-size: 75px 75px, 65px 65px
     #label: Frequently asked questions
     title: |
-      User Help FAQs for our platform.
+      Kasutajate KKK Citizen OS platvormi kohta.
     text: |
-      We’ve put together this list of Frequently Asked Questions for our Citizen OS co-decision platform. Watch this space for our new Help Centre coming soon, but in the meantime—if you ever get stuck this is a great place to start!
+      Oleme oma kasutajate korduma kippuvad küsimused koondanud siia dokumenti. Peagi saab valmis ka meie Abikeskus, seniks aga loodame, et leiad oma küsimusele vastuse sellest dokumendist.
 
+      [Miks ma ei pääse gruppi või teemasse, kuhu mind on kutsutud?](#access)
 
-      [Why can't I access the group or topic I've been invited to?](#access)
+      [Kas ma saan teada, mitu inimest on hääletanud, kui hääletus veel kestab?](#people)
 
-      [Can I see how many people have voted while the vote is still in progress?](#people)
+      [Kas ma saan hääletuse ajal näha, kes on hääletanud ja kes mitte?](#who)
 
-      [Can I see who has voted while the vote is still in progress?](#who)
+      [Mis kujul ja missuguseid andmeid kuvatakse digiallkirjastamisega hääletustulemuste failis?](#file)
 
-      [In Estonia, when votes are cast using digital signatures, what file formats and data will I be able to download?](#file)
+      [Mis failitüübid tuleb mul alla laadida, et digiallkirjastatud hääletustulemused esitada Äriregistrile, Riigikogule või kohalikule omavalitsusele?](#ariregister)
 
-      [In Estonia, when submitting digital signatures to the Commercial Register, Riigikogu or local government, what file types should I download?](#ariregister)
+      [Kas süsteem teavitab mind, kui mõni meiliaadress, mille sisestasin teemasse või gruppi kutsumiseks, saadetakse tagasi?](#bounce)
 
-      [Can I see if any of the email addresses I invited to a group or topic bounced?](#bounce)
+      [Mis on manuse maksimaalne maht ja missugused failitüübid on lubatud üles laadida?](#mu)
 
-      [What is the maximum attachment size that can be uploaded, and what file types are allowed?](#mu)
+      [Millal saadab Citizen OS välja automaatsed teavitused kasutajatele?](#notify)
 
-      [In what situations does the Citizen OS platform send out automatic email notifications to users?](#notify)
+      [Miks ma ei saa Internet Exploreri kaudu siseneda?](#explorer)
 
-      [Why can't I log in through Internet Explorer?](#explorer)
-
-      [How does Foundation Citizen OS fund itself if the platform is free?](#fund)
+      [Kuidas Citizen OS end rahastab, kui platvorm on tasuta?](#fund)
     button1st:
-      title: Email support
+      title: Kiri kasutajatoele
       url: 'mailto:support@citizenos.com'
   access-img:
     class:
@@ -59,34 +58,34 @@ blocks:
       background-position: 100% 15%, 90% 15%
       background-size: 165px 165px, 350px 350px
     text: |
-      ![Screenshot of the platform.](/assets/images/faq-start-eng.png){ .img-fluid .box-shadow }
+      ![Kuvatõmmis platvormist](/assets/images/faq-start-est.png){ .img-fluid .box-shadow }
   access:
     class:
     style:
       background: '#F7F7F7'
     #label: Features
     title: |
-      Why can't I access the group or topic I've been invited to?
+      Miks ma ei pääse gruppi või teemasse, kuhu mind on kutsutud?
     text: |
-      **Topics and groups can only be accessed using a Citizen OS account which is registered with the same email address the invitation was sent to.**
+      **Kutsutud teemasse ja gruppi pääseb ainult selle Citizen OS kontoga, mis on registreeritud sama meiliaadressiga, kuhu kutse saadeti.**
 
-      Follow these two key steps for topic/group access:
+      Gruppi või teemasse ligipääsu saamiseks tuleb teha järgmist:
 
-      1. **Click on the link in the invitation email** you received for joining the group or topic.
+      1. **Klõpsa kutses olevale lingile**, et pääseda teemasse või gruppi.
 
-      2. **Login or register using the same email address the invitation was sent to**, according to the two scenarios below:
+      2. **Logi sisse või registreeri konto sama meiliaadressiga, millele kutse saadeti**, vastavalt sellele, kas Sul on juba konto loodud või mitte:
 
-      - If you **already have a Citizen OS account registered with the email** address your invitation was sent to, log in using that account.
+      - Kui Sul **on juba loodud Citizen OS konto sama meiliaadressiga**, millele kutse saadeti, logi selle kontoga sisse.
 
-      **or**
+      **või**
 
-      - If you **do not yet have a Citizen OS account registered with the email** address your invitation was sent to, register a new one with the correct address.
+      - Kui Sul **veel ei ole loodud Citizen OS kontot meiliaadressiga, millele kutse saadeti**, loo selle meiliaadressiga uus konto.
 
-      A few tips:
+      Mõned näpunäited:
 
-      - **If you are logging in with a social login** such as Google or Facebook, this will only work if your social media account is registered with the same email address as the one with which you were invited to the group or topic.
-      - **If you are logging in with your ID-card/Mobile ID**, this will only work if you have previously created a Citizen OS account with the email address to which the invitation was sent, and have previously digitally signed at least one document through that account. If this is not the case, you will need to log in using the email address instead.
-      - **If you are unsure what email address your Citizen OS account is registered with**, or which account you are currently logged in to, you can check this in “My Account” next to your profile avatar.
+      - **Kui logid sisse sotsiaalmeedia kontoga**, näiteks Google´i või Facebookiga, pääsed gruppi või teemasse ainult sellisel juhul, kui Sinu sotsiaalmeediakonto on registreeritud sama meiliaadressiga, mille kaudu Sind gruppi või teemasse kutsusti.
+      - **Kui logid sisse ID kaardi või Mobiil-IDga**, pääsed gruppi või teemasse ainult sellisel juhul, kui Sinu isikukood on selle meiliaadressiga seotud. Selleks pead Sa varasemalt olema digiallkirjastanud vähemalt ühe dokumendi sama meiliaadressiga loodud konto alt. Juhul, kui Sa varasemalt dokumenti digiallkirjastanud ei ole, puudub Sul ID kaardi või Mobiil-IDga sisse logides õigus gruppi või teemasse pääsemiseks..
+      - **Kui Sa pole kindel, millise meiliaadressiga Su Citizen OSi konto on loodud** või mis kontoga Sa oled sisse logitud, saad seda vaadata “Minu konto” alt vasakul menüüribal.
   people-img:
     class:
     style:
@@ -95,29 +94,29 @@ blocks:
       background-position: 100% 15%, 90% 15%
       background-size: 165px 165px, 350px 350px
     text: |
-      ![Screenshot of the platform.](/assets/images/how-many-people-voted-eng.png){ .img-fluid .box-shadow }
+      ![Screenshot of the platform.](/assets/images/how-many-people-voted-est.png){ .img-fluid .box-shadow }
 
 
-      ![Screenshot of the platform.](/assets/images/voting-results-eng.png){ .img-fluid .box-shadow }
+      ![Screenshot of the platform.](/assets/images/voting-results-est.png){ .img-fluid .box-shadow }
   people:
     class:
     style:
       background: '#F7F7F7'
     #label: Features
     title: |
-      Can I see how many people have voted while the vote is still in progress?
+      Kas ma saan hääletuse ajal näha, kes on hääletanud ja kes mitte?
     text: |
-      **Yes, anyone can see how many people have voted, both during and after the vote. This is displayed as an anonymous numerical result.**
+      **Jah, hääletanud inimeste arvu saab näha nii hääletuse ajal kui ka pärast hääletamise lõppu. Tulemusi kuvatakse numbriliselt ja need on anonüümsed.**
 
-      To see this:
+      Hääletanud inimeste arvu nägemiseks:
 
-      1. Go into the topic then click on the “Vote” tab at the top.
+      1. Mine teemasse ning klõpsa teema ülaservas olevale “Hääleta” nupule.
 
-      2. To the right of “Cast your vote” or “Voting results” (depending on whether the vote is still ongoing) you will see the number of votes cast.
+      2. Paremal üleval nurgas “Häält loetud” vaates kuvatakse loetud hääli numbriliselt.
 
-      In a **private topic**, you will see two numbers. The first number (left) shows how many people have voted and the second number (right) shows how many people have joined the topic in total.
+      **Privaatses teemas** kuvatakse kahte numbrit. Esimene (vasakpoolne) number näitab, mitu inimest on hääletanud ning teine (parempoolne) number näitab, mitu inimest on teemaga liitunud.
 
-      In a **public topic**, you will see just one number. This is the number of people who have voted so far.
+      **Avalikus teemas** kuvatakse ainult ühte numbrit, mis näitab, mitu inimest on oma hääle andnud.
   who-img:
     class:
     style:
@@ -126,23 +125,23 @@ blocks:
       background-position: 100% 15%, 90% 15%
       background-size: 165px 165px, 350px 350px
     text: |
-      ![Screenshot of the platform.](/assets/images/faq-start-eng.png){ .img-fluid .box-shadow }
+      ![Kuvatõmmis platvormist](/assets/images/faq-start-est.png){ .img-fluid .box-shadow }
   who:
     class:
     style:
       background: '#F7F7F7'
     #label: Features
     title: |
-      Can I see who has voted while the vote is still in progress?
+      Kas ma saan hääletuse ajal näha, kes on hääletanud ja kes mitte?
     text: |
-      **No, the administrator(s) of a topic can see who has voted, but only once the voting period has ended.**
+      **Ei, hääletuse ajal ei saa näha, kes on hääletanud ja kes mitte, kuid teema administraator saab hääletustulemused nimeliselt peale hääletuse lõppemist.**
 
-      However, administrators are able to see who has joined the topic in the Activity Feed, which is located below “My account” in the main navigation menu. There, the names of everyone who has joined or commented on the topic so far are displayed, along with the date and time they did so. The date and time of votes cast are displayed too, but anonymously.
+      Hääletuse ajal saab administraator tegevusvoo alt näha, kes on teemaga liitunud või teemat kommenteerinud. Tegevusvoog asub vasakul menüüribal “Minu konto” all. Hääletanud inimeste kohta jääb tegevusvoos anonüümne jälg, kus kuvatakse kuupäev ja kellaaeg, millal hääl anti, kuid hääle andnud inimese nime ei kuvata.
 
-      When the voting period ends, the administrator(s) can download a summary report with the voting results and voter details. The voter details will either be a personal ID or a Citizen OS user ID, depending on how the vote was cast.
+      Peale hääletuse lõppemist saab teema administraator alla laadida koondaruande hääletustulemustega, kus kuvatakse ka hääletanud inimeste andmed.  Sõltuvalt hääletuse tüübist kuvatakse hääle andnud inimese andmed kas isikukoodi või Citizen OS-i kasutajatunnusena.
 
-      **Why we protect anonymity during the vote.**
-      At Citizen OS we believe that not voting can be a means of expressing opinion. For example, if someone does not agree with the question or the options available to vote upon, they may actively decide not to vote. If the vote administrator tries to incite them to vote, this could deprive them of their freedom to express their views through not voting. Such information is kept confidential in national votes for the same reason.
+      **Miks me lubame ainult anonüümseid hääletusi:**
+      Citizen OS-i seisukoht on, et nii hääletusel osalemine kui ka osalemata jätmine on mõlemad  seisukohad. Võib juhtuda, et inimene ei nõustu küsimuse püstitamisega või valikvastustega ning tegemist ei pruugi olla inaktiivsusega. Kui teema algataja soovib utsitada neid inimesi, kes hääletanud ei ole, siis võetakse sellega ära võimalus väljendada oma seisukohta hääletamata jätmisega ning see vähendaks inimeste valikuvabadust ja privaatsust. Samal põhjusel ei näe keegi personaalset valimisaktiivsust valimiste ajal riigis.
   file-img:
     class:
     style:
@@ -151,30 +150,30 @@ blocks:
       background-position: 100% 15%, 90% 15%
       background-size: 165px 165px, 350px 350px
     text: |
-      ![Screenshot of the platform.](/assets/images/faq-start-eng.png){ .img-fluid .box-shadow }
+      ![Kuvatõmmis platvormist](/assets/images/faq-start-est.png){ .img-fluid .box-shadow }
   file:
     class:
     style:
       background: '#F7F7F7'
     #label: Features
     title: |
-      In Estonia, when votes are cast using digital signatures, what file formats and data will I be able to download?
+      Mis kujul ja missuguseid andmeid kuvatakse digiallkirjastamisega hääletustulemuste failis?
     text: |
-      **When someone votes with a digital signature in Estonia, the topic administrator can download the voting results as a BDOC file containing the data below.**
+      **Digiallkirjastamisega hääletamisel saab teema administraator hääletustulemused alla laadida BDOC failina, mis sisaldab allolevat infot:**
 
-      BDOC container (‘Final.bdoc’) contents:
+      Final.bdoc konteiner sisaldab:
 
-      - document.docx - a file with the text from the topic description
-      - __metainfo.html - a metadata file that contains the topic ID and vote ID
-      - .html files with the names of the vote options, containing the option ID and text
-      - each user's vote containers
-      - an optional CSV file*
+      - document.docx - fail teema sisuga,
+      - __metainfo.html - metaandmete fail, mis sisaldab teema ID-d ja hääletuse ID-d,
+      - .html failid valikute nimedega, mis sisaldavad valiku ID-d ja teksti,
+      - iga kasutaja hääle konteinerid ja vastavalt valikule ka .CSV fail,
+      - valikuline CSV fail.
       { .bullet }
 
-      *A CSV file is a comma-separated values file, which presents data in a tabular format. Each voter has a separate line in the table, which shows the date and time they voted, their name, their personal identification code, the options they voted for and the file name of each option they voted for.*
+      *CSV fail -- (comma separated values) ehk tabelfail kus iga hääletaja kohta on rida koos tema poolt tehtud valikuga. Rida koosneb hääle andmise ajast, nimest, isikukoodist, kasutaja tehtud valikud ja iga valiku faili nimetus.*
 
-      Here is an example of a line in a vote CSV file:
-      *Thu Jan 21 2021 13:51:07 GMT + 0200 (Eastern European Standard Time), PNOEE-112233444, JAAK ERVIN SINGLE-GATE, "Two, Three", "Two.html, Three.html"*
+      Siin on näide CSV faili ühest reast:
+      *Thu Jan 21 2021 13:51:07 GMT+0200 (Eastern European Standard Time),PNOEE-112233444,JAAK ERVIN ÜKSJALG-VÄRAV,"Kaks,Kolm","Kaks.html,Kolm.html"*
   ariregister-img:
     class:
     style:
@@ -183,18 +182,18 @@ blocks:
       background-position: 100% 15%, 90% 15%
       background-size: 165px 165px, 350px 350px
     text: |
-      ![Screenshot of the platform.](/assets/images/ariregister-eng.png){ .img-fluid .box-shadow }
+      ![Kuvatõmmis platvormist](/assets/images/ariregister-est.png){ .img-fluid .box-shadow }
   ariregister:
     class:
     style:
       background: '#F7F7F7'
     #label: Features
     title: |
-      In Estonia, when submitting digital signatures to the Commercial Register, Riigikogu or local government, what file types should I download?
+      Mis failitüübid tuleb mul alla laadida, et digiallkirjastatud hääletustulemused esitada Äriregistrile, Riigikogule või kohalikule omavalitsusele?
     text: |
-      **The Commercial Register only accepts BDOC containers that do not contain CSV files.** “Container without CSV” should therefore be selected when downloading the signature files. The entire BDOC container should then be submitted to the Commercial Register.
+      **Äriregister aktsepteerib ainult BDOC konteinerit, mis ei sisalda CSV faili.** Peale hääletamise lõppemist tuleb alla laadida BDOC fail, mis ei sisalda CSV faili ning esitada kogu konteineri sisu Äriregistrile.
 
-      **When submitting digital signatures to the Riigikogu or local government, “Container with CSV” must be selected.** The entire BDOC container should then be submitted.
+      **Riigikogu ja kohalikud omavalitsused aktsepteerivad BDOC konteinerit, mis sisaldab CSV faili.** Peale hääletuse lõppemist tuleb alla laadida BDOC fail, mis sisaldab CSV faili ning esitada kogu konteineri sisu Riigikogule või kohalikule omavalitsusele.
   bounce-img:
     class:
     style:
@@ -203,22 +202,23 @@ blocks:
       background-position: 100% 15%, 90% 15%
       background-size: 165px 165px, 350px 350px
     text: |
-      ![Screenshot of the platform.](/assets/images/faq-start-eng.png){ .img-fluid .box-shadow }
+      ![Kuvatõmmis platvormist](/assets/images/faq-start-est.png){ .img-fluid .box-shadow }
   bounce:
     class:
     style:
       background: '#F7F7F7'
     #label: Features
     title: |
-      Can I see if any of the email addresses I invited to a group or topic bounced?
+      Kas süsteem teavitab mind, kui mõni meiliaadress, mille sisestasin teemasse või gruppi kutsumiseks, saadetakse tagasi?
     text: |
-      **No, if you send an invitation to an email address which does not exist the system will not notify you.**
+      **Ei, kui Sa saadad kutse meiliaadressile, mida ei eksisteeri, siis süsteem Sind sellest ei teavita.**
 
-      So before inviting users to a group or topic, make sure that the email addresses you have entered are correct and in use.
+      Mõned vihjed, mida tähele panna, et kõik inimesed saaksid kutsed kätte:
 
-      Please also check that you have entered all email addresses in the correct format (i.e. “hello@email” rather than “hello@email.com”). Otherwise the system will not accept it, and the invite will not be sent.
-
-      You can view which invites have been sent by selecting the relevant topic or group in the “My topics” or “My Groups” page, then clicking on “User list” underneath the “General information” box. However, non-existent email addresses will be included here as “Pending”, as the system cannot recognise that they are incorrect.
+      - Enne kasutajate kutsumist gruppi või teemasse tuleks veenduda, et sisestatud meiliaadressid on korrektsed ning kasutusel;
+      - Palun veendu, et kõik sisestatud meiliaadressid on õiges formaadis (õige kuju on hallo@mail.com mitte näiteks hallo@mail). Vastasel juhul meie süsteem ei aktsepteeri seda ning kutse välja ei lähe.
+      - Saadetud kutseid saab vaadata “Minu grupid” või “Minu teemad” lehelt, klõpsates üldinfo vaates “Kasutajad” nupule. Meiliaadressid, millel ei ole tegelikku saajat (mille formaat on õige, kuid mis on vigaselt sisestatud), kuvatakse nimekirjas kui “Ootel” meiliaadressid.
+      { .bullet }
   mu-img:
     class:
     style:
@@ -236,11 +236,9 @@ blocks:
     title: |
       Mis on manuse maksimaalne maht ja missugused failitüübid on lubatud üles laadida?
     text: |
-      **The permitted file attachments are as follows:**
-
-      - The maximum size of a single attachment in a topic is 50 MB.
-      - A maximum of 10 files can be attached to one topic.
-      - Acceptable file types are: 'txt', 'pdf', 'doc', 'docx', 'ddoc', 'bdoc', 'odf', 'odt', 'jpg', 'jpeg', 'img', 'png', 'rtf ',' xls', 'xlsx', 'ppt', 'pptx', 'pps',' xlt'.
+      - Ühe manuse maksimaalne maht on 50 MB.
+      - Ühe teema juurde saab lisada kuni 10 faili.
+      - Lubatud failitüübid üleslaadimisel on 'txt', 'pdf', 'doc', 'docx', 'ddoc', 'bdoc', 'odf', 'odt', 'jpg', 'jpeg', 'img', 'png', 'rtf', 'xls', 'xlsx', 'ppt', 'pptx', 'pps', 'xlt'.
       { .bullet }
   notify-img:
     class:
@@ -250,23 +248,23 @@ blocks:
       background-position: 100% 15%, 90% 15%
       background-size: 165px 165px, 350px 350px
     text: |
-      ![Screenshot of the platform.](/assets/images/faq-start-eng.png){ .img-fluid .box-shadow }
+      ![Kuvatõmmis platvormist](/assets/images/faq-start-est.png){ .img-fluid .box-shadow }
   notify:
     class:
     style:
       background: '#F7F7F7'
     #label: Features
     title: |
-      In what situations does the Citizen OS platform send out automatic email notifications to users?
+      Millal saadab Citizen OS välja automaatsed teavitused kasutajatele?
     text: |
-      **Emails notifications are automatically sent in the three following situations:**
+      **Automaatselt saadab Citizen OS välja teavitused kolmel juhul:**
 
-      - When a person is added to a group, they will receive an invitation email. (We therefore recommend posting at least one topic in the group before adding people, as being invited to an empty group can cause confusion.)
-      - When a person is invited to a topic, they will receive an invitation email.
-      - When a new topic is added to a group, an invitation email will be sent to all existing group members.
+      - Kui inimene lisatakse gruppi, saab ta kutse grupiga liitumiseks. Enne inimeste gruppi lisamist soovitame seal avaldada vähemalt ühe teema, kuna vastasel juhul jõuavad kutse saanud inimesed tühja gruppi, mis võib tekitada segadust.
+      - Kui inimene lisatakse teemasse, saab ta kutse teemaga liitumiseks.
+      - Kui gruppi lisatakse uus teema, saadab süsteem kõikidele grupi liikmetele kutse teemaga liitumiseks.
       { .bullet }
 
-      There are no notifications in any other situations. For example, if you send a topic to vote, you will need to contact the topic participants yourself to let them know that they can start voting.
+      Teistes olukordades ei saada süsteem välja automaatseid teavitusi. Näiteks, kui Sa saadad teema hääletusele, tuleb Sul teemas osalejatega ise ühendust võtta ning teavitada neid, et teema on hääletamisel.
   explorer-img:
     class:
     style:
@@ -275,18 +273,18 @@ blocks:
       background-position: 100% 15%, 90% 15%
       background-size: 165px 165px, 350px 350px
     text: |
-      ![Screenshot of the platform.](/assets/images/faq-start-eng.png){ .img-fluid .box-shadow }
+      ![Kuvatõmmis platvormist](/assets/images/faq-start-est.png){ .img-fluid .box-shadow }
   explorer:
     class:
     style:
       background: '#F7F7F7'
     #label: Features
     title: |
-      Why can't I log in through Internet Explorer?
+      Miks ma ei saa Internet Exploreri kaudu siseneda?
     text: |
-      **Citizen OS does not support logins through Internet Explorer as it is an out-of-date browser and more reliable browsers are available for free, such as Chrome or Firefox.**
+      **Kuna Internet Explorer on ajale jalgu jääv brauser ning sellest töökindlamaid brausereid on tasuta saadaval (näiteks Chrome või Firefox), ei toeta Citizen OS Internet Exploreri platvormil töötamist.**
 
-      Microsoft themselves will soon cease to support Internet Explorer, and have already started redirecting users to their newer browser, Edge.
+      Microsoft lõpetab peagi Internet Exploreri toetamise ning on ka ise hakanud inimesi suunama uuema Edge brauseri peale.
   fund-img:
     class:
     style:
@@ -295,19 +293,19 @@ blocks:
       background-position: 100% 15%, 90% 15%
       background-size: 165px 165px, 350px 350px
     text: |
-      ![Screenshot of the platform.](/assets/images/faq-start-eng.png){ .img-fluid .box-shadow }
+      ![Kuvatõmmis platvormist](/assets/images/faq-start-est.png){ .img-fluid .box-shadow }
   fund:
     class:
     style:
       background: '#F7F7F7'
     #label: Features
     title: |
-      How does Citizen OS fund itself if the platform is free?
+      Kuidas Citizen OS end rahastab, kui platvorm on tasuta?
     text: |
-      **In the six years since its inception, Citizen OS's sources of revenue have been project-based grants and private donations.**
+      **Citizen OS-i tuluallikateks on kogu senise tegevusaja jooksul olnud projektipõhised toetused ja eraisikute annetused.**
 
-      The majority of our running costs so far have been covered by a private philanthropist who is well-known in the Estonian technology field.
+      Suurima osa kuludest on esimese kuue tegevusaasta jooksul katnud üks Eesti tehnoloogiamaastikul väga tuntud eraisikust filantroop. 
 
-      Looking ahead, revenues from service fees, additional private donations and some additional paid features on the platform are possibilities we are exploring for the future.
+      Tulevikus on kindlasti võimalik nii teenustasude, täiendavate eraisiku annetuste kui ka mõnede platvormi tasuliste lisafunktsioonide pealt laekuv tulu. 
 
-      However, Citizen OS is and will always remain a social enterprise, meaning that it will remain non-profit oriented, and should profits ever be generated they will be reinvested into the organisation and the pursuit of our mission.
+      Citizen OS on ja jääb sotsiaalseks ettevõtteks, see tähendab, et kasumit ei taotleta ja kui see peaks kunagi tekkima, siis investeeritakse see tagasi organisatsiooni eesmärkide ja missiooni elluviimisesse.
