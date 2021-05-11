@@ -1,11 +1,11 @@
 ---
-path: /about-us
-title: About us
-description: Citizen OS is a free and secure open source platform for citizen initiatives. We are a not-for-profit organisation.
+path: /o-nas
+title: О нас
+description: Citizen OS — бесплатная и безопасная платформа с открытым исходным кодом для гражданских инициатив. Мы - некоммерческая организация.
 keywords:
-  - open source
-  - civic initiative
-  - civic movement
+  - открытый исходный код
+  - гражданская инициатива
+  - гражданское движение
 image: /assets/images/meta/home.jpg
 blocks:
   company-img:
@@ -18,23 +18,23 @@ blocks:
   company:
     #label: About
     title: |
-      About us.
+      О нас.
     texts:
       - |
-        Citizen OS is an open source civic tech non-profit, based in Tallinn, Estonia.
+        Citizen OS — некоммерческая платформа гражданских технологий, использующая ПО с открытым исходным кодом и базирующаяся в Таллине, Эстония.
 
-        We’re on a mission to change the world for the better; visit our [Projects](/projects/) page to find out how.
+        Наша цель — изменить мир к лучшему. Подробности нашей работы вы можете узнать на странице [Проекты](/ru/proyekty/).
 
-        The Citizen OS platform went live in September, 2015. Since then, we have gained the trust of many public and private user groups around the world.
+        Платформа Citizen OS начала работать в сентябре 2015 года. С тех пор мы завоевали доверие множества публичных организаций, закрытых сообществ и групп пользователей по всему миру.
       - |
-        We take the security of our platform very seriously; read more about this [here](/news/the-key-to-online-democracy-is-trust/).
+        Мы очень серьезно относимся к безопасности нашей платформы; подробнее об этом можно прочитать [здесь](/news/the-key-to-online-democracy-is-trust/).
       - |
 
       - |
-        #### Citizen OS is supported by:
+        #### Citizen OS поддерживают:
       - |
-        - Philanthropist & entrepreneur Ahti Heinla
-        - [Let’s Do It! Foundation](https://www.letsdoitworld.org/)
+        - Филантроп и предприниматель Ахти Хейнла
+        - [Фонд Let’s Do It!](https://www.letsdoitworld.org/)
         { .arrow }
       - |
-        Project Citizen OS has been funded by the NGO Fund EEA Grants through the [Open Estonia Foundation](https://oef.org.ee/in-english).
+        Проект Citizen OS был финансирован фондом для НПО по грантам ЕЭЗ через [Фонд Открытой Эстонии](https://oef.org.ee/in-english).
