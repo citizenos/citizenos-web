@@ -1,11 +1,11 @@
 ---
 path: /meist
 title: Meist
-description: Citizen OS is a free and secure open source platform for citizen initiatives. We are a not-for-profit organisation.
+description: Citizen OS on tasuta ja turvaline avatud lähtekoodiga platvorm ühiste otsuste ja kodanikualgatuste jaoks. Oleme sotsiaalne idufirma.
 keywords:
-  - open source
-  - civic initiative
-  - civic movement
+  - avatud lähtekoodiga
+  - kodanikualgatus
+  - kodanikuliikumine
 image: /assets/images/meta/home.jpg
 blocks:
   company-img:
@@ -18,23 +18,23 @@ blocks:
   company:
     #label: About
     title: |
-      About us.
+      Meist.
     texts:
       - |
-        Citizen OS is an open source civic tech non-profit, based in Tallinn, Estonia.
+        Citizen OS on avatud lähtekoodiga kodanikutehnoloogiat loov mittetulundusühing, mille peakontor asub Eestis, Tallinnas..
 
-        We’re on a mission to change the world for the better; visit our [Projects](/projects/) page to find out how.
+        Meie eesmärgiks on maailma paremaks muuta. Selle kohta saad lähemalt lugeda meie lehelt [Projektid](/projektid/).
 
-        The Citizen OS platform went live in September, 2015. Since then, we have gained the trust of many public and private user groups around the world.
+        Citizen OS platvorm avaldati veebis 2015. aasta septembris. Tegevuse jooksul oleme teeninud paljude erinevate riikide riiklike kasutajate ja erakasutajate poolehoiu.
       - |
-        We take the security of our platform very seriously; read more about this [here](/news/the-key-to-online-democracy-is-trust/).
+        Peame oma platvormi turvalisust väga oluliseks. Loe selle kohta lähemalt [siit](/news/the-key-to-online-democracy-is-trust/).
       - |
 
       - |
-        #### Citizen OS is supported by:
+        #### Citizen OS-i toetavad:
       - |
-        - Philanthropist & entrepreneur Ahti Heinla
-        - [Let’s Do It! Foundation](https://www.letsdoitworld.org/)
+        - Filantroop ja ettevõtja Ahti Heinla
+        - [Sihtasutus Teeme Ära!](https://www.letsdoitworld.org/)
         { .arrow }
       - |
-        Project Citizen OS has been funded by the NGO Fund EEA Grants through the [Open Estonia Foundation](https://oef.org.ee/in-english).
+        Projekti Citizen OS rahastas MTÜ Fund EEA Grants [Avatud Eesti Fondi](https://oef.org.ee) vahendusel.
