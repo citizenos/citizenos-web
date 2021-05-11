@@ -34,17 +34,27 @@ blocks:
         text:
             We’ve put together this list of Frequently Asked Questions for our Citizen OS co-decision platform. Watch this space for our new Help Centre coming soon, but in the meantime—if you ever get stuck this is a great place to start!
 
-            -[Why can't I access the group or topic I've been invited to?](#access)
-            -[Can I see how many people have voted while the vote is still in progress?](#people)
-            -[Can I see who has voted while the vote is still in progress?](#case-study-2)
-            -[In Estonia, when votes are cast using digital signatures, what file formats and data will I be able to download?](#stats)
-            -[In Estonia, when submitting digital signatures to the Commercial Register, Riigikogu or local government, what file types should I download?](#stats)
-            -[Can I see if any of the email addresses I invited to a group or topic bounced?](#stats)
-            -[What is the maximum attachment size that can be uploaded, and what file types are allowed?](#stats)
-            -[In what situations does the Citizen OS platform send out automatic email notifications to users?](#stats)
-            -[Why can't I log in through Internet Explorer?](#stats)
-            -[How does Foundation Citizen OS fund itself if the platform is free?](#stats)
-            { .arrow }
+
+            [Why can't I access the group or topic I've been invited to?](#access)
+
+            [Can I see how many people have voted while the vote is still in progress?](#people)
+
+            [Can I see who has voted while the vote is still in progress?](#case-study-2)
+
+            [In Estonia, when votes are cast using digital signatures, what file formats and data will I be able to download?](#stats)
+
+            [In Estonia, when submitting digital signatures to the Commercial Register, Riigikogu or local government, what file types should I download?](#stats)
+
+            [Can I see if any of the email addresses I invited to a group or topic bounced?](#stats)
+
+            [What is the maximum attachment size that can be uploaded, and what file types are allowed?](#stats)
+
+            [In what situations does the Citizen OS platform send out automatic email notifications to users?](#stats)
+
+            [Why can't I log in through Internet Explorer?](#stats)
+
+            [How does Foundation Citizen OS fund itself if the platform is free?](#stats)
+
 
         button1st:
             title: Email support
@@ -59,7 +69,7 @@ blocks:
             background-position: 100% 15%, 90% 15%
             background-size: 165px 165px, 350px 350px
         text: |
-            ![A female member of Citizen OS staff attending an event to answer questions about the platform.](/assets/images/product-start.png){ .img-fluid .box-shadow }
+            ![A female member of Citizen OS staff attending an event to answer questions about the platform.](/assets/images/faq-start-eng.png){ .img-fluid .box-shadow }
 
     access:
         class:
@@ -78,15 +88,14 @@ blocks:
 
             2. **Login or register using the same email address the invitation was sent to**, according to the two scenarios below:
 
-            - If you already have a Citizen OS account registered with the email address your invitation was sent to, log in using that account.
+            - If you **already have a Citizen OS account registered with the email** address your invitation was sent to, log in using that account.
 
             **or**
 
-            - If you do not yet have a Citizen OS account registered with the email address your invitation was sent to, register a new one with the correct address.
+            - If you **do not yet have a Citizen OS account registered with the email** address your invitation was sent to, register a new one with the correct address.
 
             A few tips:
 
             - **If you are logging in with a social login** such as Google or Facebook, this will only work if your social media account is registered with the same email address as the one with which you were invited to the group or topic.
             - **If you are logging in with your ID-card/Mobile ID**, this will only work if you have previously created a Citizen OS account with the email address to which the invitation was sent, and have previously digitally signed at least one document through that account. If this is not the case, you will need to log in using the email address instead.
             - **If you are unsure what email address your Citizen OS account is registered with**, or which account you are currently logged in to, you can check this in “My Account” next to your profile avatar.
-            { .bullet }
