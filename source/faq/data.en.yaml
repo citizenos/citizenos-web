@@ -39,11 +39,6 @@ blocks:
             -[Case studies](#case-study-2)
             -[Statistics](#stats)
             { .arrow }
-        button1st:
-            title: Play demo
-            url: 'https://www.youtube.com/embed/UC44qCCIixE?rel=0&showinfo=0&modestbranding=1&autoplay=1&cc_load_policy=1&cc_lang_pref=en'
-            title: Step-by-step written guide.
-            url: https://app.citizenos.com/et/topics/c6b6d06a-e8cf-4297-9654-8c1cf01b133b?argumentsPage=1
 
         button1st:
             title: Email support
@@ -89,7 +84,3 @@ blocks:
             - **If you are logging in with your ID-card/Mobile ID**, this will only work if you have previously created a Citizen OS account with the email address to which the invitation was sent, and have previously digitally signed at least one document through that account. If this is not the case, you will need to log in using the email address instead.
             - **If you are unsure what email address your Citizen OS account is registered with**, or which account you are currently logged in to, you can check this in “My Account” next to your profile avatar.
             { .bullet }
-
-        button1st:
-            title: Email support
-            url: 'mailto:support@citizenos.com'
