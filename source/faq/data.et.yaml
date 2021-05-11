@@ -227,14 +227,14 @@ blocks:
       background-position: 100% 15%, 90% 15%
       background-size: 165px 165px, 350px 350px
     text: |
-      ![Screenshot of the platform.](/assets/images/faq-start-eng.png){ .img-fluid .box-shadow }
+      ![Kuvatõmmis platvormist](/assets/images/faq-start-est.png){ .img-fluid .box-shadow }
   mu:
     class:
     style:
       background: '#F7F7F7'
     #label: Features
     title: |
-      What is the maximum attachment size that can be uploaded, and what file types are allowed?
+      Mis on manuse maksimaalne maht ja missugused failitüübid on lubatud üles laadida?
     text: |
       **The permitted file attachments are as follows:**
 
