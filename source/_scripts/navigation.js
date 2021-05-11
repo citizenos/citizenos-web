@@ -1,5 +1,5 @@
 $(function () {
-    $(document).on('click touchend', function () {
+    $('.content').on('click touchend', function () {
         $('.collapse').collapse('hide')
     })
 
