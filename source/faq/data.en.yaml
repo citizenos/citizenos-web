@@ -61,7 +61,7 @@ blocks:
         class:
         style:
             background-color: '#F7F7F7'
-            background-image: url(/assets/images/bubble-orange.svg), url(/assets/images/bubble-dots.png)
+#            background-image: url(/assets/images/bubble-orange.svg), url(/assets/images/bubble-dots.png)
             background-position: 100% 15%, 90% 15%
             background-size: 165px 165px, 350px 350px
         text: |
@@ -92,7 +92,7 @@ blocks:
             A few tips:
 
             - **If you are logging in with a social login** such as Google or Facebook, this will only work if your social media account is registered with the same email address as the one with which you were invited to the group or topic.
-            - **If you are logging in with your ID-card/Mobile ID**, this will only work if you have previously created a Citizen OS account with the email address to which the invitation was sent, and have previously digitally signed at least one document through that account. If this is not the case, you will need to log in using the email address instead.
+            - **The option to log in with your ID-card/Mobile ID** (applicable to Estonian ID-cards) will only appear if you have previously created a Citizen OS account with the email address to which the invitation was sent, and have previously digitally signed at least one document through that account. If this is not the case, you will need to log in using the email address instead.
             - **If you are unsure what email address your Citizen OS account is registered with**, or which account you are currently logged in to, you can check this in “My Account” next to your profile avatar.
 
 
@@ -134,7 +134,7 @@ blocks:
         class:
         style:
             background-color: '#F7F7F7'
-            background-image: url(/assets/images/bubble-orange.svg), url(/assets/images/bubble-dots.png)
+#            background-image: url(/assets/images/bubble-orange.svg), url(/assets/images/bubble-dots.png)
             background-position: 100% 15%, 90% 15%
             background-size: 165px 165px, 350px 350px
         text: |
@@ -198,7 +198,7 @@ blocks:
         class:
         style:
             background-color: '#F7F7F7'
-            background-image: url(/assets/images/bubble-orange.svg), url(/assets/images/bubble-dots.png)
+#            background-image: url(/assets/images/bubble-orange.svg), url(/assets/images/bubble-dots.png)
             background-position: 100% 15%, 90% 15%
             background-size: 165px 165px, 350px 350px
         text: |
@@ -248,7 +248,7 @@ blocks:
         class:
         style:
             background-color: '#F7F7F7'
-            background-image: url(/assets/images/bubble-orange.svg), url(/assets/images/bubble-dots.png)
+#            background-image: url(/assets/images/bubble-orange.svg), url(/assets/images/bubble-dots.png)
             background-position: 100% 15%, 90% 15%
             background-size: 165px 165px, 350px 350px
         text: |
@@ -301,7 +301,7 @@ blocks:
         class:
         style:
             background-color: '#F7F7F7'
-            background-image: url(/assets/images/bubble-orange.svg), url(/assets/images/bubble-dots.png)
+#            background-image: url(/assets/images/bubble-orange.svg), url(/assets/images/bubble-dots.png)
             background-position: 100% 15%, 90% 15%
             background-size: 165px 165px, 350px 350px
         text: |
