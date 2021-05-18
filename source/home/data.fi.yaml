@@ -149,17 +149,16 @@ blocks:
       background-size: 350px 350px
     label: Viesti tiimiltä
     title: |
-      Missä voit tavata meidät virtuaalisesti
+      Where you can meet us
     blocks:
       tictec:
         title: |
-          Civic Tech Conference by Swiss Federation of Youth Parliaments.
+          Next Generation Government Symposium
         text: |
-          Our CEO Margo Loor is presenting the keynote on the benefits of civic tech tools for municipalities.
-
-          Read more about the conference [here.](https://www.dsj.ch/veranstaltungen/fachveranstaltungen/civic-tech-konferenz/)
-        image: /assets/images/DSJ_logo.png
+          Our Partnerships and Community Lead Anett Linno is presenting the keynote "How to design the democracy of the future?"
+          Read more about the symposium [here.](https://egov.ee/projects/ngss-2021/#)
+        image: /assets/images/nggs-logo.png
         style:
           background: '#FFFFFF'
-        date: 04.05.2021
-        location: Online
+        date: 14-15.09.2021
+        location: Tallinn, Estonia
