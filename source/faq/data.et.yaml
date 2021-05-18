@@ -67,25 +67,25 @@ blocks:
     title: |
       Miks ma ei pääse gruppi või teemasse, kuhu mind on kutsutud?
     text: |
-      **Topics and groups can only be accessed using a Citizen OS account which is registered with the same email address the invitation was sent to.**
+      **Kutsutud teemasse ja gruppi pääseb ainult selle Citizen OS kontoga, mis on registreeritud sama meiliaadressiga, kuhu kutse saadeti.**
 
-      Follow these two key steps for topic/group access:
+      Gruppi või teemasse ligipääsu saamiseks tuleb teha järgmist:
 
-      1. **Click on the link in the invitation email** you received for joining the group or topic.
+      1. **Klõpsa kutses olevale lingile**, et pääseda teemasse või gruppi.
 
-      2. **Login or register using the same email address the invitation was sent to**, according to the two scenarios below:
+      2. **Logi sisse või registreeri konto sama meiliaadressiga, millele kutse saadeti,** vastavalt sellele, kas Sul on juba konto loodud või mitte:
 
-      - If you **already have a Citizen OS account registered with the email** address your invitation was sent to, log in using that account.
+      - Kui **Sul on juba loodud Citizen OS konto sama meiliaadressiga**, millele kutse saadeti, logi selle kontoga sisse.
 
-      **or**
+      **või**
 
-      - If you **do not yet have a Citizen OS account registered with the email** address your invitation was sent to, register a new one with the correct address.
+      - Kui **Sul veel ei ole loodud Citizen OS kontot meiliaadressiga, millele kutse saadeti,** loo selle meiliaadressiga uus konto.
 
-      A few tips:
+      Mõned näpunäited:
 
-      - **If you are logging in with a social login** such as Google or Facebook, this will only work if your social media account is registered with the same email address as the one with which you were invited to the group or topic.
-      - **The option to log in with your ID-card/Mobile ID** (applicable to Estonian ID-cards) will only appear if you have previously created a Citizen OS account with the email address to which the invitation was sent, and have previously digitally signed at least one document through that account. If this is not the case, you will need to log in using the email address instead.
-      - **If you are unsure what email address your Citizen OS account is registered with**, or which account you are currently logged in to, you can check this in “My Account” next to your profile avatar.
+      - **Kui logid sisse sotsiaalmeedia kontoga,** näiteks Google´i või Facebookiga, pääsed gruppi või teemasse ainult sellisel juhul, kui Sinu sotsiaalmeediakonto on registreeritud sama meiliaadressiga, mille kaudu Sind gruppi või teemasse kutsusti.
+      - **Võimalust logida sisse ID-kaardi/Mobiil-IDga** pakutakse ainult siis, kui oled eelnevalt loonud Citizen OS konto ja digitaalselt allkirjastanud vähemalt ühe korra selle kontoga. Kui Sa pole eelnevat teinud, pakutakse sisse logimiseks ainult emaili võimalust.
+      - **Kui Sa pole kindel, millise meiliaadressiga Su Citizen OSi konto on loodud**, või mis kontoga Sa oled sisse logitud, saad seda vaadata “Minu konto” alt vasakul menüüribal.
   people-img:
     class:
     style:
