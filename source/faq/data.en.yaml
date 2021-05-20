@@ -32,6 +32,7 @@ blocks:
             - [In what situations does the Citizen OS platform send out automatic email notifications to users?](#notify)
             - [Why can't I log in through Internet Explorer?](#explorer)
             - [How does Foundation Citizen OS fund itself if the platform is free?](#fund)
+            { .bullet }
 
         button1st:
             title: Email support
