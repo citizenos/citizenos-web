@@ -8,63 +8,49 @@ keywords:
   - e-participation
 image: /assets/images/meta/home.jpg
 blocks:
-  decision-img:
-    class:
-    style:
-      background-color: '#FFF1AD'
-      background-image: url(/assets/images/product-start.png), url(/assets/images/bubble-dots.png), url(/assets/images/bubble-orange.svg)
-      background-position: center center, 0% 20%, 70% 10%
-      background-size: 500px 500px, 350px 350px, 100px 100px
-  decision:
+  title:
     class:
     style:
       background-color: '#FFF1AD'
       background-image: url(/assets/images/bubble-turquoise.svg), url(/assets/images/bubble-yellow.svg)
       background-position: 10% 5%, 90% 90%
       background-size: 75px 75px, 65px 65px
-    #label: Frequently asked questions
     title: |
       User Help FAQs for our platform.
     text: |
       We’ve put together this list of Frequently Asked Questions for our Citizen OS co-decision platform. Watch this space for our new Help Centre coming soon, but in the meantime—if you ever get stuck this is a great place to start!
 
-
-      [Why can't I access the group or topic I've been invited to?](#access)
-
-      [Can I see how many people have voted while the vote is still in progress?](#people)
-
-      [Can I see who has voted while the vote is still in progress?](#who)
-
-      [In Estonia, when votes are cast using digital signatures, what file formats and data will I be able to download?](#file)
-
-      [In Estonia, when submitting digital signatures to the Commercial Register, Riigikogu or local government, what file types should I download?](#ariregister)
-
-      [Can I see if any of the email addresses I invited to a group or topic bounced?](#bounce)
-
-      [What is the maximum attachment size that can be uploaded, and what file types are allowed?](#mu)
-
-      [In what situations does the Citizen OS platform send out automatic email notifications to users?](#notify)
-
-      [Why can't I log in through Internet Explorer?](#explorer)
-
-      [How does Foundation Citizen OS fund itself if the platform is free?](#fund)
+      - [Why can't I access the group or topic I've been invited to?](#access)
+      - [Can I see how many people have voted while the vote is still in progress?](#people)
+      - [Can I see who has voted while the vote is still in progress?](#who)
+      - [In Estonia, when votes are cast using digital signatures, what file formats and data will I be able to download?](#file)
+      - [In Estonia, when submitting digital signatures to the Commercial Register, Riigikogu or local government, what file types should I download?](#ariregister)
+      - [Can I see if any of the email addresses I invited to a group or topic bounced?](#bounce)
+      - [What is the maximum attachment size that can be uploaded, and what file types are allowed?](#mu)
+      - [In what situations does the Citizen OS platform send out automatic email notifications to users?](#notify)
+      - [Why can't I log in through Internet Explorer?](#explorer)
+      - [How does Foundation Citizen OS fund itself if the platform is free?](#fund)
+      { .bullet }
     button1st:
       title: Email support
       url: 'mailto:support@citizenos.com'
-  access-img:
+  title-img:
     class:
     style:
+      background-color: '#FFF1AD'
+      background-image: url(/assets/images/product-start.png), url(/assets/images/bubble-dots.png), url(/assets/images/bubble-orange.svg)
+      background-position: center center, 0% 20%, 70% 10%
+      background-size: 500px 500px, 350px 350px, 100px 100px
+  access-img:
+    class: faq-image
+    style:
       background-color: '#F7F7F7'
-      #background-image: url(/assets/images/bubble-orange.svg), url(/assets/images/bubble-dots.png)
-      background-position: 100% 15%, 90% 15%
-      background-size: 165px 165px, 350px 350px
     text: |
       ![Screenshot of the platform.](/assets/images/faq-start-eng.png){ .img-fluid .box-shadow }
   access:
-    class:
+    class: faq-text
     style:
       background: '#F7F7F7'
-    #label: Features
     title: |
       Why can't I access the group or topic I've been invited to?
     text: |
@@ -88,22 +74,17 @@ blocks:
       - **The option to log in with your ID-card/Mobile ID** (applicable to Estonian ID-cards) will only appear if you have previously created a Citizen OS account with the email address to which the invitation was sent, and have previously digitally signed at least one document through that account. If this is not the case, you will need to log in using the email address instead.
       - **If you are unsure what email address your Citizen OS account is registered with**, or which account you are currently logged in to, you can check this in “My Account” next to your profile avatar.
   people-img:
-    class:
+    class: faq-image
     style:
-      background-color: '#F7F7F7'
-      background-image: url(/assets/images/bubble-orange.svg), url(/assets/images/bubble-dots.png)
-      background-position: 100% 15%, 90% 15%
-      background-size: 165px 165px, 350px 350px
+      background-color: '#FFFFFF'
     text: |
       ![Screenshot of the platform.](/assets/images/how-many-people-voted-eng.png){ .img-fluid .box-shadow }
 
-
       ![Screenshot of the platform.](/assets/images/voting-results-eng.png){ .img-fluid .box-shadow }
   people:
-    class:
+    class: faq-text
     style:
-      background: '#F7F7F7'
-    #label: Features
+      background: '#FFFFFF'
     title: |
       Can I see how many people have voted while the vote is still in progress?
     text: |
@@ -119,19 +100,15 @@ blocks:
 
       In a **public topic**, you will see just one number. This is the number of people who have voted so far.
   who-img:
-    class:
+    class: faq-image
     style:
       background-color: '#F7F7F7'
-      #background-image: url(/assets/images/bubble-orange.svg), url(/assets/images/bubble-dots.png)
-      background-position: 100% 15%, 90% 15%
-      background-size: 165px 165px, 350px 350px
     text: |
       ![Screenshot of the platform.](/assets/images/faq-start-eng.png){ .img-fluid .box-shadow }
   who:
-    class:
+    class: faq-text
     style:
       background: '#F7F7F7'
-    #label: Features
     title: |
       Can I see who has voted while the vote is still in progress?
     text: |
@@ -144,19 +121,15 @@ blocks:
       **Why we protect anonymity during the vote.**
       At Citizen OS we believe that not voting can be a means of expressing opinion. For example, if someone does not agree with the question or the options available to vote upon, they may actively decide not to vote. If the vote administrator tries to incite them to vote, this could deprive them of their freedom to express their views through not voting. Such information is kept confidential in national votes for the same reason.
   file-img:
-    class:
+    class: faq-image
     style:
-      background-color: '#F7F7F7'
-      background-image: url(/assets/images/bubble-orange.svg), url(/assets/images/bubble-dots.png)
-      background-position: 100% 15%, 90% 15%
-      background-size: 165px 165px, 350px 350px
+      background-color: '#FFFFFF'
     text: |
       ![Screenshot of the platform.](/assets/images/faq-start-eng.png){ .img-fluid .box-shadow }
   file:
-    class:
+    class: faq-text
     style:
-      background: '#F7F7F7'
-    #label: Features
+      background: '#FFFFFF'
     title: |
       In Estonia, when votes are cast using digital signatures, what file formats and data will I be able to download?
     text: |
@@ -176,19 +149,15 @@ blocks:
       Here is an example of a line in a vote CSV file:
       *Thu Jan 21 2021 13:51:07 GMT + 0200 (Eastern European Standard Time), PNOEE-112233444, JAAK ERVIN SINGLE-GATE, "Two, Three", "Two.html, Three.html"*
   ariregister-img:
-    class:
+    class: faq-image
     style:
       background-color: '#F7F7F7'
-      #background-image: url(/assets/images/bubble-orange.svg), url(/assets/images/bubble-dots.png)
-      background-position: 100% 15%, 90% 15%
-      background-size: 165px 165px, 350px 350px
     text: |
       ![Screenshot of the platform.](/assets/images/ariregister-eng.png){ .img-fluid .box-shadow }
   ariregister:
-    class:
+    class: faq-text
     style:
       background: '#F7F7F7'
-    #label: Features
     title: |
       In Estonia, when submitting digital signatures to the Commercial Register, Riigikogu or local government, what file types should I download?
     text: |
@@ -196,19 +165,15 @@ blocks:
 
       **When submitting digital signatures to the Riigikogu or local government, “Container with CSV” must be selected.** The entire BDOC container should then be submitted.
   bounce-img:
-    class:
+    class: faq-image
     style:
-      background-color: '#F7F7F7'
-      background-image: url(/assets/images/bubble-orange.svg), url(/assets/images/bubble-dots.png)
-      background-position: 100% 15%, 90% 15%
-      background-size: 165px 165px, 350px 350px
+      background-color: '#FFFFFF'
     text: |
       ![Screenshot of the platform.](/assets/images/faq-start-eng.png){ .img-fluid .box-shadow }
   bounce:
-    class:
+    class: faq-text
     style:
-      background: '#F7F7F7'
-    #label: Features
+      background: '#FFFFFF'
     title: |
       Can I see if any of the email addresses I invited to a group or topic bounced?
     text: |
@@ -220,19 +185,15 @@ blocks:
 
       You can view which invites have been sent by selecting the relevant topic or group in the “My topics” or “My Groups” page, then clicking on “User list” underneath the “General information” box. However, non-existent email addresses will be included here as “Pending”, as the system cannot recognise that they are incorrect.
   mu-img:
-    class:
+    class: faq-image
     style:
       background-color: '#F7F7F7'
-      #background-image: url(/assets/images/bubble-orange.svg), url(/assets/images/bubble-dots.png)
-      background-position: 100% 15%, 90% 15%
-      background-size: 165px 165px, 350px 350px
     text: |
       ![Screenshot of the platform.](/assets/images/faq-start-eng.png){ .img-fluid .box-shadow }
   mu:
-    class:
+    class: faq-text
     style:
       background: '#F7F7F7'
-    #label: Features
     title: |
       What is the maximum attachment size that can be uploaded, and what file types are allowed?
     text: |
@@ -240,22 +201,18 @@ blocks:
 
       - The maximum size of a single attachment in a topic is 50 MB.
       - A maximum of 10 files can be attached to one topic.
-      - Acceptable file types are: 'txt', 'pdf', 'doc', 'docx', 'ddoc', 'bdoc', 'odf', 'odt', 'jpg', 'jpeg', 'img', 'png', 'rtf ',' xls', 'xlsx', 'ppt', 'pptx', 'pps',' xlt'.
+      - Acceptable file types are: 'txt', 'pdf', 'doc', 'docx', 'ddoc', 'bdoc', 'odf', 'odt', 'jpg', 'jpeg', 'img', 'png', 'rtf', 'xls', 'xlsx', 'ppt', 'pptx', 'pps',' xlt'.
       { .bullet }
   notify-img:
-    class:
+    class: faq-image
     style:
-      background-color: '#F7F7F7'
-      background-image: url(/assets/images/bubble-orange.svg), url(/assets/images/bubble-dots.png)
-      background-position: 100% 15%, 90% 15%
-      background-size: 165px 165px, 350px 350px
+      background-color: '#FFFFFF'
     text: |
       ![Screenshot of the platform.](/assets/images/faq-start-eng.png){ .img-fluid .box-shadow }
   notify:
-    class:
+    class: faq-text
     style:
-      background: '#F7F7F7'
-    #label: Features
+      background: '#FFFFFF'
     title: |
       In what situations does the Citizen OS platform send out automatic email notifications to users?
     text: |
@@ -268,19 +225,15 @@ blocks:
 
       There are no notifications in any other situations. For example, if you send a topic to vote, you will need to contact the topic participants yourself to let them know that they can start voting.
   explorer-img:
-    class:
+    class: faq-image
     style:
       background-color: '#F7F7F7'
-      #background-image: url(/assets/images/bubble-orange.svg), url(/assets/images/bubble-dots.png)
-      background-position: 100% 15%, 90% 15%
-      background-size: 165px 165px, 350px 350px
     text: |
       ![Screenshot of the platform.](/assets/images/faq-start-eng.png){ .img-fluid .box-shadow }
   explorer:
-    class:
+    class: faq-text
     style:
       background: '#F7F7F7'
-    #label: Features
     title: |
       Why can't I log in through Internet Explorer?
     text: |
@@ -288,19 +241,15 @@ blocks:
 
       Microsoft themselves will soon cease to support Internet Explorer, and have already started redirecting users to their newer browser, Edge.
   fund-img:
-    class:
+    class: faq-image
     style:
-      background-color: '#F7F7F7'
-      background-image: url(/assets/images/bubble-orange.svg), url(/assets/images/bubble-dots.png)
-      background-position: 100% 15%, 90% 15%
-      background-size: 165px 165px, 350px 350px
+      background-color: '#FFFFFF'
     text: |
       ![Screenshot of the platform.](/assets/images/faq-start-eng.png){ .img-fluid .box-shadow }
   fund:
-    class:
+    class: faq-text
     style:
-      background: '#F7F7F7'
-    #label: Features
+      background: '#FFFFFF'
     title: |
       How does Citizen OS fund itself if the platform is free?
     text: |
