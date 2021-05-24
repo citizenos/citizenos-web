@@ -4,7 +4,7 @@ title: Toode
 description: Tasuta kaasamisplatvorm aruteludeks ja hääletusteks. Kasutage üldkoosolekute, ideekorjete, kodanikealgatuste läbiviimisel. Digiallkirjastatud hääletamisega.
 keywords:
   - asünkroonse koosoleku tarkvara
-  - üldkoosoleku läbiviimise tööriist
+  - üldkoosolekute läbiviimise tarkvara
   - e-hääletus
 image: /assets/images/meta/product.jpg
 blocks:
@@ -79,7 +79,7 @@ blocks:
         poster: /assets/images/flexibleformat-widget.png
         title: Digiallkirjasta ja loo järelkontakt
         text: |
-          Kasuta e-ID identifitseerimist, et otsuseid digiallkirjastada. Teavita osalejaid rühmaotsuse järel tehtud toimingutest.
+          Kasuta ID-kaarti, mobiil-ID või Smart-ID, et otsuseid digiallkirjastada. Teavita osalejaid otsuse järel tehtud toimingutest.
   features-img:
     class:
       - order-3
