@@ -56,7 +56,7 @@ blocks:
       background-size: 38px 42px
     label: Paindlik toode
     title: |
-      Milleks Citizen OS-i kasutatakse?
+      Mille jaoks Citizen OS platvormi kasutatakse?
     text: |
       { #flexibleformat-items }
     blocks:
