@@ -133,21 +133,21 @@ blocks:
     title: |
       Mis kujul ja missuguseid andmeid kuvatakse digiallkirjastamisega hääletustulemuste failis?
     text: |
-      **When someone votes with a digital signature in Estonia, the topic administrator can download the voting results as a BDOC file containing the data below.**
+      **Digiallkirjastamisega hääletamisel saab teema administraator hääletustulemused alla laadida BDOC failina, mis sisaldab allolevat infot:**
 
-      BDOC container (‘Final.bdoc’) contents:
+      Final.bdoc konteiner sisaldab:
 
-      - document.docx - a file with the text from the topic description (not including attachments),
-      - __metainfo.html - a metadata file that contains the topic ID and vote ID,
-      - .html files with the names of the vote options, containing the option ID and text,
-      - each user's vote containers,
-      - an optional CSV file*.
+      - document.docx - teema sisu fail, mis ei sisalda manuseid,
+      - __metainfo.html - metaandmete fail, mis sisaldab teema ID-d ja hääletuse ID-d,
+      - .html failid, mis sisaldavad hääletuse valikuid nimeliselt,valikute ID-d ja teksti,
+      - iga kasutaja hääle konteinerid,
+      - valikuline CSV fail.
       { .bullet }
 
-      *A CSV file is a comma-separated values file, which presents data in a tabular format. Each voter has a separate line in the table, which shows the date and time they voted, their name, their personal identification code, the options they voted for and the file name of each option they voted for.*
+      *CSV fail -- (comma separated values) ehk tabelfail kus iga hääletaja kohta on rida koos tema poolt tehtud valikuga. Rida koosneb hääle andmise ajast, nimest, isikukoodist, kasutaja tehtud valikud ja iga valiku faili nimetus.*
 
-      Here is an example of a line in a vote CSV file:
-      *Thu Jan 21 2021 13:51:07 GMT + 0200 (Eastern European Standard Time), PNOEE-112233444, JAAK ERVIN SINGLE-GATE, "Two, Three", "Two.html, Three.html"*
+      Siin on näide CSV faili ühest reast:
+      *Thu Jan 21 2021 13:51:07 GMT+0200 (Eastern European Standard Time),PNOEE-112233444,JAAK ERVIN ÜKSJALG-VÄRAV,"Kaks,Kolm","Kaks.html,Kolm.html"*
   ariregister-img:
     class: faq-image
     style:
