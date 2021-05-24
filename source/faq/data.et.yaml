@@ -16,23 +16,23 @@ blocks:
       background-position: 10% 5%, 90% 90%
       background-size: 75px 75px, 65px 65px
     title: |
-      User Help FAQs for our platform.
+      Kasutajate KKK Citizen OS platvormi kohta.
     text: |
-      We’ve put together this list of Frequently Asked Questions for our Citizen OS co-decision platform. Watch this space for our new Help Centre coming soon, but in the meantime—if you ever get stuck this is a great place to start!
+      Oleme oma kasutajate korduma kippuvad küsimused koondanud siia dokumenti. Peagi saab valmis ka meie Abikeskus, seniks aga loodame, et leiad oma küsimusele vastuse sellest dokumendist.
 
-      - [Why can't I access the group or topic I've been invited to?](#access)
-      - [Can I see how many people have voted while the vote is still in progress?](#people)
-      - [Can I see who has voted while the vote is still in progress?](#who)
-      - [In Estonia, when votes are cast using digital signatures, what file formats and data will I be able to download?](#file)
-      - [In Estonia, when submitting digital signatures to the Commercial Register, Riigikogu or local government, what file types should I download?](#ariregister)
-      - [Can I see if any of the email addresses I invited to a group or topic bounced?](#bounce)
-      - [What is the maximum attachment size that can be uploaded, and what file types are allowed?](#mu)
-      - [In what situations does the Citizen OS platform send out automatic email notifications to users?](#notify)
-      - [Why can't I log in through Internet Explorer?](#explorer)
-      - [How does Foundation Citizen OS fund itself if the platform is free?](#fund)
+      - [Miks ma ei pääse gruppi või teemasse, kuhu mind on kutsutud?](#access)
+      - [Kas ma saan teada, mitu inimest on hääletanud, kui hääletus veel kestab?](#people)
+      - [Kas ma saan hääletuse ajal näha, kes on hääletanud ja kes mitte?](#who)
+      - [Mis kujul ja missuguseid andmeid kuvatakse digiallkirjastamisega hääletustulemuste failis?](#file)
+      - [Mis failitüübid tuleb mul alla laadida, et digiallkirjastatud hääletustulemused esitada Äriregistrile, Riigikogule või kohalikule omavalitsusele?](#ariregister)
+      - [Kas süsteem teavitab mind, kui mõni meiliaadress, mille sisestasin teemasse või gruppi kutsumiseks, saadetakse tagasi?](#bounce)
+      - [Mis on manuse maksimaalne maht ja missugused failitüübid on lubatud üles laadida?](#mu)
+      - [Millal saadab Citizen OS välja automaatsed teavitused kasutajatele?](#notify)
+      - [Miks ma ei saa Internet Exploreri kaudu siseneda?](#explorer)
+      - [Kuidas Citizen OS end rahastab, kui platvorm on tasuta?](#fund)
       { .bullet }
     button1st:
-      title: Email support
+      title: Kiri kasutajatoele
       url: 'mailto:support@citizenos.com'
   title-img:
     class:
@@ -78,9 +78,9 @@ blocks:
     style:
       background-color: '#FFFFFF'
     text: |
-      ![Screenshot of the platform.](/assets/images/how-many-people-voted-eng.png){ .img-fluid .box-shadow }
+      ![Screenshot of the platform.](/assets/images/how-many-people-voted-est.png){ .img-fluid .box-shadow }
 
-      ![Screenshot of the platform.](/assets/images/voting-results-eng.png){ .img-fluid .box-shadow }
+      ![Screenshot of the platform.](/assets/images/voting-results-est.png){ .img-fluid .box-shadow }
   people:
     class: faq-text
     style:
@@ -137,10 +137,10 @@ blocks:
 
       Final.bdoc konteiner sisaldab:
 
-      - document.docx - fail teema sisuga,
+      - document.docx - teema sisu fail, mis ei sisalda manuseid,
       - __metainfo.html - metaandmete fail, mis sisaldab teema ID-d ja hääletuse ID-d,
-      - .html failid valikute nimedega, mis sisaldavad valiku ID-d ja teksti,
-      - iga kasutaja hääle konteinerid ja vastavalt valikule ka .CSV fail,
+      - .html failid, mis sisaldavad hääletuse valikuid nimeliselt,valikute ID-d ja teksti,
+      - iga kasutaja hääle konteinerid,
       - valikuline CSV fail.
       { .bullet }
 
@@ -198,11 +198,9 @@ blocks:
     title: |
       Mis on manuse maksimaalne maht ja missugused failitüübid on lubatud üles laadida?
     text: |
-      **The permitted file attachments are as follows:**
-
-      - The maximum size of a single attachment in a topic is 50 MB.
-      - A maximum of 10 files can be attached to one topic.
-      - Acceptable file types are: 'txt', 'pdf', 'doc', 'docx', 'ddoc', 'bdoc', 'odf', 'odt', 'jpg', 'jpeg', 'img', 'png', 'rtf', 'xls', 'xlsx', 'ppt', 'pptx', 'pps',' xlt'.
+      - Ühe manuse maksimaalne maht on 50 MB.
+      - Ühe teema juurde saab lisada kuni 10 faili.
+      - Lubatud failitüübid üleslaadimisel on 'txt', 'pdf', 'doc', 'docx', 'ddoc', 'bdoc', 'odf', 'odt', 'jpg', 'jpeg', 'img', 'png', 'rtf', 'xls', 'xlsx', 'ppt', 'pptx', 'pps', 'xlt'.
       { .bullet }
   notify-img:
     class: faq-image
