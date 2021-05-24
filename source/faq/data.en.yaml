@@ -152,11 +152,11 @@ blocks:
 
             BDOC container (‘Final.bdoc’) contents:
 
-            - document.docx - a file with the text from the topic description
-            - __metainfo.html - a metadata file that contains the topic ID and vote ID
-            - .html files with the names of the vote options, containing the option ID and text
-            - each user's vote containers
-            - an optional CSV file*
+            - document.docx - a file with the text from the topic description (not including attachments),
+            - __metainfo.html - a metadata file that contains the topic ID and vote ID,
+            - .html files with the names of the vote options, containing the option ID and text,
+            - each user's vote containers,
+            - an optional CSV file*.
             { .bullet }
 
             *A CSV file is a comma-separated values file, which presents data in a tabular format. Each voter has a separate line in the table, which shows the date and time they voted, their name, their personal identification code, the options they voted for and the file name of each option they voted for.*
