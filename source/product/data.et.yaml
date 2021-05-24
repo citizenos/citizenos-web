@@ -64,12 +64,12 @@ blocks:
         poster: /assets/images/flexibleformat-petitions.png
         title: Hääletused
         text: |
-          Tee kohandatava hääletuse abil demokraatlikke otsuseid. Sobib e-demokraatia algatuste läbiviimiseks.
+          Tee kohandatava hääletuse abil demokraatlikke otsuseid. Sobib üldkoosolekul otsuste tegemiseks, näiteks juhatuse liikmete valimiseks, ka kodanikualgatuste läbiviimiseks.
       onlinemeetings:
         poster: /assets/images/flexibleformat-onlinemeetings.png
         title: Arutelud
         text: |
-          Tasakaalustatud grupiarutelud, mis võimaldavad kaaluda poolt- ja vastuargumente. Asünkroonsed koosolekud.
+          Tasakaalustatud grupiarutelud, mis võimaldavad kaaluda poolt- ja vastuargumente. Sobib asünkroonsete koosolekute, organisatsioonisiseste arutelude jaoks.
       gatheringideas:
         poster: /assets/images/flexibleformat-gatheringideas.png
         title: Ideekorje
