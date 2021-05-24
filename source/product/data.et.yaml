@@ -4,7 +4,7 @@ title: Toode
 description: Tasuta kaasamisplatvorm aruteludeks ja hääletusteks. Kasutage üldkoosolekute, ideekorjete, kodanikealgatuste läbiviimisel. Digiallkirjastatud hääletamisega.
 keywords:
   - asünkroonse koosoleku tarkvara
-  - üldkoosoleku läbiviimise tööriist
+  - üldkoosolekute läbiviimise tarkvara
   - e-hääletus
 image: /assets/images/meta/product.jpg
 blocks:
@@ -56,30 +56,30 @@ blocks:
       background-size: 38px 42px
     label: Paindlik toode
     title: |
-      Milleks Citizen OS-i kasutatakse?
+      Mille jaoks Citizen OS platvormi kasutatakse?
     text: |
       { #flexibleformat-items }
     blocks:
       petitions:
-        poster: /assets/images/flexibleformat-petitions.png
+        poster: /assets/images/flexibleformat-petitions-est.png
         title: Hääletused
         text: |
-          Tee kohandatava hääletuse abil demokraatlikke otsuseid. Sobib e-demokraatia algatuste läbiviimiseks.
+          Tee kohandatava hääletuse abil demokraatlikke otsuseid. Sobib üldkoosolekul otsuste tegemiseks, näiteks juhatuse liikmete valimiseks, ka kodanikualgatuste läbiviimiseks.
       onlinemeetings:
-        poster: /assets/images/flexibleformat-onlinemeetings.png
+        poster: /assets/images/flexibleformat-onlinemeetings-est.png
         title: Arutelud
         text: |
-          Tasakaalustatud grupiarutelud, mis võimaldavad kaaluda poolt- ja vastuargumente. Asünkroonsed koosolekud.
+          Tasakaalustatud grupiarutelud, mis võimaldavad kaaluda poolt- ja vastuargumente. Sobib asünkroonsete koosolekute, organisatsioonisiseste arutelude jaoks.
       gatheringideas:
-        poster: /assets/images/flexibleformat-gatheringideas.png
+        poster: /assets/images/flexibleformat-gatheringideas-est.png
         title: Ideekorje
         text: |
-          Saage sisendit laiemalt ringilt. Ideaalne kodanikualgatuste jaoks.
+          Saage sisendit laiemalt ringilt kas avalikult või privaatselt. Sobib kodanikualgatuste, petitsioonide jaoks.
       widget:
-        poster: /assets/images/flexibleformat-widget.png
+        poster: /assets/images/flexibleformat-widget-est.png
         title: Digiallkirjasta ja loo järelkontakt
         text: |
-          Kasuta e-ID identifitseerimist, et otsuseid digiallkirjastada. Teavita osalejaid rühmaotsuse järel tehtud toimingutest.
+          Kasuta ID-kaarti, mobiil-ID või Smart-ID, et otsuseid digiallkirjastada. Teavita osalejaid otsuse järel tehtud toimingutest.
   features-img:
     class:
       - order-3
@@ -89,7 +89,7 @@ blocks:
       background-position: 100% 15%, 90% 15%
       background-size: 165px 165px, 350px 350px
     text: |
-      ![Citizen OS-i personali naisliige avalikul üritusel platvormi kohta esitatud küsimustele vastamas.](/assets/images/product-features.jpg){ .img-fluid .box-shadow }
+      ![Portree PARE tegevjuhist Kärt Kinnasest koos tekstiga.](/assets/images/product-features-est.png){ .img-fluid .box-shadow }
   features:
     class:
       - order-4
