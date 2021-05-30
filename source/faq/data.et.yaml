@@ -86,7 +86,7 @@ blocks:
     style:
       background: '#FFFFFF'
     title: |
-      Kas ma saan hääletuse ajal näha, kes on hääletanud ja kes mitte?
+      Kas ma saan teada, mitu inimest on hääletanud, kui hääletus veel kestab?
     text: |
       **Jah, hääletanud inimeste arvu saab näha nii hääletuse ajal kui ka pärast hääletamise lõppu. Tulemusi kuvatakse numbriliselt ja need on anonüümsed.**
 
