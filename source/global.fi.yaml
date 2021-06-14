@@ -101,7 +101,3 @@ footer:
         github:
           title: GitHub
           url: https://github.com/citizenos
-cookie:
-  text: |
-    Käytämme evästeitä tarjoamamme sisällön käyttäjäkohtaiseen räätälöintiin sekä analysoidaksemme verkkoliikennettämme. Ilmaiset hyväksyväsi evästeiden käytön painamalla "Hyväksy"-painiketta ja jatkamalla palveluidemme käyttöä. [Lue juridiset ehtomme](/fi/laillisuus/).
-  button: Hyväksy
