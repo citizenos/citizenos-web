@@ -40,5 +40,5 @@ blocks:
     date: 17-25 августа 2021 года
     time: Полные дни
     button:
-      title: Подача заявок скоро откроется
-      url: '#join'
+      title: Apply now (closes June 23rd)
+      url: https://docs.google.com/forms/d/e/1FAIpQLSc0rssCy1BA8WgegHqVMp50xCH8m2MiNTflVEZt9n_zmdcueg/viewform
