@@ -17,11 +17,17 @@ blocks:
     text:
         text: |
 
-            ## Join the Threat Mapping Workshop, our next webinar. ##
+            ## Citizens Bridge
 
-            This workshop aims at deepening the political discourse by allowing organisations to evaluate who their main opponents are and by what means their opponents can challenge them or threaten their initiative.
+            Led by a core team of Indian citizens, the Citizens Bridge project’s vision is to bridge the socio-economic and geographical gaps that prevent inclusion in deliberations about data ethics in India.
 
-            Additionally, the workshop also provides strategies for mediation and compromise.
+            **Our team is on the lookout for:**
+
+            A volunteer to fill the role of **communication specialist** (managing our social media, radio or television campaigns).
+
+            *Prior experience is not a requirement, candidates who are looking to gain experience are most welcome to apply.*
+
+            ![An image with India as a map on the background and written text Communications specialist volunteer role. Join the Citizens Bridge project, India and Citizen OS logo.](/assets/images/pyln-comms-volunteer-graphic.png){ .img-fluid }
 
             ## An Invitation to Collaborate{ .pt-5 }
 
@@ -83,23 +89,31 @@ blocks:
 
             Making democratic collective decisions about the development of the network, building trust and communication among members.
 
+            ## Threat Mapping Workshop, our most recent webinar{ .pt-5 }
+
+            This workshop aims at deepening the political discourse by allowing organisations to evaluate who their main opponents are and by what means their opponents can challenge them or threaten their initiative.
+
+            Additionally, the workshop also provides strategies for mediation and compromise.
+
             ## Join the next webinar{ .pt-5 }
 
-            [Save your seat](){data-toggle=modal data-target=#join-popup} for the next webinar now! [Leave your contact details](mailto:anett@citizenos.com) and we will send you a link to the session.
+            [Leave your contact details](mailto:sara@citizenos.com) and we will send you info about the next session.
+
+#            [Save your seat](){data-toggle=modal data-target=#join-popup} for the next webinar now!
 
     join:
-        title: Threat Mapping Workshop.
-        date: 15.12.2020
-        time: 17:30 (Indian Time)
-        how: Join the webinar!
+        title: Communications Specialist
+        date: Long-term
+        time: 4-6 hours/week
+        how: Become our volunteer!
         button:
-            title: Register.
+            title: Apply
             url: '#join'
 
     form:
-        title: Join the email list and get details and link to the next webinar.
+        title: Apply to join the team as a Communications volunteer. Please sign up and we will email you with further details.
         email: Email Address
-        subscribe: Save my seat
+        subscribe: Apply
 
     footer:
         text: |
