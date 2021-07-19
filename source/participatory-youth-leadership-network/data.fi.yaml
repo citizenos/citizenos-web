@@ -14,17 +14,21 @@ blocks:
   text:
     text: |
 
-      ## Citizens Bridge
+      # Citizens Bridge
 
       Led by a core team of Indian citizens, the Citizens Bridge project’s vision is to bridge the socio-economic and geographical gaps that prevent inclusion in deliberations about data ethics in India.
 
-      **Our team is on the lookout for:**
+      ## We are on the lookout for:
 
-      A volunteer to fill the role of **communication specialist** (managing our social media, radio or television campaigns).
+      A volunteer to fill the role of **communication specialist** (managing our social media, radio or television campaigns) as a member of the project's core team.
 
-      *Prior experience is not a requirement, candidates who are looking to gain experience are most welcome to apply.*
+      *Prior experience is not a requirement, candidates who are looking to gain experience are most welcome to apply. The role requires a commitment of 1-2 hours per week.*
 
       ![An image with India as a map on the background and written text Communications specialist volunteer role. Join the Citizens Bridge project, India and Citizen OS logo.](/assets/images/pyln-comms-volunteer-graphic.png){ .img-fluid }
+
+      # The Participatory Youth Leadership Network{ .pt-5 }
+
+      The Citizens Bridge project is a collaboration between Participatory Youth Leadership Network and actors from civil society in India.
 
       ## An Invitation to Collaborate{ .pt-5 }
 
@@ -99,7 +103,7 @@ blocks:
   join:
     title: Communications Specialist
     date: Long-term
-    time: 4-6 hours/week
+    time: 1-2 hours/week
     how: Become our volunteer!
     button:
       title: Apply
