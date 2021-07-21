@@ -149,7 +149,7 @@ blocks:
       background-size: 350px 350px
     label: Un mot de l'équipe
     title: |
-      Where you can meet us
+      Où nous rencontrer
     blocks:
       tictec:
         title: |
