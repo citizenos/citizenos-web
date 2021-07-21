@@ -37,7 +37,7 @@ team:
     email: liina@citizenos.com
   - 
     name: Микк Андресен
-    title: Software Architect
+    title: Архитектор ПО
     text: Созидает буквально «из ничего» и поддерживает моральный дух команды на высоте.
     avatar: /assets/images/team/mikk-avatar.jpg
     picture: /assets/images/team/mikk.jpg
@@ -45,7 +45,7 @@ team:
     email: mikk@citizenos.com
   - 
     name: Ильмар Тюрк
-    title: Software Architect
+    title: Архитектор ПО
     text: Отлично пишет код, а шутит еще лучше.
     avatar: /assets/images/team/ilmar-avatar.jpg
     picture: /assets/images/team/ilmar.jpg
@@ -85,7 +85,7 @@ team:
     email: agustina@citizenos.com
   - 
     name: Viljar Sepp
-    title: Localisation Manager
+    title: Локализация и перевод
     text: Loves to localise and make jokes. Great at both.
     avatar: /assets/images/team/viljar-avatar.jpg
     picture: /assets/images/team/viljar.jpg
