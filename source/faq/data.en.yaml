@@ -6,7 +6,7 @@ keywords:
     - digital signature
     - decide together
     - e-participation
-image: /assets/images/meta/home.jpg
+image: /assets/images/meta/faq.jpg
 
 
 blocks:
@@ -41,7 +41,7 @@ blocks:
         class:
         style:
             background-color: '#FFF1AD'
-            background-image: url(/assets/images/product-start.png), url(/assets/images/bubble-dots.png), url(/assets/images/bubble-orange.svg)
+            background-image: url(/assets/images/faq-start.png), url(/assets/images/bubble-dots.png), url(/assets/images/bubble-orange.svg)
             background-position: center center, 0% 20%, 70% 10%
             background-size: 500px 500px, 350px 350px, 100px 100px
 
@@ -115,7 +115,7 @@ blocks:
         style:
             background-color: '#F7F7F7'
         text: |
-            ![Screenshot of the platform.](/assets/images/faq-start-eng.png){ .img-fluid .box-shadow }
+            ![Screenshot of the platform.](/assets/images/faq-vote-in-progress-eng.png){ .img-fluid .box-shadow }
 
     who:
         class: faq-text
