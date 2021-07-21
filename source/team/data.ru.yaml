@@ -37,7 +37,7 @@ team:
     email: liina@citizenos.com
   - 
     name: Микк Андресен
-    title: Разработчик ПО
+    title: Software Architect
     text: Созидает буквально «из ничего» и поддерживает моральный дух команды на высоте.
     avatar: /assets/images/team/mikk-avatar.jpg
     picture: /assets/images/team/mikk.jpg
@@ -45,7 +45,7 @@ team:
     email: mikk@citizenos.com
   - 
     name: Ильмар Тюрк
-    title: Разработчик ПО
+    title: Software Architect
     text: Отлично пишет код, а шутит еще лучше.
     avatar: /assets/images/team/ilmar-avatar.jpg
     picture: /assets/images/team/ilmar.jpg
