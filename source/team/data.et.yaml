@@ -37,7 +37,7 @@ team:
     email: liina@citizenos.com
   - 
     name: Mikk Andresen
-    title: Tarkvaraarendajа
+    title: Software Architect
     text: Loob mitte millestki midagi ja hoiab meie moraali kõrgel.
     avatar: /assets/images/team/mikk-avatar.jpg
     picture: /assets/images/team/mikk.jpg
@@ -45,7 +45,7 @@ team:
     email: mikk@citizenos.com
   - 
     name: Ilmar Türk
-    title: Tarkvaraarendajа
+    title: Software Architect
     text: Loob alati õigeks ajaks vajaliku koodi, koos naeratusega.
     avatar: /assets/images/team/ilmar-avatar.jpg
     picture: /assets/images/team/ilmar.jpg
