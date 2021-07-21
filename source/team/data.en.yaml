@@ -39,7 +39,7 @@ team:
         email: liina@citizenos.com
     -
         name: Mikk Andresen
-        title: Software Developer
+        title: Software Architect
         text: Builds stuff out of nothing and keeps our morale at a top height.
         avatar: /assets/images/team/mikk-avatar.jpg
         picture: /assets/images/team/mikk.jpg
@@ -47,7 +47,7 @@ team:
         email: mikk@citizenos.com
     -
         name: Ilmar Türk
-        title: Software Developer
+        title: Software Architect
         text: Guaranteed delivery of code and smiles.
         avatar: /assets/images/team/ilmar-avatar.jpg
         picture: /assets/images/team/ilmar.jpg
