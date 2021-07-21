@@ -37,7 +37,7 @@ team:
     email: liina@citizenos.com
   - 
     name: Mikk Andresen
-    title: Software Architect
+    title: Ohjelmistoarkkitehti
     text: Rakentaa asioita tyhjästä ja pitää moraalimme korkeana.
     avatar: /assets/images/team/mikk-avatar.jpg
     picture: /assets/images/team/mikk.jpg
@@ -45,7 +45,7 @@ team:
     email: mikk@citizenos.com
   - 
     name: Ilmar Türk
-    title: Software Architect
+    title: Ohjelmistoarkkitehti
     text: Koodin ja hymyn taattu toimittaja.
     avatar: /assets/images/team/ilmar-avatar.jpg
     picture: /assets/images/team/ilmar.jpg
@@ -85,7 +85,7 @@ team:
     email: agustina@citizenos.com
   - 
     name: Viljar Sepp
-    title: Localisation Manager
+    title: Lokalisointi ja kääntäminen
     text: Loves to localise and make jokes. Great at both.
     avatar: /assets/images/team/viljar-avatar.jpg
     picture: /assets/images/team/viljar.jpg
