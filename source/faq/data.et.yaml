@@ -125,7 +125,7 @@ blocks:
     style:
       background-color: '#FFFFFF'
     text: |
-      ![Screenshot of the platform.](/assets/images/ariregister-eng.png){ .img-fluid .box-shadow }
+      ![Kuvatõmmis platvormist](/assets/images/ariregister-est.png){ .img-fluid .box-shadow }
   file:
     class: faq-text
     style:
@@ -169,7 +169,7 @@ blocks:
     style:
       background-color: '#FFFFFF'
     text: |
-      ![Screenshot of the platform.](/assets/images/faq6-invite-emails-eng.png){ .img-fluid .box-shadow }
+      ![Kuvatõmmis platvormist](/assets/images/faq6-invite-emails-est.png){ .img-fluid .box-shadow }
   bounce:
     class: faq-text
     style:
@@ -228,7 +228,7 @@ blocks:
     style:
       background-color: '#F7F7F7'
     text: |
-      ![Screenshot of the platform.](/assets/images/faq9-Internet-explorer.png){ .img-fluid .box-shadow }
+      ![Kuvatõmmis platvormist](/assets/images/faq9-Internet-explorer.png){ .img-fluid .box-shadow }
   explorer:
     class: faq-text
     style:
@@ -244,7 +244,7 @@ blocks:
     style:
       background-color: '#FFFFFF'
     text: |
-      ![Screenshot of the platform.](/assets/images/faq10-cos-funding.png){ .img-fluid .box-shadow }
+      ![Kuvatõmmis platvormist](/assets/images/faq10-cos-funding.png){ .img-fluid .box-shadow }
   fund:
     class: faq-text
     style:
