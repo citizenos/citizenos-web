@@ -190,7 +190,7 @@ blocks:
     style:
       background-color: '#F7F7F7'
     text: |
-      ![Kuvatõmmis platvormist.](/assets/images/faq7-attachments-est.png){ .img-fluid .box-shadow }
+      ![Kuvatõmmis platvormist.](/assets/images/faq-attachments-est.png){ .img-fluid .box-shadow }
   mu:
     class: faq-text
     style:
