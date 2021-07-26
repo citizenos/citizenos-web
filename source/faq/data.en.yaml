@@ -60,7 +60,7 @@ blocks:
         title: |
             Why can't I access the group or topic I've been invited to?
         text: |
-            **Topics and groups can only be accessed using a Citizen OS account which is registered with the same email address the invitation was sent to.**
+            Topics and groups can only be accessed using a Citizen OS account which is registered with the same email address the invitation was sent to.
 
             Follow these two key steps for topic/group access:
 
@@ -97,7 +97,7 @@ blocks:
         title: |
             Can I see how many people have voted while the vote is still in progress?
         text: |
-            **Yes, anyone can see how many people have voted, both during and after the vote. This is displayed as an anonymous numerical result.**
+            Yes, anyone can see how many people have voted, both during and after the vote. This is displayed as an anonymous numerical result.
 
             To see this:
 
@@ -124,7 +124,7 @@ blocks:
         title: |
             Can I see who has voted while the vote is still in progress?
         text: |
-            **No, the administrator(s) of a topic can see who has voted, but only once the voting period has ended.**
+            No, the administrator(s) of a topic can see who has voted, but only once the voting period has ended.
 
             However, administrators are able to see who has joined the topic in the Activity Feed, which is located below “My account” in the main navigation menu. There, the names of everyone who has joined or commented on the topic so far are displayed, along with the date and time they did so. The date and time of votes cast are displayed too, but anonymously.
 
@@ -148,7 +148,7 @@ blocks:
         title: |
             In Estonia, when votes are cast using digital signatures, what file formats and data will I be able to download?
         text: |
-            **When someone votes with a digital signature in Estonia, the topic administrator can download the voting results as a BDOC file containing the data below.**
+            When someone votes with a digital signature in Estonia, the topic administrator can download the voting results as a BDOC file containing the data below.
 
             BDOC container (‘Final.bdoc’) contents:
 
@@ -199,7 +199,7 @@ blocks:
         title: |
             Can I see if any of the email addresses I invited to a group or topic bounced?
         text: |
-            **No, if you send an invitation to an email address which does not exist the system will not notify you.**
+            No, if you send an invitation to an email address which does not exist the system will not notify you.
 
             So before inviting users to a group or topic, make sure that the email addresses you have entered are correct and in use.
 
@@ -222,7 +222,7 @@ blocks:
         title: |
             What is the maximum attachment size that can be uploaded, and what file types are allowed?
         text: |
-            **The permitted file attachments are as follows:**
+            The permitted file attachments are as follows:
 
             - The maximum size of a single attachment in a topic is 50 MB.
             - A maximum of 10 files can be attached to one topic.
@@ -244,7 +244,7 @@ blocks:
         title: |
             In what situations does the Citizen OS platform send out automatic email notifications to users?
         text: |
-            **Emails notifications are automatically sent in the three following situations:**
+            Emails notifications are automatically sent in the three following situations:
 
             - When a person is added to a group, they will receive an invitation email. (We therefore recommend posting at least one topic in the group before adding people, as being invited to an empty group can cause confusion.)
             - When a person is invited to a topic, they will receive an invitation email.
@@ -267,7 +267,7 @@ blocks:
         title: |
             Why can't I log in through Internet Explorer?
         text: |
-            **Citizen OS does not support logins through Internet Explorer as it is an out-of-date browser and more reliable browsers are available for free, such as Chrome or Firefox.**
+            Citizen OS does not support logins through Internet Explorer as it is an out-of-date browser and more reliable browsers are available for free, such as Chrome or Firefox.
 
             Microsoft themselves will soon cease to support Internet Explorer, and have already started redirecting users to their newer browser, Edge.
 
@@ -287,7 +287,7 @@ blocks:
         title: |
             How does Citizen OS fund itself if the platform is free?
         text: |
-            **In the six years since its inception, Citizen OS's sources of revenue have been project-based grants and private donations.**
+            In the six years since its inception, Citizen OS's sources of revenue have been project-based grants and private donations.
 
             The majority of our running costs so far have been covered by a private philanthropist who is well-known in the Estonian technology field.
 
