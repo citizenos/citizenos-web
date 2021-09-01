@@ -1,7 +1,7 @@
-path: /careers/software-developer
+path: /careers/marketing-intern
 
-title: Software Developer
-# description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras fermentum ornare purus accumsan luctus. Nulla facilisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae.
+title: Marketing - Internship or Volunteering
+description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras fermentum ornare purus accumsan luctus. Nulla facilisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae.
 # keywords:
 #     - lorem
 #     - ipsum
@@ -9,20 +9,24 @@ title: Software Developer
 image: /assets/images/meta/careers.jpg
 
 text: |
+    We accept interns and volunteers twice a year - in September and in January. You may apply to carry out your formal internship for University or to volunteer.
+
+    **UX Research**: We are looking for someone to help with user research and to conduct interviews with potential users. You will be supported and taken through the process step-by-step.
+
+    **Event management** We are also looking for someone to help with an event - being involved from the beginning to the end, which includes brainstorming, planning, executing, social media and communications.
+
     **We expect:**
-    - Good knowledge of and experience with JavaScript, Node.js, AngularJS, PostgreSQL;
-    - good proficiency in English;
-    - elementary Estonian;
-    - a good team-player;
+    - Passion for civic engagement;
+    - proficiency in English;
+    - team-player;
     - good self-discipline;
-    - confidence and ability to put forward own opinions using solid rational arguments.
+    - confidence and ability to put forward own opinions using solid rational arguments;
+    - if volunteering, about 4h of work per week.
      { .bullet }
 
     **We appreciate:**
     - Interest in e-democracy and e-decisionmaking;
-    - former experience with developing for ID-card, Mobile-ID and Smart-ID;
-    - HTML, CSS skills;
-    - knowledge of and experience with Git or other version control systems.
+    - previous experience with marketing or communications;
      { .bullet }
 
     **We offer:**
@@ -30,13 +34,13 @@ text: |
     - interesting challenges in a young and globally rapidly evolving sphere (e-democracy solutions);
     - awesome, energetic, teammates;
     - training, conferences and other development opportunities;
-    - possibility to choose between working at the office (@Telliskivi Creative City) or remotely with weekly visits;
+    - working remotely;
     - the flexibility to decide your own working hours.
      { .bullet }
 
 button1st:
     title: To apply, please email us your CV and a cover letter.
-    url: 'mailto:ly@citizenos.com'
+    url: 'mailto:anett@citizenos.com'
 
 button2nd:
     title: all vacancies
