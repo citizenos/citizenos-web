@@ -55,7 +55,7 @@ text: |
 #    We do not currently have any other vacancies.
 
 
-#vacancies:
-#    -
-#        title: Software Developer
-#        url: /careers/software-developer/
+vacancies:
+    -
+        title: Marketing Intern / Volunteer
+        url: /careers/marketing-intern/
