@@ -12,7 +12,7 @@ image: /assets/images/meta/home.jpg
 team:
     -
         name: Margo Loor
-        title: Board member, Leader, Product Manager
+        title: Co-Founder & Chief Technology Evangelist
         text: Brings light, wisdom and paints the big picture.
         avatar: /assets/images/team/margo-avatar.jpg
         picture: /assets/images/team/margo.jpg
@@ -21,7 +21,7 @@ team:
         email: info@citizenos.com
     -
         name: Anett Linno
-        title: Partnerships & Community
+        title: CEO & Product Manager
         text: With kind tenderness brings structure and clarity to any chaos.
         avatar: /assets/images/team/anett-avatar.jpg
         picture: /assets/images/team/anett.jpg
