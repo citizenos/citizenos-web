@@ -9,17 +9,8 @@ keywords:
 image: /assets/images/meta/home.jpg
 team:
   - 
-    name: Margo Loor
-    title: Hallituksen jäsen, johtaja, tuotepäällikkö
-    text: Tuo valoa ja viisautta ja ymmärtää isoja kokonaisuuksia.
-    avatar: /assets/images/team/margo-avatar.jpg
-    picture: /assets/images/team/margo.jpg
-    linkedin: https://www.linkedin.com/in/margoloor/
-    twitter: https://twitter.com/loorm
-    email: info@citizenos.com
-  - 
     name: Anett Linno
-    title: Yhteistyö ja yhteisö
+    title: Toimitusjohtaja ja tuotepäällikkö
     text: Tuo kaaoksen keskelle järjestelmällisyyttä ja selvyyttä ystävällisesti ja lempeästi.
     avatar: /assets/images/team/anett-avatar.jpg
     picture: /assets/images/team/anett.jpg
@@ -27,70 +18,22 @@ team:
     twitter: https://twitter.com/twitanett
     email: anett@citizenos.com
   - 
-    name: Liina Guiter
-    title: Markkinointi ja viestintä
-    text: Löytää yhteisen kielen ja jotain yhteistä jokaisen tämän planeetan olennon kanssa.
-    avatar: /assets/images/team/liina-avatar.jpg
-    picture: /assets/images/team/liina.jpg
-    linkedin: https://www.linkedin.com/in/liinaguiter/
-    twitter: https://twitter.com/liinaguiter
-    email: liina@citizenos.com
+    name: Margo Loor
+    title: Co-Founder & Technology Evangelist
+    text: Tuo valoa ja viisautta ja ymmärtää isoja kokonaisuuksia.
+    avatar: /assets/images/team/margo-avatar.jpg
+    picture: /assets/images/team/margo.jpg
+    linkedin: https://www.linkedin.com/in/margoloor/
+    twitter: https://twitter.com/loorm
+    email: info@citizenos.com
   - 
-    name: Mikk Andresen
-    title: Ohjelmistoarkkitehti
-    text: Rakentaa asioita tyhjästä ja pitää moraalimme korkeana.
-    avatar: /assets/images/team/mikk-avatar.jpg
-    picture: /assets/images/team/mikk.jpg
-    linkedin: https://www.linkedin.com/in/mikkandresen/
-    email: mikk@citizenos.com
-  - 
-    name: Ilmar Türk
-    title: Ohjelmistoarkkitehti
-    text: Koodin ja hymyn taattu toimittaja.
-    avatar: /assets/images/team/ilmar-avatar.jpg
-    picture: /assets/images/team/ilmar.jpg
-    linkedin: https://www.linkedin.com/in/ilmar-t%C3%BCrk-752466125/
-    email: ilmar@citizenos.com
-  - 
-    name: Kati Vellak
-    title: Juristi
-    text: Suojelee meitä pahiksilta ja antaa energiaa kaikille ympärillään.
-    avatar: /assets/images/team/kati-avatar.jpg
-    picture: /assets/images/team/kati.jpg
-    linkedin: https://www.linkedin.com/in/kativellak/
-    email: kati@citizenos.com
-  - 
-    name: Ly Kasvandik
-    title: Ihmissuhteet
-    text: Aina valmis auttamaan ja suojelemaan, kun on tarvetta.
-    avatar: /assets/images/team/ly-avatar.jpg
-    picture: /assets/images/team/ly.jpg
-    linkedin: https://www.linkedin.com/in/lykasvandik/
-    email: ly@citizenos.com
-  - 
-    name: Becca Melhuish
-    title: Viestintäsuunnittelija ja copywriter
-    text: Tuo kiiltoa ja kimallusta kaikkeen viestintäämme.
-    avatar: /assets/images/team/becca-avatar.jpg
-    picture: /assets/images/team/becca.jpg
-    linkedin: https://www.linkedin.com/in/beccamelhuish/
-    email: becca.melhuish@gmail.com
-  - 
-    name: Agustina Iskandar
+    name: Agustina Iskandar Crombach
     title: Kumppanuusjohtaja Indonesiassa
     text: Ihmeiden luoja, vapauden suojelija ja sarjayhteistyöntekijä.
     avatar: /assets/images/team/agustina-avatar.jpg
     picture: /assets/images/team/agustina.jpg
     linkedin: https://www.linkedin.com/in/agustina-iskandar-95a402109/
     email: agustina@citizenos.com
-  - 
-    name: Viljar Sepp
-    title: Lokalisointi ja kääntäminen
-    text: Rakastaa lokalisointia ja vitsailua. Loistava molemmissa.
-    avatar: /assets/images/team/viljar-avatar.jpg
-    picture: /assets/images/team/viljar.jpg
-    linkedin: https://ee.linkedin.com/in/viljarsepp
-    email: viljar@citizenos.com
   - 
     name: Sara Sinha
     title: Intian kumppanuus- ja yhteisöjohtaja
@@ -101,13 +44,37 @@ team:
     twitter: https://twitter.com/Sarasinha1992
     email: sara@citizenos.com
   - 
-    name: Tasia Rosalina Tedjo Purnomo
-    title: Citizen OS Indonesian sosiaalisen median johtaja
-    text: Uteliaisuuden ja arvojen motivoima tukijärjestelmä.
-    avatar: /assets/images/team/tasia-avatar.jpg
-    picture: /assets/images/team/tasia.jpg
-    linkedin: https://www.linkedin.com/in/tasia-rosalina
-    email: tasia@citizenos.com
+    name: Ilmar Türk
+    title: Ohjelmistoarkkitehti
+    text: Koodin ja hymyn taattu toimittaja.
+    avatar: /assets/images/team/ilmar-avatar.jpg
+    picture: /assets/images/team/ilmar.jpg
+    linkedin: https://www.linkedin.com/in/ilmar-t%C3%BCrk-752466125/
+    email: ilmar@citizenos.com
+  - 
+    name: Mikk Andresen
+    title: Ohjelmistoarkkitehti
+    text: Rakentaa asioita tyhjästä ja pitää moraalimme korkeana.
+    avatar: /assets/images/team/mikk-avatar.jpg
+    picture: /assets/images/team/mikk.jpg
+    linkedin: https://www.linkedin.com/in/mikkandresen/
+    email: mikk@citizenos.com
+  - 
+    name: Kati Vellak
+    title: Juristi
+    text: Suojelee meitä pahiksilta ja antaa energiaa kaikille ympärillään.
+    avatar: /assets/images/team/kati-avatar.jpg
+    picture: /assets/images/team/kati.jpg
+    linkedin: https://www.linkedin.com/in/kativellak/
+    email: kati@citizenos.com
+  - 
+    name: Becca Melhuish
+    title: Viestintäsuunnittelija ja copywriter
+    text: Tuo kiiltoa ja kimallusta kaikkeen viestintäämme.
+    avatar: /assets/images/team/becca-avatar.jpg
+    picture: /assets/images/team/becca.jpg
+    linkedin: https://www.linkedin.com/in/beccamelhuish/
+    email: becca.melhuish@gmail.com
   - 
     name: Leony Chrisanti
     title: Citizen OS Indonesian suunnittelija
@@ -115,6 +82,14 @@ team:
     avatar: /assets/images/team/leony-avatar.jpg
     picture: /assets/images/team/leony.jpg
     email: leonychrisanti1789@gmail.com
+  - 
+    name: Tasia Rosalina Tedjo Purnomo
+    title: Citizen OS Indonesian sosiaalisen median johtaja
+    text: Uteliaisuuden ja arvojen motivoima tukijärjestelmä.
+    avatar: /assets/images/team/tasia-avatar.jpg
+    picture: /assets/images/team/tasia.jpg
+    linkedin: https://www.linkedin.com/in/tasia-rosalina
+    email: tasia@citizenos.com
   - 
     name: Oksana Naidjonova (vanhempainvapaalla)
     title: Lokalisointi ja kääntäminen
@@ -124,21 +99,46 @@ team:
     linkedin: https://www.linkedin.com/in/oksananaidjonova/
     twitter: https://twitter.com/oksks
     email: oksana@citizenos.com
+  - 
+    name: Viljar Sepp
+    title: Lokalisointi ja kääntäminen
+    text: Rakastaa lokalisointia ja vitsailua. Loistava molemmissa.
+    avatar: /assets/images/team/viljar-avatar.jpg
+    picture: /assets/images/team/viljar.jpg
+    linkedin: https://ee.linkedin.com/in/viljarsepp
+    email: viljar@citizenos.com
+  - 
+    name: Liina Guiter
+    title: Markkinointi ja viestintä
+    text: Löytää yhteisen kielen ja jotain yhteistä jokaisen tämän planeetan olennon kanssa.
+    avatar: /assets/images/team/liina-avatar.jpg
+    picture: /assets/images/team/liina.jpg
+    linkedin: https://www.linkedin.com/in/liinaguiter/
+    twitter: https://twitter.com/liinaguiter
+    email: liina@citizenos.com
+  - 
+    name: Ly Kasvandik
+    title: Ihmissuhteet
+    text: Aina valmis auttamaan ja suojelemaan, kun on tarvetta.
+    avatar: /assets/images/team/ly-avatar.jpg
+    picture: /assets/images/team/ly.jpg
+    linkedin: https://www.linkedin.com/in/lykasvandik/
+    email: ly@citizenos.com
 other:
   title: |
     Samanmieliset ihmiset
   advisor: |
     **Neuvonantaja**
 
-    Ahti Heinla – perustaja, Starship Technologiesin teknologiajohtaja
+    Ahti Heinla – perustaja, Starship Technologiesin teknologiajohtaja.
   founder: |
-    **Perustajat**
+    **Co-Founders**
 
-    Ahti Heinla & Teeme Ära Sihtasutus (Let's Do It Foundation)
+    Ahti Heinla, Margo Loor, Let's Do It Foundation
   design: |
-    **UX/UI-suunnittelijat**
+    **Designers**
 
-    Kevin Crepin, Kristian Lember, Jannus Jaska.
+    Platform and web design by DUX.ee, printed designs by Merike Tamm.
   minds: |
     **Avustajat**
 
