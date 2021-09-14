@@ -9,17 +9,8 @@ keywords:
 image: /assets/images/meta/home.jpg
 team:
   - 
-    name: Margo Loor
-    title: Membre du conseil, Leader, Chef de Produit
-    text: Apporte la lumière, la sagesse et donne une vue d'ensemble.
-    avatar: /assets/images/team/margo-avatar.jpg
-    picture: /assets/images/team/margo.jpg
-    linkedin: https://www.linkedin.com/in/margoloor/
-    twitter: https://twitter.com/loorm
-    email: info@citizenos.com
-  - 
     name: Anett Linno
-    title: Partenariats & Communauté
+    title: PDG et chef de produit
     text: Avec gentillesse et tendresse, apporte structure et clarté au chaos.
     avatar: /assets/images/team/anett-avatar.jpg
     picture: /assets/images/team/anett.jpg
@@ -27,70 +18,22 @@ team:
     twitter: https://twitter.com/twitanett
     email: anett@citizenos.com
   - 
-    name: Liina Guiter
-    title: Marketing & Communications
-    text: Trouve un langage commun et quelque chose à partager avec n'importe quel être sur cette planète.
-    avatar: /assets/images/team/liina-avatar.jpg
-    picture: /assets/images/team/liina.jpg
-    linkedin: https://www.linkedin.com/in/liinaguiter/
-    twitter: https://twitter.com/liinaguiter
-    email: liina@citizenos.com
+    name: Margo Loor
+    title: Co-Founder & Technology Evangelist
+    text: Apporte la lumière, la sagesse et donne une vue d'ensemble.
+    avatar: /assets/images/team/margo-avatar.jpg
+    picture: /assets/images/team/margo.jpg
+    linkedin: https://www.linkedin.com/in/margoloor/
+    twitter: https://twitter.com/loorm
+    email: info@citizenos.com
   - 
-    name: Mikk Andresen
-    title: Architecte logiciel
-    text: Construit les choses à partir de rien et maintient notre moral au sommet.
-    avatar: /assets/images/team/mikk-avatar.jpg
-    picture: /assets/images/team/mikk.jpg
-    linkedin: https://www.linkedin.com/in/mikkandresen/
-    email: mikk@citizenos.com
-  - 
-    name: Ilmar Türk
-    title: Architecte logiciel
-    text: Livraison garantie de code et sourires.
-    avatar: /assets/images/team/ilmar-avatar.jpg
-    picture: /assets/images/team/ilmar.jpg
-    linkedin: https://www.linkedin.com/in/ilmar-t%C3%BCrk-752466125/
-    email: ilmar@citizenos.com
-  - 
-    name: Kati Vellak
-    title: Avocate
-    text: Nous protège contre les méchants et énergise tout le monde.
-    avatar: /assets/images/team/kati-avatar.jpg
-    picture: /assets/images/team/kati.jpg
-    linkedin: https://www.linkedin.com/in/kativellak/
-    email: kati@citizenos.com
-  - 
-    name: Ly Kasvandik
-    title: Relations humaines
-    text: Toujours là pour aider et protéger, quand on en a le plus besoin.
-    avatar: /assets/images/team/ly-avatar.jpg
-    picture: /assets/images/team/ly.jpg
-    linkedin: https://www.linkedin.com/in/lykasvandik/
-    email: ly@citizenos.com
-  - 
-    name: Becca Melhuish
-    title: Conceptrice de communications et rédactrice
-    text: Apporte brillance et éclat à toutes nos comms.
-    avatar: /assets/images/team/becca-avatar.jpg
-    picture: /assets/images/team/becca.jpg
-    linkedin: https://www.linkedin.com/in/beccamelhuish/
-    email: becca.melhuish@gmail.com
-  - 
-    name: Agustina Iskandar
+    name: Agustina Iskandar Crombach
     title: Responsable du partenariat en Indonésie
     text: Faiseuse de miracles, protectrice des libertés et collaboratrice en série.
     avatar: /assets/images/team/agustina-avatar.jpg
     picture: /assets/images/team/agustina.jpg
     linkedin: https://www.linkedin.com/in/agustina-iskandar-95a402109/
     email: agustina@citizenos.com
-  - 
-    name: Viljar Sepp
-    title: Localisation & traduction
-    text: Adore localiser et faire des blagues. Excelle aux deux.
-    avatar: /assets/images/team/viljar-avatar.jpg
-    picture: /assets/images/team/viljar.jpg
-    linkedin: https://ee.linkedin.com/in/viljarsepp
-    email: viljar@citizenos.com
   - 
     name: Sara Sinha
     title: Responsable partenariats et communtauté en Inde
@@ -101,13 +44,37 @@ team:
     twitter: https://twitter.com/Sarasinha1992
     email: sara@citizenos.com
   - 
-    name: Tasia Rosalina Tedjo Purnomo
-    title: Responsable des réseaux sociaux pour Citizen OS Indonésie
-    text: Système d'assistance alimenté par la curiosité et les valeurs.
-    avatar: /assets/images/team/tasia-avatar.jpg
-    picture: /assets/images/team/tasia.jpg
-    linkedin: https://www.linkedin.com/in/tasia-rosalina
-    email: tasia@citizenos.com
+    name: Ilmar Türk
+    title: Architecte logiciel
+    text: Livraison garantie de code et sourires.
+    avatar: /assets/images/team/ilmar-avatar.jpg
+    picture: /assets/images/team/ilmar.jpg
+    linkedin: https://www.linkedin.com/in/ilmar-t%C3%BCrk-752466125/
+    email: ilmar@citizenos.com
+  - 
+    name: Mikk Andresen
+    title: Architecte logiciel
+    text: Construit les choses à partir de rien et maintient notre moral au sommet.
+    avatar: /assets/images/team/mikk-avatar.jpg
+    picture: /assets/images/team/mikk.jpg
+    linkedin: https://www.linkedin.com/in/mikkandresen/
+    email: mikk@citizenos.com
+  - 
+    name: Kati Vellak
+    title: Avocate
+    text: Nous protège contre les méchants et énergise tout le monde.
+    avatar: /assets/images/team/kati-avatar.jpg
+    picture: /assets/images/team/kati.jpg
+    linkedin: https://www.linkedin.com/in/kativellak/
+    email: kati@citizenos.com
+  - 
+    name: Becca Melhuish
+    title: Conceptrice de communications et rédactrice
+    text: Apporte brillance et éclat à toutes nos comms.
+    avatar: /assets/images/team/becca-avatar.jpg
+    picture: /assets/images/team/becca.jpg
+    linkedin: https://www.linkedin.com/in/beccamelhuish/
+    email: becca.melhuish@gmail.com
   - 
     name: Leony Chrisanti
     title: Concepteur pour Citizen OS Indonésie
@@ -115,6 +82,14 @@ team:
     avatar: /assets/images/team/leony-avatar.jpg
     picture: /assets/images/team/leony.jpg
     email: leonychrisanti1789@gmail.com
+  - 
+    name: Tasia Rosalina Tedjo Purnomo
+    title: Responsable des réseaux sociaux pour Citizen OS Indonésie
+    text: Système d'assistance alimenté par la curiosité et les valeurs.
+    avatar: /assets/images/team/tasia-avatar.jpg
+    picture: /assets/images/team/tasia.jpg
+    linkedin: https://www.linkedin.com/in/tasia-rosalina
+    email: tasia@citizenos.com
   - 
     name: Oksana Naidjonova (en congé parental)
     title: Localisation & traduction
@@ -124,6 +99,31 @@ team:
     linkedin: https://www.linkedin.com/in/oksananaidjonova/
     twitter: https://twitter.com/oksks
     email: oksana@citizenos.com
+  - 
+    name: Viljar Sepp
+    title: Localisation & traduction
+    text: Adore localiser et faire des blagues. Excelle aux deux.
+    avatar: /assets/images/team/viljar-avatar.jpg
+    picture: /assets/images/team/viljar.jpg
+    linkedin: https://ee.linkedin.com/in/viljarsepp
+    email: viljar@citizenos.com
+  - 
+    name: Liina Guiter
+    title: Marketing & Communications
+    text: Trouve un langage commun et quelque chose à partager avec n'importe quel être sur cette planète.
+    avatar: /assets/images/team/liina-avatar.jpg
+    picture: /assets/images/team/liina.jpg
+    linkedin: https://www.linkedin.com/in/liinaguiter/
+    twitter: https://twitter.com/liinaguiter
+    email: liina@citizenos.com
+  - 
+    name: Ly Kasvandik
+    title: Relations humaines
+    text: Toujours là pour aider et protéger, quand on en a le plus besoin.
+    avatar: /assets/images/team/ly-avatar.jpg
+    picture: /assets/images/team/ly.jpg
+    linkedin: https://www.linkedin.com/in/lykasvandik/
+    email: ly@citizenos.com
 other:
   title: |
     Personnes partageant les mêmes idées
@@ -132,12 +132,13 @@ other:
 
     Ahti Heinla - Co-fondateur, CTO chez Starship Technologies.
   founder: |
-    **Founders**
-    Ahti Heinla & Teeme Ära Sihtasutus (Fondation Let's Do It)
-  design: |
-    **Concepteurs UX/UI**
+    **Co-Founders**
 
-    Kevin Crepin, Kristian Lember, Jannus Jaska.
+    Ahti Heinla, Margo Loor, Let's Do It Foundation
+  design: |
+    **Designers**
+
+    Platform and web design by DUX.ee, printed designs by Merike Tamm.
   minds: |
     **Contributeurs**
 
