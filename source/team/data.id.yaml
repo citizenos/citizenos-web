@@ -1,6 +1,6 @@
 ---
 path: /tim
-title: Team
+title: Tim
 description: Courage, self-determination, desire to change the world is what we value at Citizen OS. If you would like to be a part of the team, contact us!
 keywords:
   - social movement
@@ -9,17 +9,8 @@ keywords:
 image: /assets/images/meta/home.jpg
 team:
   - 
-    name: Margo Loor
-    title: Board member, Leader, Product Manager
-    text: Brings light, wisdom and paints the big picture.
-    avatar: /assets/images/team/margo-avatar.jpg
-    picture: /assets/images/team/margo.jpg
-    linkedin: https://www.linkedin.com/in/margoloor/
-    twitter: https://twitter.com/loorm
-    email: info@citizenos.com
-  - 
     name: Anett Linno
-    title: Partnerships & Community
+    title: CEO & Product Manager
     text: With kind tenderness brings structure and clarity to any chaos.
     avatar: /assets/images/team/anett-avatar.jpg
     picture: /assets/images/team/anett.jpg
@@ -27,70 +18,22 @@ team:
     twitter: https://twitter.com/twitanett
     email: anett@citizenos.com
   - 
-    name: Liina Guiter
-    title: Marketing & Communications
-    text: Finds a common language and something to share with any being on this planet.
-    avatar: /assets/images/team/liina-avatar.jpg
-    picture: /assets/images/team/liina.jpg
-    linkedin: https://www.linkedin.com/in/liinaguiter/
-    twitter: https://twitter.com/liinaguiter
-    email: liina@citizenos.com
+    name: Margo Loor
+    title: Co-Founder & Technology Evangelist
+    text: Brings light, wisdom and paints the big picture.
+    avatar: /assets/images/team/margo-avatar.jpg
+    picture: /assets/images/team/margo.jpg
+    linkedin: https://www.linkedin.com/in/margoloor/
+    twitter: https://twitter.com/loorm
+    email: info@citizenos.com
   - 
-    name: Mikk Andresen
-    title: Software Architect
-    text: Builds stuff out of nothing and keeps our morale at a top height.
-    avatar: /assets/images/team/mikk-avatar.jpg
-    picture: /assets/images/team/mikk.jpg
-    linkedin: https://www.linkedin.com/in/mikkandresen/
-    email: mikk@citizenos.com
-  - 
-    name: Ilmar Türk
-    title: Software Architect
-    text: Guaranteed delivery of code and smiles.
-    avatar: /assets/images/team/ilmar-avatar.jpg
-    picture: /assets/images/team/ilmar.jpg
-    linkedin: https://www.linkedin.com/in/ilmar-t%C3%BCrk-752466125/
-    email: ilmar@citizenos.com
-  - 
-    name: Kati Vellak
-    title: Lawyer
-    text: Protects us from baddies and energizes anyone in sight.
-    avatar: /assets/images/team/kati-avatar.jpg
-    picture: /assets/images/team/kati.jpg
-    linkedin: https://www.linkedin.com/in/kativellak/
-    email: kati@citizenos.com
-  - 
-    name: Ly Kasvandik
-    title: Human Relations
-    text: Always there to help and protect, when one needs it most.
-    avatar: /assets/images/team/ly-avatar.jpg
-    picture: /assets/images/team/ly.jpg
-    linkedin: https://www.linkedin.com/in/lykasvandik/
-    email: ly@citizenos.com
-  - 
-    name: Becca Melhuish
-    title: Communications Designer & Copywriter
-    text: Brings sparkle and shine to all of our comms.
-    avatar: /assets/images/team/becca-avatar.jpg
-    picture: /assets/images/team/becca.jpg
-    linkedin: https://www.linkedin.com/in/beccamelhuish/
-    email: becca.melhuish@gmail.com
-  - 
-    name: Agustina Iskandar
+    name: Agustina Iskandar Crombach
     title: Partnership Lead in Indonesia
     text: Creator of miracles, protector of freedom and serial collaborator.
     avatar: /assets/images/team/agustina-avatar.jpg
     picture: /assets/images/team/agustina.jpg
     linkedin: https://www.linkedin.com/in/agustina-iskandar-95a402109/
     email: agustina@citizenos.com
-  - 
-    name: Viljar Sepp
-    title: Localisation Manager
-    text: Loves to localise and make jokes. Great at both.
-    avatar: /assets/images/team/viljar-avatar.jpg
-    picture: /assets/images/team/viljar.jpg
-    linkedin: https://ee.linkedin.com/in/viljarsepp
-    email: viljar@citizenos.com
   - 
     name: Sara Sinha
     title: Partnership and Community Lead in India
@@ -101,13 +44,37 @@ team:
     twitter: https://twitter.com/Sarasinha1992
     email: sara@citizenos.com
   - 
-    name: Tasia Rosalina Tedjo Purnomo
-    title: Social Media Manager for Citizen OS Indonesia
-    text: Support system fuelled with curiosity and values.
-    avatar: /assets/images/team/tasia-avatar.jpg
-    picture: /assets/images/team/tasia.jpg
-    linkedin: https://www.linkedin.com/in/tasia-rosalina
-    email: tasia@citizenos.com
+    name: Ilmar Türk
+    title: Software Architect
+    text: Guaranteed delivery of code and smiles.
+    avatar: /assets/images/team/ilmar-avatar.jpg
+    picture: /assets/images/team/ilmar.jpg
+    linkedin: https://www.linkedin.com/in/ilmar-t%C3%BCrk-752466125/
+    email: ilmar@citizenos.com
+  - 
+    name: Mikk Andresen
+    title: Software Architect
+    text: Builds stuff out of nothing and keeps our morale at a top height.
+    avatar: /assets/images/team/mikk-avatar.jpg
+    picture: /assets/images/team/mikk.jpg
+    linkedin: https://www.linkedin.com/in/mikkandresen/
+    email: mikk@citizenos.com
+  - 
+    name: Kati Vellak
+    title: Lawyer
+    text: Protects us from baddies and energizes anyone in sight.
+    avatar: /assets/images/team/kati-avatar.jpg
+    picture: /assets/images/team/kati.jpg
+    linkedin: https://www.linkedin.com/in/kativellak/
+    email: kati@citizenos.com
+  - 
+    name: Becca Melhuish
+    title: Communications Designer & Copywriter
+    text: Brings sparkle and shine to all of our comms.
+    avatar: /assets/images/team/becca-avatar.jpg
+    picture: /assets/images/team/becca.jpg
+    linkedin: https://www.linkedin.com/in/beccamelhuish/
+    email: becca.melhuish@gmail.com
   - 
     name: Leony Chrisanti
     title: Designer for Citizen OS Indonesia
@@ -115,6 +82,14 @@ team:
     avatar: /assets/images/team/leony-avatar.jpg
     picture: /assets/images/team/leony.jpg
     email: leonychrisanti1789@gmail.com
+  - 
+    name: Tasia Rosalina Tedjo Purnomo
+    title: Social Media Manager for Citizen OS Indonesia
+    text: Support system fuelled with curiosity and values.
+    avatar: /assets/images/team/tasia-avatar.jpg
+    picture: /assets/images/team/tasia.jpg
+    linkedin: https://www.linkedin.com/in/tasia-rosalina
+    email: tasia@citizenos.com
   - 
     name: Oksana Naidjonova (away on Parental Leave)
     title: Localisation & Translation
@@ -124,20 +99,46 @@ team:
     linkedin: https://www.linkedin.com/in/oksananaidjonova/
     twitter: https://twitter.com/oksks
     email: oksana@citizenos.com
+  - 
+    name: Viljar Sepp
+    title: Localisation Manager
+    text: Loves to localise and make jokes. Great at both.
+    avatar: /assets/images/team/viljar-avatar.jpg
+    picture: /assets/images/team/viljar.jpg
+    linkedin: https://ee.linkedin.com/in/viljarsepp
+    email: viljar@citizenos.com
+  - 
+    name: Liina Guiter
+    title: Marketing & Communications
+    text: Finds a common language and something to share with any being on this planet.
+    avatar: /assets/images/team/liina-avatar.jpg
+    picture: /assets/images/team/liina.jpg
+    linkedin: https://www.linkedin.com/in/liinaguiter/
+    twitter: https://twitter.com/liinaguiter
+    email: liina@citizenos.com
+  - 
+    name: Ly Kasvandik
+    title: Human Relations
+    text: Always there to help and protect, when one needs it most.
+    avatar: /assets/images/team/ly-avatar.jpg
+    picture: /assets/images/team/ly.jpg
+    linkedin: https://www.linkedin.com/in/lykasvandik/
+    email: ly@citizenos.com
 other:
   title: |
     Like-minded people
   advisor: |
     **Advisor**
 
-    Ahti Heinla - Co-founder, CTO at Starship Technologies.
+    Ahti Heinla - Co-Founder, CTO at Starship Technologies.
   founder: |
-    **Founders**
-    Ahti Heinla & Teeme Ära Sihtasutus (Let's Do It Foundation)
-  design: |
-    **UX/UI Designers**
+    **Co-Founders**
 
-    Kevin Crepin, Kristian Lember, Jannus Jaska.
+    Ahti Heinla, Margo Loor, Let's Do It Foundation
+  design: |
+    **Designers**
+
+    Platform and web design by DUX.ee, printed designs by Merike Tamm.
   minds: |
     **Contributors**
 
