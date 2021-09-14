@@ -9,17 +9,8 @@ keywords:
 image: /assets/images/meta/home.jpg
 team:
   - 
-    name: Марго Лоор
-    title: Член совета, руководитель, продукт-менеджер
-    text: Несёт свет, мудрость, задает направление развития.
-    avatar: /assets/images/team/margo-avatar.jpg
-    picture: /assets/images/team/margo.jpg
-    linkedin: https://www.linkedin.com/in/margoloor/
-    twitter: https://twitter.com/loorm
-    email: info@citizenos.com
-  - 
-    name: Анетт Линно
-    title: Партнерство и сообщество
+    name: Anett Linno
+    title: CEO и менеджер продукта
     text: Мягкой рукой приводит в порядок даже настоящий хаос.
     avatar: /assets/images/team/anett-avatar.jpg
     picture: /assets/images/team/anett.jpg
@@ -27,22 +18,31 @@ team:
     twitter: https://twitter.com/twitanett
     email: anett@citizenos.com
   - 
-    name: Лийна Гуйтер
-    title: Маркетинг и связи с общественностью
-    text: Может найти общий язык и тему для обсуждения с любым живым существом.
-    avatar: /assets/images/team/liina-avatar.jpg
-    picture: /assets/images/team/liina.jpg
-    linkedin: https://www.linkedin.com/in/liinaguiter/
-    twitter: https://twitter.com/liinaguiter
-    email: liina@citizenos.com
+    name: Margo Loor
+    title: Co-Founder & Technology Evangelist
+    text: Несёт свет, мудрость, задает направление развития.
+    avatar: /assets/images/team/margo-avatar.jpg
+    picture: /assets/images/team/margo.jpg
+    linkedin: https://www.linkedin.com/in/margoloor/
+    twitter: https://twitter.com/loorm
+    email: info@citizenos.com
   - 
-    name: Микк Андресен
-    title: Архитектор ПО
-    text: Созидает буквально «из ничего» и поддерживает моральный дух команды на высоте.
-    avatar: /assets/images/team/mikk-avatar.jpg
-    picture: /assets/images/team/mikk.jpg
-    linkedin: https://www.linkedin.com/in/mikkandresen/
-    email: mikk@citizenos.com
+    name: Agustina Iskandar Crombach
+    title: Руководитель партнeрства в Индонезии
+    text: Создатель чудес, защитник свободы и серийный сотрудник.
+    avatar: /assets/images/team/agustina-avatar.jpg
+    picture: /assets/images/team/agustina.jpg
+    linkedin: https://www.linkedin.com/in/agustina-iskandar-95a402109/
+    email: agustina@citizenos.com
+  - 
+    name: Sara Sinha
+    title: Руководитель партнерства и сообщества в Индии
+    text: Приверженка идеи открытого управления.
+    avatar: /assets/images/team/sara-avatar.png
+    picture: /assets/images/team/sara.png
+    linkedin: https://www.linkedin.com/in/sara-sinha-361577146/
+    twitter: https://twitter.com/Sarasinha1992
+    email: sara@citizenos.com
   - 
     name: Ильмар Тюрк
     title: Архитектор ПО
@@ -52,21 +52,21 @@ team:
     linkedin: https://www.linkedin.com/in/ilmar-t%C3%BCrk-752466125/
     email: ilmar@citizenos.com
   - 
-    name: Кати Веллак
+    name: Mikk Andresen
+    title: Архитектор ПО
+    text: Созидает буквально «из ничего» и поддерживает моральный дух команды на высоте.
+    avatar: /assets/images/team/mikk-avatar.jpg
+    picture: /assets/images/team/mikk.jpg
+    linkedin: https://www.linkedin.com/in/mikkandresen/
+    email: mikk@citizenos.com
+  - 
+    name: Kati Vellak
     title: Юрист
     text: Защищает нас от злодеев и заряжает всех вокруг энергией.
     avatar: /assets/images/team/kati-avatar.jpg
     picture: /assets/images/team/kati.jpg
     linkedin: https://www.linkedin.com/in/kativellak/
     email: kati@citizenos.com
-  - 
-    name: Ли Касвандик
-    title: Отдел кадров
-    text: Всегда рядом, чтобы помочь и защитить в трудный момент.
-    avatar: /assets/images/team/ly-avatar.jpg
-    picture: /assets/images/team/ly.jpg
-    linkedin: https://www.linkedin.com/in/lykasvandik/
-    email: ly@citizenos.com
   - 
     name: Бекка Мелуиш
     title: Дизайнер коммуникаций и копирайтер
@@ -76,45 +76,20 @@ team:
     linkedin: https://www.linkedin.com/in/beccamelhuish/
     email: becca.melhuish@gmail.com
   - 
-    name: Агустина Искандар
-    title: Руководитель партнeрства в Индонезии
-    text: Создатель чудес, защитник свободы и серийный сотрудник.
-    avatar: /assets/images/team/agustina-avatar.jpg
-    picture: /assets/images/team/agustina.jpg
-    linkedin: https://www.linkedin.com/in/agustina-iskandar-95a402109/
-    email: agustina@citizenos.com
+    name: Leony Chrisanti
+    title: Дизайнер Citizen OS в Индонезии
+    text: Профессиональна и ответственна.
+    avatar: /assets/images/team/leony-avatar.jpg
+    picture: /assets/images/team/leony.jpg
+    email: leonychrisanti1789@gmail.com
   - 
-    name: Viljar Sepp
-    title: Локализация и перевод
-    text: Любит переводить и шутить. Прекрасно умеет и то и другое.
-    avatar: /assets/images/team/viljar-avatar.jpg
-    picture: /assets/images/team/viljar.jpg
-    linkedin: https://ee.linkedin.com/in/viljarsepp
-    email: viljar@citizenos.com
-  - 
-    name: Сара Синья
-    title: Руководитель партнерства и сообщества в Индии
-    text: Приверженка идеи открытого управления.
-    avatar: /assets/images/team/sara-avatar.png
-    picture: /assets/images/team/sara.png
-    linkedin: https://www.linkedin.com/in/sara-sinha-361577146/
-    twitter: https://twitter.com/Sarasinha1992
-    email: sara@citizenos.com
-  - 
-    name: Тасия Розалина Теджо Пурномо
+    name: Tasia Rosalina Tedjo Purnomo
     title: SMM-менеджер Citizen OS в Индонезии
     text: Всеобщая помощница, всегда открытая новым идеям.
     avatar: /assets/images/team/tasia-avatar.jpg
     picture: /assets/images/team/tasia.jpg
     linkedin: https://www.linkedin.com/in/tasia-rosalina
     email: tasia@citizenos.com
-  - 
-    name: Леони Крисанти
-    title: Дизайнер Citizen OS в Индонезии
-    text: Профессиональна и ответственна.
-    avatar: /assets/images/team/leony-avatar.jpg
-    picture: /assets/images/team/leony.jpg
-    email: leonychrisanti1789@gmail.com
   - 
     name: Оксана Найденова (в отпуске по уходу за ребенком)
     title: Локализация и перевод
@@ -124,6 +99,31 @@ team:
     linkedin: https://www.linkedin.com/in/oksananaidjonova/
     twitter: https://twitter.com/oksks
     email: oksana@citizenos.com
+  - 
+    name: Viljar Sepp
+    title: Локализация и перевод
+    text: Любит переводить и шутить. Прекрасно умеет и то и другое.
+    avatar: /assets/images/team/viljar-avatar.jpg
+    picture: /assets/images/team/viljar.jpg
+    linkedin: https://ee.linkedin.com/in/viljarsepp
+    email: viljar@citizenos.com
+  - 
+    name: Liina Guiter
+    title: Маркетинг и связи с общественностью
+    text: Может найти общий язык и тему для обсуждения с любым живым существом.
+    avatar: /assets/images/team/liina-avatar.jpg
+    picture: /assets/images/team/liina.jpg
+    linkedin: https://www.linkedin.com/in/liinaguiter/
+    twitter: https://twitter.com/liinaguiter
+    email: liina@citizenos.com
+  - 
+    name: Ly Kasvandik
+    title: HR
+    text: Всегда рядом, чтобы помочь и защитить в трудный момент.
+    avatar: /assets/images/team/ly-avatar.jpg
+    picture: /assets/images/team/ly.jpg
+    linkedin: https://www.linkedin.com/in/lykasvandik/
+    email: ly@citizenos.com
 other:
   title: |
     Единомышленники
@@ -132,12 +132,13 @@ other:
 
     Ахти Хейнла - сооснователь и CTO в Starship Technologies.
   founder: |
-    **Основатели**
-    Ахти Хейнла и Фонд Teeme Ära
-  design: |
-    **UX/UI дизайнеры**
+    **Co-Founders**
 
-    Кевин Крепин, Кристиан Лембер, Яннус Яска.
+    Ahti Heinla, Margo Loor, Let's Do It Foundation
+  design: |
+    **Designers**
+
+    Platform and web design by DUX.ee, printed designs by Merike Tamm.
   minds: |
     **Помощники**
 
