@@ -38,7 +38,7 @@ blocks:
         text: |
             We join forces with organisations worldwide to work on innovative e-democracy and participation projects.
 
-            - [Digital Transformation for Civic Engagement](#individual)
+            - [Winter and Summer Schools](#individual)
             - [EuroChangemakers](#awareness)
             - [Civic Hacktivist Community](#individual2)
             - [Participatory Youth Leadership Network](#awareness2)
@@ -59,14 +59,14 @@ blocks:
         class:
             - order-3
         title: |
-            Digital Transformation for Civic Engagement.
+            Winter and Summer Schools.
         text: |
-            Our new Erasmus+ youth exchange programme will train up Europe’s next generation of leaders in civic engagement project design and participatory leadership, through engaging, hands-on learning methods.
+            The Digital Innovation for Civic Engagement Projects course is run in a partnership between us and Tallinn University, as part of their Summer and Winter School programmes. The 10-day course teaches members of communities and civic initiatives how to involve more people into discussion and decision-making processes, through the use of technological tools.
 
         button1st:
             title: Learn more
-            url: /erasmus/
-
+            url: https://winterschool.tlu.ee/digital-innovation-for-civic-engagement-projects/
+            target: _blank
 
     awareness:
         class:
