@@ -11,6 +11,16 @@ image: /assets/images/meta/vision.jpg
 
 news:
 
+    2021-10-04:
+        url: /news/meet-our-alumni-digital-change-makers
+        title: Meet our alumni digital change-makers.
+        author: Indianna Knight, Becca Melhuish
+        image: /assets/images/news/meet-our-alumni-digital-change-makers.png
+        categories:
+            - Citizen OS news
+        text: |
+            We caught up with alumni of the Digital Innovation Programme.
+
     2021-09-21:
         url: /news/interview-the-past-and-future-of-citizen-os
         title: Interview—The past and future of Citizen OS.
