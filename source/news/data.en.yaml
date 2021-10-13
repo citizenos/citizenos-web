@@ -11,6 +11,26 @@ image: /assets/images/meta/vision.jpg
 
 news:
 
+    2021-09-21:
+        url: /news/interview-the-past-and-future-of-citizen-os
+        title: Interview—The past and future of Citizen OS.
+        author: Becca Melhuish
+        image: /assets/images/news/citizen-os-global-expansion-led-by-new-ceo.jpg
+        categories:
+            - Citizen OS news
+        text: |
+            The succession of Margo Loor by Anett Linno as CEO marks a new chapter of growth.
+
+    2021-09-20:
+        url: /news/citizen-os-global-expansion-led-by-new-ceo
+        title: Citizen OS global expansion led by new CEO.
+        author: Becca Melhuish
+        image: /assets/images/news/citizen-os-global-expansion-led-by-new-ceo.jpg
+        categories:
+            - Citizen OS news
+        text: |
+            A new chapter of growth begins, following the succession of outgoing CEO, Margo Loor, by incoming CEO, Anett Linno.
+
     2021-05-06:
         url: /news/pare-general-meeting-goes-online
         title: Interview—PARE General Meeting goes online.
