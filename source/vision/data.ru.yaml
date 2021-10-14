@@ -13,7 +13,7 @@ blocks:
       - order-1
     style:
       background-color: '#AAF3DD'
-      background-image: url(/assets/images/vision-start.png), url(/assets/images/bubble-dots.png), url(/assets/images/bubble-yellow.svg)
+      background-image: url(/assets/images/research-start.png), url(/assets/images/bubble-dots.png), url(/assets/images/bubble-yellow.svg)
       background-position: center center, 0 10%, 75% 20%
       background-size: 500px 500px, 350px 350px, 65px 65px
   #text: |
@@ -49,7 +49,7 @@ blocks:
       background-position: 10% 10%, 90% 10%
       background-size: 45px 45px, 350px 350px
     text: |
-      ![Активная гражданка, которая верит, что ее участие в политических проблемах имеет влияние.](/assets/images/vision-individual.png){ .img-fluid }
+      ![Активная гражданка, которая верит, что ее участие в политических проблемах имеет влияние.](/assets/images/vision-individual2.png){ .img-fluid }
   individual:
     class:
       - order-3
