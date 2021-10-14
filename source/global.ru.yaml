@@ -5,14 +5,14 @@ navigation:
     title: Продукт
     url: /ru/produkt/
     class: продукт
-  vision:
+  projects:
     title: Проекты
     url: /ru/proyekty/
-    class: проекты
-  #community:
-  #title: Community
-  #url: /community/
-  #class: community
+    class: projects
+  vision:
+    title: Концепция
+    url: /ru/koncepciya/
+    class: vision
   blog:
     title: Новости
     url: /ru/novosti/
@@ -90,8 +90,8 @@ footer:
       title: Служба поддержки
       links:
         faq:
-          title: FAQ
-          url: /faq/
+          title: ЧАВО
+          url: /chavo/
         guides:
           title: Руководство
           url: https://app.citizenos.com/en/topics/c6b6d06a-e8cf-4297-9654-8c1cf01b133b
