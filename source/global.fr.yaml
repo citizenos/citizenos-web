@@ -5,14 +5,14 @@ navigation:
     title: Produit
     url: /fr/produit/
     class: produit
-  vision:
+  projects:
     title: Projets
     url: /fr/projets/
-    class: projets
-  #community:
-  #title: Community
-  #url: /community/
-  #class: community
+    class: projects
+  vision:
+    title: Vision
+    url: /fr/vision/
+    class: vision
   blog:
     title: Actualités
     url: /fr/actualites/

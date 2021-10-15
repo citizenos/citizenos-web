@@ -5,14 +5,14 @@ navigation:
     title: Tuote
     url: /fi/tuote/
     class: tuote
-  vision:
+  projects:
     title: Projektit
     url: /fi/projektit/
-    class: projektit
-  #community:
-  #title: Community
-  #url: /community/
-  #class: community
+    class: projects
+  vision:
+    title: Visio
+    url: /fi/vision/
+    class: vision
   blog:
     title: Uutiset
     url: /fi/uutiset/
@@ -90,7 +90,7 @@ footer:
       title: Tuki
       links:
         faq:
-          title: FAQ
+          title: UKK
           url: /faq/
         guides:
           title: Oppaat

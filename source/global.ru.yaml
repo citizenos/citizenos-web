@@ -5,14 +5,14 @@ navigation:
     title: Продукт
     url: /ru/produkt/
     class: продукт
-  vision:
+  projects:
     title: Проекты
     url: /ru/proyekty/
-    class: проекты
-  #community:
-  #title: Community
-  #url: /community/
-  #class: community
+    class: projects
+  vision:
+    title: Концепция
+    url: /ru/koncepciya/
+    class: vision
   blog:
     title: Новости
     url: /ru/novosti/
@@ -90,7 +90,7 @@ footer:
       title: Служба поддержки
       links:
         faq:
-          title: FAQ
+          title: ЧАВО
           url: /faq/
         guides:
           title: Руководство
