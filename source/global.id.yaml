@@ -5,14 +5,14 @@ navigation:
     title: Produk
     url: /id/produk/
     class: produk
-  vision:
+  projects:
     title: Proyek
     url: /id/proyek/
-    class: proyek
-  #community:
-  #title: Community
-  #url: /community/
-  #class: community
+    class: projects
+  vision:
+    title: Visi
+    url: /id/visi/
+    class: vision
   blog:
     title: Berita
     url: /id/berita/
