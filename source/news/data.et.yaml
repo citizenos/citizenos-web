@@ -8,6 +8,33 @@ keywords:
   -
 image: /assets/images/meta/vision.jpg
 news:
+  2021-10-04:
+    url: /news/meet-our-alumni-digital-change-makers
+    title: Digital Change-makers - saage tuttavaks meie vilistlastega.
+    author: Indianna Knight, Becca Melhuish
+    image: /assets/images/news/meet-our-alumni-digital-change-makers.png
+    categories:
+      - Citizen OS uudised
+    text: |
+      Uurisime, kuidas läheb meie Digital innovation programmi vilistlastel.
+  2021-09-21:
+    url: /uudised/intervjuu-sihtasutuse-citizen-os-minevik-ja-tulevik
+    title: Intervjuu — Sihtasutuse Citizen OS minevik ja tulevik.
+    author: Becca Melhuish
+    image: /assets/images/news/citizen-os-global-expansion-led-by-new-ceo.jpg
+    categories:
+      - Citizen OS uudised
+    text: |
+      Algab uus arenguetapp, mil Anett Linno tegevjuhi rolli Margo Loorilt üle võtab.
+  2021-09-20:
+    url: /uudised/citizen-os-ülemaailmne-laienemine-uue-tegevjuhi-juhtimisel
+    title: Citizen OS ülemaailmne laienemine uue tegevjuhi juhtimisel.
+    author: Becca Melhuish
+    image: /assets/images/news/citizen-os-global-expansion-led-by-new-ceo.jpg
+    categories:
+      - Citizen OS uudised
+    text: |
+      Algab uus arengujärk, kui lahkuva tegevjuhi Margo Loori asemel asub tööle Anett Linno.
   2021-05-06:
     url: /et/uudised/pare-yldkoosolekud-on-nyyd-virtuaalsed/
     title: Intervjuu—PARE üldkoosolekud on nüüd virtuaalsed.
@@ -62,7 +89,7 @@ news:
     categories:
       - Citizen OS uudised
     text: |
-      We’ve teamed up with Tallinn University to deliver an engaging and enriching Winter School course, focused specifically on digital innovation and civic engagement.
+      Oleme teinud koostööd Tallinna ülikooliga, et viia läbi köitev ja rikastav Talvekooli kursus, mis on keskendunud just digitaalsele innovatsioonile ja kodanikuaktiivsusele.
   2020-10-13:
     url: /news/join-indias-participatory-youth-leadership-network
     title: Join India’s Participatory Youth Leadership Network.
@@ -85,27 +112,27 @@ news:
       Open Society Technologies scholar Sara Sinha fills us in on the participatory e-democracy scene in India, the academic research in this area, and her hopes for the future of this field in her homeland.
   2020-09-18:
     url: /news/the-34-islands-project-for-a-greener-indonesia
-    title: The 34 Islands Project–for a Greener Indonesia.
+    title: 34 saare projekt - rohelisem Indoneesia.
     author: Becca Melhuish
     image: /assets/images/news/the-34-islands-project-for-a-greener-indonesia.jpg
     categories:
       - Citizen OS uudised
       - Juhtumiuuringud
     text: |
-      Grassroots community decision-making is combating waste pollution in Indonesia.
+      Rohujuure tasandil kogukonna otsuste tegemine võitleb Indoneesias jäätmereostusega.
   2020-09-15:
     url: /et/uudised/demokraatia-ilma-argumenteeritud-aruteluta-ei-ole-võimalik/
-    title: Democracy is impossible without reasoned debate.
+    title: Demokraatia ilma argumenteeritud aruteluta ei ole võimalik.
     author: Margo Loor
     image: /assets/images/news/democracy-is-impossible-without-reasoned-debate.jpg
     categories:
       - Citizen OS uudised
       - E-demokraatia uudised
     text: |
-      Our CEO Margo Loor on why public discussion yields the best decisions, as published in the Good Citizen magazine.
+      Meie tegevjuht Margo Loor teemal miks avalik arutelu viib parimate otsusteni. Algselt avaldatud Hea Kodaniku ajakirjas.
   2020-08-07:
     url: /news/a-new-approach-for-maximum-transparency
-    title: A new approach for maximum transparency.
+    title: Uus lähenemisviis maksimaalse läbipaistvuse tagamiseks.
     author: Becca Melhuish
     image: /assets/images/news/a-new-approach-for-maximum-transparency.png
     categories:
@@ -114,17 +141,17 @@ news:
       Find out how our community moderation features bring complete transparency and accountability to the moderation process.
   2020-08-05:
     url: /news/the-key-to-online-democracy-is-trust/
-    title: The key to online democracy is trust.
-    author: Margo Loor, CEO and Product Manager / Edited by Becca Melhuish
+    title: Veebidemokraatia võti on usaldus.
+    author: Margo Loor, tegev- ja tootejuht / Toimetanud Becca Melhuish
     image: /assets/images/news/the-key-to-online-democracy-is-trust.jpg
     categories:
       - Citizen OS uudised
     text: |
-      Online voting systems need solid security measures. We keep the Citizen OS platform up-to-date with new laws and best practice—our CEO and Product Manager, Margo Loor, explains how.
+      Veebihääletussüsteemid vajavad kindlaid turvameetmeid. Hoiame Citizen OS-i platvormi kursis uute seaduste ja parimate tavadega - meie tegev- ja tootejuht Margo Loor selgitab, kuidas.
   2020-07-29:
     url: /news/turning-citizen-ideas-into-action-on-waste-bintan-indonesia/
     title: Turning citizen ideas into action on waste—Bintan, Indonesia.
-    author: Indonesian team, edited by Becca Melhuish
+    author: Indoneesia meeskond, toimetaja Becca Melhuish
     image: /assets/images/news/turning-citizen-ideas-into-action-on-waste-bintan-indonesia.jpeg
     categories:
       - Citizen OS uudised
