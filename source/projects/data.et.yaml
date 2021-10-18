@@ -33,12 +33,12 @@ blocks:
     title: |
       Koostöö muutuste nimel.
     text: |
-      Ühendame innovaatiliste e-demokraatia projektide ja osalusprojektidega töötamiseks jõud erinevate riikide organisatsioonidega.
+      We join forces with organisations worldwide to work on innovative e-democracy and participation projects.
 
-      - [Digitaalne muundumine ühiskonna kaasamiseks](#individual)
+      - [Winter and Summer Schools](#individual)
       - [EuroChangemakers](#awareness)
-      - [Kodanikuhäktivistide kogukond](#individual2)
-      - [Noorte osalusdemokraatiajuhtide võrgustik](#awareness2)
+      - [Civic Hacktivist Community](#individual2)
+      - [Participatory Youth Leadership Network](#awareness2)
       {.arrow }
   individual-img:
     class:
@@ -53,12 +53,13 @@ blocks:
     class:
       - order-3
     title: |
-      Kodanike kaasamise digitaalne muundamine.
+      Winter and Summer Schools.
     text: |
-      Meie uus Erasmus+ noortehvahetusprogramm koolitab välja Euroopa kodanike kaasamise projektide kujundamise ja osalusdemokraatia valdkonna liidreid, kasutades kaasavaid ja praktikapõhiseid õppemeetodeid.
+      The Digital Innovation for Civic Engagement Projects course is run in a partnership between us and Tallinn University, as part of their Summer and Winter School programmes. The 10-day course teaches members of communities and civic initiatives how to involve more people into discussion and decision-making processes, through the use of technological tools.
     button1st:
       title: Vaata lisa
-      url: /et/erasmus/
+      url: https://winterschool.tlu.ee/digital-innovation-for-civic-engagement-projects/
+      target: _blank
   awareness:
     class:
       - order-4
