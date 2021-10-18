@@ -33,12 +33,12 @@ blocks:
     title: |
       Collaboration pour le changement.
     text: |
-      Nous unissons nos forces avec les organisations du monde entier pour travailler sur des projets innovants de e-démocratie et de participation.
+      We join forces with organisations worldwide to work on innovative e-democracy and participation projects.
 
-      - [Transformation numérique pour l'engagement civique](#individual)
+      - [Winter and Summer Schools](#individual)
       - [EuroChangemakers](#awareness)
-      - [Communauté civique Hacktiviste](#individual2)
-      - [Réseau participatif de leadership jeunes](#awareness2)
+      - [Civic Hacktivist Community](#individual2)
+      - [Participatory Youth Leadership Network](#awareness2)
       {.arrow }
   individual-img:
     class:
@@ -53,12 +53,13 @@ blocks:
     class:
       - order-3
     title: |
-      Transformation numérique pour l'engagement civique.
+      Winter and Summer Schools.
     text: |
-      Notre nouveau programme d’échange de jeunes Erasmus+ formera la prochaine génération de leaders européens en matière de conception de projets d’engagement civique et de leadership participatif, grâce à des méthodes d’apprentissage pratiques et engageantes.
+      The Digital Innovation for Civic Engagement Projects course is run in a partnership between us and Tallinn University, as part of their Summer and Winter School programmes. The 10-day course teaches members of communities and civic initiatives how to involve more people into discussion and decision-making processes, through the use of technological tools.
     button1st:
       title: En savoir plus
-      url: /fr/erasmus/
+      url: https://winterschool.tlu.ee/digital-innovation-for-civic-engagement-projects/
+      target: _blank
   awareness:
     class:
       - order-4
