@@ -11,7 +11,7 @@ navigation:
     class: projects
   vision:
     title: Visio
-    url: /fi/vision/
+    url: /fi/visio/
     class: vision
   blog:
     title: Uutiset
