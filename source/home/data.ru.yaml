@@ -147,7 +147,6 @@ blocks:
       background-image: url(/assets/images/bubble-dots.png)
       background-position: 80% 10%
       background-size: 350px 350px
-    label: A word from the team
     title: |
       Где нас можно встретить
     blocks:
