@@ -53,9 +53,9 @@ blocks:
     class:
       - order-3
     title: |
-      Winter and Summer Schools.
+      Зимняя и летняя школы.
     text: |
-      The Digital Innovation for Civic Engagement Projects course is run in a partnership between us and Tallinn University, as part of their Summer and Winter School programmes. The 10-day course teaches members of communities and civic initiatives how to involve more people into discussion and decision-making processes, through the use of technological tools.
+      Курс Digital Innovation for Civic Engagement Projects проводится нами совместно с Таллинским университетом в качестве блока учебных программ зимней и летней школы. Во время этого 10-дневного курса участники сообществ и гражданских инициатив обучаются тому, как вовлекать в обсуждения и процесс принятия решений больше людей, с помощью инновационных инструментов.
     button1st:
       title: Подробнее
       url: https://winterschool.tlu.ee/digital-innovation-for-civic-engagement-projects/
