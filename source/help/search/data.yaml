@@ -1,0 +1,10 @@
+path: /help/search
+
+data:
+    general: ../category/general/data.yaml
+    login: ../category/login/data.yaml
+    groups: ../category/groups/data.yaml
+    topics: ../category/topics/data.yaml
+    discussions: ../category/discussions/data.yaml
+    voting: ../category/voting/data.yaml
+    followUp: ../category/follow-up/data.yaml
