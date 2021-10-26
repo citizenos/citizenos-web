@@ -15,7 +15,7 @@ block content
         .row.mb-4.pt-5
             h2.col-12= self.help.search.title
             form.col-12.col-sm-6
-                input#search.form-control(name='q' placeholder=self.help.search.placeholder autofocus)
+                input#search.form-control(name='q' type='search' placeholder=self.help.search.placeholder autofocus)
 
         each category in self.data.category
 
