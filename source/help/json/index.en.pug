@@ -1,1 +1,0 @@
- !{ JSON.stringify(Object.values(self.data).flat().map(x => ({ path: x.path, title: x.title, text: [...new Set(`${x.title} ${x.text}`.toLowerCase().replace(/[.,\/#!$%\^&\*;:{}=\-_`~()"'\t\n\r]/g, '').replace(/\s{2,}/g, ' ').split(' '))].join(' ') }))) }

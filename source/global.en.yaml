@@ -53,6 +53,7 @@ help:
     search:
         title: Search for something specific
         placeholder: Search
+        url: /help/search
     alternate:
         title: Alternatively try these options
         request: Submit a Help Request

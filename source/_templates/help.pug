@@ -20,8 +20,8 @@ block content
                     .row
                         .col-12.col-sm-5.p-3
                             h2= self.help.search.title
-                            form
-                                input.form-control(placeholder=self.help.search.placeholder)
+                            form(action=self.help.search.url)
+                                input#search.form-control(name='q' placeholder=self.help.search.placeholder)
 
                         .col-12.col-sm-7.p-3(style='border-left:1px solid #E5E5E5')
                             h2= self.help.alternate.title

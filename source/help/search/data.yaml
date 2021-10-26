@@ -1,0 +1,19 @@
+path: /help/search
+
+data:
+    category: ../category/data.yaml
+    category-general: ../category/general/data.yaml
+    category-login: ../category/login/data.yaml
+    category-groups: ../category/groups/data.yaml
+    category-topics: ../category/topics/data.yaml
+    category-discussions: ../category/discussions/data.yaml
+    category-voting: ../category/voting/data.yaml
+    category-follow-up: ../category/follow-up/data.yaml
+
+title: Help Center Search
+description:
+keywords:
+    -
+image: /assets/images/meta/faq.jpg
+
+text: The Help Center will answer any questions you may have, and help you if you get stuck.
