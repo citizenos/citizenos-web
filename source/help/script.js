@@ -1,9 +1,9 @@
 $(function () {
     $('a.gray-box').hover(function() {
-        var src = $(this).children('img').attr('src').replace('.svg', '-white.svg')
-        $(this).children('img').attr('src', src)
+        $(this).children('img.img-blue').addClass('d-none')
+        $(this).children('img.img-white').removeClass('d-none')
     }, function() {
-        var src = $(this).children('img').attr('src').replace('-white.svg', '.svg')
-        $(this).children('img').attr('src', src)
+        $(this).children('img.img-blue').removeClass('d-none')
+        $(this).children('img.img-white').addClass('d-none')
     })
 })
