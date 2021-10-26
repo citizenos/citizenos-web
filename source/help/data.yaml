@@ -1,0 +1,22 @@
+path: /help
+
+data:
+    category: category/data.yaml
+
+title: Help Center
+description:
+keywords:
+    -
+image: /assets/images/meta/faq.jpg
+
+text: The Help Center will answer any questions you may have, and help you if you get stuck.
+
+links:
+    title: Quick links
+    links:
+        -
+            title: Discussions Topic 1
+            url: /help/discussions/topic1
+        -
+            title: General Topic 2
+            url: /help/general/topic2
