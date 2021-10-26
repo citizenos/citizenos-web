@@ -38,6 +38,17 @@ newsletter:
   text: Soovitame Sulle kasulikku lugemist teemal, kuidas saab osalusdemokraatia abil inimkonda päästa.
   input: E-posti aadress
   button: Liitu
+help:
+  topics: Find by topic
+  categoryTopics: Jump to a specific topic
+  video: Watch the Topics Introduction video
+  search:
+    title: Search for something specific
+    placeholder: Search
+  alternate:
+    title: Alternatively try these options
+    request: Submit a Help Request
+    feedback: Give us feedback
 footer:
   text:
   navigation:
