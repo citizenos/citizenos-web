@@ -1,5 +1,3 @@
-path: /help/search
-
 data:
     general: ../category/general/data.yaml
     login: ../category/login/data.yaml
