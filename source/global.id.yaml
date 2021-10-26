@@ -38,6 +38,17 @@ newsletter:
   text: Kami akan merekomendasikan bacaan yang bagus tentang bagaimana demokrasi partisipatoris akan menyelamatkan kemanusiaan.
   input: Alamat e-mail
   button: Daftar
+help:
+  topics: Find by topic
+  categoryTopics: Jump to a specific topic
+  video: Watch the Topics Introduction video
+  search:
+    title: Search for something specific
+    placeholder: Search
+  alternate:
+    title: Alternatively try these options
+    request: Submit a Help Request
+    feedback: Give us feedback
 footer:
   text:
   navigation:
