@@ -6,7 +6,7 @@
     description:
     keywords:
         -
-    icon:
+    icon: /assets/images/help/icons/general.svg
     video:
     text: |
         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus egestas sapien id maximus placerat. Morbi condimentum euismod erat sit amet accumsan. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Suspendisse auctor arcu nec orci consequat pretium. Etiam non quam id turpis bibendum vestibulum non vel nibh.
@@ -19,7 +19,7 @@
     description:
     keywords:
         -
-    icon:
+    icon: /assets/images/help/icons/login.svg
     video:
     text: |
         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus egestas sapien id maximus placerat. Morbi condimentum euismod erat sit amet accumsan. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Suspendisse auctor arcu nec orci consequat pretium. Etiam non quam id turpis bibendum vestibulum non vel nibh.
@@ -32,7 +32,7 @@
     description:
     keywords:
         -
-    icon:
+    icon: /assets/images/help/icons/groups.svg
     video:
     text: |
         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus egestas sapien id maximus placerat. Morbi condimentum euismod erat sit amet accumsan. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Suspendisse auctor arcu nec orci consequat pretium. Etiam non quam id turpis bibendum vestibulum non vel nibh.
@@ -45,7 +45,7 @@
     description:
     keywords:
         -
-    icon:
+    icon: /assets/images/help/icons/topics.svg
     video:
     text: |
         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus egestas sapien id maximus placerat. Morbi condimentum euismod erat sit amet accumsan. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Suspendisse auctor arcu nec orci consequat pretium. Etiam non quam id turpis bibendum vestibulum non vel nibh.
@@ -58,7 +58,7 @@
     description:
     keywords:
         -
-    icon:
+    icon: /assets/images/help/icons/discussions.svg
     video:
     text: |
         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus egestas sapien id maximus placerat. Morbi condimentum euismod erat sit amet accumsan. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Suspendisse auctor arcu nec orci consequat pretium. Etiam non quam id turpis bibendum vestibulum non vel nibh.
@@ -71,7 +71,7 @@
     description:
     keywords:
         -
-    icon:
+    icon: /assets/images/help/icons/voting.svg
     video:
     text: |
         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus egestas sapien id maximus placerat. Morbi condimentum euismod erat sit amet accumsan. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Suspendisse auctor arcu nec orci consequat pretium. Etiam non quam id turpis bibendum vestibulum non vel nibh.
@@ -84,7 +84,7 @@
     description:
     keywords:
         -
-    icon:
+    icon: /assets/images/help/icons/follow-up.svg
     video:
     text: |
         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus egestas sapien id maximus placerat. Morbi condimentum euismod erat sit amet accumsan. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Suspendisse auctor arcu nec orci consequat pretium. Etiam non quam id turpis bibendum vestibulum non vel nibh.

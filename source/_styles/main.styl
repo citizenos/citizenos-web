@@ -1,10 +1,17 @@
 body
-    color #252525
+    color #2A2A2A
     font-family 'Noto Sans', sans-serif
 
 h1
+    color #252525
     font-size 46px
     font-weight bold
+
+h2
+    color #2A2A2A
+    font-size 16px
+    font-weight bold
+    line-height 24px
 
 p
     font-size 16px
@@ -13,6 +20,19 @@ p
 a
     color #0680FC
     outline none
+
+ul.list-arrow
+    li
+        &:before
+            content ''
+            margin-right 0.5em
+            display inline-block
+            height .6em
+            width 1em
+            line-height 24px
+            background-image url(/assets/images/help/icons/arrow.svg)
+            background-size contain
+            background-repeat no-repeat
 
 .content
     margin-top 72px

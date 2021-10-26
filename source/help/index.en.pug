@@ -2,12 +2,12 @@ extends /_templates/main.pug
 
 
 block content
-    .container.pb-5
+    .container.mb-4.pb-5
         .row.pt-5
             h1.col-12= self.title
             p.col-12= self.text
 
-        .row.pt-5
+        .row.mb-4.pt-5
             h2.col-12= self.help.search.title
             form.col-12.col-sm-6
                 input.form-control(placeholder=self.help.search.placeholder)
@@ -15,17 +15,25 @@ block content
         .row.pt-5
             h2.col-12= self.help.topics
             each category in self.data.category
-                a.col-12.col-sm-6.col-md-3(href=category.path)= category.title
+                .col-12.col-sm-6.col-md-3
+                    a.gray-box.d-block.col-12.mb-4.py-3.text-center(href=category.path)
+                        img.mb-3(src=category.icon)
+                        br
+                        | #{ category.title }
 
         .row.pt-5
             h2.col-12= self.links.title
-            ul.list-unstyled.col-12
+            ul.list-arrow.list-unstyled.col-12
                 each link in self.links.links
                     li
                         a(href=link.url)= link.title
 
         .row.pt-5
-            h2.col-12= self.help.alternate.title
             .col-12
-                a(href="#")= self.help.alternate.request
-                a(href="#")= self.help.alternate.feedback
+                .gray-box.col-12.p-3
+                    h2= self.help.alternate.title
+                    ul.list-arrow.list-inline.mb-0
+                        li.list-inline-item
+                            a(href="#")= self.help.alternate.request
+                        li.list-inline-item
+                            a(href="#")= self.help.alternate.feedback
