@@ -1,0 +1,26 @@
+extends /_templates/main.pug
+
+
+block content
+    .container.mb-4.pb-5
+        .row.pt-5
+            .col-12.col-sm-10.offset-sm-1
+                h1= self.title
+                +markdown(self.text)
+
+        .row.pt-5
+            .col-12
+                .gray-box.col-12
+                    .row
+                        .col-12.col-sm-5.p-3
+                            h2= self.help.search.title
+                            form
+                                input.form-control(placeholder=self.help.search.placeholder)
+
+                        .col-12.col-sm-7.p-3(style='border-left:1px solid #E5E5E5')
+                            h2= self.help.alternate.title
+                            ul.list-arrow.list-inline.mt-3.mb-0
+                                li.list-inline-item
+                                    a(href="#")= self.help.alternate.request
+                                li.list-inline-item
+                                    a(href="#")= self.help.alternate.feedback
