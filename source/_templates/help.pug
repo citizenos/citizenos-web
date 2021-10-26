@@ -9,6 +9,12 @@ block content
                 +markdown(self.text)
 
         .row.pt-5
+            .col-12.col-sm-10.offset-sm-1
+                h2.mb-3= self.help.feedback.title
+                a.gray-box.feedback.mr-3.py-2.px-5(href='#')= self.help.feedback.answerYes
+                a.gray-box.feedback.py-2.px-5(href='#')= self.help.feedback.answerNo
+
+        .row.pt-5
             .col-12
                 .gray-box.col-12
                     .row
@@ -24,3 +30,22 @@ block content
                                     a(href="#")= self.help.alternate.request
                                 li.list-inline-item
                                     a(href="#")= self.help.alternate.feedback
+
+
+block style
+    style.
+        a.gray-box.feedback {
+            color: #2a2a2a;
+            font-size: 14px;
+            font-weight: bold;
+            background: #f5f5f5;
+        }
+
+        a.gray-box.feedback:hover {
+            color: #ffffff;
+            font-size: 14px;
+            font-weight: bold;
+            text-decoration: none;
+            background: #0680fc;
+            border: 1px solid #0680fc;
+        }
