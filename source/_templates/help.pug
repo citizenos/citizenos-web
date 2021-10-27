@@ -9,11 +9,36 @@ block content
                 h1= self.title
                 +markdown(self.text)
 
-        .row.mb-4.pt-5
+        #feedback.row.mb-4.pt-5
             .col-12.col-sm-10.offset-sm-1
                 h2.mb-3= self.help.feedback.title
-                a.gray-box.feedback.mr-3.py-2.px-5(href='#')= self.help.feedback.answerYes
-                a.gray-box.feedback.py-2.px-5(href='#')= self.help.feedback.answerNo
+                a.gray-box.feedback.mr-3.py-2.px-5(href='javascript:void(0)' data-answer='heplfull')= self.help.feedback.answerYes
+                a.gray-box.feedback.py-2.px-5(href='javascript:void(0)' data-answer='not-heplfull')= self.help.feedback.answerNo
+
+        #feedback-modal.modal.fade(tabindex='-1', role='dialog', aria-hidden='true')
+            .modal-dialog(role='document')
+                .modal-content
+                    .modal-body.p-0
+                        button.close.p-2.pr-3(type='button', data-dismiss='modal', aria-label='Close')
+                            span(aria-hidden='true') ×
+                        .px-3
+                            h2.mt-3= self.help.negativeFeedback.title
+                        .row
+                            .col-12
+                                #feedback-form.mb-4
+                                    p.col-12.pt-3= self.help.negativeFeedback.text
+                                    h2.col-12.pt-3= self.help.negativeFeedback.form.title
+                                    form.col-12
+                                        textarea.form-control.mb-3(name='message' rows=7 placeholder=self.help.negativeFeedback.form.message)
+                                        input.form-control.mb-3(type='email' name='email' placeholder=self.help.negativeFeedback.form.email)
+                                        a#feedback-submit.feedback-btn.form-control(href='javascript:void(0)')= self.help.negativeFeedback.form.submit
+
+                                #feedback-success.my-3.d-none
+                                    .col-12
+                                        .feedback-blue-box.col-12.mb-3.pt-5.pb-4.text-center
+                                            img.mb-3(src='/assets/images/help/icons/success.svg')
+                                            +markdown(self.help.negativeFeedback.form.success)
+
 
         .row.pt-5
             .col-12
@@ -28,9 +53,9 @@ block content
                             h2= self.help.alternate.title
                             ul.list-arrow.list-inline.mt-3.mb-0
                                 li.list-inline-item
-                                    a(href="#")= self.help.alternate.request
+                                    a(href=self.help.alternate.request.url)= self.help.alternate.request.title
                                 li.list-inline-item
-                                    a(href="#")= self.help.alternate.feedback
+                                    a(href=self.help.alternate.feedback.url)= self.help.alternate.feedback.title
 
 
 block stylus
@@ -55,3 +80,47 @@ block stylus
         video
             background #6FB6FF
             border 1px solid #e5e5e5
+
+        #feedback-modal
+            .modal-content
+                border-radius 0px
+
+        .feedback-btn
+            color #ffffff
+            font-weight bold
+            text-align center
+            background #0680fc
+            border 1px solid #0680fc
+
+            &:hover
+                color #ffffff
+                text-decoration none
+
+        .feedback-blue-box
+            background #d5eaff
+            border 1px solid #badcff
+
+
+block script
+    script.
+        window.plausible = window.plausible || function() { (window.plausible.q = window.plausible.q || []).push(arguments) }
+
+        $(function () {
+            $('a.feedback').click(function () {
+                $('#feedback').addClass('d-none')
+
+                var answer = $(this).data('answer')
+
+                if (answer === 'not-heplfull') {
+                    $('#feedback-modal').modal('show')
+                }
+
+                plausible(answer)
+            })
+
+            $('#feedback-submit').click(function () {
+                $('#feedback-form').addClass('d-none')
+                $('#feedback-success').removeClass('d-none')
+            })
+        })
+

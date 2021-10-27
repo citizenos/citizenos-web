@@ -50,6 +50,17 @@ help:
         title: Was this information helpful?
         answerYes: Yes
         answerNo: No
+    negativeFeedback:
+        title: Feedback
+        text: We’re sorry to hear this section wasn’t helpful for you. We’d love to know why!
+        form:
+            title: How could it be improved?
+            message: Write here...
+            email: E-mail address (optional)
+            submit: Send
+            success: |
+                **Thank you for your feedback!**
+                With your help we can make Citizen OS better at every turn.
     search:
         title: Search for something specific
         placeholder: Search
