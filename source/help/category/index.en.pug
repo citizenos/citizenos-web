@@ -32,6 +32,6 @@ block content
                             h2= self.help.alternate.title
                             ul.list-arrow.list-inline.mt-3.mb-0
                                 li.list-inline-item
-                                    a(href="#")= self.help.alternate.request
+                                    a(href=self.help.alternate.request.url)= self.help.alternate.request.title
                                 li.list-inline-item
-                                    a(href="#")= self.help.alternate.feedback
+                                    a(href=self.help.alternate.feedback.url)= self.help.alternate.feedback.title
