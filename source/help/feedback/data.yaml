@@ -1,0 +1,21 @@
+path: /help/feedback
+
+title: Give us feedback
+description:
+keywords:
+    -
+image: /assets/images/meta/faq.jpg
+
+text: Want to let us know your thoughts or share some comments, good or bad? We’re always happy to receive your feedback.
+
+form:
+    title: Write your comment below
+    message: Write here...
+    email: E-mail address (optional)
+    submit: Send
+    success: |
+        **Thank you for your feedback!**
+        With your help we can make Citizen OS better at every turn.
+    successBack:
+        title: To the Help Center Start page
+        url: /help
