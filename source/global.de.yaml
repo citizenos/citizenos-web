@@ -52,8 +52,12 @@ help:
     url: /help/search
   alternate:
     title: Alternatively try these options
-    request: Submit a Help Request
-    feedback: Give us feedback
+    request:
+      title: Submit a Help Request
+      url: /help/request
+    feedback:
+      title: Give us feedback
+      url: /help/feedback
 footer:
   text:
   navigation:
