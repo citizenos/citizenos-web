@@ -2,8 +2,9 @@ extends /_templates/main.pug
 
 
 block content
-    .container.mb-4.pb-5
-        .row.pt-5
+    +appHelp()
+    #help-content.container.mb-4.pb-5
+        .row
             .col-12.col-sm-10.offset-sm-1
                 h1= self.title
                 +markdown(self.text)
@@ -21,7 +22,7 @@ block content
                         .col-12.col-sm-5.p-3
                             h2= self.help.search.title
                             form(action=self.help.search.url)
-                                input#search.form-control(name='q' type='search' placeholder=self.help.search.placeholder)
+                                input#search.form-control(type='search' name='q' placeholder=self.help.search.placeholder)
 
                         .col-12.col-sm-7.p-3(style='border-left:1px solid #E5E5E5')
                             h2= self.help.alternate.title
@@ -54,4 +55,3 @@ block stylus
         video
             background #6FB6FF
             border 1px solid #e5e5e5
-

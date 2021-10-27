@@ -47,3 +47,26 @@ mixin header(data, designData)
                         if data.button2nd
                             .my-2
                                 a.my-2(href=data.button2nd.url, target=data.button2nd.target)= data.button2nd.title
+
+
+mixin appHelp(text)
+    script.
+        $(function () {
+            var urlSearchParams = new URLSearchParams(window.location.search)
+            var params = Object.fromEntries(urlSearchParams.entries())
+
+            if (params.app) {
+                $('nav, footer').remove()
+                $('#help-content').removeClass(['mb-4', 'py-5'])
+                $('#help-content').addClass(['py-3'])
+                $('.content').addClass(['mt-0'])
+
+                $('a[href^="/"]').each(function () {
+                    var url = $(this).attr('href') + '?app=true'
+                    $(this).attr('href', url)
+                })
+
+                var searchUrl = $('input#search').after('<input name="app" value="true" hidden><input type="submit" style="position:absolute;height:0px;width:0px;border:none;padding:0px;" hidefocus="true" tabindex="-1">')
+            }
+        })
+

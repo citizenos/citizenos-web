@@ -7,15 +7,16 @@ block content
     -
         var search = (x) => [...new Set(`${x.title} ${x.text}`.toLowerCase().replace(/[.,\/#!$%\^&\*;:{}=\-_`~()"'\t\n\r]/g, '').replace(/\s{2,}/g, ' ').split(' '))].join(' ')
 
-    .container.mb-4.pb-5
-        .row.pt-5
+    +appHelp()
+    #help-content.container.mb-4.py-5
+        .row
             h1.col-12= self.title
             p.col-12= self.text
 
         .row.mb-4.pt-5
             h2.col-12= self.help.search.title
-            form.col-12.col-sm-6
-                input#search.form-control(name='q' type='search' placeholder=self.help.search.placeholder autofocus)
+            form.col-12.col-sm-6(action=self.help.search.url)
+                input#search.form-control(type='search' name='q' placeholder=self.help.search.placeholder autofocus)
 
         each category in self.data.category
 

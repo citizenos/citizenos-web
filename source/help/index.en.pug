@@ -2,20 +2,21 @@ extends /_templates/main.pug
 
 
 block content
-    .container.mb-4.pb-5
-        .row.pt-5
+    +appHelp()
+    #help-content.container.mb-4.py-5
+        .row
             h1.col-12= self.title
             p.col-12= self.text
 
         .row.mb-4.pt-5
             h2.col-12= self.help.search.title
             form.col-12.col-sm-6(action=self.help.search.url)
-                input#search.form-control(name='q' type='search' placeholder=self.help.search.placeholder)
+                input#search.form-control(type='search' name='q' placeholder=self.help.search.placeholder)
 
         .row.pt-5
             h2.col-12= self.help.topics
             each category in self.data.category
-                .col-12.col-sm-6.col-md-3
+                .col-6.col-md-3
                     a.gray-box.d-block.col-12.mb-4.py-3.text-center(href=category.path)
                         img.img-blue.mb-3(src='/assets/images/help/icons/' + category.icon + '.svg')
                         img.img-white.mb-3.d-none(src='/assets/images/help/icons/' + category.icon + '-white.svg')
