@@ -11,7 +11,7 @@ block content
 
         #request-form.row.mb-4.pt-5
             h2.col-12= self.form.title
-            form.col-12.col-sm-6
+            form.col-12.col-sm-6(netlify)
                 textarea.form-control.mb-3(name='message' rows=7 placeholder=self.form.message)
                 input.form-control.mb-3(type='email' name='email' placeholder=self.form.email)
                 a#request-submit.request-btn.form-control(href='javascript:void(0)')= self.form.submit
