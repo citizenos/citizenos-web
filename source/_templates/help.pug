@@ -12,8 +12,8 @@ block content
         #feedback.row.mb-4.pt-5
             .col-12.col-sm-10.offset-sm-1
                 h2.mb-3= self.help.feedback.title
-                a.gray-box.feedback.mr-3.py-2.px-5(href='javascript:void(0)' data-answer='heplfull')= self.help.feedback.answerYes
-                a.gray-box.feedback.py-2.px-5(href='javascript:void(0)' data-answer='not-heplfull')= self.help.feedback.answerNo
+                a.gray-box.feedback.mr-3.py-2.px-5(href='javascript:void(0)' data-answer='Helpful Topic')= self.help.feedback.answerYes
+                a.gray-box.feedback.py-2.px-5(href='javascript:void(0)' data-answer='Not Helpful Topic')= self.help.feedback.answerNo
 
         #feedback-modal.modal.fade(tabindex='-1', role='dialog', aria-hidden='true')
             .modal-dialog(role='document')
