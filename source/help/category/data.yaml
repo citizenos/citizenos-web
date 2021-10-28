@@ -9,8 +9,7 @@
     icon: general
     video:
     text: |
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus egestas sapien id maximus placerat. Morbi condimentum euismod erat sit amet accumsan. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Suspendisse auctor arcu nec orci consequat pretium. Etiam non quam id turpis bibendum vestibulum non vel nibh.
-
+        **Citizen OS is a free platform for remote, asynchronous, collective decision-making.** Co-create a topic, discuss it, vote on it, then follow-up on it afterwards. Available worldwide, with e-ID signature functionality in Estonia.
 -
     path: /help/login
     data:
@@ -22,7 +21,7 @@
     icon: login
     video:
     text: |
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus egestas sapien id maximus placerat. Morbi condimentum euismod erat sit amet accumsan. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Suspendisse auctor arcu nec orci consequat pretium. Etiam non quam id turpis bibendum vestibulum non vel nibh.
+        Log in quickly and easily using a Citizen OS account linked to your email address, or via social login (Facebook or Gmail). In Estonia, e-ID login is also available. Logins are remembered for two weeks, using a cookie, unless you log out.
 
 -
     path: /help/groups
@@ -35,7 +34,7 @@
     icon: groups
     video:
     text: |
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus egestas sapien id maximus placerat. Morbi condimentum euismod erat sit amet accumsan. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Suspendisse auctor arcu nec orci consequat pretium. Etiam non quam id turpis bibendum vestibulum non vel nibh.
+        Groups are lists of users and list of topics you want to share with the same people. They are useful if you will be making decisions with the same group of people (such as a team, community or organisation) on multiple occasions. The benefits of a group (link to “why create a group?”) include quicker sharing or unsharing of topics, keeping topic management tidy, and easier rights administration.
 
 -
     path: /help/topics
