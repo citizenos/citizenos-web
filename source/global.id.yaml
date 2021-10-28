@@ -38,6 +38,37 @@ newsletter:
   text: Kami akan merekomendasikan bacaan yang bagus tentang bagaimana demokrasi partisipatoris akan menyelamatkan kemanusiaan.
   input: Alamat e-mail
   button: Daftar
+help:
+  topics: Find by topic
+  categoryTopics: Jump to a specific topic
+  video: Watch the Topics Introduction video
+  feedback:
+    title: Was this information helpful?
+    answerYes: true
+    answerNo: false
+  negativeFeedback:
+    title: Feedback
+    text: We’re sorry to hear this section wasn’t helpful for you. We’d love to know why!
+    form:
+      title: How could it be improved?
+      message: Write here...
+      email: E-mail address (optional)
+      submit: Send
+      success: |
+        **Thank you for your feedback!**
+        With your help we can make Citizen OS better at every turn.
+  search:
+    title: Search for something specific
+    placeholder: Search
+    url: /help/search
+  alternate:
+    title: Alternatively try these options
+    request:
+      title: Submit a Help Request
+      url: /help/request
+    feedback:
+      title: Give us feedback
+      url: /help/feedback
 footer:
   text:
   navigation:
