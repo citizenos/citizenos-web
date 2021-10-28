@@ -28,10 +28,10 @@ block content
                                 #feedback-form.mb-4
                                     p.col-12.pt-3= self.help.negativeFeedback.text
                                     h2.col-12.pt-3= self.help.negativeFeedback.form.title
-                                    form.col-12(netlify, netlify-honeypot='bot-field', name='negative feedback for topic')
+                                    form.col-12(netlify, netlify-honeypot='subject', name='negative feedback for topic')
                                         textarea.form-control.mb-3(name='message' rows=7 placeholder=self.help.negativeFeedback.form.message)
                                         input.form-control.mb-3(type='email' name='email' placeholder=self.help.negativeFeedback.form.email)
-                                        input.d-none(name='bot-field')
+                                        input.d-none(name='subject')
                                         a#feedback-submit.feedback-btn.form-control(href='javascript:void(0)')= self.help.negativeFeedback.form.submit
 
                                 #feedback-success.my-3.d-none
