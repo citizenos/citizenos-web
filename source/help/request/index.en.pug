@@ -11,9 +11,10 @@ block content
 
         #request-form.row.mb-4.pt-5
             h2.col-12= self.form.title
-            form.col-12.col-sm-6(netlify, name='request')
+            form.col-12.col-sm-6(netlify, netlify-honeypot='bot-field', name='request')
                 textarea.form-control.mb-3(name='message' rows=7 placeholder=self.form.message)
                 input.form-control.mb-3(type='email' name='email' placeholder=self.form.email)
+                input.d-none(name='bot-field')
                 a#request-submit.request-btn.form-control(href='javascript:void(0)')= self.form.submit
 
         #request-success.row.mb-4.pt-5.d-none
