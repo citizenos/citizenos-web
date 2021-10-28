@@ -28,7 +28,7 @@ block content
                                 #feedback-form.mb-4
                                     p.col-12.pt-3= self.help.negativeFeedback.text
                                     h2.col-12.pt-3= self.help.negativeFeedback.form.title
-                                    form.col-12(netlify, name='Negative feedback for topic')
+                                    form.col-12(netlify, name='negative feedback for topic')
                                         textarea.form-control.mb-3(name='message' rows=7 placeholder=self.help.negativeFeedback.form.message)
                                         input.form-control.mb-3(type='email' name='email' placeholder=self.help.negativeFeedback.form.email)
                                         a#feedback-submit.feedback-btn.form-control(href='javascript:void(0)')= self.help.negativeFeedback.form.submit
@@ -122,7 +122,11 @@ block script
                 $('#feedback-form').addClass('d-none')
                 $('#feedback-success').removeClass('d-none')
 
-                $('#feedback-form form').submit()
+                var formValues = $('#feedback-form form').serialize()
+
+                $.post('', formValues, function(data) {
+                    console.log(data)
+                })
             })
         })
 

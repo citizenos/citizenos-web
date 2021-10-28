@@ -3,6 +3,10 @@ $(function () {
         $('#request-form').addClass('d-none')
         $('#request-success').removeClass('d-none')
 
-        $('#request-form form').submit()
+        var formValues = $('#request-form form').serialize()
+
+        $.post('', formValues, function(data) {
+            console.log(data)
+        })
     })
 })
