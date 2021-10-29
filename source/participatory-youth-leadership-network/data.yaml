@@ -83,10 +83,10 @@ blocks:
             [Join our E-democracy Quiz about India!](){data-toggle=modal data-target=#join-popup} Gain knowledge, compete in a friendly manner and meet like-minded people.
 
     join:
-        title: E-democracy Quiz!
-        date: 13th of November, 2021
+        title: Join the E-democracy Quiz!
+        date: 13th of Nov, 2021
         time: 14:00 IST to 17:00 IST
-        how: We'll send you details.
+        how: We'll e-mail you the details.
         button:
             title: Sign up
             url: '#join'
