@@ -10,7 +10,7 @@ block content
                 +markdown(self.text)
             .col-12.col-sm-6
                 h2= self.help.video
-                video.embed-responsive.mt-4(src=self.video)
+                video.embed-responsive.mt-4(src=self.video.url, poster=self.video.poster)
 
         .row.pt-5
             h2.col-12= self.help.categoryTopics

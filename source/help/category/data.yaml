@@ -6,8 +6,11 @@
     description:
     keywords:
         -
+    image: /assets/images/meta/faq.jpg
     icon: general
     video:
+        url:
+        poster: /assets/images/meta/faq.jpg
     text: |
         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus egestas sapien id maximus placerat. Morbi condimentum euismod erat sit amet accumsan. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Suspendisse auctor arcu nec orci consequat pretium. Etiam non quam id turpis bibendum vestibulum non vel nibh.
 
@@ -19,8 +22,11 @@
     description:
     keywords:
         -
+    image: /assets/images/meta/faq.jpg
     icon: login
     video:
+        url:
+        poster: /assets/images/meta/faq.jpg
     text: |
         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus egestas sapien id maximus placerat. Morbi condimentum euismod erat sit amet accumsan. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Suspendisse auctor arcu nec orci consequat pretium. Etiam non quam id turpis bibendum vestibulum non vel nibh.
 
@@ -32,8 +38,11 @@
     description:
     keywords:
         -
+    image: /assets/images/meta/faq.jpg
     icon: groups
     video:
+        url:
+        poster: /assets/images/meta/faq.jpg
     text: |
         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus egestas sapien id maximus placerat. Morbi condimentum euismod erat sit amet accumsan. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Suspendisse auctor arcu nec orci consequat pretium. Etiam non quam id turpis bibendum vestibulum non vel nibh.
 
@@ -45,8 +54,11 @@
     description:
     keywords:
         -
+    image: /assets/images/meta/faq.jpg
     icon: topics
     video:
+        url:
+        poster: /assets/images/meta/faq.jpg
     text: |
         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus egestas sapien id maximus placerat. Morbi condimentum euismod erat sit amet accumsan. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Suspendisse auctor arcu nec orci consequat pretium. Etiam non quam id turpis bibendum vestibulum non vel nibh.
 
@@ -58,8 +70,11 @@
     description:
     keywords:
         -
+    image: /assets/images/meta/faq.jpg
     icon: discussions
     video:
+        url:
+        poster: /assets/images/meta/faq.jpg
     text: |
         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus egestas sapien id maximus placerat. Morbi condimentum euismod erat sit amet accumsan. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Suspendisse auctor arcu nec orci consequat pretium. Etiam non quam id turpis bibendum vestibulum non vel nibh.
 
@@ -71,8 +86,11 @@
     description:
     keywords:
         -
+    image: /assets/images/meta/faq.jpg
     icon: voting
     video:
+        url:
+        poster: /assets/images/meta/faq.jpg
     text: |
         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus egestas sapien id maximus placerat. Morbi condimentum euismod erat sit amet accumsan. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Suspendisse auctor arcu nec orci consequat pretium. Etiam non quam id turpis bibendum vestibulum non vel nibh.
 
@@ -84,7 +102,10 @@
     description:
     keywords:
         -
+    image: /assets/images/meta/faq.jpg
     icon: follow-up
     video:
+        url:
+        poster: /assets/images/meta/faq.jpg
     text: |
         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus egestas sapien id maximus placerat. Morbi condimentum euismod erat sit amet accumsan. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Suspendisse auctor arcu nec orci consequat pretium. Etiam non quam id turpis bibendum vestibulum non vel nibh.
