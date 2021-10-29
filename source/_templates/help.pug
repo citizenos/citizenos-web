@@ -59,49 +59,6 @@ block content
                                     a(href=self.help.alternate.feedback.url)= self.help.alternate.feedback.title
 
 
-block stylus
-    :stylus
-        .gray-box
-            font-size 14px
-            background #f6f6f6
-            border 1px solid #e5e5e5
-            border-radius 4px
-
-        a.gray-box.feedback
-            color #2a2a2a
-            font-weight bold
-            background #f5f5f5
-
-            &:hover
-                color #ffffff
-                text-decoration none
-                background #0680fc
-                border 1px solid #0680fc
-
-        video
-            background #6FB6FF
-            border 1px solid #e5e5e5
-
-        #feedback-modal
-            .modal-content
-                border-radius 0px
-
-        .feedback-btn
-            color #ffffff
-            font-weight bold
-            text-align center
-            background #0680fc
-            border 1px solid #0680fc
-
-            &:hover
-                color #ffffff
-                text-decoration none
-
-        .feedback-blue-box
-            background #d5eaff
-            border 1px solid #badcff
-
-
 block script
     script.
         window.plausible = window.plausible || function() { (window.plausible.q = window.plausible.q || []).push(arguments) }
