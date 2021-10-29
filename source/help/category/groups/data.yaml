@@ -1,14 +1,19 @@
 -
-    path: /help/groups/topic1
-    title: Groups Topic 1
+    path: /help/groups/why-create-a-group
+    title: Why create a group?
     description:
     keywords:
         -
     image: /assets/images/meta/faq.jpg
     text: |
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus egestas sapien id maximus placerat. Morbi condimentum euismod erat sit amet accumsan. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Suspendisse auctor arcu nec orci consequat pretium. Etiam non quam id turpis bibendum vestibulum non vel nibh. Phasellus ac nulla pulvinar, imperdiet nunc eu, volutpat urna. Praesent elementum maximus leo vel gravida. Maecenas in augue at metus convallis posuere mollis at dolor. Mauris blandit convallis dignissim. Vivamus efficitur sed massa sed malesuada. Donec luctus at libero sit amet laoreet. Donec lacus nisl, dictum in ex eu, vestibulum tincidunt justo. In quis justo condimentum, eleifend lorem id, laoreet sem. Aenean et cursus nisl. Proin id odio iaculis ex auctor suscipit pulvinar vel leo.
+        - **Why create a group?** Quicker sharing. All members of a group will be automatically added to any new topic created for that group. No need to send invite links or add users one-by-one.
+        - **Quicker unsharing.** By removing a user from a group, they will automatically lose access to all topics shared with that group. No need to remove them manually from each topic one-by-one.
+        - **Tidier topic management.** Having a group means that it is easier to access all topics shared with that group in one location. Think of it like a folder for topics relevant to that group.
+        - **Easier rights administration.** You can bulk edit users' rights to a topic, if those rights were received via a Group. For example, you could change the whole group’s access rights from ‘edit’ to ‘view’ in one click.
 
-        Maecenas volutpat dui auctor, sollicitudin magna nec, hendrerit eros. Sed venenatis rhoncus lorem, in dignissim risus faucibus et. Nullam ut nibh at mi fermentum finibus. Phasellus rhoncus euismod velit, ac accumsan odio volutpat id. Fusce varius leo ac turpis mattis vehicula. Duis luctus augue odio, id laoreet lacus scelerisque ut. Aenean pretium, odio eu elementum egestas, augue arcu lacinia lacus, sed faucibus enim odio vel lacus. Maecenas a auctor neque. Nullam suscipit aliquam enim non vulputate. Nam odio tellus, sollicitudin ac magna a, finibus scelerisque risus. Aliquam tristique diam sed lectus egestas, a faucibus risus commodo. Nam eleifend quam at odio finibus, at dignissim nulla rhoncus. Nunc gravida quam quis purus lobortis, sit amet malesuada libero molestie. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.
+        **Related content:**
+            How to create a group
+
 
 -
     path: /help/groups/topic2
@@ -21,4 +26,3 @@
         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus egestas sapien id maximus placerat. Morbi condimentum euismod erat sit amet accumsan. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Suspendisse auctor arcu nec orci consequat pretium. Etiam non quam id turpis bibendum vestibulum non vel nibh. Phasellus ac nulla pulvinar, imperdiet nunc eu, volutpat urna. Praesent elementum maximus leo vel gravida. Maecenas in augue at metus convallis posuere mollis at dolor. Mauris blandit convallis dignissim. Vivamus efficitur sed massa sed malesuada. Donec luctus at libero sit amet laoreet. Donec lacus nisl, dictum in ex eu, vestibulum tincidunt justo. In quis justo condimentum, eleifend lorem id, laoreet sem. Aenean et cursus nisl. Proin id odio iaculis ex auctor suscipit pulvinar vel leo.
 
         Maecenas volutpat dui auctor, sollicitudin magna nec, hendrerit eros. Sed venenatis rhoncus lorem, in dignissim risus faucibus et. Nullam ut nibh at mi fermentum finibus. Phasellus rhoncus euismod velit, ac accumsan odio volutpat id. Fusce varius leo ac turpis mattis vehicula. Duis luctus augue odio, id laoreet lacus scelerisque ut. Aenean pretium, odio eu elementum egestas, augue arcu lacinia lacus, sed faucibus enim odio vel lacus. Maecenas a auctor neque. Nullam suscipit aliquam enim non vulputate. Nam odio tellus, sollicitudin ac magna a, finibus scelerisque risus. Aliquam tristique diam sed lectus egestas, a faucibus risus commodo. Nam eleifend quam at odio finibus, at dignissim nulla rhoncus. Nunc gravida quam quis purus lobortis, sit amet malesuada libero molestie. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.
-
