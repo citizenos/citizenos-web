@@ -5,11 +5,11 @@ block content
     +appHelp()
     #help-content.container.mb-4.py-5
         .row
-            .col-12.col-sm-6
-                h1= self.title
+            .col-12.col-sm-5
+                h1.mb-4= self.title
                 +markdown(self.text)
-            .col-12.col-sm-6
-                h2= self.help.video
+            .col-12.col-sm-6.offset-sm-1
+                h2.mt-4.mb-4= self.help.video
                 video.embed-responsive.mt-4(src=self.video.url, poster=self.video.poster)
 
         .row.pt-5
