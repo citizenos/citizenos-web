@@ -17,6 +17,12 @@ blocks:
 
     text:
         text: |
+            ## Join the next event!{ .pt-5 }
+
+            [Leave your contact details](mailto:sara@citizenos.com) and we will send you info about the next session.
+
+            [Join our E-democracy Quiz about India!](){data-toggle=modal data-target=#join-popup} Gain knowledge, compete in a friendly manner and meet like-minded people.
+
             ## An Invitation to Collaborate{ .pt-5 }
 
             Youth organisations of India and beyond, we invite you to collaborate in the development of a new community of practice in India – the Participatory Youth Leadership Network (PYLN).
@@ -77,15 +83,9 @@ blocks:
 
             Making democratic collective decisions about the development of the network, building trust and communication among members.
 
-            ## Join the next event!{ .pt-5 }
-
-            [Leave your contact details](mailto:sara@citizenos.com) and we will send you info about the next session.
-
-            [Join our E-democracy Quiz about India!](){data-toggle=modal data-target=#join-popup} Gain knowledge, compete in a friendly manner and meet like-minded people.
-
     join:
         title: Join the E-democracy online Quiz!
-        date: 13th of Nov, 2021
+        date: 27th of Nov, 2021
         time: 14:00 IST to 17:00 IST
         how: We'll e-mail you the details.
         button:
