@@ -24,25 +24,27 @@ blocks:
             About us.
         texts:
             - |
-                Citizen OS is an open source civic tech non-profit, based in Tallinn, Estonia.
+                Citizen OS is a free and secure open source platform for citizen initiatives. We are a not-for-profit organisation.
 
-                We’re on a mission to change the world for the better; visit our [Projects](/projects/) page to find out how.
+                We’re on a mission to change the world for the better - visit our [Vision](/vision/) and [Projects](/projects/) pages to find out why and how.
 
                 The Citizen OS platform went live in September, 2015. Since then, we have gained the trust of many public and private user groups around the world.
 
             - |
-                We take the security of our platform very seriously; read more about this [here](/news/the-key-to-online-democracy-is-trust/).
+                We take the security of our platform very seriously - read more about this [here](/news/the-key-to-online-democracy-is-trust/) or view our [legal](/legal/) documents.
 
             - |
 #                [Please find the Articles of Association of Citizen OS Foundation here.](https://drive.google.com/file/d/1xDUcBjs6NYtF5d8Z3KeYPML60D2B254J/view) The document is in Estonian at the moment, but in the process of being translated into other languages.
 
             - |
-                #### Citizen OS is supported by:
+                #### Citizen OS was co-founded by:
 
             - |
-                - Philanthropist & entrepreneur Ahti Heinla
+                - Philanthropist & entrepreneur Ahti Heinla and visionary Margo Loor
                 - [Let’s Do It! Foundation](https://www.letsdoitworld.org/)
                 { .arrow }
+
+                #### We are funded by private donations and grants.
 
             - |
                 Project Citizen OS has been funded by the NGO Fund EEA Grants through the [Open Estonia Foundation](https://oef.org.ee/in-english).
