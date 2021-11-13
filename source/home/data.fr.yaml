@@ -1,17 +1,17 @@
 ---
 path: /
-description: La fondation Citizen OS est une organisation à but non lucratif qui fournit une plate-forme de prise de décision de technologie civique gratuite.
+description: Citizen OS Foundation is a not-for-profit organisation providing a free decision-making platform.
 keywords:
-  - démocratie numérique libre
-  - e-démocratie libre
-  - technologie civique gratuite
+  - community action
+  - e-democracy
+  - free civic tech
 image: /assets/images/meta/home-alt.jpg
 data:
   news: /news/data.en.yaml
 header:
-  title: Décidez ensemble
+  title: A free decision-making platform
   text: |
-    Utilisez notre plateforme gratuite Citizen OS pour des réunions asynchrones et la participation citoyenne.
+    Discuss and vote publicly or privately.
   video:
     title: Introduction
     url: https://www.youtube.com/embed/hDLWbQQAk8g?rel=0&showinfo=0&modestbranding=1&autoplay=1&cc_load_policy=1&cc_lang_pref=en
@@ -45,11 +45,11 @@ blocks:
       background-position: 0% 25%
       background-size: 360px 360px
     title: |
-      Une plateforme de codécision gratuite.
+      Set it up in your organisaton.
     text: |
-      Crowdsourcez des idées, discutez les avantages et inconvénients et votez sur les décisions.
+      Crowdsource ideas, discuss and vote on decisions.
     button1st:
-      title: En savoir plus
+      title: Our platform
       url: /fr/product/
   democracy-img:
     class:
@@ -74,7 +74,7 @@ blocks:
     title: |
       Un avenir participatif.
     text: |
-      Nous croyons en une démocratie plus profonde, où tous les citoyens ont leur mot à dire dans les décisions qui les concernent.
+      We believe in a democracy where all citizens have a say in decisions that affect them.
     button1st:
       title: Nos projets
       url: /fr/projets/
@@ -138,26 +138,3 @@ blocks:
       - [![](/assets/images/in-media/err.png)](https://www.err.ee/1001718/margo-loor-eesti-ilma-riigikoguta-kas-esindusdemokraatia-aeg-on-labi#)
       - [![](/assets/images/in-media/hea-kodanik.png)](https://heakodanik.ee/uudised/kuidas-laheb-citizenos/#)
       - [![](/assets/images/in-media/probintan.png)](https://bintan.batampos.co.id/2020/07/02/dorong-tiap-desa-punya-sistem-pengelolaan-sampah/?__cf_chl_jschl_tk__=b80e1b6040903a27357683289b726d7e04177251-1621327617-0-AeevRijgU7BE5ytn0mulW0uE0wpmepQDIUErF_L7zXROc06P1cyfdWg3ga7bGMJ9FBrHvK93LvlvyMAHxAQzsxKfghYW6zXaMGZ5sZ7kjI4DVnCNyiYMc37ncG2a_5LjvP2J28Ocy29gdTpZfkA-3e6EW9Ele3kDDF_zh03KZqdSwQsl3WlqWQtSN5B6fAs7ExWo1rLUHrKDn_2xO0esW9rUfd0XRJVXHugoZVRW2FkpMucPrxPts6qZBtCo4S7bH0fi7alnyO7BWhr5ESsKfVN51x52gJ1ZVw8TSs4dzgjQPRAN8FJUG5MHNv39XO2EWFWxxOfLouuGSzj0dy0ehcMEl2yjOsHD4URXvQ-miIcO7h6Qqh-Q8NOvu81uxZq4ACt7VrOgMWJN8Y35lWDXvEFzgnSJms7Y6EXaRarjyW4QpmbSu-M4FZQ7_AqZGeogu5M0KJfzNtALdQMHmgXrFvFx2j0yb-h6Re3Lsc23pRm4#)
-  meet:
-    class:
-      - order-7
-      - col-sm-10
-      - my-5
-    style:
-      background-image: url(/assets/images/bubble-dots.png)
-      background-position: 80% 10%
-      background-size: 350px 350px
-    title: |
-      Où nous rencontrer
-    blocks:
-      tictec:
-        title: |
-          SALTO awards 2021
-        text: |
-          Our [Digital Transformation for Civic Engagement](https://citizenos.com/erasmus) project has been shortlisted to run for the SALTO awards 2021: Digital Transformation award.
-          Join the award ceremony livestream on November 11th [here.](https://www.facebook.com/events/922568848469382/?ref=newsfeed)
-        image: /assets/images/salto-awards.png
-        style:
-          background: '#FFFFFF'
-        date: November 11,2021
-        location: online
