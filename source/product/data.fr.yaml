@@ -1,11 +1,11 @@
 ---
 path: /produit
 title: Produit
-description: Plateforme de participation libre pour les discussions et le vote. Utilisation pour les réunions générales, les réunions asynchrones, les idées de crowdsourcing, les pétitions. Signez numériquement en Estonie.
+description: Free platform for discussions and voting. Use in private groups or publicly. Digitally sign in Estonia!
 keywords:
-  - outil de réunion asynchrone
-  - outil de réunion générale
-  - vote électronique
+  - general meeting
+  - online meetings
+  - deliberation
 image: /assets/images/meta/product.jpg
 blocks:
   decision-img:
@@ -31,14 +31,14 @@ blocks:
       background-position: 10% 5%, 90% 90%
       background-size: 75px 75px, 65px 65px
     title: |
-      Décisions collectives et participation civique.
+      Use in your organisation or to engage citizens.
     text: |
-      Utilisation pour les réunions générales, les réunions asynchrones, les idées de crowdsourcing, les pétitions. Signez numériquement en Estonie.
+      Discuss and vote securely. Use in private groups or publicly. Sign digitally in Estonia.
 
-      - [À quoi sert Citizen OS ?](#flexibleformat)
-      - [Pourquoi utiliser Citizen OS ?](#features)
-      - [Études de cas](#case-study-2)
-      - [Statistiques](#stats)
+      - [Functions](#flexibleformat)
+      - [Features](#features)
+      - [Case studies](#case-study-2)
+      - [Statistics](#stats)
       { .arrow }
     button1st:
       title: Regarder la démo
@@ -54,7 +54,7 @@ blocks:
       background: '#F7F7F7'
       background-image: url(/assets/images/pattern.svg)
       background-size: 38px 42px
-    label: Un format flexible
+    #label: A flexible format
     title: |
       À quoi sert Citizen OS ?
     text: |
@@ -99,19 +99,19 @@ blocks:
     title: |
       Fonctionnalités
     text: |
-      - Discussions pour et contre pour des débats équilibrés.
-      - Discussions privées ou publiques : à vous de choisir.
-      - Groupes privés pour des discussions multiples avec les mêmes personnes.
+      - Balanced debates.
+      - Private or public discussions.
+      - Private groups.
       { .bullet }
 
-      - Vote personnalisable et anonyme avec dates limites.
-      - Fonctions de vote avancées telles que les mini-votes et les procurations.
-      - Compatible avec l'e-ID, applicable en Estonie uniquement.
+      - Anonymous voting with deadlines.
+      - Advanced voting features like delegation.
+      - e-ID compatible in Estonia.
       { .bullet }
 
-      - Utilisation gratuite, [veuillez nous envoyer un e-mail](mailto:support@citizenos.com) pour la mise en service et l'assistance.
-      - Une plateforme prête à l'emploi, il suffit de se connecter et de commencer.
-      - Déjà en 15 langues et facile à traduire.
+      - Free to use, [email us](mailto:support@citizenos.com) for support.
+      - A ready-made platform – just log in and get started.
+      - In 15 languages.
       { .bullet }
     button1st:
       title: Liste complète des fonctionnalités
@@ -164,7 +164,7 @@ blocks:
   case-study-img:
     class:
       - order-7
-      - order-sm-9
+      - order-sm-7
     text: |
       ![De nombreux Indonésiens sourient, portant des t-shirts de la Journée mondiale du nettoyage, marchant sur une plage, transportant des sacs remplis d'ordures en plastique.](/assets/images/product-case-study.jpeg){ .img-fluid .box-shadow }
   case-study:
@@ -184,7 +184,7 @@ blocks:
       En utilisant la plateforme Citizen OS, les locaux peuvent soumettre des idées de gestion des déchets durables et voter pour leurs favorites.
   stats:
     class:
-      - order-10
+      - order-9
       - text-center
       - py-5
     style:
