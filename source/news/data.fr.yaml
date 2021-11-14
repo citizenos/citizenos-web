@@ -8,6 +8,15 @@ keywords:
   -
 image: /assets/images/meta/vision.jpg
 news:
+  2021-11-15:
+    url: /news/meet-falko-blumenthal-a-civic-hacktivist
+    title: Meet Falko Blumenthal, a Civic Hacktivist.
+    author: Indianna Knight
+    image: /assets/images/news/falko-blumenthal.jpg
+    categories:
+      - Citizen OS news
+    text: |
+      Falko Blumenthal reflects on his time at Tallinn Winter School and shares his views on civic hacktivism.
   2021-10-04:
     url: /news/meet-our-alumni-digital-change-makers
     title: Meet our alumni digital change-makers.
