@@ -1,24 +1,115 @@
 -
-    path: /help/topics/topic1
-    title: Topics Topic 1
+    path: /help/topics/creating-a-new-topic
+    title: Creating a new topic
     description:
     keywords:
         -
     image: /assets/images/meta/faq.jpg
     text: |
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus egestas sapien id maximus placerat. Morbi condimentum euismod erat sit amet accumsan. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Suspendisse auctor arcu nec orci consequat pretium. Etiam non quam id turpis bibendum vestibulum non vel nibh. Phasellus ac nulla pulvinar, imperdiet nunc eu, volutpat urna. Praesent elementum maximus leo vel gravida. Maecenas in augue at metus convallis posuere mollis at dolor. Mauris blandit convallis dignissim. Vivamus efficitur sed massa sed malesuada. Donec luctus at libero sit amet laoreet. Donec lacus nisl, dictum in ex eu, vestibulum tincidunt justo. In quis justo condimentum, eleifend lorem id, laoreet sem. Aenean et cursus nisl. Proin id odio iaculis ex auctor suscipit pulvinar vel leo.
+        To create a new topic, click on “Create topic” in the main menu.
 
-        Maecenas volutpat dui auctor, sollicitudin magna nec, hendrerit eros. Sed venenatis rhoncus lorem, in dignissim risus faucibus et. Nullam ut nibh at mi fermentum finibus. Phasellus rhoncus euismod velit, ac accumsan odio volutpat id. Fusce varius leo ac turpis mattis vehicula. Duis luctus augue odio, id laoreet lacus scelerisque ut. Aenean pretium, odio eu elementum egestas, augue arcu lacinia lacus, sed faucibus enim odio vel lacus. Maecenas a auctor neque. Nullam suscipit aliquam enim non vulputate. Nam odio tellus, sollicitudin ac magna a, finibus scelerisque risus. Aliquam tristique diam sed lectus egestas, a faucibus risus commodo. Nam eleifend quam at odio finibus, at dignissim nulla rhoncus. Nunc gravida quam quis purus lobortis, sit amet malesuada libero molestie. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.
+        Any changes you make to the topic will be automatically saved, and the topic will automatically appear in your “My topics” dashboard from now on.
 
 -
-    path: /help/topics/topic2
-    title: Topics Topic 2
+    path: /help/topics/finding-a-topic-you-previously-joined-created
+    title: Finding a topic you previously joined / created
     description:
     keywords:
         -
     image: /assets/images/meta/faq.jpg
     text: |
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus egestas sapien id maximus placerat. Morbi condimentum euismod erat sit amet accumsan. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Suspendisse auctor arcu nec orci consequat pretium. Etiam non quam id turpis bibendum vestibulum non vel nibh. Phasellus ac nulla pulvinar, imperdiet nunc eu, volutpat urna. Praesent elementum maximus leo vel gravida. Maecenas in augue at metus convallis posuere mollis at dolor. Mauris blandit convallis dignissim. Vivamus efficitur sed massa sed malesuada. Donec luctus at libero sit amet laoreet. Donec lacus nisl, dictum in ex eu, vestibulum tincidunt justo. In quis justo condimentum, eleifend lorem id, laoreet sem. Aenean et cursus nisl. Proin id odio iaculis ex auctor suscipit pulvinar vel leo.
+        To access all topics you have previously joined or created, click on “My Topics” in the main menu.
 
-        Maecenas volutpat dui auctor, sollicitudin magna nec, hendrerit eros. Sed venenatis rhoncus lorem, in dignissim risus faucibus et. Nullam ut nibh at mi fermentum finibus. Phasellus rhoncus euismod velit, ac accumsan odio volutpat id. Fusce varius leo ac turpis mattis vehicula. Duis luctus augue odio, id laoreet lacus scelerisque ut. Aenean pretium, odio eu elementum egestas, augue arcu lacinia lacus, sed faucibus enim odio vel lacus. Maecenas a auctor neque. Nullam suscipit aliquam enim non vulputate. Nam odio tellus, sollicitudin ac magna a, finibus scelerisque risus. Aliquam tristique diam sed lectus egestas, a faucibus risus commodo. Nam eleifend quam at odio finibus, at dignissim nulla rhoncus. Nunc gravida quam quis purus lobortis, sit amet malesuada libero molestie. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.
+        Please note:
+        - Only topics for which you have already accepted the invitation will be listed. If you have been invited to but not yet joined a topic, it will not show. To join the topic, follow the link in the email invitation you were originally sent.
+        - If a topic you have previously joined or created is not showing in the list, it may be that you are signed into the wrong Citizen OS account. If you have another Citizen OS account, try looking there. (You can only access topics using the Citizen OS account that is linked to the same email address as the one to which the original topic invitation email was sent).
 
+-
+    path: /help/topics/seeing-who-has-been-invited-to-joined-a-topic
+    title: Seeing who has been invited to / joined a topic
+    description:
+    keywords:
+        -
+    image: /assets/images/meta/faq.jpg
+    text: |
+        You can see who has been invited to or joined a topic as follows:
+        1. Navigate to your “My Topics” dashboard via the main menu, listed under “Topics”.
+        1. Click on the relevant topic name.
+        1. Click to expand the grey “User list” bar, which is displayed underneath the “General information” box.
+        1. The list shows everyone who has been invited, and what level of access rights they have, e.g. “admin” or “read”.
+        1. If their invitation is greyed out and marked as “pending”, this means they have not yet accepted the invitation.
+
+        ## Related content{.mt-5}
+        - [Checking if email invites bounced](/help/topics/checking-if-email-invites-bounced)
+        - Inviting users to a topic
+        { .list-arrow .list-unstyled }
+
+-
+    path: /help/topics/checking-if-email-invites-bounced
+    title: Checking if email invites bounced
+    description:
+    keywords:
+        -
+    image: /assets/images/meta/faq.jpg
+    text: |
+        It is not possible to check whether an invitation has “bounced” on the Citizen OS platform.
+
+        In the case of a topic invitation having been sent to an email address that does not actually exist, the invited member will still be included in the topic’s user list as “Pending”. This is because the system cannot recognise that the email invitation has bounced.
+
+        The only way to find out whether an email address you invited may have bounced is to send an email to that address yourself, and see whether you get a “mailbox error” automatic reply.
+
+        ## Related content{.mt-5}
+        - [Seeing who has been invited to / joined a topic](/help/topics/seeing-who-has-been-invited-to-joined-a-topic)
+        { .list-arrow .list-unstyled }
+
+-
+    path: /help/topics/attaching-files-to-a-topic
+    title: Attaching files to a topic
+    description:
+    keywords:
+        -
+    image: /assets/images/meta/faq.jpg
+    text: |
+        To add attachments:
+        1. Go into the relevant topic, in either “edit” or “view” mode.
+        1. Click on the “Add/manage attachments” link, listed under the “ATTACHMENTS” heading in the right hand menu.
+        1. Open the desired file from the relevant location (either your computer, Dropbox, Google Drive or One Drive).
+        1. The file will then appear in the list under “Attachments”.
+        1. To edit the filename, click the pencil button to the right.
+        1. You can then close the pop-up, and the attachment will be saved.
+
+        The permitted file attachments are as follows:
+        - The maximum size of a single attachment in a topic is 50 MB.
+        - A maximum of 10 files can be attached to one topic.
+        - Acceptable file types are:
+            - bdoc
+            - ddoc
+            - doc
+            - docx
+            - img
+            - jpeg
+            - jpg
+            - odf
+            - odt
+            - pdf
+            - png
+            - pps
+            - ppt
+            - pptx
+            - rtf
+            - txt
+            - xls
+            - xlsx
+            - xlt
+
+-
+    path: /help/topics/adding-footnotes-to-a-topic-text
+    title: Adding footnotes to a topic text
+    description:
+    keywords:
+        -
+    image: /assets/images/meta/faq.jpg
+    text: |
+        You can add footnotes by clicking on the footnotes button in the centre of the text editor toolbar (above the topic text), while in edit mode. The footnotes button is in the form of an asterisk: *
+
+        Be sure to place your cursor at the point in the text in which you want the footnote to appear, before clicking on the button.

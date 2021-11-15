@@ -1,24 +1,62 @@
 -
-    path: /help/Login/topic1
-    title: Login Topic 1
+    path: /help/login/troubleshooting-no-permission-to-access
+    title: Troubleshooting “no permission to access”
     description:
     keywords:
         -
     image: /assets/images/meta/faq.jpg
     text: |
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus egestas sapien id maximus placerat. Morbi condimentum euismod erat sit amet accumsan. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Suspendisse auctor arcu nec orci consequat pretium. Etiam non quam id turpis bibendum vestibulum non vel nibh. Phasellus ac nulla pulvinar, imperdiet nunc eu, volutpat urna. Praesent elementum maximus leo vel gravida. Maecenas in augue at metus convallis posuere mollis at dolor. Mauris blandit convallis dignissim. Vivamus efficitur sed massa sed malesuada. Donec luctus at libero sit amet laoreet. Donec lacus nisl, dictum in ex eu, vestibulum tincidunt justo. In quis justo condimentum, eleifend lorem id, laoreet sem. Aenean et cursus nisl. Proin id odio iaculis ex auctor suscipit pulvinar vel leo.
+        **Private topics and groups can only be accessed using a Citizen OS account which is registered with the same email address to which the original invitation was sent.**
 
-        Maecenas volutpat dui auctor, sollicitudin magna nec, hendrerit eros. Sed venenatis rhoncus lorem, in dignissim risus faucibus et. Nullam ut nibh at mi fermentum finibus. Phasellus rhoncus euismod velit, ac accumsan odio volutpat id. Fusce varius leo ac turpis mattis vehicula. Duis luctus augue odio, id laoreet lacus scelerisque ut. Aenean pretium, odio eu elementum egestas, augue arcu lacinia lacus, sed faucibus enim odio vel lacus. Maecenas a auctor neque. Nullam suscipit aliquam enim non vulputate. Nam odio tellus, sollicitudin ac magna a, finibus scelerisque risus. Aliquam tristique diam sed lectus egestas, a faucibus risus commodo. Nam eleifend quam at odio finibus, at dignissim nulla rhoncus. Nunc gravida quam quis purus lobortis, sit amet malesuada libero molestie. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.
+        Follow these two key steps for topic/group access:
+        1. **Click on the link in the invitation email** you received for joining the group or topic.
+        1. **Login or register using the same email address the invitation was sent to**, according to either of the two scenarios below:
+            - **If you already have a Citizen OS account registered with the email address** your invitation was sent to, log in using that account.
+            *OR*
+            - **If you do not yet have a Citizen OS account registered with the email address** your invitation was sent to, register a new one with the correct address.
+
+        A few additional tips:
+        - **If you are logging in with a social login such as Google or Facebook**, this will only work if your social media account is registered with the same email address as the one with which you were invited to the group or topic.
+        - **The option to log in with your ID-card/Mobile ID** (applicable to Estonian ID-cards) will only appear if you have previously created a Citizen OS account with the email address to which the invitation was sent, and have previously digitally signed at least one document through that account. If this is not the case, you will need to log in using your email address instead.
+        - **If you are unsure what email address your Citizen OS account is registered with**, or to which account you are currently logged in, you can check this in “My Account” next to your profile avatar in the main menu.
+
+        ## Related content{.mt-5}
+        - [Switching between accounts](/help/login/switching-accounts)
+        - [Trouble-shooting login issues](/help/login/trouble-shooting-login-issues)
+        { .list-arrow .list-unstyled }
 
 -
-    path: /help/Login/topic2
-    title: Login Topic 2
+    path: /help/login/switching-accounts
+    title: Switching accounts
     description:
     keywords:
         -
     image: /assets/images/meta/faq.jpg
     text: |
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus egestas sapien id maximus placerat. Morbi condimentum euismod erat sit amet accumsan. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Suspendisse auctor arcu nec orci consequat pretium. Etiam non quam id turpis bibendum vestibulum non vel nibh. Phasellus ac nulla pulvinar, imperdiet nunc eu, volutpat urna. Praesent elementum maximus leo vel gravida. Maecenas in augue at metus convallis posuere mollis at dolor. Mauris blandit convallis dignissim. Vivamus efficitur sed massa sed malesuada. Donec luctus at libero sit amet laoreet. Donec lacus nisl, dictum in ex eu, vestibulum tincidunt justo. In quis justo condimentum, eleifend lorem id, laoreet sem. Aenean et cursus nisl. Proin id odio iaculis ex auctor suscipit pulvinar vel leo.
+        To switch to a different Citizen OS account, you simply need to “Log out” (at the bottom of the main menu), then log back in using the relevant login details.
 
-        Maecenas volutpat dui auctor, sollicitudin magna nec, hendrerit eros. Sed venenatis rhoncus lorem, in dignissim risus faucibus et. Nullam ut nibh at mi fermentum finibus. Phasellus rhoncus euismod velit, ac accumsan odio volutpat id. Fusce varius leo ac turpis mattis vehicula. Duis luctus augue odio, id laoreet lacus scelerisque ut. Aenean pretium, odio eu elementum egestas, augue arcu lacinia lacus, sed faucibus enim odio vel lacus. Maecenas a auctor neque. Nullam suscipit aliquam enim non vulputate. Nam odio tellus, sollicitudin ac magna a, finibus scelerisque risus. Aliquam tristique diam sed lectus egestas, a faucibus risus commodo. Nam eleifend quam at odio finibus, at dignissim nulla rhoncus. Nunc gravida quam quis purus lobortis, sit amet malesuada libero molestie. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.
+        If you are unsure which account you are currently logged in to, you can check this in “My Account” next to your profile avatar.
 
+        ## Related content{.mt-5}
+        - [Troubleshooting “no permission to access”](/help/login/troubleshooting-no-permission-to-access)
+        { .list-arrow .list-unstyled }
+
+-
+    path: /help/login/logging-in-using-e-id-estonia-only
+    title: Logging in using e-ID (Estonia only)
+    description:
+    keywords:
+        -
+    image: /assets/images/meta/faq.jpg
+    text: |
+        The option to log in with your ID-card/Mobile ID (applicable to Estonian ID-cards) will only appear if:
+
+        - You have previously created a Citizen OS account using the email address to which the relevant invitation email was sent. (I.e. the invitation to the group or topic you are trying to access when wanting to log in with your e-ID).
+        *AND*
+        - You have previously digitally signed at least one document through that account.
+
+        Once both of the above have happened, you can log in using your Estonian ID card by selecting the relevant button on the login screen and following the instructions.
+
+        ## Related content{.mt-5}
+        - How to vote using a digital signature (Estonia only)
+        { .list-arrow .list-unstyled }

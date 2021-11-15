@@ -13,6 +13,7 @@
         poster: /assets/images/meta/faq.jpg
     text: |
         **Citizen OS is a free platform for remote, asynchronous, collective decision-making.** Co-create a topic, discuss it, vote on it, then follow-up on it afterwards. Available worldwide, with e-ID signature functionality in Estonia.
+
 -
     path: /help/login
     data:
@@ -43,7 +44,7 @@
         url:
         poster: /assets/images/meta/faq.jpg
     text: |
-        Groups are lists of users and list of topics you want to share with the same people. They are useful if you will be making decisions with the same group of people (such as a team, community or organisation) on multiple occasions. The benefits of a group (link to “why create a group?”) include quicker sharing or unsharing of topics, keeping topic management tidy, and easier rights administration.
+        Groups are lists of users. They are useful if you will be making decisions with the same group of people (such as a team, community or organisation) on multiple occasions. [The benefits of a group](/help/groups/why-create-a-group) include quicker sharing or unsharing of topics, a group folder containing all topics shared to those users, and easier rights administration.
 
 -
     path: /help/topics
@@ -59,7 +60,6 @@
         url:
         poster: /assets/images/meta/faq.jpg
     text: |
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus egestas sapien id maximus placerat. Morbi condimentum euismod erat sit amet accumsan. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Suspendisse auctor arcu nec orci consequat pretium. Etiam non quam id turpis bibendum vestibulum non vel nibh.
 
 -
     path: /help/discussions
@@ -75,7 +75,7 @@
         url:
         poster: /assets/images/meta/faq.jpg
     text: |
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus egestas sapien id maximus placerat. Morbi condimentum euismod erat sit amet accumsan. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Suspendisse auctor arcu nec orci consequat pretium. Etiam non quam id turpis bibendum vestibulum non vel nibh.
+        Use the discussion space to discuss both sides of a topic before it is voted on, or to crowdsource ideas for how to go forwards. Here you can post “pro” and “con” arguments, and reply or react to arguments made by others.
 
 -
     path: /help/voting
@@ -91,7 +91,6 @@
         url:
         poster: /assets/images/meta/faq.jpg
     text: |
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus egestas sapien id maximus placerat. Morbi condimentum euismod erat sit amet accumsan. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Suspendisse auctor arcu nec orci consequat pretium. Etiam non quam id turpis bibendum vestibulum non vel nibh.
 
 -
     path: /help/follow-up
