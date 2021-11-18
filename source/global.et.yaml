@@ -51,9 +51,9 @@ help:
     text: We’re sorry to hear this section wasn’t helpful for you. We’d love to know why!
     form:
       title: How could it be improved?
-      message: Write here...
+      message: Kirjuta siia...
       email: E-mail address (optional)
-      submit: Send
+      submit: Saada
       success: |
         **Thank you for your feedback!**
         With your help we can make Citizen OS better at every turn.
@@ -62,12 +62,12 @@ help:
     placeholder: Search
     url: /help/search
   alternate:
-    title: Alternatively try these options
+    title: Võid proovida ka neid võimalusi
     request:
       title: Submit a Help Request
       url: /help/request
     feedback:
-      title: Give us feedback
+      title: Saada meile tagasisidet
       url: /help/feedback
 footer:
   text:
