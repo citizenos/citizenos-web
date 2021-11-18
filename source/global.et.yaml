@@ -39,7 +39,7 @@ newsletter:
   input: E-posti aadress
   button: Liitu
 help:
-  topics: Find by topic
+  topics: Leia teema järgi
   categoryTopics: Jump to a specific topic
   video: Watch the Topics Introduction video
   feedback:
@@ -47,7 +47,7 @@ help:
     answerYes: true
     answerNo: false
   negativeFeedback:
-    title: Feedback
+    title: Tagasiside
     text: We’re sorry to hear this section wasn’t helpful for you. We’d love to know why!
     form:
       title: How could it be improved?
