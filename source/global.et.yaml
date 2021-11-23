@@ -38,37 +38,6 @@ newsletter:
   text: Soovitame Sulle kasulikku lugemist teemal, kuidas saab osalusdemokraatia abil inimkonda päästa.
   input: E-posti aadress
   button: Liitu
-help:
-  topics: Leia teema järgi
-  categoryTopics: Jump to a specific topic
-  video: Watch the Topics Introduction video
-  feedback:
-    title: Was this information helpful?
-    answerYes: true
-    answerNo: false
-  negativeFeedback:
-    title: Tagasiside
-    text: We’re sorry to hear this section wasn’t helpful for you. We’d love to know why!
-    form:
-      title: How could it be improved?
-      message: Kirjuta siia...
-      email: E-mail address (optional)
-      submit: Saada
-      success: |
-        **Thank you for your feedback!**
-        With your help we can make Citizen OS better at every turn.
-  search:
-    title: Search for something specific
-    placeholder: Search
-    url: /help/search
-  alternate:
-    title: Võid proovida ka neid võimalusi
-    request:
-      title: Submit a Help Request
-      url: /help/request
-    feedback:
-      title: Saada meile tagasisidet
-      url: /help/feedback
 footer:
   text:
   navigation:
