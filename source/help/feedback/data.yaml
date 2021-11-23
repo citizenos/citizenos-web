@@ -1,11 +1,9 @@
 path: /help/feedback
 
-title: Give us feedback
-description:
-keywords:
-    -
-image: /assets/images/meta/faq.jpg
+data:
+    help: /help/data.yaml
 
+title: Give us feedback
 text: Want to let us know your thoughts or share some comments, good or bad? We’re always happy to receive your feedback.
 
 form:

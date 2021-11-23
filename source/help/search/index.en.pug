@@ -14,9 +14,9 @@ block content
             p.col-12= self.text
 
         .row.mb-4.pt-5
-            h2.col-12= self.help.search.title
-            form.col-12.col-sm-6(action=self.help.search.url)
-                input#search.form-control(type='search' name='q' placeholder=self.help.search.placeholder autofocus)
+            h2.col-12= self.data.help.search.title
+            form.col-12.col-sm-6(action=self.data.help.search.url)
+                input#search.form-control(type='search' name='q' placeholder=self.data.help.search.placeholder autofocus)
 
         each category in self.data.category
 
@@ -30,9 +30,9 @@ block content
         .row.pt-5
             .col-12
                 .gray-box.col-12.p-3
-                    h2= self.help.alternate.title
+                    h2= self.data.help.alternate.title
                     ul.list-arrow.list-inline.mb-0
                         li.list-inline-item
-                            a(href=self.help.alternate.request.url)= self.help.alternate.request.title
+                            a(href=self.data.help.alternate.request.url)= self.data.help.alternate.request.title
                         li.list-inline-item
-                            a(href=self.help.alternate.feedback.url)= self.help.alternate.feedback.title
+                            a(href=self.data.help.alternate.feedback.url)= self.data.help.alternate.feedback.title

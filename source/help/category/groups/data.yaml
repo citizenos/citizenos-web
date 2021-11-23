@@ -1,10 +1,8 @@
 -
     path: /help/groups/why-create-a-group
+    data:
+        help: /help/data.yaml
     title: Why create a group
-    description:
-    keywords:
-        -
-    image: /assets/images/meta/faq.jpg
     text: |
         - **Why create a group?** Quicker sharing. All members of a group will be automatically added to any new topic created for that group. No need to send invite links or add users one-by-one.
         - **Quicker unsharing.** By removing a user from a group, they will automatically lose access to all topics shared with that group. No need to remove them manually from each topic one-by-one.
@@ -17,11 +15,9 @@
 
 -
     path: /help/groups/how-to-create-a-group
+    data:
+        help: /help/data.yaml
     title: How to create a group
-    description:
-    keywords:
-        -
-    image: /assets/images/meta/faq.jpg
     text: |
         To create a group:
         1. In the main menu, click on “Create Group”.
@@ -52,11 +48,9 @@
 
 -
     path: /help/groups/inviting-users-to-a-group
+    data:
+        help: /help/data.yaml
     title: Inviting users to a group
-    description:
-    keywords:
-        -
-    image: /assets/images/meta/faq.jpg
     text: |
         To invite users to an existing group:
         1. In the main menu, click on “My Groups”.
@@ -72,11 +66,9 @@
 
 -
     path: /help/groups/seeing-who-has-been-invited-to-joined-a-group
+    data:
+        help: /help/data.yaml
     title: Seeing who has been invited to / joined a group
-    description:
-    keywords:
-        -
-    image: /assets/images/meta/faq.jpg
     text: |
         You can see who has been invited to or joined a group as follows:
         1. Navigate to your “My Groups” dashboard via the Main Menu.
@@ -92,11 +84,9 @@
 
 -
     path: /help/groups/checking-if-email-invites-bounced
+    data:
+        help: /help/data.yaml
     title: Checking if email invites bounced
-    description:
-    keywords:
-        -
-    image: /assets/images/meta/faq.jpg
     text: |
         It is not possible to check whether an invitation has “bounced” on the Citizen OS platform.
 
@@ -110,11 +100,9 @@
 
 -
     path: /help/groups/finding-a-group-you-previously-joined-created
+    data:
+        help: /help/data.yaml
     title: Finding a group you previously joined / created
-    description:
-    keywords:
-        -
-    image: /assets/images/meta/faq.jpg
     text: |
         To access all groups you have previously joined or created, click on “My Groups” in the main menu.
         Please note:

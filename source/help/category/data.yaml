@@ -1,12 +1,9 @@
 -
     path: /help/general
     data:
+        help: /help/data.yaml
         topics: general/data.yaml
     title: General
-    description:
-    keywords:
-        -
-    image: /assets/images/meta/faq.jpg
     icon: general
     video:
         url:
@@ -17,12 +14,9 @@
 -
     path: /help/login
     data:
+        help: /help/data.yaml
         topics: login/data.yaml
     title: Login
-    description:
-    keywords:
-        -
-    image: /assets/images/meta/faq.jpg
     icon: login
     video:
         url:
@@ -33,12 +27,9 @@
 -
     path: /help/groups
     data:
+        help: /help/data.yaml
         topics: groups/data.yaml
     title: Groups
-    description:
-    keywords:
-        -
-    image: /assets/images/meta/faq.jpg
     icon: groups
     video:
         url:
@@ -49,12 +40,9 @@
 -
     path: /help/topics
     data:
+        help: /help/data.yaml
         topics: topics/data.yaml
     title: Topics
-    description:
-    keywords:
-        -
-    image: /assets/images/meta/faq.jpg
     icon: topics
     video:
         url:
@@ -64,12 +52,9 @@
 -
     path: /help/discussions
     data:
+        help: /help/data.yaml
         topics: discussions/data.yaml
     title: Discussions
-    description:
-    keywords:
-        -
-    image: /assets/images/meta/faq.jpg
     icon: discussions
     video:
         url:
@@ -80,12 +65,9 @@
 -
     path: /help/voting
     data:
+        help: /help/data.yaml
         topics: voting/data.yaml
     title: Voting
-    description:
-    keywords:
-        -
-    image: /assets/images/meta/faq.jpg
     icon: voting
     video:
         url:
@@ -95,12 +77,9 @@
 -
     path: /help/follow-up
     data:
+        help: /help/data.yaml
         topics: follow-up/data.yaml
     title: Follow-up
-    description:
-    keywords:
-        -
-    image: /assets/images/meta/faq.jpg
     icon: follow-up
     video:
         url:

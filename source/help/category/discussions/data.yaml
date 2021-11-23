@@ -1,10 +1,8 @@
 -
     path: /help/discussions/reporting-an-argument-or-comment-as-inappropriate
+    data:
+        help: /help/data.yaml
     title: Reporting an argument or comment as inappropriate
-    description:
-    keywords:
-        -
-    image: /assets/images/meta/faq.jpg
     text: |
         To report an argument or comments as inappropriate, click on the small round explanation mark icon to the right of the agree/disagree buttons.
 

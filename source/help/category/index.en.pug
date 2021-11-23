@@ -9,11 +9,11 @@ block content
                 h1.mb-4= self.title
                 +markdown(self.text)
             .col-12.col-sm-6.offset-sm-1
-                h2.mt-4.mb-4= self.help.video
+                h2.mt-4.mb-4= self.data.help.video
                 video.embed-responsive.mt-4(src=self.video.url, poster=self.video.poster)
 
         .row.pt-5
-            h2.col-12= self.help.categoryTopics
+            h2.col-12= self.data.help.categoryTopics
             ul.list-arrow.list-unstyled.col-12
                 each topic in self.data.topics
                     li
@@ -24,14 +24,14 @@ block content
                 .gray-box.col-12
                     .row
                         .col-12.col-sm-5.p-3
-                            h2= self.help.search.title
-                            form(action=self.help.search.url)
-                                input#search.form-control(type='search' name='q' placeholder=self.help.search.placeholder)
+                            h2= self.data.help.search.title
+                            form(action=self.data.help.search.url)
+                                input#search.form-control(type='search' name='q' placeholder=self.data.help.search.placeholder)
 
                         .col-12.col-sm-7.p-3(style='border-left:1px solid #E5E5E5')
-                            h2= self.help.alternate.title
+                            h2= self.data.help.alternate.title
                             ul.list-arrow.list-inline.mt-3.mb-0
                                 li.list-inline-item
-                                    a(href=self.help.alternate.request.url)= self.help.alternate.request.title
+                                    a(href=self.data.help.alternate.request.url)= self.data.help.alternate.request.title
                                 li.list-inline-item
-                                    a(href=self.help.alternate.feedback.url)= self.help.alternate.feedback.title
+                                    a(href=self.data.help.alternate.feedback.url)= self.data.help.alternate.feedback.title

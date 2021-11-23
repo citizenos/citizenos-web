@@ -1,10 +1,8 @@
 -
     path: /help/login/troubleshooting-no-permission-to-access
+    data:
+        help: /help/data.yaml
     title: Troubleshooting “no permission to access”
-    description:
-    keywords:
-        -
-    image: /assets/images/meta/faq.jpg
     text: |
         **Private topics and groups can only be accessed using a Citizen OS account which is registered with the same email address to which the original invitation was sent.**
 
@@ -27,11 +25,9 @@
 
 -
     path: /help/login/switching-accounts
+    data:
+        help: /help/data.yaml
     title: Switching accounts
-    description:
-    keywords:
-        -
-    image: /assets/images/meta/faq.jpg
     text: |
         To switch to a different Citizen OS account, you simply need to “Log out” (at the bottom of the main menu), then log back in using the relevant login details.
 
@@ -43,11 +39,9 @@
 
 -
     path: /help/login/logging-in-using-e-id-estonia-only
+    data:
+        help: /help/data.yaml
     title: Logging in using e-ID (Estonia only)
-    description:
-    keywords:
-        -
-    image: /assets/images/meta/faq.jpg
     text: |
         The option to log in with your ID-card/Mobile ID (applicable to Estonian ID-cards) will only appear if:
 

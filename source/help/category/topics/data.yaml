@@ -1,10 +1,8 @@
 -
     path: /help/topics/creating-a-new-topic
+    data:
+        help: /help/data.yaml
     title: Creating a new topic
-    description:
-    keywords:
-        -
-    image: /assets/images/meta/faq.jpg
     text: |
         To create a new topic, click on “Create topic” in the main menu.
 
@@ -12,11 +10,9 @@
 
 -
     path: /help/topics/finding-a-topic-you-previously-joined-created
+    data:
+        help: /help/data.yaml
     title: Finding a topic you previously joined / created
-    description:
-    keywords:
-        -
-    image: /assets/images/meta/faq.jpg
     text: |
         To access all topics you have previously joined or created, click on “My Topics” in the main menu.
 
@@ -26,11 +22,9 @@
 
 -
     path: /help/topics/seeing-who-has-been-invited-to-joined-a-topic
+    data:
+        help: /help/data.yaml
     title: Seeing who has been invited to / joined a topic
-    description:
-    keywords:
-        -
-    image: /assets/images/meta/faq.jpg
     text: |
         You can see who has been invited to or joined a topic as follows:
         1. Navigate to your “My Topics” dashboard via the main menu, listed under “Topics”.
@@ -46,11 +40,9 @@
 
 -
     path: /help/topics/checking-if-email-invites-bounced
+    data:
+        help: /help/data.yaml
     title: Checking if email invites bounced
-    description:
-    keywords:
-        -
-    image: /assets/images/meta/faq.jpg
     text: |
         It is not possible to check whether an invitation has “bounced” on the Citizen OS platform.
 
@@ -64,11 +56,9 @@
 
 -
     path: /help/topics/attaching-files-to-a-topic
+    data:
+        help: /help/data.yaml
     title: Attaching files to a topic
-    description:
-    keywords:
-        -
-    image: /assets/images/meta/faq.jpg
     text: |
         To add attachments:
         1. Go into the relevant topic, in either “edit” or “view” mode.
@@ -104,11 +94,9 @@
 
 -
     path: /help/topics/adding-footnotes-to-a-topic-text
+    data:
+        help: /help/data.yaml
     title: Adding footnotes to a topic text
-    description:
-    keywords:
-        -
-    image: /assets/images/meta/faq.jpg
     text: |
         You can add footnotes by clicking on the footnotes button in the centre of the text editor toolbar (above the topic text), while in edit mode. The footnotes button is in the form of an asterisk: *
 
