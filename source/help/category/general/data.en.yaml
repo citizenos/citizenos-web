@@ -1,7 +1,7 @@
 -
     path: /help/general/changing-the-language
     data:
-        help: /help/data.yaml
+        help: /help/data.en.yaml
     title: Changing the language
     text: |
         **You can change the language of the platform via the Main Menu.** The language you are currently using is shown near the bottom of the menu, below “Help”. Click on this language, then select your preferred language from the pop-up box.
@@ -9,7 +9,7 @@
 -
     path: /help/general/automatic-notifications
     data:
-        help: /help/data.yaml
+        help: /help/data.en.yaml
     title: Automatic notifications
     text: |
         Emails notifications are sent automatically in the three following situations:
@@ -24,7 +24,7 @@
 -
     path: /help/general/using-on-mobile-devices
     data:
-        help: /help/data.yaml
+        help: /help/data.en.yaml
     title: Using on mobile devices
     text: |
         **Citizen OS is a browser-based platform.** You can therefore use it from any device, simply by opening a browser and navigating to the platform via the URL. There is no need to download an app.
