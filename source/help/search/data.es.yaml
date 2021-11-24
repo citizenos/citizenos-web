@@ -2,13 +2,13 @@
 path: /help/search
 data:
   help: /help/data.en.yaml
-  category: ../category/data.yaml
-  category-general: ../category/general/data.yaml
-  category-login: ../category/login/data.yaml
-  category-groups: ../category/groups/data.yaml
-  category-topics: ../category/topics/data.yaml
-  category-discussions: ../category/discussions/data.yaml
-  category-voting: ../category/voting/data.yaml
-  category-follow-up: ../category/follow-up/data.yaml
+  category: ../category/data.en.yaml
+  category-general: ../category/general/data.en.yaml
+  category-login: ../category/login/data.en.yaml
+  category-groups: ../category/groups/data.en.yaml
+  category-topics: ../category/topics/data.en.yaml
+  category-discussions: ../category/discussions/data.en.yaml
+  category-voting: ../category/voting/data.en.yaml
+  category-follow-up: ../category/follow-up/data.en.yaml
 title: Help Center Search
 text: The Help Center will answer any questions you may have, and help you if you get stuck.
