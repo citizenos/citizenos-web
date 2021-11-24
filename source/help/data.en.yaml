@@ -1,7 +1,7 @@
 path: /help
 
 data:
-    category: category/data.yaml
+    category: category/data.en.yaml
 
 title: Help Center
 text: The Help Center will answer any questions you may have, and help you if you get stuck.
