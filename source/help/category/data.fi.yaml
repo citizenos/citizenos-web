@@ -3,7 +3,7 @@
   path: /help/general
   data:
     help: /help/data.en.yaml
-    topics: general/data.yaml
+    topics: general/data.en.yaml
   title: General
   icon: general
   video:
@@ -15,7 +15,7 @@
   path: /help/login
   data:
     help: /help/data.en.yaml
-    topics: login/data.yaml
+    topics: login/data.en.yaml
   title: Login
   icon: login
   video:
@@ -27,7 +27,7 @@
   path: /help/groups
   data:
     help: /help/data.en.yaml
-    topics: groups/data.yaml
+    topics: groups/data.en.yaml
   title: Groups
   icon: groups
   video:
@@ -39,7 +39,7 @@
   path: /help/topics
   data:
     help: /help/data.en.yaml
-    topics: topics/data.yaml
+    topics: topics/data.en.yaml
   title: Topics
   icon: topics
   video:
@@ -51,7 +51,7 @@
   path: /help/discussions
   data:
     help: /help/data.en.yaml
-    topics: discussions/data.yaml
+    topics: discussions/data.en.yaml
   title: Discussions
   icon: discussions
   video:
@@ -63,7 +63,7 @@
   path: /help/voting
   data:
     help: /help/data.en.yaml
-    topics: voting/data.yaml
+    topics: voting/data.en.yaml
   title: Voting
   icon: voting
   video:
@@ -75,7 +75,7 @@
   path: /help/follow-up
   data:
     help: /help/data.en.yaml
-    topics: follow-up/data.yaml
+    topics: follow-up/data.en.yaml
   title: Follow-up
   icon: follow-up
   video:
