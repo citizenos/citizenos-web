@@ -1,5 +1,6 @@
 ---
-- 
+multipage: true
+general:
   path: /help/general
   data:
     help: /help/data.en.yaml
@@ -11,7 +12,7 @@
     poster: /assets/images/meta/faq.jpg
   text: |
     **Citizen OS is a free platform for remote, asynchronous, collective decision-making.** Co-create a topic, discuss it, vote on it, then follow-up on it afterwards. Available worldwide, with e-ID signature functionality in Estonia.
-- 
+login:
   path: /help/login
   data:
     help: /help/data.en.yaml
@@ -23,7 +24,7 @@
     poster: /assets/images/meta/faq.jpg
   text: |
     Log in quickly and easily using a Citizen OS account linked to your email address, or via social login (Facebook or Gmail). In Estonia, e-ID login is also available. Logins are remembered for two weeks, using a cookie, unless you log out.
-- 
+groups:
   path: /help/groups
   data:
     help: /help/data.en.yaml
@@ -35,7 +36,7 @@
     poster: /assets/images/meta/faq.jpg
   text: |
     Groups are lists of users. They are useful if you will be making decisions with the same group of people (such as a team, community or organisation) on multiple occasions. [The benefits of a group](/help/groups/why-create-a-group) include quicker sharing or unsharing of topics, a group folder containing all topics shared to those users, and easier rights administration.
-- 
+topics:
   path: /help/topics
   data:
     help: /help/data.en.yaml
@@ -47,7 +48,7 @@
     poster: /assets/images/meta/faq.jpg
   text: |
 
-- 
+discussions:
   path: /help/discussions
   data:
     help: /help/data.en.yaml
@@ -59,7 +60,7 @@
     poster: /assets/images/meta/faq.jpg
   text: |
     Use the discussion space to discuss both sides of a topic before it is voted on, or to crowdsource ideas for how to go forwards. Here you can post “pro” and “con” arguments, and reply or react to arguments made by others.
-- 
+voting:
   path: /help/voting
   data:
     help: /help/data.en.yaml
@@ -71,7 +72,7 @@
     poster: /assets/images/meta/faq.jpg
   text: |
 
-- 
+follow-up:
   path: /help/follow-up
   data:
     help: /help/data.en.yaml
