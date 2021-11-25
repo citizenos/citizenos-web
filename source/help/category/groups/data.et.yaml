@@ -1,5 +1,6 @@
 ---
-- 
+multipage: true
+why-create-a-group:
   path: /help/groups/why-create-a-group
   data:
     help: /help/data.en.yaml
@@ -13,7 +14,7 @@
     ## Related content{.mt-5}
     - [How to create a group](/help/groups/how-to-create-a-group)
     { .list-arrow .list-unstyled }
-- 
+how-to-create-a-group:
   path: /help/groups/how-to-create-a-group
   data:
     help: /help/data.en.yaml
@@ -45,7 +46,7 @@
     - Changing the name of a group
     - Deleting a group
     { .list-arrow .list-unstyled }
-- 
+inviting-users-to-a-group:
   path: /help/groups/inviting-users-to-a-group
   data:
     help: /help/data.en.yaml
@@ -62,7 +63,7 @@
     ## Related content{.mt-5}
     - [How to create a group](/help/groups/how-to-create-a-group)
     { .list-arrow .list-unstyled }
-- 
+seeing-who-has-been-invited-to-joined-a-group:
   path: /help/groups/seeing-who-has-been-invited-to-joined-a-group
   data:
     help: /help/data.en.yaml
@@ -79,7 +80,7 @@
     - Checking if email invites bounced
     - [Inviting users to a group](/help/groups/inviting-users-to-a-group)
     { .list-arrow .list-unstyled }
-- 
+checking-if-email-invites-bounced:
   path: /help/groups/checking-if-email-invites-bounced
   data:
     help: /help/data.en.yaml
@@ -94,7 +95,7 @@
     ## Related content{.mt-5}
     - [Seeing who has been invited to / joined a group](/help/groups/seeing-who-has-been-invited-to-joined-a-group)
     { .list-arrow .list-unstyled }
-- 
+finding-a-group-you-previously-joined-created:
   path: /help/groups/finding-a-group-you-previously-joined-created
   data:
     help: /help/data.en.yaml
