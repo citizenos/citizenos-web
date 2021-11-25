@@ -18,11 +18,13 @@ block content
             form.col-12.col-sm-6(action=self.data.help.search.url)
                 input#search.form-control(type='search' name='q' placeholder=self.data.help.search.placeholder autofocus)
 
+        - delete self.data.category.multipage
         each category in self.data.category
 
             .row.pt-5.topic-block.d-none
                 h2.col-12= category.title
                 ul.list-arrow.list-unstyled.col-12
+                    - delete self.data['category-' + category.data.topics.split('/')[0]].multipage
                     each topic in self.data['category-' + category.data.topics.split('/')[0]]
                         li.topic-title.d-none(data-search=search(topic))
                             a(href=topic.path)= topic.title

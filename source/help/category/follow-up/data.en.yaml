@@ -1,4 +1,6 @@
--
+multipage: true
+
+topic1:
     path: /help/follow-up/topic1
     data:
         help: /help/data.en.yaml
@@ -8,7 +10,7 @@
 
         Maecenas volutpat dui auctor, sollicitudin magna nec, hendrerit eros. Sed venenatis rhoncus lorem, in dignissim risus faucibus et. Nullam ut nibh at mi fermentum finibus. Phasellus rhoncus euismod velit, ac accumsan odio volutpat id. Fusce varius leo ac turpis mattis vehicula. Duis luctus augue odio, id laoreet lacus scelerisque ut. Aenean pretium, odio eu elementum egestas, augue arcu lacinia lacus, sed faucibus enim odio vel lacus. Maecenas a auctor neque. Nullam suscipit aliquam enim non vulputate. Nam odio tellus, sollicitudin ac magna a, finibus scelerisque risus. Aliquam tristique diam sed lectus egestas, a faucibus risus commodo. Nam eleifend quam at odio finibus, at dignissim nulla rhoncus. Nunc gravida quam quis purus lobortis, sit amet malesuada libero molestie. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.
 
--
+topic2:
     path: /help/follow-up/topic2
     data:
         help: /help/data.en.yaml

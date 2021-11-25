@@ -15,6 +15,7 @@ block content
 
         .row.pt-5
             h2.col-12= self.topics
+            - delete self.data.category.multipage
             each category in self.data.category
                 .col-6.col-md-3
                     a.gray-box.d-block.col-12.mb-4.py-3.text-center(href=category.path)

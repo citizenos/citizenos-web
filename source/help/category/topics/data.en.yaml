@@ -1,4 +1,6 @@
--
+multipage: true
+
+creating-a-new-topic:
     path: /help/topics/creating-a-new-topic
     data:
         help: /help/data.en.yaml
@@ -8,7 +10,7 @@
 
         Any changes you make to the topic will be automatically saved, and the topic will automatically appear in your “My topics” dashboard from now on.
 
--
+finding-a-topic-you-previously-joined-created:
     path: /help/topics/finding-a-topic-you-previously-joined-created
     data:
         help: /help/data.en.yaml
@@ -20,7 +22,7 @@
         - Only topics for which you have already accepted the invitation will be listed. If you have been invited to but not yet joined a topic, it will not show. To join the topic, follow the link in the email invitation you were originally sent.
         - If a topic you have previously joined or created is not showing in the list, it may be that you are signed into the wrong Citizen OS account. If you have another Citizen OS account, try looking there. (You can only access topics using the Citizen OS account that is linked to the same email address as the one to which the original topic invitation email was sent).
 
--
+seeing-who-has-been-invited-to-joined-a-topic:
     path: /help/topics/seeing-who-has-been-invited-to-joined-a-topic
     data:
         help: /help/data.en.yaml
@@ -38,7 +40,7 @@
         - Inviting users to a topic
         { .list-arrow .list-unstyled }
 
--
+checking-if-email-invites-bounced:
     path: /help/topics/checking-if-email-invites-bounced
     data:
         help: /help/data.en.yaml
@@ -54,7 +56,7 @@
         - [Seeing who has been invited to / joined a topic](/help/topics/seeing-who-has-been-invited-to-joined-a-topic)
         { .list-arrow .list-unstyled }
 
--
+attaching-files-to-a-topic:
     path: /help/topics/attaching-files-to-a-topic
     data:
         help: /help/data.en.yaml
@@ -92,7 +94,7 @@
             - xlsx
             - xlt
 
--
+adding-footnotes-to-a-topic-text:
     path: /help/topics/adding-footnotes-to-a-topic-text
     data:
         help: /help/data.en.yaml

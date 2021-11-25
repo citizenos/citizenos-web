@@ -1,4 +1,6 @@
--
+multipage: true
+
+troubleshooting-no-permission-to-access:
     path: /help/login/troubleshooting-no-permission-to-access
     data:
         help: /help/data.en.yaml
@@ -23,7 +25,7 @@
         - Trouble-shooting login issues
         { .list-arrow .list-unstyled }
 
--
+switching-accounts:
     path: /help/login/switching-accounts
     data:
         help: /help/data.en.yaml
@@ -37,7 +39,7 @@
         - [Troubleshooting “no permission to access”](/help/login/troubleshooting-no-permission-to-access)
         { .list-arrow .list-unstyled }
 
--
+logging-in-using-e-id-estonia-only:
     path: /help/login/logging-in-using-e-id-estonia-only
     data:
         help: /help/data.en.yaml

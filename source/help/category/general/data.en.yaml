@@ -1,4 +1,6 @@
--
+multipage: true
+
+changing-the-language:
     path: /help/general/changing-the-language
     data:
         help: /help/data.en.yaml
@@ -6,7 +8,7 @@
     text: |
         **You can change the language of the platform via the Main Menu.** The language you are currently using is shown near the bottom of the menu, below “Help”. Click on this language, then select your preferred language from the pop-up box.
 
--
+automatic-notifications:
     path: /help/general/automatic-notifications
     data:
         help: /help/data.en.yaml
@@ -21,7 +23,7 @@
 
         There are no email notifications in any other situations. Therefore, if you want to notify topic members of any other activity (such as a topic now being open for voting, for example), you will need to contact them yourself to let them know.
 
--
+using-on-mobile-devices:
     path: /help/general/using-on-mobile-devices
     data:
         help: /help/data.en.yaml

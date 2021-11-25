@@ -15,6 +15,7 @@ block content
         .row.pt-5
             h2.col-12= self.data.help.categoryTopics
             ul.list-arrow.list-unstyled.col-12
+                - delete self.data.topics.multipage
                 each topic in self.data.topics
                     li
                         a(href=topic.path)= topic.title

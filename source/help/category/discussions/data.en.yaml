@@ -1,4 +1,6 @@
--
+multipage: true
+
+reporting-an-argument-or-comment-as-inappropriate:
     path: /help/discussions/reporting-an-argument-or-comment-as-inappropriate
     data:
         help: /help/data.en.yaml
