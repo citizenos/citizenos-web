@@ -1,7 +1,7 @@
 ---
 path: /help/feedback
 data:
-  help: /help/data.en.yaml
+  help: /et/abi/data.et.yaml
 title: Give us feedback
 text: Want to let us know your thoughts or share some comments, good or bad? We’re always happy to receive your feedback.
 form:
