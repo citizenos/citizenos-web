@@ -1,7 +1,7 @@
 ---
 multipage: true
 reporting-an-argument-or-comment-as-inappropriate:
-  path: /help/discussions/reporting-an-argument-or-comment-as-inappropriate
+  path: /et/abi/arutelud/ebasobivast-argumendist-kommentaarist-teavitamine
   data:
     help: /et/abi/data.et.yaml
   title: Reporting an argument or comment as inappropriate
