@@ -96,7 +96,7 @@ checking-if-email-invites-bounced:
     - [Seeing who has been invited to / joined a group](/help/groups/seeing-who-has-been-invited-to-joined-a-group)
     { .list-arrow .list-unstyled }
 finding-a-group-you-previously-joined-created:
-  path: /help/groups/finding-a-group-you-previously-joined-created
+  path: /et/abi/grupid/leia-grupp-mille-tegid-liitusid
   data:
     help: /et/abi/data.et.yaml
   title: Finding a group you previously joined / created
