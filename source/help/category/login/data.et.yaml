@@ -25,7 +25,7 @@ troubleshooting-no-permission-to-access:
     - Trouble-shooting login issues
     { .list-arrow .list-unstyled }
 switching-accounts:
-  path: /help/login/switching-accounts
+  path: /et/abi/sisselogimine/kontode-vahetamine
   data:
     help: /et/abi/data.et.yaml
   title: Switching accounts
@@ -38,7 +38,7 @@ switching-accounts:
     - [Troubleshooting “no permission to access”](/help/login/troubleshooting-no-permission-to-access)
     { .list-arrow .list-unstyled }
 logging-in-using-e-id-estonia-only:
-  path: /help/login/logging-in-using-e-id-estonia-only
+  path: /et/abi/sisselogimine/sisenemine-eesti-idkaardiga
   data:
     help: /et/abi/data.et.yaml
   title: Logging in using e-ID (Estonia only)
