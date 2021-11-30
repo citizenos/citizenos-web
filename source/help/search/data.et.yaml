@@ -1,7 +1,7 @@
 ---
-path: /help/search
+path: /et/abi/otsing
 data:
-  help: /help/data.en.yaml
+  help: /et/abi/data.et.yaml
   category: ../category/data.en.yaml
   category-general: ../category/general/data.en.yaml
   category-login: ../category/login/data.en.yaml
