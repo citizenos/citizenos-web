@@ -61,7 +61,7 @@ discussions:
   text: |
     Use the discussion space to discuss both sides of a topic before it is voted on, or to crowdsource ideas for how to go forwards. Here you can post “pro” and “con” arguments, and reply or react to arguments made by others.
 voting:
-  path: et/abi/haaletamine
+  path: /et/abi/haaletamine
   data:
     help: /et/abi/data.et.yaml
     topics: et/haaletamine/data.et.yaml
