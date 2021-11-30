@@ -3,7 +3,7 @@ multipage: true
 general:
   path: /help/general
   data:
-    help: /help/data.en.yaml
+    help: /et/abi/data.et.yaml
     topics: general/data.en.yaml
   title: General
   icon: general
@@ -15,7 +15,7 @@ general:
 login:
   path: /help/login
   data:
-    help: /help/data.en.yaml
+    help: /et/abi/data.et.yaml
     topics: login/data.en.yaml
   title: Login
   icon: login
@@ -27,7 +27,7 @@ login:
 groups:
   path: /help/groups
   data:
-    help: /help/data.en.yaml
+    help: /et/abi/data.et.yaml
     topics: groups/data.en.yaml
   title: Groups
   icon: groups
@@ -39,7 +39,7 @@ groups:
 topics:
   path: /help/topics
   data:
-    help: /help/data.en.yaml
+    help: /et/abi/data.et.yaml
     topics: topics/data.en.yaml
   title: Topics
   icon: topics
@@ -51,7 +51,7 @@ topics:
 discussions:
   path: /help/discussions
   data:
-    help: /help/data.en.yaml
+    help: /et/abi/data.et.yaml
     topics: discussions/data.en.yaml
   title: Discussions
   icon: discussions
@@ -63,7 +63,7 @@ discussions:
 voting:
   path: /help/voting
   data:
-    help: /help/data.en.yaml
+    help: /et/abi/data.et.yaml
     topics: voting/data.en.yaml
   title: Voting
   icon: voting
@@ -75,7 +75,7 @@ voting:
 follow-up:
   path: /help/follow-up
   data:
-    help: /help/data.en.yaml
+    help: /et/abi/data.et.yaml
     topics: follow-up/data.en.yaml
   title: Follow-up
   icon: follow-up
