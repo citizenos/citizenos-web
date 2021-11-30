@@ -1,7 +1,7 @@
 ---
 multipage: true
 troubleshooting-no-permission-to-access:
-  path: /help/login/troubleshooting-no-permission-to-access
+  path: /et/abi/sisselogimine/kui-ligipaas-ei-toimi
   data:
     help: /et/abi/data.et.yaml
   title: Troubleshooting “no permission to access”
