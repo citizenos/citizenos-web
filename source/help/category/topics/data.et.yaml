@@ -1,7 +1,7 @@
 ---
 multipage: true
 creating-a-new-topic:
-  path: /help/topics/creating-a-new-topic
+  path: /et/abi/teemad/uue-teema-loomine
   data:
     help: /et/abi/data.et.yaml
   title: Creating a new topic
@@ -10,7 +10,7 @@ creating-a-new-topic:
 
     Any changes you make to the topic will be automatically saved, and the topic will automatically appear in your “My topics” dashboard from now on.
 finding-a-topic-you-previously-joined-created:
-  path: /help/topics/finding-a-topic-you-previously-joined-created
+  path: /et/abi/teemad/leia-teema-mille-tegid-liitusid
   data:
     help: /et/abi/data.et.yaml
   title: Finding a topic you previously joined / created
@@ -21,7 +21,7 @@ finding-a-topic-you-previously-joined-created:
     - Only topics for which you have already accepted the invitation will be listed. If you have been invited to but not yet joined a topic, it will not show. To join the topic, follow the link in the email invitation you were originally sent.
     - If a topic you have previously joined or created is not showing in the list, it may be that you are signed into the wrong Citizen OS account. If you have another Citizen OS account, try looking there. (You can only access topics using the Citizen OS account that is linked to the same email address as the one to which the original topic invitation email was sent).
 seeing-who-has-been-invited-to-joined-a-topic:
-  path: /help/topics/seeing-who-has-been-invited-to-joined-a-topic
+  path: /et/abi/teemad/kuidas-vaadata-teemasse-kutsutuid-ja-liitunuid
   data:
     help: /et/abi/data.et.yaml
   title: Seeing who has been invited to / joined a topic
@@ -38,7 +38,7 @@ seeing-who-has-been-invited-to-joined-a-topic:
     - Inviting users to a topic
     { .list-arrow .list-unstyled }
 checking-if-email-invites-bounced:
-  path: /help/topics/checking-if-email-invites-bounced
+  path: /et/abi/teemad/kuidas-kontrollida-kas-kutsed-joudsid-kohale
   data:
     help: /et/abi/data.et.yaml
   title: Checking if email invites bounced
@@ -53,7 +53,7 @@ checking-if-email-invites-bounced:
     - [Seeing who has been invited to / joined a topic](/help/topics/seeing-who-has-been-invited-to-joined-a-topic)
     { .list-arrow .list-unstyled }
 attaching-files-to-a-topic:
-  path: /help/topics/attaching-files-to-a-topic
+  path: /et/abi/teemad/faili-lisamine-teemale
   data:
     help: /et/abi/data.et.yaml
   title: Attaching files to a topic
@@ -90,7 +90,7 @@ attaching-files-to-a-topic:
         - xlsx
         - xlt
 adding-footnotes-to-a-topic-text:
-  path: /help/topics/adding-footnotes-to-a-topic-text
+  path: /et/abi/teemad/allmarkuse-lisamine-teema-tekstile
   data:
     help: /et/abi/data.et.yaml
   title: Adding footnotes to a topic text
