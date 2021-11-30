@@ -52,7 +52,7 @@ discussions:
   path: /et/abi/arutelud
   data:
     help: /et/abi/data.et.yaml
-    topics: discussions/data.en.yaml
+    topics: et/arutelud/data.et.yaml
   title: Arutelud
   icon: arutelud
   video:
@@ -76,7 +76,7 @@ follow-up:
   path: et/abi/elluviimine
   data:
     help: /et/abi/data.et.yaml
-    topics: follow-up/data.en.yaml
+    topics: et/elluviimine/data.et.yaml
   title: Otsuse elluviimine
   icon: follow-up
   video:
