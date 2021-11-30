@@ -8,7 +8,7 @@ changing-the-language:
   text: |
     **You can change the language of the platform via the Main Menu.** The language you are currently using is shown near the bottom of the menu, below “Help”. Click on this language, then select your preferred language from the pop-up box.
 automatic-notifications:
-  path: /help/general/automatic-notifications
+  path: /et/abi/yldine/automaatsed-teavitused
   data:
     help: /et/abi/data.et.yaml
   title: Automatic notifications
@@ -22,7 +22,7 @@ automatic-notifications:
 
     There are no email notifications in any other situations. Therefore, if you want to notify topic members of any other activity (such as a topic now being open for voting, for example), you will need to contact them yourself to let them know.
 using-on-mobile-devices:
-  path: /help/general/using-on-mobile-devices
+  path: /et/abi/yldine/kasutamine-mobiilil
   data:
     help: /et/abi/data.et.yaml
   title: Using on mobile devices
