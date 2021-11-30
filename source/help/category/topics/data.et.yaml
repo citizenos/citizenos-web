@@ -3,7 +3,7 @@ multipage: true
 creating-a-new-topic:
   path: /help/topics/creating-a-new-topic
   data:
-    help: /help/data.en.yaml
+    help: /et/abi/data.et.yaml
   title: Creating a new topic
   text: |
     To create a new topic, click on “Create topic” in the main menu.
@@ -12,7 +12,7 @@ creating-a-new-topic:
 finding-a-topic-you-previously-joined-created:
   path: /help/topics/finding-a-topic-you-previously-joined-created
   data:
-    help: /help/data.en.yaml
+    help: /et/abi/data.et.yaml
   title: Finding a topic you previously joined / created
   text: |
     To access all topics you have previously joined or created, click on “My Topics” in the main menu.
@@ -23,7 +23,7 @@ finding-a-topic-you-previously-joined-created:
 seeing-who-has-been-invited-to-joined-a-topic:
   path: /help/topics/seeing-who-has-been-invited-to-joined-a-topic
   data:
-    help: /help/data.en.yaml
+    help: /et/abi/data.et.yaml
   title: Seeing who has been invited to / joined a topic
   text: |
     You can see who has been invited to or joined a topic as follows:
@@ -40,7 +40,7 @@ seeing-who-has-been-invited-to-joined-a-topic:
 checking-if-email-invites-bounced:
   path: /help/topics/checking-if-email-invites-bounced
   data:
-    help: /help/data.en.yaml
+    help: /et/abi/data.et.yaml
   title: Checking if email invites bounced
   text: |
     It is not possible to check whether an invitation has “bounced” on the Citizen OS platform.
@@ -55,7 +55,7 @@ checking-if-email-invites-bounced:
 attaching-files-to-a-topic:
   path: /help/topics/attaching-files-to-a-topic
   data:
-    help: /help/data.en.yaml
+    help: /et/abi/data.et.yaml
   title: Attaching files to a topic
   text: |
     To add attachments:
@@ -92,7 +92,7 @@ attaching-files-to-a-topic:
 adding-footnotes-to-a-topic-text:
   path: /help/topics/adding-footnotes-to-a-topic-text
   data:
-    help: /help/data.en.yaml
+    help: /et/abi/data.et.yaml
   title: Adding footnotes to a topic text
   text: |
     You can add footnotes by clicking on the footnotes button in the centre of the text editor toolbar (above the topic text), while in edit mode. The footnotes button is in the form of an asterisk: *
