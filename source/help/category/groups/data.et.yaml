@@ -1,7 +1,7 @@
 ---
 multipage: true
 why-create-a-group:
-  path: /help/groups/why-create-a-group
+  path: /et/abi/yldine/miks-luua-grupp
   data:
     help: /et/abi/data.et.yaml
   title: Why create a group
@@ -15,7 +15,7 @@ why-create-a-group:
     - [How to create a group](/help/groups/how-to-create-a-group)
     { .list-arrow .list-unstyled }
 how-to-create-a-group:
-  path: /help/groups/how-to-create-a-group
+  path: /et/abi/grupid/kuidas-luua-grupp
   data:
     help: /et/abi/data.et.yaml
   title: How to create a group
@@ -47,7 +47,7 @@ how-to-create-a-group:
     - Deleting a group
     { .list-arrow .list-unstyled }
 inviting-users-to-a-group:
-  path: /help/groups/inviting-users-to-a-group
+  path: /et/abi/grupid/kasutajate-gruppi-kutsumine
   data:
     help: /et/abi/data.et.yaml
   title: Inviting users to a group
@@ -64,7 +64,7 @@ inviting-users-to-a-group:
     - [How to create a group](/help/groups/how-to-create-a-group)
     { .list-arrow .list-unstyled }
 seeing-who-has-been-invited-to-joined-a-group:
-  path: /help/groups/seeing-who-has-been-invited-to-joined-a-group
+  path: /et/abi/grupid/kuidas-vaadata-gruppi-kutsutuid-ja-liitunuid
   data:
     help: /et/abi/data.et.yaml
   title: Seeing who has been invited to / joined a group
@@ -81,7 +81,7 @@ seeing-who-has-been-invited-to-joined-a-group:
     - [Inviting users to a group](/help/groups/inviting-users-to-a-group)
     { .list-arrow .list-unstyled }
 checking-if-email-invites-bounced:
-  path: /help/groups/checking-if-email-invites-bounced
+  path: /et/abi/grupid/kuidas-kontrollida-kas-kutsed-joudsid-kohale
   data:
     help: /et/abi/data.et.yaml
   title: Checking if email invites bounced
