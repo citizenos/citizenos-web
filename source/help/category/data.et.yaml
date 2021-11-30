@@ -49,7 +49,7 @@ topics:
   text: |
 
 discussions:
-  path: /help/discussions
+  path: et/abi/arutelud
   data:
     help: /et/abi/data.et.yaml
     topics: discussions/data.en.yaml
