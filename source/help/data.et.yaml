@@ -1,5 +1,5 @@
 ---
-path: /help
+path: /et/abi
 data:
   category: category/data.en.yaml
 title: Help Center
@@ -13,33 +13,33 @@ links:
     - 
       title: General Topic 2
       url: /help/general/topic2
-topics: Find by topic
-categoryTopics: Jump to a specific topic
-video: Watch the Topics Introduction video
+topics: Leia teema järgi
+categoryTopics: Liigu kindla teema juurde
+video: Vaata teemasid tutvustavat videot
 feedback:
   title: Was this information helpful?
   answerYes: true
   answerNo: false
 negativeFeedback:
-  title: Feedback
-  text: We’re sorry to hear this section wasn’t helpful for you. We’d love to know why!
+  title: Tagasiside
+  text: Kahju kuulda, et sa ei leidnud sellest osast abi. Anna palun meile teada, mida saaksime parandada!
   form:
-    title: How could it be improved?
-    message: Write here...
-    email: E-mail address (optional)
-    submit: Send
+    title: Mida saaksime parandada?
+    message: Kirjuta siia...
+    email: E-posti aadress (valikuline)
+    submit: Saada
     success: |
-      **Thank you for your feedback!**
-      With your help we can make Citizen OS better at every turn.
+      **Suur tänu tagasiside eest!**
+      Sinu abiga saame Citizen OSi veelgi paremaks muuta.
 search:
-  title: Search for something specific
-  placeholder: Search
-  url: /help/search
+  title: Täpsem otsing
+  placeholder: Otsi
+  url: /et/abi/otsing
 alternate:
-  title: Alternatively try these options
+  title: Võid proovida ka neid võimalusi
   request:
-    title: Submit a Help Request
-    url: /help/request
+    title: Saada abipalve
+    url: /et/abi/abipalve
   feedback:
-    title: Give us feedback
-    url: /help/feedback
+    title: Saada meile tagasisidet
+    url: /et/abi/tagasiside
