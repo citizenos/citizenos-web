@@ -3,7 +3,7 @@ multipage: true
 why-create-a-group:
   path: /help/groups/why-create-a-group
   data:
-    help: /help/data.en.yaml
+    help: /et/abi/data.et.yaml
   title: Why create a group
   text: |
     - **Why create a group?** Quicker sharing. All members of a group will be automatically added to any new topic created for that group. No need to send invite links or add users one-by-one.
@@ -17,7 +17,7 @@ why-create-a-group:
 how-to-create-a-group:
   path: /help/groups/how-to-create-a-group
   data:
-    help: /help/data.en.yaml
+    help: /et/abi/data.et.yaml
   title: How to create a group
   text: |
     To create a group:
@@ -49,7 +49,7 @@ how-to-create-a-group:
 inviting-users-to-a-group:
   path: /help/groups/inviting-users-to-a-group
   data:
-    help: /help/data.en.yaml
+    help: /et/abi/data.et.yaml
   title: Inviting users to a group
   text: |
     To invite users to an existing group:
@@ -66,7 +66,7 @@ inviting-users-to-a-group:
 seeing-who-has-been-invited-to-joined-a-group:
   path: /help/groups/seeing-who-has-been-invited-to-joined-a-group
   data:
-    help: /help/data.en.yaml
+    help: /et/abi/data.et.yaml
   title: Seeing who has been invited to / joined a group
   text: |
     You can see who has been invited to or joined a group as follows:
@@ -83,7 +83,7 @@ seeing-who-has-been-invited-to-joined-a-group:
 checking-if-email-invites-bounced:
   path: /help/groups/checking-if-email-invites-bounced
   data:
-    help: /help/data.en.yaml
+    help: /et/abi/data.et.yaml
   title: Checking if email invites bounced
   text: |
     It is not possible to check whether an invitation has “bounced” on the Citizen OS platform.
@@ -98,7 +98,7 @@ checking-if-email-invites-bounced:
 finding-a-group-you-previously-joined-created:
   path: /help/groups/finding-a-group-you-previously-joined-created
   data:
-    help: /help/data.en.yaml
+    help: /et/abi/data.et.yaml
   title: Finding a group you previously joined / created
   text: |
     To access all groups you have previously joined or created, click on “My Groups” in the main menu.
