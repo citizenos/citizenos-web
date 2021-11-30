@@ -1,5 +1,5 @@
 ---
-path: /help/request
+path: /et/abi/abipalve/
 data:
   help: /et/abi/data.et.yaml
 title: Request Help
@@ -14,4 +14,4 @@ form:
     Thank you for your message, we’ll get back to you as soon as we can.
   successBack:
     title: To the Help Center Start page
-    url: /help
+    url: /et/abi
