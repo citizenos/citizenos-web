@@ -1,5 +1,5 @@
 ---
-path: /help/feedback
+path: /et/abi/tagasiside/
 data:
   help: /et/abi/data.et.yaml
 title: Give us feedback
@@ -14,4 +14,4 @@ form:
     With your help we can make Citizen OS better at every turn.
   successBack:
     title: To the Help Center Start page
-    url: /help
+    url: /et/abi
