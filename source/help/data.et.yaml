@@ -1,7 +1,7 @@
 ---
 path: /et/abi
 data:
-  category: category/data.en.yaml
+  category: et/kategooria/data.et.yaml
 title: Help Center
 text: The Help Center will answer any questions you may have, and help you if you get stuck.
 links:
