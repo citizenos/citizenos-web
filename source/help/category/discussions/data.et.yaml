@@ -3,7 +3,7 @@ multipage: true
 reporting-an-argument-or-comment-as-inappropriate:
   path: /help/discussions/reporting-an-argument-or-comment-as-inappropriate
   data:
-    help: /help/data.en.yaml
+    help: /et/abi/data.et.yaml
   title: Reporting an argument or comment as inappropriate
   text: |
     To report an argument or comments as inappropriate, click on the small round explanation mark icon to the right of the agree/disagree buttons.
