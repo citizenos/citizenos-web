@@ -3,7 +3,7 @@ multipage: true
 topic1:
   path: /help/follow-up/topic1
   data:
-    help: /help/data.en.yaml
+    help: /et/abi/data.et.yaml
   title: Follow-up Topic 1
   text: |
     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus egestas sapien id maximus placerat. Morbi condimentum euismod erat sit amet accumsan. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Suspendisse auctor arcu nec orci consequat pretium. Etiam non quam id turpis bibendum vestibulum non vel nibh. Phasellus ac nulla pulvinar, imperdiet nunc eu, volutpat urna. Praesent elementum maximus leo vel gravida. Maecenas in augue at metus convallis posuere mollis at dolor. Mauris blandit convallis dignissim. Vivamus efficitur sed massa sed malesuada. Donec luctus at libero sit amet laoreet. Donec lacus nisl, dictum in ex eu, vestibulum tincidunt justo. In quis justo condimentum, eleifend lorem id, laoreet sem. Aenean et cursus nisl. Proin id odio iaculis ex auctor suscipit pulvinar vel leo.
@@ -12,7 +12,7 @@ topic1:
 topic2:
   path: /help/follow-up/topic2
   data:
-    help: /help/data.en.yaml
+    help: /et/abi/data.et.yaml
   title: Follow-up Topic 2
   text: |
     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus egestas sapien id maximus placerat. Morbi condimentum euismod erat sit amet accumsan. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Suspendisse auctor arcu nec orci consequat pretium. Etiam non quam id turpis bibendum vestibulum non vel nibh. Phasellus ac nulla pulvinar, imperdiet nunc eu, volutpat urna. Praesent elementum maximus leo vel gravida. Maecenas in augue at metus convallis posuere mollis at dolor. Mauris blandit convallis dignissim. Vivamus efficitur sed massa sed malesuada. Donec luctus at libero sit amet laoreet. Donec lacus nisl, dictum in ex eu, vestibulum tincidunt justo. In quis justo condimentum, eleifend lorem id, laoreet sem. Aenean et cursus nisl. Proin id odio iaculis ex auctor suscipit pulvinar vel leo.
