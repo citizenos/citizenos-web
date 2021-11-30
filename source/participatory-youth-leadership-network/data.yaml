@@ -21,7 +21,7 @@ blocks:
 
             [Leave your contact details](mailto:sara@citizenos.com) and we will send you info about the next session.
 
-            [Join our E-democracy Quiz about India!](){data-toggle=modal data-target=#join-popup} Gain knowledge, compete in a friendly manner and meet like-minded people.
+            [Sign up for the Participatory Youth Leadership Network!](){data-toggle=modal data-target=#join-popup}
 
             ## An Invitation to Collaborate{ .pt-5 }
 
@@ -84,9 +84,9 @@ blocks:
             Making democratic collective decisions about the development of the network, building trust and communication among members.
 
     join:
-        title: Join the E-democracy online Quiz about India!
-        date: 27th of Nov, 2021
-        time: 14:00 IST to 17:00 IST
+        title: Sign up for the Participatory Youth Leadership Network!
+        date: TBD
+        time: TBD
         how: We'll e-mail you the details.
         button:
             title: Sign up
