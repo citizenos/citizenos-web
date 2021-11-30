@@ -37,7 +37,7 @@ groups:
   text: |
     Groups are lists of users. They are useful if you will be making decisions with the same group of people (such as a team, community or organisation) on multiple occasions. [The benefits of a group](/help/groups/why-create-a-group) include quicker sharing or unsharing of topics, a group folder containing all topics shared to those users, and easier rights administration.
 topics:
-  path: et/abi/teemad
+  path: /et/abi/teemad
   data:
     help: /et/abi/data.et.yaml
     topics: et/teemad/data.et.yaml
@@ -49,7 +49,7 @@ topics:
   text: |
 
 discussions:
-  path: et/abi/arutelud
+  path: /et/abi/arutelud
   data:
     help: /et/abi/data.et.yaml
     topics: discussions/data.en.yaml
