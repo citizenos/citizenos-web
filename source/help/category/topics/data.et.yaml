@@ -4,7 +4,7 @@ creating-a-new-topic:
   path: /et/abi/teemad/uue-teema-loomine
   data:
     help: /et/abi/data.et.yaml
-  title: Creating a new topic
+  title: Uue teema loomine
   text: |
     To create a new topic, click on “Create topic” in the main menu.
 
