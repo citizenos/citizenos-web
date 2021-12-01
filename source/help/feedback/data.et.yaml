@@ -2,16 +2,16 @@
 path: /et/abi/tagasiside/
 data:
   help: /et/abi/data.et.yaml
-title: Give us feedback
+title: Saada meile tagasisidet
 text: Want to let us know your thoughts or share some comments, good or bad? We’re always happy to receive your feedback.
 form:
   title: Write your comment below
-  message: Write here...
-  email: E-mail address (optional)
-  submit: Send
+  message: Kirjuta siia...
+  email: E-posti aadress (valikuline)
+  submit: Saada
   success: |
-    **Thank you for your feedback!**
-    With your help we can make Citizen OS better at every turn.
+    **Suur tänu tagasiside eest!**
+    Sinu abiga saame Citizen OSi veelgi paremaks muuta.
   successBack:
     title: To the Help Center Start page
     url: /et/abi
