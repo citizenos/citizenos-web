@@ -1,0 +1,86 @@
+---
+multipage: true
+general:
+  path: /et/abi/yldine
+  data:
+    help: /et/abi/data.et.yaml
+    topics: et/yldine/data.et.yaml
+  title: Üldine
+  icon: üldine
+  video:
+    url:
+    poster: /assets/images/meta/faq.jpg
+  text: |
+    **Citizen OS is a free platform for remote, asynchronous, collective decision-making.** Co-create a topic, discuss it, vote on it, then follow-up on it afterwards. Available worldwide, with e-ID signature functionality in Estonia.
+login:
+  path: /et/abi/sisselogimine
+  data:
+    help: /et/abi/data.et.yaml
+    topics: et/sisselogimine/data.et.yaml
+  title: Sisselogimine
+  icon: sisselogimine
+  video:
+    url:
+    poster: /assets/images/meta/faq.jpg
+  text: |
+    Log in quickly and easily using a Citizen OS account linked to your email address, or via social login (Facebook or Gmail). In Estonia, e-ID login is also available. Logins are remembered for two weeks, using a cookie, unless you log out.
+groups:
+  path: et/abi/grupid
+  data:
+    help: /et/abi/data.et.yaml
+    topics: et/grupid/data.et.yaml
+  title: Grupid
+  icon: grupid
+  video:
+    url:
+    poster: /assets/images/meta/faq.jpg
+  text: |
+    Groups are lists of users. They are useful if you will be making decisions with the same group of people (such as a team, community or organisation) on multiple occasions. [The benefits of a group](/help/groups/why-create-a-group) include quicker sharing or unsharing of topics, a group folder containing all topics shared to those users, and easier rights administration.
+topics:
+  path: /et/abi/teemad
+  data:
+    help: /et/abi/data.et.yaml
+    topics: et/teemad/data.et.yaml
+  title: Teemad
+  icon: teemad
+  video:
+    url:
+    poster: /assets/images/meta/faq.jpg
+  text: |
+
+discussions:
+  path: /et/abi/arutelud
+  data:
+    help: /et/abi/data.et.yaml
+    topics: et/arutelud/data.et.yaml
+  title: Arutelud
+  icon: arutelud
+  video:
+    url:
+    poster: /assets/images/meta/faq.jpg
+  text: |
+    Use the discussion space to discuss both sides of a topic before it is voted on, or to crowdsource ideas for how to go forwards. Here you can post “pro” and “con” arguments, and reply or react to arguments made by others.
+voting:
+  path: /et/abi/haaletamine
+  data:
+    help: /et/abi/data.et.yaml
+    topics: et/haaletamine/data.et.yaml
+  title: Hääletamine
+  icon: hääletused
+  video:
+    url:
+    poster: /assets/images/meta/faq.jpg
+  text: |
+
+follow-up:
+  path: et/abi/elluviimine
+  data:
+    help: /et/abi/data.et.yaml
+    topics: et/elluviimine/data.et.yaml
+  title: Otsuse elluviimine
+  icon: follow-up
+  video:
+    url:
+    poster: /assets/images/meta/faq.jpg
+  text: |
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus egestas sapien id maximus placerat. Morbi condimentum euismod erat sit amet accumsan. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Suspendisse auctor arcu nec orci consequat pretium. Etiam non quam id turpis bibendum vestibulum non vel nibh.

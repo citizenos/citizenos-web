@@ -21,20 +21,24 @@ blocks:
       О нас.
     texts:
       - |
-        Citizen OS — некоммерческая платформа гражданских технологий, использующая ПО с открытым исходным кодом и базирующаяся в Таллине, Эстония.
+        Citizen OS is a free and secure open source platform for citizen initiatives and collective decision-making. We are a not-for-profit organisation.
 
-        Наша цель — изменить мир к лучшему. Подробности нашей работы вы можете узнать на странице [Проекты](/ru/proyekty/).
+        Our mission is to bring decision-making back to the people and their communities, through nurturing e-democracy and developing innovative technologies for higher quality collaborative decision-making.
 
-        Платформа Citizen OS начала работать в сентябре 2015 года. С тех пор мы завоевали доверие множества публичных организаций, закрытых сообществ и групп пользователей по всему миру.
+        Visit our [Vision](/vision/) and [Projects](/projects/) pages to find out more about why and what we do. Also, please see our [News](/news/) page for interviews / updates and check out our social media channels for inspiration.
+
+        The Citizen OS platform went live in September, 2015. Since then, we have gained the trust of many public and private user groups around the world.
       - |
-        Мы очень серьезно относимся к безопасности нашей платформы; подробнее об этом можно прочитать [здесь](/news/the-key-to-online-democracy-is-trust/).
+        We take the security of our platform very seriously - read more about this [here](/news/the-key-to-online-democracy-is-trust/) or view our [legal](/legal/) documents.
       - |
 
       - |
-        #### Citizen OS поддерживают:
+        #### Citizen OS was co-founded by:
       - |
-        - Филантроп и предприниматель Ахти Хейнла
-        - [Фонд Let’s Do It!](https://www.letsdoitworld.org/)
+        - Philanthropist & entrepreneur Ahti Heinla and visionary Margo Loor
+        - [Let’s Do It! Foundation](https://www.letsdoitworld.org/)
         { .arrow }
+
+        #### We are funded by private donations and grants.
       - |
         Проект Citizen OS был финансирован фондом для НПО по грантам ЕЭЗ через [Фонд Открытой Эстонии](https://oef.org.ee/in-english).

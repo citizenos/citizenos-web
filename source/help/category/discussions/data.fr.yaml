@@ -1,0 +1,12 @@
+---
+- 
+  path: /help/discussions/reporting-an-argument-or-comment-as-inappropriate
+  data:
+    help: /help/data.en.yaml
+  title: Reporting an argument or comment as inappropriate
+  text: |
+    To report an argument or comments as inappropriate, click on the small round explanation mark icon to the right of the agree/disagree buttons.
+
+    You can then select your reason for reporting the argument or comment from the options provided, and add an additional explanation.
+
+    The administrator or moderator of the discussion, and author of the argument or comment in question will be notified via email. Your explanation will be visible to them, but you will remain anonymous.

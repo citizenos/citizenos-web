@@ -1,0 +1,14 @@
+---
+path: /et/abi/otsing
+data:
+  help: /et/abi/data.et.yaml
+  category: ../et/kategooria/data.et.yaml
+  category-general: ../et/kategooria/yldine/data.et.yaml
+  category-login: ../et/kategooria/sisselogimine/data.et.yaml
+  category-groups: ../et/kategooria/grupid/data.et.yaml
+  category-topics: ../et/kategooria/teemad/data.et.yaml
+  category-discussions: ../et/kategooria/arutelud/data.et.yaml
+  category-voting: ../et/kategooria/haaletamine/data.et.yaml
+  category-follow-up: ../et/kategooria/elluviimine/data.et.yaml
+title: Help Center Search
+text: The Help Center will answer any questions you may have, and help you if you get stuck.

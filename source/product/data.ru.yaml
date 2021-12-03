@@ -1,11 +1,11 @@
 ---
 path: /produkt
 title: Продукт
-description: Бесплатная платформа для обсуждения и голосования. Используйте для общих и разновременных встреч, краудсорсинга идей, петиций. Возможность электронной подписи для жителей Эстонии.
+description: Free platform for discussions and voting. Use in private groups or publicly. Digitally sign in Estonia!
 keywords:
-  - инструмент для разновременных встреч
-  - инструмент для общих встреч
-  - э-голосование
+  - general meeting
+  - онлайн-встречи
+  - deliberation
 image: /assets/images/meta/product.jpg
 blocks:
   decision-img:
@@ -31,14 +31,14 @@ blocks:
       background-position: 10% 5%, 90% 90%
       background-size: 75px 75px, 65px 65px
     title: |
-      Коллективное принятие решений и построение гражданского общества
+      Use in your organisation or to engage citizens.
     text: |
-      Используйте для общих и разновременных встреч, краудсорсинга идей, петиций. Возможность электронной подписи для жителей Эстонии.
+      Discuss and vote securely. Use in private groups or publicly. Sign digitally in Estonia.
 
-      - [Для чего предназначена платформа Citizen OS?](#flexibleformat)
-      - [Особенности](#features)
-      - [Тематические исследования](#case-study-2)
-      - [Cтатистика](#stats)
+      - [Functions](#flexibleformat)
+      - [Features](#features)
+      - [Case studies](#case-study-2)
+      - [Statistics](#stats)
       { .arrow }
     button1st:
       title: Воспроизвести демо-видео
@@ -54,7 +54,7 @@ blocks:
       background: '#F7F7F7'
       background-image: url(/assets/images/pattern.svg)
       background-size: 38px 42px
-    label: Гибкий формат
+    #label: A flexible format
     title: |
       Для чего предназначена платформа Citizen OS?
     text: |
@@ -99,19 +99,19 @@ blocks:
     title: |
       Особенности
     text: |
-      - Всесторонние сбалансированные обсуждения.
-      - Частные или публичные обсуждения — на ваш выбор.
-      - Частные группы для разных обсуждений с одними и теми же людьми.
+      - Balanced debates.
+      - Private or public discussions.
+      - Private groups.
       { .bullet }
 
-      - Настраиваемое и анонимное голосование с указанием сроков.
-      - Расширенные функции голосования, такие как мини-голосование и передача полномочий.
-      - Совместимость с e-ID — только для жителей Эстонии.
+      - Anonymous voting with deadlines.
+      - Advanced voting features like delegation.
+      - e-ID compatible in Estonia.
       { .bullet }
 
-      - Бесплатное пользование, [пожалуйста, напишите нам](support@citizenos.com) для подключения и поддержки.
-      - Платформа готова к использованию — просто авторизуйтесь и приступайте к работе.
-      - Переведена уже на 15 языков.
+      - Free to use, [email us](mailto:support@citizenos.com) for support.
+      - A ready-made platform – just log in and get started.
+      - In 16 languages.
       { .bullet }
     button1st:
       title: Все особенности
@@ -164,7 +164,7 @@ blocks:
   case-study-img:
     class:
       - order-7
-      - order-sm-9
+      - order-sm-7
     text: |
       ![Индонезийцы улыбаются, надевают футболки Всемирного дня чистоты и идут на пляж собирать пластиковый мусор.](/assets/images/product-case-study.jpeg){ .img-fluid .box-shadow }
   case-study:
@@ -183,7 +183,7 @@ blocks:
       С помощью платформы Citizen OS жители Индонезии могут предлагать свои идеи по утилизации отходов и голосовать за чужие.
   stats:
     class:
-      - order-10
+      - order-9
       - text-center
       - py-5
     style:

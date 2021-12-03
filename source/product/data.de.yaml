@@ -1,11 +1,11 @@
 ---
 path: /product
 title: Product
-description: Free participation platform for discussions and voting. Use for general meetings, asynchronous meetings, crowdsourcing ideas, petitions. Sign digitally in Estonia.
+description: Free platform for discussions and voting. Use in private groups or publicly. Digitally sign in Estonia!
 keywords:
-  - asynchronous meeting tool
-  - general meeting tool
-  - e-voting
+  - general meeting
+  - online meetings
+  - deliberation
 image: /assets/images/meta/product.jpg
 blocks:
   decision-img:
@@ -31,11 +31,11 @@ blocks:
       background-position: 10% 5%, 90% 90%
       background-size: 75px 75px, 65px 65px
     title: |
-      Collective decisions and civic participation.
+      Use in your organisation or to engage citizens.
     text: |
-      Use for general meetings, asynchronous meetings, crowdsourcing ideas, petitions. Sign digitally in Estonia.
+      Discuss and vote securely. Use in private groups or publicly. Sign digitally in Estonia.
 
-      - [What is Citizen OS for?](#flexibleformat)
+      - [Functions](#flexibleformat)
       - [Features](#features)
       - [Case studies](#case-study-2)
       - [Statistics](#stats)
@@ -54,7 +54,7 @@ blocks:
       background: '#F7F7F7'
       background-image: url(/assets/images/pattern.svg)
       background-size: 38px 42px
-    label: Flexibles Format
+    #label: A flexible format
     title: |
       What is Citizen OS for?
     text: |
@@ -99,19 +99,19 @@ blocks:
     title: |
       Features
     text: |
-      - Pro and con discussions for balanced debates.
-      - Private or public discussions – you choose.
-      - Private groups for multiple discussions with the same people.
+      - Balanced debates.
+      - Private or public discussions.
+      - Private groups.
       { .bullet }
 
-      - Customisable & anonymous voting with deadlines.
-      - Advanced voting features such as mini-votes and delegation.
-      - e-ID compatible - applicable in Estonia only.
+      - Anonymous voting with deadlines.
+      - Advanced voting features like delegation.
+      - e-ID compatible in Estonia.
       { .bullet }
 
-      - Free to use, [please email us](mailto:support@citizenos.com) for onboarding and support.
+      - Free to use, [email us](mailto:support@citizenos.com) for support.
       - A ready-made platform – just log in and get started.
-      - Already in 15 languages and easy to translate.
+      - In 16 languages.
       { .bullet }
     button1st:
       title: Full list of features
@@ -164,7 +164,7 @@ blocks:
   case-study-img:
     class:
       - order-7
-      - order-sm-9
+      - order-sm-7
     text: |
       ![Many indonesians smiling, wearing World Cleanup Day shirts, walking on a beach, carrying bags full of plastic garbage.](/assets/images/product-case-study.jpeg){ .img-fluid .box-shadow }
   case-study:
@@ -184,7 +184,7 @@ blocks:
       Using the Citizen OS platform, local people can submit sustainable waste management ideas and vote for their favourites.
   stats:
     class:
-      - order-10
+      - order-9
       - text-center
       - py-5
     style:

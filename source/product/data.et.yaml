@@ -1,11 +1,11 @@
 ---
 path: /toode
 title: Toode
-description: Tasuta kaasamisplatvorm aruteludeks ja hääletusteks. Kasutage üldkoosolekute, ideekorjete, kodanikealgatuste läbiviimisel. Digiallkirjastatud hääletamisega.
+description: Free platform for discussions and voting. Use in private groups or publicly. Digitally sign in Estonia!
 keywords:
-  - asünkroonse koosoleku tarkvara
-  - üldkoosolekute läbiviimise tarkvara
-  - e-hääletus
+  - general meeting
+  - online meetings
+  - deliberation
 image: /assets/images/meta/product.jpg
 blocks:
   decision-img:
@@ -31,14 +31,14 @@ blocks:
       background-position: 10% 5%, 90% 90%
       background-size: 75px 75px, 65px 65px
     title: |
-      Ühised otsused ja kaasamine.
+      Use in your organisation or to engage citizens.
     text: |
-      Kasutage Citizen OS platvormi üldkoosolekute, asünkroonsete koosolekute, ideekorjete ja kodanikealgatuste jaoks.  Hääletada saab digiallkirjaga.
+      Discuss and vote securely. Use in private groups or publicly. Sign digitally in Estonia.
 
-      - [Mille jaoks saab platvormi kasutada?](#flexibleformat)
-      - [Funktsioonid](#features)
-      - [Juhtumiuuringud](#case-study-2)
-      - [Statistika](#stats)
+      - [Functions](#flexibleformat)
+      - [Features](#features)
+      - [Case studies](#case-study-2)
+      - [Statistics](#stats)
       { .arrow }
     button1st:
       title: Vaata demo
@@ -54,7 +54,7 @@ blocks:
       background: '#F7F7F7'
       background-image: url(/assets/images/pattern.svg)
       background-size: 38px 42px
-    label: Paindlik toode
+    #label: A flexible format
     title: |
       Mille jaoks Citizen OS platvormi kasutatakse?
     text: |
@@ -99,19 +99,19 @@ blocks:
     title: |
       Funktsioonid
     text: |
-      - Tasakaalustatud arutelud poolt- ja vastuargumentide esitamisega.
-      - Privaatsed või avalikud arutelud / hääletused.
-      - Privaatsed grupid, et pidada samade inimestega mitmeid arutelusid.
+      - Balanced debates.
+      - Private or public discussions.
+      - Private groups.
       { .bullet }
 
-      - Kohandatav ja anonüümne, tähtaegadega hääletamine.
-      - Erinevad hääletusfunktsioonid, näiteks häälte delegeerimine ja veto.
-      - Digiallkirjastatud hääletus ja sisselogimine. 
+      - Anonymous voting with deadlines.
+      - Advanced voting features like delegation.
+      - e-ID compatible in Estonia.
       { .bullet }
 
-      - Tasuta tarkvara. [Palun saatke meile e-mail](mailto:support@citizenos.com) sissejuhatava koolituse tellimiseks või kasutajatoega ühendumiseks.
-      - Kasutusvalmis platvorm – logige sisse ja hakake tööle.
-      - Juba 15 keeles ja lihtsasti tõlgitav.
+      - Free to use, [email us](mailto:support@citizenos.com) for support.
+      - A ready-made platform – just log in and get started.
+      - In 16 languages.
       { .bullet }
     button1st:
       title: Kõik funktsioonid
@@ -164,7 +164,7 @@ blocks:
   case-study-img:
     class:
       - order-7
-      - order-sm-9
+      - order-sm-7
     text: |
       ![Paljud indoneeslased naeratavad, kannavad maailma puhastuspäeva särke, jalutavad rannal ja kannavad plastprügiga täidetud kotte.](/assets/images/product-case-study.jpeg){ .img-fluid .box-shadow }
   case-study:
@@ -184,7 +184,7 @@ blocks:
       Citizen OS platvormil saavad kohalikud elanikud esitada ideid jätkusuutliku jäätmekäitlussüsteemi loomiseks ja ka oma lemmikideede poolt hääletada.
   stats:
     class:
-      - order-10
+      - order-9
       - text-center
       - py-5
     style:

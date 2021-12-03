@@ -1,0 +1,112 @@
+---
+multipage: true
+why-create-a-group:
+  path: /et/abi/yldine/miks-luua-grupp
+  data:
+    help: /et/abi/data.et.yaml
+  title: Why create a group
+  text: |
+    - **Why create a group?** Quicker sharing. All members of a group will be automatically added to any new topic created for that group. No need to send invite links or add users one-by-one.
+    - **Quicker unsharing.** By removing a user from a group, they will automatically lose access to all topics shared with that group. No need to remove them manually from each topic one-by-one.
+    - **Tidier topic management.** Having a group means that it is easier to access all topics shared with that group in one location. Think of it like a folder for topics relevant to that group.
+    - **Easier rights administration.** You can bulk edit users' rights to a topic, if those rights were received via a Group. For example, you could change the whole group’s access rights from ‘edit’ to ‘view’ in one click.
+
+    ## Related content{.mt-5}
+    - [How to create a group](/help/groups/how-to-create-a-group)
+    { .list-arrow .list-unstyled }
+how-to-create-a-group:
+  path: /et/abi/grupid/kuidas-luua-grupp
+  data:
+    help: /et/abi/data.et.yaml
+  title: How to create a group
+  text: |
+    To create a group:
+    1. In the main menu, click on “Create Group”.
+    1. Enter a name for your group.
+
+    If you wish to add an already existing topic to your group right away:
+    1. Switch to the “Add topics” tab.
+    1. Search for the name of the topic.
+
+    If you wish to invite users to your group right away:
+    1. Switch to the “Invite users” tab.
+    1. Add an optional invitation message  of up to 1000 characters (to be included in their email invite).
+    1. Invite users by adding their email addresses, or searching for their names if they already have an account.
+
+    Once you have finished, don’t forget to:
+    1. Click on “Save group”.
+
+    Once a group has been created, you can find and edit it in your “My Groups” dashboard, listed under “Groups” in the main menu.
+
+    ## Related content{.mt-5}
+    - [Why create a group?](/help/groups/why-create-a-group)
+    - [Inviting users to a group](/help/groups/inviting-users-to-a-group)
+    - Adding a topic to a group
+    - Inviting a group to a topic
+    - Changing the name of a group
+    - Deleting a group
+    { .list-arrow .list-unstyled }
+inviting-users-to-a-group:
+  path: /et/abi/grupid/kasutajate-gruppi-kutsumine
+  data:
+    help: /et/abi/data.et.yaml
+  title: Inviting users to a group
+  text: |
+    To invite users to an existing group:
+    1. In the main menu, click on “My Groups”.
+    1. Click on the name of the relevant group.
+    1. Find the “user list” heading, under the “General information” box for that group.
+    1. Click on “invite”, next to the “user list” heading.
+    1. Invite users by adding their email addresses, or searching for their names if they already have an account.
+    1. Click on “Save group”.
+
+    ## Related content{.mt-5}
+    - [How to create a group](/help/groups/how-to-create-a-group)
+    { .list-arrow .list-unstyled }
+seeing-who-has-been-invited-to-joined-a-group:
+  path: /et/abi/grupid/kuidas-vaadata-gruppi-kutsutuid-ja-liitunuid
+  data:
+    help: /et/abi/data.et.yaml
+  title: Seeing who has been invited to / joined a group
+  text: |
+    You can see who has been invited to or joined a group as follows:
+    1. Navigate to your “My Groups” dashboard via the Main Menu.
+    1. Click on the relevant group name.
+    1. Click to expand the grey “User list” bar, which is displayed underneath the “General information” box.
+    1. The list shows everyone who has been invited, and what level of access rights they have, e.g. “admin” or “read”.
+    1. If their invitation is greyed out and marked as “pending”, this means they have not yet accepted the invitation.
+
+    ## Related content{.mt-5}
+    - Checking if email invites bounced
+    - [Inviting users to a group](/help/groups/inviting-users-to-a-group)
+    { .list-arrow .list-unstyled }
+checking-if-email-invites-bounced:
+  path: /et/abi/grupid/kuidas-kontrollida-kas-kutsed-joudsid-kohale
+  data:
+    help: /et/abi/data.et.yaml
+  title: Checking if email invites bounced
+  text: |
+    It is not possible to check whether an invitation has “bounced” on the Citizen OS platform.
+
+    In the case of a group invitation having been sent to an email address that does not actually exist, the invited member will still be included in the group’s user list as “Pending”. This is because the system cannot recognise that the email invitation has bounced.
+
+    The only way to find out whether an email address you invited may have bounced is to send an email to that address yourself, and see whether you get a “mailbox error” automatic reply.
+
+    ## Related content{.mt-5}
+    - [Seeing who has been invited to / joined a group](/help/groups/seeing-who-has-been-invited-to-joined-a-group)
+    { .list-arrow .list-unstyled }
+finding-a-group-you-previously-joined-created:
+  path: /et/abi/grupid/leia-grupp-mille-tegid-liitusid
+  data:
+    help: /et/abi/data.et.yaml
+  title: Finding a group you previously joined / created
+  text: |
+    To access all groups you have previously joined or created, click on “My Groups” in the main menu.
+    Please note:
+    - Only groups for which you have already accepted the invitation will be listed. If you have been invited to but not yet joined a group, it will not show. To join the group, follow the link in the email invitation you were originally sent.
+    - If a group you have previously joined or created is not showing in the list, it may be that you are signed into the wrong Citizen OS account. If you have another Citizen OS account, try looking there. (You can only access groups using the Citizen OS account that is linked to the same email address as the one to which the original topic invitation email was sent).
+
+    ## Related content{.mt-5}
+    - [Switching accounts](/help/login/switching-accounts)
+    - [Troubleshooting “no permission to access”](/help/login/troubleshooting-no-permission-to-access)
+    { .list-arrow .list-unstyled }

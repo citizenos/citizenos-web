@@ -1,0 +1,45 @@
+---
+path: /et/abi
+data:
+  category: et/kategooria/data.et.yaml
+title: Help Center
+text: The Help Center will answer any questions you may have, and help you if you get stuck.
+links:
+  title: Quick links
+  links:
+    - 
+      title: Discussions Topic 1
+      url: /help/discussions/topic1
+    - 
+      title: General Topic 2
+      url: /help/general/topic2
+topics: Leia teema järgi
+categoryTopics: Liigu kindla teema juurde
+video: Vaata teemasid tutvustavat videot
+feedback:
+  title: Was this information helpful?
+  answerYes: true
+  answerNo: false
+negativeFeedback:
+  title: Tagasiside
+  text: Kahju kuulda, et sa ei leidnud sellest osast abi. Anna palun meile teada, mida saaksime parandada!
+  form:
+    title: Mida saaksime parandada?
+    message: Kirjuta siia...
+    email: E-posti aadress (valikuline)
+    submit: Saada
+    success: |
+      **Suur tänu tagasiside eest!**
+      Sinu abiga saame Citizen OSi veelgi paremaks muuta.
+search:
+  title: Täpsem otsing
+  placeholder: Otsi
+  url: /et/abi/otsing
+alternate:
+  title: Võid proovida ka neid võimalusi
+  request:
+    title: Saada abipalve
+    url: /et/abi/abipalve
+  feedback:
+    title: Saada meile tagasisidet
+    url: /et/abi/tagasiside

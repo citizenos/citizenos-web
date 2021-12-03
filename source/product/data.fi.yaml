@@ -1,11 +1,11 @@
 ---
 path: /tuote
 title: Tuote
-description: Maksuton osallistumisalusta keskusteluille ja äänestyksille. Käytä esimerkiksi tavallisiin kokouksiin, asynkronisiin kokouksiin, ideoiden joukkoistamiseen ja kansalaisaloitteisiin. Allekirjoita digitaalisesti Virossa.
+description: Free platform for discussions and voting. Use in private groups or publicly. Digitally sign in Estonia!
 keywords:
-  - asynkroninen kokoustyökalu
-  - tavallinen kokoustyökalu
-  - verkkoäänestys
+  - general meeting
+  - online meetings
+  - deliberation
 image: /assets/images/meta/product.jpg
 blocks:
   decision-img:
@@ -31,14 +31,14 @@ blocks:
       background-position: 10% 5%, 90% 90%
       background-size: 75px 75px, 65px 65px
     title: |
-      Kollektiiviset päätökset ja kansalaisosallistuminen.
+      Use in your organisation or to engage citizens.
     text: |
-      Käytä esimerkiksi tavallisiin kokouksiin, asynkronisiin kokouksiin, ideoiden joukkoistamiseen ja kansalaisaloitteisiin. Allekirjoita digitaalisesti Virossa.
+      Discuss and vote securely. Use in private groups or publicly. Sign digitally in Estonia.
 
-      - [Mihin Citizen OS:ää voi käyttää?](#flexibleformat)
-      - [Ominaisuudet](#features)
-      - [Tapaustutkimukset](#case-study-2)
-      - [Tilastot](#stats)
+      - [Functions](#flexibleformat)
+      - [Features](#features)
+      - [Case studies](#case-study-2)
+      - [Statistics](#stats)
       { .arrow }
     button1st:
       title: Toista demo
@@ -54,7 +54,7 @@ blocks:
       background: '#F7F7F7'
       background-image: url(/assets/images/pattern.svg)
       background-size: 38px 42px
-    label: Joustava ratkaisu
+    #label: A flexible format
     title: |
       Mihin Citizen OS:ää voi käyttää?
     text: |
@@ -99,19 +99,19 @@ blocks:
     title: |
       Ominaisuudet
     text: |
-      – Tasapainoiset keskustelut puolesta ja vastaan.
-      – Yksityiset tai julkiset keskustelut – sinä valitset.
-      – Useita keskusteluja samojen ihmisten kanssa yksityisissä ryhmissä.
+      - Balanced debates.
+      - Private or public discussions.
+      - Private groups.
       { .bullet }
 
-      – Mukautettava ja anonyymi äänestys määräaikoineen.
-      – Lisä-äänestysominaisuuksia, kuten miniäänet ja delegointi.
-      – Käytettävissä e-ID-toiminnolla – käytössä vain Virossa.
+      - Anonymous voting with deadlines.
+      - Advanced voting features like delegation.
+      - e-ID compatible in Estonia.
       { .bullet }
 
-      – Käyttö on maksutonta – saat tietoa käytön aloittamisesta sekä tukea [lähettämällä meille sähköpostia](mailto:support@citizenos.com).
-      – Käyttövalmis alusta – kirjaudu vain sisään ja aloita.
-      – Saatavilla jo 15 eri kielellä ja helppo kääntää uusille kielille.
+      - Free to use, [email us](mailto:support@citizenos.com) for support.
+      - A ready-made platform – just log in and get started.
+      - In 16 languages.
       { .bullet }
     button1st:
       title: Täysi luettelo ominaisuuksista
@@ -164,7 +164,7 @@ blocks:
   case-study-img:
     class:
       - order-7
-      - order-sm-9
+      - order-sm-7
     text: |
       ![Monet indonesialaiset pitävät hymyssä suin World Cleanup Day -paitoja, siivoavat rannoilta muoviroskaa.](/assets/images/product-case-study.jpeg){ .img-fluid .box-shadow }
   case-study:
@@ -184,7 +184,7 @@ blocks:
       Paikalliset ihmiset voivat lähettää Citizen OS -alustan avulla kestäviä jätteenkäsittelyideoita ja äänestää suosikki-ideoitaan.
   stats:
     class:
-      - order-10
+      - order-9
       - text-center
       - py-5
     style:

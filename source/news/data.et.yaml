@@ -8,6 +8,15 @@ keywords:
   -
 image: /assets/images/meta/vision.jpg
 news:
+  2021-11-15:
+    url: /news/meet-falko-blumenthal-a-civic-hacktivist
+    title: 'Falko Blumenthal: kodanikuhäktivist'
+    author: Indianna Knight
+    image: /assets/images/news/falko-blumenthal.jpg
+    categories:
+      - Citizen OS uudised
+    text: |
+      Falko Blumenthal meenutab Tallinna talvekooli kogemusi ja räägib, mis ta arvab kodanikuhäktivismist (ingl. k).
   2021-10-04:
     url: /news/meet-our-alumni-digital-change-makers
     title: Digital Change-makers - saage tuttavaks meie vilistlastega.
