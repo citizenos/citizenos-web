@@ -1,11 +1,11 @@
 ---
 path: /toode
 title: Toode
-description: Free platform for discussions and voting. Use in private groups or publicly. Digitally sign in Estonia!
+description: Tasuta kaasamisplatvorm aruteludeks ja hääletusteks. Kasuta kinnises grupis või avalikult. Digiallkirjasta!
 keywords:
-  - general meeting
-  - online meetings
-  - deliberation
+  - üldkoosolek
+  - veebikoosolekud
+  - arutelu
 image: /assets/images/meta/product.jpg
 blocks:
   decision-img:
@@ -31,9 +31,9 @@ blocks:
       background-position: 10% 5%, 90% 90%
       background-size: 75px 75px, 65px 65px
     title: |
-      Use in your organisation or to engage citizens.
+      Võta kasutusele oma organisatsioonis või kodanike kaasamiseks.
     text: |
-      Discuss and vote securely. Use in private groups or publicly. Sign digitally in Estonia.
+      Arutle ja hääleta turvaliselt. Kasuta kinnises grupis või avalikult. Digiallkirjasta.
 
       - [Functions](#flexibleformat)
       - [Features](#features)
@@ -99,19 +99,19 @@ blocks:
     title: |
       Funktsioonid
     text: |
-      - Balanced debates.
-      - Private or public discussions.
-      - Private groups.
+      - Tasakaalustatud arutelud.
+      - Kinnised või avalikud arutelud.
+      - Kinnised grupid.
       { .bullet }
 
-      - Anonymous voting with deadlines.
-      - Advanced voting features like delegation.
-      - e-ID compatible in Estonia.
+      - Anonüümne, kindlate tähtaegadega hääletamine.
+      - Erinevad hääletusfunktsioonid, näiteks häälte delegeerimine.
+      - Ühildub e-ID-ga.
       { .bullet }
 
-      - Free to use, [email us](mailto:support@citizenos.com) for support.
-      - A ready-made platform – just log in and get started.
-      - In 16 languages.
+      - Tasuta tarkvara, [saada e-kiri](mailto:support@citizenos.com) kasutajatoele.
+      - Kasutusvalmis platvorm – logi sisse ja hakka tööle.
+      - 16 keeles.
       { .bullet }
     button1st:
       title: Kõik funktsioonid

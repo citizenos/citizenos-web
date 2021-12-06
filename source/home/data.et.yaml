@@ -1,17 +1,17 @@
 ---
 path: /
-description: Citizen OS Foundation is a not-for-profit organisation providing a free decision-making platform.
+description: Sihtasutus Citizen OS on sotsiaalne ettevõte, mis pakub ja arendab tasuta otsustusplatvormi.
 keywords:
-  - community action
-  - e-democracy
-  - free civic tech
+  - kogukonna tegevus
+  - e-demokraatia
+  - tasuta kodanikutehnoloogia
 image: /assets/images/meta/home-alt.jpg
 data:
   news: /news/data.en.yaml
 header:
-  title: A free decision-making platform
+  title: Tasuta otsustusplatvorm
   text: |
-    Discuss and vote publicly or privately.
+    Arutle ja hääleta privaatses grupis või avalikult.
   video:
     title: Sissejuhatus
     url: https://www.youtube.com/embed/hDLWbQQAk8g?rel=0&showinfo=0&modestbranding=1&autoplay=1&cc_load_policy=1&cc_lang_pref=et
@@ -47,9 +47,9 @@ blocks:
     title: |
       Võta kasutusele oma organisatsioonis.
     text: |
-      Crowdsource ideas, discuss and vote on decisions.
+      Korralda ideekorjeid, arutle ja hääleta.
     button1st:
-      title: Our platform
+      title: Meie platvorm
       url: /et/toode/
   democracy-img:
     class:
@@ -74,7 +74,7 @@ blocks:
     title: |
       Osalusdemokraatia tulevik.
     text: |
-      We believe in a democracy where all citizens have a say in decisions that affect them.
+      Usume demokraatiasse, mis annab kõigile kodanikele õiguse neid mõjutavates otsustes sõna sekka öelda.
     button1st:
       title: Meie projektid
       url: /et/projektid/

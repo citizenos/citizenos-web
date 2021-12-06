@@ -18,8 +18,8 @@ categoryTopics: Liigu kindla teema juurde
 video: Vaata teemasid tutvustavat videot
 feedback:
   title: Was this information helpful?
-  answerYes: true
-  answerNo: false
+  answerYes: Yes
+  answerNo: No
 negativeFeedback:
   title: Tagasiside
   text: Kahju kuulda, et sa ei leidnud sellest osast abi. Anna palun meile teada, mida saaksime parandada!
