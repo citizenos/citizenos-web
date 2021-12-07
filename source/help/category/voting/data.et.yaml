@@ -41,7 +41,7 @@ why-admins-cant-see-who-has-voted-while-a-vote-is-in-progress:
 why-voting-is-not-fully-anonymous:
   path: /et/abi/haaletamine/miks-haaletamine-ei-ole-taiesti-anonyymne
   data:
-    help: /et/abi/data.et.yaml
+    help: /help/data.et.yaml
   title: Why voting is not fully anonymous
   text: |
     When the voting period ends, the admin(s) of a topic can download a summary report with the voting results and voter details. The voter details will show as their Citizen OS username or personal ID (name and ID number), depending on how the vote was cast (with or without e-ID).
