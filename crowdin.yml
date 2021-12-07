@@ -1,3 +1,10 @@
+base_path: .
+export_languages:
+  - et
+  - fi
+  - fr
+  - ru
+  - id
 files:
   -
     source: /source/**/*.en.yaml
