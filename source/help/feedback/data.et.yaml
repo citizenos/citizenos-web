@@ -1,7 +1,7 @@
 ---
 path: /et/abi/tagasiside/
 data:
-  help: /et/abi/data.et.yaml
+  help: /help/data.et.yaml
 title: Saada meile tagasisidet
 text: Want to let us know your thoughts or share some comments, good or bad? We’re always happy to receive your feedback.
 form:
