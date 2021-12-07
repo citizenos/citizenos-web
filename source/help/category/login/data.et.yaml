@@ -3,7 +3,7 @@ multipage: true
 troubleshooting-no-permission-to-access:
   path: /et/abi/sisselogimine/kui-ligipaas-ei-toimi
   data:
-    help: /et/abi/data.et.yaml
+    help: /help/data.et.yaml
   title: Troubleshooting “no permission to access”
   text: |
     **Private topics and groups can only be accessed using a Citizen OS account which is registered with the same email address to which the original invitation was sent.**
@@ -27,7 +27,7 @@ troubleshooting-no-permission-to-access:
 switching-accounts:
   path: /et/abi/sisselogimine/kontode-vahetamine
   data:
-    help: /et/abi/data.et.yaml
+    help: /help/data.et.yaml
   title: Switching accounts
   text: |
     To switch to a different Citizen OS account, you simply need to “Log out” (at the bottom of the main menu), then log back in using the relevant login details.
@@ -40,7 +40,7 @@ switching-accounts:
 logging-in-using-e-id-estonia-only:
   path: /et/abi/sisselogimine/sisenemine-eesti-idkaardiga
   data:
-    help: /et/abi/data.et.yaml
+    help: /help/data.et.yaml
   title: Logging in using e-ID (Estonia only)
   text: |
     The option to log in with your ID-card/Mobile ID (applicable to Estonian ID-cards) will only appear if:
