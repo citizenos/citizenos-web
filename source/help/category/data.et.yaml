@@ -3,7 +3,7 @@ multipage: true
 general:
   path: /et/abi/yldine
   data:
-    help: /et/abi/data.et.yaml
+    help: /help/data.et.yaml
     topics: et/yldine/data.et.yaml
   title: Üldine
   icon: üldine
@@ -15,7 +15,7 @@ general:
 login:
   path: /et/abi/sisselogimine
   data:
-    help: /et/abi/data.et.yaml
+    help: /help/data.et.yaml
     topics: et/sisselogimine/data.et.yaml
   title: Sisselogimine
   icon: sisselogimine
@@ -27,7 +27,7 @@ login:
 groups:
   path: et/abi/grupid
   data:
-    help: /et/abi/data.et.yaml
+    help: /help/data.et.yaml
     topics: et/grupid/data.et.yaml
   title: Grupid
   icon: grupid
@@ -39,7 +39,7 @@ groups:
 topics:
   path: /et/abi/teemad
   data:
-    help: /et/abi/data.et.yaml
+    help: /help/data.et.yaml
     topics: et/teemad/data.et.yaml
   title: Teemad
   icon: teemad
@@ -51,7 +51,7 @@ topics:
 discussions:
   path: /et/abi/arutelud
   data:
-    help: /et/abi/data.et.yaml
+    help: /help/data.et.yaml
     topics: et/arutelud/data.et.yaml
   title: Arutelud
   icon: arutelud
@@ -63,7 +63,7 @@ discussions:
 voting:
   path: /et/abi/haaletamine
   data:
-    help: /et/abi/data.et.yaml
+    help: /help/data.et.yaml
     topics: et/haaletamine/data.et.yaml
   title: Hääletamine
   icon: hääletused
@@ -75,7 +75,7 @@ voting:
 follow-up:
   path: et/abi/elluviimine
   data:
-    help: /et/abi/data.et.yaml
+    help: /help/data.et.yaml
     topics: et/elluviimine/data.et.yaml
   title: Otsuse elluviimine
   icon: follow-up
