@@ -1,11 +1,11 @@
 ---
 path: /tuote
 title: Tuote
-description: Free platform for discussions and voting. Use in private groups or publicly. Digitally sign in Estonia!
+description: Maksuton keskustelu- ja äänestysalusta. Käytä yksityisissä ryhmissä tai julkisesti. Allekirjoita digitaalisesti Virossa!
 keywords:
-  - general meeting
-  - online meetings
-  - deliberation
+  - yhtiökokous
+  - verkkokokous
+  - keskustelu
 image: /assets/images/meta/product.jpg
 blocks:
   decision-img:
@@ -31,14 +31,14 @@ blocks:
       background-position: 10% 5%, 90% 90%
       background-size: 75px 75px, 65px 65px
     title: |
-      Use in your organisation or to engage citizens.
+      Käytä organisaatiosi sisällä tai kansalaisosallistumishankkeisiin.
     text: |
-      Discuss and vote securely. Use in private groups or publicly. Sign digitally in Estonia.
+      Keskustele ja äänestä turvallisesti. Käytä yksityisissä ryhmissä tai julkisesti. Allekirjoita digitaalisesti Virossa.
 
-      - [Functions](#flexibleformat)
-      - [Features](#features)
-      - [Case studies](#case-study-2)
-      - [Statistics](#stats)
+      – [Toiminnot](#joustavaformaatti)
+      – [Ominaisuudet](#ominaisuudet)
+      – [Tapaustutkimukset](#tapaustutkimus-2)
+      – [Tilastot](#tilastot)
       { .arrow }
     button1st:
       title: Toista demo
@@ -99,19 +99,19 @@ blocks:
     title: |
       Ominaisuudet
     text: |
-      - Balanced debates.
-      - Private or public discussions.
-      - Private groups.
+      – Tasapainoiset keskustelut
+      – Yksityiset tai julkiset keskustelut
+      – Yksityiset ryhmät
       { .bullet }
 
-      - Anonymous voting with deadlines.
-      - Advanced voting features like delegation.
-      - e-ID compatible in Estonia.
+      – Anonyymi äänestys määräaikoineen
+      – Lisä-äänestysominaisuuksia, kuten delegointi
+      – Käytettävissä e-ID-toiminnolla Virossa
       { .bullet }
 
-      - Free to use, [email us](mailto:support@citizenos.com) for support.
-      - A ready-made platform – just log in and get started.
-      - In 16 languages.
+      – Käyttö on maksutonta – saat tukea [lähettämällä meille sähköpostia](mailto:support@citizenos.com)
+      – Käyttövalmis alusta – kirjaudu vain sisään ja aloita
+      – Saatavilla jo 16 eri kielellä
       { .bullet }
     button1st:
       title: Täysi luettelo ominaisuuksista
