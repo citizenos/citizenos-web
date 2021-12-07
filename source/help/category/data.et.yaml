@@ -4,7 +4,7 @@ general:
   path: /et/abi/yldine
   data:
     help: /help/data.et.yaml
-    topics: et/yldine/data.et.yaml
+    topics: general/data.et.yaml
   title: Üldine
   icon: üldine
   video:
@@ -16,7 +16,7 @@ login:
   path: /et/abi/sisselogimine
   data:
     help: /help/data.et.yaml
-    topics: et/sisselogimine/data.et.yaml
+    topics: login/data.et.yaml
   title: Sisselogimine
   icon: sisselogimine
   video:
