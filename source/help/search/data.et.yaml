@@ -1,7 +1,7 @@
 ---
 path: /et/abi/otsing
 data:
-  help: /et/abi/data.et.yaml
+  help: /help/data.et.yaml
   category: ../et/kategooria/data.et.yaml
   category-general: ../et/kategooria/yldine/data.et.yaml
   category-login: ../et/kategooria/sisselogimine/data.et.yaml
