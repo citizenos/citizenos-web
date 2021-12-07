@@ -45,11 +45,11 @@ blocks:
       background-position: 0% 25%
       background-size: 360px 360px
     title: |
-      Set it up in your organisation.
+      Persiapkan di dalam organisasi Anda.
     text: |
-      Crowdsource ideas, discuss and vote on decisions.
+      Urun dayakan ide, diskusikan dan gunakan hak pilih untuk mengambil keputusan.
     button1st:
-      title: Our platform
+      title: Platform kami
       url: /id/produk/
   democracy-img:
     class:
@@ -60,7 +60,7 @@ blocks:
       background-position: 30% 25%, 20% 75%
       background-size: 360px 360px, 100px 100px
     text: |
-      ![People sitting in circles, discussing.](/assets/images/vision-start.png){ .img-fluid }
+      ![Orang duduk melingkar, sedang berdiskusi.](/assets/images/vision-start.png){ .img-fluid }
   democracy:
     class:
       - order-4
@@ -74,7 +74,7 @@ blocks:
     title: |
       Masa depan partisipatoris.
     text: |
-      We believe in a democracy where all citizens have a say in decisions that affect them.
+      Kami percaya pada demokrasi, ketika semua warga memiliki hak berpendapat dalam keputusan yang memengaruhi mereka.
     button1st:
       title: Proyek Kami
       url: /id/proyek/
