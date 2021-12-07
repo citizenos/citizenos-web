@@ -1,7 +1,7 @@
 ---
 path: /et/abi/abipalve/
 data:
-  help: /et/abi/data.et.yaml
+  help: /help/data.et.yaml
 title: Request Help
 text: If our Help Center couldn’t help you then please let us know what problem you’re facing and we’ll get back to you.
 form:
