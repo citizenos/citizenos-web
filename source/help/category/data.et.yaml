@@ -28,7 +28,7 @@ groups:
   path: et/abi/grupid
   data:
     help: /help/data.et.yaml
-    topics: et/grupid/data.et.yaml
+    topics: groups/data.et.yaml
   title: Grupid
   icon: grupid
   video:
@@ -40,7 +40,7 @@ topics:
   path: /et/abi/teemad
   data:
     help: /help/data.et.yaml
-    topics: et/teemad/data.et.yaml
+    topics: topics/data.et.yaml
   title: Teemad
   icon: teemad
   video:
@@ -52,7 +52,7 @@ discussions:
   path: /et/abi/arutelud
   data:
     help: /help/data.et.yaml
-    topics: et/arutelud/data.et.yaml
+    topics: discussions/data.et.yaml
   title: Arutelud
   icon: arutelud
   video:
@@ -64,7 +64,7 @@ voting:
   path: /et/abi/haaletamine
   data:
     help: /help/data.et.yaml
-    topics: et/haaletamine/data.et.yaml
+    topics: voting/data.et.yaml
   title: Hääletamine
   icon: hääletused
   video:
@@ -76,7 +76,7 @@ follow-up:
   path: et/abi/elluviimine
   data:
     help: /help/data.et.yaml
-    topics: et/elluviimine/data.et.yaml
+    topics: follow-up/data.et.yaml
   title: Otsuse elluviimine
   icon: follow-up
   video:
