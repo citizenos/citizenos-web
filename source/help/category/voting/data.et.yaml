@@ -3,7 +3,7 @@ multipage: true
 seeing-how-many-people-have-voted-so-far:
   path: /et/abi/haaletamine/vaatamine-kui-paljud-on-seni-haaletanud
   data:
-    help: /et/abi/data.et.yaml
+    help: /help/data.et.yaml
   title: Seeing how many people have voted so far
   text: |
     Anyone can see how many people have voted, both during and after the vote. This is displayed as an anonymous numerical result.
@@ -22,7 +22,7 @@ seeing-how-many-people-have-voted-so-far:
 why-admins-cant-see-who-has-voted-while-a-vote-is-in-progress:
   path: /et/abi/haaletamine/miks-adminnid-ei-saa-haaletamise-ajal-vaadata-kes-on-haaletanud
   data:
-    help: /et/abi/data.et.yaml
+    help: /help/data.et.yaml
   title: Why admins can’t see who has voted while a vote is in progress
   text: |
     The admin(s) of a topic can see who has voted, but only once the voting period has ended. It is not possible to see who has voted while a vote is still running.
@@ -41,7 +41,7 @@ why-admins-cant-see-who-has-voted-while-a-vote-is-in-progress:
 why-voting-is-not-fully-anonymous:
   path: /et/abi/haaletamine/miks-haaletamine-ei-ole-taiesti-anonyymne
   data:
-    help: /et/abi/data.et.yaml
+    help: /help/data.et.yaml
   title: Why voting is not fully anonymous
   text: |
     When the voting period ends, the admin(s) of a topic can download a summary report with the voting results and voter details. The voter details will show as their Citizen OS username or personal ID (name and ID number), depending on how the vote was cast (with or without e-ID).
@@ -50,7 +50,7 @@ why-voting-is-not-fully-anonymous:
 delegating-your-vote:
   path: /et/abi/haaletamine/volitamine-haaletamisel
   data:
-    help: /et/abi/data.et.yaml
+    help: /help/data.et.yaml
   title: Delegating your vote
   text: |
     It is possible to delegate your vote to someone else who is a member of the same topic. This means that however the person you delegated to votes, the same vote will be cast in your name too. The delegated person won’t be aware that you have delegated your vote to them, unless you tell them yourself.
@@ -69,7 +69,7 @@ delegating-your-vote:
 submitting-signatures-to-the-ariregister-riigikogu-local-government-estonia-only:
   path: /et/abi/haaletamine/allkirjade-edastamine-eestis-ariregistrile-riigikogule-omavalitsusele
   data:
-    help: /et/abi/data.et.yaml
+    help: /help/data.et.yaml
   title: Submitting signatures to the Äriregister / Riigikogu / local government (Estonia only)
   text: |
     **When submitting to the Äriregister, the option “Machine-readable file (Äriregister)” should be selected when downloading the signature files.** The entire BDOC container should then be submitted to the Commercial Register. This folder does not include a CSV file, as the Äriregister does not accept BDOC folders that contain these.
