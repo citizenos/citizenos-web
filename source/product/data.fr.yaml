@@ -1,11 +1,11 @@
 ---
 path: /produit
 title: Produit
-description: Free platform for discussions and voting. Use in private groups or publicly. Digitally sign in Estonia!
+description: Une plateforme gratuite pour les discussions et les votes. Utilisez-la dans des groupes privés ou publiquement. Signez numériquement en Estonie !
 keywords:
-  - general meeting
-  - online meetings
-  - deliberation
+  - réunion générale
+  - réunions en ligne
+  - délibération
 image: /assets/images/meta/product.jpg
 blocks:
   decision-img:
@@ -31,14 +31,14 @@ blocks:
       background-position: 10% 5%, 90% 90%
       background-size: 75px 75px, 65px 65px
     title: |
-      Use in your organisation or to engage citizens.
+      Utilisez dans votre organisation ou pour faire participer les citoyens.
     text: |
-      Discuss and vote securely. Use in private groups or publicly. Sign digitally in Estonia.
+      Discutez et votez en toute sécurité. Utilisez dans des groupes privés ou publiquement. Signer numériquement en Estonie.
 
-      - [Functions](#flexibleformat)
-      - [Features](#features)
-      - [Case studies](#case-study-2)
-      - [Statistics](#stats)
+      - [Fonctions](#flexibleformat)
+      - [Fonctionnalités](#features)
+      - [Cas d'étude](#case-study-2)
+      - [Statistiques](#stats)
       { .arrow }
     button1st:
       title: Regarder la démo
@@ -99,19 +99,19 @@ blocks:
     title: |
       Fonctionnalités
     text: |
-      - Balanced debates.
-      - Private or public discussions.
-      - Private groups.
+      - Débats équilibrés.
+      - Discussions privées ou publiques.
+      - Groupes privés.
       { .bullet }
 
-      - Anonymous voting with deadlines.
-      - Advanced voting features like delegation.
-      - e-ID compatible in Estonia.
+      - Vote anonyme avec échéance.
+      - Fonctions de vote avancées comme la délégation.
+      - Compatible avec l'e-ID en Estonie.
       { .bullet }
 
-      - Free to use, [email us](mailto:support@citizenos.com) for support.
-      - A ready-made platform – just log in and get started.
-      - In 16 languages.
+      - Utilisation gratuite, [contactez-nous par e-mail](mailto:support@citizenos.com) pour bénéficier d'une assistance.
+      - Une plateforme prête à l'emploi - il suffit de se connecter et de commencer.
+      - En 16 langues.
       { .bullet }
     button1st:
       title: Liste complète des fonctionnalités
