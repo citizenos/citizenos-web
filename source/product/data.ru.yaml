@@ -1,11 +1,11 @@
 ---
 path: /produkt
 title: Продукт
-description: Free platform for discussions and voting. Use in private groups or publicly. Digitally sign in Estonia!
+description: Бесплатная платформа для обсуждения и голосования. Используйте в частных группах или публично. Цифровые подписи Эстонии!
 keywords:
-  - general meeting
+  - общие встречи
   - онлайн-встречи
-  - deliberation
+  - обсуждение
 image: /assets/images/meta/product.jpg
 blocks:
   decision-img:
@@ -31,14 +31,14 @@ blocks:
       background-position: 10% 5%, 90% 90%
       background-size: 75px 75px, 65px 65px
     title: |
-      Use in your organisation or to engage citizens.
+      Используйте в своей организации или для привлечения граждан.
     text: |
-      Discuss and vote securely. Use in private groups or publicly. Sign digitally in Estonia.
+      Защищенные обсуждения и голосования. Используйте в частных группах или публично. Цифровые подписи Эстонии.
 
-      - [Functions](#flexibleformat)
-      - [Features](#features)
-      - [Case studies](#case-study-2)
-      - [Statistics](#stats)
+      - [Функции] (#flexibleformat)
+      - [Особенности] (#features)
+      - [Тематические исследования](#case-study-2)
+      - [Статистика] (#stats)
       { .arrow }
     button1st:
       title: Воспроизвести демо-видео
@@ -99,19 +99,19 @@ blocks:
     title: |
       Особенности
     text: |
-      - Balanced debates.
-      - Private or public discussions.
-      - Private groups.
+      - Взвешенные дебаты.
+      - Частные или публичные обсуждения.
+      - Частные группы.
       { .bullet }
 
-      - Anonymous voting with deadlines.
-      - Advanced voting features like delegation.
-      - e-ID compatible in Estonia.
+      - Анонимное голосование с указанием сроков.
+      - Расширенные функции голосования, такие как делегирование.
+      - Совместимость с e-ID в Эстонии.
       { .bullet }
 
-      - Free to use, [email us](mailto:support@citizenos.com) for support.
-      - A ready-made platform – just log in and get started.
-      - In 16 languages.
+      - Бесплатное использование, [напишите нам](mailto: support@citizenos.com) для получения поддержки.
+      - Готовая платформа — просто авторизуйтесь и приступайте к работе.
+      - 16 языков.
       { .bullet }
     button1st:
       title: Все особенности
