@@ -1,15 +1,15 @@
 ---
 path: /
-description: Citizen OS Foundation is a not-for-profit organisation providing a free decision-making platform.
+description: Фонд Citizen OS — некоммерческая организация, предоставляющая бесплатную платформу для принятия решений.
 keywords:
-  - community action
-  - e-democracy
+  - действия сообщества
+  - электронная демократия
   - бесплатная гражданская технология
 image: /assets/images/meta/home-alt.jpg
 data:
   news: /news/data.en.yaml
 header:
-  title: A free decision-making platform
+  title: Бесплатная платформа для принятия решений
   text: |
     Discuss and vote publicly or privately.
   video:
