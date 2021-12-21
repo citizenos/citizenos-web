@@ -105,6 +105,9 @@ finding-a-group-you-previously-joined-created:
   title: Finding a group you previously joined / created
   text: |
     To access all groups you have previously joined or created, click on “My Groups” in the main menu.
+
+    ![Screenshot of the platform.](/assets/images/help/mygroups.png)
+
     Please note:
     - Only groups for which you have already accepted the invitation will be listed. If you have been invited to but not yet joined a group, it will not show. To join the group, follow the link in the email invitation you were originally sent.
     - If a group you have previously joined or created is not showing in the list, it may be that you are signed into the wrong Citizen OS account. If you have another Citizen OS account, try looking there. (You can only access groups using the Citizen OS account that is linked to the same email address as the one to which the original topic invitation email was sent).
@@ -112,4 +115,33 @@ finding-a-group-you-previously-joined-created:
     ## Related content{.mt-5}
     - [Switching accounts](/help/login/switching-accounts)
     - [Troubleshooting “no permission to access”](/help/login/troubleshooting-no-permission-to-access)
+    { .list-arrow .list-unstyled }
+inviting-a-group-to-a-topic:
+  path: /help/groups/inviting-a-group-to-a-topic
+  data:
+    help: /help/data.en.yaml
+  title: Inviting a group to a topic
+  text: |
+    By inviting a group to a topic, all members of the group will be invited to join. It also means that the topic will show up under the relevant group name in the “My Groups” dashboard.
+    There are two ways to do this:
+    **Either**
+    1. Go into the relevant topic.
+    1. Click on “invite users” in the “Options” menu. (Top right on desktop, or in the options menu tab on mobile).
+    1. Type the name of the relevant group and select it when it appears.
+    1. Choose the access rights you would like to give to members of that group, from the dropdown list.
+    1. Click “Save topic and send invite”.
+
+    **Or**
+
+    1. In the “My Topics” dashboard, find the relevant topic and select it.
+    1. Navigate to the grey “Group list” bar, displayed underneath the “General information” box on the dashboard.
+    1. Click on “add”.
+    1. In the pop-up window, search for the name of the relevant group and select it when it appears.
+    1. Choose the access rights you would like to give to members of that group, from the dropdown list.
+    1. Click “Save topic and send invite”.
+
+    ## Related content{.mt-5}
+    - [How to create a group](/help/groups/how-to-create-a-group)
+    - [Why create a group](/help/groups/why-create-a-group)
+    - [Inviting users to a group](/help/groups/invite-users-to-a-group)
     { .list-arrow .list-unstyled }
