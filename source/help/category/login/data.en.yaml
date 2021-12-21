@@ -35,9 +35,9 @@ switching-accounts:
 
         If you are unsure which account you are currently logged in to, you can check this in “My Account” next to your profile avatar.
 
-        ## Related content{.mt-5}
-        - [Troubleshooting “no permission to access”](/help/login/troubleshooting-no-permission-to-access)
-        { .list-arrow .list-unstyled }
+#        ## Related content{.mt-5}
+#        - [Troubleshooting “no permission to access”](/help/login/troubleshooting-no-permission-to-access)
+#        { .list-arrow .list-unstyled }
 
 logging-in-using-e-id-estonia-only:
     path: /help/login/logging-in-using-e-id-estonia-only
