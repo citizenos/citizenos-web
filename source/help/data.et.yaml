@@ -2,10 +2,10 @@
 path: /et/abi
 data:
   category: category/data.et.yaml
-title: Help Center
-text: The Help Center will answer any questions you may have, and help you if you get stuck.
+title: Abikeskus
+text: Abikeskusest leiad oma küsimustele vastused ja saad abi, kui peaksid hätta jääma.
 links:
-  title: Quick links
+  title: Kiirviited
   links:
     - 
       title: Discussions Topic 1
@@ -17,7 +17,7 @@ topics: Leia teema järgi
 categoryTopics: Liigu kindla teema juurde
 #video: Watch the Topics Introduction video
 feedback:
-  title: Was this information helpful?
+  title: Kas see info oli abiks?
   answerYes: Yes
   answerNo: No
 negativeFeedback:
