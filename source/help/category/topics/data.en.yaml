@@ -10,6 +10,8 @@ creating-a-new-topic:
 
         Any changes you make to the topic will be automatically saved, and the topic will automatically appear in your “My topics” dashboard from now on.
 
+        ![Screenshot of the platform.](/assets/images/help/createtopic.png)
+
         ## Related content{.mt-5}
         - [Inviting users to a topic](/help/topics/inviting-users-to-a-topic)
         - [Making a topic public or private](/help/topics/making-a-topic-public-or-private)
@@ -18,17 +20,34 @@ creating-a-new-topic:
         - [Attaching files to a topic](/help/topics/attaching-files-to-a-topic)
         { .list-arrow .list-unstyled }
 
-finding-a-topic-you-previously-joined-created:
-    path: /help/topics/finding-a-topic-you-previously-joined-created
+finding-a-topic-you-are-participating-in:
+    path: /help/topics/finding-a-topic-you-are-participating-in
     data:
         help: /help/data.en.yaml
-    title: Finding a topic you previously joined / created
+    title: Finding a topic you are participating in
     text: |
-        To access all topics you have previously joined or created, click on “My Topics” in the main menu.
+        The way in which you find a topic will depend on whether you have previously joined it or not.
 
-        Please note:
-        - Only topics for which you have already accepted the invitation will be listed. If you have been invited to but not yet joined a topic, it will not show. To join the topic, follow the link in the email invitation you were originally sent.
-        - If a topic you have previously joined or created is not showing in the list, it may be that you are signed into the wrong Citizen OS account. If you have another Citizen OS account, try looking there. (You can only access topics using the Citizen OS account that is linked to the same email address as the one to which the original topic invitation email was sent).
+        **If you have not previously joined the topic:**
+        1. Click on the link in the invitation email you have been sent.
+        2. Log in using the same email address as the invitation email was sent to.
+        3. You will be directed to the topic, and have now joined it.
+        4. From now on, it will appear in your “My Topics” dashboard.
+
+        ![Screenshot of the platform.](/assets/images/help/mytopics.png)
+
+        **If you have previously joined the topic:**
+        1. Click on “My Topics” in the main menu to go to your My Topics dashboard.
+        2. Use the search bar or filters at the top to find the relevant topic.
+        3. If a group you are a member of has been invited to the topic, you can also find the topic listed under the relevant group name in your “My Groups” dashboard.
+
+        **Please note:**
+        - If a topic you have previously joined or created is not showing in your "My Topics" list, it may be that you are signed into the wrong Citizen OS account. If you have another Citizen OS account, try looking there. (You can only access topics using the Citizen OS account that is linked to the same email address as the one to which the original topic invitation email was sent).
+
+        ## Related content{.mt-5}
+        - [Switching accounts](/help/topics/switching-accounts)
+        - [Troubleshooting “no permission to access”](/help/topics/troubleshooting-no-permission-to-access)
+        { .list-arrow .list-unstyled }
 
 seeing-who-has-been-invited-to-joined-a-topic:
     path: /help/topics/seeing-who-has-been-invited-to-joined-a-topic
