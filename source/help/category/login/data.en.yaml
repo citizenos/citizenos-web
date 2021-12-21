@@ -22,8 +22,8 @@ troubleshooting-no-permission-to-access:
 
         ## Related content{.mt-5}
         - [Switching between accounts](/help/login/switching-accounts)
-        - Trouble-shooting login issues
-        { .list-arrow .list-unstyled }
+#        - Trouble-shooting login issues
+#        { .list-arrow .list-unstyled }
 
 switching-accounts:
     path: /help/login/switching-accounts
