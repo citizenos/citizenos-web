@@ -22,8 +22,8 @@ troubleshooting-no-permission-to-access:
 
     ## Related content{.mt-5}
     - [Switching between accounts](/help/login/switching-accounts)
-    - Trouble-shooting login issues
-    { .list-arrow .list-unstyled }
+#- Trouble-shooting login issues
+#{ .list-arrow .list-unstyled }
 switching-accounts:
   path: /et/abi/sisselogimine/kontode-vahetamine
   data:
@@ -33,10 +33,9 @@ switching-accounts:
     To switch to a different Citizen OS account, you simply need to “Log out” (at the bottom of the main menu), then log back in using the relevant login details.
 
     If you are unsure which account you are currently logged in to, you can check this in “My Account” next to your profile avatar.
-
-    ## Related content{.mt-5}
-    - [Troubleshooting “no permission to access”](/help/login/troubleshooting-no-permission-to-access)
-    { .list-arrow .list-unstyled }
+### Related content{.mt-5}
+#- [Troubleshooting “no permission to access”](/help/login/troubleshooting-no-permission-to-access)
+#{ .list-arrow .list-unstyled }
 logging-in-using-e-id-estonia-only:
   path: /et/abi/sisselogimine/sisenemine-eesti-idkaardiga
   data:
