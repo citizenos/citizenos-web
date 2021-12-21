@@ -45,7 +45,7 @@ topics:
   icon: teemad
   video:
     url:
-    poster: /assets/images/help/general.png
+    poster: /assets/images/help/topic.png
   text: |
     A Citizen OS “Topic” is the space in which discussion and voting on a particular subject takes place. In a topic, you can co-create a topic text, discuss the pros and cons, and vote on it. Topics can be public or private.
 
