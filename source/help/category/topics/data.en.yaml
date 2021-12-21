@@ -30,16 +30,16 @@ finding-a-topic-you-are-participating-in:
 
         **If you have not previously joined the topic:**
         1. Click on the link in the invitation email you have been sent.
-        2. Log in using the same email address as the invitation email was sent to.
-        3. You will be directed to the topic, and have now joined it.
-        4. From now on, it will appear in your “My Topics” dashboard.
+        1. Log in using the same email address as the invitation email was sent to.
+        1. You will be directed to the topic, and have now joined it.
+        1. From now on, it will appear in your “My Topics” dashboard.
 
         ![Screenshot of the platform.](/assets/images/help/mytopics.png)
 
         **If you have previously joined the topic:**
         1. Click on “My Topics” in the main menu to go to your My Topics dashboard.
-        2. Use the search bar or filters at the top to find the relevant topic.
-        3. If a group you are a member of has been invited to the topic, you can also find the topic listed under the relevant group name in your “My Groups” dashboard.
+        1. Use the search bar or filters at the top to find the relevant topic.
+        1. If a group you are a member of has been invited to the topic, you can also find the topic listed under the relevant group name in your “My Groups” dashboard.
 
         **Please note:**
         - If a topic you have previously joined or created is not showing in your "My Topics" list, it may be that you are signed into the wrong Citizen OS account. If you have another Citizen OS account, try looking there. (You can only access topics using the Citizen OS account that is linked to the same email address as the one to which the original topic invitation email was sent).
@@ -130,3 +130,36 @@ adding-footnotes-to-a-topic-text:
         You can add footnotes by clicking on the footnotes button in the centre of the text editor toolbar (above the topic text), while in edit mode. The footnotes button is in the form of an asterisk: *
 
         Be sure to place your cursor at the point in the text in which you want the footnote to appear, before clicking on the button.
+
+inviting-users-to-a-topic:
+    path: /help/topics/inviting-users-to-a-topic
+    data:
+        help: /help/data.en.yaml
+    title: Inviting users to a topic
+    text: |
+        There are several different ways to invite individual users to participate in a topic.
+
+        **Inviting via share link, QR code or social media:**
+        1. Go into the relevant topic.
+        1. Click on “invite users” in the “Options” menu. (Top right on desktop, or in the options menu tab on mobile).
+        1. In the “Share” tab of the pop-up window, select the access rights that you wish to give to those you are inviting, using the dropdown dox. (This will set the access rights for all three sharing options - URL, QR or social).
+        1. Copy the share link or QR code and send this to those you wish to invite, or share via the social media buttons.
+        1. Close the window.
+
+
+        ![Screenshot of the platform.](/assets/images/help/inviteusers.png)
+
+        **Inviting via email:**
+        1. Go into the relevant topic.
+        1. Click on “invite users” in the “Options” menu. (Top right on desktop, or in the options menu tab on mobile).
+        1. In the “Invite” tab, enter the usernames or email addresses of the users you wish to add.
+        1. When they appear in the list, choose the access rights you would like to give them, from the dropdown list.
+        1. Click “Save topic and send invite”.
+
+        You can also access the same “share/invite” pop-up window via the “My Topics” Dashboard. Click on “invite” in the “user list” bar, displayed underneath the “General information” box of the relevant topic.
+
+        ## Related content{.mt-5}
+        - [Inviting a group to a topic](/help/topics/inviting-a-group-to-a-topic)
+        - [Seeing who has been invited to / joined a topic](/help/topics/seeing-who-has-been-invited-to-joined-a-topic)
+        - [Checking if email invites bounced](/help/topics/checking-if-email-invites-bounced)
+        { .list-arrow .list-unstyled }
