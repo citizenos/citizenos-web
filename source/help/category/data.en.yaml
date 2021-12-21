@@ -35,7 +35,7 @@ groups:
     icon: groups
     video:
         url:
-        poster: /assets/images/help/mygroups.png
+        poster: /assets/images/help/mygroups-landscape.png
     text: |
         Groups are groups of users. They are useful if you will be making decisions with the same group of people (such as a team, community or organisation) on multiple occasions. [The benefits of a group](/help/groups/why-create-a-group) include quicker sharing or unsharing of topics, a group folder containing all topics shared to those users, and easier rights administration.
 
