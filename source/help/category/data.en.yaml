@@ -9,7 +9,7 @@ general:
     icon: general
     video:
         url:
-        poster: /assets/images/meta/faq.jpg
+        poster: /assets/images/help/general.png
     text: |
         **Citizen OS is a free platform for remote, asynchronous, collective decision-making.** Co-create a topic, discuss it, vote on it, then follow-up on it afterwards. Available worldwide, with e-ID signature functionality in Estonia.
 
