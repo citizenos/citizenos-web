@@ -80,8 +80,10 @@ seeing-who-has-been-invited-to-joined-a-group:
         1. The list shows everyone who has been invited, and what level of access rights they have, e.g. “admin” or “read”.
         1. If their invitation is greyed out and marked as “pending”, this means they have not yet accepted the invitation.
 
+        ![Screenshot of the platform.](/assets/images/help/groupuserlist.png)
+
         ## Related content{.mt-5}
-        - Checking if email invites bounced
+        - [Checking if email invites bounced](/help/groups/checking-if-email-invites-bounced)
         - [Inviting users to a group](/help/groups/inviting-users-to-a-group)
         { .list-arrow .list-unstyled }
 
