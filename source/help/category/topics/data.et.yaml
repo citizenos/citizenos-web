@@ -60,6 +60,8 @@ seeing-who-has-been-invited-to-joined-a-topic:
     1. The list shows everyone who has been invited, and what level of access rights they have, e.g. “admin” or “read”.
     1. If their invitation is greyed out and marked as “pending”, this means they have not yet accepted the invitation.
 
+    ![Screenshot of the platform.](/assets/images/help/groupuserlist.png)
+
     ## Related content{.mt-5}
     - [Checking if email invites bounced](/help/topics/checking-if-email-invites-bounced)
     - Inviting users to a topic
@@ -179,3 +181,42 @@ editing-a-topic:
     - [Making a topic public or private](/help/topics/making-a-topic-public-or-private)
     - [Making people admin of a topic](/help/topics/making-people-admin-of-a-topic)
     { .list-arrow .list-unstyled }
+making-people-admin-of-a-topic:
+  path: /help/topics/making-people-admin-of-a-topic
+  data:
+    help: /help/data.en.yaml
+  title: Making people admin of a topic
+  text: |
+    A topic admin can make other users admin.
+    There are two ways to do this.
+
+    *Either:*
+    1. Go into the relevant topic.
+    1. Click on “Manage participants” in the “Options” menu. (Top right on desktop, or in the options menu tab on mobile).
+    1. Find the relevant user in the “Participants” or “Invited” tab.
+    1. Click on the dropdown box next to their username, and select “admin” from the list.
+    1. You can also change the rights level of all users within a group, in the “Groups” tab, if a group has already been added to the topic.
+    1. Close the window. The change will automatically be saved.
+
+    *Or*
+    1. In the “My Topics” dashboard, find the relevant topic and select it.
+    1. Click to expand the grey “User list” bar, which is displayed underneath the “General information” box on the dashboard.
+    1. Click on the dropdown box next to the relevant username, and select “admin”.
+    1. You can also change the rights level of all users within a group, in the “Groups list”. You will find this just above the “User list” on the dashboard.
+    1. Any changes will automatically be saved.
+
+    ![Screenshot of the platform.](/assets/images/help/manageparticipants.png)
+making-a-topic-public-or-private:
+  path: /help/topics/making-a-topic-public-or-private
+  data:
+    help: /help/data.en.yaml
+  title: Making a topic public or private
+  text: |
+    Topics can either be private, meaning that only those invited can view the topic and participate, or public, meaning that anyone can view and participate.
+    You can change the privacy settings of a topic in the following ways:
+    - When in the relevant topic, click on “Actions” within the “Options” menu. (Top right on desktop, or in the options menu tab on mobile).
+    *or*
+    - When in the “My Topics” dashboard, click on “Settings” for the relevant topic.
+    Only admins of a topic can change these settings.
+
+    ![Screenshot of the platform.](/assets/images/help/topicactions.png)
