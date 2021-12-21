@@ -78,7 +78,7 @@ follow-up:
     help: /help/data.et.yaml
     topics: follow-up/data.et.yaml
   title: Otsuse elluviimine
-  icon: follow-up
+  icon: otsuse elluviimine, ellu viia
   video:
     url:
     poster: /assets/images/meta/faq.jpg
