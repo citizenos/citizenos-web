@@ -10,6 +10,14 @@ creating-a-new-topic:
 
         Any changes you make to the topic will be automatically saved, and the topic will automatically appear in your “My topics” dashboard from now on.
 
+        ## Related content{.mt-5}
+        - [Inviting users to a topic](/help/topics/inviting-users-to-a-topic)
+        - [Making a topic public or private](/help/topics/making-a-topic-public-or-private)
+        - [Making people admin of a topic](/help/topics/making-people-admin-of-a-topic)
+        - [Editing a topic](/help/topics/editing-a-topic)
+        - [Attaching files to a topic](/help/topics/attaching-files-to-a-topic)
+        { .list-arrow .list-unstyled }
+
 finding-a-topic-you-previously-joined-created:
     path: /help/topics/finding-a-topic-you-previously-joined-created
     data:
