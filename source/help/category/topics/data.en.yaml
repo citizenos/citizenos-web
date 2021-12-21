@@ -146,7 +146,6 @@ inviting-users-to-a-topic:
         1. Copy the share link or QR code and send this to those you wish to invite, or share via the social media buttons.
         1. Close the window.
 
-
         ![Screenshot of the platform.](/assets/images/help/inviteusers.png)
 
         **Inviting via email:**
@@ -162,4 +161,28 @@ inviting-users-to-a-topic:
         - [Inviting a group to a topic](/help/topics/inviting-a-group-to-a-topic)
         - [Seeing who has been invited to / joined a topic](/help/topics/seeing-who-has-been-invited-to-joined-a-topic)
         - [Checking if email invites bounced](/help/topics/checking-if-email-invites-bounced)
+        { .list-arrow .list-unstyled }
+
+editing-a-topic:
+    path: /help/topics/editing-a-topic
+    data:
+        help: /help/data.en.yaml
+    title: Editing a topic
+    text: |
+        To edit a topic, make sure you are in edit mode. To enter into edit mode, you can either:
+        - Choose “edit” when entering into the topic from your “My Topics” dashboard,
+        *or*
+        1. Click on the blue “Edit topic” button once inside the topic. (Top right on desktop, or in the options menu tab on mobile).
+        1. You can now edit the topic using the text editor toolbar above the topic text box.
+
+        All changes will be saved automatically.
+        To exit edit mode, click on the blue “Done editing” button. (Top right on desktop, or in the options menu tab on mobile).
+
+        ![Screenshot of the platform.](/assets/images/help/edittopic.png)
+
+        ## Related content{.mt-5}
+        - [Attaching files to a topic](/help/topics/attaching-files-to-a-topic)
+        - [Adding footnotes to a topic text](/help/topics/adding-footnotes-to-a-topic-text)
+        - [Making a topic public or private](/help/topics/making-a-topic-public-or-private)
+        - [Making people admin of a topic](/help/topics/making-people-admin-of-a-topic)
         { .list-arrow .list-unstyled }
