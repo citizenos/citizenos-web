@@ -216,3 +216,19 @@ how-to-vote-using-a-digital-signature-Estonia-only:
         ## Related content{.mt-5}
         - [Finding a topic](/help/voting/finding-a-topic)
         { .list-arrow .list-unstyled }
+
+downloading-digital-signature-vote-files:
+    path: /help/voting/downloading-digital-signature-vote-files
+    data:
+        help: /help/data.en.yaml
+    title: Downloading digital signature vote files (Estonia only)
+    text: |
+        In Estonia, when participants add digital signatures to their votes, the topic admin(s) can download the voting results as a BDOC folder.
+
+        Here’s how:
+
+        1. Go into the relevant topic.
+        1. Ensure that the vote is closed, and has been sent to follow-up.
+        1. Click on the “Vote” tab at the top.
+        1. Choose whether to download the results as a “human readable” version or a “machine readable” version. The “human readable” version includes a CSV spreadsheet file, the “machine readable” version does not.
+        1. Once downloaded, the “final.bdoc” folder will appear in your computer’s “Downloads” folder.
