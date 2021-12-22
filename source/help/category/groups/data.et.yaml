@@ -119,7 +119,7 @@ finding-a-group-you-previously-joined-created:
 inviting-a-group-to-a-topic:
   path: /help/groups/inviting-a-group-to-a-topic
   data:
-    help: /help/data.en.yaml
+    help: /help/data.et.yaml
   title: Inviting a group to a topic
   text: |
     By inviting a group to a topic, all members of the group will be invited to join. It also means that the topic will show up under the relevant group name in the “My Groups” dashboard.
@@ -148,7 +148,7 @@ inviting-a-group-to-a-topic:
 changing-the-admin-rights-of-group-members:
   path: /help/groups/changing-the-admin-rights-of-group-members
   data:
-    help: /help/data.en.yaml
+    help: /help/data.et.yaml
   title: Changing the admin rights of group members
   text: |
     If a member of a group has “admin” rights at the group level, this means they can change the group settings. For example, changing the rights of other group members, inviting users to the group, or adding the group to a topic, or closing and deleting topics the group is part of.
