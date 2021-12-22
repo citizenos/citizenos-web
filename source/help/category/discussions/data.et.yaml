@@ -14,7 +14,7 @@ reporting-an-argument-or-comment-as-inappropriate:
 replying-or-reacting-to-an-argument-or-comment:
   path: /help/discussions/replying-or-reacting-to-an-argument-or-comment
   data:
-    help: /help/data.en.yaml
+    help: /help/data.et.yaml
   title: Replying or reacting to an argument or comment
   text: |
     To reply to a comment in the topic discussion, simply click “Reply” underneath the relevant comment. To see the replies left by others, click on “Show replies”.
