@@ -165,3 +165,59 @@ downloading-voting-results:
     - [Downloading digital signature vote files (Estonia only)](/help/voting/downloading-digital-signature-vote-files)
     - [Submitting signatures to the Äriregister / Riigikogu / local government (Estonia only)](/help/voting//help/voting/submitting-signatures-to-the-ariregister-riigikogu-local-government-estonia-only)
     { .list-arrow .list-unstyled }
+setting-up-digital-signature-voting-Estonia-only:
+  path: /help/voting/setting-up-digital-signature-voting-Estonia-only
+  data:
+    help: /help/data.en.yaml
+  title: Setting up digital signature voting (Estonia only)
+  text: |
+    In Estonia, it is possible for participants to add a digital signature to their votes.
+
+    ![Screenshot of the platform.](/assets/images/help/eidon.png)
+
+    Here’s how:
+
+    1. First, set up a vote by clicking on “Send to voting” in the Options menu of the relevant topic. (Top right on desktop, or in the options menu tab on mobile).
+    1. Choose either “Regular” or “Custom” vote, depending on your preference. Digital voting is available in both options.
+    1. In the “Set up voting rights” section of the vote settings, move the e-ID slider from “OFF” to “ON”.
+    1. Once all your settings are how you want them, click on “Start voting”.
+
+    **Please note:**
+
+    - When eID voting is enabled, it is not possible to enable vote delegation.
+how-to-vote-using-a-digital-signature-Estonia-only:
+  path: /help/voting/downloading-voting-results
+  data:
+    help: /help/data.en.yaml
+  title: How to vote using a digital signature (Estonia only)
+  text: |
+    In Estonia, it is possible for participants to add a digital signature to their votes. To do this, you need to have an ID card reader, Mobile ID or Smart ID.
+
+    Here’s how:
+    1. Go into the relevant topic. (See Finding a topic).
+    2. Choose the option you want to vote for, and click “Submit your vote”.
+    3. Select your preferred e-ID signing method.
+    4. Fill the required fields and click on the “Sign” button.
+    5. After signing, a “Your vote has been registered” message will appear. You can download your signed vote (as a BDOC folder) in the right hand corner of the pop-up message window.
+
+    **Please note:**
+    - If you change your mind, you can change your vote by repeating the above process, as long as the vote is still open.
+
+    ## Related content{.mt-5}
+    - [Finding a topic](/help/voting/finding-a-topic)
+    { .list-arrow .list-unstyled }
+downloading-digital-signature-vote-files:
+  path: /help/voting/downloading-digital-signature-vote-files
+  data:
+    help: /help/data.en.yaml
+  title: Downloading digital signature vote files (Estonia only)
+  text: |
+    In Estonia, when participants add digital signatures to their votes, the topic admin(s) can download the voting results as a BDOC folder.
+
+    Here’s how:
+
+    1. Go into the relevant topic.
+    1. Ensure that the vote is closed, and has been sent to follow-up.
+    1. Click on the “Vote” tab at the top.
+    1. Choose whether to download the results as a “human readable” version or a “machine readable” version. The “human readable” version includes a CSV spreadsheet file, the “machine readable” version does not.
+    1. Once downloaded, the “final.bdoc” folder will appear in your computer’s “Downloads” folder.
