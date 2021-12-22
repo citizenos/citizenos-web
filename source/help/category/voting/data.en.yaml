@@ -87,5 +87,28 @@ submitting-signatures-to-the-ariregister-riigikogu-local-government-estonia-only
         *Thu Jan 21 2021 13:51:07 GMT + 0200 (Eastern European Standard Time), PNOEE-112233444, JAAK ERVIN SINGLE-GATE, "Two, Three", "Two.html, Three.html"*
 
         ## Related content{.mt-5}
-        - Downloading digital signature vote files (Estonia only)
+        - [Downloading digital signature vote files (Estonia only)](/help/topics/downloading-digital-signature-vote-files)
+        { .list-arrow .list-unstyled }
+
+how-to-set-up-a-vote:
+    path: /help/voting/how-to-set-up-a-vote
+    data:
+        help: /help/data.en.yaml
+    title: How to set up a vote
+    text: |
+        To start a vote, click on “Send to voting” in the Options menu of the relevant topic. (Top right on desktop, or in the options menu tab on mobile).
+
+        Here you can customise your voting settings, then click “Start voting”.
+
+        ![Screenshot of the platform.](/assets/images/help/sendtovoting.png)
+
+        **Please note** that once the vote has started:
+        - It will not be possible to edit the voting settings. You can, however, still add a voting deadline in the “Actions” part of the “Options” menu. (Top right on desktop, or in the options menu tab on mobile).
+        - It will no longer be possible to edit the topic text.
+
+        ## Related content{.mt-5}
+        - [Customising the voting settings](/help/topics/customising-the-voting-settings)
+        - [Setting up multiple choice voting](/help/topics/setting-up-multiple-choice-voting)
+        - [Setting up neutral votes, veto votes and vote delegation](/help/topics/setting-up-neutral-votes-veto-votes-an-vote-delegation)
+        - [Creating an inline vote in a topic text](/help/topics/creating-an-inline-vote-in-a-topic-text)
         { .list-arrow .list-unstyled }
