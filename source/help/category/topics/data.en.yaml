@@ -99,6 +99,13 @@ attaching-files-to-a-topic:
         1. To edit the filename, click the pencil button to the right.
         1. You can then close the pop-up, and the attachment will be saved.
 
+        ![Screenshot of the platform.](/assets/images/help/attachments.png)
+
+        **Please note:** if using mobile to add attachments, you will find the “Add/manage attachments” button in a different location:
+        - Enter the topic in “View mode”.
+        - Click to expand the “Topic details”, just above the topic heading.
+        - You will find the “Add/manage attachments” link underneath the “Attachments” heading.
+
         The permitted file attachments are as follows:
         - The maximum size of a single attachment in a topic is 50 MB.
         - A maximum of 10 files can be attached to one topic.
