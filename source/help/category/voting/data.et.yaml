@@ -90,7 +90,7 @@ submitting-signatures-to-the-ariregister-riigikogu-local-government-estonia-only
 how-to-set-up-a-vote:
   path: /help/voting/how-to-set-up-a-vote
   data:
-    help: /help/data.en.yaml
+    help: /help/data.et.yaml
   title: How to set up a vote
   text: |
     To start a vote, click on “Send to voting” in the Options menu of the relevant topic. (Top right on desktop, or in the options menu tab on mobile).
@@ -111,7 +111,7 @@ how-to-set-up-a-vote:
 closing-the-vote-or-setting-a-vote-deadline:
   path: /help/voting/closing-the-vote-or-setting-a-vote-deadline
   data:
-    help: /help/data.en.yaml
+    help: /help/data.et.yaml
   title: Closing the vote or setting a vote deadline
   text: |
     A vote can either be closed automatically, using a voting deadline, or closed manually by the admin.
@@ -136,7 +136,7 @@ closing-the-vote-or-setting-a-vote-deadline:
 downloading-voting-results:
   path: /help/voting/downloading-voting-results
   data:
-    help: /help/data.en.yaml
+    help: /help/data.et.yaml
   title: Downloading voting results
   text: |
     When the voting period ends, the admin(s) of a topic can download a summary report with the voting results.
