@@ -8,6 +8,8 @@ seeing-how-many-people-have-voted-so-far:
     text: |
         Anyone can see how many people have voted, both during and after the vote. This is displayed as an anonymous numerical result.
 
+        ![Screenshot of the platform.](/assets/images/help/sendtofollowup.png)
+
         To see this:
         1. Go into the relevant topic, and make sure you are in the “Vote” tab, shown at the top.
         1. To the right of “Cast your vote” or “Voting results” (depending on whether the vote is still ongoing), you will see the number of votes cast.
@@ -137,4 +139,37 @@ closing-the-vote-or-setting-a-vote-deadline:
 
         ## Related content{.mt-5}
         - [Downloading voting results](/help/voting/downloading-voting-results)
+        { .list-arrow .list-unstyled }
+
+downloading-voting-results:
+    path: /help/voting/downloading-voting-results
+    data:
+        help: /help/data.en.yaml
+    title: Downloading voting results
+    text: |
+        When the voting period ends, the admin(s) of a topic can download a summary report with the voting results.
+
+        The following instructions relate to votes cast using Citizen OS user IDs. Please see separate instructions if downloading digital signatures in Estonia.
+
+        ![Screenshot of the platform.](/assets/images/help/downloadvoteresults.png)
+
+        How to download voting results:
+
+        1. Go into the relevant topic.
+        1. Ensure that the vote is closed, and has been sent to follow-up.
+        1. Click on the “Vote” tab at the top, in which you will see a graph showing the voting results.
+        1. Click on the “Download voting results summary” button.
+        1. Once downloaded, the “final.zip” folder will appear in your computer’s “Downloads” folder.
+
+        The zip folder includes:
+
+        - A spreadsheet (CSV) file with the full results data
+        - A PDF results graph
+        - A Word document with the topic text (attachments are not included)
+        - a metadata file “__metainfo.html” that contains the topic ID and vote ID
+        - .html files with the names of the vote options, containing the option ID and text
+
+        ## Related content{.mt-5}
+        - [Downloading digital signature vote files (Estonia only)](/help/voting/downloading-digital-signature-vote-files)
+        - [Submitting signatures to the Äriregister / Riigikogu / local government (Estonia only)](/help/voting//help/voting/submitting-signatures-to-the-ariregister-riigikogu-local-government-estonia-only)
         { .list-arrow .list-unstyled }
