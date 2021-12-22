@@ -34,9 +34,9 @@ why-admins-cant-see-who-has-voted-while-a-vote-is-in-progress:
     At Citizen OS we believe that not voting can be a means of expressing opinion. For example, if someone does not agree with the question or the options available to vote upon, they may actively decide not to vote. If the vote administrator tries to incite them to vote, this could deprive them of their freedom to express their views through not voting. This information is kept confidential in government-run votes for the same reason.
 
     ## Related content{.mt-5}
-    - Seeing who has been invited to / joined a topic
-    - Downloading voting results
-    - Why voting is not fully anonymous
+    - [Seeing who has been invited to / joined a topic](/help/voting/seeing-who-has-been-invited-to-joined-a-topic)
+    - [Downloading voting results](/help/voting/downloading-voting-results)
+    - [Why voting is not fully anonymous](/help/voting/why-voting-is-not-fully-anonymous)
     { .list-arrow .list-unstyled }
 why-voting-is-not-fully-anonymous:
   path: /et/abi/haaletamine/miks-haaletamine-ei-ole-taiesti-anonyymne
@@ -83,7 +83,7 @@ submitting-signatures-to-the-ariregister-riigikogu-local-government-estonia-only
     *Thu Jan 21 2021 13:51:07 GMT + 0200 (Eastern European Standard Time), PNOEE-112233444, JAAK ERVIN SINGLE-GATE, "Two, Three", "Two.html, Three.html"*
 
     ## Related content{.mt-5}
-    - [Downloading digital signature vote files (Estonia only)](/help/topics/downloading-digital-signature-vote-files)
+    - [Downloading digital signature vote files (Estonia only)](/help/voting/downloading-digital-signature-vote-files)
     { .list-arrow .list-unstyled }
 how-to-set-up-a-vote:
   path: /help/voting/how-to-set-up-a-vote
@@ -100,10 +100,34 @@ how-to-set-up-a-vote:
     **Please note** that once the vote has started:
     - It will not be possible to edit the voting settings. You can, however, still add a voting deadline in the “Actions” part of the “Options” menu. (Top right on desktop, or in the options menu tab on mobile).
     - It will no longer be possible to edit the topic text.
+### Related content{.mt-5}
+#- [Customising the voting settings](/help/voting/customising-the-voting-settings)
+#- [Setting up multiple choice voting](/help/voting/setting-up-multiple-choice-voting)
+#- [Setting up neutral votes, veto votes and vote delegation](/help/voting/setting-up-neutral-votes-veto-votes-an-vote-delegation)
+#- [Creating an inline vote in a topic text](/help/voting/creating-an-inline-vote-in-a-topic-text)
+#{ .list-arrow .list-unstyled }
+closing-the-vote-or-setting-a-vote-deadline:
+  path: /help/voting/closing-the-vote-or-setting-a-vote-deadline
+  data:
+    help: /help/data.en.yaml
+  title: Closing the vote or setting a vote deadline
+  text: |
+    A vote can either be closed automatically, using a voting deadline, or closed manually by the admin.
+
+    ![Screenshot of the platform.](/assets/images/help/sendtofollowup.png)
+
+    **To manually close the vote:**
+
+    - When in the topic, click on “Send to follow-up” in the “Options” menu. (Top right on desktop, or in the options menu tab on mobile). By sending to follow-up, you are closing the vote.
+
+    **To set an automatic vote deadline:**
+    Input the deadline when setting up the vote (i.e. when you first choose the vote settings).
+
+    *or*
+    - When in the topic, go to “Actions” in the “Options” menu. (Top right on desktop, or in the options menu tab on mobile). Here you can set or edit the voting deadline.
+
+    Once the vote has closed, you will need to click “Send to follow-up” in order to access the voting results.
 
     ## Related content{.mt-5}
-    - [Customising the voting settings](/help/topics/customising-the-voting-settings)
-    - [Setting up multiple choice voting](/help/topics/setting-up-multiple-choice-voting)
-    - [Setting up neutral votes, veto votes and vote delegation](/help/topics/setting-up-neutral-votes-veto-votes-an-vote-delegation)
-    - [Creating an inline vote in a topic text](/help/topics/creating-an-inline-vote-in-a-topic-text)
+    - [Downloading voting results](/help/voting/downloading-voting-results)
     { .list-arrow .list-unstyled }
