@@ -71,9 +71,9 @@ voting:
   icon: hääletused
   video:
     url:
-    poster: /assets/images/meta/faq.jpg
+    poster: /assets/images/meta/general.png
   text: |
-
+    Set up a vote to democratically decide on a topic. Voting settings include a wide range of options such as multiple choice voting, veto votes, and vote delegation. Inline votes can also be created in the topic text. In Estonia, e-ID voting is available.
 follow-up:
   path: et/abi/elluviimine
   data:
