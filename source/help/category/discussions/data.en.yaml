@@ -11,3 +11,13 @@ reporting-an-argument-or-comment-as-inappropriate:
         You can then select your reason for reporting the argument or comment from the options provided, and add an additional explanation.
 
         The administrator or moderator of the discussion, and author of the argument or comment in question will be notified via email. Your explanation will be visible to them, but you will remain anonymous.
+
+replying-or-reacting-to-an-argument-or-comment:
+    path: /help/discussions/replying-or-reacting-to-an-argument-or-comment
+    data:
+        help: /help/data.en.yaml
+    title: Replying or reacting to an argument or comment
+    text: |
+        To reply to a comment in the topic discussion, simply click “Reply” underneath the relevant comment. To see the replies left by others, click on “Show replies”.
+
+        To react to a comment or argument, either click on the “thumbs up” or “thumbs down”. To see who else has reacted, click on the number next to the relevant react button.

@@ -63,7 +63,7 @@ discussions:
     icon: discussions
     video:
         url:
-        poster: /assets/images/meta/faq.jpg
+        poster: /assets/images/meta/general.png
     text: |
         Use the discussion space to discuss both sides of a topic before it is voted on, or to crowdsource ideas for how to go forwards. Here you can post “pro” and “con” arguments, and reply or react to arguments made by others.
 
