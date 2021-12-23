@@ -63,7 +63,7 @@ discussions:
     icon: discussions
     video:
         url:
-        poster: /assets/images/meta/general.png
+        poster: /assets/images/help/general.png
     text: |
         Use the discussion space to discuss both sides of a topic before it is voted on, or to crowdsource ideas for how to go forwards. Here you can post “pro” and “con” arguments, and reply or react to arguments made by others.
 
@@ -76,7 +76,7 @@ voting:
     icon: voting
     video:
         url:
-        poster: /assets/images/meta/general.png
+        poster: /assets/images/help/general.png
     text: |
         Set up a vote to democratically decide on a topic. Voting settings include a wide range of options such as multiple choice voting, veto votes, and vote delegation. Inline votes can also be created in the topic text. In Estonia, e-ID voting is available.
 
@@ -89,6 +89,6 @@ follow-up:
     icon: follow-up
     video:
         url:
-        poster: /assets/images/meta/general.png
+        poster: /assets/images/help/general.png
     text: |
         Once a vote has taken place, admins of the topic can use the “Follow up” feature to keep everyone up to date on what has happened since. Topics need to be sent to follow-up before vote results can be downloaded.
