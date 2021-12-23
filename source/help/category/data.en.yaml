@@ -89,6 +89,6 @@ follow-up:
     icon: follow-up
     video:
         url:
-        poster: /assets/images/meta/faq.jpg
+        poster: /assets/images/meta/general.png
     text: |
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus egestas sapien id maximus placerat. Morbi condimentum euismod erat sit amet accumsan. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Suspendisse auctor arcu nec orci consequat pretium. Etiam non quam id turpis bibendum vestibulum non vel nibh.
+        Once a vote has taken place, admins of the topic can use the “Follow up” feature to keep everyone up to date on what has happened since. Topics need to be sent to follow-up before vote results can be downloaded.
