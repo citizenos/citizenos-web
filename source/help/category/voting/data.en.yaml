@@ -205,10 +205,10 @@ how-to-vote-using-a-digital-signature-Estonia-only:
 
         Here’s how:
         1. Go into the relevant topic. (See Finding a topic).
-        2. Choose the option you want to vote for, and click “Submit your vote”.
-        3. Select your preferred e-ID signing method.
-        4. Fill the required fields and click on the “Sign” button.
-        5. After signing, a “Your vote has been registered” message will appear. You can download your signed vote (as a BDOC folder) in the right hand corner of the pop-up message window.
+        1. Choose the option you want to vote for, and click “Submit your vote”.
+        1. Select your preferred e-ID signing method.
+        1. Fill the required fields and click on the “Sign” button.
+        1. After signing, a “Your vote has been registered” message will appear. You can download your signed vote (as a BDOC folder) in the right hand corner of the pop-up message window.
 
         **Please note:**
         - If you change your mind, you can change your vote by repeating the above process, as long as the vote is still open.
@@ -232,3 +232,9 @@ downloading-digital-signature-vote-files:
         1. Click on the “Vote” tab at the top.
         1. Choose whether to download the results as a “human readable” version or a “machine readable” version. The “human readable” version includes a CSV spreadsheet file, the “machine readable” version does not.
         1. Once downloaded, the “final.bdoc” folder will appear in your computer’s “Downloads” folder.
+
+        ## Related content{.mt-5}
+        - [Digital signature voting results folder contents (Estonia only)](/help/voting/digital-signature-voting-results-folder-contents)
+        - [The CSV file for digital signature voting results (Estonia only)](/help/voting/the-csv-file-for-digital-signature-voting-results)
+        - [Submitting signatures to the Äriregister / Riigikogu / local government (Estonia only)](/help/voting//help/voting/submitting-signatures-to-the-ariregister-riigikogu-local-government-estonia-only)
+        { .list-arrow .list-unstyled }
