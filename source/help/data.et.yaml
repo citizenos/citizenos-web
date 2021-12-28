@@ -2,8 +2,8 @@
 path: /et/abi
 data:
   category: category/data.et.yaml
-title: Abikeskus
-text: Abikeskusest leiad oma küsimustele vastused ja saad abi, kui peaksid hätta jääma.
+title: Help Centre
+text: The Help Centre will answer any questions you may have, and help you if you get stuck.
 links:
   title: Kiirviited
   links:
