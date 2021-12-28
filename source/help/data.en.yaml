@@ -3,8 +3,8 @@ path: /help
 data:
     category: category/data.en.yaml
 
-title: Help Center
-text: The Help Center will answer any questions you may have, and help you if you get stuck.
+title: Help Centre
+text: The Help Centre will answer any questions you may have, and help you if you get stuck.
 
 links:
     title: Quick links

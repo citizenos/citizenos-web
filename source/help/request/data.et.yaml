@@ -3,7 +3,7 @@ path: /et/abi/abipalve/
 data:
   help: /help/data.et.yaml
 title: Request Help
-text: If our Help Center couldn’t help you then please let us know what problem you’re facing and we’ll get back to you.
+text: If our Help Centre couldn’t help you then please let us know what problem you’re facing and we’ll get back to you.
 form:
   title: What are you trying to do?
   message: Kirjuta siia...
@@ -13,5 +13,5 @@ form:
     **Your request has been submitted!**
     Thank you for your message, we’ll get back to you as soon as we can.
   successBack:
-    title: To the Help Center Start page
+    title: To the Help Centre Start page
     url: /et/abi
