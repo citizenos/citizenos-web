@@ -10,5 +10,5 @@ data:
   category-discussions: ../category/discussions/data.en.yaml
   category-voting: ../category/voting/data.en.yaml
   category-follow-up: ../category/follow-up/data.en.yaml
-title: Help Center Search
-text: The Help Center will answer any questions you may have, and help you if you get stuck.
+title: Help Centre Search
+text: The Help Centre will answer any questions you may have, and help you if you get stuck.

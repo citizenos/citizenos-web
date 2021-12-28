@@ -22,7 +22,6 @@ troubleshooting-no-permission-to-access:
 
         ## Related content{.mt-5}
         - [Switching between accounts](/help/login/switching-accounts)
-        - Trouble-shooting login issues
         { .list-arrow .list-unstyled }
 
 switching-accounts:
@@ -35,24 +34,26 @@ switching-accounts:
 
         If you are unsure which account you are currently logged in to, you can check this in “My Account” next to your profile avatar.
 
+        ![Screenshot of the platform.](/assets/images/help/logout.png)
+
+#        ## Related content{.mt-5}
+#        - [Troubleshooting “no permission to access”](/help/login/troubleshooting-no-permission-to-access)
+#        { .list-arrow .list-unstyled }
+
+#logging-in-using-e-id-estonia-only:
+#    path: /help/login/logging-in-using-e-id-estonia-only
+#    data:
+#        help: /help/data.en.yaml
+#    title: Logging in using e-ID (Estonia only)
+#    text: |
+#        The option to log in with your ID-card/Mobile ID (applicable to Estonian ID-cards) will only appear if:
+
+#        - You have previously created a Citizen OS account using the email address to which the relevant invitation email was sent. (I.e. the invitation to the group or topic you are trying to access when wanting to log in with your e-ID).
+#        *AND*
+#        - You have previously digitally signed at least one document through that account.
+
+#        Once both of the above have happened, you can log in using your Estonian ID card by selecting the relevant button on the login screen and following the instructions.
+
         ## Related content{.mt-5}
-        - [Troubleshooting “no permission to access”](/help/login/troubleshooting-no-permission-to-access)
-        { .list-arrow .list-unstyled }
-
-logging-in-using-e-id-estonia-only:
-    path: /help/login/logging-in-using-e-id-estonia-only
-    data:
-        help: /help/data.en.yaml
-    title: Logging in using e-ID (Estonia only)
-    text: |
-        The option to log in with your ID-card/Mobile ID (applicable to Estonian ID-cards) will only appear if:
-
-        - You have previously created a Citizen OS account using the email address to which the relevant invitation email was sent. (I.e. the invitation to the group or topic you are trying to access when wanting to log in with your e-ID).
-        *AND*
-        - You have previously digitally signed at least one document through that account.
-
-        Once both of the above have happened, you can log in using your Estonian ID card by selecting the relevant button on the login screen and following the instructions.
-
-        ## Related content{.mt-5}
-        - How to vote using a digital signature (Estonia only)
-        { .list-arrow .list-unstyled }
+#        - How to vote using a digital signature (Estonia only)
+#        { .list-arrow .list-unstyled }

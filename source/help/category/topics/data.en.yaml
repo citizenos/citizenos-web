@@ -10,17 +10,44 @@ creating-a-new-topic:
 
         Any changes you make to the topic will be automatically saved, and the topic will automatically appear in your “My topics” dashboard from now on.
 
-finding-a-topic-you-previously-joined-created:
-    path: /help/topics/finding-a-topic-you-previously-joined-created
+        ![Screenshot of the platform.](/assets/images/help/createtopic.png)
+
+        ## Related content{.mt-5}
+        - [Inviting users to a topic](/help/topics/inviting-users-to-a-topic)
+        - [Making a topic public or private](/help/topics/making-a-topic-public-or-private)
+        - [Making people admin of a topic](/help/topics/making-people-admin-of-a-topic)
+        - [Editing a topic](/help/topics/editing-a-topic)
+        - [Attaching files to a topic](/help/topics/attaching-files-to-a-topic)
+        { .list-arrow .list-unstyled }
+
+finding-a-topic-you-are-participating-in:
+    path: /help/topics/finding-a-topic-you-are-participating-in
     data:
         help: /help/data.en.yaml
-    title: Finding a topic you previously joined / created
+    title: Finding a topic you are participating in
     text: |
-        To access all topics you have previously joined or created, click on “My Topics” in the main menu.
+        The way in which you find a topic will depend on whether you have previously joined it or not.
 
-        Please note:
-        - Only topics for which you have already accepted the invitation will be listed. If you have been invited to but not yet joined a topic, it will not show. To join the topic, follow the link in the email invitation you were originally sent.
-        - If a topic you have previously joined or created is not showing in the list, it may be that you are signed into the wrong Citizen OS account. If you have another Citizen OS account, try looking there. (You can only access topics using the Citizen OS account that is linked to the same email address as the one to which the original topic invitation email was sent).
+        **If you have not previously joined the topic:**
+        1. Click on the link in the invitation email you have been sent.
+        1. Log in using the same email address as the invitation email was sent to.
+        1. You will be directed to the topic, and have now joined it.
+        1. From now on, it will appear in your “My Topics” dashboard.
+
+        ![Screenshot of the platform.](/assets/images/help/mytopics.png)
+
+        **If you have previously joined the topic:**
+        1. Click on “My Topics” in the main menu to go to your My Topics dashboard.
+        1. Use the search bar or filters at the top to find the relevant topic.
+        1. If a group you are a member of has been invited to the topic, you can also find the topic listed under the relevant group name in your “My Groups” dashboard.
+
+        **Please note:**
+        - If a topic you have previously joined or created is not showing in your "My Topics" list, it may be that you are signed into the wrong Citizen OS account. If you have another Citizen OS account, try looking there. (You can only access topics using the Citizen OS account that is linked to the same email address as the one to which the original topic invitation email was sent).
+
+        ## Related content{.mt-5}
+        - [Switching accounts](/help/topics/switching-accounts)
+        - [Troubleshooting “no permission to access”](/help/topics/troubleshooting-no-permission-to-access)
+        { .list-arrow .list-unstyled }
 
 seeing-who-has-been-invited-to-joined-a-topic:
     path: /help/topics/seeing-who-has-been-invited-to-joined-a-topic
@@ -35,9 +62,11 @@ seeing-who-has-been-invited-to-joined-a-topic:
         1. The list shows everyone who has been invited, and what level of access rights they have, e.g. “admin” or “read”.
         1. If their invitation is greyed out and marked as “pending”, this means they have not yet accepted the invitation.
 
+        ![Screenshot of the platform.](/assets/images/help/groupuserlist.png)
+
         ## Related content{.mt-5}
         - [Checking if email invites bounced](/help/topics/checking-if-email-invites-bounced)
-        - Inviting users to a topic
+        - [Inviting users to a topic](/help/topics/inviting-users-to-a-topic)
         { .list-arrow .list-unstyled }
 
 checking-if-email-invites-bounced:
@@ -69,6 +98,13 @@ attaching-files-to-a-topic:
         1. The file will then appear in the list under “Attachments”.
         1. To edit the filename, click the pencil button to the right.
         1. You can then close the pop-up, and the attachment will be saved.
+
+        ![Screenshot of the platform.](/assets/images/help/attachments.png)
+
+        **Please note:** if using mobile to add attachments, you will find the “Add/manage attachments” button in a different location:
+        - Enter the topic in “View mode”.
+        - Click to expand the “Topic details”, just above the topic heading.
+        - You will find the “Add/manage attachments” link underneath the “Attachments” heading.
 
         The permitted file attachments are as follows:
         - The maximum size of a single attachment in a topic is 50 MB.
@@ -103,3 +139,115 @@ adding-footnotes-to-a-topic-text:
         You can add footnotes by clicking on the footnotes button in the centre of the text editor toolbar (above the topic text), while in edit mode. The footnotes button is in the form of an asterisk: *
 
         Be sure to place your cursor at the point in the text in which you want the footnote to appear, before clicking on the button.
+
+inviting-users-to-a-topic:
+    path: /help/topics/inviting-users-to-a-topic
+    data:
+        help: /help/data.en.yaml
+    title: Inviting users to a topic
+    text: |
+        There are several different ways to invite individual users to participate in a topic.
+
+        **Inviting via share link, QR code or social media:**
+        1. Go into the relevant topic.
+        1. Click on “invite users” in the “Options” menu. (Top right on desktop, or in the options menu tab on mobile).
+        1. In the “Share” tab of the pop-up window, select the access rights that you wish to give to those you are inviting, using the dropdown dox. (This will set the access rights for all three sharing options - URL, QR or social).
+        1. Copy the share link or QR code and send this to those you wish to invite, or share via the social media buttons.
+        1. Close the window.
+
+        ![Screenshot of the platform.](/assets/images/help/inviteusers.png)
+
+        **Inviting via email:**
+        1. Go into the relevant topic.
+        1. Click on “invite users” in the “Options” menu. (Top right on desktop, or in the options menu tab on mobile).
+        1. In the “Invite” tab, enter the usernames or email addresses of the users you wish to add.
+        1. When they appear in the list, choose the access rights you would like to give them, from the dropdown list.
+        1. Click “Save topic and send invite”.
+
+        You can also access the same “share/invite” pop-up window via the “My Topics” Dashboard. Click on “invite” in the “user list” bar, displayed underneath the “General information” box of the relevant topic.
+
+        ## Related content{.mt-5}
+        - [Inviting a group to a topic](/help/topics/inviting-a-group-to-a-topic)
+        - [Seeing who has been invited to / joined a topic](/help/topics/seeing-who-has-been-invited-to-joined-a-topic)
+        - [Checking if email invites bounced](/help/topics/checking-if-email-invites-bounced)
+        { .list-arrow .list-unstyled }
+
+editing-a-topic:
+    path: /help/topics/editing-a-topic
+    data:
+        help: /help/data.en.yaml
+    title: Editing a topic
+    text: |
+        To edit a topic, make sure you are in edit mode. To enter into edit mode, you can either:
+        - Choose “edit” when entering into the topic from your “My Topics” dashboard,
+        *or*
+        1. Click on the blue “Edit topic” button once inside the topic. (Top right on desktop, or in the options menu tab on mobile).
+        1. You can now edit the topic using the text editor toolbar above the topic text box.
+
+        All changes will be saved automatically.
+        To exit edit mode, click on the blue “Done editing” button. (Top right on desktop, or in the options menu tab on mobile).
+
+        ![Screenshot of the platform.](/assets/images/help/edittopic.png)
+
+        ## Related content{.mt-5}
+        - [Attaching files to a topic](/help/topics/attaching-files-to-a-topic)
+        - [Adding footnotes to a topic text](/help/topics/adding-footnotes-to-a-topic-text)
+        - [Making a topic public or private](/help/topics/making-a-topic-public-or-private)
+        - [Making people admin of a topic](/help/topics/making-people-admin-of-a-topic)
+        { .list-arrow .list-unstyled }
+
+making-people-admin-of-a-topic:
+    path: /help/topics/making-people-admin-of-a-topic
+    data:
+        help: /help/data.en.yaml
+    title: Making people admin of a topic
+    text: |
+        A topic admin can make other users admin.
+        There are two ways to do this.
+
+        *Either:*
+        1. Go into the relevant topic.
+        1. Click on “Manage participants” in the “Options” menu. (Top right on desktop, or in the options menu tab on mobile).
+        1. Find the relevant user in the “Participants” or “Invited” tab.
+        1. Click on the dropdown box next to their username, and select “admin” from the list.
+        1. You can also change the rights level of all users within a group, in the “Groups” tab, if a group has already been added to the topic.
+        1. Close the window. The change will automatically be saved.
+
+        *Or*
+        1. In the “My Topics” dashboard, find the relevant topic and select it.
+        1. Click to expand the grey “User list” bar, which is displayed underneath the “General information” box on the dashboard.
+        1. Click on the dropdown box next to the relevant username, and select “admin”.
+        1. You can also change the rights level of all users within a group, in the “Groups list”. You will find this just above the “User list” on the dashboard.
+        1. Any changes will automatically be saved.
+
+        ![Screenshot of the platform.](/assets/images/help/manageparticipants.png)
+
+making-a-topic-public-or-private:
+    path: /help/topics/making-a-topic-public-or-private
+    data:
+        help: /help/data.en.yaml
+    title: Making a topic public or private
+    text: |
+        Topics can either be private, meaning that only those invited can view the topic and participate, or public, meaning that anyone can view and participate.
+        You can change the privacy settings of a topic in the following ways:
+        - When in the relevant topic, click on “Actions” within the “Options” menu. (Top right on desktop, or in the options menu tab on mobile).
+        *or*
+        - When in the “My Topics” dashboard, click on “Settings” for the relevant topic.
+        Only admins of a topic can change these settings.
+
+        ![Screenshot of the platform.](/assets/images/help/topicactions.png)
+
+viewing-a-topics-activity-feed:
+    path: /help/topics/viewing-a-topics-activity-feed
+    data:
+        help: /help/data.en.yaml
+    title: Viewing a topic’s activity feed
+    text: |
+        In your “My Topics” dashboard, select the relevant topic from the list. Click to expand the grey “Activity feed & notifications” bar. You will find this bar just underneath the “General information” box.
+        Here you will find a list of all actions that users have carried out relating to this topic.
+
+        ![Screenshot of the platform.](/assets/images/help/activityfeed.png)
+
+        ## Related content{.mt-5}
+        - [Using the activity feed](/help/topics/using-the-activity-feed)
+        { .list-arrow .list-unstyled }
