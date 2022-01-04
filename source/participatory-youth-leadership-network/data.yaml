@@ -93,7 +93,7 @@ blocks:
             url: '#join'
 
     form:
-        title: Join the E-democracy Quiz by the PYLN community! Please sign up and we will email you with further details.
+        title: Join the PYLN community! Please sign up and we will email you with further details.
         email: Email Address
         subscribe: Sign up
 
