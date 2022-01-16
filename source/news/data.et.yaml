@@ -8,6 +8,15 @@ keywords:
   -
 image: /assets/images/meta/vision.jpg
 news:
+  2021-12-05:
+    url: /news/my-volunteer-experience-sara-sinha
+    title: My Volunteer Experience-Sara Sinha.
+    author: Indianna Knight
+    image: /assets/images/news/sara.jpg
+    categories:
+      - Citizen OS news
+    text: |
+      Sara Sinha shared her experience of volunteering with us.
   2021-11-15:
     url: /news/meet-falko-blumenthal-a-civic-hacktivist
     title: 'Falko Blumenthal: kodanikuhäktivist'
