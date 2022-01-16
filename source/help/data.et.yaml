@@ -2,22 +2,31 @@
 path: /et/abi
 data:
   category: category/data.et.yaml
-title: Help Centre
-text: The Help Centre will answer any questions you may have, and help you if you get stuck.
+title: Abikeskus
+text: Abikeskusest leiad oma küsimustele vastused ja saad abi, kui peaksid hätta jääma.
 links:
-  title: Quick links
+  title: Kiirviited
   links:
     - 
-      title: Discussions Topic 1
-      url: /help/discussions/topic1
+      title: Troubleshooting “no permission to access”
+      url: /help/login/troubleshooting-no-permission-to-access
     - 
-      title: General Topic 3
-      url: /help/general/topic2
+      title: Closing the vote or setting a vote deadline
+      url: /help/voting/closing-the-vote-or-setting-a-vote-deadline
+    - 
+      title: Downloading voting results
+      url: /help/voting/downloading-voting-results
+    - 
+      title: Downloading digital signature vote files (Estonia only)
+      url: /help/voting/downloading-digital-signature-vote-files
+    - 
+      title: Attaching files to a topic
+      url: /help/topics/attaching-files-to-a-topic
 topics: Leia teema järgi
 categoryTopics: Liigu kindla teema juurde
-video: Vaata teemasid tutvustavat videot
+#video: Watch the Topics Introduction video
 feedback:
-  title: Was this information helpful?
+  title: Kas see info oli abiks?
   answerYes: Yes
   answerNo: No
 negativeFeedback:

@@ -24,6 +24,8 @@ how-to-create-a-group:
     1. In the main menu, click on “Create Group”.
     1. Enter a name for your group.
 
+    ![Screenshot of the platform.](/assets/images/help/creategroup.png)
+
     If you wish to add an already existing topic to your group right away:
     1. Switch to the “Add topics” tab.
     1. Search for the name of the topic.
@@ -41,10 +43,7 @@ how-to-create-a-group:
     ## Related content{.mt-5}
     - [Why create a group?](/help/groups/why-create-a-group)
     - [Inviting users to a group](/help/groups/inviting-users-to-a-group)
-    - Adding a topic to a group
-    - Inviting a group to a topic
-    - Changing the name of a group
-    - Deleting a group
+    - [Inviting a group to a topic](/help/groups/inviting-a-group-to-a-topic)
     { .list-arrow .list-unstyled }
 inviting-users-to-a-group:
   path: /et/abi/grupid/kasutajate-gruppi-kutsumine
@@ -59,6 +58,8 @@ inviting-users-to-a-group:
     1. Click on “invite”, next to the “user list” heading.
     1. Invite users by adding their email addresses, or searching for their names if they already have an account.
     1. Click on “Save group”.
+
+    ![Screenshot of the platform.](/assets/images/help/groupuserlist.png)
 
     ## Related content{.mt-5}
     - [How to create a group](/help/groups/how-to-create-a-group)
@@ -76,8 +77,10 @@ seeing-who-has-been-invited-to-joined-a-group:
     1. The list shows everyone who has been invited, and what level of access rights they have, e.g. “admin” or “read”.
     1. If their invitation is greyed out and marked as “pending”, this means they have not yet accepted the invitation.
 
+    ![Screenshot of the platform.](/assets/images/help/groupuserlist.png)
+
     ## Related content{.mt-5}
-    - Checking if email invites bounced
+    - [Checking if email invites bounced](/help/groups/checking-if-email-invites-bounced)
     - [Inviting users to a group](/help/groups/inviting-users-to-a-group)
     { .list-arrow .list-unstyled }
 checking-if-email-invites-bounced:
@@ -102,7 +105,10 @@ finding-a-group-you-previously-joined-created:
   title: Finding a group you previously joined / created
   text: |
     To access all groups you have previously joined or created, click on “My Groups” in the main menu.
-    Please note:
+
+    ![Screenshot of the platform.](/assets/images/help/mygroups.png)
+
+    **Please note:**
     - Only groups for which you have already accepted the invitation will be listed. If you have been invited to but not yet joined a group, it will not show. To join the group, follow the link in the email invitation you were originally sent.
     - If a group you have previously joined or created is not showing in the list, it may be that you are signed into the wrong Citizen OS account. If you have another Citizen OS account, try looking there. (You can only access groups using the Citizen OS account that is linked to the same email address as the one to which the original topic invitation email was sent).
 
@@ -110,3 +116,47 @@ finding-a-group-you-previously-joined-created:
     - [Switching accounts](/help/login/switching-accounts)
     - [Troubleshooting “no permission to access”](/help/login/troubleshooting-no-permission-to-access)
     { .list-arrow .list-unstyled }
+inviting-a-group-to-a-topic:
+  path: /help/groups/inviting-a-group-to-a-topic
+  data:
+    help: /help/data.et.yaml
+  title: Inviting a group to a topic
+  text: |
+    By inviting a group to a topic, all members of the group will be invited to join. It also means that the topic will show up under the relevant group name in the “My Groups” dashboard.
+    There are two ways to do this:
+    *Either*
+    1. Go into the relevant topic.
+    1. Click on “invite users” in the “Options” menu. (Top right on desktop, or in the options menu tab on mobile).
+    1. Type the name of the relevant group and select it when it appears.
+    1. Choose the access rights you would like to give to members of that group, from the dropdown list.
+    1. Click “Save topic and send invite”.
+
+    *Or*
+
+    1. In the “My Topics” dashboard, find the relevant topic and select it.
+    1. Navigate to the grey “Group list” bar, displayed underneath the “General information” box on the dashboard.
+    1. Click on “add”.
+    1. In the pop-up window, search for the name of the relevant group and select it when it appears.
+    1. Choose the access rights you would like to give to members of that group, from the dropdown list.
+    1. Click “Save topic and send invite”.
+
+    ## Related content{.mt-5}
+    - [How to create a group](/help/groups/how-to-create-a-group)
+    - [Why create a group](/help/groups/why-create-a-group)
+    - [Inviting users to a group](/help/groups/invite-users-to-a-group)
+    { .list-arrow .list-unstyled }
+changing-the-admin-rights-of-group-members:
+  path: /help/groups/changing-the-admin-rights-of-group-members
+  data:
+    help: /help/data.et.yaml
+  title: Changing the admin rights of group members
+  text: |
+    If a member of a group has “admin” rights at the group level, this means they can change the group settings. For example, changing the rights of other group members, inviting users to the group, or adding the group to a topic, or closing and deleting topics the group is part of.
+
+    To make a member of a group admin:
+    1. Click on the relevant group in your “My Groups “ dashboard.
+    1. Click to expand the grey “User list” bar, which is displayed underneath the “General information” box on the dashboard.
+    1. Next to the user’s name, in the dropdown box under “Rights”, change their access from “read” to admin.
+
+    **Please note:**
+    Group rights are only relevant to group-related settings. Topic rights are set separately by the topic admin and are not affected by group rights.

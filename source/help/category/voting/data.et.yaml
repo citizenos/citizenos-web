@@ -8,6 +8,8 @@ seeing-how-many-people-have-voted-so-far:
   text: |
     Anyone can see how many people have voted, both during and after the vote. This is displayed as an anonymous numerical result.
 
+    ![Screenshot of the platform.](/assets/images/help/sendtofollowup.png)
+
     To see this:
     1. Go into the relevant topic, and make sure you are in the “Vote” tab, shown at the top.
     1. To the right of “Cast your vote” or “Voting results” (depending on whether the vote is still ongoing), you will see the number of votes cast.
@@ -34,9 +36,9 @@ why-admins-cant-see-who-has-voted-while-a-vote-is-in-progress:
     At Citizen OS we believe that not voting can be a means of expressing opinion. For example, if someone does not agree with the question or the options available to vote upon, they may actively decide not to vote. If the vote administrator tries to incite them to vote, this could deprive them of their freedom to express their views through not voting. This information is kept confidential in government-run votes for the same reason.
 
     ## Related content{.mt-5}
-    - Seeing who has been invited to / joined a topic
-    - Downloading voting results
-    - Why voting is not fully anonymous
+    - [Seeing who has been invited to / joined a topic](/help/voting/seeing-who-has-been-invited-to-joined-a-topic)
+    - [Downloading voting results](/help/voting/downloading-voting-results)
+    - [Why voting is not fully anonymous](/help/voting/why-voting-is-not-fully-anonymous)
     { .list-arrow .list-unstyled }
 why-voting-is-not-fully-anonymous:
   path: /et/abi/haaletamine/miks-haaletamine-ei-ole-taiesti-anonyymne
@@ -72,16 +74,197 @@ submitting-signatures-to-the-ariregister-riigikogu-local-government-estonia-only
     help: /help/data.et.yaml
   title: Submitting signatures to the Äriregister / Riigikogu / local government (Estonia only)
   text: |
-    **When submitting to the Äriregister, the option “Machine-readable file (Äriregister)” should be selected when downloading the signature files.** The entire BDOC container should then be submitted to the Commercial Register. This folder does not include a CSV file, as the Äriregister does not accept BDOC folders that contain these.
+    **When submitting to the Äriregister, the option “Machine-readable file (Äriregister)” should be selected when downloading the signature files.** The entire BDOC container should then be submitted to the Äriregister. This folder does not include a spreadsheet (CSV) file, as the Äriregister does not accept BDOC folders that contain these.
 
-    **When submitting digital signatures to the Riigikogu or local government, the option “human-readable file (Riigikogu, KOV)” should be selected.** The entire BDOC container should then be submitted. This folder does include a CSV file.
-
-    **What is a CSV file?**
-    A CSV file is a “comma-separated values'' file, which presents data in a tabular format. This can be opened and read using any spreadsheet software (e.g. Excel, Google Sheets). Each voter’s data is displayed in a separate line in the table. It shows the date and time they voted, their name, their personal identification code, the options they voted for and the file name of each option they voted for.
-
-    **Here is an example of a line in a vote CSV file:**
-    *Thu Jan 21 2021 13:51:07 GMT + 0200 (Eastern European Standard Time), PNOEE-112233444, JAAK ERVIN SINGLE-GATE, "Two, Three", "Two.html, Three.html"*
+    **When submitting digital signatures to the Riigikogu or local government, the option “human-readable file (Riigikogu, KOV)” should be selected.** The entire BDOC container should then be submitted. This folder does include a spreadsheet (CSV) file.
 
     ## Related content{.mt-5}
-    - Downloading digital signature vote files (Estonia only)
+    - [Downloading digital signature vote files (Estonia only)](/help/voting/downloading-digital-signature-vote-files)
+    - [Digital signature voting results folder contents (Estonia only)](/help/voting/digital-signature-voting-results-folder-contents)
+    - [The CSV file for digital signature voting results (Estonia only)](/help/voting/the-csv-file-for-digital-signature-voting-results)
+    { .list-arrow .list-unstyled }
+how-to-set-up-a-vote:
+  path: /help/voting/how-to-set-up-a-vote
+  data:
+    help: /help/data.et.yaml
+  title: How to set up a vote
+  text: |
+    To start a vote, click on “Send to voting” in the Options menu of the relevant topic. (Top right on desktop, or in the options menu tab on mobile).
+
+    Here you can customise your voting settings, then click “Start voting”.
+
+    ![Screenshot of the platform.](/assets/images/help/sendtovoting.png)
+
+    **Please note** that once the vote has started:
+    - It will not be possible to edit the voting settings. You can, however, still add a voting deadline in the “Actions” part of the “Options” menu. (Top right on desktop, or in the options menu tab on mobile).
+    - It will no longer be possible to edit the topic text.
+### Related content{.mt-5}
+#- [Customising the voting settings](/help/voting/customising-the-voting-settings)
+#- [Setting up multiple choice voting](/help/voting/setting-up-multiple-choice-voting)
+#- [Setting up neutral votes, veto votes and vote delegation](/help/voting/setting-up-neutral-votes-veto-votes-an-vote-delegation)
+#- [Creating an inline vote in a topic text](/help/voting/creating-an-inline-vote-in-a-topic-text)
+#{ .list-arrow .list-unstyled }
+closing-the-vote-or-setting-a-vote-deadline:
+  path: /help/voting/closing-the-vote-or-setting-a-vote-deadline
+  data:
+    help: /help/data.et.yaml
+  title: Closing the vote or setting a vote deadline
+  text: |
+    A vote can either be closed automatically, using a voting deadline, or closed manually by the admin.
+
+    ![Screenshot of the platform.](/assets/images/help/sendtofollowup.png)
+
+    **To manually close the vote:**
+
+    - When in the topic, click on “Send to follow-up” in the “Options” menu. (Top right on desktop, or in the options menu tab on mobile). By sending to follow-up, you are closing the vote.
+
+    **To set an automatic vote deadline:**
+    Input the deadline when setting up the vote (i.e. when you first choose the vote settings).
+
+    *or*
+    - When in the topic, go to “Actions” in the “Options” menu. (Top right on desktop, or in the options menu tab on mobile). Here you can set or edit the voting deadline.
+
+    Once the vote has closed, you will need to click “Send to follow-up” in order to access the voting results.
+
+    ## Related content{.mt-5}
+    - [Downloading voting results](/help/voting/downloading-voting-results)
+    { .list-arrow .list-unstyled }
+downloading-voting-results:
+  path: /help/voting/downloading-voting-results
+  data:
+    help: /help/data.et.yaml
+  title: Downloading voting results
+  text: |
+    When the voting period ends, the admin(s) of a topic can download a summary report with the voting results.
+
+    The following instructions relate to votes cast using Citizen OS user IDs. Please see separate instructions if downloading digital signatures in Estonia.
+
+    ![Screenshot of the platform.](/assets/images/help/downloadvoteresults.png)
+
+    How to download voting results:
+
+    1. Go into the relevant topic.
+    1. Ensure that the vote is closed, and has been sent to follow-up.
+    1. Click on the “Vote” tab at the top, in which you will see a graph showing the voting results.
+    1. Click on the “Download voting results summary” button.
+    1. Once downloaded, the “final.zip” folder will appear in your computer’s “Downloads” folder.
+
+    The zip folder includes:
+
+    - A spreadsheet (CSV) file with the full results data
+    - A PDF results graph
+    - A Word document with the topic text (attachments are not included)
+    - a metadata file “__metainfo.html” that contains the topic ID and vote ID
+    - .html files with the names of the vote options, containing the option ID and text
+
+    ## Related content{.mt-5}
+    - [Downloading digital signature vote files (Estonia only)](/help/voting/downloading-digital-signature-vote-files)
+    - [Submitting signatures to the Äriregister / Riigikogu / local government (Estonia only)](/help/voting//help/voting/submitting-signatures-to-the-ariregister-riigikogu-local-government-estonia-only)
+    { .list-arrow .list-unstyled }
+setting-up-digital-signature-voting-Estonia-only:
+  path: /help/voting/setting-up-digital-signature-voting-Estonia-only
+  data:
+    help: /help/data.et.yaml
+  title: Setting up digital signature voting (Estonia only)
+  text: |
+    In Estonia, it is possible for participants to add a digital signature to their votes.
+
+    ![Screenshot of the platform.](/assets/images/help/eidon.png)
+
+    Here’s how:
+
+    1. First, set up a vote by clicking on “Send to voting” in the Options menu of the relevant topic. (Top right on desktop, or in the options menu tab on mobile).
+    1. Choose either “Regular” or “Custom” vote, depending on your preference. Digital voting is available in both options.
+    1. In the “Set up voting rights” section of the vote settings, move the e-ID slider from “OFF” to “ON”.
+    1. Once all your settings are how you want them, click on “Start voting”.
+
+    **Please note:**
+
+    - When eID voting is enabled, it is not possible to enable vote delegation.
+how-to-vote-using-a-digital-signature-Estonia-only:
+  path: /help/voting/downloading-voting-results
+  data:
+    help: /help/data.et.yaml
+  title: How to vote using a digital signature (Estonia only)
+  text: |
+    In Estonia, it is possible for participants to add a digital signature to their votes. To do this, you need to have an ID card reader, Mobile ID or Smart ID.
+
+    Here’s how:
+    1. Go into the relevant topic. (See Finding a topic).
+    1. Choose the option you want to vote for, and click “Submit your vote”.
+    1. Select your preferred e-ID signing method.
+    1. Fill the required fields and click on the “Sign” button.
+    1. After signing, a “Your vote has been registered” message will appear. You can download your signed vote (as a BDOC folder) in the right hand corner of the pop-up message window.
+
+    **Please note:**
+    - If you change your mind, you can change your vote by repeating the above process, as long as the vote is still open.
+
+    ## Related content{.mt-5}
+    - [Finding a topic](/help/voting/finding-a-topic)
+    { .list-arrow .list-unstyled }
+downloading-digital-signature-vote-files:
+  path: /help/voting/downloading-digital-signature-vote-files
+  data:
+    help: /help/data.et.yaml
+  title: Downloading digital signature vote files (Estonia only)
+  text: |
+    In Estonia, when participants add digital signatures to their votes, the topic admin(s) can download the voting results as a BDOC folder.
+
+    Here’s how:
+
+    1. Go into the relevant topic.
+    1. Ensure that the vote is closed, and has been sent to follow-up.
+    1. Click on the “Vote” tab at the top.
+    1. Choose whether to download the results as a “human readable” version or a “machine readable” version. The “human readable” version includes a CSV spreadsheet file, the “machine readable” version does not.
+    1. Once downloaded, the “final.bdoc” folder will appear in your computer’s “Downloads” folder.
+
+    ## Related content{.mt-5}
+    - [Digital signature voting results folder contents (Estonia only)](/help/voting/digital-signature-voting-results-folder-contents)
+    - [The CSV file for digital signature voting results (Estonia only)](/help/voting/the-csv-file-for-digital-signature-voting-results)
+    - [Submitting signatures to the Äriregister / Riigikogu / local government (Estonia only)](/help/voting//help/voting/submitting-signatures-to-the-ariregister-riigikogu-local-government-estonia-only)
+    { .list-arrow .list-unstyled }
+digital-signature-voting-results-folder-contents:
+  path: /help/voting/digital-signature-voting-results-folder-contents
+  data:
+    help: /help/data.et.yaml
+  title: Digital signature voting results folder contents (Estonia only)
+  text: |
+    In Estonia, digital signature voting results downloaded by admins come in a BDOC folder.
+
+    Here’s what that folder contains:
+    - A Word document with the topic text (attachments are not included)
+    - A metadata file “__metainfo.html” that contains the topic ID and vote ID
+    - .html files with the names of the vote options, containing the option ID and text
+    - each user's vote containers
+    - an optional spreadsheet (CSV) file
+    *To download a folder including a CSV file, choose “human-readable file”. To download a folder which does not include a CSV file, choose “machine-readable file”. Which one you choose depends on what you plan to do with the results.*
+
+    ## Related content{.mt-5}
+    - [Downloading digital signature vote files (Estonia only)](/help/voting/downloading-digital-signature-vote-files)
+    - [The CSV file for digital signature voting results (Estonia only)](/help/voting/the-csv-file-for-digital-signature-voting-results)
+    - [Submitting signatures to the Äriregister / Riigikogu / local government (Estonia only)](/help/voting//help/voting/submitting-signatures-to-the-ariregister-riigikogu-local-government-estonia-only)
+    { .list-arrow .list-unstyled }
+the-csv-file-for-digital-signature-voting-results:
+  path: /help/voting/the-csv-file-for-digital-signature-voting-results
+  data:
+    help: /help/data.et.yaml
+  title: The CSV file for digital signature voting results (Estonia only)
+  text: |
+    In Estonia, digital signature voting results can be downloaded with a CSV file (the “human readable” option) or without a CSV file (the “machine readable” option).
+
+    **What is a CSV file?**
+
+    A CSV file is a “comma-separated values'' file, which presents data in a tabular format. This can be opened and read using any spreadsheet software (e.g. Excel, Google Sheets).
+
+    Each voter’s data is displayed in a separate line in the table. It shows the date and time they voted, their name, their personal identification code, the options they voted for and the file name of each option they voted for.
+
+    Here is an example of a line in a vote CSV file:
+
+    *Thu Jan 21 2021 13:51:07 GMT + 0200 (Eastern European Standard Time), PNOEE-112233444, JAAK ERVIN SINGLE-GATE, "Two, Three", "Two.html, Three.html"*
+
+
+    ## Related content{.mt-5}
+    - [Downloading digital signature vote files (Estonia only)](/help/voting/downloading-digital-signature-vote-files)
+    - [Digital signature voting results folder contents (Estonia only)](/help/voting/digital-signature-voting-results-folder-contents)
+    - [Submitting signatures to the Äriregister / Riigikogu / local government (Estonia only)](/help/voting//help/voting/submitting-signatures-to-the-ariregister-riigikogu-local-government-estonia-only)
     { .list-arrow .list-unstyled }
