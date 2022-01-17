@@ -33,12 +33,12 @@ blocks:
     title: |
       Collaboration pour le changement.
     text: |
-      Nous unissons nos forces avec les organisations du monde entier pour travailler sur des projets innovants de e-démocratie et de participation.
+      We join forces with organisations worldwide to work on innovative e-democracy and participation projects.
 
-      - [Écoles d'hiver et d'été](#individual)
+      - [Winter and Summer Schools](#individual)
       - [EuroChangemakers](#awareness)
-      - [Communauté civique Hacktiviste](#individual2)
-      - [Réseau participatif de leadership jeunes](#awareness2)
+      - [Civic Hackathon](#individual2)
+      - [Participatory Youth Leadership Network](#awareness2)
       {.arrow }
   individual-img:
     class:
@@ -90,12 +90,12 @@ blocks:
     class:
       - order-7
     title: |
-      Communauté civique hacktiviste.
+      Civic Hackathon
     text: |
-      En 2019, nous avons lancé cette communauté internationale pour l’échange de connaissances et d’idées sur la démocratie numérique et la prise de décision collaborative.
+      The civic hackathon aims to bring people of all ages together to come up with innovative ideas for how best to design online public groups for civil society discussion and decision-making.
     button1st:
       title: En savoir plus
-      url: /fr/communaute/
+      url: /civic-hackathon/
   awarness2-img:
     class:
       - order-9
