@@ -14,12 +14,9 @@ blocks:
 
     text:
         text: |
-            ## Help us to make Citizen OS even better!{ .pt-5 }
+            ## On 18-20 of February 2022, we will host a 3-day Civic Hackathon.{ .pt-5 }
 
-            On 18-20 of February 2022, we will host a 3-day Civic Hackathon.
-
-            ![](/assets/images/programme.png)
-            [Programme pdf](/assets/images/civic-hackathon-programme.pdf)
+            [Programme](/assets/images/civic-hackathon-programme.pdf)
 
             [Email Sara Sinha in case of questions](mailto:sara@citizenos.com).
 
