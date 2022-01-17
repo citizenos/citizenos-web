@@ -33,12 +33,12 @@ blocks:
     title: |
       Сотрудничество ради изменений.
     text: |
-      Вместе с организациями по всему миру мы работаем над инновационными общественными проектами по электронной демократии.
+      We join forces with organisations worldwide to work on innovative e-democracy and participation projects.
 
-      - [Зимняя и летняя школы](#individual)
+      - [Winter and Summer Schools](#individual)
       - [EuroChangemakers](#awareness)
-      - [Гражданское сообщество хактивистов](#individual2)
-      - [Сеть коллективного молодежного лидерства](#awareness2)
+      - [Civic Hackathon](#individual2)
+      - [Participatory Youth Leadership Network](#awareness2)
       {.arrow }
   individual-img:
     class:
@@ -90,12 +90,12 @@ blocks:
     class:
       - order-7
     title: |
-      Гражданское сообщество хактивистов.
+      Civic Hackathon
     text: |
-      В 2019 году мы объявили об открытии этого международного сообщества по обмену знаниями и идеями об электронной демократии и совместном принятии решений.
+      The civic hackathon aims to bring people of all ages together to come up with innovative ideas for how best to design online public groups for civil society discussion and decision-making.
     button1st:
       title: Подробнее
-      url: /ru/soobshchestvo/
+      url: /civic-hackathon/
   awarness2-img:
     class:
       - order-9
