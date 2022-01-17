@@ -33,11 +33,11 @@ blocks:
     title: |
       Yhteistyötä muutoksen puolesta.
     text: |
-      Temme innovatiivisia e-demokratia- ja kansalaisosallistumisprojekteja yhteistyössä eri organisaatioiden kanssa ympäri maailmaa.
+      We join forces with organisations worldwide to work on innovative e-democracy and participation projects.
 
-      - [Talvi- ja kesäkoulut](#individual)
+      - [Winter and Summer Schools](#individual)
       - [EuroChangemakers](#awareness)
-      - [Kansalaishaktivistiyhteisö](#individual2)
+      - [Civic Hackathon](#individual2)
       - [Participatory Youth Leadership Network](#awareness2)
       {.arrow }
   individual-img:
@@ -90,12 +90,12 @@ blocks:
     class:
       - order-7
     title: |
-      Kansalaishaktivistiyhteisö.
+      Civic Hackathon
     text: |
-      Vuonna 2019 lanseerasimme tämän kansainvälisen yhteisön tiedonvaihtoon ja ideoihin e-demokratiasta ja yhteistyössä tehtävästä päätöksenteosta.
+      The civic hackathon aims to bring people of all ages together to come up with innovative ideas for how best to design online public groups for civil society discussion and decision-making.
     button1st:
       title: Lue lisää
-      url: /fi/yhteiso/
+      url: /civic-hackathon/
   awarness2-img:
     class:
       - order-9
