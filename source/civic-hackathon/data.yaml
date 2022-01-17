@@ -18,7 +18,8 @@ blocks:
 
             On 18-20 of February 2022, we will host a 3-day Civic Hackathon.
 
-            [Sign up!]()
+            ![](/assets/images/programme.png)
+            [Programme pdf](/assets/images/civic-hackathon-programme.pdf)
 
             [Email Sara Sinha in case of questions](mailto:sara@citizenos.com).
 
@@ -83,10 +84,8 @@ blocks:
             - Participants will have the opportunity to practice co-creation and design thinking
             - Participants will have the opportunity to understand and contribute to open source solutions
 
-            ![](/assets/images/civic-hackathon-programme.pdf)
-
     join:
-        title: Sign up for the Civic Hackathon!
+        title: Sign up!
         date: 18-20 Feb 2022
         time: 10am to 4pm
         how: We'll e-mail you the details.
