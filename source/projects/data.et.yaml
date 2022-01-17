@@ -33,12 +33,12 @@ blocks:
     title: |
       Koostöö muutuste nimel.
     text: |
-      Ühendame innovaatiliste e-demokraatia projektide ja osalusprojektidega töötamiseks jõud erinevate riikide organisatsioonidega.
+      We join forces with organisations worldwide to work on innovative e-democracy and participation projects.
 
-      - [Talve- ja suvekoolid](#individual)
+      - [Winter and Summer Schools](#individual)
       - [EuroChangemakers](#awareness)
-      - [Kodanikuhäktivistide kogukond](#individual2)
-      - [Noorte osalusdemokraatiajuhtide võrgustik](#awareness2)
+      - [Civic Hackathon](#individual2)
+      - [Participatory Youth Leadership Network](#awareness2)
       {.arrow }
   individual-img:
     class:
@@ -90,12 +90,12 @@ blocks:
     class:
       - order-7
     title: |
-      Kodanikuhäktivistide kogukond.
+      Civic Hackathon
     text: |
-      2019. aastal käivitasime selle rahvusvahelise kogukonna eesmärgiga jagada teadmisi ja ideid e-demokraatia ning koostööpõhise otsustelangetamise teemadel.
+      The civic hackathon aims to bring people of all ages together to come up with innovative ideas for how best to design online public groups for civil society discussion and decision-making.
     button1st:
       title: Vaata lisa
-      url: /et/kogukond/
+      url: /civic-hackathon/
   awarness2-img:
     class:
       - order-9
