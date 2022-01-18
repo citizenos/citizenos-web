@@ -18,15 +18,11 @@ blocks:
 
             [Programme](/assets/images/civic-hackathon-programme.pdf)
 
-            [Email](mailto:sara@citizenos.com) Sara Sinha in case of questions.
+            [Email Sara Sinha in case of questions](mailto:sara@citizenos.com).
 
             ## Description:{ .pt-5 }
 
-            On the 18-20 of February, the non-profit civic tech organisation Citizen OS will host a 3-day Civic Hackathon.
-
-            ## Instructions for participants:{ .pt-5 }
-
-            Participants will have the opportunity to “hack” civic engagement and discussions in both the online and offline sphere.
+            The civic hackathon aims to bring people of all ages together to come up with innovative ideas for how best to design online public groups for civil society discussion and decision-making.
 
             Participants will form teams of 3-5 people and present an idea.
 
@@ -44,9 +40,21 @@ blocks:
 
             The civic hackathon will be held at the Citizen OS office located in Telliskivi Creative City, Telliskivi 60a/3, Tallinn 10412, Estonia, EU.
 
-            Participation size is limited to **20 participants**.
+            Participation size is limited to 20 participants.
 
             *NB! Due to Covid restrictions, the format of the hackathon is subject to change and may become a fully online event. Participants will be compensated for lunch costs.*
+
+            ## Objective:{ .pt-5 }
+
+            To involve participants in reimagining the idea of public groups, which have an important role in democracies.
+
+            *By public groups, we mean civil society led groups of individuals that are open to anyone - i.e. they do not require an invite or approval to join. Additionally, some information about the group is made accessible and searchable to the general public. Public groups are usually, but not exclusively, formed to enable discussion and decision-making between participants.*
+
+            The following questions could be the basis for participant solutions
+            - What does the ideal public group look like?
+            - How does it work and why?
+            - Who are the major stakeholders?
+
 
             ## Evaluation process:{ .pt-5 }
 
@@ -54,26 +62,33 @@ blocks:
 
             *NB: No prizes will be awarded.*
 
+            ## Our goals are to:{ .pt-5 }
+
+            - To strengthen public groups, which have the potential to become more transparent and democratic compared to private groups.
+            - To promote open-source solutions
+            - To promote open knowledge sharing
+
+
             ## Who we are looking for:{ .pt-5 }
 
-            - Participants who are currently enrolled in Bachelor and Master level programmes.
-            - Participants who are involved in an active civic engagement project or idea.
+            - Participants who are currently enrolled in Bachelor and Master level programmes
+            - Participants are involved in an active civic engagement project or idea
 
 
             ## Participation outcomes:{ .pt-5 }
 
-            - Participants will have the opportunity to conduct user research.
-            - Participants will have the opportunity to practice co-creation and design thinking.
-            - Participants will have the opportunity to understand and contribute to open source solutions.
+            - Participants will have the opportunity to conduct user research
+            - Participants will have the opportunity to practice co-creation and design thinking
+            - Participants will have the opportunity to understand and contribute to open source solutions
 
     join:
         title: Sign up!
         date: 18-20 Feb 2022
         time: 10am to 4pm
-        how: [Register here](https://docs.google.com/forms/d/e/1FAIpQLSfxunCYedgNW9xrDY1iGxD25vQHC8p7eJG69-vDHoVA81OpDQ/viewform).
-#        button:
-#            title: Sign up
-#            url: ''
+        how: We'll e-mail you the details.
+        button:
+            title: Sign up
+            url: 'https://docs.google.com/forms/d/e/1FAIpQLSfxunCYedgNW9xrDY1iGxD25vQHC8p7eJG69-vDHoVA81OpDQ/viewform'
 
 #    form:
 #        title: Join the PYLN community! Please sign up and we will email you with further details.
