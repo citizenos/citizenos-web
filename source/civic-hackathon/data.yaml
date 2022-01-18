@@ -18,6 +18,8 @@ blocks:
 
             [Programme](/assets/images/civic-hackathon-programme.pdf)
 
+            [Sign up!](https://docs.google.com/forms/d/e/1FAIpQLSfxunCYedgNW9xrDY1iGxD25vQHC8p7eJG69-vDHoVA81OpDQ/viewform)
+
             [Email](mailto:sara@citizenos.com) Sara Sinha in case of questions.
 
             ## Instructions for participants:{ .pt-5 }
@@ -62,13 +64,13 @@ blocks:
             - Participants will have the opportunity to understand and contribute to open source solutions.
 
     join:
-        title: Sign up!
+#        title: Sign up!
         date: 18-20 Feb 2022
         time: 10am to 4pm
-        how: We'll e-mail you the details.
-        button:
-            title: Sign up
-            url: ''
+#        how: We'll e-mail you the details.
+#        button:
+#            title: Sign up
+#            url: ''
 
 #    form:
 #        title: Join the PYLN community! Please sign up and we will email you with further details.
