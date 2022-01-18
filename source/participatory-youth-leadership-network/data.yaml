@@ -92,11 +92,6 @@ blocks:
             title: Sign up
             url: https://citizenos.us19.list-manage.com/subscribe/post?u=ab576406496d96d9a8387879f&id=0804e75bba
 
-    form:
-        title: Join the PYLN community! Please sign up and we will email you with further details.
-        email: Email Address
-        subscribe: Sign up
-
     footer:
         text: |
             [Citizen OS](/) is an Open Source social enterprise.
