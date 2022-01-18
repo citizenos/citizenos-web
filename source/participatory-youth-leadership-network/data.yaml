@@ -90,7 +90,7 @@ blocks:
         how: We'll e-mail you the details.
         button:
             title: Sign up
-            url: '#join'
+            url: https://citizenos.us19.list-manage.com/subscribe/post?u=ab576406496d96d9a8387879f&id=0804e75bba
 
     form:
         title: Join the PYLN community! Please sign up and we will email you with further details.

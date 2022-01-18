@@ -81,24 +81,17 @@ blocks:
 
             Registreerimise tähtaeg on 21. Jaanuar 2021 või kuni grupi täitumiseni. Ühes koolitusgrupis on maksimaalselt 15 inimest.
 
-            [Registreeru](){data-toggle=modal data-target=#join-popup} või saada korraldajale [e-kiri](mailto:anett@citizenos.com).
+            Registreeru või saada korraldajale [e-kiri](mailto:anett@citizenos.com).
 
     join:
-        title: E-kaasamiskoolitus. Hind €49.
+        title: E-kaasamiskoolitus
         date: 22, 29 jaan, 12 veebr.
         time: Kõigil päevadel kell 15-17:30
+        price: 49.-
         how: Registreeru koolitusele!
         button:
             title: Registreeru
-            url: '#join'
-
-    form:
-        title: Registreerige koolitusele. Saadame Teile arve ja koolituse info e-posti aadressile.
-        email: E-posti aadress
-        firstName: Eesnimi
-        lastName: Perekonnanimi
-        phoneNumber: Telefoni number
-        subscribe: Registreeru
+            url: https://citizenos.us19.list-manage.com/subscribe/post?u=ab576406496d96d9a8387879f&id=63449b8f38
 
     footer:
         text: |
