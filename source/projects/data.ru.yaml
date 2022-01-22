@@ -37,7 +37,7 @@ blocks:
 
       - [Зимняя и летняя школы](#individual)
       - [EuroChangemakers](#awareness)
-      - [Гражданское сообщество хактивистов](#individual2)
+      - [Civic Hackaton](#individual2)
       - [Сеть коллективного молодежного лидерства](#awareness2)
       {.arrow }
   individual-img:
@@ -90,12 +90,12 @@ blocks:
     class:
       - order-7
     title: |
-      Гражданское сообщество хактивистов.
+      Civic Hackathon
     text: |
-      В 2019 году мы объявили об открытии этого международного сообщества по обмену знаниями и идеями об электронной демократии и совместном принятии решений.
+      Participants will have the opportunity to “hack” civic engagement and discussions in both the online and offline sphere.
     button1st:
       title: Подробнее
-      url: /ru/soobshchestvo/
+      url: /civic-hackathon/
   awarness2-img:
     class:
       - order-9
