@@ -35,10 +35,10 @@ blocks:
     text: |
       Arutle ja hääleta turvaliselt. Kasuta kinnises grupis või avalikult. Digiallkirjasta.
 
-      - [Functions](#flexibleformat)
-      - [Features](#features)
-      - [Case studies](#case-study-2)
-      - [Statistics](#stats)
+      - [Võimalused](#flexibleformat)
+      - [Funktsioonid](#features)
+      - [Juhtumiuuringud](#case-study-2)
+      - [Statistika](#stats)
       { .arrow }
     button1st:
       title: Vaata demo
