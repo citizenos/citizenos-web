@@ -33,12 +33,12 @@ blocks:
     title: |
       Сотрудничество ради изменений.
     text: |
-      We join forces with organisations worldwide to work on innovative e-democracy and participation projects.
+      Вместе с организациями по всему миру мы работаем над инновационными общественными проектами по электронной демократии.
 
-      - [Winter and Summer Schools](#individual)
+      - [Зимняя и летняя школы](#individual)
       - [EuroChangemakers](#awareness)
-      - [Civic Hackathon](#individual2)
-      - [Participatory Youth Leadership Network](#awareness2)
+      - [Civic Hackaton](#individual2)
+      - [Сеть коллективного молодежного лидерства](#awareness2)
       {.arrow }
   individual-img:
     class:
