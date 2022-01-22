@@ -33,12 +33,12 @@ blocks:
     title: |
       Koostöö muutuste nimel.
     text: |
-      We join forces with organisations worldwide to work on innovative e-democracy and participation projects.
+      Ühendame innovaatiliste e-demokraatia projektide ja osalusprojektidega töötamiseks jõud erinevate riikide organisatsioonidega.
 
-      - [Winter and Summer Schools](#individual)
+      - [Talve- ja suvekoolid](#individual)
       - [EuroChangemakers](#awareness)
-      - [Civic Hackathon](#individual2)
-      - [Participatory Youth Leadership Network](#awareness2)
+      - [Kodanikuhäkaton](#individual2)
+      - [Noorte osalusdemokraatiajuhtide võrgustik](#awareness2)
       {.arrow }
   individual-img:
     class:
@@ -90,9 +90,9 @@ blocks:
     class:
       - order-7
     title: |
-      Civic Hackathon
+      Kodanikuhäkaton
     text: |
-      Participants will have the opportunity to “hack” civic engagement and discussions in both the online and offline sphere.
+      Osalejatel on võimalus "häkkida" kodanikuaktiivsust ja arutelusid nii veebis kui ka väljaspool seda.
     button1st:
       title: Vaata lisa
       url: /civic-hackathon/
