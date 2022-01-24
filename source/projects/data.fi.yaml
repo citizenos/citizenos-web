@@ -37,7 +37,7 @@ blocks:
 
       - [Talvi- ja kesäkoulut](#individual)
       - [EuroChangemakers](#awareness)
-      - [Kansalaishaktivistiyhteisö](#individual2)
+      - [Civic Hackathon](#individual2)
       - [Participatory Youth Leadership Network](#awareness2)
       {.arrow }
   individual-img:
@@ -90,12 +90,12 @@ blocks:
     class:
       - order-7
     title: |
-      Kansalaishaktivistiyhteisö.
+      Civic Hackathon
     text: |
-      Vuonna 2019 lanseerasimme tämän kansainvälisen yhteisön tiedonvaihtoon ja ideoihin e-demokratiasta ja yhteistyössä tehtävästä päätöksenteosta.
+      Participants will have the opportunity to “hack” civic engagement and discussions in both the online and offline sphere.
     button1st:
       title: Lue lisää
-      url: /fi/yhteiso/
+      url: /civic-hackathon/
   awarness2-img:
     class:
       - order-9

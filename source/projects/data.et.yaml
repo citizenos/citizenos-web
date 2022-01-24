@@ -37,7 +37,7 @@ blocks:
 
       - [Talve- ja suvekoolid](#individual)
       - [EuroChangemakers](#awareness)
-      - [Kodanikuhäktivistide kogukond](#individual2)
+      - [Kodanikuhäkaton](#individual2)
       - [Noorte osalusdemokraatiajuhtide võrgustik](#awareness2)
       {.arrow }
   individual-img:
@@ -90,12 +90,12 @@ blocks:
     class:
       - order-7
     title: |
-      Kodanikuhäktivistide kogukond.
+      Kodanikuhäkaton
     text: |
-      2019. aastal käivitasime selle rahvusvahelise kogukonna eesmärgiga jagada teadmisi ja ideid e-demokraatia ning koostööpõhise otsustelangetamise teemadel.
+      Osalejatel on võimalus "häkkida" kodanikuaktiivsust ja arutelusid nii veebis kui ka väljaspool seda.
     button1st:
       title: Vaata lisa
-      url: /et/kogukond/
+      url: /civic-hackathon/
   awarness2-img:
     class:
       - order-9

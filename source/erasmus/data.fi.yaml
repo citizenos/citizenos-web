@@ -10,11 +10,9 @@ blocks:
   header:
     title: 'Kansalaisosallistumisen digitalisaatio'
   text:
-    text: |2
+    text: |
 
       ## Oppimista tekemisen kautta
-
-      [Hae nyt!](https://docs.google.com/forms/d/e/1FAIpQLSc0rssCy1BA8WgegHqVMp50xCH8m2MiNTflVEZt9n_zmdcueg/viewform)
 
       Kansalaisosallistumisen digitalisaatio -nuorisovaihto-ohjelmamme kouluttaa Euroopan seuraavalle johtajasukupolvelle kansalaisosallistumisprojektien suunnittelua ja osallistavaa johtamista innovatiivisilla ja osallistavilla menetelmillä.
 
@@ -33,7 +31,14 @@ blocks:
 
 
       Osallistujien on oltava 18–30-vuotiaita, ja heillä on oltava vähintään A2-taso puhutussa englannissa. Ideaalihakijalla on kiinnostusta tai kokemusta kansalaisosallistumisprojektien käynnistämisestä tai niihin osallistumisesta tai nuoriso-organisaatioissa toimimisesta.
-       
+
       Jos olet kiinnostunut osallistumisesta tai haluat lisätietoa ohjelmasta, [ota yhteyttä kumppanuus- ja yhteisöjohtajaamme Anett Linnoon.](mailto:anett@citizenos.com)
 
       **Tätä ohjelmaa tukee Erasmus+ sekä Euroopan solidaarisuusjoukot -ohjelman Euroopan solidaarisuusjoukot -virasto. [www.euroopanoored.eu](http://euroopanoored.eu).**
+  join:
+    title: Aika ja toiminta
+    #date: 17-25 August 2021, Haapsalu
+    #time: Full days
+    button:
+      title: Liity nyt!
+      url: https://docs.google.com/forms/d/e/1FAIpQLSc0rssCy1BA8WgegHqVMp50xCH8m2MiNTflVEZt9n_zmdcueg/viewform
