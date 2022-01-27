@@ -36,7 +36,7 @@ team:
     email: agustina@citizenos.com
   - 
     name: Sara Sinha
-    title: Руководитель партнерства и сообщества в Индии
+    title: Partnership and Community Lead
     text: Приверженка идеи открытого управления.
     avatar: /assets/images/team/sara-avatar.png
     picture: /assets/images/team/sara.png
@@ -91,7 +91,7 @@ team:
     linkedin: https://www.linkedin.com/in/tasia-rosalina
     email: tasia@citizenos.com
   - 
-    name: Оксана Найденова (в отпуске по уходу за ребенком)
+    name: Oksana Naidjonova
     title: Локализация и перевод
     text: Сражается за правое дело и всегда вдохновляет нас быть лучше.
     avatar: /assets/images/team/oksana-avatar.jpg
@@ -100,26 +100,9 @@ team:
     twitter: https://twitter.com/oksks
     email: oksana@citizenos.com
   - 
-    name: Viljar Sepp
-    title: Локализация и перевод
-    text: Любит переводить и шутить. Прекрасно умеет и то и другое.
-    avatar: /assets/images/team/viljar-avatar.jpg
-    picture: /assets/images/team/viljar.jpg
-    linkedin: https://ee.linkedin.com/in/viljarsepp
-    email: viljar@citizenos.com
-  - 
-    name: Liina Guiter
-    title: Маркетинг и связи с общественностью
-    text: Может найти общий язык и тему для обсуждения с любым живым существом.
-    avatar: /assets/images/team/liina-avatar.jpg
-    picture: /assets/images/team/liina.jpg
-    linkedin: https://www.linkedin.com/in/liinaguiter/
-    twitter: https://twitter.com/liinaguiter
-    email: liina@citizenos.com
-  - 
     name: Ly Kasvandik
-    title: HR
-    text: Всегда рядом, чтобы помочь и защитить в трудный момент.
+    title: Human Relations
+    text: Always there to help and protect, when one needs it most.
     avatar: /assets/images/team/ly-avatar.jpg
     picture: /assets/images/team/ly.jpg
     linkedin: https://www.linkedin.com/in/lykasvandik/
