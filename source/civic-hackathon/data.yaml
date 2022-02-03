@@ -8,6 +8,7 @@ keywords:
     - civic hackathon
 
 
+
 blocks:
     header:
         title: 'Civic Hackathon'
@@ -16,58 +17,56 @@ blocks:
         text: |
             ## Join our first Civic Hackathon.{ .pt-5 }
 
-            [Programme](/assets/images/civic-hackathon-programme.pdf)
+            **Saturday 19 – Sunday 20 February 2022, 10:00-16:00.** With an optional intro day, Friday 18 February, for those available.
 
-            [Sign up!](https://docs.google.com/forms/d/e/1FAIpQLSfxunCYedgNW9xrDY1iGxD25vQHC8p7eJG69-vDHoVA81OpDQ/viewform)
+            [Register](https://docs.google.com/forms/d/e/1FAIpQLSfxunCYedgNW9xrDY1iGxD25vQHC8p7eJG69-vDHoVA81OpDQ/viewform) | [Programme](/assets/images/civic-hackathon-programme.pdf) | [Ask us a question](mailto:sara@citizenos.com) | [Facebook event](https://www.facebook.com/events/328936615806281)
 
-            [Email](mailto:sara@citizenos.com) Sara Sinha in case of questions.
+            **Registration deadline:** 14 February 2022.
+            *Places will be allocated on a “first-come-first-served” basis, up to a maximum of 20 participants.*
 
-            ## Instructions for participants:{ .pt-5 }
+            ## The hackathon:{ .pt-5 }
+            At the Citizen OS Civic Hackathon, university students will have the opportunity to “hack” civic engagement and discussions in both the online and offline sphere, through a fun, hands-on and co-created experience.
 
-            Participants will have the opportunity to “hack” civic engagement and discussions in both the online and offline sphere.
+            You will work in teams of 3-5 students to research, define and pitch solutions for civic engagement, collective discussions and deliberation.
 
-            Participants will form teams of 3-5 people and present an idea.
+            Open to all university students with an interest in civic engagement, and a wish to connect with other like-minded students and gain new skills (such as design thinking, co-creation and user research).
 
-            The idea can be presented in any format, and can be either digital or physical. Some possible presentation formats include, but are not limited to:
+            “Hacked” solutions can be presented in any format, and can be either digital or physical. Some possible presentation formats include, but are not limited to:
+
             - Storyboards / stories
             - Sketches / wireframes
             - Digital prototypes
-            - Physical prototypes (clay, paper, wood, etc)
+            - Physical prototypes (clay, paper, wood, etc.)
             - Plays / scripts
             - Cards / board games
             - A poster / advert / promotional video
 
-
-            ## Hackathon format:{ .pt-5 }
-
-            The civic hackathon will be held at the Citizen OS office located in Telliskivi Creative City, Telliskivi 60a/3, Tallinn 10412, Estonia, EU.
-
-            Participation size is limited to **20 participants**.
-
-            *NB! Due to Covid restrictions, the format of the hackathon is subject to change and may become a fully online event. Participants will be compensated for lunch costs.*
-
-            ## Evaluation process:{ .pt-5 }
-
             Participants and mentors can deliberate on the evaluation process (for example whether the idea is clear, sustainable, viable, etc.) and come up with the evaluation criteria themselves.
 
-            *NB: No prizes will be awarded.*
 
-            ## Who we are looking for:{ .pt-5 }
-
-            - Participants who are currently enrolled in Bachelor and Master level programmes.
+            ## Who we’re looking for:{ .pt-5 }
+            - Students who are currently enrolled in Bachelor and Master level programmes.
             - Participants who are involved in an active civic engagement project or idea.
 
-            ## Participation outcomes:{ .pt-5 }
+            ## What you’ll get out of it:{ .pt-5 }
+            - Learn to conduct effective user research.
+            - Practice co-creation and design thinking.
+            - Understand and contribute to open source solutions.
 
-            - Participants will have the opportunity to conduct user research
-            - Participants will have the opportunity to practice co-creation and design thinking.
-            - Participants will have the opportunity to understand and contribute to open source solutions.
+            ## Other important details:{ .pt-5 }
+            The civic hackathon will be held at the Citizen OS office located in Telliskivi Creative City, Telliskivi 60a/3, Tallinn 10412, Estonia, EU.
+
+            We encourage all participants to attend the full three days (including the Friday 18 Feb intro day). However, if you are unable to attend the Friday session due to study/work commitments, it will be possible to receive the brief and form your team online asynchronously, at a time that suits you that day.
+
+            No prizes will be awarded, but all participants will be compensated for lunch costs on Sat 19 – Sun 20 Feb. On Friday 18 Feb there will be snacks available.
+
+            Due to Covid-19 restrictions, the format of the hackathon is subject to change and may become a fully online event.
 
     join:
-        title: Sign up!
+        title: Civic Hackathon
         date: 18-20 Feb 2022
         time: 10am to 4pm
-        how: We'll e-mail you the details.
+        how: "Registration deadline: 14 Feb 2022"
         button:
             title: Sign up
             url: https://docs.google.com/forms/d/e/1FAIpQLSfxunCYedgNW9xrDY1iGxD25vQHC8p7eJG69-vDHoVA81OpDQ/viewform
