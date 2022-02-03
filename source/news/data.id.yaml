@@ -15,8 +15,21 @@ news:
     image: /assets/images/news/our-new-government-partnership-for-youth-e-engagement-in-indonesia.jpeg
     categories:
       - Citizen OS news
+      - Case studies
+      - E-democracy news
     text: |
       Youth E-Engagement Programme is a new partnership between Citizen OS Indonesia and the Indonesian government.
+  2022-01-16:
+    url: /news/interview-imam-gunawan-indonesian-ministry-of-youth-and-sport
+    title: Interview-Imam Gunawan, Indonesian Ministry of Youth and Sport.
+    author: Agustina Iskandar Crombach
+    image: /assets/images/news/imam.jpeg
+    categories:
+      - Citizen OS news
+      - Case studies
+      - E-democracy news
+    text: |
+      Interview with Imam Gunawan from the Indonesian Ministry of Youth and Sport on collaborating with Citizen OS.
   2021-12-05:
     url: /news/my-volunteer-experience-sara-sinha
     title: My Volunteer Experience-Sara Sinha.

@@ -14,8 +14,6 @@ blocks:
 
       ## Tegevuse kaudu õppimine
 
-      [Saada taotlus!](https://docs.google.com/forms/d/e/1FAIpQLSc0rssCy1BA8WgegHqVMp50xCH8m2MiNTflVEZt9n_zmdcueg/viewform)
-
       Meie projekti "Digitaalne muundumine kodanike kaasamiseks" noortevahetusprogrammi käigus koolitatakse innovaatiliste ja köitvate meetoditega välja Euroopa kodanike kaasamise ja osaluspõhise juhtimise projektide eestvedajate järgmist põlvkonda.
 
       Üheksapäevase perioodi jooksul 17.–25. augustil 2021 on viiel noorel inimesel kuuest osalevast riigist võimalus disainida ja ellu viia lahendusi päriselus esinenud, kodanike kaasamisega seotud probleemidele fiktiivses demokraatlikult juhitavas organisatsioonis. Osalevad noored tegutsevad organisatsiooni nõukogu liikmetena ja proovivad leida lahendusi organisatsiooni juhtimisprobleemidele, toetades ja inspireerides samaaegselt oma projektimeeskonna liikmeid.
@@ -36,4 +34,11 @@ blocks:
 
       Kui oled osalemisest huvitatud või tahad lihtsalt programmi kohta lisateavet saada, siis palun [võta ühendust meie partnersuhete ja kogukonna juhi Anett Linnoga.](mailto:anett@citizenos.com)
 
-      **Projekti toetab Erasmus+ ja Euroopa Solidaarsuskorpuse agentuur Erasmus+ programmist. [www.euroopanoored.eu](http://euroopanoored.eu).**
+      **Seda projekti toetavad Erasmus+ ja Euroopa Solidaarsuskorpuse Agentuur Euroopa Solidaarsuskorpuse Programmist. [www.euroopanoored.eu](http://euroopanoored.eu).**
+  join:
+    title: Ajalugu ja tegevused
+    #date: 17-25 August 2021, Haapsalu
+    #time: Full days
+    button:
+      title: Esita oma taotlus nüüd!
+      url: https://docs.google.com/forms/d/e/1FAIpQLSc0rssCy1BA8WgegHqVMp50xCH8m2MiNTflVEZt9n_zmdcueg/viewform

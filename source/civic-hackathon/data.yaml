@@ -70,5 +70,4 @@ blocks:
         how: We'll e-mail you the details.
         button:
             title: Sign up
-            url:
-https://docs.google.com/forms/d/e/1FAIpQLSfxunCYedgNW9xrDY1iGxD25vQHC8p7eJG69-vDHoVA81OpDQ/viewform
+            url: https://docs.google.com/forms/d/e/1FAIpQLSfxunCYedgNW9xrDY1iGxD25vQHC8p7eJG69-vDHoVA81OpDQ/viewform

@@ -36,7 +36,7 @@ team:
     email: agustina@citizenos.com
   - 
     name: Sara Sinha
-    title: Responsable partenariats et communtauté en Inde
+    title: Partnership and Community Lead
     text: Adepte de la gouvernance ouverte.
     avatar: /assets/images/team/sara-avatar.png
     picture: /assets/images/team/sara.png
@@ -91,7 +91,7 @@ team:
     linkedin: https://www.linkedin.com/in/tasia-rosalina
     email: tasia@citizenos.com
   - 
-    name: Oksana Naidjonova (en congé parental)
+    name: Oksana Naidjonova
     title: Localisation & traduction
     text: Se bat pour la justice et nous pousse à nous améliorer chaque jour.
     avatar: /assets/images/team/oksana-avatar.jpg
@@ -100,26 +100,9 @@ team:
     twitter: https://twitter.com/oksks
     email: oksana@citizenos.com
   - 
-    name: Viljar Sepp
-    title: Localisation & traduction
-    text: Adore localiser et faire des blagues. Excelle aux deux.
-    avatar: /assets/images/team/viljar-avatar.jpg
-    picture: /assets/images/team/viljar.jpg
-    linkedin: https://ee.linkedin.com/in/viljarsepp
-    email: viljar@citizenos.com
-  - 
-    name: Liina Guiter
-    title: Marketing & Communications
-    text: Trouve un langage commun et quelque chose à partager avec n'importe quel être sur cette planète.
-    avatar: /assets/images/team/liina-avatar.jpg
-    picture: /assets/images/team/liina.jpg
-    linkedin: https://www.linkedin.com/in/liinaguiter/
-    twitter: https://twitter.com/liinaguiter
-    email: liina@citizenos.com
-  - 
     name: Ly Kasvandik
-    title: Relations humaines
-    text: Toujours là pour aider et protéger, quand on en a le plus besoin.
+    title: Human Relations
+    text: Always there to help and protect, when one needs it most.
     avatar: /assets/images/team/ly-avatar.jpg
     picture: /assets/images/team/ly.jpg
     linkedin: https://www.linkedin.com/in/lykasvandik/

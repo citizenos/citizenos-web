@@ -21,8 +21,6 @@ blocks:
 
             [Leave your contact details](mailto:sara@citizenos.com) and we will send you info about the next session.
 
-            [Sign up for the Participatory Youth Leadership Network!](){data-toggle=modal data-target=#join-popup}
-
             ## An Invitation to Collaborate{ .pt-5 }
 
             Youth organisations of India and beyond, we invite you to collaborate in the development of a new community of practice in India – the Participatory Youth Leadership Network (PYLN).
@@ -84,14 +82,10 @@ blocks:
             Making democratic collective decisions about the development of the network, building trust and communication among members.
 
     join:
-        title: Sign up for the Participatory Youth Leadership Network!
+        title: Sign up for Network!
         date: Ongoing
         time: Ongoing
         how: We'll e-mail you the details.
         button:
             title: Sign up
             url: https://citizenos.us19.list-manage.com/subscribe/post?u=ab576406496d96d9a8387879f&id=0804e75bba
-
-    footer:
-        text: |
-            [Citizen OS](/) is an Open Source social enterprise.

@@ -37,7 +37,7 @@ blocks:
 
       - [Winter and Summer Schools](#individual)
       - [EuroChangemakers](#awareness)
-      - [Civic Hacktivist Community](#individual2)
+      - [Civic Hackathon](#individual2)
       - [Participatory Youth Leadership Network](#awareness2)
       {.arrow }
   individual-img:
@@ -90,12 +90,12 @@ blocks:
     class:
       - order-7
     title: |
-      Civic Hacktivist Community.
+      Civic Hackathon
     text: |
-      In 2019, we launched this international community for the exchange of knowledge and ideas about e-democracy and collaborative decision-making.
+      Participants will have the opportunity to “hack” civic engagement and discussions in both the online and offline sphere.
     button1st:
       title: Learn more
-      url: /community/
+      url: /civic-hackathon/
   awarness2-img:
     class:
       - order-9
