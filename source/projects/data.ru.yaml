@@ -95,7 +95,7 @@ blocks:
       Участникам будет предоставлена возможность "взломать" тему гражданского участия и дискуссии как в онлайн, так и в оффлайн режиме.
     button1st:
       title: Подробнее
-      url: /civic-hackathon/
+      url: /ru/grazhdanskij-hakaton/
   awarness2-img:
     class:
       - order-9
