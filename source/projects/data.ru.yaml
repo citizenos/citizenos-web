@@ -90,9 +90,9 @@ blocks:
     class:
       - order-7
     title: |
-      Civic Hackathon
+      Гражданский Хакатон
     text: |
-      Participants will have the opportunity to “hack” civic engagement and discussions in both the online and offline sphere.
+      Участникам будет предоставлена возможность "взломать" тему гражданского участия и дискуссии как в онлайн, так и в оффлайн режиме.
     button1st:
       title: Подробнее
       url: /civic-hackathon/
