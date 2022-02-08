@@ -36,7 +36,7 @@ team:
     email: agustina@citizenos.com
   - 
     name: Sara Sinha
-    title: Partnership and Community Lead
+    title: Руководитель партнерства и сообщества
     text: Приверженка идеи открытого управления.
     avatar: /assets/images/team/sara-avatar.png
     picture: /assets/images/team/sara.png
@@ -45,7 +45,7 @@ team:
     email: sara@citizenos.com
   - 
     name: Ильмар Тюрк
-    title: Архитектор ПО
+    title: CTO
     text: Отлично пишет код, а шутит еще лучше.
     avatar: /assets/images/team/ilmar-avatar.jpg
     picture: /assets/images/team/ilmar.jpg
@@ -91,7 +91,7 @@ team:
     linkedin: https://www.linkedin.com/in/tasia-rosalina
     email: tasia@citizenos.com
   - 
-    name: Oksana Naidjonova
+    name: Оксана Найденова
     title: Локализация и перевод
     text: Сражается за правое дело и всегда вдохновляет нас быть лучше.
     avatar: /assets/images/team/oksana-avatar.jpg
@@ -100,9 +100,9 @@ team:
     twitter: https://twitter.com/oksks
     email: oksana@citizenos.com
   - 
-    name: Ly Kasvandik
-    title: Human Relations
-    text: Always there to help and protect, when one needs it most.
+    name: Ли Касвандик
+    title: Отдел кадров
+    text: Всегда рядом, чтобы помочь и защитить в трудный момент.
     avatar: /assets/images/team/ly-avatar.jpg
     picture: /assets/images/team/ly.jpg
     linkedin: https://www.linkedin.com/in/lykasvandik/
