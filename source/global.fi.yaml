@@ -47,9 +47,6 @@ footer:
         aboutUs:
           title: Tietoja meistä
           url: /fi/tietoja-meista/
-        careers:
-          title: Urat
-          url: /fi/urat/
         getInvolved:
           title: Osallistu
           url: /fi/osallistu/
@@ -89,9 +86,6 @@ footer:
     support:
       title: Tuki
       links:
-        faq:
-          title: UKK
-          url: /faq/
         guides:
           title: Ohjekeskus
           url: /help/
