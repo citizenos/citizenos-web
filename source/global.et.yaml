@@ -47,9 +47,6 @@ footer:
         aboutUs:
           title: Meist
           url: /et/meist/
-        careers:
-          title: Vabad töökohad
-          url: /et/vabad-tookohad/
         getInvolved:
           title: Löö kaasa
           url: /et/loo-kaasa/
@@ -89,9 +86,6 @@ footer:
     support:
       title: Kasutajatugi
       links:
-        faq:
-          title: KKK
-          url: /et/kkk/
         guides:
           title: Abikeskus
           url: /help/
