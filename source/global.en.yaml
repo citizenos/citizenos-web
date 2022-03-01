@@ -51,9 +51,6 @@ footer:
                 aboutUs:
                     title: About us
                     url: /about-us/
-                careers:
-                    title: Careers
-                    url: /careers/
                 getInvolved:
                     title: Get involved
                     url: /get-involved/
