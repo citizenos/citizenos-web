@@ -93,9 +93,6 @@ footer:
         support:
             title: Support
             links:
-                faq:
-                    title: FAQ
-                    url: /faq/
                 guides:
                     title: Help Centre
                     url: /help/
