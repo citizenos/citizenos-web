@@ -13,7 +13,7 @@ blocks:
         title: Help us pioneer and develop the field of e-democracy
         button:
             title: Donate now!
-            url: '#'
+            url: '#how'
 
     text:
         text: |
@@ -77,8 +77,8 @@ blocks:
 
                 #### QR code
 
-                ![](https://chart.googleapis.com/chart?chs=150x150&cht=qr&chl=https://www.citizenos.com/ref=845124-6G&choe=UTF-8)
-                { .text-center }
+                ![](/assets/images/donate-qr.png)
+                { .mt-5 .text-center }
         github:
             text: |
 
