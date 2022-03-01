@@ -7,7 +7,7 @@ block content
             .col-12.py-5.text-center
                 if self.blocks && self.blocks.header
                     h1= self.blocks.header.title
-                    a.btn.btn-pink.mt-4(href=self.blocks.header.button.url, target='_blank')= self.blocks.header.button.title
+                    a.btn.btn-pink.mt-4(href=self.blocks.header.button.url)= self.blocks.header.button.title
 
         .container
             #text.row.py-5
