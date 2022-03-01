@@ -47,9 +47,6 @@ footer:
         aboutUs:
           title: О нас
           url: /ru/o-nas/
-        careers:
-          title: Вакансии
-          url: /ru/vakansii/
         getInvolved:
           title: Присоеди­няйтесь!
           url: /ru/prinyat-uchastie/
@@ -89,9 +86,6 @@ footer:
     support:
       title: Служба поддержки
       links:
-        faq:
-          title: ЧАВО
-          url: /faq/
         guides:
           title: Справочный центр
           url: /help/
