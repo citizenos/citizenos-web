@@ -47,9 +47,6 @@ footer:
         aboutUs:
           title: Tentang kami
           url: /id/tentang-kami/
-        careers:
-          title: Karier
-          url: /id/karier/
         getInvolved:
           title: Terlibat
           url: /id/terlibat/
@@ -89,9 +86,6 @@ footer:
     support:
       title: Dukungan
       links:
-        faq:
-          title: FAQ
-          url: /faq/
         guides:
           title: Help Centre
           url: /help/
