@@ -47,9 +47,6 @@ footer:
         aboutUs:
           title: À propos de nous
           url: /fr/a-propos-de-nous/
-        careers:
-          title: Recrutement
-          url: /fr/recrutement/
         getInvolved:
           title: Participer
           url: /fr/participer/
@@ -89,9 +86,6 @@ footer:
     support:
       title: Support
       links:
-        faq:
-          title: FAQ
-          url: /faq/
         guides:
           title: Help Centre
           url: /help/
