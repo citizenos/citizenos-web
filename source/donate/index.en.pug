@@ -36,16 +36,16 @@ block content
                     .col-12
                         h2.text-center= self.blocks.how.title
                 .row.pb-5
-                    .col-4
+                    .col-12.col-md-4.mb-4
                         .how-box-title.py-2.px-3= self.blocks.how.bank.title
                         .how-box-text.p-3
                             +markdown(self.blocks.how.bank.text)
-                    .col-4
+                    .col-12.col-md-4.mb-4
                         .how-box-title.py-2.px-3
                             img(src='/assets/images/donate-paypal.png', height=28)
                         .how-box-text.p-3
                             +markdown(self.blocks.how.paypal.text)
-                    .col-4
+                    .col-12.col-md-4.mb-4
                         .how-box-title.py-2.px-3
                             img(src='/assets/images/donate-github.png', height=28)
                         .how-box-text.p-3
