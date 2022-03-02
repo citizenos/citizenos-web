@@ -1,0 +1,79 @@
+---
+path: /donate
+title: Help us pioneer and develop the field of e-democracy
+description: Join our E-democracy Quiz about India! Gain knowledge, compete in a friendly manner and meet like-minded people.
+keywords:
+  - youth leadership programs
+  - youth leadership development
+  - democracy in india
+blocks:
+  header:
+    title: Help us pioneer and develop the field of e-democracy
+    button:
+      title: Donate now!
+      url: '#how'
+  text:
+    text: |
+      ## What’s the issue?{ .pt-5 }
+
+      At Citizen OS, we would like to live in a world where we can participate in a respectful manner, as well as make collaborative decisions about topics that directly impact our lives and well-being.
+
+      In order to make this happen, we are developing an open-source platform for people and communities who can join global discussions.
+
+      We are also initiating civic hackathons, summer and winter schools, democracy festivals and other exciting projects with our awesome partners. Everything that we create and develop, we give away to people and communities.
+
+      We believe that democracy and civic participation should be free for everyone.
+  usage:
+    title: How will your donation be used?
+    steps:
+      - |
+        **Towards platform development and maintenance (both people and technology)**
+
+        Please write **"Donation"** in the explanation line
+
+        Your contribution will go towards keeping our Citizen OS open-source platform free for everyone.
+      - |
+        **Civic Innovation and E-democracy Camp**
+
+        Please write **"CIEC"** in the explanation line
+
+        Your contribution will go towards keeping our Citizen OS open-source platform free for everyone.
+      - |
+        **Indonesian Opinion Festival**
+
+        Please write **"IOF"** in the explanation line
+
+        You can read more about the project [here](#)
+  how:
+    title: How can you donate?
+    bank:
+      title: Bank transfer
+      text: |
+        #### Account holder
+        Citizen OS Foundation
+
+        #### Account No
+        EE887700771003693989
+
+        #### Bank
+        AS LHV Pank
+        Tartu mnt 2, 10145 Tallinn
+
+        #### BIC/SWIFT
+        LHVBEE22
+
+        #### Bank code
+        689
+    paypal:
+      text: |
+        #### Share link
+        [https://www.paypal.com/donate/?hosted_button_id=RN5Y7F6P6AZCU](https://www.paypal.com/donate/?hosted_button_id=RN5Y7F6P6AZCU)
+
+        #### QR code
+
+        ![](/assets/images/donate-qr.png)
+        { .mt-5 .text-center }
+    github:
+      text: |
+
+
