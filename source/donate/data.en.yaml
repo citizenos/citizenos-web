@@ -1,19 +1,14 @@
 path: /donate
 
-title: Help us pioneer and develop the field of e-democracy
+title: Donate
 description: Donate towards Citizen OS e-democracy platform development and maintenance
 keywords:
-    - youth leadership programs
-    - youth leadership development
-    - democracy in india
+    - 
 
 
 blocks:
     header:
         title: Help us pioneer and develop the field of e-democracy
-        button:
-            title: Donate now!
-            url: '#how'
 
     text:
         text: |
@@ -62,43 +57,4 @@ blocks:
 
                 ![](/assets/images/donate-qr.png)
                 { .mt-5 .text-center }
-            - |
-                **Indonesian Opinion Festival**
-
-                Please write **"IOF"** in the explanation line
-
-                You can read more about the project [here](#)
-
-    how:
-        title: How can you donate?
-        bank:
-            title: Bank transfer
-            text: |
-                #### Account holder
-                Citizen OS Foundation
-
-                #### Account No
-                EE887700771003693989
-
-                #### Bank
-                AS LHV Pank
-                Tartu mnt 2, 10145 Tallinn
-
-                #### BIC/SWIFT
-                LHVBEE22
-
-                #### Bank code
-                689
-
-        paypal:
-            text: |
-                #### Share link
-                [https://www.paypal.com/donate/?hosted_button_id=RN5Y7F6P6AZCU](https://www.paypal.com/donate/?hosted_button_id=RN5Y7F6P6AZCU)
-
-                #### QR code
-
-                ![](/assets/images/donate-qr.png)
-                { .mt-5 .text-center }
-        github:
-            text: |
 
