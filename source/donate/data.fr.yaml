@@ -1,17 +1,12 @@
 ---
 path: /donate
-title: Help us pioneer and develop the field of e-democracy
-description: Join our E-democracy Quiz about India! Gain knowledge, compete in a friendly manner and meet like-minded people.
+title: Donate
+description: Donate towards Citizen OS e-democracy platform development and maintenance
 keywords:
-  - youth leadership programs
-  - youth leadership development
-  - democracy in india
+  -
 blocks:
   header:
     title: Help us pioneer and develop the field of e-democracy
-    button:
-      title: Donate now!
-      url: '#how'
   text:
     text: |
       ## What’s the issue?{ .pt-5 }
@@ -23,32 +18,16 @@ blocks:
       We are also initiating civic hackathons, summer and winter schools, democracy festivals and other exciting projects with our awesome partners. Everything that we create and develop, we give away to people and communities.
 
       We believe that democracy and civic participation should be free for everyone.
+
+      ## How will your donation be used?{ .pt-5 }
+
+      We will use all contributions towards platform development and maintenance - both people and technology, to make sure our Citizen OS open-source platform is forever free for everyone to use.
   usage:
-    title: How will your donation be used?
+    title: How can you donate?
     steps:
       - |
-        **Towards platform development and maintenance (both people and technology)**
+        **Bank transfer**
 
-        Please write **"Donation"** in the explanation line
-
-        Your contribution will go towards keeping our Citizen OS open-source platform free for everyone.
-      - |
-        **Civic Innovation and E-democracy Camp**
-
-        Please write **"CIEC"** in the explanation line
-
-        Your contribution will go towards keeping our Citizen OS open-source platform free for everyone.
-      - |
-        **Indonesian Opinion Festival**
-
-        Please write **"IOF"** in the explanation line
-
-        You can read more about the project [here](#)
-  how:
-    title: How can you donate?
-    bank:
-      title: Bank transfer
-      text: |
         #### Account holder
         Citizen OS Foundation
 
@@ -64,8 +43,7 @@ blocks:
 
         #### Bank code
         689
-    paypal:
-      text: |
+      - |
         #### Share link
         [https://www.paypal.com/donate/?hosted_button_id=RN5Y7F6P6AZCU](https://www.paypal.com/donate/?hosted_button_id=RN5Y7F6P6AZCU)
 
@@ -73,7 +51,4 @@ blocks:
 
         ![](/assets/images/donate-qr.png)
         { .mt-5 .text-center }
-    github:
-      text: |
-
 
