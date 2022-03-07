@@ -8,8 +8,10 @@ assignees: ''
 ---
 
 **What is the problem?**
-A clear and concise description of what the bug is.
-+ add screenshot / screencast whenever possible
+A clear and concise description of what the bug is (add screenshot / screencast whenever possible).
+
+**Where did you encounter it?**
+Add URL/location of the bug.
 
 **Why is this a problem?**
 Describe, how this bug stops a user from performing a desired activity.
