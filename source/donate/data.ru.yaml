@@ -9,7 +9,7 @@ blocks:
     title: Help us pioneer and develop the field of e-democracy
   text:
     text: |
-      ## What’s the issue?{ .pt-5 }
+      ## What's the issue?{ .pt-5 }
 
       At Citizen OS, we would like to live in a world where we can participate in a respectful manner, as well as make collaborative decisions about topics that directly impact our lives and well-being.
 
@@ -44,8 +44,9 @@ blocks:
         #### Bank code
         689
       - |
-        #### Share link
-        [https://www.paypal.com/donate/?hosted_button_id=RN5Y7F6P6AZCU](https://www.paypal.com/donate/?hosted_button_id=RN5Y7F6P6AZCU)
+        .{ #donate-button }
+        { #donate-button-container }
+
 
         #### QR code
 
