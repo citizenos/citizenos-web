@@ -3,7 +3,7 @@ path: /donate
 title: Donate
 description: Donate towards Citizen OS e-democracy platform development and maintenance
 keywords:
-    - 
+    -
 
 
 blocks:
@@ -50,8 +50,9 @@ blocks:
                 689
 
             - |
-                #### Share link
-                [https://www.paypal.com/donate/?hosted_button_id=RN5Y7F6P6AZCU](https://www.paypal.com/donate/?hosted_button_id=RN5Y7F6P6AZCU)
+                .{ #donate-button }
+                { #donate-button-container }
+
 
                 #### QR code
 

@@ -7,7 +7,8 @@ block content
             .col-12.py-5.text-center
                 if self.blocks && self.blocks.header
                     h1= self.blocks.header.title
-                    a.btn.btn-pink.mt-4(href=self.blocks.header.button.url)= self.blocks.header.button.title
+                    if self.blocks.header.button
+                        a.btn.btn-pink.mt-4(href=self.blocks.header.button.url)= self.blocks.header.button.title
 
         .container
             #text.row.py-5
@@ -28,6 +29,9 @@ block content
                                 if idx < self.blocks.usage.steps.length - 1
                                     .row.mb-3
                                         hr.w-100
+
+                                #donate-button-container
+                                    #donate-button
 
     if self.blocks && self.blocks.how
         #how
@@ -51,3 +55,4 @@ block content
                         .how-box-text.p-3
                             +markdown(self.blocks.how.github.text)
 
+    script(src='https://www.paypalobjects.com/donate/sdk/donate-sdk.js')
