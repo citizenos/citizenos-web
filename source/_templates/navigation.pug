@@ -39,11 +39,14 @@ nav.navbar.fixed-top.bg-white.py-0.navbar-expand-lg
                                 - var url = `${self.otherLocalePaths[l]}/`.replace('//', '/').replace('//', '/')
                                 a.dropdown-item.text-center.text-md-left(href=url, data-language=l)= title || l
 
+            if self.donateLink
+                li.nav-item.ml-md-3.mr-md-1.text-center
+                    a.btn.btn-donate.mt-3.mb-4.my-md-3(href=self.donateLink.url)
+                        svg.mr-2(width='16' height='14' viewBox='0 0 16 14' fill='none' xmlns='http://www.w3.org/2000/svg' style='margin-top:-4px')
+                            path(fill-rule='evenodd' clip-rule='evenodd' d='M0.208153 5.52183C0.35215 5.96288 0.511829 6.32242 0.687904 6.63246C0.863979 6.92649 1.07213 7.22052 1.29597 7.51456C1.5198 7.80859 1.6802 8.00437 1.79211 8.11936C1.88764 8.21688 1.98387 8.29913 2.03163 8.34789L7.59973 13.837C7.71236 13.9512 7.83996 14 8.00036 14C8.16004 14 8.28835 13.9512 8.40027 13.837L13.952 8.3639C15.3121 6.97525 16 5.60335 16 4.26346C16 2.92431 15.6165 1.87846 14.8644 1.12737C14.1124 0.375546 13.0723 0 11.7443 0C11.36 0 10.9922 0.0655022 10.608 0.195779C10.2245 0.326783 9.85591 0.50655 9.53584 0.719068C9.20009 0.947598 8.9121 1.16012 8.67187 1.3559C8.44803 1.53566 8.2078 1.74818 8.00036 1.97671C7.7922 1.74818 7.55197 1.53566 7.32814 1.3559C7.0879 1.16012 6.79991 0.947598 6.46416 0.719068C6.14409 0.50655 5.77625 0.326783 5.39203 0.195779C5.0078 0.0655022 4.63996 0 4.27213 0C2.92769 0 1.88764 0.375546 1.13558 1.12737C0.383515 1.87846 0 2.92431 0 4.26346C0 4.67249 0.0641568 5.0968 0.208153 5.52183Z' fill='#8E4765')
+
+                        strong= self.donateLink.title
             if self.productLink
                 li.nav-item.ml-md-3.mr-md-1.text-center
                     a.btn.btn-primary.mt-3.mb-4.my-md-3(href=self.productLink.url, target='_blank')
                         strong= self.productLink.title
-            else if self.platformLink
-                li.nav-item.ml-md-3.mr-md-1.text-center
-                    a.btn.btn-primary.mt-3.mb-4.my-md-3(href=self.platformLink.url, target='_blank')
-                        strong= self.platformLink.title

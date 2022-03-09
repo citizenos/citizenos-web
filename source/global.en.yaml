@@ -19,6 +19,7 @@ navigation:
         class: news
 
 language: English
+
 languages:
     en: English
     et: Eesti
@@ -29,7 +30,13 @@ languages:
     lv: Latviešu
     ru: Pусский
     ua: Українська
+
 selectLanguage: Languages
+
+donateLink:
+        title: Donate
+        url: /donate/
+
 productLink:
         title: Use platform
         url: https://app.citizenos.com
@@ -90,6 +97,9 @@ footer:
         support:
             title: Support
             links:
+                donate:
+                    title: Donate
+                    url: /donate/
                 guides:
                     title: Help Centre
                     url: /help/
