@@ -16,43 +16,29 @@ block content
                     if self.blocks && self.blocks.text
                         +markdown(self.blocks.text.text)
                 .block.col-12.col-lg-6.offset-lg-1
-                    #usage.p-5
-                        if self.blocks && self.blocks.usage
-                            h2.mb-5.text-center= self.blocks.usage.title
+                    #how.p-5
+                        if self.blocks && self.blocks.how
+                            h2.mb-5.text-center= self.blocks.how.title
 
-                            each step, idx in self.blocks.usage.steps
-                                .row.my-2
-                                    .col-auto.py-1.pr-0.pl-0
-                                        .usage-bullet= idx + 1
-                                    .col
-                                        +markdown(step)
-                                if idx < self.blocks.usage.steps.length - 1
-                                    .row.mb-3
-                                        hr.w-100
+                            .row.my-2
+                                .col-auto.py-1.pr-0.pl-0
+                                    .how-bullet 1
+                                .col
+                                    .row
+                                        .col-12.col-md-6
+                                            img.mt-2.mb-4(src='/assets/images/donate-paypal.png' height=30)
+                                            #donate-button-container.mb-4
+                                                #donate-button
+                                        .col-12.col-md-6.text-md-right
+                                            img.mt-2.mb-3(src='/assets/images/donate-qr.png' height=100)
 
-                                #donate-button-container
-                                    #donate-button
+                            .row.my-3
+                                hr.w-100
 
-    if self.blocks && self.blocks.how
-        #how
-            .container.py-5
-                .row.py-5
-                    .col-12
-                        h2.text-center= self.blocks.how.title
-                .row.pb-5
-                    .col-12.col-md-4.mb-4
-                        .how-box-title.py-2.px-3= self.blocks.how.bank.title
-                        .how-box-text.p-3
-                            +markdown(self.blocks.how.bank.text)
-                    .col-12.col-md-4.mb-4
-                        .how-box-title.py-2.px-3
-                            img(src='/assets/images/donate-paypal.png', height=28)
-                        .how-box-text.p-3
-                            +markdown(self.blocks.how.paypal.text)
-                    .col-12.col-md-4.mb-4
-                        .how-box-title.py-2.px-3
-                            img(src='/assets/images/donate-github.png', height=28)
-                        .how-box-text.p-3
-                            +markdown(self.blocks.how.github.text)
+                            .row.my-2
+                                .col-auto.py-1.pr-0.pl-0
+                                    .how-bullet 2
+                                .col
+                                    +markdown(self.blocks.how.bank)
 
     script(src='https://www.paypalobjects.com/donate/sdk/donate-sdk.js')

@@ -24,20 +24,20 @@ nav.navbar.fixed-top.bg-white.py-0.navbar-expand-lg
 
                         if self.path === nav.url
                             span.sr-only (current)
-
             li.nav-item.dropdown.mx-md-3
-                a#localeDropdown.nav-link.dropdown-toggle.py-3.py-md-4.px-md-0.text-center(href='#', role='button', data-toggle='dropdown', aria-haspopup='true', aria-expanded='false')
+                a#localeDropdown.nav-link.py-3.py-md-4.px-md-0.text-center(href='#', role='button', data-toggle='dropdown', aria-haspopup='true', aria-expanded='false', class=Object.keys(self.otherLocalePaths).length > 0 ? 'dropdown-toggle' : '')
                     svg.mr-2.mb-1(width='15px', height='15px', viewBox='0 0 15 15', version='1.1', xmlns='http://www.w3.org/2000/svg', xmlns:xlink='http://www.w3.org/1999/xlink')
                         g(stroke='none', stroke-width='1', fill='none', fill-rule='evenodd', opacity='0.7')
                             g(transform='translate(-697.000000, -464.000000)', fill='#252525', fill-rule='nonzero')
                                 g(transform='translate(697.000000, 464.000000)')
                                     path(d='M7.5,14 C11.0898509,14 14,11.0898509 14,7.5 C14,3.91014913 11.0898509,1 7.5,1 C3.91014913,1 1,3.91014913 1,7.5 C1,11.0898509 3.91014913,14 7.5,14 Z M7.5,15 C3.35786438,15 0,11.6421356 0,7.5 C0,3.35786438 3.35786438,0 7.5,0 C11.6421356,0 15,3.35786438 15,7.5 C15,11.6421356 11.6421356,15 7.5,15 Z M10.8871462,5.60358133 C10.960798,6.20931161 11,6.84484567 11,7.5 C11,8.18844119 10.9567132,8.85521774 10.8756538,9.48851374 C12.5148548,10.0303963 13.5714286,10.9962303 13.5714286,12.25 L12.5714286,12.25 C12.5714286,11.5424156 11.8666046,10.9054053 10.7105364,10.4913187 C10.1713737,13.1448117 8.93679074,15 7.5,15 C6.06320928,15 4.82862636,13.1448117 4.28946358,10.4913187 C3.13339548,10.9054054 2.42857143,11.5424157 2.42857143,12.25 L1.42857143,12.25 C1.42857143,10.9962304 2.48514524,10.0303964 4.12434617,9.48851382 C4.04328675,8.85521779 4,8.18844122 4,7.5 C4,6.83478371 4.04041542,6.18979497 4.1162716,5.57569376 C2.49393133,5.10018315 1.5,4.2311849 1.5,3 L2.5,3 C2.5,3.66256678 3.15173696,4.21842577 4.27623988,4.57462725 C4.80823571,1.88597642 6.05133606,0 7.5,0 C8.95331823,0 10.1997499,1.89811449 10.7288657,4.60056652 C11.8642988,4.24572592 12.5,3.6788758 12.5,3 L13.5,3 C13.5,4.25565631 12.5249141,5.13458501 10.8871462,5.60358133 Z M5.09743885,5.80229878 C5.03455447,6.34137488 5,6.91012114 5,7.5 C5,8.10168338 5.0359513,8.68137989 5.10124812,9.2300291 C5.83270741,9.07952279 6.64220981,9 7.5000002,9 C8.35779046,9 9.16729272,9.07952277 9.89875189,9.23002904 C9.96404871,8.68137984 10,8.10168336 10,7.5 C10,6.91758835 9.96631484,6.35577767 9.90493566,5.82278535 C9.20583429,5.94035365 8.4225906,6 7.57142857,6 C6.67216593,6 5.83958682,5.93342173 5.09743885,5.80229878 Z M5.25035936,4.81111392 C5.92607341,4.9332306 6.7070941,5 7.57142857,5 C8.3876128,5 9.11932195,4.94046255 9.75347691,4.83100524 C9.31534256,2.54940564 8.36557942,1 7.5,1 C6.63693834,1 5.69018201,2.54040504 5.25035936,4.81111392 Z M5.25658131,10.220788 C5.69906111,12.4740107 6.64098627,14 7.5,14 C8.35901374,14 9.3009389,12.4740107 9.7434187,10.2207879 C9.0773477,10.0794383 8.31981715,10 7.5000002,10 C6.68018312,10 5.92265243,10.0794384 5.25658131,10.220788 Z')
                     = self.locale.toUpperCase()
-                .dropdown-menu(aria-labelledby='localeDropdown')
-                    each title, l in self.languages
-                        if self.otherLocalePaths[l]
-                            - var url = `${self.otherLocalePaths[l]}/`.replace('//', '/').replace('//', '/')
-                            a.dropdown-item.text-center.text-md-left(href=url, data-language=l)= title || l
+                if Object.keys(self.otherLocalePaths).length > 0
+                    .dropdown-menu(aria-labelledby='localeDropdown')
+                        each title, l in self.languages
+                            if self.otherLocalePaths[l]
+                                - var url = `${self.otherLocalePaths[l]}/`.replace('//', '/').replace('//', '/')
+                                a.dropdown-item.text-center.text-md-left(href=url, data-language=l)= title || l
 
             if self.productLink
                 li.nav-item.ml-md-3.mr-md-1.text-center
