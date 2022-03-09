@@ -29,6 +29,9 @@ languages:
   ru: Pусский
   ua: Українська
 selectLanguage: Bahasa
+donateLink:
+  title: Donate
+  url: /donate/
 productLink:
   title: Gunakan platform
   url: https://app.citizenos.com/id/
@@ -86,6 +89,9 @@ footer:
     support:
       title: Dukungan
       links:
+        donate:
+          title: Donate
+          url: /donate/
         guides:
           title: Help Centre
           url: /help/
