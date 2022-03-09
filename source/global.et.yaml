@@ -29,6 +29,9 @@ languages:
   ru: Pусский
   ua: Українська
 selectLanguage: Keeled
+donateLink:
+  title: Donate
+  url: /donate/
 productLink:
   title: Ava platvorm
   url: https://app.citizenos.com/et/
@@ -86,6 +89,9 @@ footer:
     support:
       title: Kasutajatugi
       links:
+        donate:
+          title: Donate
+          url: /donate/
         guides:
           title: Abikeskus
           url: /help/
