@@ -27,35 +27,23 @@ blocks:
             We will use all contributions towards platform development and maintenance - both people and technology, to make sure our Citizen OS open-source platform is forever free for everyone to use.
 
 
-    usage:
+    how:
         title: How can you donate?
-        steps:
-            - |
-                **Bank transfer**
+        bank: |
+            **Bank transfer**
 
-                #### Account holder
-                Citizen OS Foundation
+            #### Account holder
+            Citizen OS Foundation
 
-                #### Account No
-                EE887700771003693989
+            #### Account No
+            EE887700771003693989
 
-                #### Bank
-                AS LHV Pank
-                Tartu mnt 2, 10145 Tallinn
+            #### Bank
+            AS LHV Pank
+            Tartu mnt 2, 10145 Tallinn
 
-                #### BIC/SWIFT
-                LHVBEE22
+            #### BIC/SWIFT
+            LHVBEE22
 
-                #### Bank code
-                689
-
-            - |
-                .{ #donate-button }
-                { #donate-button-container }
-
-
-                #### QR code
-
-                ![](/assets/images/donate-qr.png)
-                { .mt-5 .text-center }
-
+            #### Bank code
+            689
