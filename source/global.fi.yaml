@@ -29,6 +29,9 @@ languages:
   ru: Pусский
   ua: Українська
 selectLanguage: Kielet
+donateLink:
+  title: Donate
+  url: /donate/
 productLink:
   title: Käytä alustaa
   url: https://app.citizenos.com/fi/
@@ -86,6 +89,9 @@ footer:
     support:
       title: Tuki
       links:
+        donate:
+          title: Donate
+          url: /donate/
         guides:
           title: Ohjekeskus
           url: /help/

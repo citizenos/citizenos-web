@@ -29,6 +29,9 @@ languages:
   ru: Pусский
   ua: Українська
 selectLanguage: Языки
+donateLink:
+  title: Donate
+  url: /donate/
 productLink:
   title: Открыть платформу
   url: https://app.citizenos.com/ru/
@@ -86,6 +89,9 @@ footer:
     support:
       title: Служба поддержки
       links:
+        donate:
+          title: Donate
+          url: /donate/
         guides:
           title: Справочный центр
           url: /help/
