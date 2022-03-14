@@ -94,21 +94,14 @@ team:
         email: tasia@citizenos.com
     -
         name: Oksana Naidjonova
-        title: Localisation & Translation
+        title: Localisation & Website Management
         text: Fights for justice and leads us to become better every day.
         avatar: /assets/images/team/oksana-avatar.jpg
         picture: /assets/images/team/oksana.jpg
         linkedin: https://www.linkedin.com/in/oksananaidjonova/
         twitter: https://twitter.com/oksks
         email: oksana@citizenos.com
-    -
-        name: Ly Kasvandik
-        title: Human Relations
-        text: Always there to help and protect, when one needs it most.
-        avatar: /assets/images/team/ly-avatar.jpg
-        picture: /assets/images/team/ly.jpg
-        linkedin: https://www.linkedin.com/in/lykasvandik/
-        email: ly@citizenos.com
+
 
 other:
     title: |
