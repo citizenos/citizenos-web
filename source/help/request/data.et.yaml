@@ -2,16 +2,16 @@
 path: /et/abi/abipalve/
 data:
   help: /help/data.et.yaml
-title: Request Help
-text: If our Help Centre couldn’t help you then please let us know what problem you’re facing and we’ll get back to you.
+title: Küsi abi
+text: Kui meie abikeskus ei suutnud sind aidata, siis anna palun meile teada, millise probleemiga sa silmitsi seisad ning me võtame sinuga ühendust.
 form:
-  title: What are you trying to do?
+  title: Mida sa püüad teha?
   message: Kirjuta siia...
   email: E-posti aadress (valikuline)
   submit: Saada
   success: |
-    **Your request has been submitted!**
-    Thank you for your message, we’ll get back to you as soon as we can.
+    **Sinu abipalve on saadetud!**
+    Suur tänu sõnumi eest. Võtame sinuga ühendust niipea kui võimalik.
   successBack:
-    title: To the Help Centre Start page
+    title: Tagasi abikeskuse avalehele
     url: /et/abi
