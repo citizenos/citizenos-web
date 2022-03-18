@@ -6,7 +6,7 @@ general:
     help: /help/data.et.yaml
     topics: general/data.et.yaml
   title: Üldine
-  icon: üldine
+  icon: general
   video:
     url:
     poster: /assets/images/help/general.png
@@ -18,7 +18,7 @@ login:
     help: /help/data.et.yaml
     topics: login/data.et.yaml
   title: Sisselogimine
-  icon: sisselogimine
+  icon: login
   video:
     url:
     poster: /assets/images/help/login.png
@@ -30,7 +30,7 @@ groups:
     help: /help/data.et.yaml
     topics: groups/data.et.yaml
   title: Grupid
-  icon: grupid
+  icon: groups
   video:
     url:
     poster: /assets/images/help/mygroups-landscape.png
@@ -42,7 +42,7 @@ topics:
     help: /help/data.et.yaml
     topics: topics/data.et.yaml
   title: Teemad
-  icon: teemad
+  icon: topics
   video:
     url:
     poster: /assets/images/help/general.png
@@ -56,7 +56,7 @@ discussions:
     help: /help/data.et.yaml
     topics: discussions/data.et.yaml
   title: Arutelud
-  icon: arutelud
+  icon: discussions
   video:
     url:
     poster: /assets/images/help/general.png
@@ -68,7 +68,7 @@ voting:
     help: /help/data.et.yaml
     topics: voting/data.et.yaml
   title: Hääletamine
-  icon: hääletused
+  icon: voting
   video:
     url:
     poster: /assets/images/help/general.png
@@ -80,7 +80,7 @@ follow-up:
     help: /help/data.et.yaml
     topics: follow-up/data.et.yaml
   title: Otsuse elluviimine
-  icon: otsuse elluviimine, ellu viia
+  icon: follow-up
   video:
     url:
     poster: /assets/images/help/general.png
