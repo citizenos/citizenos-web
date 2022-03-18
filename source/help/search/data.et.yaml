@@ -10,5 +10,5 @@ data:
   category-discussions: ../category/discussions/data.et.yaml
   category-voting: ../category/voting/data.et.yaml
   category-follow-up: ../category/follow-up/data.et.yaml
-title: Help Centre Search
-text: The Help Centre will answer any questions you may have, and help you if you get stuck.
+title: Abikeskuse otsing
+text: Abikeskusest leiad oma küsimustele vastused ja saad abi, kui peaksid hätta jääma.
