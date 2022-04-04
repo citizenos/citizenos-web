@@ -11,6 +11,17 @@ image: /assets/images/meta/vision.jpg
 
 news:
 
+    2022-04-04:
+        url: /news/1200-citizens-attend-Indonesian-Opinion-Festival-2022
+        title: 1200 citizens attend Indonesian Opinion Festival 2022.
+        author: Becca Melhuish
+        image: /assets/images/news/1200-citizens-attend-Indonesian-Opinion-Festival-2022.png
+        categories:
+            - Citizen OS news
+            - E-democracy news
+        text: |
+            Just under 1200 Indonesian citizens came together online to democratically share their opinions, insights and hopes for the future at our second Indonesian Opinion Festival.
+
     2022-01-17:
         url: /news/our-new-government-partnership-for-youth-e-engagement-in-indonesia
         title: Our New Government Partnership for Youth E-engagement in Indonesia.
