@@ -49,6 +49,33 @@ finding-a-topic-you-are-participating-in:
         - [Troubleshooting “no permission to access”](/help/topics/troubleshooting-no-permission-to-access)
         { .list-arrow .list-unstyled }
 
+
+
+troubleshooting-no-permission-to-access:
+    path: /help/topics/troubleshooting-no-permission-to-access
+    data:
+        help: /help/data.en.yaml
+    title: Troubleshooting “no permission to access”
+    text: |
+        **Private topics and groups can only be accessed using a Citizen OS account which is registered with the same email address to which the original invitation was sent.**
+
+        Follow these two key steps for topic/group access:
+        1. **Click on the link in the invitation email** you received for joining the group or topic.
+        1. **Login or register using the same email address the invitation was sent to**, according to either of the two scenarios below:
+            - **If you already have a Citizen OS account registered with the email address** your invitation was sent to, log in using that account.
+            *OR*
+            - **If you do not yet have a Citizen OS account registered with the email address** your invitation was sent to, register a new one with the correct address.
+
+        A few additional tips:
+        - **If you are logging in with a social login such as Google or Facebook**, this will only work if your social media account is registered with the same email address as the one with which you were invited to the group or topic.
+        - **The option to log in with your ID-card/Mobile ID** (applicable to Estonian ID-cards) will only appear if you have previously created a Citizen OS account with the email address to which the invitation was sent, and have previously digitally signed at least one document through that account. If this is not the case, you will need to log in using your email address instead.
+        - **If you are unsure what email address your Citizen OS account is registered with**, or to which account you are currently logged in, you can check this in “My Account” next to your profile avatar in the main menu.
+
+        ## Related content{.mt-5}
+        - [Switching between accounts](/help/login/switching-accounts)
+        { .list-arrow .list-unstyled }
+
+
 seeing-who-has-been-invited-to-joined-a-topic:
     path: /help/topics/seeing-who-has-been-invited-to-joined-a-topic
     data:
