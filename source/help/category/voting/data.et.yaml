@@ -215,7 +215,7 @@ downloading-digital-signature-vote-files:
     1. Go into the relevant topic.
     1. Ensure that the [vote is closed](/help/voting/closing-the-vote-or-setting-a-vote-deadline), and has been sent to [follow-up](/help/follow-up).
     1. Click on the “Vote” tab at the top.
-    1. Choose whether to download the results as a “human readable” version or a “machine readable” version. The “human readable” version includes a CSV spreadsheet file, the “machine readable” version does not.
+    1. Choose whether to download the results as a “human readable” version or a “machine readable” version. The “human readable” version includes a [CSV spreadsheet file](/help/voting/the-csv-file-for-digital-signature-voting-results/), the “machine readable” version does not.
     1. Once downloaded, the “final.bdoc” folder will appear in your computer’s “Downloads” folder.
 
     ## Related content{.mt-5}
