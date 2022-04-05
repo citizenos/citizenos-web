@@ -3,7 +3,7 @@ path: /et/abi
 data:
   category: category/data.et.yaml
 title: Abikeskus
-text: Abikeskusest leiad oma küsimustele vastused ja saad abi, kui peaksid hätta jääma.
+text: Our Help Centre aims to answer any questions you may have, and help you if you get stuck.
 links:
   title: Kiirviited
   links:
@@ -45,7 +45,7 @@ search:
   placeholder: Otsi
   url: /et/abi/otsing
 alternate:
-  title: Võid proovida ka neid võimalusi
+  title: Maybe you're looking for these?
   request:
     title: Saada abipalve
     url: /et/abi/abipalve
