@@ -74,7 +74,7 @@ submitting-signatures-to-the-ariregister-riigikogu-local-government-estonia-only
     help: /help/data.et.yaml
   title: Submitting signatures to the Äriregister / Riigikogu / local government (Estonia only)
   text: |
-    **When submitting to the Äriregister, the option “Machine-readable file (Äriregister)” should be selected when downloading the signature files.** The entire BDOC container should then be submitted to the Äriregister. This folder does not include a spreadsheet (CSV) file, as the Äriregister does not accept BDOC folders that contain these.
+    **When submitting to the Äriregister, the option “Machine-readable file (Äriregister)” should be selected when downloading the signature files.** The entire BDOC container should then be submitted to the Äriregister. This folder does not include a [spreadsheet (CSV) file](/help/voting/the-csv-file-for-digital-signature-voting-results), as the Äriregister does not accept BDOC folders that contain these.
 
     **When submitting digital signatures to the Riigikogu or local government, the option “human-readable file (Riigikogu, KOV)” should be selected.** The entire BDOC container should then be submitted. This folder does include a spreadsheet (CSV) file.
 
@@ -159,7 +159,7 @@ downloading-voting-results:
 
     ## Related content{.mt-5}
     - [Downloading digital signature vote files (Estonia only)](/help/voting/downloading-digital-signature-vote-files)
-    - [Submitting signatures to the Äriregister / Riigikogu / local government (Estonia only)](/help/voting//help/voting/submitting-signatures-to-the-ariregister-riigikogu-local-government-estonia-only)
+    - [Submitting signatures to the Äriregister / Riigikogu / local government (Estonia only)](/help/voting/submitting-signatures-to-the-ariregister-riigikogu-local-government-estonia-only)
     { .list-arrow .list-unstyled }
 setting-up-digital-signature-voting-Estonia-only:
   path: /help/voting/setting-up-digital-signature-voting-Estonia-only
@@ -213,15 +213,15 @@ downloading-digital-signature-vote-files:
     Here’s how:
 
     1. Go into the relevant topic.
-    1. Ensure that the vote is closed, and has been sent to follow-up.
+    1. Ensure that the [vote is closed](/help/voting/closing-the-vote-or-setting-a-vote-deadline), and has been sent to [follow-up](/help/follow-up).
     1. Click on the “Vote” tab at the top.
-    1. Choose whether to download the results as a “human readable” version or a “machine readable” version. The “human readable” version includes a CSV spreadsheet file, the “machine readable” version does not.
+    1. Choose whether to download the results as a “human readable” version or a “machine readable” version. The “human readable” version includes a [CSV spreadsheet file](/help/voting/the-csv-file-for-digital-signature-voting-results/), the “machine readable” version does not.
     1. Once downloaded, the “final.bdoc” folder will appear in your computer’s “Downloads” folder.
 
     ## Related content{.mt-5}
     - [Digital signature voting results folder contents (Estonia only)](/help/voting/digital-signature-voting-results-folder-contents)
     - [The CSV file for digital signature voting results (Estonia only)](/help/voting/the-csv-file-for-digital-signature-voting-results)
-    - [Submitting signatures to the Äriregister / Riigikogu / local government (Estonia only)](/help/voting//help/voting/submitting-signatures-to-the-ariregister-riigikogu-local-government-estonia-only)
+    - [Submitting signatures to the Äriregister / Riigikogu / local government (Estonia only)](/help/voting/submitting-signatures-to-the-ariregister-riigikogu-local-government-estonia-only)
     { .list-arrow .list-unstyled }
 digital-signature-voting-results-folder-contents:
   path: /help/voting/digital-signature-voting-results-folder-contents
@@ -229,20 +229,20 @@ digital-signature-voting-results-folder-contents:
     help: /help/data.et.yaml
   title: Digital signature voting results folder contents (Estonia only)
   text: |
-    In Estonia, digital signature voting results downloaded by admins come in a BDOC folder.
+    In Estonia, digital signature voting results [downloaded by admins](/help/voting/downloading-digital-signature-vote-files) come in a BDOC folder.
 
     Here’s what that folder contains:
     - A Word document with the topic text (attachments are not included)
     - A metadata file “__metainfo.html” that contains the topic ID and vote ID
     - .html files with the names of the vote options, containing the option ID and text
     - each user's vote containers
-    - an optional spreadsheet (CSV) file
-    *To download a folder including a CSV file, choose “human-readable file”. To download a folder which does not include a CSV file, choose “machine-readable file”. Which one you choose depends on what you plan to do with the results.*
+    - an [optional spreadsheet (CSV) file](/help/voting/the-csv-file-for-digital-signature-voting-results)
+    *To download a folder including a CSV file, choose “human-readable file”. To download a folder which does not include a CSV file, choose “machine-readable file”. Which one you choose depends on [what you plan to do](/help/voting/help/voting/submitting-signatures-to-the-ariregister-riigikogu-local-government-estonia-only) with the results.*
 
     ## Related content{.mt-5}
     - [Downloading digital signature vote files (Estonia only)](/help/voting/downloading-digital-signature-vote-files)
     - [The CSV file for digital signature voting results (Estonia only)](/help/voting/the-csv-file-for-digital-signature-voting-results)
-    - [Submitting signatures to the Äriregister / Riigikogu / local government (Estonia only)](/help/voting//help/voting/submitting-signatures-to-the-ariregister-riigikogu-local-government-estonia-only)
+    - [Submitting signatures to the Äriregister / Riigikogu / local government (Estonia only)](/help/voting/submitting-signatures-to-the-ariregister-riigikogu-local-government-estonia-only)
     { .list-arrow .list-unstyled }
 the-csv-file-for-digital-signature-voting-results:
   path: /help/voting/the-csv-file-for-digital-signature-voting-results
@@ -266,5 +266,5 @@ the-csv-file-for-digital-signature-voting-results:
     ## Related content{.mt-5}
     - [Downloading digital signature vote files (Estonia only)](/help/voting/downloading-digital-signature-vote-files)
     - [Digital signature voting results folder contents (Estonia only)](/help/voting/digital-signature-voting-results-folder-contents)
-    - [Submitting signatures to the Äriregister / Riigikogu / local government (Estonia only)](/help/voting//help/voting/submitting-signatures-to-the-ariregister-riigikogu-local-government-estonia-only)
+    - [Submitting signatures to the Äriregister / Riigikogu / local government (Estonia only)](/help/voting/submitting-signatures-to-the-ariregister-riigikogu-local-government-estonia-only)
     { .list-arrow .list-unstyled }

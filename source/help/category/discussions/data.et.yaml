@@ -6,11 +6,13 @@ reporting-an-argument-or-comment-as-inappropriate:
     help: /help/data.et.yaml
   title: Reporting an argument or comment as inappropriate
   text: |
-    To report an argument or comments as inappropriate, click on the small round exclamation mark icon to the right of the agree/disagree buttons.
+    To report an argument or comment as inappropriate, click on the “Actions” drop-down at the top of the relevant argument/comment.
 
-    You can then select your reason for reporting the argument or comment from the options provided, and add an additional explanation.
+    Choose “Report” from the drop-down list.
 
-    The administrator or moderator of the discussion, and author of the argument or comment in question will be notified via email. Your explanation will be visible to them, but you will remain anonymous.
+    In the pop-up, select your reason for reporting the argument or comment, then add an additional explanation.
+
+    Once submitted, the administrator or moderator of the discussion, and author of the argument or comment in question will be notified via email. Your explanation will be visible to them, but you will remain anonymous.
 replying-or-reacting-to-an-argument-or-comment:
   path: /help/discussions/replying-or-reacting-to-an-argument-or-comment
   data:
