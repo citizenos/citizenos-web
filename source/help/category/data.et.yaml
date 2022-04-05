@@ -25,7 +25,7 @@ login:
   text: |
     Log in quickly and easily using a Citizen OS account linked to your email address, or via social login (Facebook or Gmail). In Estonia, e-ID login is also available. Logins are remembered for two weeks, using a cookie, unless you log out.
 groups:
-  path: et/abi/grupid
+  path: /et/abi/grupid
   data:
     help: /help/data.et.yaml
     topics: groups/data.et.yaml
@@ -75,7 +75,7 @@ voting:
   text: |
     Set up a vote to democratically decide on a topic. Voting settings include a wide range of options such as multiple choice voting, veto votes, and vote delegation. Inline votes can also be created in the topic text. In Estonia, e-ID voting is available.
 follow-up:
-  path: et/abi/elluviimine
+  path: /et/abi/elluviimine
   data:
     help: /help/data.et.yaml
     topics: follow-up/data.et.yaml

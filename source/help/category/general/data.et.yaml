@@ -1,7 +1,7 @@
 ---
 multipage: true
 changing-the-language:
-  path: et/abi/yldine/keele-vahetamine
+  path: /et/abi/yldine/keele-vahetamine
   data:
     help: /help/data.et.yaml
   title: Changing the language
