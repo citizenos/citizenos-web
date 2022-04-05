@@ -31,7 +31,7 @@ languages:
 selectLanguage: Keeled
 donateLink:
   title: Toeta
-  url: /toeta/
+  url: /et/toeta/
 productLink:
   title: Ava platvorm
   url: https://app.citizenos.com/et/
@@ -90,11 +90,11 @@ footer:
       title: Kasutajatugi
       links:
         donate:
-          title: Toeta
+          title: Toeta meid
           url: /et/toeta/
         guides:
           title: Abikeskus
-          url: /abi/
+          url: /et/abi/
         legal:
           title: Juriidiline info
           url: /et/juriidiline-info/
