@@ -158,7 +158,7 @@ changing-the-admin-rights-of-group-members:
         help: /help/data.en.yaml
     title: Changing the admin rights of group members
     text: |
-        If a member of a group has “admin” rights at the group level, this means they can change the group settings. For example, changing the rights of other group members, inviting users to the group, or adding the group to a topic, or closing and deleting topics the group is part of.
+        If a member of a group has “admin” rights at the group level, this means they can change the group settings. For example, changing the rights of other group members, inviting users to the group, adding the group to a topic, or closing and deleting topics the group is part of.
 
         To make a member of a group admin:
         1. Click on the relevant group in your “My Groups “ dashboard.
