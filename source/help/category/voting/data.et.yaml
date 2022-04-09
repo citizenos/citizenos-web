@@ -182,7 +182,7 @@ setting-up-digital-signature-voting-Estonia-only:
 
     - When eID voting is enabled, it is not possible to enable vote delegation.
 how-to-vote-using-a-digital-signature-Estonia-only:
-  path: /help/voting/downloading-voting-results
+  path: /help/voting/how-to-vote-using-a-digital-signature
   data:
     help: /help/data.et.yaml
   title: How to vote using a digital signature (Estonia only)
