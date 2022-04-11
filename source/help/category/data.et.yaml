@@ -61,7 +61,7 @@ discussions:
     url:
     poster: /assets/images/help/general.png
   text: |
-    Use the discussion space to discuss both sides of a topic before it is voted on, or to crowdsource ideas for how to go forwards. Here you can post “pro” and “con” arguments, and reply or react to arguments made by others.
+    Use the discussion space to discuss both sides of a topic before it is voted on, or to crowdsource ideas for how to go forwards. Here you can post “pro” and “con” arguments, ask a question or add information, and reply or react to arguments made by others.
 voting:
   path: /et/abi/haaletamine
   data:
