@@ -41,3 +41,18 @@ why-you-cant-use-the-platform-online:
     text: |
         The platform is only accessible online, with no “offline mode”.
         This is to ensure that multiple users can engage with a topic at the same time, and will all see the same content.
+
+using-the-activity-feed:
+    path: /help/general/using-the-activity-feed
+    data:
+        help: /help/data.en.yaml
+    title: Using the activity feed
+    text: |
+        Use the activity feed to keep track of new activity in your topics and groups. It shows activity such as accepted invites, topic contributions, changes to access rights and more.
+
+        To view the feed, click on “Activity Feed” at the top of the main menu.
+
+        You can filter your activity feed using the dropdown box located at the top.
+
+        ## Related content{.mt-5}
+        - [Viewing a topic's activity feed](/help/topics/viewing-a-topics-activity-feed/)
