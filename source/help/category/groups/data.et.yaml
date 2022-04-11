@@ -183,3 +183,16 @@ troubleshooting-no-permission-to-access:
     ## Related content{.mt-5}
     - [Switching between accounts](/help/login/switching-accounts)
     { .list-arrow .list-unstyled }
+changing-the-name-of-a-group:
+  path: /help/groups/changing-the-name-of-a-group
+  data:
+    help: /help/data.en.yaml
+  title: Changing the name of a group
+  text: |
+    To change the name of a group, you will need to have admin rights for that group.
+
+    - Go to your “My Groups” dashboard, listed under “Groups” in the main menu.
+    - Select the relevant group from your list of groups.
+    - Click on “Settings”, listed under the “Group actions” for that group.
+    - In the pop-up window, edit the group name then click “Save group.”
+
