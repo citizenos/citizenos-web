@@ -1,0 +1,26 @@
+extends /_templates/main.pug
+
+
+block content
+    .container-fluid
+        #header.row.py-5
+            .col-12.text-center
+                a.navbar-brand(href=self.rootUrl)
+                    img.mb-3(src='/assets/images/citizenos-logo-negative.png', height=50, width=270, alt='Citizen OS logo')
+            .col-12.col-lg-8.offset-lg-2.text-center
+                if self.blocks && self.blocks.header
+                    h1= self.blocks.header.title
+        #text.row.py-5
+            .block.col-12.col-lg-6.offset-lg-1
+                if self.blocks && self.blocks.text
+                    +markdown(self.blocks.text.text)
+            .block.col-12.col-lg-3.offset-lg-1
+                #join.p-4
+                    if self.blocks && self.blocks.join
+                        h2= self.blocks.join.title
+                        .row.my-2
+                            .col-1
+                                img(src='/assets/images/webinar-calendar.svg', height=22, width=20, alt='Citizen OS logo')
+                            .col-auto= self.blocks.join.date
+                        h2.mt-4= self.blocks.join.how
+                        a.btn.btn-primary.my-2.w-100(href=self.blocks.join.button.url, target='_blank')= self.blocks.join.button.title
