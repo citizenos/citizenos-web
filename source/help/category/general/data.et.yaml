@@ -15,7 +15,7 @@ automatic-notifications:
     help: /help/data.et.yaml
   title: Automatic notifications
   text: |
-    Emails notifications are sent automatically in the three following situations:
+    Email notifications are sent automatically in the three following situations:
 
     - **When a person is added to a group**, they will receive an invite via email. (Note to admins: we therefore recommend posting at least one topic in the group before inviting members, as being invited to an empty group can cause confusion.)
     - **When a person is invited to a topic**, they will receive an invite via email.
@@ -52,6 +52,19 @@ using-the-activity-feed:
 
     ![Activity feed screenshot](/assets/images/help/activityfeed.png)
 
-
     ## Related content{.mt-5}
     - [Viewing a topic's activity feed](/help/topics/viewing-a-topics-activity-feed/)
+deleting-your-account:
+  path: /help/general/deleting-your-account
+  data:
+    help: /help/data.en.yaml
+  title: Deleting your account
+  text: |
+    To delete your account, go to “My Account”. You’ll find this next to your profile avatar in the main menu.
+    In the pop-up window, click “Delete Account” (bottom left), then confirm “Yes”.
+
+    Please note:
+
+    - This action cannot be undone.
+    - All user-created data will be anonymised and will not be recoverable.
+
