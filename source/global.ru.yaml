@@ -30,8 +30,8 @@ languages:
   ua: Українська
 selectLanguage: Языки
 donateLink:
-  title: Donate
-  url: /donate/
+  title: Помочь
+  url: /ru/pomoch-proektu/
 productLink:
   title: Открыть платформу
   url: https://app.citizenos.com/ru/
@@ -90,8 +90,8 @@ footer:
       title: Служба поддержки
       links:
         donate:
-          title: Donate
-          url: /donate/
+          title: Помочь
+          url: /ru/pomoch-proektu/
         guides:
           title: Справочный центр
           url: /help/

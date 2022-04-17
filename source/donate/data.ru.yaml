@@ -1,7 +1,7 @@
 ---
-path: /donate
-title: Donate
-description: Donate towards Citizen OS e-democracy platform development and maintenance
+path: /ru/pomoch-proektu
+title: Помочь
+description: Пожертвовать на развитие и поддержку платформы Citizen OS
 keywords:
   -
 blocks:
@@ -25,7 +25,7 @@ blocks:
 
       **Unfortunately, currently your kind donation cannot be deducted from your income tax as Citizen OS has not yet entered the list of non-profit foundations benefiting from income tax incentives approved by a resolution of the Estonian Tax and Customs Board. We are currently working on it and hopefully soon enough can let you know that the situation has changed.*
   how:
-    title: How can you donate?
+    title: Как я могу помочь?
     bank: |
       **Bank transfer**
 
