@@ -90,9 +90,9 @@ blocks:
     class:
       - order-7
     title: |
-      Civic Hackathon
+      Hackathon civique
     text: |
-      Participants will have the opportunity to “hack” civic engagement and discussions in both the online and offline sphere.
+      Les participants auront la possibilité de « hacker » l’engagement civique et les discussions dans le domaine en ligne et hors ligne.
     button1st:
       title: En savoir plus
       url: /civic-hackathon/
