@@ -1,12 +1,12 @@
 ---
-path: /donate
-title: Donate
-description: Donate towards Citizen OS e-democracy platform development and maintenance
+path: /lahjoita
+title: Lahjoita
+description: Lahjoita Citizen OS:n e-demokratia-alustan kehittämiseen ja ylläpitoon
 keywords:
   -
 blocks:
   header:
-    title: Help us pioneer and develop the field of e-democracy
+    title: Auta meitä kehittämään e-demokratiaa alan uranuurtajana
   text:
     text: |
       ## Why help us?{ .pt-5 }
