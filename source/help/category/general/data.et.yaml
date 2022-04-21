@@ -67,4 +67,14 @@ deleting-your-account:
 
     - This action cannot be undone.
     - All user-created data will be anonymised and will not be recoverable.
+donating-to-the-platform:
+  path: /help/general/donating-to-the-platform
+  data:
+    help: /help/data.en.yaml
+  title: Donating to the platform
+  text: |
+    Citizen OS is a non-profit organisation and our platform is almost entirely funded by private donations.
+    Help us keep the platform free by making a donation at [www.citizenos.com/donate](/donate).
+
+    Your donation will help us in our mission to *“empower as many people as possible to participate in respectful and meaningful discussions in order to collaboratively decide on issues that affect their wellbeing.”*
 
