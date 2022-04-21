@@ -198,10 +198,12 @@ changing-the-name-of-a-group:
         help: /help/data.en.yaml
     title: Changing the name of a group
     text: |
-        To change the name of a group, you will need to have admin rights for that group.
+        To change the name of a group:
 
         - Go to your “My Groups” dashboard, listed under “Groups” in the main menu.
         - Select the relevant group from your list of groups.
         - Click on “Settings”, listed under the “Group actions” for that group.
         - In the pop-up window, edit the group name then click “Save group.”
+
+        You will need to have group admin rights to be able to do this.
 
