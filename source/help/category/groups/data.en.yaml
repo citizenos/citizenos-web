@@ -207,3 +207,19 @@ changing-the-name-of-a-group:
 
         You will need to have group admin rights to be able to do this.
 
+deleting-a-group:
+    path: /help/groups/deleting-a-group
+    data:
+        help: /help/data.en.yaml
+    title: Deleting a group
+    text: |
+        To delete a group:
+
+        - Go to your “My Groups” dashboard, listed under “Groups” in the main menu.
+        - Select the relevant group from your list of groups.
+        - Click on “Delete”, listed under the “Group actions” for that group.
+        - Click “Yes” to confirm.
+
+        You will need to have group admin rights to be able to do this.
+
+
