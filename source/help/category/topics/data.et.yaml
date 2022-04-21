@@ -262,3 +262,18 @@ viewing-a-topics-activity-feed:
     ## Related content{.mt-5}
     - [Using the activity feed](/help/topics/using-the-activity-feed)
     { .list-arrow .list-unstyled }
+adding-hyperlinks-to-a-topic-text:
+  path: /help/topics/adding-hyperlinks-to-a-topic-text
+  data:
+    help: /help/data.en.yaml
+  title: Adding hyperlinks to a topic text
+  text: |
+    To add hyperlinks into a topic text:
+
+    - Make sure you are in edit mode
+    - Select the relevant word(s)
+    - Click on the “link” icon in the text editor toolbar
+    - In the pop-up window, add the relevant URL, and click OK.
+
+    To remove a hyperlink, click on the hyperlinked text, then click “Remove link” in the pop-up window.
+
