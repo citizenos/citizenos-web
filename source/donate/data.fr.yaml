@@ -1,46 +1,46 @@
 ---
-path: /donate
-title: Donate
-description: Donate towards Citizen OS e-democracy platform development and maintenance
+path: /donner
+title: Donner
+description: Faire un don pour le développement et la maintenance de la plateforme de e-démocratie Citizen OS
 keywords:
   -
 blocks:
   header:
-    title: Help us pioneer and develop the field of e-democracy
+    title: Aidez-nous à être pionnier et à développer le domaine de l'e-démocratie
   text:
     text: |
-      ## Why help us?{ .pt-5 }
+      ## Pourquoi nous aider ?{ .pt-5 }
 
-      At Citizen OS, we want to live in a world where everyone can participate in respectful discussions. A world in which we can collectively make decisions—having our voices heard on topics that directly impact our own lives and well-being.
+      Chez Citizen OS, nous voulons vivre dans un monde où tout le monde peut participer à des discussions respectueuses. Un monde dans lequel nous pouvons prendre des décisions collectives ; faire entendre notre voix sur des sujets qui ont un impact direct sur notre vie et notre bien-être.
 
-      To make our vision a reality, we provide an open-source co-decision platform for people and communities to join local, national and even global discussions.
+      Pour faire de notre vision une réalité, nous fournissons une plateforme de codécision open-source pour que les personnes et les communautés puissent rejoindre les discussions locales, nationales et même mondiales.
 
-      We also run civic hackathons, summer and winter schools, democracy festivals and more. We partner with an array of awesome, like-minded organisations to support civic engagement initiatives around the world.
+      Nous organisons également des hackathons civiques, des écoles d'été et d'hiver, des festivals pour la démocratie et bien plus encore. Nous travaillons en partenariat avec une série d’organisations fantastiques qui partagent les mêmes idées pour soutenir des initiatives d’engagement civique dans le monde entier.
 
-      Everything we do, we do it for people and communities. We believe that democracy and civic participation should be accessible to everyone, everywhere.
+      Tout ce que nous faisons, nous le faisons pour les gens et les communautés. Nous pensons que la démocratie et la participation civique devraient être accessibles à tous, partout.
 
-      ## How will your donation be used?{ .pt-5 }
+      ## Comment votre don sera-t-il utilisé ?{ .pt-5 }
 
-      We will put all contributions towards platform development and maintenance—funding both the people and technology underpinning it, and making sure our Citizen OS open-source platform is freely available to everyone.
+      Nous mettrons toutes les contributions en faveur du développement et de la maintenance de la plateforme, en finançant à la fois les personnes et les technologies qui la sous-tendent, et s'assurer que notre plateforme open-source Citizen OS est disponible gratuitement pour tout le monde.
 
-      **Unfortunately, currently your kind donation cannot be deducted from your income tax as Citizen OS has not yet entered the list of non-profit foundations benefiting from income tax incentives approved by a resolution of the Estonian Tax and Customs Board. We are currently working on it and hopefully soon enough can let you know that the situation has changed.*
+      **Malheureusement, ce genre de don ne peut être déduit de votre impôt sur le revenu pour le moment, car Citizen OS n'est pas encore inscrit la liste des fondations à but non lucratif bénéficiant des incitations fiscales approuvées par une résolution de la Commission Estonienne de la Taxe et des Douanes. Nous sommes en train de travailler sur ce sujet et nous pourrons bientôt, espérons-le, vous faire savoir que la situation a changé.*
   how:
-    title: How can you donate?
+    title: Comment donner ?
     bank: |
-      **Bank transfer**
+      **Virement bancaire**
 
-      #### Account holder
+      #### Compte titulaire
       Citizen OS Foundation
 
-      #### Account No
-      EE887700771003693989
+      #### N° de compte
+      EE88771003693989
 
-      #### Bank
+      #### Banque
       AS LHV Pank
-      Tartu mnt 2, 10145 Tallinn
+      mnt 2 Tartu. 10145 Tallinn
 
       #### BIC/SWIFT
       LHVBEE22
 
-      #### Bank code
+      #### Code bancaire
       689
