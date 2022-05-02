@@ -39,6 +39,9 @@ blocks:
     title: Aika ja toiminta
     #date: 17-25 August 2021, Haapsalu
     #time: Full days
+    price:
+    deadline:
+    how:
     button:
       title: Liity nyt!
       url: https://docs.google.com/forms/d/e/1FAIpQLSc0rssCy1BA8WgegHqVMp50xCH8m2MiNTflVEZt9n_zmdcueg/viewform
