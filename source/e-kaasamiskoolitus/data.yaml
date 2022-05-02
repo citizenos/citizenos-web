@@ -87,6 +87,7 @@ blocks:
         title: E-kaasamiskoolitus
         date: 22, 29 jaan, 12 veebr.
         time: Kõigil päevadel kell 15-17:30
+        deadline:
         price: 49.-
         how: Registreeru koolitusele!
         button:

@@ -85,6 +85,8 @@ blocks:
         title: Sign up for Network!
         date: Ongoing
         time: Ongoing
+        price:
+        deadline:
         how: We'll e-mail you the details.
         button:
             title: Sign up

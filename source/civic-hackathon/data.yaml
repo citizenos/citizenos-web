@@ -66,6 +66,8 @@ blocks:
         title: Civic Hackathon
         date: 18-20 Feb 2022
         time: 10am to 4pm
+        deadline:
+        price:
         how: "Registration deadline: 14 Feb 2022"
         button:
             title: Sign up

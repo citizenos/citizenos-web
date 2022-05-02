@@ -31,7 +31,7 @@ blocks:
 
             Participants will work in teams to brainstorm, collectively define, and draw up plans for implementing a project relating to one or more aspects of civic life. During the course of the design process, they will be introduced to design thinking methods and theories of critical thinking and argumentation.
 
-            ![Filler image](/assets/images/events/filler-image.png)
+            ![Filler image](/assets/images/events/filler-image.png){ .img-fluid }
 
 
             ## Programme Agenda{ .pt-5 }
@@ -107,7 +107,10 @@ blocks:
     join:
         title: Democracy Defenders Bootcamp
         date: 07-17 Nov 2022
-        how: "Registration deadline: 01 Aug 2022"
+        time:
+        deadline: 01 Aug 2022
+        price:
+        how:
         button:
             title: Sign up
             url: https:/docs.google.com/forms/fillerlink

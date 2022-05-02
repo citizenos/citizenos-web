@@ -18,13 +18,27 @@ block content
                 #join.p-4
                     if self.blocks && self.blocks.join
                         h2= self.blocks.join.title
-                        .row.my-2
-                            .col-1
-                                img(src='/assets/images/webinar-calendar.svg', height=22, width=20, alt='Citizen OS logo')
-                            .col-auto= self.blocks.join.date
-                        .row.my-2
-                            .col-1
-                                img(src='/assets/images/webinar-clock.svg', height=22, width=20, alt='Citizen OS logo')
-                            .col-auto= self.blocks.join.time
-                        h2.mt-4= self.blocks.join.how
-                        a.btn.btn-primary.my-2.w-100(href=self.blocks.join.button.url, target='_blank')= self.blocks.join.button.title
+                        if self.blocks.join.date
+                            .row.my-2
+                                .col-1
+                                    img(src='/assets/images/webinar-calendar.svg', height=22, width=20)
+                                .col-auto= self.blocks.join.date
+                        if self.blocks.join.time
+                            .row.my-2
+                                .col-1
+                                    img(src='/assets/images/webinar-clock.svg', height=22, width=20)
+                                .col-auto= self.blocks.join.time
+                        if self.blocks.join.deadline
+                            .row.my-2
+                                .col-1
+                                    img(src='/assets/images/webinar-alarm.svg', height=22, width=20, title='Deadline')
+                                .col-auto= self.blocks.join.deadline
+                        if self.blocks.join.price
+                            .row.my-2
+                                strong.col-1
+                                    .price.pl-1 €
+                                strong.col-auto= self.blocks.join.price
+                        if self.blocks.join.how
+                            h2.mt-4= self.blocks.join.how
+                        if self.blocks.join.button
+                            a.btn.btn-primary.mt-4.mb-2.w-100(href=self.blocks.join.button.url, target='_blank')= self.blocks.join.button.title
