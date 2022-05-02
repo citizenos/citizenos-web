@@ -9,7 +9,7 @@ text: If our Help Centre couldn’t help you then please let us know what proble
 form:
     title: What are you trying to do?
     message: Write here...
-    email: E-mail address (optional)
+    email: E-mail address
     submit: Send
     success: |
         **Your request has been submitted!**

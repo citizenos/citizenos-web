@@ -38,7 +38,7 @@ negativeFeedback:
     form:
         title: How could it be improved?
         message: Write here...
-        email: E-mail address (optional)
+        email: E-mail address
         submit: Send
         success: |
             **Thank you for your feedback!**
