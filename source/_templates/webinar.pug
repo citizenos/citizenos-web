@@ -57,7 +57,12 @@ block content
             .block.col-12.col-lg-6.offset-lg-1
                 if self.blocks && self.blocks.facilitators
                     h2=self.blocks.facilitators.title
-                    +markdown(self.blocks.facilitators.text)
+                    each person, id in self.blocks.facilitators.people
+                        .row.my-5
+                            .col-3
+                                img.img-fluid.rounded-circle(src=person.picture)
+                            .col-12.col-lg-9
+                                +markdown(person.text)
 
 
 block stylus

@@ -76,32 +76,39 @@ blocks:
 
     facilitators:
         title: Facilitators
-        text: |
-            **Anett Linno**
-            *CEO*
+        people:
+            anett:
+                picture: /assets/images/team/anett-avatar.jpg
+                text: |
+                    **Anett Linno**
+                    *CEO*
+                    Holding almost fifteen years of volunteer and professional civic engagement experience Anett has helped to build and support the World Cleanup Day network in 35 Asian countries. Prior to taking on the role of CEO, Anett was the Head of Partnerships at Citizen OS, responsible for coordinating activities with partners from all over the world.
+            margo:
+                picture: /assets/images/team/margo-avatar.jpg
+                text: |
+                    **Margo Loor**
+                    *Founder and Evangelist*
+                    Margo Loor is highly experienced in debating and moderation, has provided training in argumentation, persuasion and decision making and is passionate about using technology to design democratic and open societies. The idea for Citizen OS emerged from the first Let’s Do It World Cleanup Day in 2008 and Margo continues to be interested in how technology can address environmental issues.
+            sara:
+                picture:
+                text: |
+                    **Sara Sinha**
+                    *Partnerships and Community Lead*
+                    Sara Sinha graduated with a Bachelor of Arts degree in History (Honors) from St. Stephens college, the University of Delhi. She combined her interest in studying societies with technology, and worked as a self-taught user experience designer and frontend developer from 2016 to 2019. Sara’s interests include accessibility, inclusion and participatory and deliberative democracy models. She has presented these issues at different civic technology forums.
 
-            Holding almost fifteen years of volunteer and professional civic engagement experience Anett has helped to build and support the World Cleanup Day network in 35 Asian countries. Prior to taking on the role of CEO, Anett was the Head of Partnerships at Citizen OS, responsible for coordinating activities with partners from all over the world.
-
-            **Margo Loor**
-            *Founder and Evangelist*
-
-            Margo Loor is highly experienced in debating and moderation, has provided training in argumentation, persuasion and decision making and is passionate about using technology to design democratic and open societies. The idea for Citizen OS emerged from the first Let’s Do It World Cleanup Day in 2008 and Margo continues to be interested in how technology can address environmental issues.
-
-            **Sara Sinha**
-            *Partnerships and Community Lead*
-
-            Sara Sinha graduated with a Bachelor of Arts degree in History (Honors) from St. Stephens college, the University of Delhi. She combined her interest in studying societies with technology, and worked as a self-taught user experience designer and frontend developer from 2016 to 2019. Sara’s interests include accessibility, inclusion and participatory and deliberative democracy models. She has presented these issues at different civic technology forums.
-            Sara received a cum laude degree in the Master of Science degree, Open Society Technologies and is still based in Tallinn, Estonia.
-
-            **Agustina Iskander**
-            *role*
-
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-            **Farasina Rumere**
-            *role*
-
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+                    Sara received a cum laude degree in the Master of Science degree, Open Society Technologies and is still based in Tallinn, Estonia.
+            agustina:
+                picture:
+                text: |
+                    **Agustina Iskander**
+                    *role*
+                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+            farasina:
+                picture:
+                text: |
+                    **Farasina Rumere**
+                    *role*
+                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
     join:
         title: Democracy Defenders Bootcamp
