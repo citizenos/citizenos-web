@@ -14,13 +14,14 @@ block content
                     a.d-lg-none.btn.btn-primary.mt-4.mb-2(href=self.blocks.join.button.url, target='_blank')= self.blocks.join.button.title
 
         #text.row.py-5
-            .block.col-12.col-lg-6.offset-lg-1
-                if self.blocks && self.blocks.text
+            if self.blocks && self.blocks.text
+                .block.col-12.col-lg-6.offset-lg-1
                     h2=self.blocks.text.title
                     +markdown(self.blocks.text.text)
-            .block.col-12.col-lg-3.offset-lg-1
-                #join.p-4
-                    if self.blocks && self.blocks.join
+
+            if self.blocks && self.blocks.join
+                .block.col-12.col-lg-3.offset-lg-1
+                    #join.p-4
                         h2= self.blocks.join.title
                         if self.blocks.join.date
                             .row.my-2
@@ -47,15 +48,15 @@ block content
                         if self.blocks.join.button
                             a.btn.btn-primary.mt-4.mb-2.w-100(href=self.blocks.join.button.url, target='_blank')= self.blocks.join.button.title
 
-        #agenda.row.py-5
-            .block.col-12.col-lg-6.offset-lg-1
-                if self.blocks && self.blocks.agenda
+        if self.blocks && self.blocks.agenda
+            #agenda.row.py-5
+                .block.col-12.col-lg-6.offset-lg-1
                     h2=self.blocks.agenda.title
                     +markdown(self.blocks.agenda.text)
 
-        #facilitators.row.py-5
-            .block.col-12.col-lg-6.offset-lg-1
-                if self.blocks && self.blocks.facilitators
+        if self.blocks && self.blocks.facilitators
+            #facilitators.row.py-5
+                .block.col-12.col-lg-6.offset-lg-1
                     h2=self.blocks.facilitators.title
                     each person, id in self.blocks.facilitators.people
                         .row.my-5
