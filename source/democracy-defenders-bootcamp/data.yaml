@@ -14,10 +14,8 @@ blocks:
         title: 'Democracy Defenders Bootcamp'
 
     text:
+        title: The Democracy Defenders Bootcamp
         text: |
-
-            ## The Democracy Defenders Bootcamp{ .pt-5 }
-
             **Location**
             Estonia (offline)
 
@@ -33,9 +31,9 @@ blocks:
 
             ![Filler image](/assets/images/events/filler-image.png){ .img-fluid }
 
-
-            ## Programme Agenda{ .pt-5 }
-
+    agenda:
+        title: Programme Agenda
+        text: |
             **Day 1**
 
             Arrival and settling into the accommodation.
@@ -76,8 +74,9 @@ blocks:
 
             The participants will prepare for departure.
 
-            ## Facilitators{ .pt-5 }
-
+    facilitators:
+        title: Facilitators
+        text: |
             **Anett Linno**
             *CEO*
 

@@ -12,9 +12,11 @@ block content
                     h1= self.blocks.header.title
                 if self.blocks.join.button
                     a.d-lg-none.btn.btn-primary.mt-4.mb-2(href=self.blocks.join.button.url, target='_blank')= self.blocks.join.button.title
+
         #text.row.py-5
             .block.col-12.col-lg-6.offset-lg-1
                 if self.blocks && self.blocks.text
+                    h2=self.blocks.text.title
                     +markdown(self.blocks.text.text)
             .block.col-12.col-lg-3.offset-lg-1
                 #join.p-4
@@ -45,6 +47,18 @@ block content
                         if self.blocks.join.button
                             a.btn.btn-primary.mt-4.mb-2.w-100(href=self.blocks.join.button.url, target='_blank')= self.blocks.join.button.title
 
+        #agenda.row.py-5
+            .block.col-12.col-lg-6.offset-lg-1
+                if self.blocks && self.blocks.agenda
+                    h2=self.blocks.agenda.title
+                    +markdown(self.blocks.agenda.text)
+
+        #facilitators.row.py-5
+            .block.col-12.col-lg-6.offset-lg-1
+                if self.blocks && self.blocks.facilitators
+                    h2=self.blocks.facilitators.title
+                    +markdown(self.blocks.facilitators.text)
+
 
 block stylus
     :stylus
@@ -65,6 +79,9 @@ block stylus
 
         #text
             background-color #FFFFFF
+
+        #agenda
+            background-color #F7F7F7
 
         #join
             border-radius 6px
