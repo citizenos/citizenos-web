@@ -35,7 +35,7 @@ negativeFeedback:
   form:
     title: Mida saaksime parandada?
     message: Kirjuta siia...
-    email: E-posti aadress (valikuline)
+    email: E-mail address
     submit: Saada
     success: |
       **Suur tänu tagasiside eest!**
