@@ -10,6 +10,8 @@ block content
             .col-12.col-lg-8.offset-lg-2.text-center
                 if self.blocks && self.blocks.header
                     h1= self.blocks.header.title
+                if self.blocks.join.button
+                    a.d-lg-none.btn.btn-primary.mt-4.mb-2(href=self.blocks.join.button.url, target='_blank')= self.blocks.join.button.title
         #text.row.py-5
             .block.col-12.col-lg-6.offset-lg-1
                 if self.blocks && self.blocks.text
