@@ -1,0 +1,123 @@
+path: /democracy-defenders-accelerator
+
+title: Democracy Defenders Accelerator
+description: Immersive 10-day democracy training programme ran by Citizen OS from October 2022 to October 2023
+keywords:
+    - democracy training program
+    - participatory leadership
+    - civic hackathon
+
+
+
+blocks:
+    header:
+        title: ''
+
+    text:
+        title: Democracy Defenders Accelerator
+        text: |
+            Building on the success of our past Winter and Summer Schools, the Democracy Defenders Accelerator is our new flagship programme for civil society leaders. Through this programme, we aim to both promote democracy and empower civil society, in response to the growing threats.
+
+            **Dates**
+            October 2022 - October 2023
+
+            **Location**
+            Online remotely and offline in Estonia (Bootcamp: 18-28 Nov 2022)
+
+            **Costs**
+            Free except travel and visa costs
+
+            **Participants**
+            Civil society leaders from Indonesia, USA, Ukraine, Georgia, EU/EEA
+
+            ## Overview { .pt-5 }
+
+            Throughout this one-year programme, participants will learn, try out and implement best practice civic engagement and participatory leadership methods. Drawing on tried and tested methods from design thinking and The Stanford d.school, the programme will guide participants through five phases covering research, iteration, implementation, impact assessment and results evaluation.
+
+            The highlight of the programme will be the **Democracy Defenders Bootcamp, 18-28 November 2022 in Estonia,** at which all participants will come together offline for an intensive, immersive 10-day programme. The rest of the programme will be held online and asynchronously, allowing participants to fit their participation flexibly around their other commitments.
+
+            “Learning by doing” approaches to participatory leadership and qualitative decision-making will be utilised throughout the programme, with participants collectively establishing a fictional civil society organisation. Through this process, they will discuss and iterate potential solutions for real-life democracy and civil society problems, and have hands-on experience to hone their participatory leadership skills.
+
+
+
+
+
+    agenda:
+        title: Programme outline
+        text: |
+            The programme is divided into five phases, drawing on the five step process by The Stanford d.school and the five phases of the design thinking process.
+
+            **Phase 1 | Research**
+
+            1 Oct - 18 Nov 2022. *Online, asynchronous.*
+
+            Participants will explore and define a particular problem related to democracy and civil society in their home countries and research the problems to create well-founded problem statements.
+
+            **Phase 2 | Bootcamp**
+
+            18 - 28 Nov 2022. *Offline, Estonia.*
+
+            The main focus of the programme, the Democracy Defenders Bootcamp, will be an intensive, immersive, 10-day bootcamp in civic engagement held in person in Estonia. Participants will collectively iterate and develop solutions to their problem statements keeping in mind democratic values and good deliberation practices. By the end of this phase, participants will have prototypes that they can test with the wider audience.
+
+            **Phase 3 | Implementation**
+
+            1 Dec 2022 - 1 May 2023. *Online, asynchronous.*
+
+            During the six month implementation phase, participants will collectively determine how best to engage the wider audience in testing their prototyped solutions. They will also have the opportunity to fine-tune their prototypes. Participants will select specific members among the general populace who are particularly important stakeholders. This phase will conclude with participants having disseminated the prototype to their defined stakeholders.
+
+            **Phase 4 | Impact assessment**
+
+            1 May 2023 – 1 August 2023. *Online, asynchronous.*
+
+            In the impact assessment phases of the Democracy Defenders Accelerator, participants will be supported through a process of impact measurement, in relation to their own co-created metrics.
+
+            **Phase 5 | Results**
+
+            1 May 2023 – 1 August 2023. *Online, asynchronous.*
+
+            The results phase will involve a forum in which participants discuss project results, and collectively evaluate them based on the co-created measures.
+
+            <img src="/assets/images/events/design thinking.png"
+
+
+    facilitators:
+        title: Participants
+        people:
+            anett:
+                picture: /assets/images/team/anett-avatar.jpg
+                text: |
+                    **Anett Linno**
+                    *CEO*
+                    Holding almost fifteen years of volunteer and professional civic engagement experience Anett has helped to build and support the World Cleanup Day network in 35 Asian countries. Prior to taking on the role of CEO, Anett was the Head of Partnerships at Citizen OS, responsible for coordinating activities with partners from all over the world.
+            margo:
+                picture: /assets/images/team/margo-avatar.jpg
+                text: |
+                    **Margo Loor**
+                    *Founder and Evangelist*
+                    Margo Loor is highly experienced in debating and moderation, has provided training in argumentation, persuasion and decision making and is passionate about using technology to design democratic and open societies. The idea for Citizen OS emerged from the first Let’s Do It World Cleanup Day in 2008 and Margo continues to be interested in how technology can address environmental issues.
+            sara:
+                picture:
+                text: |
+                    **Sara Sinha**
+                    *Partnerships and Community Lead*
+                    Sara Sinha graduated with a Bachelor of Arts degree in History (Honors) from St. Stephens college, the University of Delhi. She combined her interest in studying societies with technology, and worked as a self-taught user experience designer and frontend developer from 2016 to 2019. Sara’s interests include accessibility, inclusion and participatory and deliberative democracy models. She has presented these issues at different civic technology forums.
+
+                    Sara received a cum laude degree in the Master of Science degree, Open Society Technologies and is still based in Tallinn, Estonia.
+            agustina:
+                picture:
+                text: |
+                    **Agustina Iskander**
+                    *role*
+                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+            farasina:
+                picture:
+                text: |
+                    **Farasina Rumere**
+                    *role*
+                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+    join:
+        title: Event registration deadline
+        date: 15 July 2022
+            title: Sign up
+            url: https:/docs.google.com/forms/fillerlink
