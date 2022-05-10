@@ -77,47 +77,33 @@ blocks:
 
             The results phase will involve a forum in which participants discuss project results, and collectively evaluate them based on the co-created measures.
 
-            <img src="/assets/images/events/design thinking.png"
+            ![Democracy Defenders Accelerator](assets/images/events/design-thinking.png){ .img-fluid }
 
+            ## Participants { .pt-5 }
 
-    facilitators:
-        title: Participants
-        people:
-            anett:
-                picture: /assets/images/team/anett-avatar.jpg
-                text: |
-                    **Anett Linno**
-                    *CEO*
-                    Holding almost fifteen years of volunteer and professional civic engagement experience Anett has helped to build and support the World Cleanup Day network in 35 Asian countries. Prior to taking on the role of CEO, Anett was the Head of Partnerships at Citizen OS, responsible for coordinating activities with partners from all over the world.
-            margo:
-                picture: /assets/images/team/margo-avatar.jpg
-                text: |
-                    **Margo Loor**
-                    *Founder and Evangelist*
-                    Margo Loor is highly experienced in debating and moderation, has provided training in argumentation, persuasion and decision making and is passionate about using technology to design democratic and open societies. The idea for Citizen OS emerged from the first Let’s Do It World Cleanup Day in 2008 and Margo continues to be interested in how technology can address environmental issues.
-            sara:
-                picture:
-                text: |
-                    **Sara Sinha**
-                    *Partnerships and Community Lead*
-                    Sara Sinha graduated with a Bachelor of Arts degree in History (Honors) from St. Stephens college, the University of Delhi. She combined her interest in studying societies with technology, and worked as a self-taught user experience designer and frontend developer from 2016 to 2019. Sara’s interests include accessibility, inclusion and participatory and deliberative democracy models. She has presented these issues at different civic technology forums.
+            The programme is open to up to 30 civil society leaders from Indonesia, the USA, Ukraine, Georgia and the EU/EEA, with preference given to youth applicants.
+            To qualify as a civil society leader, participants must have at least some prior experience of initiating grassroots level civic engagement projects.
+            All participants will need to be able to travel to Estonia to attend the 10-day bootcamp, 18-28 Nov 2022. The rest of the programme will be online and asynchronous, to allow participation to fit around other commitments.
+            Participants will need to cover the costs of travel to Estonia and visa costs. All other costs (including accommodation, meals and transport within Estonia) will be met by the organisers.
 
-                    Sara received a cum laude degree in the Master of Science degree, Open Society Technologies and is still based in Tallinn, Estonia.
-            agustina:
-                picture:
-                text: |
-                    **Agustina Iskander**
-                    *role*
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-            farasina:
-                picture:
-                text: |
-                    **Farasina Rumere**
-                    *role*
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+            ## Application process { .pt-5 }
+
+            Applications will be open from X to X dates.
+            Accepted applicants will be informed by X date.
+
+            ## Further information { .pt-5 }
+
+            Download our full Democracy Defenders Accelerator overview document *here*.
+
+            Feel free to contact X with any further questions.
 
     join:
-        title: Event registration deadline
-        date: 15 July 2022
+        title: Registration deadline
+        date:
+        time:
+        deadline: 01 Aug 2022
+        price:
+        how:
+        button:
             title: Sign up
             url: https:/docs.google.com/forms/fillerlink
