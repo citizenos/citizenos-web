@@ -10,7 +10,7 @@ block content
             .col-12.col-lg-8.offset-lg-2.text-center
                 if self.blocks && self.blocks.header
                     h1= self.blocks.header.title
-                if self.blocks.join.button
+                if self.blocks.join.button.url && self.blocks.join.button.title
                     a.d-lg-none.btn.btn-primary.mt-4.mb-2(href=self.blocks.join.button.url, target='_blank')= self.blocks.join.button.title
 
         #text.row.py-5
@@ -45,7 +45,7 @@ block content
                                 strong.col-auto= self.blocks.join.price
                         if self.blocks.join.how
                             h2.mt-4= self.blocks.join.how
-                        if self.blocks.join.button
+                        if self.blocks.join.button.url && self.blocks.join.button.title
                             a.btn.btn-primary.mt-4.mb-2.w-100(href=self.blocks.join.button.url, target='_blank')= self.blocks.join.button.title
 
         if self.blocks && self.blocks.agenda
