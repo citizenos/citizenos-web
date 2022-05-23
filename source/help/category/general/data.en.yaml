@@ -33,11 +33,11 @@ using-on-mobile-devices:
     text: |
         **Citizen OS is a browser-based platform.** You can therefore use it from any device, simply by opening a browser and navigating to the platform via the URL. There is no need to download an app.
 
-why-you-cant-use-the-platform-online:
-    path: /help/general/why-you-cant-use-the-platform-online
+why-you-cant-use-the-platform-offline:
+    path: /help/general/why-you-cant-use-the-platform-offline
     data:
         help: /help/data.en.yaml
-    title: Why you can't use the platform online
+    title: Why you can't use the platform offline
     text: |
         The platform is only accessible online, with no “offline mode”.
         This is to ensure that multiple users can engage with a topic at the same time, and will all see the same content.
