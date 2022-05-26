@@ -77,4 +77,16 @@ donating-to-the-platform:
     Help us keep the platform free by making a donation at [www.citizenos.com/donate](/donate).
 
     Your donation will help us in our mission to *“empower as many people as possible to participate in respectful and meaningful discussions in order to collaboratively decide on issues that affect their wellbeing.”*
+your-data-security:
+  path: /help/general/your-data-security
+  data:
+    help: /help/data.en.yaml
+  title: Your data security
+  text: |
+    All your personal data is stored securely. The only data which will be accessible to those outside of our organisation is your activity in any public topics. Your activity in private topics will of course be visible to other participants of this topic, but no one else. Votes cast are visible only to topic admins, regardless of whether the topic is public or private.
 
+    Unlike some online platforms, we do not sell any of your data to third parties to raise funds. Citizen OS is funded via private philanthropic donations, EU grants and other grant funds.
+
+    To better understand our platform’s usage and improve its usability, we anonymously track certain elements of user activity via Plausible. Plausible is a lightweight and open source web analytics tool which uses no cookies and is fully compliant with data protection regulations around the world.
+
+    See our full [Privacy and Cookies Policy](/legal/privacy/) for further information.
