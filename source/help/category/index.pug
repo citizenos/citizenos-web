@@ -5,6 +5,12 @@ block content
     +appHelp()
     #help-content.container.mb-4.py-5
         .row
+            .col-12.mb-5
+                a(href=self.data.help.path)=self.data.help.title
+                span(style='margin:0 .5rem;color:#0680fc') >
+                span(style='color:gray')= self.title
+
+        .row
             .col-12.col-sm-5
                 h1.mb-4= self.title
                 +markdown(self.text)
