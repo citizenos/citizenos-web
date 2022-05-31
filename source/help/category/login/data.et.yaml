@@ -3,6 +3,7 @@ multipage: true
 troubleshooting-no-permission-to-access:
   path: /et/abi/sisselogimine/kui-ligipaas-ei-toimi
   data:
+    category: /help/category/data.en.yaml
     help: /help/data.et.yaml
   title: Troubleshooting “no permission to access”
   text: |
@@ -26,6 +27,7 @@ troubleshooting-no-permission-to-access:
 switching-accounts:
   path: /et/abi/sisselogimine/kontode-vahetamine
   data:
+    category: /help/category/data.en.yaml
     help: /help/data.et.yaml
   title: Switching accounts
   text: |

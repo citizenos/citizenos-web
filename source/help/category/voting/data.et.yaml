@@ -3,6 +3,7 @@ multipage: true
 seeing-how-many-people-have-voted-so-far:
   path: /et/abi/haaletamine/vaatamine-kui-paljud-on-seni-haaletanud
   data:
+    category: /help/category/data.en.yaml
     help: /help/data.et.yaml
   title: Seeing how many people have voted so far
   text: |
@@ -24,6 +25,7 @@ seeing-how-many-people-have-voted-so-far:
 why-admins-cant-see-who-has-voted-while-a-vote-is-in-progress:
   path: /et/abi/haaletamine/miks-adminnid-ei-saa-haaletamise-ajal-vaadata-kes-on-haaletanud
   data:
+    category: /help/category/data.en.yaml
     help: /help/data.et.yaml
   title: Why admins can’t see who has voted while a vote is in progress
   text: |
@@ -43,6 +45,7 @@ why-admins-cant-see-who-has-voted-while-a-vote-is-in-progress:
 why-voting-is-not-fully-anonymous:
   path: /et/abi/haaletamine/miks-haaletamine-ei-ole-taiesti-anonyymne
   data:
+    category: /help/category/data.en.yaml
     help: /help/data.et.yaml
   title: Why voting is not fully anonymous
   text: |
@@ -52,6 +55,7 @@ why-voting-is-not-fully-anonymous:
 delegating-your-vote:
   path: /et/abi/haaletamine/volitamine-haaletamisel
   data:
+    category: /help/category/data.en.yaml
     help: /help/data.et.yaml
   title: Delegating your vote
   text: |
@@ -71,6 +75,7 @@ delegating-your-vote:
 submitting-signatures-to-the-ariregister-riigikogu-local-government-estonia-only:
   path: /et/abi/haaletamine/allkirjade-edastamine-eestis-ariregistrile-riigikogule-omavalitsusele
   data:
+    category: /help/category/data.en.yaml
     help: /help/data.et.yaml
   title: Submitting signatures to the Äriregister / Riigikogu / local government (Estonia only)
   text: |
@@ -86,6 +91,7 @@ submitting-signatures-to-the-ariregister-riigikogu-local-government-estonia-only
 how-to-set-up-a-vote:
   path: /help/voting/how-to-set-up-a-vote
   data:
+    category: /help/category/data.en.yaml
     help: /help/data.et.yaml
   title: How to set up a vote
   text: |
@@ -107,6 +113,7 @@ how-to-set-up-a-vote:
 closing-the-vote-or-setting-a-vote-deadline:
   path: /help/voting/closing-the-vote-or-setting-a-vote-deadline
   data:
+    category: /help/category/data.en.yaml
     help: /help/data.et.yaml
   title: Closing the vote or setting a vote deadline
   text: |
@@ -132,6 +139,7 @@ closing-the-vote-or-setting-a-vote-deadline:
 downloading-voting-results:
   path: /help/voting/downloading-voting-results
   data:
+    category: /help/category/data.en.yaml
     help: /help/data.et.yaml
   title: Downloading voting results
   text: |
@@ -164,6 +172,7 @@ downloading-voting-results:
 setting-up-digital-signature-voting-Estonia-only:
   path: /help/voting/setting-up-digital-signature-voting-Estonia-only
   data:
+    category: /help/category/data.en.yaml
     help: /help/data.et.yaml
   title: Setting up digital signature voting (Estonia only)
   text: |
@@ -185,6 +194,7 @@ setting-up-digital-signature-voting-Estonia-only:
 how-to-vote-using-a-digital-signature-Estonia-only:
   path: /help/voting/how-to-vote-using-a-digital-signature
   data:
+    category: /help/category/data.en.yaml
     help: /help/data.et.yaml
   title: How to vote using a digital signature (Estonia only)
   text: |
@@ -207,6 +217,7 @@ how-to-vote-using-a-digital-signature-Estonia-only:
 downloading-digital-signature-vote-files:
   path: /help/voting/downloading-digital-signature-vote-files
   data:
+    category: /help/category/data.en.yaml
     help: /help/data.et.yaml
   title: Downloading digital signature vote files (Estonia only)
   text: |
@@ -228,6 +239,7 @@ downloading-digital-signature-vote-files:
 digital-signature-voting-results-folder-contents:
   path: /help/voting/digital-signature-voting-results-folder-contents
   data:
+    category: /help/category/data.en.yaml
     help: /help/data.et.yaml
   title: Digital signature voting results folder contents (Estonia only)
   text: |
@@ -249,6 +261,7 @@ digital-signature-voting-results-folder-contents:
 the-csv-file-for-digital-signature-voting-results:
   path: /help/voting/the-csv-file-for-digital-signature-voting-results
   data:
+    category: /help/category/data.en.yaml
     help: /help/data.et.yaml
   title: The CSV file for digital signature voting results (Estonia only)
   text: |

@@ -3,6 +3,7 @@ multipage: true
 reporting-an-argument-or-comment-as-inappropriate:
   path: /et/abi/arutelud/ebasobivast-argumendist-kommentaarist-teavitamine
   data:
+    category: /help/category/data.en.yaml
     help: /help/data.et.yaml
   title: Reporting an argument or comment as inappropriate
   text: |
@@ -16,6 +17,7 @@ reporting-an-argument-or-comment-as-inappropriate:
 replying-or-reacting-to-an-argument-or-comment:
   path: /help/discussions/replying-or-reacting-to-an-argument-or-comment
   data:
+    category: /help/category/data.en.yaml
     help: /help/data.et.yaml
   title: Replying or reacting to an argument or comment
   text: |
