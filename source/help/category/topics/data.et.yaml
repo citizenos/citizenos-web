@@ -3,6 +3,7 @@ multipage: true
 creating-a-new-topic:
   path: /et/abi/teemad/uue-teema-loomine
   data:
+    category: /help/category/data.en.yaml
     help: /help/data.et.yaml
   title: Uue teema loomine
   text: |
@@ -22,6 +23,7 @@ creating-a-new-topic:
 finding-a-topic-you-are-participating-in:
   path: /help/topics/finding-a-topic-you-are-participating-in
   data:
+    category: /help/category/data.en.yaml
     help: /help/data.et.yaml
   title: Finding a topic you are participating in
   text: |
@@ -50,6 +52,7 @@ finding-a-topic-you-are-participating-in:
 troubleshooting-no-permission-to-access:
   path: /help/topics/troubleshooting-no-permission-to-access
   data:
+    category: /help/category/data.en.yaml
     help: /help/data.en.yaml
   title: Troubleshooting “no permission to access”
   text: |
@@ -73,6 +76,7 @@ troubleshooting-no-permission-to-access:
 seeing-who-has-been-invited-to-joined-a-topic:
   path: /et/abi/teemad/kuidas-vaadata-teemasse-kutsutuid-ja-liitunuid
   data:
+    category: /help/category/data.en.yaml
     help: /help/data.et.yaml
   title: Seeing who has been invited to / joined a topic
   text: |
@@ -92,6 +96,7 @@ seeing-who-has-been-invited-to-joined-a-topic:
 checking-if-email-invites-bounced:
   path: /et/abi/teemad/kuidas-kontrollida-kas-kutsed-joudsid-kohale
   data:
+    category: /help/category/data.en.yaml
     help: /help/data.et.yaml
   title: Checking if email invites bounced
   text: |
@@ -107,6 +112,7 @@ checking-if-email-invites-bounced:
 attaching-files-to-a-topic:
   path: /et/abi/teemad/faili-lisamine-teemale
   data:
+    category: /help/category/data.en.yaml
     help: /help/data.et.yaml
   title: Attaching files to a topic
   text: |
@@ -151,6 +157,7 @@ attaching-files-to-a-topic:
 adding-footnotes-to-a-topic-text:
   path: /et/abi/teemad/allmarkuse-lisamine-teema-tekstile
   data:
+    category: /help/category/data.en.yaml
     help: /help/data.et.yaml
   title: Adding footnotes to a topic text
   text: |
@@ -160,6 +167,7 @@ adding-footnotes-to-a-topic-text:
 inviting-users-to-a-topic:
   path: /help/topics/inviting-users-to-a-topic
   data:
+    category: /help/category/data.en.yaml
     help: /help/data.et.yaml
   title: Inviting users to a topic
   text: |
@@ -191,6 +199,7 @@ inviting-users-to-a-topic:
 editing-a-topic:
   path: /help/topics/editing-a-topic
   data:
+    category: /help/category/data.en.yaml
     help: /help/data.et.yaml
   title: Editing a topic
   text: |
@@ -214,6 +223,7 @@ editing-a-topic:
 making-people-admin-of-a-topic:
   path: /help/topics/making-people-admin-of-a-topic
   data:
+    category: /help/category/data.en.yaml
     help: /help/data.et.yaml
   title: Making people admin of a topic
   text: |
@@ -239,6 +249,7 @@ making-people-admin-of-a-topic:
 making-a-topic-public-or-private:
   path: /help/topics/making-a-topic-public-or-private
   data:
+    category: /help/category/data.en.yaml
     help: /help/data.et.yaml
   title: Making a topic public or private
   text: |
@@ -253,6 +264,7 @@ making-a-topic-public-or-private:
 viewing-a-topics-activity-feed:
   path: /help/topics/viewing-a-topics-activity-feed
   data:
+    category: /help/category/data.en.yaml
     help: /help/data.et.yaml
   title: Viewing a topic’s activity feed
   text: |
@@ -265,6 +277,7 @@ viewing-a-topics-activity-feed:
 adding-hyperlinks-to-a-topic-text:
   path: /help/topics/adding-hyperlinks-to-a-topic-text
   data:
+    category: /help/category/data.en.yaml
     help: /help/data.en.yaml
   title: Adding hyperlinks to a topic text
   text: |
