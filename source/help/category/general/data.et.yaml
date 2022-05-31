@@ -3,6 +3,7 @@ multipage: true
 changing-the-language:
   path: /et/abi/yldine/keele-vahetamine
   data:
+    category: /help/category/data.en.yaml
     help: /help/data.et.yaml
   title: Changing the language
   text: |
@@ -12,6 +13,7 @@ changing-the-language:
 automatic-notifications:
   path: /et/abi/yldine/automaatsed-teavitused
   data:
+    category: /help/category/data.en.yaml
     help: /help/data.et.yaml
   title: Automatic notifications
   text: |
@@ -26,6 +28,7 @@ automatic-notifications:
 using-on-mobile-devices:
   path: /et/abi/yldine/kasutamine-mobiilil
   data:
+    category: /help/category/data.en.yaml
     help: /help/data.et.yaml
   title: Using on mobile devices
   text: |
@@ -33,6 +36,7 @@ using-on-mobile-devices:
 why-you-cant-use-the-platform-offline:
   path: /help/general/why-you-cant-use-the-platform-offline
   data:
+    category: /help/category/data.en.yaml
     help: /help/data.en.yaml
   title: Why you can't use the platform offline
   text: |
@@ -41,6 +45,7 @@ why-you-cant-use-the-platform-offline:
 using-the-activity-feed:
   path: /help/general/using-the-activity-feed
   data:
+    category: /help/category/data.en.yaml
     help: /help/data.en.yaml
   title: Using the activity feed
   text: |
@@ -57,6 +62,7 @@ using-the-activity-feed:
 deleting-your-account:
   path: /help/general/deleting-your-account
   data:
+    category: /help/category/data.en.yaml
     help: /help/data.en.yaml
   title: Deleting your account
   text: |
@@ -70,6 +76,7 @@ deleting-your-account:
 donating-to-the-platform:
   path: /help/general/donating-to-the-platform
   data:
+    category: /help/category/data.en.yaml
     help: /help/data.en.yaml
   title: Donating to the platform
   text: |
@@ -80,6 +87,7 @@ donating-to-the-platform:
 your-data-security:
   path: /help/general/your-data-security
   data:
+    category: /help/category/data.en.yaml
     help: /help/data.en.yaml
   title: Your data security
   text: |
