@@ -3,6 +3,7 @@ multipage: true
 troubleshooting-no-permission-to-access:
     path: /help/login/troubleshooting-no-permission-to-access
     data:
+        category: /help/category/data.en.yaml
         help: /help/data.en.yaml
     title: Troubleshooting “no permission to access”
     text: |
@@ -27,6 +28,7 @@ troubleshooting-no-permission-to-access:
 switching-accounts:
     path: /help/login/switching-accounts
     data:
+        category: /help/category/data.en.yaml
         help: /help/data.en.yaml
     title: Switching accounts
     text: |
@@ -43,6 +45,7 @@ switching-accounts:
 #logging-in-using-e-id-estonia-only:
 #    path: /help/login/logging-in-using-e-id-estonia-only
 #    data:
+#        category: /help/category/data.en.yaml
 #        help: /help/data.en.yaml
 #    title: Logging in using e-ID (Estonia only)
 #    text: |

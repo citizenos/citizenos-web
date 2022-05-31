@@ -3,6 +3,7 @@ multipage: true
 how-to-use-the-follow-up-feature:
     path: /help/follow-up/how-to-use-the-follow-up-feature
     data:
+        category: /help/category/data.en.yaml
         help: /help/data.en.yaml
     title: How to use the follow-up feature
     text: |

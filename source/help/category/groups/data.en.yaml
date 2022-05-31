@@ -3,6 +3,7 @@ multipage: true
 why-create-a-group:
     path: /help/groups/why-create-a-group
     data:
+        category: /help/category/data.en.yaml
         help: /help/data.en.yaml
     title: Why create a group
     text: |
@@ -18,6 +19,7 @@ why-create-a-group:
 how-to-create-a-group:
     path: /help/groups/how-to-create-a-group
     data:
+        category: /help/category/data.en.yaml
         help: /help/data.en.yaml
     title: How to create a group
     text: |
@@ -50,6 +52,7 @@ how-to-create-a-group:
 inviting-users-to-a-group:
     path: /help/groups/inviting-users-to-a-group
     data:
+        category: /help/category/data.en.yaml
         help: /help/data.en.yaml
     title: Inviting users to a group
     text: |
@@ -70,6 +73,7 @@ inviting-users-to-a-group:
 seeing-who-has-been-invited-to-joined-a-group:
     path: /help/groups/seeing-who-has-been-invited-to-joined-a-group
     data:
+        category: /help/category/data.en.yaml
         help: /help/data.en.yaml
     title: Seeing who has been invited to / joined a group
     text: |
@@ -90,6 +94,7 @@ seeing-who-has-been-invited-to-joined-a-group:
 checking-if-email-invites-bounced:
     path: /help/groups/checking-if-email-invites-bounced
     data:
+        category: /help/category/data.en.yaml
         help: /help/data.en.yaml
     title: Checking if email invites bounced
     text: |
@@ -106,6 +111,7 @@ checking-if-email-invites-bounced:
 finding-a-group-you-previously-joined-created:
     path: /help/groups/finding-a-group-you-previously-joined-created
     data:
+        category: /help/category/data.en.yaml
         help: /help/data.en.yaml
     title: Finding a group you previously joined / created
     text: |
@@ -125,6 +131,7 @@ finding-a-group-you-previously-joined-created:
 inviting-a-group-to-a-topic:
     path: /help/groups/inviting-a-group-to-a-topic
     data:
+        category: /help/category/data.en.yaml
         help: /help/data.en.yaml
     title: Inviting a group to a topic
     text: |
@@ -155,6 +162,7 @@ inviting-a-group-to-a-topic:
 changing-the-admin-rights-of-group-members:
     path: /help/groups/changing-the-admin-rights-of-group-members
     data:
+        category: /help/category/data.en.yaml
         help: /help/data.en.yaml
     title: Changing the admin rights of group members
     text: |
@@ -171,6 +179,7 @@ changing-the-admin-rights-of-group-members:
 troubleshooting-no-permission-to-access:
     path: /help/groups/troubleshooting-no-permission-to-access
     data:
+        category: /help/category/data.en.yaml
         help: /help/data.en.yaml
     title: Troubleshooting “no permission to access”
     text: |
@@ -195,6 +204,7 @@ troubleshooting-no-permission-to-access:
 changing-the-name-of-a-group:
     path: /help/groups/changing-the-name-of-a-group
     data:
+        category: /help/category/data.en.yaml
         help: /help/data.en.yaml
     title: Changing the name of a group
     text: |
@@ -210,6 +220,7 @@ changing-the-name-of-a-group:
 deleting-a-group:
     path: /help/groups/deleting-a-group
     data:
+        category: /help/category/data.en.yaml
         help: /help/data.en.yaml
     title: Deleting a group
     text: |

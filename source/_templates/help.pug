@@ -4,6 +4,15 @@ extends /_templates/main.pug
 block content
     +appHelp()
     #help-content.container.mb-4.py-5
+        if self.data.category
+            each c in self.data.category
+                if self.path.startsWith(c.path)
+                    .row
+                        .col-12.mb-5
+                            a(href=self.data.help.path)=self.data.help.title
+                            span(style='margin:0 .5rem;color:#0680fc') >
+                            a(href=c.path)= c.title
+
         .row
             .col-12.col-sm-10.offset-sm-1
                 h1.mb-4= self.title
