@@ -305,3 +305,24 @@ adding-hyperlinks-to-a-topic-text:
 
         To remove a hyperlink, click on the hyperlinked text, then click “Remove link” in the pop-up window.
 
+Creating-an-inline-vote-in-a-topic-text:
+    path: /help/topics/creating-an-inline-vote-in-a-topic-text
+    data:
+        category: /help/category/data.en.yaml
+        help: /help/data.en.yaml
+    title: Creating an inline vote in a topic text
+    text: |
+        Inline votes allow those with “admin” and “edit” rights for the topic to democratically decide on the specifics of the topic text. For example, by voting on three different options for what to change a particular word/sentence/paragraph to.
+
+        To use inline voting:
+
+        - Select the relevant words in the topic text, while in edit mode.
+        - In the pop-up, select “Create voting”.
+        - Add an explanation of what the vote is about, define the voting options and click “Start voting”.
+        - The relevant text will now be highlighted green.
+        - Other admins will now be able to submit their votes, by clicking on the green highlighted text while in edit mode.
+        - Once everyone has voted, click “close voting” in the inline vote pop-up.
+        - You can choose to automatically replace the original text with the most voted option if you wish.
+        - To view the vote results, click on the green highlighted text.
+
+
