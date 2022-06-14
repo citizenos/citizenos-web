@@ -46,6 +46,9 @@ how-to-create-a-group:
     - [Why create a group?](/help/groups/why-create-a-group)
     - [Inviting users to a group](/help/groups/inviting-users-to-a-group)
     - [Inviting a group to a topic](/help/groups/inviting-a-group-to-a-topic)
+    - [Changing the name of a group](/help/groups/changing-the-name-of-a-group)
+    - [Deleting a group](/help/groups/deleting-a-group)
+
     { .list-arrow .list-unstyled }
 inviting-users-to-a-group:
   path: /et/abi/grupid/kasutajate-gruppi-kutsumine
@@ -130,7 +133,8 @@ inviting-a-group-to-a-topic:
   title: Inviting a group to a topic
   text: |
     By inviting a group to a topic, all members of the group will be invited to join. It also means that the topic will show up under the relevant group name in the “My Groups” dashboard.
-    There are two ways to do this:
+    There are three ways to do this:
+
     *Either*
     1. Go into the relevant topic.
     1. Click on “invite users” in the “Options” menu. (Top right on desktop, or in the options menu tab on mobile).
@@ -146,6 +150,20 @@ inviting-a-group-to-a-topic:
     1. In the pop-up window, search for the name of the relevant group and select it when it appears.
     1. Choose the access rights you would like to give to members of that group, from the dropdown list.
     1. Click “Save topic and send invite”.
+
+    *Or*
+
+    1. In the “My Groups” dashboard, find the relevant group and select it.
+    1. Click on “add”, which you will find under “topics” and “topics list” for that group.
+    1. In the pop-up window, search for the name of the relevant topic and select it when it appears.
+    1. Choose the access rights you would like to give members of that group over the topic, from the dropdown list.
+    1. Click “Save group”.
+    1. The topic will now appear in the topics list for that group, and automatic invitations will be sent to members of the group.
+
+    *Tip:*
+    You can also invite a group automatically when you first create a topic, by creating the topic within the relevant group right from the start. In your “My Groups” dashboard, find the relevant group, and click on “add” under “topics” and “topics list”. In the pop-up, see “Create a new topic”. Invitations will be sent as soon as you press “Create”.
+
+
 
     ## Related content{.mt-5}
     - [How to create a group](/help/groups/how-to-create-a-group)
