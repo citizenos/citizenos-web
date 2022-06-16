@@ -1,4 +1,6 @@
 $(function () {
+    window.plausible = window.plausible || function() { (window.plausible.q = window.plausible.q || []).push(arguments) }
+
     var urlSearchParams = new URLSearchParams(window.location.search)
     var params = Object.fromEntries(urlSearchParams.entries())
 
@@ -8,7 +10,9 @@ $(function () {
     filter()
 
     function filter() {
-        var search = $('#search').val().toLowerCase().split(' ')
+        var search = $('#search').val().toLowerCase().split(' ').filter(x => !!x)
+
+        plausible('Help', { props: { search: search.join(' ') } })
 
         $('li.topic-title').removeClass('topic-title-visible')
         $('li.topic-title').addClass('d-none')

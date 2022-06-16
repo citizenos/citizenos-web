@@ -23,8 +23,8 @@ block content
         #feedback.row.mb-4.pt-5
             .col-12.col-sm-10.offset-sm-1
                 h2.mb-3= self.data.help.feedback.title
-                a.gray-box.feedback.mr-3.py-2.px-5(href='javascript:void(0)' data-answer='Helpful Topic')= self.data.help.feedback.answerYes
-                a.gray-box.feedback.feedback-not-helpful.py-2.px-5(href='javascript:void(0)' data-answer='Not Helpful Topic')= self.data.help.feedback.answerNo
+                a.gray-box.feedback.mr-3.py-2.px-5(href='javascript:void(0)' data-answer='Yes')= self.data.help.feedback.answerYes
+                a.gray-box.feedback.feedback-not-helpful.py-2.px-5(href='javascript:void(0)' data-answer='No')= self.data.help.feedback.answerNo
 
         #feedback-modal.modal.fade(tabindex='-1', role='dialog', aria-hidden='true')
             .modal-dialog(role='document')
@@ -80,11 +80,11 @@ block script
 
                 var answer = $(this).data('answer')
 
-                if (answer === 'not-helpful') {
+                if (answer === 'No') {
                     $('#feedback-modal').modal('show')
                 }
 
-                plausible(answer)
+                plausible('Help', { props: { helpful: answer } })
             })
 
             $('a.feedback-not-helpful').click(function () {
