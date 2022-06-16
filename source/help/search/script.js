@@ -4,7 +4,7 @@ $(function () {
     var urlSearchParams = new URLSearchParams(window.location.search)
     var params = Object.fromEntries(urlSearchParams.entries())
 
-    $('#search').on('change input', filter)
+    // $('#search').on('change input', filter)
     $('#search').val(params.q)
 
     filter()
