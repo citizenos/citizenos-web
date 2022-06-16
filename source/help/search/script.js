@@ -12,7 +12,7 @@ $(function () {
     function filter() {
         var search = $('#search').val().toLowerCase().split(' ').filter(x => !!x)
 
-        plausible('Help', { props: { search: search.join(' ') } })
+        plausible('Help', { props: { Search: search.join(' ') } })
 
         $('li.topic-title').removeClass('topic-title-visible')
         $('li.topic-title').addClass('d-none')
