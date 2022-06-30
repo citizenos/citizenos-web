@@ -95,14 +95,14 @@ how-to-set-up-a-vote:
     help: /help/data.et.yaml
   title: How to set up a vote
   text: |
-    To start a vote, click on “Send to voting” in the Options menu of the relevant topic. (Top right on desktop, or in the options menu tab on mobile).
+    To start a vote, click on “Send to voting” in the Options menu of the relevant topic. (Right sidebar on desktop, or in the options menu tab on mobile).
 
     Here you can customise your voting settings, then click “Start voting”.
 
     ![Screenshot of the platform.](/assets/images/help/sendtovoting.png)
 
     **Please note** that once the vote has started:
-    - It will not be possible to edit the voting settings. You can, however, still add a voting deadline in the “Actions” part of the “Options” menu. (Top right on desktop, or in the options menu tab on mobile).
+    - It will not be possible to edit the voting settings. You can, however, still add a voting deadline in the “Actions” part of the “Options” menu. (Right sidebar on desktop, or in the options menu tab on mobile).
     - It will no longer be possible to edit the topic text.
 ### Related content{.mt-5}
 #- [Customising the voting settings](/help/voting/customising-the-voting-settings)
