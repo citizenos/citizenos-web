@@ -180,20 +180,18 @@ downloading-voting-results:
         - [Submitting signatures to the Äriregister / Riigikogu / local government (Estonia only)](/help/voting/submitting-signatures-to-the-ariregister-riigikogu-local-government-estonia-only)
         { .list-arrow .list-unstyled }
 
-setting-up-digital-signature-voting-Estonia-only:
-    path: /help/voting/setting-up-digital-signature-voting-Estonia-only
+setting-up-digital-signature-voting-for-topic-admins-estonia-only:
+    path: /help/voting/setting-up-digital-signature-voting-for-topic-admins-estonia-only
     data:
         category: /help/category/data.en.yaml
         help: /help/data.en.yaml
-    title: Setting up digital signature voting (Estonia only)
+    title: Setting up digital signature voting (for topic admins, Estonia only)
     text: |
-        In Estonia, it is possible for participants to add a digital signature to their votes.
+        In Estonia, it is possible for participants to [add a digital signature](/help/voting/how-to-vote-using-a-digital-signature) to their votes.
 
-        ![Screenshot of the platform.](/assets/images/help/eidon.png)
+        **If you are the admin of a topic,** here’s how you can set up the vote so that topic participants can vote using digital signatures:
 
-        Here’s how:
-
-        1. First, set up a vote by clicking on “Send to voting” in the Options menu of the relevant topic. (Top right on desktop, or in the options menu tab on mobile).
+        1. First, set up a vote by clicking on “Send to voting” in the Options menu of the relevant topic. (Right sidebar on desktop, or in the options menu tab on mobile).
         1. Choose either “Regular” or “Custom” vote, depending on your preference. Digital voting is available in both options.
         1. In the “Set up voting rights” section of the vote settings, move the e-ID slider from “OFF” to “ON”.
         1. Once all your settings are how you want them, click on “Start voting”.
@@ -202,6 +200,9 @@ setting-up-digital-signature-voting-Estonia-only:
 
         - When eID voting is enabled, it is not possible to enable vote delegation.
         - On public topics, it is possible for participants to vote using e-ID without logging in first, if the admin has enabled e-ID voting when setting up the vote.
+
+        ## Related content{.mt-5}
+        - [How to vote using a digital signature (Estonia only)](/help/voting/how-to-vote-using-a-digital-signature)
 
 how-to-vote-using-a-digital-signature-Estonia-only:
     path: /help/voting/how-to-vote-using-a-digital-signature
