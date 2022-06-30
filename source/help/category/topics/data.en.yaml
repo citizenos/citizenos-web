@@ -270,7 +270,7 @@ making-a-topic-public-or-private:
     text: |
         Topics can either be private, meaning that only those invited can view the topic and participate, or public, meaning that anyone can view and participate.
         You can change the privacy settings of a topic in the following ways:
-        - When in the relevant topic, click on “Actions” within the “Options” menu. (Top right on desktop, or in the options menu tab on mobile).
+        - When in the relevant topic, click on “Actions” within the “Options” menu. (Right sidebar on desktop, or in the options menu tab on mobile).
         *or*
         - When in the “My Topics” dashboard, click on “Settings” for the relevant topic.
         Only admins of a topic can change these settings.
