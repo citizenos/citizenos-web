@@ -219,11 +219,12 @@ editing-a-topic:
         To edit a topic, make sure you are in edit mode. To enter into edit mode, you can either:
         - Choose “edit” when entering into the topic from your “My Topics” dashboard,
         *or*
-        1. Click on the blue “Edit topic” button once inside the topic. (Top right on desktop, or in the options menu tab on mobile).
-        1. You can now edit the topic using the text editor toolbar above the topic text box.
+        - Click on the blue “Edit topic” button once inside the topic. (Right sidebar on desktop, or in the options menu tab on mobile).
+
+        You can now edit the topic using the text editor toolbar above the topic text box.
 
         All changes will be saved automatically.
-        To exit edit mode, click on the blue “Done editing” button. (Top right on desktop, or in the options menu tab on mobile).
+        To exit edit mode, click on the blue “Done editing” button. (Right sidebar on desktop, or in the options menu tab on mobile).
 
         ![Screenshot of the platform.](/assets/images/help/edittopic.png)
 
@@ -231,7 +232,6 @@ editing-a-topic:
         - [Attaching files to a topic](/help/topics/attaching-files-to-a-topic)
         - [Adding footnotes to a topic text](/help/topics/adding-footnotes-to-a-topic-text)
         - [Making a topic public or private](/help/topics/making-a-topic-public-or-private)
-        - [Making people admin of a topic](/help/topics/making-people-admin-of-a-topic)
         { .list-arrow .list-unstyled }
 
 making-people-admin-of-a-topic:
