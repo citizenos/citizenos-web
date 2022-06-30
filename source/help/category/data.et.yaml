@@ -23,7 +23,9 @@ login:
     url:
     poster: /assets/images/help/login.png
   text: |
-    Log in quickly and easily using a Citizen OS account linked to your email address, or via social login (Facebook or Gmail). In Estonia, e-ID login is also available. Logins are remembered for two weeks, using a cookie, unless you log out.
+    Log in quickly and easily using a Citizen OS account linked to your email address, or via social login (Facebook or Gmail). In Estonia, e-ID login is also available.
+
+    Tip: be sure to log out if using the platform on public devices - you won’t be logged out automatically after closing the browser.
 groups:
   path: /et/abi/grupid
   data:
