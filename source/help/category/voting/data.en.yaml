@@ -318,3 +318,21 @@ creating-an-inline-vote-in-a-topic-text:
         - You can choose to automatically replace the original text with the most voted option if you wish.
         - To view the vote results, click on the green highlighted text.
 
+setting-up-multiple-choice-voting:
+    path: /help/voting/setting-up-multiple-choice-voting
+    data:
+        category: /help/category/data.en.yaml
+        help: /help/data.en.yaml
+    title: Setting up multiple choice voting
+    text: |
+        As the admin of a topic, when [setting up a vote](/help/voting/how-to-set-up-a-vote), you can allow topic participants to select more than one vote response option when they vote. We call this “multiple choice voting”.
+
+        To do this you’ll need to select the “custom vote” option when customising the voting settings.
+
+        **Custom vote**
+
+        - In a custom vote, you have complete flexibility to add your own vote response options. Simply type the choices you wish participants to choose from into the “Step 2: Define answers” fields.
+        - Just like in the regular vote, you can choose to include a “Neutral” or “Veto” option if you wish.
+        - In “Step 3: Define min/max options” you can specify how many of the vote response options you want participants to be able to vote for. For example, if you have set 5 vote options in total, and you want participants to vote for at least 1 but no more than 3 of these, you would set the “Min choices” to 1 and the “Max choices” to 3.
+
+
