@@ -174,8 +174,9 @@ inviting-users-to-a-topic:
     There are several different ways to invite individual users to participate in a topic.
 
     **Inviting via share link, QR code or social media:**
+
     1. Go into the relevant topic.
-    1. Click on “invite users” in the “Options” menu. (Top right on desktop, or in the options menu tab on mobile).
+    1. Click on “invite users” in the “Options” menu. (Right sidebar on desktop, or in the options menu tab on mobile).
     1. In the “Share” tab of the pop-up window, select the access rights that you wish to give to those you are inviting, using the dropdown dox. (This will set the access rights for all three sharing options - URL, QR or social).
     1. Copy the share link or QR code and send this to those you wish to invite, or share via the social media buttons.
     1. Close the window.
@@ -183,8 +184,9 @@ inviting-users-to-a-topic:
     ![Screenshot of the platform.](/assets/images/help/inviteusers.png)
 
     **Inviting via email:**
+
     1. Go into the relevant topic.
-    1. Click on “invite users” in the “Options” menu. (Top right on desktop, or in the options menu tab on mobile).
+    1. Click on “invite users” in the “Options” menu. (Right sidebar on desktop, or in the options menu tab on mobile).
     1. In the “Invite” tab, enter the usernames or email addresses of the users you wish to add.
     1. When they appear in the list, choose the access rights you would like to give them, from the dropdown list.
     1. Click “Save topic and send invite”.
@@ -206,11 +208,12 @@ editing-a-topic:
     To edit a topic, make sure you are in edit mode. To enter into edit mode, you can either:
     - Choose “edit” when entering into the topic from your “My Topics” dashboard,
     *or*
-    1. Click on the blue “Edit topic” button once inside the topic. (Top right on desktop, or in the options menu tab on mobile).
-    1. You can now edit the topic using the text editor toolbar above the topic text box.
+    - Click on the blue “Edit topic” button once inside the topic. (Right sidebar on desktop, or in the options menu tab on mobile).
+
+    You can now edit the topic using the text editor toolbar above the topic text box.
 
     All changes will be saved automatically.
-    To exit edit mode, click on the blue “Done editing” button. (Top right on desktop, or in the options menu tab on mobile).
+    To exit edit mode, click on the blue “Done editing” button. (Right sidebar on desktop, or in the options menu tab on mobile).
 
     ![Screenshot of the platform.](/assets/images/help/edittopic.png)
 
@@ -218,7 +221,6 @@ editing-a-topic:
     - [Attaching files to a topic](/help/topics/attaching-files-to-a-topic)
     - [Adding footnotes to a topic text](/help/topics/adding-footnotes-to-a-topic-text)
     - [Making a topic public or private](/help/topics/making-a-topic-public-or-private)
-    - [Making people admin of a topic](/help/topics/making-people-admin-of-a-topic)
     { .list-arrow .list-unstyled }
 making-people-admin-of-a-topic:
   path: /help/topics/making-people-admin-of-a-topic
@@ -255,7 +257,7 @@ making-a-topic-public-or-private:
   text: |
     Topics can either be private, meaning that only those invited can view the topic and participate, or public, meaning that anyone can view and participate.
     You can change the privacy settings of a topic in the following ways:
-    - When in the relevant topic, click on “Actions” within the “Options” menu. (Top right on desktop, or in the options menu tab on mobile).
+    - When in the relevant topic, click on “Actions” within the “Options” menu. (Right sidebar on desktop, or in the options menu tab on mobile).
     *or*
     - When in the “My Topics” dashboard, click on “Settings” for the relevant topic.
     Only admins of a topic can change these settings.

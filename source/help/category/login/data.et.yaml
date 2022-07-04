@@ -36,3 +36,57 @@ switching-accounts:
     If you are unsure which account you are currently logged in to, you can check this in “My Account” next to your profile avatar.
 
     ![Screenshot of the platform.](/assets/images/help/logout.png)
+### Related content{.mt-5}
+#- [Troubleshooting “no permission to access”](/help/login/troubleshooting-no-permission-to-access)
+#{ .list-arrow .list-unstyled }
+#logging-in-using-e-id-estonia-only:
+#path: /help/login/logging-in-using-e-id-estonia-only
+#data:
+#category: /help/category/data.en.yaml
+#help: /help/data.en.yaml
+#title: Logging in using e-ID (Estonia only)
+#text: |
+#The option to log in with your ID-card/Mobile ID (applicable to Estonian ID-cards) will only appear if:
+#- You have previously created a Citizen OS account using the email address to which the relevant invitation email was sent. (I.e. the invitation to the group or topic you are trying to access when wanting to log in with your e-ID).
+#*AND*
+#- You have previously digitally signed at least one document through that account.
+#Once both of the above have happened, you can log in using your Estonian ID card by selecting the relevant button on the login screen and following the instructions.
+## Related content{.mt-5}
+#- How to vote using a digital signature (Estonia only)
+#{ .list-arrow .list-unstyled }
+creating-an-account:
+  path: /help/login/creating-an-account
+  data:
+    category: /help/category/data.en.yaml
+    help: /help/data.en.yaml
+  title: Creating an account
+  text: |
+    There are various ways to create a Citizen OS account, depending on your preference.
+
+    **Email and password**
+
+    You can create an account using your email address and a password of your choice. To do this, select “No account? Sign up now” on the login pop-up window.
+
+    **Social login**
+
+    You can create an account by logging in using any of the following social login options. The first time you do so, your Citizen OS account will automatically be created.
+
+    - Log in with Facebook
+    - Log in with Google
+
+    The email address connected to this Citizen OS account will be the email address you use for your Google or Facebook account. This is the email address you will receive topic/group invitations and notifications to.
+
+    **E-ID login (Estonia only)**
+
+    - Log in with ID Card / Mobiil-ID
+    - Log in with Smart-ID
+
+    When creating a Citizen OS account by logging in with e-ID you will be asked to provide an email address. This is the email address you will receive topic/group invitations and notifications to.
+
+    **Please note:**
+
+    See [“Troubleshooting “no permission to access”](/help/login/troubleshooting-no-permission-to-access) for details on why the email address linked to the account you are logged into affects which topics and votes you are able to access.
+
+    ## Related content{.mt-5}
+    - [Troubleshooting “no permission to access”](/help/login/troubleshooting-no-permission-to-access)
+    { .list-arrow .list-unstyled }
