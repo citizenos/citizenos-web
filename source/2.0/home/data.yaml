@@ -1,0 +1,58 @@
+path: v2/components
+
+sectionCode: |
+    ## Section
+
+    **.pug**
+    ```pug
+    +section.bg-yellow-10
+        p Adipisicing dolor do deserunt nulla dolor qui duis.
+    ```
+
+buttonCode: |
+    ## Button
+
+    **.yaml**
+    ```yaml
+    myPrimaryButton:
+        title: Primary Button
+        url: https://entu.site
+    mySecondaryButton:
+        icon: /assets/2.0/images/favicon.png
+        title: Secondary Button
+        url: https://entu.site
+        target: _blank
+    myIconButton:
+        icon: /assets/2.0/images/favicon.png
+        url: https://entu.site
+    myGreyButton:
+        title: Grey Button
+    myPurpleButton:
+        title: Purple Button
+    ```
+
+    **.pug**
+    ```pug
+    +button-primary(title=self.myPrimaryButton.title url=self.myPrimaryButton.url)
+    +button-secondary(icon=self.mySecondaryButton.icon title=self.mySecondaryButton.title url=self.mySecondaryButton.url target=self.mySecondaryButton.target)
+    +button-primary(icon=self.myIconButton.icon url=self.myIconButton.url)
+    +button-grey(title=self.myGreyButton.title)
+    +button-purple(title=self.myPurpleButton.title)
+    ```
+
+    **examples**
+buttonPrimary:
+    title: Primary Button
+    url: https://entu.site
+buttonSecondary:
+    title: Secondary Button
+    icon: /assets/2.0/images/favicon.png
+    url: https://entu.site
+    target: _blank
+buttonIcon:
+    icon: /assets/2.0/images/favicon.png
+    url: https://entu.site
+buttonGrey:
+    title: Grey Button
+buttonPurple:
+    title: Purple Button

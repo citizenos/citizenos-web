@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+    @apply m-0 p-0;
+    font-family: 'Noto Sans', sans-serif;
+}
+
+h2 {
+    @apply mb-4 font-semibold text-4xl text-center
+}
+
+p {
+    @apply mb-4
+}
+
+pre {
+    @apply mb-4 p-2 border-2 border-white rounded-lg text-xs
+}
