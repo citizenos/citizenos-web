@@ -1,10 +1,6 @@
-block vars
-
-include mixins.pug
-
-- rootUrl = self.locale === 'en' ? '/' : `/${self.locale}/`
-- pageTitle = self.title ? `${self.title} · ${self.siteTitle}` : self.siteTitle
-- pagePath = `${self.path}/`.replaceAll('//', '/')
+- const rootUrl = self.locale === 'en' ? '/' : `/${self.locale}/`
+- const pageTitle = self.title ? `${self.title} · ${self.siteTitle}` : self.siteTitle
+- const pagePath = `${self.path}/`.replaceAll('//', '/')
 
 doctype html
 html(lang=self.locale)
@@ -39,6 +35,8 @@ html(lang=self.locale)
         script(src='https://stats.citizenos.com/js/index.js' data-domain='citizenos.com' async defer)
 
     body
+        include mixins.pug
+
         block body
             include navbar.pug
 

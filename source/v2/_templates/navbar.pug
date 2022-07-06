@@ -10,15 +10,23 @@
             .flex.items-center.gap-4
                 .relative
                     +button-grey#language-button(icon='/assets/v2/images/icons/language.svg' title=self.locale.toUpperCase() class='!py-2 !px-6 !shadow-none')
-                    #language-menu.absolute.hidden.mt-4.py-2.z-10.min-w-fit.w-full.bg-white.rounded-2xl
-                        each title, l in self.languages
-                            if self.otherLocalePaths[l]
-                                - url = `${self.otherLocalePaths[l]}/`.replaceAll('//', '/')
-                                - title = title ? `${l.toUpperCase()} – ${title}` : l.toUpperCase()
-                                a.block.py-1.px-4.py-3.hover_bg-grey-300.whitespace-nowrap(href=url, data-language=l)= title
-                    script.
-                        document.getElementById('language-button').addEventListener('click', function (event) {
-                            document.getElementById('language-menu').classList.toggle('hidden')
-                        })
+                    #language-menu.absolute.hidden.mt-4.py-2.z-10.bg-white.rounded-2xl
+                        each t, l in self.languages
+                            - const title = t ? `${l.toUpperCase()} – ${t}` : l.toUpperCase()
+                            - const url = `${self.otherLocalePaths[l]}/`.replaceAll('//', '/')
+
+                            if l === self.locale
+                                .flex.items-center.justify-between.gap-2.py-2.pl-4.pr-2.hover_bg-grey-300.whitespace-nowrap.font-semibold= title
+                                    .h-6.w-6
+                                        img.h-6.w-6(src='/assets/v2/images/icons/checkmark.svg')
+                            else if self.otherLocalePaths[l]
+                                a.flex.items-center.justify-between.gap-2.py-2.pl-4.pr-2.hover_bg-grey-300.whitespace-nowrap(href=url, data-language=l)= title
+                                    .h-6.w-6
+
                 +button-purple(icon='/assets/v2/images/icons/donate.svg' title=self.donateLink.title url=self.donateLink.title class='!py-2 !px-6 !shadow-none')
                 +button-primary(title=self.productLink.title url=self.productLink.url class='!py-2 !px-6 !shadow-none')
+
+script.
+    document.getElementById('language-button').addEventListener('click', function (event) {
+        document.getElementById('language-menu').classList.toggle('hidden')
+    })

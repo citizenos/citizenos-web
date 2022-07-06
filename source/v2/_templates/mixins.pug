@@ -14,14 +14,14 @@ mixin section()
 
 mixin button()
     -
-        btnClass = {
+        const btnClass = {
             'py-4 px-10': attributes.title,
             'p-4': !attributes.title,
             'pl-8': attributes.title && attributes.icon,
             'hover_!shadow-none': true,
             [attributes.class]: true
         }
-        iconClass = {
+        const iconClass = {
             'mr-2': attributes.title
         }
 
