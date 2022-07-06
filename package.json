@@ -4,8 +4,8 @@
   "description": "Collaborative decisions for teams and communities",
   "private": true,
   "scripts": {
-    "build": "entu-ssg build entu-ssg.yaml full && tailwindcss -i ./source/2.0/_css/tailwind.css -o ./build/style-2.0.css --minify",
-    "dev": "entu-ssg serve entu-ssg.yaml full & tailwindcss -i ./source/2.0/_css/tailwind.css -o ./build/style-2.0.css --watch"
+    "build": "entu-ssg build entu-ssg.yaml full && tailwindcss -i ./source/v2/_css/tailwind.css -o ./build/style-v2.css --minify",
+    "dev": "entu-ssg serve entu-ssg.yaml full & tailwindcss -i ./source/v2/_css/tailwind.css -o ./build/style-v2.css --watch"
   },
   "dependencies": {
     "xml2js": "0.4.23"

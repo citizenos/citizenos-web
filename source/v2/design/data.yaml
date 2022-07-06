@@ -1,5 +1,3 @@
-path: v2/components
-
 sectionCode: |
     ## Section
 
@@ -18,12 +16,12 @@ buttonCode: |
         title: Primary Button
         url: https://entu.site
     mySecondaryButton:
-        icon: /assets/2.0/images/favicon.png
+        icon: /assets/v2/images/favicon.png
         title: Secondary Button
         url: https://entu.site
         target: _blank
     myIconButton:
-        icon: /assets/2.0/images/favicon.png
+        icon: /assets/v2/images/favicon.png
         url: https://entu.site
     myGreyButton:
         title: Grey Button
@@ -46,11 +44,11 @@ buttonPrimary:
     url: https://entu.site
 buttonSecondary:
     title: Secondary Button
-    icon: /assets/2.0/images/favicon.png
+    icon: /assets/v2/images/favicon.png
     url: https://entu.site
     target: _blank
 buttonIcon:
-    icon: /assets/2.0/images/favicon.png
+    icon: /assets/v2/images/favicon.png
     url: https://entu.site
 buttonGrey:
     title: Grey Button

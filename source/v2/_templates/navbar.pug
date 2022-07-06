@@ -1,12 +1,12 @@
 .sticky.top-0.h-24.bg-white.flex.items-center
     .container.mx-auto.px-4.xl_px-0.flex.items-center.justify-between
         a(href=rootUrl)
-            img.h-10(src='/assets/2.0/images/cos_logo.svg' alt='COS Logo')
+            img.h-10(src='/assets/v2/images/cos_logo.svg' alt='COS Logo')
 
         .flex.items-center.gap-14
             each nav in self.navigation
                 a.py-8.text-black(href=nav.url)= nav.title
 
             .flex.items-center.gap-4
-                +button-purple(icon='/assets/2.0/images/icons/donate.svg' title=self.donateLink.title url=self.donateLink.title class='!py-2 !px-6 !shadow-none')
+                +button-purple(icon='/assets/v2/images/icons/donate.svg' title=self.donateLink.title url=self.donateLink.title class='!py-2 !px-6 !shadow-none')
                 +button-primary(title=self.productLink.title url=self.productLink.url class='!py-2 !px-6 !shadow-none')

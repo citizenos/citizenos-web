@@ -1,5 +1,5 @@
 module.exports = {
-    content: ['./source/2.0/**/*.pug'],
+    content: ['./source/v2/**/*.pug'],
     separator: '_',
     theme: {
         extend: {
