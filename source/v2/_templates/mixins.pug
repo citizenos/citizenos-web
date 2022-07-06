@@ -4,6 +4,12 @@ mixin markdown(text='')
 mixin section()
     div(class=attributes.class)
         .container.mx-auto.py-32.px-28
+            if attributes.title
+                h2= attributes.title
+            if attributes.text
+                .px-28.pb-8.text-center
+                    +markdown(attributes.text)
+
             block
 
 mixin button()

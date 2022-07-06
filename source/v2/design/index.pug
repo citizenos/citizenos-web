@@ -1,10 +1,10 @@
 extends /v2/_templates/main.pug
 
 block content
-    +section.bg-yellow-10
+    +section.bg-yellow-10(title=self.sectionExample.title text=self.sectionExample.text)
         +markdown(self.sectionCode)
 
-    +section.bg-blue-50
+    +section.bg-blue-50(title='Button')
         +markdown(self.buttonCode)
         .flex.gap-2
             +button-primary(title=self.buttonPrimary.title url=self.buttonPrimary.url)

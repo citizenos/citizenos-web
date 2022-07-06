@@ -3,7 +3,7 @@
 @tailwind utilities;
 
 body {
-    @apply m-0 p-0;
+    @apply m-0 p-0 text-black;
     font-family: 'Noto Sans', sans-serif;
 }
 
@@ -16,5 +16,5 @@ p {
 }
 
 pre {
-    @apply mb-4 p-2 border-2 border-white rounded-lg text-xs
+    @apply mb-4 p-2 border-2 border-white rounded-lg text-xs overflow-hidden
 }

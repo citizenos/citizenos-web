@@ -1,15 +1,28 @@
 sectionCode: |
-    ## Section
+    **.yaml**
+    ```yaml
+    mySection:
+        title: Section
+        text: |
+            Consectetur dolore velit adipisicing ad Lorem cupidatat ex. Est enim nulla ex ad labore elit. Adipisicing magna duis elit voluptate consequat. Qui in nostrud irure deserunt. Irure pariatur ex incididunt irure velit id non tempor.
+
+            Aliquip labore aliquip exercitation ex minim cillum esse excepteur ex commodo nostrud amet consequat exercitation. Eu irure laborum commodo ad ipsum deserunt excepteur adipisicing officia commodo velit nulla do reprehenderit. Quis pariatur aliquip sit mollit et consectetur dolor. Mollit ipsum anim elit proident.
+
+    ```
 
     **.pug**
     ```pug
-    +section.bg-yellow-10
+    +section.bg-yellow-10(title=self.mySection.title text=self.mySection.text)
         p Adipisicing dolor do deserunt nulla dolor qui duis.
     ```
+sectionExample:
+    title: Section
+    text: |
+        Consectetur dolore velit adipisicing ad Lorem cupidatat ex. Est enim nulla ex ad labore elit. Adipisicing magna duis elit voluptate consequat. Qui in nostrud irure deserunt. Irure pariatur ex incididunt irure velit id non tempor.
+
+        Aliquip labore aliquip exercitation ex minim cillum esse excepteur ex commodo nostrud amet consequat exercitation. Eu irure laborum commodo ad ipsum deserunt excepteur adipisicing officia commodo velit nulla do reprehenderit. Quis pariatur aliquip sit mollit et consectetur dolor. Mollit ipsum anim elit proident.
 
 buttonCode: |
-    ## Button
-
     **.yaml**
     ```yaml
     myPrimaryButton:
