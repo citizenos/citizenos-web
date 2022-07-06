@@ -3,11 +3,11 @@ mixin markdown(text='')
 
 mixin section()
     div(class=attributes.class)
-        .container.mx-auto.py-32.px-28
+        .w-full.lg_container.lg_mx-auto.py-10.md_py-14.lg_py-32.px-4.md_px-6.lg_px-28
             if attributes.title
                 h2= attributes.title
             if attributes.text
-                .px-28.pb-8.text-center
+                .px-4.md_px-6.lg_px-28.pb-8.text-center
                     +markdown(attributes.text)
 
             block
@@ -25,7 +25,7 @@ mixin button()
             'mr-2': attributes.title
         }
 
-    a.button.inline-flex.items-center.cursor-pointer.font-semibold.rounded-full.border-2.hover_bg-transparent(
+    a.button.inline-flex.items-center.justify-center.cursor-pointer.font-semibold.whitespace-nowrap.rounded-full.border-2.hover_bg-transparent(
         href=attributes.url
         target=attributes.target
         class=btnClass
