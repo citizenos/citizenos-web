@@ -18,16 +18,18 @@ mixin button()
             'py-4 px-10': attributes.title,
             'p-4': !attributes.title,
             'pl-8': attributes.title && attributes.icon,
+            'hover_!shadow-none': true,
             [attributes.class]: true
         }
         iconClass = {
             'mr-2': attributes.title
         }
 
-    a.inline-flex.items-center.cursor-pointer.font-semibold.rounded-full.border-2.shadow-lg.hover_shadow-none.hover_bg-transparent(
+    a.inline-flex.items-center.cursor-pointer.font-semibold.rounded-full.border-2.hover_bg-transparent(
         href=attributes.url
         target=attributes.target
         class=btnClass
+        style='box-shadow:0px 16px 40px rgba(0,0,0,.04)'
     )
         if attributes.icon
             img.h-6.w-6(src=attributes.icon class=iconClass)
