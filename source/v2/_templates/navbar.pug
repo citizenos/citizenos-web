@@ -31,8 +31,8 @@
 #mobile-menu.hidden.w-full.md_w-80.p-4.fixed.inset-y-0.right-0.top-16.md_top-24.flex.flex-col.gap-3.bg-white.overflow-y-auto
     each nav in self.navigation
         a.py-3.text-black.text-center(href=nav.url)= nav.title
-    +button-purple.w-full.mt-5(icon='/assets/v2/images/icons/donate.svg' title=self.donateLink.title url=self.donateLink.title class='!py-2 !px-6 !shadow-none')
-    +button-primary.w-full(title=self.productLink.title url=self.productLink.url class='!py-2 !px-6 !shadow-none')
+    +button-purple.md_hidden.w-full.mt-5(icon='/assets/v2/images/icons/donate.svg' title=self.donateLink.title url=self.donateLink.title class='!py-2 !px-6 !shadow-none')
+    +button-primary.md_hidden.w-full(title=self.productLink.title url=self.productLink.url class='!py-2 !px-6 !shadow-none')
     +button-grey#language-button.w-full(icon='/assets/v2/images/icons/language.svg' title=self.locale.toUpperCase() class='!py-2 !px-6 !shadow-none')
 
 script.
