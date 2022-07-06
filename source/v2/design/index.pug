@@ -5,10 +5,10 @@ block content
         +markdown(self.sectionCode)
 
     +section.bg-blue-50(title='Button')
-        +markdown(self.buttonCode)
-        .flex.gap-2
+        .mb-4.flex.gap-2
             +button-primary(title=self.buttonPrimary.title url=self.buttonPrimary.url)
             +button-secondary(icon=self.buttonSecondary.icon title=self.buttonSecondary.title url=self.buttonSecondary.url target=self.buttonSecondary.target)
             +button-primary(icon=self.buttonIcon.icon url=self.buttonIcon.url)
             +button-grey(title=self.buttonGrey.title)
             +button-purple(title=self.buttonPurple.title)
+        +markdown(self.buttonCode)

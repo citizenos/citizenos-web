@@ -15,6 +15,7 @@ sectionCode: |
     +section.bg-yellow-10(title=self.mySection.title text=self.mySection.text)
         p Adipisicing dolor do deserunt nulla dolor qui duis.
     ```
+
 sectionExample:
     title: Section
     text: |
@@ -51,19 +52,22 @@ buttonCode: |
     +button-purple(title=self.myPurpleButton.title)
     ```
 
-    **examples**
 buttonPrimary:
     title: Primary Button
     url: https://entu.site
+
 buttonSecondary:
     title: Secondary Button
     icon: /assets/v2/images/favicon.png
     url: https://entu.site
     target: _blank
+
 buttonIcon:
     icon: /assets/v2/images/favicon.png
     url: https://entu.site
+
 buttonGrey:
     title: Grey Button
+
 buttonPurple:
     title: Purple Button
