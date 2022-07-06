@@ -18,3 +18,24 @@ p {
 pre {
     @apply mb-4 p-2 border-2 border-white rounded-lg text-xs overflow-hidden
 }
+
+.button {
+    box-shadow: 0px 16px 40px rgba(0, 0, 0, .04);
+}
+
+#language-menu {
+    filter: drop-shadow(0px 8px 20px rgba(0, 0, 0, .05))
+}
+
+#language-menu:before {
+    content: '';
+    position: absolute;
+    left: 2.7rem;
+    top: -10px;
+    width: 0;
+    height: 0;
+    border-style: solid;
+    border-width: 0 10px 10px 10px;
+    border-color: transparent transparent #FFFFFF transparent;
+    z-index: 9999;
+}

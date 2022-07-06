@@ -25,48 +25,27 @@ mixin button()
             'mr-2': attributes.title
         }
 
-    a.inline-flex.items-center.cursor-pointer.font-semibold.rounded-full.border-2.hover_bg-transparent(
+    a.button.inline-flex.items-center.cursor-pointer.font-semibold.rounded-full.border-2.hover_bg-transparent(
         href=attributes.url
         target=attributes.target
         class=btnClass
-        style='box-shadow:0px 16px 40px rgba(0,0,0,.04)'
-    )
+    )&attributes(attributes)
         if attributes.icon
             img.h-6.w-6(src=attributes.icon class=iconClass)
         = attributes.title
 
 mixin button-primary()
-    +button(
-        icon=attributes.icon
-        title=attributes.title
-        url=attributes.url
-        class=attributes.class + ' text-white border-black bg-black hover_text-black hover_border-black'
-        target=attributes.target
-    )
+    - attributes.class += ' text-white border-black bg-black hover_text-black hover_border-black'
+    +button()&attributes(attributes)
 
 mixin button-secondary()
-    +button(
-        icon=attributes.icon
-        title=attributes.title
-        url=attributes.url
-        class=attributes.class + ' text-black border-white bg-white hover_border-black'
-        target=attributes.target
-    )
+    - attributes.class += ' text-black border-white bg-white hover_border-black'
+    +button()&attributes(attributes)
 
 mixin button-grey()
-    +button(
-        icon=attributes.icon
-        title=attributes.title
-        url=attributes.url
-        class=attributes.class + ' text-black border-grey-300 bg-grey-300 hover_border-grey-500'
-        target=attributes.target
-    )
+    - attributes.class += ' text-black border-grey-300 bg-grey-300 hover_border-grey-500'
+    +button()&attributes(attributes)
 
 mixin button-purple()
-    +button(
-        icon=attributes.icon
-        title=attributes.title
-        url=attributes.url
-        class=attributes.class + ' text-pink-700 border-purple-50 bg-purple-50 hover_border-purple-100'
-        target=attributes.target
-    )
+    - attributes.class += ' text-pink-700 border-purple-50 bg-purple-50 hover_border-purple-100'
+    +button()&attributes(attributes)

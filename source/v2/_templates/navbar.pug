@@ -8,5 +8,17 @@
                 a.py-8.text-black(href=nav.url)= nav.title
 
             .flex.items-center.gap-4
+                .relative
+                    +button-grey#language-button(icon='/assets/v2/images/icons/language.svg' title=self.locale.toUpperCase() class='!py-2 !px-6 !shadow-none')
+                    #language-menu.absolute.hidden.mt-4.py-2.z-10.min-w-fit.w-full.bg-white.rounded-2xl
+                        each title, l in self.languages
+                            if self.otherLocalePaths[l]
+                                - url = `${self.otherLocalePaths[l]}/`.replaceAll('//', '/')
+                                - title = title ? `${l.toUpperCase()} – ${title}` : l.toUpperCase()
+                                a.block.py-1.px-4.py-3.hover_bg-grey-300.whitespace-nowrap(href=url, data-language=l)= title
+                    script.
+                        document.getElementById('language-button').addEventListener('click', function (event) {
+                            document.getElementById('language-menu').classList.toggle('hidden')
+                        })
                 +button-purple(icon='/assets/v2/images/icons/donate.svg' title=self.donateLink.title url=self.donateLink.title class='!py-2 !px-6 !shadow-none')
                 +button-primary(title=self.productLink.title url=self.productLink.url class='!py-2 !px-6 !shadow-none')
