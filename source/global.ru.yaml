@@ -35,7 +35,7 @@ donateLink:
 productLink:
   title: Открыть платформу
   url: https://app.citizenos.com/ru/
-mobileMenu: МЕНЮ
+mobileMenu: Menu
 newsletter:
   title: Подпишитесь на рассылку Citizen OS
   text: Будем делиться разнообразным интересным чтивом на тему того, как демократия участия спасет человечество.
@@ -59,33 +59,6 @@ footer:
         contact:
           title: Контакты
           url: /ru/kontakty/
-    community:
-      title: Мы в социальных сетях
-      links:
-        twitter:
-          title: Twitter
-          icon: /assets/images/community-twitter.svg
-          url: https://twitter.com/Citizen_OS
-        linkedin:
-          title: LinkedIn
-          icon: /assets/images/community-linkedin.svg
-          url: https://www.linkedin.com/company/citizenos/
-        facebook:
-          title: Facebook
-          icon: /assets/images/community-facebook.svg
-          url: https://www.facebook.com/citizenos.web
-        instagram:
-          title: Instagram
-          icon: /assets/images/community-instagram.svg
-          url: https://www.instagram.com/citizen_os_foundation/
-        youtube:
-          title: YouTube
-          icon: /assets/images/community-youtube.svg
-          url: https://www.youtube.com/channel/UCahwJw-DTZ24yC1HiDCofhQ
-        github:
-          title: GitHub
-          icon: /assets/images/community-github.svg
-          url: https://github.com/citizenos
     support:
       title: Служба поддержки
       links:
@@ -100,4 +73,31 @@ footer:
           url: /ru/yuridicheskaya-informaciya/
         github:
           title: GitHub
+          url: https://github.com/citizenos
+    community:
+      title: Мы в социальных сетях
+      links:
+        twitter:
+          title: Twitter
+          icon: /assets/v2/images/icons/social/twitter.svg
+          url: https://twitter.com/Citizen_OS
+        linkedin:
+          title: LinkedIn
+          icon: /assets/v2/images/icons/social/linkedin.svg
+          url: https://www.linkedin.com/company/citizenos/
+        facebook:
+          title: Facebook
+          icon: /assets/v2/images/icons/social/facebook.svg
+          url: https://www.facebook.com/citizenos.web
+        instagram:
+          title: Instagram
+          icon: /assets/v2/images/icons/social/instagram.svg
+          url: https://www.instagram.com/citizen_os_foundation/
+        youtube:
+          title: YouTube
+          icon: /assets/v2/images/icons/social/youtube.svg
+          url: https://www.youtube.com/channel/UCahwJw-DTZ24yC1HiDCofhQ
+        github:
+          title: GitHub
+          icon: /assets/v2/images/icons/social/github.svg
           url: https://github.com/citizenos
