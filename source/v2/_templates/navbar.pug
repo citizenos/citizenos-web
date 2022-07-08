@@ -73,6 +73,8 @@ script.
 
     document.getElementById('mobile-language-button').addEventListener('click', function toggleMobileLanguageMenu () {
         document.getElementById('mobile-language-menu').classList.toggle('hidden')
+
+        document.getElementById('mobile-menu').scrollTop = document.getElementById('mobile-menu').scrollHeight
     })
 
     document.getElementById('mobile-menu-open').addEventListener('click', toggleMobileMenu)
