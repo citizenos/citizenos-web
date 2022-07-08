@@ -28,7 +28,7 @@
             +button-grey#mobile-menu-open.lg_hidden(icon='/assets/v2/images/icons/hamburger.svg' title=self.mobileMenu class='!py-2 !px-6 !shadow-none')
             +button-grey#mobile-menu-close.hidden.lg_hidden(icon='/assets/v2/images/icons/hamburger-close.svg' title=self.mobileMenu class='!py-2 !px-6 !shadow-none')
 
-#mobile-menu.hidden.w-full.md_w-80.p-4.fixed.inset-y-0.right-0.top-16.md_top-24.flex.flex-col.gap-3.bg-white.overflow-y-auto
+#mobile-menu.hidden.z-10.w-full.md_w-80.p-4.fixed.inset-y-0.right-0.top-16.md_top-24.flex.flex-col.gap-3.bg-white.overflow-y-auto
     .mb-5.flex.flex-col
         each nav in self.navigation
             a.py-4.text-black.text-center(href=nav.url)= nav.title
