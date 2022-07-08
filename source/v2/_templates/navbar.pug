@@ -1,11 +1,11 @@
 .sticky.top-0.h-16.md_h-24.bg-white.flex.items-center
-    .w-full.lg_container.lg_mx-auto.px-4.md_px-6.xl_px-0.flex.items-center.justify-between.gap-4.xl_gap-14
+    .w-full.lg_container.lg_mx-auto.px-4.md_px-6.flex.items-center.justify-between.gap-4.xl_gap-14
         a.grow(href=rootUrl)
             img.h-10(src='/assets/v2/images/cos_logo.svg' alt='COS Logo')
 
         .grow.hidden.lg_flex.items-center.justify-end.gap-4.xl_gap-14
             each nav in self.navigation
-                a.py-8.text-black(href=nav.url)= nav.title
+                a.py-4.text-black(href=nav.url)= nav.title
 
         .flex.items-center.justify-end.gap-4
             .relative.hidden.lg_block
@@ -32,18 +32,49 @@
     .mb-5.flex.flex-col
         each nav in self.navigation
             a.py-4.text-black.text-center(href=nav.url)= nav.title
-    +button-purple.md_hidden.w-full(icon='/assets/v2/images/icons/donate.svg' title=self.donateLink.title url=self.donateLink.title class='!py-2 !px-6 !shadow-none')
     +button-primary.md_hidden.w-full(title=self.productLink.title url=self.productLink.url class='!py-2 !px-6 !shadow-none')
-    +button-grey#language-button.w-full(icon='/assets/v2/images/icons/language.svg' title=self.locale.toUpperCase() class='!py-2 !px-6 !shadow-none')
+    +button-purple.md_hidden.w-full(icon='/assets/v2/images/icons/donate.svg' title=self.donateLink.title url=self.donateLink.title class='!py-2 !px-6 !shadow-none')
+
+    #mobile-language-button.py-2.px-2.flex.flex-col.cursor-pointer.font-semibold.text-black.whitespace-nowrap.rounded-3xl.border-2.border-grey-300.bg-grey-300
+        .flex.items-center.justify-center
+            img.h-6.w-6.mr-2(src='/assets/v2/images/icons/language.svg')
+            = self.locale.toUpperCase()
+
+        #mobile-language-menu.hidden.mt-3.font-normal.bg-white.rounded-2xl
+            - let idx = 0
+            each t, l in self.languages
+                - idx++
+                - const title = t ? `${l.toUpperCase()} – ${t}` : l.toUpperCase()
+                - const url = `${self.otherLocalePaths[l]}/`.replaceAll('//', '/')
+                - const border = { 'border-t': idx !== 1 }
+
+                if l === self.locale
+                    .flex.items-center.justify-between.gap-2.py-3.pl-4.pr-2.whitespace-nowrap.font-semibold.border-grey-300(class=border)= title
+                        .h-6.w-6
+                            img.h-6.w-6(src='/assets/v2/images/icons/checkmark.svg')
+                else if self.otherLocalePaths[l]
+                    a.flex.items-center.justify-between.gap-2.py-3.pl-4.pr-2.whitespace-nowrap.border-grey-300(href=url class=border)= title
+                        .h-6.w-6
 
 script.
-    document.getElementById('language-button').addEventListener('click', toggleLanguageMenu)
+    window.addEventListener('resize', function closeMobileMenu () {
+        document.body.classList.remove('overflow-hidden')
+        document.body.classList.remove('md_overflow-auto')
+        document.getElementById('mobile-menu').classList.add('hidden')
+        document.getElementById('mobile-menu-open').classList.remove('hidden')
+        document.getElementById('mobile-menu-close').classList.add('hidden')
+    })
+
+    document.getElementById('language-button').addEventListener('click', function toggleLanguageMenu () {
+        document.getElementById('language-menu').classList.toggle('hidden')
+    })
+
+    document.getElementById('mobile-language-button').addEventListener('click', function toggleMobileLanguageMenu () {
+        document.getElementById('mobile-language-menu').classList.toggle('hidden')
+    })
+
     document.getElementById('mobile-menu-open').addEventListener('click', toggleMobileMenu)
     document.getElementById('mobile-menu-close').addEventListener('click', toggleMobileMenu)
-
-    function toggleLanguageMenu () {
-        document.getElementById('language-menu').classList.toggle('hidden')
-    }
 
     function toggleMobileMenu () {
         document.body.classList.toggle('overflow-hidden')
