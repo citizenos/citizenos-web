@@ -3,20 +3,20 @@ mixin markdown(text='')
 
 mixin header()
     div(class=attributes.class)
-        .w-full.h-146.lg_container.lg_mx-auto.px-4.md_px-6.lg_px-28.grid.grid-cols-1.lg_grid-cols-2.gap-12
-            .p-0
-                if attributes.image
-                    img.h-full.object-contain(src=attributes.image)
-            .flex.flex-col.justify-center
+        .w-full.lg_h-146.lg_container.lg_mx-auto.px-4.md_px-6.lg_px-28.grid.grid-cols-1.lg_grid-cols-2.gap-12
+            .lg_order-2.py-14.lg_py-0.flex.flex-col.items-center.lg_items-start.justify-center.text-center.lg_text-left
                 if attributes.title
                     h1.mb-6.text-7xl.font-bold= attributes.title
                 if attributes.text
                     +markdown(attributes.text)
-                .w-full.mt-10.flex.gap-6
+                .mt-10.flex.flex-col.md_flex-row.flex-wrap.gap-6
                     if attributes.button1
                         +button-primary(icon=attributes.button1.icon title=attributes.button1.title url=attributes.button1.url target=attributes.button1.target)
                     if attributes.button2
                         +button-secondary(icon=attributes.button2.icon title=attributes.button2.title url=attributes.button2.url target=attributes.button2.target)
+            .lg_order-1
+                if attributes.image
+                    img.mx-auto.h-80.md_h-146.lg_h-fit.lg_w-full.object-contain(src=attributes.image)
 
 mixin section()
     div(class=attributes.class)
