@@ -1,6 +1,11 @@
 extends /v2/_templates/main.pug
 
 block content
+    +header.bg-blue-50(image=self.headerExample.image title=self.headerExample.title text=self.headerExample.text button1=self.headerExample.button1 button2=self.headerExample.button2)
+
+    +section.bg-blue-50
+        +markdown(self.headerCode)
+
     +section.bg-yellow-10(title=self.sectionExample.title text=self.sectionExample.text)
         +markdown(self.sectionCode)
 

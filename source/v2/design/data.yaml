@@ -1,3 +1,40 @@
+headerCode: |
+    **.yaml**
+    ```yaml
+    myHeader:
+        title: This is the Header
+        text: |
+            Est in elit consectetur dolore occaecat esse esse pariatur ullamco deserunt incididunt.
+        image: /assets/v2/images/illustrations/homepage-hero.svg
+        button1:
+            title: Primary Button
+            url: https://entu.site
+        button2:
+            title: Secondary Button
+            icon: /assets/v2/images/favicon.png
+            url: https://entu.site
+            target: _blank
+    ```
+
+    **.pug**
+    ```pug
+    +header(image=self.headerExample.image title=self.headerExample.title text=self.headerExample.text button1=self.headerExample.button1 button2=self.headerExample.button2)
+    ```
+
+headerExample:
+    title: This is the Header
+    text: |
+        Est in elit consectetur dolore occaecat esse esse pariatur ullamco deserunt incididunt.
+    image: /assets/v2/images/illustrations/homepage-hero.svg
+    button1:
+        title: Primary Button
+        url: https://entu.site
+    button2:
+        title: Secondary Button
+        icon: /assets/v2/images/favicon.png
+        url: https://entu.site
+        target: _blank
+
 sectionCode: |
     **.yaml**
     ```yaml

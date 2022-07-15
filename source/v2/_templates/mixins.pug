@@ -1,6 +1,23 @@
 mixin markdown(text='')
     | !{ self.md(text) }
 
+mixin header()
+    div(class=attributes.class)
+        .w-full.h-146.lg_container.lg_mx-auto.px-4.md_px-6.lg_px-28.grid.grid-cols-1.lg_grid-cols-2.gap-12
+            .p-0
+                if attributes.image
+                    img.h-full.object-contain(src=attributes.image)
+            .flex.flex-col.items-center.justify-center
+                if attributes.title
+                    h1.mb-6.text-7xl.font-bold= attributes.title
+                if attributes.text
+                    +markdown(attributes.text)
+                .w-full.mt-10.flex.items-start.gap-6
+                    if attributes.button1
+                        +button-primary(icon=attributes.button1.icon title=attributes.button1.title url=attributes.button1.url target=attributes.button1.target)
+                    if attributes.button2
+                        +button-secondary(icon=attributes.button2.icon title=attributes.button2.title url=attributes.button2.url target=attributes.button2.target)
+
 mixin section()
     div(class=attributes.class)
         .w-full.lg_container.lg_mx-auto.py-10.md_py-14.lg_py-32.px-4.md_px-6.lg_px-28
@@ -9,7 +26,6 @@ mixin section()
             if attributes.text
                 .px-4.md_px-6.lg_px-28.pb-8.text-center
                     +markdown(attributes.text)
-
             block
 
 mixin button()
@@ -39,7 +55,7 @@ mixin button-primary()
     +button()&attributes(attributes)
 
 mixin button-secondary()
-    - attributes.class += ' text-black border-white bg-white hover_border-black'
+    - attributes.class += ' text-black border-white bg-white hover_border-white'
     +button()&attributes(attributes)
 
 mixin button-grey()

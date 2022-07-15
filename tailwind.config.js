@@ -3,6 +3,9 @@ module.exports = {
     separator: '_',
     theme: {
         extend: {
+            height:{
+                146: '36rem'
+            }
         },
         colors: {
             'black': '#2C3B47',
