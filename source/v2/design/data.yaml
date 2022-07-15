@@ -2,7 +2,7 @@ headerCode: |
     **.yaml**
     ```yaml
     myHeader:
-        title: This is the Header
+        title: Header
         text: |
             Est in elit consectetur dolore occaecat esse esse pariatur ullamco deserunt incididunt.
         image: /assets/v2/images/illustrations/homepage-hero.svg
@@ -22,7 +22,7 @@ headerCode: |
     ```
 
 headerExample:
-    title: This is the Header
+    title: Header
     text: |
         Est in elit consectetur dolore occaecat esse esse pariatur ullamco deserunt incididunt.
     image: /assets/v2/images/illustrations/homepage-hero.svg

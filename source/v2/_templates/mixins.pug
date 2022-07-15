@@ -7,12 +7,12 @@ mixin header()
             .p-0
                 if attributes.image
                     img.h-full.object-contain(src=attributes.image)
-            .flex.flex-col.items-center.justify-center
+            .flex.flex-col.justify-center
                 if attributes.title
                     h1.mb-6.text-7xl.font-bold= attributes.title
                 if attributes.text
                     +markdown(attributes.text)
-                .w-full.mt-10.flex.items-start.gap-6
+                .w-full.mt-10.flex.gap-6
                     if attributes.button1
                         +button-primary(icon=attributes.button1.icon title=attributes.button1.title url=attributes.button1.url target=attributes.button1.target)
                     if attributes.button2
