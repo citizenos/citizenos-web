@@ -32,11 +32,14 @@ switching-accounts:
         help: /help/data.en.yaml
     title: Switching accounts
     text: |
-        To switch to a different Citizen OS account, you simply need to “Log out” (at the bottom of the main menu), then log back in using the relevant login details.
+        There is no dedicated feature for switching accounts on our platform. To switch to a different Citizen OS account manually, you can:
+        - Click “Log out” at the bottom of the main menu
+        - Log back in using the relevant login details
 
-        If you are unsure which account you are currently logged in to, you can check this in “My Account” next to your profile avatar.
+        If you are unsure which account you are currently logged in to, you can check this in “My Account” next to your profile avatar. This will show you which email address the account is linked to here.
 
-        ![Screenshot of the platform.](/assets/images/help/logout.png)
+        See [Troubleshooting “no permission to access”](/help/login/troubleshooting-no-permission-to-access) for details on why the email address linked to the account you are logged into affects which topics and votes you are able to access.
+
 
 #        ## Related content{.mt-5}
 #        - [Troubleshooting “no permission to access”](/help/login/troubleshooting-no-permission-to-access)
