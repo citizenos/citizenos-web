@@ -328,3 +328,30 @@ Creating-an-inline-vote-in-a-topic-text:
         - To view the vote results, click on the green highlighted text.
 
 
+Co-creating-a-topic-text:
+    path: /help/topics/co-creating-a-topic-text
+    data:
+        category: /help/category/data.en.yaml
+        help: /help/data.en.yaml
+    title: Co-creating a topic text
+    text: |
+        Those with “admin” and “edit” rights for a topic can co-create the topic text – collaboratively building the text as a group, remotely and asynchronously.
+
+        This is possible through three features: group editing, comments and in-line voting, all of which can be accessed in edit mode.
+
+        **Group editing** simply means that all those with “admin” and “edit” rights are able to edit the text. If one person writes something, another person can edit it, add to it, or remove it. This feature is automatically enabled for all admins.
+
+        **Comments** allow all those with “admin” and “edit” rights to discuss the content of the text, ask questions or suggest alternative text.
+
+        To add a comment:
+        - Select the relevant text.
+        - Select “Add new comment on selection” from the pop-up box.
+        - Insert your comment, and add a suggested alternative text if you wish using the toggle.
+
+        To view a comment, click on the speech bubble symbol which appears next to the relevant text. Comments are only visible to those with “admin” and “edit” rights, and are visible in both view and edit modes. To reply, edit or delete a comment, or to accept a suggested text change, you must be in edit mode.
+
+        **Inline votes** allow those with “admin” and “edit” rights to democratically decide on the specifics of the topic text. For more guidance on creating inline votes [see here](help/topics/creating-an-inline-vote-in-a-topic-text).
+
+        ## Related content{.mt-5}
+        - [Creating an inline vote in a topic text](/help/topics/creating-an-inline-vote-in-a-topic-text)
+        { .list-arrow .list-unstyled }
