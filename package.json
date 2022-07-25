@@ -11,7 +11,7 @@
     "xml2js": "0.4.23"
   },
   "devDependencies": {
-    "entu-ssg": "5.4.7",
-    "tailwindcss": "3.1.4"
+    "entu-ssg": "5.4.8",
+    "tailwindcss": "3.1.6"
   }
 }
