@@ -26,3 +26,24 @@ replying-or-reacting-to-an-argument-or-comment:
         To reply to a comment in the topic discussion, simply click “Reply” underneath the relevant comment. To see the replies left by others, click on “Show replies”.
 
         To react to a comment or argument, either click on the “thumbs up” or “thumbs down”. To see who else has reacted, click on the number next to the relevant react button.
+
+
+integrating-twitter-posts-into-discussions:
+    path: /help/discussions/integrating-twitter-posts-into-discussions
+    data:
+        category: /help/category/data.en.yaml
+        help: /help/data.en.yaml
+    title: Integrating Twitter posts into discussions
+    text: |
+        It is possible to integrate Twitter posts into discussions, so that participants can see what is being said about the topic elsewhere. This can help to widen participation and bring in more diverse views.
+
+        Once set up, the most recent 20 Twitter posts which include a hashtag of your choice will be displayed. Participants can view them by switching to the “social mentions” tab, at the top of the topic discussion space.
+
+        **How to set up Twitter integration:**
+
+        - Go into the relevant topic, in “edit” mode. (This mode is available to all those with “admin” and “edit” rights.)
+        - Click on “Actions” in the “Options” menu. (Right sidebar on desktop, or in the options menu tab on mobile).
+        - In the pop-up window, under “Hashtag” enter the hashtag that is relevant to your topic.
+        - Click Save topic.
+        - To edit it, re-open the “Actions” pop-up, change it, and save.
+        - To delete it, re-open the “Actions” pop-up, click the “bin” icon, and save.
