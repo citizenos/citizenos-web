@@ -222,32 +222,34 @@ editing-a-topic:
     - [Adding footnotes to a topic text](/help/topics/adding-footnotes-to-a-topic-text)
     - [Making a topic public or private](/help/topics/making-a-topic-public-or-private)
     { .list-arrow .list-unstyled }
-making-people-admin-of-a-topic:
-  path: /help/topics/making-people-admin-of-a-topic
+changing-the-rights-of-topic-participants:
+  path: /help/topics/changing-the-rights-of-topic-participants
   data:
     category: /help/category/data.en.yaml
-    help: /help/data.et.yaml
-  title: Making people admin of a topic
+    help: /help/data.en.yaml
+  title: Changing the rights of topic participants
   text: |
-    A topic admin can make other users admin.
-    There are two ways to do this.
+    A topic admin can change the level of rights that other participants have in that topic.
+    Rights can be set to either “admin”, “edit”, “read” or “none”.
 
-    *Either:*
-    1. Go into the relevant topic.
-    1. Click on “Manage participants” in the “Options” menu. (Top right on desktop, or in the options menu tab on mobile).
-    1. Find the relevant user in the “Participants” or “Invited” tab.
-    1. Click on the dropdown box next to their username, and select “admin” from the list.
-    1. You can also change the rights level of all users within a group, in the “Groups” tab, if a group has already been added to the topic.
-    1. Close the window. The change will automatically be saved.
+    There are two ways to change a topic participant's rights.
 
-    *Or*
-    1. In the “My Topics” dashboard, find the relevant topic and select it.
-    1. Click to expand the grey “User list” bar, which is displayed underneath the “General information” box on the dashboard.
-    1. Click on the dropdown box next to the relevant username, and select “admin”.
-    1. You can also change the rights level of all users within a group, in the “Groups list”. You will find this just above the “User list” on the dashboard.
-    1. Any changes will automatically be saved.
+    **Either:**
 
-    ![Screenshot of the platform.](/assets/images/help/manageparticipants.png)
+    - Go into the relevant topic.
+    - Click on “Manage participants” in the “Options” menu. (Right sidebar on desktop, or in the options menu tab on mobile).
+    - In the pop-up window, find the relevant user in the “Participants” or “Invited” tab.
+    - Click on the dropdown box next to their username, and select the desired level of rights from the list.
+    - You can also bulk edit the rights level of all participants within a group, in the “Groups” tab, if a group has already been added to the topic.
+    - Close the window. The change will automatically be saved.
+
+    **Or:**
+
+    - In the “My Topics” dashboard, find the relevant topic and select it.
+    - Click to expand the grey “User list” bar, which is the last grey bar underneath the “General information” box on the dashboard.
+    - Click on the dropdown box next to the relevant username, and select the desired level of rights.
+    - You can also bulk edit the rights level of all participants within a group, in the “Groups list”. You will find this just above the “User list” on the dashboard.
+    - Any changes will automatically be saved.
 making-a-topic-public-or-private:
   path: /help/topics/making-a-topic-public-or-private
   data:
@@ -268,7 +270,7 @@ viewing-a-topics-activity-feed:
   data:
     category: /help/category/data.en.yaml
     help: /help/data.et.yaml
-  title: Viewing a topic’s activity feed
+  title: Viewing a topic's activity feed
   text: |
     In your “My Topics” dashboard, select the relevant topic from the list. Click to expand the grey “Activity feed & notifications” bar. You will find this bar just underneath the “General information” box.
     Here you will find a list of all actions that users have carried out relating to this topic.
@@ -317,7 +319,7 @@ Co-creating-a-topic-text:
     help: /help/data.en.yaml
   title: Co-creating a topic text
   text: |
-    Those with “admin” and “edit” rights for a topic can co-create the topic text – collaboratively building the text as a group, remotely and asynchronously.
+    Those with “admin” and “edit” rights for a topic can co-create the topic text - collaboratively building the text as a group, remotely and asynchronously.
 
     This is possible through three features: group editing, comments and in-line voting, all of which can be accessed in edit mode.
 
@@ -326,14 +328,17 @@ Co-creating-a-topic-text:
     **Comments** allow all those with “admin” and “edit” rights to discuss the content of the text, ask questions or suggest alternative text.
 
     To add a comment:
+
     - Select the relevant text.
     - Select “Add new comment on selection” from the pop-up box.
     - Insert your comment, and add a suggested alternative text if you wish using the toggle.
 
     To view a comment, click on the speech bubble symbol which appears next to the relevant text. Comments are only visible to those with “admin” and “edit” rights, and are visible in both view and edit modes. To reply, edit or delete a comment, or to accept a suggested text change, you must be in edit mode.
 
-    **Inline votes** allow those with “admin” and “edit” rights to democratically decide on the specifics of the topic text. For more guidance on creating inline votes [see here](help/topics/creating-an-inline-vote-in-a-topic-text).
+    **Inline votes** allow those with “admin” and “edit” rights to democratically decide on the specifics of the topic text. For more guidance on creating inline votes [see here](/help/topics/creating-an-inline-vote-in-a-topic-text).
 
     ## Related content{.mt-5}
+    - [Changing the rights of topic participants](/help/topics/changing-the-rights-of-topic-participants)
     - [Creating an inline vote in a topic text](/help/topics/creating-an-inline-vote-in-a-topic-text)
+
     { .list-arrow .list-unstyled }
