@@ -338,7 +338,7 @@ Co-creating-a-topic-text:
         help: /help/data.en.yaml
     title: Co-creating a topic text
     text: |
-        Those with “admin” and “edit” rights for a topic can co-create the topic text – collaboratively building the text as a group, remotely and asynchronously.
+        Those with “admin” and “edit” rights for a topic can co-create the topic text - collaboratively building the text as a group, remotely and asynchronously.
 
         This is possible through three features: group editing, comments and in-line voting, all of which can be accessed in edit mode.
 
@@ -357,5 +357,7 @@ Co-creating-a-topic-text:
         **Inline votes** allow those with “admin” and “edit” rights to democratically decide on the specifics of the topic text. For more guidance on creating inline votes [see here](/help/topics/creating-an-inline-vote-in-a-topic-text).
 
         ## Related content{.mt-5}
+        - [Changing the rights of topic participants](/help/topics/changing-the-rights-of-topic-participants)
         - [Creating an inline vote in a topic text](/help/topics/creating-an-inline-vote-in-a-topic-text)
+
         { .list-arrow .list-unstyled }
