@@ -47,3 +47,26 @@ integrating-twitter-posts-into-discussions:
         - Click Save topic.
         - To edit it, re-open the “Actions” pop-up, change it, and save.
         - To delete it, re-open the “Actions” pop-up, click the “bin” icon, and save.
+
+moderating-discussions:
+    path: /help/discussions/moderating-discussions
+    data:
+        category: /help/category/data.en.yaml
+        help: /help/data.en.yaml
+    title: Moderating discussions
+    text: |
+        In Citizen OS topics, moderation features allow admins to keep the discussion flowing in an inclusive way.
+
+        In private topics, topic admins are the moderators by default. In public topics, discussions are moderated by designated Citizen OS staff.
+
+        When topic participants [report an argument or comment as inappropriate](/help/discussions/reporting-an-argument-or-comment-as-inappropriate), topic moderators are informed via an email notification.
+
+        The original author of the reported argument or comment is also informed via an email notification. They then have the option to edit or delete their argument themselves.
+
+        After receiving the reported content notification, moderators can view the content (via the “moderate this argument” link in the notification email), and decide whether or not to hide the content from view. If choosing to hide the content, moderators must select a reason for their action and leave an explanatory note.
+
+        Moderators only have the ability to hide rather than fully delete an argument or comment, for transparency reasons. This way, everyone can choose to see what has been said if they wish to, and see what action was taken and by whom. This helps to avoid potential bias or censorship from moderators and creates a discussion environment that is closer to that of face-to-face discussions.
+
+        ## Related content{.mt-5}
+        - [Reporting an argument or comment as inappropriate](/help/discussions/reporting-an-argument-or-comment-as-inappropriate)
+        { .list-arrow .list-unstyled }
