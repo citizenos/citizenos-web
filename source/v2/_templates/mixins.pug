@@ -1,87 +1,101 @@
 mixin markdown(text='')
     | !{ self.md(text) }
 
-mixin header()
-    div(class=attributes.class)
+mixin header(data = {})
+    - data = { ...data, ...attributes }
+    div(class=data.class)
         .w-full.lg_h-146.lg_container.lg_mx-auto.px-4.md_px-6.lg_px-28.grid.grid-cols-1.lg_grid-cols-2.gap-12
             .lg_order-2.pt-12.pb-0.md_pb-8.lg_py-0.flex.flex-col.items-center.lg_items-start.justify-center.text-center.lg_text-left
-                if attributes.title
-                    h1.mb-6.text-7xl.font-bold= attributes.title
-                if attributes.text
-                    +markdown(attributes.text)
-                if attributes.button1 || attributes.button2
+                if data.title
+                    h1.mb-6.text-7xl.font-bold= data.title
+                if data.text
+                    +markdown(data.text)
+                if data.button1 || data.button2
                     .mt-10.w-full.md_w-auto.flex.flex-col.md_flex-row.flex-wrap.gap-6
-                        if attributes.button1
-                            +button-primary.w-full.md_w-auto(icon=attributes.button1.icon title=attributes.button1.title url=attributes.button1.url target=attributes.button1.target)
-                        if attributes.button2
-                            +button-secondary.w-full.md_w-auto(icon=attributes.button2.icon title=attributes.button2.title url=attributes.button2.url target=attributes.button2.target)
+                        if data.button1
+                            +button-primary.w-full.md_w-auto(icon=data.button1.icon title=data.button1.title url=data.button1.url target=data.button1.target)
+                        if data.button2
+                            +button-secondary.w-full.md_w-auto(icon=data.button2.icon title=data.button2.title url=data.button2.url target=data.button2.target)
             .lg_order-1
-                if attributes.image
-                    img.mx-auto.h-80.md_h-146.lg_h-fit.lg_w-full.object-contain(src=attributes.image)
+                if data.image
+                    img.mx-auto.h-80.md_h-146.lg_h-fit.lg_w-full.object-contain(src=data.image)
 
-mixin banner()
-    div(class=attributes.class)
+mixin banner(data = {})
+    - data = { ...data, ...attributes }
+    div(class=data.class)
         .w-full.lg_container.lg_mx-auto.px-4.pb-10.md_pb-0.md_px-6.lg_px-28.flex.flex-col.md_flex-row.items-center.gap-12
-            if attributes.image
-                img.mx-auto.h-52.w-52.object-contain(src=attributes.image)
+            if data.image
+                img.mx-auto.h-52.w-52.object-contain(src=data.image)
             .w-full.md_my-8.md_w-auto.flex.grow.flex-col.xl_flex-row.justify-center.md_justify-start.gap-6
                 .text-center.md_text-left
-                    if attributes.title
-                        h2.mb-6.text-4xl.md_text-left.font-bold= attributes.title
-                    if attributes.text
-                        +markdown(attributes.text)
+                    if data.title
+                        h2.mb-6.text-4xl.md_text-left.font-bold= data.title
+                    if data.text
+                        +markdown(data.text)
 
-                if attributes.button1 || attributes.button2
+                if data.button1 || data.button2
                     .w-full.md_w-auto.flex.flex-col.md_flex-row.items-center.justify-center.md_justify-start.gap-6
-                        if attributes.button1
-                            +button-primary.h-fit.w-full.md_w-auto(icon=attributes.button1.icon title=attributes.button1.title url=attributes.button1.url target=attributes.button1.target)
-                        if attributes.button2
-                            +button-secondary.h-fit.w-full.md_w-auto(icon=attributes.button2.icon title=attributes.button2.title url=attributes.button2.url target=attributes.button2.target)
+                        if data.button1
+                            +button-primary.h-fit.w-full.md_w-auto(icon=data.button1.icon title=data.button1.title url=data.button1.url target=data.button1.target)
+                        if data.button2
+                            +button-secondary.h-fit.w-full.md_w-auto(icon=data.button2.icon title=data.button2.title url=data.button2.url target=data.button2.target)
 
-mixin section()
-    div(class=attributes.class)
+mixin section(data = {})
+    - data = { ...data, ...attributes }
+    div(class=data.class)
         .w-full.lg_container.lg_mx-auto.py-10.md_py-14.lg_py-32.px-4.md_px-6.lg_px-28
-            if attributes.title
-                h2= attributes.title
-            if attributes.text
+            if data.title
+                h2= data.title
+            if data.text
                 .px-4.md_px-6.lg_px-28.pb-8.text-center
-                    +markdown(attributes.text)
+                    +markdown(data.text)
             block
 
-mixin button()
+mixin button(data = {})
     -
+        data = { ...data, ...attributes }
+
         const btnClass = {
-            'py-4 px-10': attributes.title,
-            'p-4': !attributes.title,
-            'pl-8': attributes.title && attributes.icon,
+            'py-4 px-10': data.title,
+            'p-4': !data.title,
+            'pl-8': data.title && data.icon,
             'hover_!shadow-none': true,
-            [attributes.class]: true
+            [data.class]: true
         }
+
         const iconClass = {
-            'mr-2': attributes.title
+            'mr-2': data.title
         }
 
     a.button.inline-flex.items-center.justify-center.cursor-pointer.font-semibold.whitespace-nowrap.rounded-full.border-2.hover_bg-transparent(
-        href=attributes.url
-        target=attributes.target
+        href=data.url
+        target=data.target
         class=btnClass
     )&attributes(attributes)
-        if attributes.icon
-            img.h-6.w-6(src=attributes.icon class=iconClass)
-        = attributes.title
+        if data.icon
+            img.h-6.w-6(src=data.icon class=iconClass)
+        = data.title
 
-mixin button-primary()
-    - attributes.class += ' text-white border-black bg-black hover_text-black hover_border-black'
-    +button()&attributes(attributes)
+mixin button-primary(data = {})
+    -
+        data = { ...data, ...attributes }
+        data.class += ' text-white border-black bg-black hover_text-black hover_border-black'
+    +button(data)
 
-mixin button-secondary()
-    - attributes.class += ' text-black border-white bg-white hover_border-white'
-    +button()&attributes(attributes)
+mixin button-secondary(data = {})
+    -
+        data = { ...data, ...attributes }
+        data.class += ' text-black border-white bg-white hover_border-white'
+    +button(data)
 
-mixin button-grey()
-    - attributes.class += ' text-black border-grey-300 bg-grey-300 hover_border-grey-500'
-    +button()&attributes(attributes)
+mixin button-grey(data = {})
+    -
+        data = { ...data, ...attributes }
+        data.class += ' text-black border-grey-300 bg-grey-300 hover_border-grey-500'
+    +button(data)
 
-mixin button-purple()
-    - attributes.class += ' text-pink-700 border-purple-50 bg-purple-50 hover_border-purple-100'
-    +button()&attributes(attributes)
+mixin button-purple(data = {})
+    -
+        data = { ...data, ...attributes }
+        data.class += ' text-pink-700 border-purple-50 bg-purple-50 hover_border-purple-100'
+    +button(data)

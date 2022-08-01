@@ -18,7 +18,7 @@ headerCode: |
 
     **.pug**
     ```pug
-    +header(image=self.myHeader.image title=self.myHeader.title text=self.myHeader.text button1=self.myHeader.button1 button2=self.myHeader.button2)
+    +header(self.myHeader)(class='bg-blue-50')
     ```
 
 headerExample:
@@ -49,7 +49,7 @@ sectionCode: |
 
     **.pug**
     ```pug
-    +section.bg-yellow-10(title=self.mySection.title text=self.mySection.text)
+    +section(self.mySection)(class='bg-yellow-10')
         p Adipisicing dolor do deserunt nulla dolor qui duis.
     ```
 
@@ -82,11 +82,11 @@ buttonCode: |
 
     **.pug**
     ```pug
-    +button-primary(title=self.myPrimaryButton.title url=self.myPrimaryButton.url)
-    +button-secondary(icon=self.mySecondaryButton.icon title=self.mySecondaryButton.title url=self.mySecondaryButton.url target=self.mySecondaryButton.target)
-    +button-primary(icon=self.myIconButton.icon url=self.myIconButton.url)
-    +button-grey(title=self.myGreyButton.title)
-    +button-purple(title=self.myPurpleButton.title)
+    +button-primary(self.myPrimaryButton)
+    +button-secondary(self.mySecondaryButton)
+    +button-primary(self.myIconButton)
+    +button-grey(self.myGreyButton)
+    +button-purple(self.myPurpleButton)
     ```
 
 buttonPrimary:
@@ -129,7 +129,7 @@ bannerCode: |
 
     **.pug**
     ```pug
-    +banner(image=self.myBanner.image title=self.myBanner.title text=self.myBanner.text button1=self.myBanner.button1 button2=self.myBanner.button2)
+    +banner(self.myBanner)(class='bg-blue-50')
     ```
 
 bannerExample:

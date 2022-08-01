@@ -2,25 +2,25 @@ extends /v2/_templates/main.pug
 
 block content
     //- HEADER
-    +header.bg-blue-50(image=self.headerExample.image title=self.headerExample.title text=self.headerExample.text button1=self.headerExample.button1 button2=self.headerExample.button2)
-    +section.bg-blue-50
+    +header(self.headerExample)(class='bg-blue-50')
+    +section(class='bg-blue-50')
         +markdown(self.headerCode)
 
     //- SECTION
-    +section.bg-yellow-10(title=self.sectionExample.title text=self.sectionExample.text)
+    +section(self.sectionExample)(class='bg-yellow-10')
         +markdown(self.sectionCode)
 
     //- BUTTON
-    +section(title='Button')
+    +section({ title: 'Button' })
         .mb-4.flex.flex-wrap.justify-center.gap-2
-            +button-primary(title=self.buttonPrimary.title url=self.buttonPrimary.url)
-            +button-secondary(icon=self.buttonSecondary.icon title=self.buttonSecondary.title url=self.buttonSecondary.url target=self.buttonSecondary.target)
-            +button-primary(icon=self.buttonIcon.icon url=self.buttonIcon.url)
-            +button-grey(title=self.buttonGrey.title)
-            +button-purple(title=self.buttonPurple.title)
+            +button-primary(self.buttonPrimary)
+            +button-secondary(self.buttonSecondary)
+            +button-primary(self.buttonIcon)
+            +button-grey(self.buttonGrey)
+            +button-purple(self.buttonPurple)
         +markdown(self.buttonCode)
 
     //- BANNER
-    +banner.bg-blue-50(image=self.bannerExample.image title=self.bannerExample.title text=self.bannerExample.text button1=self.bannerExample.button1 button2=self.bannerExample.button2)
-    +section.bg-blue-50
+    +banner(self.bannerExample)(class='bg-blue-50')
+    +section(class='bg-blue-50')
         +markdown(self.bannerCode)
