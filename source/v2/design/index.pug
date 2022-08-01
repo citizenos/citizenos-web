@@ -1,15 +1,17 @@
 extends /v2/_templates/main.pug
 
 block content
+    //- HEADER
     +header.bg-blue-50(image=self.headerExample.image title=self.headerExample.title text=self.headerExample.text button1=self.headerExample.button1 button2=self.headerExample.button2)
-
     +section.bg-blue-50
         +markdown(self.headerCode)
 
+    //- SECTION
     +section.bg-yellow-10(title=self.sectionExample.title text=self.sectionExample.text)
         +markdown(self.sectionCode)
 
-    +section.bg-blue-50(title='Button')
+    //- BUTTON
+    +section(title='Button')
         .mb-4.flex.flex-wrap.justify-center.gap-2
             +button-primary(title=self.buttonPrimary.title url=self.buttonPrimary.url)
             +button-secondary(icon=self.buttonSecondary.icon title=self.buttonSecondary.title url=self.buttonSecondary.url target=self.buttonSecondary.target)
@@ -17,3 +19,8 @@ block content
             +button-grey(title=self.buttonGrey.title)
             +button-purple(title=self.buttonPurple.title)
         +markdown(self.buttonCode)
+
+    //- BANNER
+    +banner.bg-blue-50(image=self.bannerExample.image title=self.bannerExample.title text=self.bannerExample.text button1=self.bannerExample.button1 button2=self.bannerExample.button2)
+    +section.bg-blue-50
+        +markdown(self.bannerCode)

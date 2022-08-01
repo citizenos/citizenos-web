@@ -108,3 +108,40 @@ buttonGrey:
 
 buttonPurple:
     title: Purple Button
+
+bannerCode: |
+    **.yaml**
+    ```yaml
+    myBanner:
+        title: Banner
+        text: |
+            Est in elit consectetur dolore occaecat esse esse pariatur ullamco deserunt incididunt.
+        image: /assets/v2/images/illustrations/cta.svg
+        button1:
+            title: Primary Button
+            url: https://entu.site
+        button2:
+            title: Secondary Button
+            icon: /assets/v2/images/favicon.png
+            url: https://entu.site
+            target: _blank
+    ```
+
+    **.pug**
+    ```pug
+    +banner(image=self.myBanner.image title=self.myBanner.title text=self.myBanner.text button1=self.myBanner.button1 button2=self.myBanner.button2)
+    ```
+
+bannerExample:
+    title: Banner
+    text: |
+        Est in elit consectetur dolore occaecat esse esse pariatur ullamco deserunt incididunt.
+    image: /assets/v2/images/illustrations/cta.svg
+    button1:
+        title: Primary Button
+        url: https://entu.site
+    button2:
+        title: Secondary Button
+        icon: /assets/v2/images/favicon.png
+        url: https://entu.site
+        target: _blank

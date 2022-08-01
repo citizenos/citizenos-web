@@ -18,6 +18,25 @@ mixin header()
                 if attributes.image
                     img.mx-auto.h-80.md_h-146.lg_h-fit.lg_w-full.object-contain(src=attributes.image)
 
+mixin banner()
+    div(class=attributes.class)
+        .w-full.lg_container.lg_mx-auto.px-4.pb-10.md_pb-0.md_px-6.lg_px-28.flex.flex-col.md_flex-row.items-center.gap-12
+            if attributes.image
+                img.mx-auto.h-52.w-52.object-contain(src=attributes.image)
+            .w-full.md_my-8.md_w-auto.flex.grow.flex-col.xl_flex-row.justify-center.md_justify-start.gap-6
+                .text-center.md_text-left
+                    if attributes.title
+                        h2.mb-6.text-4xl.md_text-left.font-bold= attributes.title
+                    if attributes.text
+                        +markdown(attributes.text)
+
+                if attributes.button1 || attributes.button2
+                    .w-full.md_w-auto.flex.flex-col.md_flex-row.items-center.justify-center.md_justify-start.gap-6
+                        if attributes.button1
+                            +button-primary.h-fit.w-full.md_w-auto(icon=attributes.button1.icon title=attributes.button1.title url=attributes.button1.url target=attributes.button1.target)
+                        if attributes.button2
+                            +button-secondary.h-fit.w-full.md_w-auto(icon=attributes.button2.icon title=attributes.button2.title url=attributes.button2.url target=attributes.button2.target)
+
 mixin section()
     div(class=attributes.class)
         .w-full.lg_container.lg_mx-auto.py-10.md_py-14.lg_py-32.px-4.md_px-6.lg_px-28
