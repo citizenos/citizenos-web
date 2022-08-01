@@ -145,3 +145,74 @@ bannerExample:
         icon: /assets/v2/images/favicon.png
         url: https://entu.site
         target: _blank
+
+section3colsCode: |
+    **.yaml**
+    ```yaml
+    mySection3Col:
+        title: Section with 3 columns
+        text: |
+            Do ullamco fugiat enim et officia ad cupidatat dolore.
+        columns:
+            one:
+                title: One
+                image: /assets/v2/images/illustrations/platform.svg
+                text: |
+                    Sit duis proident qui labore magna occaecat enim elit qui quis aliqua.
+
+                    Nostrud in ut occaecat cupidatat magna.
+                link:
+                    title: Some link
+                    url: https://google.com
+            two:
+                title: Two
+                image: /assets/v2/images/illustrations/hub.svg
+                text: |
+                    Minim deserunt qui sit ad reprehenderit minim duis pariatur adipisicing Lorem minim.
+
+                    Tempor proident ut tempor magna quis reprehenderit duis est veniam incididunt.
+                link:
+                    title: Some other link
+                    url: https://google.com
+            three:
+                title: Three
+                image: /assets/v2/images/illustrations/projects.svg
+                text: |
+                    Pariatur sint minim sint ea irure ad dolore. Pariatur sint magna ullamco consequat quis.
+    ```
+
+    **.pug**
+    ```pug
+    +section3cols(self.mySection3Col)
+    ```
+
+section3colsExample:
+    title: Section with 3 columns
+    text: |
+        Do ullamco fugiat enim et officia ad cupidatat dolore.
+    columns:
+        one:
+            title: One
+            image: /assets/v2/images/illustrations/platform.svg
+            text: |
+                Sit duis proident qui labore magna occaecat enim elit qui quis aliqua.
+
+                Nostrud in ut occaecat cupidatat magna.
+            link:
+                title: Some link
+                url: https://google.com
+        two:
+            title: Two
+            image: /assets/v2/images/illustrations/hub.svg
+            text: |
+                Minim deserunt qui sit ad reprehenderit minim duis pariatur adipisicing Lorem minim.
+
+                Tempor proident ut tempor magna quis reprehenderit duis est veniam incididunt.
+            link:
+                title: Some other link
+                url: https://google.com
+        three:
+            title: Three
+            image: /assets/v2/images/illustrations/projects.svg
+            text: |
+                Pariatur sint minim sint ea irure ad dolore. Pariatur sint magna ullamco consequat quis.
