@@ -18,7 +18,7 @@ headerCode: |
 
     **.pug**
     ```pug
-    +header(image=self.headerExample.image title=self.headerExample.title text=self.headerExample.text button1=self.headerExample.button1 button2=self.headerExample.button2)
+    +header(image=self.myHeader.image title=self.myHeader.title text=self.myHeader.text button1=self.myHeader.button1 button2=self.myHeader.button2)
     ```
 
 headerExample:
