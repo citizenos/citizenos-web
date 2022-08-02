@@ -76,6 +76,37 @@ bannerCode: |
 
 
 
+section3ColumnsExample:
+    title: Section with 3 columns
+    text: |
+        Do ullamco fugiat enim et officia ad cupidatat dolore.
+    columns:
+        one:
+            title: One
+            image: /assets/v2/images/illustrations/platform.svg
+            text: |
+                Sit duis proident qui labore magna occaecat enim elit qui quis aliqua.
+
+                Nostrud in ut occaecat cupidatat magna.
+            link:
+                title: Some link
+                url: https://google.com
+        two:
+            title: Two
+            image: /assets/v2/images/illustrations/hub.svg
+            text: |
+                Minim deserunt qui sit ad reprehenderit minim duis pariatur adipisicing Lorem minim.
+
+                Tempor proident ut tempor magna quis reprehenderit duis est veniam incididunt.
+            link:
+                title: Some other link
+                url: https://google.com
+        three:
+            title: Three
+            image: /assets/v2/images/illustrations/projects.svg
+            text: |
+                Pariatur sint minim sint ea irure ad dolore. Pariatur sint magna ullamco consequat quis.
+
 section3ColumnsCode: |
     **.yaml**
     ```yaml
@@ -116,36 +147,44 @@ section3ColumnsCode: |
     +section-3-columns(self.mySection3Col)
     ```
 
-section3ColumnsExample:
-    title: Section with 3 columns
+
+
+sectionMediaCode: |
+    **.yaml**
+    ```yaml
+    mySectionMedia:
+        title: Section with Media
+        text: |
+            Do ullamco fugiat enim et officia ad cupidatat dolore.
+        mediaLeft: true
+        image: /assets/v2/images/illustrations/video.svg
+        video: https://www.youtube.com/watch?v=UC44qCCIixE
+    ```
+
+    **.pug**
+    ```pug
+    +section-media(self.mySectionMedia)
+    ```
+
+sectionMediaVideo:
+    title: Section with Video
     text: |
         Do ullamco fugiat enim et officia ad cupidatat dolore.
-    columns:
-        one:
-            title: One
-            image: /assets/v2/images/illustrations/platform.svg
-            text: |
-                Sit duis proident qui labore magna occaecat enim elit qui quis aliqua.
 
-                Nostrud in ut occaecat cupidatat magna.
-            link:
-                title: Some link
-                url: https://google.com
-        two:
-            title: Two
-            image: /assets/v2/images/illustrations/hub.svg
-            text: |
-                Minim deserunt qui sit ad reprehenderit minim duis pariatur adipisicing Lorem minim.
+        Minim sunt cillum ex irure ad. Esse laboris consectetur occaecat proident velit pariatur occaecat cupidatat. Voluptate sit commodo id consequat amet eu irure cillum deserunt consequat.
 
-                Tempor proident ut tempor magna quis reprehenderit duis est veniam incididunt.
-            link:
-                title: Some other link
-                url: https://google.com
-        three:
-            title: Three
-            image: /assets/v2/images/illustrations/projects.svg
-            text: |
-                Pariatur sint minim sint ea irure ad dolore. Pariatur sint magna ullamco consequat quis.
+        Enim mollit ea voluptate Lorem sunt ullamco dolor ut veniam id laborum ut eu ad. Qui irure cillum sunt excepteur laborum labore eiusmod qui et ea esse consectetur ipsum. Consectetur dolore id non fugiat deserunt amet dolor ullamco consectetur excepteur officia fugiat elit. In in dolor reprehenderit aliquip aliquip sint aliquip exercitation pariatur consequat est dolore commodo nulla.
+
+        Consequat occaecat magna incididunt magna adipisicing voluptate dolore consectetur in. Mollit amet id minim excepteur anim laboris enim et ea tempor mollit. Id nisi commodo minim sunt laboris officia elit occaecat deserunt.
+    mediaLeft: true
+    image: https://placekitten.com/400/300
+    video: https://www.youtube.com/watch?v=UC44qCCIixE
+
+sectionMediaImage:
+    title: Section with Image
+    text: |
+        Do ullamco fugiat enim et officia ad cupidatat dolore.
+    image: https://placekitten.com/g/400/300
 
 
 

@@ -71,6 +71,40 @@ mixin section-3-columns(data = {})
                                 img.h-6.w-6.mr-2(src='/assets/v2/images/icons/small-right.svg')
                                 = col.link.title
 
+mixin section-media(data = {})
+    -
+        data = { ...data, ...attributes }
+
+        const sectionData = { ...data }
+        delete sectionData.title
+        delete sectionData.text
+
+        const textClass = {
+            'lg_order-2': data.mediaLeft
+        }
+
+        const mediaClass = {
+            'lg_order-1': data.mediaLeft
+        }
+    +section(sectionData)
+        .grid.grid-cols-1.lg_grid-cols-2.gap-10
+            .pt-12.pb-0.md_pb-8.lg_py-0(class=textClass)
+                if data.title
+                    h2.lg_text-left= data.title
+                if data.text
+                    .text-center.lg_text-left
+                        +markdown(data.text)
+            div(class=mediaClass)
+                if data.video
+                    a.w-full.aspect-vhs.flex.items-center.justify-center.bg-white.bg-cover.rounded-2xl(
+                        href=data.video
+                        target='_blank'
+                        style=`background-image: url('${data.image}')`
+                    )
+                        img.h-20.w-20.md_h-32.md_w-32(src='/assets/v2/images/icons/play.svg')
+                else
+                    img.w-full(src=data.image)
+
 mixin button(data = {})
     -
         data = { ...data, ...attributes }
@@ -86,7 +120,6 @@ mixin button(data = {})
         const iconClass = {
             'mr-2': data.title
         }
-
     a.button.inline-flex.items-center.justify-center.cursor-pointer.font-semibold.whitespace-nowrap.rounded-full.border-2.hover_bg-transparent(
         id=data.id
         href=data.url

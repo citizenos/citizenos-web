@@ -3,6 +3,9 @@ module.exports = {
     separator: '_',
     theme: {
         extend: {
+            aspectRatio: {
+                'vhs': '4 / 3',
+            },
             height:{
                 146: '36rem'
             }
