@@ -1,4 +1,5 @@
 headerExample:
+    color: blue
     title: Header
     text: |
         Est in elit consectetur dolore occaecat esse esse pariatur ullamco deserunt incididunt.
@@ -13,10 +14,12 @@ headerExample:
         target: _blank
 
 headerCode:
+    color: grey
     text: |
         **.yaml**
         ```yaml
         myHeader:
+            color: blue
             title: Header
             text: |
                 Est in elit consectetur dolore occaecat esse esse pariatur ullamco deserunt incididunt.
@@ -33,12 +36,13 @@ headerCode:
 
         **.pug**
         ```pug
-        +header(self.myHeader)(class='bg-blue-50')
+        +section-header(self.myHeader)(class='bg-blue-50')
         ```
 
 
 
 bannerExample:
+    color: blue
     title: Banner
     text: |
         Est in elit consectetur dolore occaecat esse esse pariatur ullamco deserunt incididunt.
@@ -53,10 +57,12 @@ bannerExample:
         target: _blank
 
 bannerCode:
+    color: grey
     text: |
         **.yaml**
         ```yaml
         myBanner:
+            color: blue
             title: Banner
             text: |
                 Est in elit consectetur dolore occaecat esse esse pariatur ullamco deserunt incididunt.
@@ -73,12 +79,13 @@ bannerCode:
 
         **.pug**
         ```pug
-        +banner(self.myBanner)(class='bg-blue-50')
+        +section-banner(self.myBanner)(class='bg-blue-50')
         ```
 
 
 
 section2ColumnsExample:
+    color: yellow
     title: Section with 2 columns
     text: |
         Irure laboris ut et sit. Labore magna reprehenderit qui nulla aliquip eiusmod dolore do eiusmod tempor dolor aliquip ullamco laborum.
@@ -114,10 +121,12 @@ section2ColumnsExample:
                 Officia eiusmod incididunt adipisicing irure deserunt et dolor enim. Duis do est adipisicing et deserunt est sit in exercitation culpa cupidatat adipisicing in tempor. In cillum et ut sit dolor adipisicing. Sint veniam cupidatat sint ut excepteur minim amet ut incididunt minim cupidatat fugiat.
 
 section2ColumnsCode:
+    color: grey
     text: |
         **.yaml**
         ```yaml
         mySection2Col:
+            color: yellow
             title: Section with 2 columns
             text: |
                 Irure laboris ut et sit. Labore magna reprehenderit qui nulla aliquip eiusmod dolore do eiusmod tempor dolor aliquip ullamco laborum.
@@ -192,6 +201,7 @@ section3ColumnsExample:
                 Pariatur sint minim sint ea irure ad dolore. Pariatur sint magna ullamco consequat quis.
 
 section3ColumnsCode:
+    color: grey
     text: |
         **.yaml**
         ```yaml
@@ -260,6 +270,7 @@ section4ColumnsExample:
             image: /assets/v2/images/illustrations/cta.svg
 
 section4ColumnsCode:
+    color: grey
     text: |
         **.yaml**
         ```yaml
@@ -334,6 +345,7 @@ sectionAccordionExample:
             color: purple
 
 sectionAccordionCode:
+    color: grey
     text: |
         **.yaml**
         ```yaml
@@ -371,10 +383,12 @@ sectionAccordionCode:
 
 
 sectionMediaCode:
+    color: grey
     text: |
         **.yaml**
         ```yaml
         mySectionMedia:
+            color: blue
             title: Section with Media
             text: |
                 Do ullamco fugiat enim et officia ad cupidatat dolore.
@@ -389,6 +403,7 @@ sectionMediaCode:
         ```
 
 sectionMediaVideo:
+    color: blue
     title: Section with Video
     text: |
         Do ullamco fugiat enim et officia ad cupidatat dolore.
@@ -403,6 +418,7 @@ sectionMediaVideo:
     video: https://www.youtube.com/watch?v=UC44qCCIixE
 
 sectionMediaImage:
+    color: blue
     title: Section with Image
     text: |
         Do ullamco fugiat enim et officia ad cupidatat dolore.
@@ -411,6 +427,7 @@ sectionMediaImage:
 
 
 sectionExample:
+    color: yellow
     title: Section
     text: |
         Consectetur dolore velit adipisicing ad Lorem cupidatat ex. Est enim nulla ex ad labore elit. Adipisicing magna duis elit voluptate consequat. Qui in nostrud irure deserunt. Irure pariatur ex incididunt irure velit id non tempor.
@@ -418,10 +435,12 @@ sectionExample:
         Aliquip labore aliquip exercitation ex minim cillum esse excepteur ex commodo nostrud amet consequat exercitation. Eu irure laborum commodo ad ipsum deserunt excepteur adipisicing officia commodo velit nulla do reprehenderit. Quis pariatur aliquip sit mollit et consectetur dolor. Mollit ipsum anim elit proident.
 
 sectionCode:
+    color: grey
     text: |
         **.yaml**
         ```yaml
         mySection:
+            color: yellow
             left: false
             title: Section
             text: |
@@ -460,6 +479,7 @@ buttonPurple:
     title: Purple Button
 
 buttonCode:
+    color: grey
     text: |
         **.yaml**
         ```yaml

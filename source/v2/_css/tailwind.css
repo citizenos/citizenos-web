@@ -78,21 +78,31 @@ footer .footer-border {
     @apply border-t-transparent rounded-2xl
 }
 
+.section.grey,
+.accordion-image-lg.active.yellow,
+.accordion-card.active.yellow {
+    @apply bg-grey-300
+}
+
+.section.yellow,
 .accordion-image-lg.active.yellow,
 .accordion-card.active.yellow {
     @apply bg-yellow-10
 }
 
+.section.blue,
 .accordion-image-lg.active.blue,
 .accordion-card.active.blue {
     @apply bg-blue-50
 }
 
+.section.green,
 .accordion-image-lg.active.green,
 .accordion-card.active.green {
     @apply bg-green-50
 }
 
+.section.purple,
 .accordion-image-lg.active.purple,
 .accordion-card.active.purple {
     @apply bg-purple-50

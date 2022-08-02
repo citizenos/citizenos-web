@@ -2,15 +2,15 @@ extends /v2/_templates/main.pug
 
 block content
     //- HEADER
-    +header(self.headerExample)(class='bg-blue-50')
+    +section-header(self.headerExample)
     +section-example(self.headerCode)
 
     //- BANNER
-    +banner(self.bannerExample)(class='bg-blue-50')
+    +section-banner(self.bannerExample)
     +section-example(self.bannerCode)
 
     //- SECTION WITH 2 COLS
-    +section-2-columns(self.section2ColumnsExample)(class='bg-yellow-10')
+    +section-2-columns(self.section2ColumnsExample)
     +section-example(self.section2ColumnsCode)
 
     //- SECTION WITH 3 COLS
@@ -26,12 +26,12 @@ block content
     +section-example(self.sectionAccordionCode)
 
     //- SECTION WITH IMAGE
-    +section-media(self.sectionMediaVideo)(class='bg-blue-50')
-    +section-media(self.sectionMediaImage)(class='bg-blue-50')
+    +section-media(self.sectionMediaVideo)
+    +section-media(self.sectionMediaImage)
     +section-example(self.sectionMediaCode)
 
     //- SECTION
-    +section(self.sectionExample)(class='bg-yellow-10')
+    +section(self.sectionExample)
     +section-example(self.sectionCode)
 
     //- BUTTON

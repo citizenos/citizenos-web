@@ -1,49 +1,11 @@
 mixin markdown(text = '')
     | !{ self.md(text) }
 
-mixin header(data = {})
-    - data = { ...data, ...attributes }
-    div(class=data.class)
-        .w-full.lg_h-146.lg_container.lg_mx-auto.px-4.md_px-6.lg_px-28.grid.grid-cols-1.lg_grid-cols-2.gap-12
-            .lg_order-2.pt-12.pb-0.md_pb-8.lg_py-0.flex.flex-col.items-center.lg_items-start.justify-center.text-center.lg_text-left
-                if data.title
-                    h1.mb-6.text-7xl.font-bold= data.title
-                if data.text
-                    +markdown(data.text)
-                if data.button1 || data.button2
-                    .mt-10.w-full.md_w-auto.flex.flex-col.md_flex-row.flex-wrap.gap-6
-                        if data.button1
-                            +button-primary(data.button1)(class='w-full md_w-auto')
-                        if data.button2
-                            +button-secondary(data.button2)(class='w-full md_w-auto')
-            .lg_order-1.flex.justify-start.items-end
-                if data.image
-                    img.mx-auto.h-80.md_h-146.lg_h-fit.lg_w-full.object-contain(src=data.image)
-
-mixin banner(data = {})
-    - data = { ...data, ...attributes }
-    div(class=data.class)
-        .w-full.lg_container.lg_mx-auto.px-4.pb-10.md_pb-0.md_px-6.lg_px-28.flex.flex-col.md_flex-row.items-center.gap-12
-            if data.image
-                img.mx-auto.h-52.w-52.object-contain(src=data.image)
-            .w-full.md_my-8.md_w-auto.flex.grow.flex-col.xl_flex-row.justify-center.md_justify-start.gap-6
-                .text-center.md_text-left
-                    if data.title
-                        h2.mb-6.text-4xl.md_text-left.font-bold= data.title
-                    if data.text
-                        +markdown(data.text)
-
-                if data.button1 || data.button2
-                    .w-full.md_w-auto.flex.flex-col.md_flex-row.items-center.justify-center.md_justify-start.gap-6
-                        if data.button1
-                            +button-primary(data.button1)(class='h-fit w-full md_w-auto')
-                        if data.button2
-                            +button-secondary(data.button2)(class='h-fit w-full md_w-auto')
-
 mixin section(data = {})
     -
         data = { class: '', ...data, ...attributes }
-        data.class += ' py-10 md_py-14 lg_py-32'
+        data.class += ' py-10 md_py-14 lg_py-32 section '
+        data.class += data.color || 'white'
 
         const flexClass = {
             'flex-col lg_flex-row lg_items-center lg_justify-center': data.left,
@@ -68,10 +30,63 @@ mixin section(data = {})
                             +markdown(data.text)
             block
 
+mixin section-header(data = {})
+    -
+        data = { class: '', ...data, ...attributes }
+        data.class += ' !pt-6 !pb-4'
+
+        const sectionData = { ...data }
+        delete sectionData.title
+        delete sectionData.text
+
+    +section(sectionData)
+        .grid.grid-cols-1.lg_grid-cols-2.gap-12
+            .lg_order-2.pt-12.pb-0.md_pb-8.lg_py-0.flex.flex-col.items-center.lg_items-start.justify-center.text-center.lg_text-left
+                if data.title
+                    h1.mb-6.text-7xl.font-bold= data.title
+                if data.text
+                    +markdown(data.text)
+                if data.button1 || data.button2
+                    .mt-10.w-full.md_w-auto.flex.flex-col.md_flex-row.flex-wrap.gap-6
+                        if data.button1
+                            +button-primary(data.button1)(class='w-full md_w-auto')
+                        if data.button2
+                            +button-secondary(data.button2)(class='w-full md_w-auto')
+            .lg_order-1.flex.justify-start.items-end
+                if data.image
+                    img.mx-auto.h-80.md_h-146.lg_h-fit.lg_w-full.object-contain(src=data.image)
+
+mixin section-banner(data = {})
+    -
+        data = { class: '', ...data, ...attributes }
+        data.class += ' !pt-6 !pb-4'
+
+        const sectionData = { ...data }
+        delete sectionData.title
+        delete sectionData.text
+
+    +section(sectionData)
+        .flex.flex-col.md_flex-row.items-center.gap-12
+            if data.image
+                img.mx-auto.h-52.w-52.object-contain(src=data.image)
+            .w-full.md_my-8.md_w-auto.flex.grow.flex-col.xl_flex-row.justify-center.md_justify-start.gap-6
+                .text-center.md_text-left
+                    if data.title
+                        h2.mb-6.text-4xl.md_text-left.font-bold= data.title
+                    if data.text
+                        +markdown(data.text)
+
+                if data.button1 || data.button2
+                    .w-full.md_w-auto.flex.flex-col.md_flex-row.items-center.justify-center.md_justify-start.gap-6
+                        if data.button1
+                            +button-primary(data.button1)(class='h-fit w-full md_w-auto')
+                        if data.button2
+                            +button-secondary(data.button2)(class='h-fit w-full md_w-auto')
+
 mixin section-example(data = {})
     -
         data = { class: '', ...data, ...attributes }
-        data.class += ' bg-grey-300 !pt-6 !pb-4'
+        data.class += ' !pt-6 !pb-4'
 
         const sectionData = { ...data }
         delete sectionData.title
