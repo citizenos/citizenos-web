@@ -3,44 +3,36 @@ extends /v2/_templates/main.pug
 block content
     //- HEADER
     +header(self.headerExample)(class='bg-blue-50')
-    +section(class='bg-grey-300 !pt-6 !pb-4')
-        +markdown(self.headerCode)
+    +section-example(self.headerCode)
 
     //- BANNER
     +banner(self.bannerExample)(class='bg-blue-50')
-    +section(class='bg-grey-300 !pt-6 !pb-4')
-        +markdown(self.bannerCode)
+    +section-example(self.bannerCode)
 
     //- SECTION WITH 2 COLS
     +section-2-columns(self.section2ColumnsExample)(class='bg-yellow-10')
-    +section(class='bg-grey-300 !pt-6 !pb-4')
-        +markdown(self.section2ColumnsCode)
+    +section-example(self.section2ColumnsCode)
 
     //- SECTION WITH 3 COLS
     +section-3-columns(self.section3ColumnsExample)
-    +section(class='bg-grey-300 !pt-6 !pb-4')
-        +markdown(self.section3ColumnsCode)
+    +section-example(self.section3ColumnsCode)
 
     //- SECTION WITH 4 COLS
     +section-4-columns(self.section4ColumnsExample)
-    +section(class='bg-grey-300 !pt-6 !pb-4')
-        +markdown(self.section4ColumnsCode)
+    +section-example(self.section4ColumnsCode)
 
     //- SECTION WITH ACCORDION
     +section-accordion(self.sectionAccordionExample)
-    +section(class='bg-grey-300 !pt-6 !pb-4')
-        +markdown(self.sectionAccordionCode)
+    +section-example(self.sectionAccordionCode)
 
     //- SECTION WITH IMAGE
     +section-media(self.sectionMediaVideo)(class='bg-blue-50')
     +section-media(self.sectionMediaImage)(class='bg-blue-50')
-    +section(class='bg-grey-300 !pt-6 !pb-4')
-        +markdown(self.sectionMediaCode)
+    +section-example(self.sectionMediaCode)
 
     //- SECTION
     +section(self.sectionExample)(class='bg-yellow-10')
-    +section(class='bg-grey-300 !pt-6 !pb-4')
-        +markdown(self.sectionCode)
+    +section-example(self.sectionCode)
 
     //- BUTTON
     +section({ title: 'Button' })
@@ -50,6 +42,5 @@ block content
             +button-primary(self.buttonIcon)
             +button-grey(self.buttonGrey)
             +button-purple(self.buttonPurple)
-    +section(class='bg-grey-300 !pt-6 !pb-4')
-        +markdown(self.buttonCode)
+    +section-example(self.buttonCode)
 

@@ -59,13 +59,26 @@ mixin section(data = {})
         }
     div(class=data.class)
         .w-full.lg_container.lg_mx-auto.px-4.md_px-6.lg_px-28
-            .flex.pb-8(class=flexClass)
-                if data.title
-                    h2(class=headerClass)= data.title
-                if data.text
-                    div(class=textClass)
-                        +markdown(data.text)
+            if data.title || data.text
+                .flex.pb-8(class=flexClass)
+                    if data.title
+                        h2(class=headerClass)= data.title
+                    if data.text
+                        div(class=textClass)
+                            +markdown(data.text)
             block
+
+mixin section-example(data = {})
+    -
+        data = { class: '', ...data, ...attributes }
+        data.class += ' bg-grey-300 !pt-6 !pb-4'
+
+        const sectionData = { ...data }
+        delete sectionData.title
+        delete sectionData.text
+
+    +section(sectionData)
+        +markdown(data.text)
 
 mixin section-2-columns(data = {})
     - data = { ...data, ...attributes }
