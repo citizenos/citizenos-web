@@ -5,7 +5,7 @@ mixin markdown(text = '')
 
 mixin sections(sections)
     for data, id in sections
-        +section({ id: id, ...data })
+        +section({ id, ...data })
 
 mixin section(data = {})
     case data.type
@@ -240,7 +240,6 @@ mixin section-accordion(data = {})
                                     a.flex.items-center.font-bold.text-green-500(href=card.link.url)
                                         img.h-6.w-6.mr-2(src='/assets/v2/images/icons/arrow-small-right.svg')
                                         = card.link.title
-
         script.
             const cards = document.querySelectorAll('.#{id}-card');
             let activeCard = null
@@ -264,6 +263,32 @@ mixin section-accordion(data = {})
 
                 activeCard = card
             }
+
+mixin section-custom(data = {})
+    -
+        const original = data.id
+        const wrapper = `section-custom-wrapper-${data.id}`
+        const placeholder = `section-custom-placeholder-${data.id}`
+
+        data = { ...data, ...attributes, id: wrapper }
+    +section-layout(data)
+        div(id=placeholder)
+        script.
+            document.addEventListener('DOMContentLoaded', () => {
+                const original = document.getElementById('#{original}')
+                const wrapper = document.getElementById('#{wrapper}')
+                const placeholder = document.getElementById('#{placeholder}')
+                const clone = original.cloneNode(true)
+
+                original.remove()
+
+                clone.removeAttribute('id')
+                clone.classList.remove('hidden')
+
+                document.getElementById('#{placeholder}').replaceWith(clone)
+
+                wrapper.id = '#{original}'
+            })
 
 
 

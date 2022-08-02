@@ -3,13 +3,10 @@ extends /v2/_templates/main.pug
 block content
     +sections(self.sections)
 
-    //- BUTTON
-    //- +section({ title: 'Button' })
-    //-     .mt-8.flex.flex-wrap.justify-center.gap-2
-    //-         +button-primary(self.buttonPrimary)
-    //-         +button-secondary(self.buttonSecondary)
-    //-         +button-primary(self.buttonIcon)
-    //-         +button-grey(self.buttonGrey)
-    //-         +button-purple(self.buttonPurple)
-    //- +section-example(self.buttonCode)
-
+    #sectionButtonsExample.hidden
+        .mt-8.flex.flex-wrap.justify-center.gap-2
+            +button-primary(self.sections.sectionButtonsExample.buttonPrimary)
+            +button-secondary(self.sections.sectionButtonsExample.buttonSecondary)
+            +button-primary(self.sections.sectionButtonsExample.buttonIcon)
+            +button-grey(self.sections.sectionButtonsExample.buttonGrey)
+            +button-purple(self.sections.sectionButtonsExample.buttonPurple)

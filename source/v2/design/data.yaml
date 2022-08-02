@@ -449,27 +449,31 @@ sections:
 
 
 
-    buttonPrimary:
-        title: Primary Button
-        url: https://entu.site
+    sectionButtonsExample:
+        type: custom
+        title: Buttons
 
-    buttonSecondary:
-        title: Secondary Button
-        icon: /assets/v2/images/favicon.png
-        url: https://entu.site
-        target: _blank
+        buttonPrimary:
+            title: Primary Button
+            url: https://entu.site
 
-    buttonIcon:
-        icon: /assets/v2/images/favicon.png
-        url: https://entu.site
+        buttonSecondary:
+            title: Secondary Button
+            icon: /assets/v2/images/favicon.png
+            url: https://entu.site
+            target: _blank
 
-    buttonGrey:
-        title: Grey Button
+        buttonIcon:
+            icon: /assets/v2/images/favicon.png
+            url: https://entu.site
 
-    buttonPurple:
-        title: Purple Button
+        buttonGrey:
+            title: Grey Button
 
-    buttonCode:
+        buttonPurple:
+            title: Purple Button
+
+    sectionButtonsCode:
         type: example
         color: grey
         text: |
