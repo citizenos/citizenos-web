@@ -8,11 +8,11 @@ body {
 }
 
 h2 {
-    @apply mb-4 font-semibold text-xl md_text-4xl text-center
+    @apply mb-4 last_mb-0 font-semibold text-xl md_text-4xl
 }
 
 p {
-    @apply mb-4
+    @apply mb-4 last_mb-0
 }
 
 pre {

@@ -44,13 +44,27 @@ mixin section(data = {})
     -
         data = { ...data, ...attributes }
         data.class += ' py-10 md_py-14 lg_py-32'
+
+        const flexClass = {
+            'flex-row items-center justify-center': data.left,
+            'flex-col text-center': !data.left
+        }
+
+        const headerClass = {
+            'mb-0': data.left
+        }
+
+        const textClass = {
+            'px-4 md_px-6 lg_px-28': !data.left
+        }
     div(class=data.class)
         .w-full.lg_container.lg_mx-auto.px-4.md_px-6.lg_px-28
-            if data.title
-                h2= data.title
-            if data.text
-                .px-4.md_px-6.lg_px-28.pb-8.text-center
-                    +markdown(data.text)
+            .flex.pb-8(class=flexClass)
+                if data.title
+                    h2(class=headerClass)= data.title
+                if data.text
+                    div(class=textClass)
+                        +markdown(data.text)
             block
 
 mixin section-2-columns(data = {})
@@ -58,18 +72,6 @@ mixin section-2-columns(data = {})
     +section(data)
         .grid.grid-cols-1.lg_grid-cols-2.gap-10
             for col in data.columns
-                //- .grid.grid-cols-4.gap-6
-                //-     if col.image
-                //-         .md_row-span-2.lg_row-span-1
-                //-             img.w-full.aspect-square.object-fit.bg-white.rounded-2xl(class='md_max-w-1/3' src=col.image)
-                //-     if col.title
-                //-         h3.col-span-4.md_col-span-3.self-center.text-xl.font-semibold= col.title
-                //-     .col-span-3.grow
-                //-         +markdown(col.text)
-                //-         if col.link
-                //-             a.flex.items-center.font-bold.text-yellow-700(href=col.link.url)
-                //-                 = col.link.title
-                //-                 img.h-6.w-6.ml-2(src='/assets/v2/images/icons/arrow-small-down.svg')
                 div
                     if col.image
                         img.md_float-left.w-28.aspect-square.mr-4.mb-6.md_mb-4.object-fit.bg-white.rounded-2xl(class='md_max-w-1/3' src=col.image)
@@ -99,6 +101,19 @@ mixin section-3-columns(data = {})
                             a.flex.items-center.font-bold.text-green-500(href=col.link.url)
                                 img.h-6.w-6.mr-2(src='/assets/v2/images/icons/arrow-small-right.svg')
                                 = col.link.title
+
+mixin section-4-columns(data = {})
+    - data = { ...data, ...attributes }
+    +section({ left: true, ...data })
+        .grid.grid-cols-1.lg_grid-cols-4.gap-10
+            for col in data.columns
+                .flex.flex-col.md_flex-row.lg_flex-col.gap-6
+                    if col.image
+                        img.h-36.lg_h-60.max-w-full.lg_w-full.object-fit.bg-blue-50.rounded-2xl(class='md_max-w-1/3' src=col.image)
+                    .flex.flex-col.items-center.justify-center.text-center
+                        if col.title
+                            h3.mb-4.text-xl.font-semibold= col.title
+                        +markdown(col.text)
 
 mixin section-media(data = {})
     -
