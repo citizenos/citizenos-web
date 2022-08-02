@@ -3,29 +3,32 @@ extends /v2/_templates/main.pug
 block content
     //- HEADER
     +header(self.headerExample)(class='bg-blue-50')
-    +section(class='bg-blue-50')
+    +section(class='bg-grey-300 !pt-6 !pb-4')
         +markdown(self.headerCode)
+
+    //- BANNER
+    +banner(self.bannerExample)(class='bg-blue-50')
+    +section(class='bg-grey-300 !pt-6 !pb-4')
+        +markdown(self.bannerCode)
+
+    //- SECTION WITH 3 COLS
+    +section-3-columns(self.section3ColumnsExample)
+    +section(class='bg-grey-300 !pt-6 !pb-4')
+        +markdown(self.section3ColumnsCode)
 
     //- SECTION
     +section(self.sectionExample)(class='bg-yellow-10')
+    +section(class='bg-grey-300 !pt-6 !pb-4')
         +markdown(self.sectionCode)
 
     //- BUTTON
     +section({ title: 'Button' })
-        .mb-4.flex.flex-wrap.justify-center.gap-2
+        .mt-8.flex.flex-wrap.justify-center.gap-2
             +button-primary(self.buttonPrimary)
             +button-secondary(self.buttonSecondary)
             +button-primary(self.buttonIcon)
             +button-grey(self.buttonGrey)
             +button-purple(self.buttonPurple)
+    +section(class='bg-grey-300 !pt-6 !pb-4')
         +markdown(self.buttonCode)
 
-    //- BANNER
-    +banner(self.bannerExample)(class='bg-blue-50')
-    +section(class='bg-blue-50')
-        +markdown(self.bannerCode)
-
-    //- SECTION WITH 3 COLS
-    +section3cols(self.section3colsExample)
-    +section
-        +markdown(self.section3colsCode)

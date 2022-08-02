@@ -13,10 +13,10 @@ mixin header(data = {})
                 if data.button1 || data.button2
                     .mt-10.w-full.md_w-auto.flex.flex-col.md_flex-row.flex-wrap.gap-6
                         if data.button1
-                            +button-primary.w-full.md_w-auto(icon=data.button1.icon title=data.button1.title url=data.button1.url target=data.button1.target)
+                            +button-primary(data.button1)(class='w-full md_w-auto')
                         if data.button2
-                            +button-secondary.w-full.md_w-auto(icon=data.button2.icon title=data.button2.title url=data.button2.url target=data.button2.target)
-            .lg_order-1
+                            +button-secondary(data.button2)(class='w-full md_w-auto')
+            .lg_order-1.flex.justify-start.items-end
                 if data.image
                     img.mx-auto.h-80.md_h-146.lg_h-fit.lg_w-full.object-contain(src=data.image)
 
@@ -36,14 +36,16 @@ mixin banner(data = {})
                 if data.button1 || data.button2
                     .w-full.md_w-auto.flex.flex-col.md_flex-row.items-center.justify-center.md_justify-start.gap-6
                         if data.button1
-                            +button-primary.h-fit.w-full.md_w-auto(icon=data.button1.icon title=data.button1.title url=data.button1.url target=data.button1.target)
+                            +button-primary(data.button1)(class='h-fit w-full md_w-auto')
                         if data.button2
-                            +button-secondary.h-fit.w-full.md_w-auto(icon=data.button2.icon title=data.button2.title url=data.button2.url target=data.button2.target)
+                            +button-secondary(data.button2)(class='h-fit w-full md_w-auto')
 
 mixin section(data = {})
-    - data = { ...data, ...attributes }
+    -
+        data = { ...data, ...attributes }
+        data.class += ' py-10 md_py-14 lg_py-32'
     div(class=data.class)
-        .w-full.lg_container.lg_mx-auto.py-10.md_py-14.lg_py-32.px-4.md_px-6.lg_px-28
+        .w-full.lg_container.lg_mx-auto.px-4.md_px-6.lg_px-28
             if data.title
                 h2= data.title
             if data.text
@@ -51,7 +53,7 @@ mixin section(data = {})
                     +markdown(data.text)
             block
 
-mixin section3cols(data = {})
+mixin section-3-columns(data = {})
     - data = { ...data, ...attributes }
     +section(data)
         .grid.grid-cols-1.lg_grid-cols-3.gap-10
@@ -59,10 +61,10 @@ mixin section3cols(data = {})
                 .flex.flex-col.md_flex-row.lg_flex-col.gap-6
                     if col.image
                         img.h-36.lg_h-60.max-w-full.lg_w-full.object-fit.bg-green-50.rounded-2xl(class='md_max-w-1/3' src=col.image)
-                    .flex-grow.flex.flex-col
+                    .grow.flex.flex-col
                         if col.title
                             h3.mb-4.text-xl.font-semibold= col.title
-                        .lg_flex-grow
+                        .lg_grow
                             +markdown(col.text)
                         if col.link
                             a.flex.items-center.font-bold.text-green-500(href=col.link.url)
@@ -86,6 +88,7 @@ mixin button(data = {})
         }
 
     a.button.inline-flex.items-center.justify-center.cursor-pointer.font-semibold.whitespace-nowrap.rounded-full.border-2.hover_bg-transparent(
+        id=data.id
         href=data.url
         target=data.target
         class=btnClass

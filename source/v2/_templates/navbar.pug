@@ -9,7 +9,7 @@
 
         .flex.items-center.justify-end.gap-4
             .relative.hidden.lg_block
-                +button-grey#language-button(icon='/assets/v2/images/icons/language.svg' title=self.locale.toUpperCase() class='!py-2 !px-6 !shadow-none')
+                +button-grey({ icon: '/assets/v2/images/icons/language.svg', title: self.locale.toUpperCase() })(id='language-button' class='!py-2 !px-6 !shadow-none')
                 #language-menu.absolute.hidden.mt-4.py-2.z-10.bg-white.rounded-2xl
                     each t, l in self.languages
                         - const title = t ? `${l.toUpperCase()} – ${t}` : l.toUpperCase()
@@ -20,20 +20,20 @@
                                 .h-6.w-6
                                     img.h-6.w-6(src='/assets/v2/images/icons/checkmark.svg')
                         else if self.otherLocalePaths[l]
-                            a.flex.items-center.justify-between.gap-2.py-2.pl-4.pr-2.hover_bg-grey-300.whitespace-nowrap(href=url, data-language=l)= title
+                            a.flex.items-center.justify-between.gap-2.py-2.pl-4.pr-2.hover_bg-grey-300.whitespace-nowrap(href=url data-language=l)= title
                                 .h-6.w-6
 
-            +button-purple.hidden.md_flex(icon='/assets/v2/images/icons/donate.svg' title=self.donateLink.title url=self.donateLink.title class='!py-2 !px-6 !shadow-none')
-            +button-primary.hidden.md_flex(title=self.productLink.title url=self.productLink.url class='!py-2 !px-6 !shadow-none')
-            +button-grey#mobile-menu-open.lg_hidden(icon='/assets/v2/images/icons/hamburger.svg' title=self.mobileMenu class='!py-2 !px-6 !shadow-none')
-            +button-grey#mobile-menu-close.hidden.lg_hidden(icon='/assets/v2/images/icons/hamburger-close.svg' title=self.mobileMenu class='!py-2 !px-6 !shadow-none')
+            +button-purple({ icon: '/assets/v2/images/icons/donate.svg', ...self.donateLink })(class='hidden md_flex !py-2 !px-6 !shadow-none')
+            +button-primary(self.productLink)(class='hidden md_flex !py-2 !px-6 !shadow-none')
+            +button-grey({ icon: '/assets/v2/images/icons/hamburger.svg', title: self.mobileMenu })(id='mobile-menu-open' class='lg_hidden !py-2 !px-6 !shadow-none')
+            +button-grey({ icon: '/assets/v2/images/icons/hamburger-close.svg', title: self.mobileMenu })(id='mobile-menu-close' class='hidden lg_hidden !py-2 !px-6 !shadow-none')
 
 #mobile-menu.hidden.z-10.w-full.md_w-80.p-4.fixed.inset-y-0.right-0.top-16.md_top-24.flex.flex-col.gap-3.bg-white.overflow-y-auto
     .mb-5.flex.flex-col
         each nav in self.navigation
             a.py-4.text-black.text-center(href=nav.url)= nav.title
-    +button-primary.md_hidden.w-full(title=self.productLink.title url=self.productLink.url class='!py-2 !px-6 !shadow-none')
-    +button-purple.md_hidden.w-full(icon='/assets/v2/images/icons/donate.svg' title=self.donateLink.title url=self.donateLink.title class='!py-2 !px-6 !shadow-none')
+    +button-primary(self.productLink)(class='md_hidden w-full !py-2 !px-6 !shadow-none')
+    +button-purple({ icon: '/assets/v2/images/icons/donate.svg', ...self.donateLink })(class='md_hidden w-full !py-2 !px-6 !shadow-none')
 
     #mobile-language-button.py-2.px-2.flex.flex-col.cursor-pointer.font-semibold.text-black.whitespace-nowrap.rounded-3xl.border-2.border-grey-300.bg-grey-300
         .flex.items-center.justify-center

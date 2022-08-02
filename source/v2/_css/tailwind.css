@@ -16,7 +16,7 @@ p {
 }
 
 pre {
-    @apply mb-4 p-2 border-2 border-white rounded-lg text-xs overflow-hidden
+    @apply mb-4 text-xs overflow-hidden
 }
 
 footer .footer-border {

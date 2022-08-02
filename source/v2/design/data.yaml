@@ -1,3 +1,17 @@
+headerExample:
+    title: Header
+    text: |
+        Est in elit consectetur dolore occaecat esse esse pariatur ullamco deserunt incididunt.
+    image: /assets/v2/images/illustrations/homepage-hero.svg
+    button1:
+        title: Primary Button
+        url: https://entu.site
+    button2:
+        title: Secondary Button
+        icon: /assets/v2/images/favicon.png
+        url: https://entu.site
+        target: _blank
+
 headerCode: |
     **.yaml**
     ```yaml
@@ -21,11 +35,13 @@ headerCode: |
     +header(self.myHeader)(class='bg-blue-50')
     ```
 
-headerExample:
-    title: Header
+
+
+bannerExample:
+    title: Banner
     text: |
         Est in elit consectetur dolore occaecat esse esse pariatur ullamco deserunt incididunt.
-    image: /assets/v2/images/illustrations/homepage-hero.svg
+    image: /assets/v2/images/illustrations/cta.svg
     button1:
         title: Primary Button
         url: https://entu.site
@@ -34,80 +50,6 @@ headerExample:
         icon: /assets/v2/images/favicon.png
         url: https://entu.site
         target: _blank
-
-sectionCode: |
-    **.yaml**
-    ```yaml
-    mySection:
-        title: Section
-        text: |
-            Consectetur dolore velit adipisicing ad Lorem cupidatat ex. Est enim nulla ex ad labore elit. Adipisicing magna duis elit voluptate consequat. Qui in nostrud irure deserunt. Irure pariatur ex incididunt irure velit id non tempor.
-
-            Aliquip labore aliquip exercitation ex minim cillum esse excepteur ex commodo nostrud amet consequat exercitation. Eu irure laborum commodo ad ipsum deserunt excepteur adipisicing officia commodo velit nulla do reprehenderit. Quis pariatur aliquip sit mollit et consectetur dolor. Mollit ipsum anim elit proident.
-
-    ```
-
-    **.pug**
-    ```pug
-    +section(self.mySection)(class='bg-yellow-10')
-        p Adipisicing dolor do deserunt nulla dolor qui duis.
-    ```
-
-sectionExample:
-    title: Section
-    text: |
-        Consectetur dolore velit adipisicing ad Lorem cupidatat ex. Est enim nulla ex ad labore elit. Adipisicing magna duis elit voluptate consequat. Qui in nostrud irure deserunt. Irure pariatur ex incididunt irure velit id non tempor.
-
-        Aliquip labore aliquip exercitation ex minim cillum esse excepteur ex commodo nostrud amet consequat exercitation. Eu irure laborum commodo ad ipsum deserunt excepteur adipisicing officia commodo velit nulla do reprehenderit. Quis pariatur aliquip sit mollit et consectetur dolor. Mollit ipsum anim elit proident.
-
-buttonCode: |
-    **.yaml**
-    ```yaml
-    myPrimaryButton:
-        title: Primary Button
-        url: https://entu.site
-    mySecondaryButton:
-        icon: /assets/v2/images/favicon.png
-        title: Secondary Button
-        url: https://entu.site
-        target: _blank
-    myIconButton:
-        icon: /assets/v2/images/favicon.png
-        url: https://entu.site
-    myGreyButton:
-        title: Grey Button
-    myPurpleButton:
-        title: Purple Button
-    ```
-
-    **.pug**
-    ```pug
-    +button-primary(self.myPrimaryButton)
-    +button-secondary(self.mySecondaryButton)
-    +button-primary(self.myIconButton)
-    +button-grey(self.myGreyButton)
-    +button-purple(self.myPurpleButton)
-    ```
-
-buttonPrimary:
-    title: Primary Button
-    url: https://entu.site
-
-buttonSecondary:
-    title: Secondary Button
-    icon: /assets/v2/images/favicon.png
-    url: https://entu.site
-    target: _blank
-
-buttonIcon:
-    icon: /assets/v2/images/favicon.png
-    url: https://entu.site
-
-buttonGrey:
-    title: Grey Button
-
-buttonPurple:
-    title: Purple Button
 
 bannerCode: |
     **.yaml**
@@ -132,21 +74,9 @@ bannerCode: |
     +banner(self.myBanner)(class='bg-blue-50')
     ```
 
-bannerExample:
-    title: Banner
-    text: |
-        Est in elit consectetur dolore occaecat esse esse pariatur ullamco deserunt incididunt.
-    image: /assets/v2/images/illustrations/cta.svg
-    button1:
-        title: Primary Button
-        url: https://entu.site
-    button2:
-        title: Secondary Button
-        icon: /assets/v2/images/favicon.png
-        url: https://entu.site
-        target: _blank
 
-section3colsCode: |
+
+section3ColumnsCode: |
     **.yaml**
     ```yaml
     mySection3Col:
@@ -183,10 +113,10 @@ section3colsCode: |
 
     **.pug**
     ```pug
-    +section3cols(self.mySection3Col)
+    +section-3-columns(self.mySection3Col)
     ```
 
-section3colsExample:
+section3ColumnsExample:
     title: Section with 3 columns
     text: |
         Do ullamco fugiat enim et officia ad cupidatat dolore.
@@ -216,3 +146,81 @@ section3colsExample:
             image: /assets/v2/images/illustrations/projects.svg
             text: |
                 Pariatur sint minim sint ea irure ad dolore. Pariatur sint magna ullamco consequat quis.
+
+
+
+sectionExample:
+    title: Section
+    text: |
+        Consectetur dolore velit adipisicing ad Lorem cupidatat ex. Est enim nulla ex ad labore elit. Adipisicing magna duis elit voluptate consequat. Qui in nostrud irure deserunt. Irure pariatur ex incididunt irure velit id non tempor.
+
+        Aliquip labore aliquip exercitation ex minim cillum esse excepteur ex commodo nostrud amet consequat exercitation. Eu irure laborum commodo ad ipsum deserunt excepteur adipisicing officia commodo velit nulla do reprehenderit. Quis pariatur aliquip sit mollit et consectetur dolor. Mollit ipsum anim elit proident.
+
+sectionCode: |
+    **.yaml**
+    ```yaml
+    mySection:
+        title: Section
+        text: |
+            Consectetur dolore velit adipisicing ad Lorem cupidatat ex. Est enim nulla ex ad labore elit. Adipisicing magna duis elit voluptate consequat. Qui in nostrud irure deserunt. Irure pariatur ex incididunt irure velit id non tempor.
+
+            Aliquip labore aliquip exercitation ex minim cillum esse excepteur ex commodo nostrud amet consequat exercitation. Eu irure laborum commodo ad ipsum deserunt excepteur adipisicing officia commodo velit nulla do reprehenderit. Quis pariatur aliquip sit mollit et consectetur dolor. Mollit ipsum anim elit proident.
+
+    ```
+
+    **.pug**
+    ```pug
+    +section(self.mySection)(class='bg-yellow-10')
+        p Adipisicing dolor do deserunt nulla dolor qui duis.
+    ```
+
+
+
+buttonPrimary:
+    title: Primary Button
+    url: https://entu.site
+
+buttonSecondary:
+    title: Secondary Button
+    icon: /assets/v2/images/favicon.png
+    url: https://entu.site
+    target: _blank
+
+buttonIcon:
+    icon: /assets/v2/images/favicon.png
+    url: https://entu.site
+
+buttonGrey:
+    title: Grey Button
+
+buttonPurple:
+    title: Purple Button
+
+buttonCode: |
+    **.yaml**
+    ```yaml
+    myPrimaryButton:
+        title: Primary Button
+        url: https://entu.site
+    mySecondaryButton:
+        icon: /assets/v2/images/favicon.png
+        title: Secondary Button
+        url: https://entu.site
+        target: _blank
+    myIconButton:
+        icon: /assets/v2/images/favicon.png
+        url: https://entu.site
+    myGreyButton:
+        title: Grey Button
+    myPurpleButton:
+        title: Purple Button
+    ```
+
+    **.pug**
+    ```pug
+    +button-primary(self.myPrimaryButton)
+    +button-secondary(self.mySecondaryButton)
+    +button-primary(self.myIconButton)
+    +button-grey(self.myGreyButton)
+    +button-purple(self.myPurpleButton)
+    ```
