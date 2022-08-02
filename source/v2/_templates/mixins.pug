@@ -1,7 +1,34 @@
 mixin markdown(text = '')
     | !{ self.md(text) }
 
+
+
+mixin sections(sections)
+    for data, id in sections
+        +section({ id: id, ...data })
+
 mixin section(data = {})
+    case data.type
+        when 'header'
+            +section-header(data)
+        when 'banner'
+            +section-banner(data)
+        when 'example'
+            +section-example(data)
+        when '2-columns'
+            +section-2-columns(data)
+        when '3-columns'
+            +section-3-columns(data)
+        when '4-columns'
+            +section-4-columns(data)
+        when 'media'
+            +section-media(data)
+        when 'accordion'
+            +section-accordion(data)
+        when 'custom'
+            +section-custom(data)
+
+mixin section-layout(data = {})
     -
         data = { class: '', ...data, ...attributes }
         data.class += ' py-10 md_py-14 lg_py-32 section '
@@ -19,7 +46,7 @@ mixin section(data = {})
         const textClass = {
             'px-4 md_px-6 lg_px-28': !data.left
         }
-    div(class=data.class)
+    div(id=data.id, class=data.class)
         .w-full.lg_container.lg_mx-auto.px-4.md_px-6.lg_px-28
             if data.title || data.text
                 .flex.pb-8(class=flexClass)
@@ -39,7 +66,7 @@ mixin section-header(data = {})
         delete sectionData.title
         delete sectionData.text
 
-    +section(sectionData)
+    +section-layout(sectionData)
         .grid.grid-cols-1.lg_grid-cols-2.gap-12
             .lg_order-2.pt-12.pb-0.md_pb-8.lg_py-0.flex.flex-col.items-center.lg_items-start.justify-center.text-center.lg_text-left
                 if data.title
@@ -65,7 +92,7 @@ mixin section-banner(data = {})
         delete sectionData.title
         delete sectionData.text
 
-    +section(sectionData)
+    +section-layout(sectionData)
         .flex.flex-col.md_flex-row.items-center.gap-12
             if data.image
                 img.mx-auto.h-52.w-52.object-contain(src=data.image)
@@ -92,12 +119,12 @@ mixin section-example(data = {})
         delete sectionData.title
         delete sectionData.text
 
-    +section(sectionData)
+    +section-layout(sectionData)
         +markdown(data.text)
 
 mixin section-2-columns(data = {})
     - data = { ...data, ...attributes }
-    +section(data)
+    +section-layout(data)
         .grid.grid-cols-1.lg_grid-cols-2.gap-10
             for col in data.columns
                 div
@@ -114,7 +141,7 @@ mixin section-2-columns(data = {})
 
 mixin section-3-columns(data = {})
     - data = { ...data, ...attributes }
-    +section(data)
+    +section-layout(data)
         .grid.grid-cols-1.lg_grid-cols-3.gap-10
             for col in data.columns
                 .flex.flex-col.md_flex-row.lg_flex-col.gap-6
@@ -132,7 +159,7 @@ mixin section-3-columns(data = {})
 
 mixin section-4-columns(data = {})
     - data = { ...data, ...attributes }
-    +section({ left: true, ...data })
+    +section-layout({ left: true, ...data })
         .grid.grid-cols-1.lg_grid-cols-4.gap-10
             for col in data.columns
                 .flex.flex-col.md_flex-row.lg_flex-col.gap-6
@@ -158,7 +185,7 @@ mixin section-media(data = {})
         const mediaClass = {
             'lg_order-1': data.mediaLeft
         }
-    +section(sectionData)
+    +section-layout(sectionData)
         .grid.grid-cols-1.lg_grid-cols-2.gap-10
             .pt-12.pb-0.md_pb-8.lg_py-0(class=textClass)
                 if data.title
@@ -186,7 +213,7 @@ mixin section-accordion(data = {})
         delete sectionData.text
 
         const id = `accordion-${Math.round(Math.random() * 1000)}`
-    +section(sectionData)
+    +section-layout(sectionData)
         .grid.grid-cols-1.lg_grid-cols-2.gap-10
             .hidden.lg_block
                 for card, idx in data.cards
@@ -237,6 +264,8 @@ mixin section-accordion(data = {})
 
                 activeCard = card
             }
+
+
 
 mixin button(data = {})
     -

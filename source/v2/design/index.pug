@@ -1,46 +1,15 @@
 extends /v2/_templates/main.pug
 
 block content
-    //- HEADER
-    +section-header(self.headerExample)
-    +section-example(self.headerCode)
-
-    //- BANNER
-    +section-banner(self.bannerExample)
-    +section-example(self.bannerCode)
-
-    //- SECTION WITH 2 COLS
-    +section-2-columns(self.section2ColumnsExample)
-    +section-example(self.section2ColumnsCode)
-
-    //- SECTION WITH 3 COLS
-    +section-3-columns(self.section3ColumnsExample)
-    +section-example(self.section3ColumnsCode)
-
-    //- SECTION WITH 4 COLS
-    +section-4-columns(self.section4ColumnsExample)
-    +section-example(self.section4ColumnsCode)
-
-    //- SECTION WITH ACCORDION
-    +section-accordion(self.sectionAccordionExample)
-    +section-example(self.sectionAccordionCode)
-
-    //- SECTION WITH IMAGE
-    +section-media(self.sectionMediaVideo)
-    +section-media(self.sectionMediaImage)
-    +section-example(self.sectionMediaCode)
-
-    //- SECTION
-    +section(self.sectionExample)
-    +section-example(self.sectionCode)
+    +sections(self.sections)
 
     //- BUTTON
-    +section({ title: 'Button' })
-        .mt-8.flex.flex-wrap.justify-center.gap-2
-            +button-primary(self.buttonPrimary)
-            +button-secondary(self.buttonSecondary)
-            +button-primary(self.buttonIcon)
-            +button-grey(self.buttonGrey)
-            +button-purple(self.buttonPurple)
-    +section-example(self.buttonCode)
+    //- +section({ title: 'Button' })
+    //-     .mt-8.flex.flex-wrap.justify-center.gap-2
+    //-         +button-primary(self.buttonPrimary)
+    //-         +button-secondary(self.buttonSecondary)
+    //-         +button-primary(self.buttonIcon)
+    //-         +button-grey(self.buttonGrey)
+    //-         +button-purple(self.buttonPurple)
+    //- +section-example(self.buttonCode)
 
