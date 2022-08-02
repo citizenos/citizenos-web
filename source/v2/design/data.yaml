@@ -76,6 +76,87 @@ bannerCode: |
 
 
 
+section2ColumnsExample:
+    title: Section with 2 columns
+    text: |
+        Irure laboris ut et sit. Labore magna reprehenderit qui nulla aliquip eiusmod dolore do eiusmod tempor dolor aliquip ullamco laborum.
+    columns:
+        one:
+            title: One
+            image: /assets/v2/images/illustrations/civic-movements.svg
+            text: |
+                Aute velit sint ut adipisicing dolore. Dolor consectetur labore deserunt sint consequat commodo ullamco exercitation consectetur qui qui nisi irure quis. Laboris ad officia do et ex pariatur et officia mollit et aliquip enim consectetur.
+            link:
+                title: Some link
+                url: https://google.com
+        two:
+            title: Two
+            image: /assets/v2/images/illustrations/active-citizens.svg
+            text: |
+                Tempor proident ut tempor magna quis reprehenderit duis est veniam incididunt. Minim ipsum proident officia commodo amet. Irure laboris consequat voluptate irure Lorem. Voluptate ex reprehenderit velit laboris consequat reprehenderit pariatur minim duis eiusmod culpa aliquip cillum.
+            link:
+                title: Some other link
+                url: https://google.com
+        three:
+            title: Three
+            image: /assets/v2/images/illustrations/professionals.svg
+            text: |
+                Pariatur sint minim sint ea irure ad dolore. Pariatur sint magna ullamco consequat quis. Do mollit ex et dolore consequat. Qui excepteur exercitation qui ea laboris in esse cillum.
+            link:
+                title: Some other link
+                url: https://google.com
+        four:
+            title: Four
+            image: /assets/v2/images/illustrations/politics.svg
+            text: |
+                Officia eiusmod incididunt adipisicing irure deserunt et dolor enim. Duis do est adipisicing et deserunt est sit in exercitation culpa cupidatat adipisicing in tempor. In cillum et ut sit dolor adipisicing. Sint veniam cupidatat sint ut excepteur minim amet ut incididunt minim cupidatat fugiat.
+
+section2ColumnsCode: |
+    **.yaml**
+    ```yaml
+    mySection2Col:
+        title: Section with 2 columns
+        text: |
+            Irure laboris ut et sit. Labore magna reprehenderit qui nulla aliquip eiusmod dolore do eiusmod tempor dolor aliquip ullamco laborum.
+        columns:
+            one:
+                title: One
+                image: /assets/v2/images/illustrations/civic-movements.svg
+                text: |
+                    Aute velit sint ut adipisicing dolore. Dolor consectetur labore deserunt sint consequat commodo ullamco exercitation consectetur qui qui nisi irure quis. Laboris ad officia do et ex pariatur et officia mollit et aliquip enim consectetur.
+                link:
+                    title: Some link
+                    url: https://google.com
+            two:
+                title: Two
+                image: /assets/v2/images/illustrations/active-citizens.svg
+                text: |
+                    Tempor proident ut tempor magna quis reprehenderit duis est veniam incididunt. Minim ipsum proident officia commodo amet. Irure laboris consequat voluptate irure Lorem. Voluptate ex reprehenderit velit laboris consequat reprehenderit pariatur minim duis eiusmod culpa aliquip cillum.
+                link:
+                    title: Some other link
+                    url: https://google.com
+            three:
+                title: Three
+                image: /assets/v2/images/illustrations/professionals.svg
+                text: |
+                    Pariatur sint minim sint ea irure ad dolore. Pariatur sint magna ullamco consequat quis. Do mollit ex et dolore consequat. Qui excepteur exercitation qui ea laboris in esse cillum.
+                link:
+                    title: Some other link
+                    url: https://google.com
+            four:
+                title: Four
+                image: /assets/v2/images/illustrations/politics.svg
+                text: |
+                    Officia eiusmod incididunt adipisicing irure deserunt et dolor enim. Duis do est adipisicing et deserunt est sit in exercitation culpa cupidatat adipisicing in tempor. In cillum et ut sit dolor adipisicing. Sint veniam cupidatat sint ut excepteur minim amet ut incididunt minim cupidatat fugiat.
+    ```
+
+    **.pug**
+    ```pug
+    +section-2-columns(self.mySection2Col)
+    ```
+
+
+
 section3ColumnsExample:
     title: Section with 3 columns
     text: |
