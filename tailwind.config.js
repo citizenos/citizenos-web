@@ -1,5 +1,8 @@
 module.exports = {
-    content: ['./source/v2/**/*.pug'],
+    content: [
+        './source/v2/**/*.pug',
+        './source/v2/**/*.yaml'
+    ],
     separator: '_',
     theme: {
         extend: {
@@ -15,7 +18,8 @@ module.exports = {
             'white': '#FFFFFF',
             'transparent': 'transparent',
             'blue': {
-                50: '#F1F7FC'
+                50: '#F1F7FC',
+                700: '#1168A8'
             },
             'green': {
                 50: '#F1FAF3',
@@ -31,10 +35,12 @@ module.exports = {
             },
             'purple': {
                 50: '#F4DFEC',
-                100: '#E3A8CC'
+                100: '#E3A8CC',
+                500: '#DA7AB1'
             },
             'yellow': {
                 10: '#FFF8E1',
+                50: '#FDF0C3',
                 700: '#E4B722'
             }
         }

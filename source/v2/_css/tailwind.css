@@ -43,3 +43,70 @@ footer .footer-border {
     border-color: transparent transparent #FFFFFF transparent;
     z-index: 9999;
 }
+
+.accordion-image-lg,
+.accordion-card .accordion-image,
+.accordion-card .accordion-body {
+    @apply hidden
+}
+
+.accordion-card .accordion-title {
+    @apply cursor-pointer
+}
+
+.accordion-card.yellow h3,
+.accordion-card.yellow a {
+    @apply text-yellow-700
+}
+
+.accordion-card.blue h3,
+.accordion-card.blue a {
+    @apply text-blue-700
+}
+
+.accordion-card.green h3,
+.accordion-card.green a {
+    @apply text-green-500
+}
+
+.accordion-card.purple h3,
+.accordion-card.purple a {
+    @apply text-purple-500
+}
+
+.accordion-card.active {
+    @apply border-t-transparent rounded-2xl
+}
+
+.accordion-image-lg.active.yellow,
+.accordion-card.active.yellow {
+    @apply bg-yellow-10
+}
+
+.accordion-image-lg.active.blue,
+.accordion-card.active.blue {
+    @apply bg-blue-50
+}
+
+.accordion-image-lg.active.green,
+.accordion-card.active.green {
+    @apply bg-green-50
+}
+
+.accordion-image-lg.active.purple,
+.accordion-card.active.purple {
+    @apply bg-purple-50
+}
+
+.accordion-card.active .accordion-title {
+    @apply cursor-auto
+}
+
+.accordion-card.active .accordion-image {
+    @apply block lg_hidden
+}
+
+.accordion-image-lg.active,
+.accordion-card.active .accordion-body {
+    @apply block
+}

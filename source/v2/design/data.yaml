@@ -291,6 +291,79 @@ section4ColumnsCode: |
 
 
 
+sectionAccordionExample:
+    title: Accordion
+    text: |
+        Amet nisi fugiat elit dolor velit enim eiusmod eiusmod Lorem qui dolore.
+    cards:
+        one:
+            title: One
+            icon: /assets/v2/images/icons/ideation.svg
+            image: /assets/v2/images/illustrations/ideation.svg
+            color: yellow
+            text: |
+                Sit duis proident qui labore magna occaecat enim elit qui quis aliqua.
+
+                Nostrud in ut occaecat cupidatat magna.
+        two:
+            title: Two
+            icon: /assets/v2/images/icons/discussions.svg
+            image: /assets/v2/images/illustrations/discussions.svg
+            color: blue
+            text: |
+                Minim deserunt qui sit ad reprehenderit minim duis pariatur adipisicing Lorem minim.
+            link:
+                title: Some link
+                url: https://google.com
+        three:
+            title: Three
+            icon: /assets/v2/images/icons/voting.svg
+            image: /assets/v2/images/illustrations/voting.svg
+            color: green
+            text: |
+                Minim deserunt qui sit ad reprehenderit minim duis pariatur adipisicing Lorem minim.
+        four:
+            title: Four
+            icon: /assets/v2/images/icons/followup.svg
+            image: /assets/v2/images/illustrations/followup.svg
+            color: purple
+
+sectionAccordionCode: |
+    **.yaml**
+    ```yaml
+    mySection4Col:
+        title: Section with 4 columns
+        text: |
+            Do ullamco fugiat enim et officia ad cupidatat dolore. Tempor occaecat fugiat ex et ad ad aliqua laboris anim nostrud sunt ad velit in.
+        columns:
+            one:
+                title: One
+                image: /assets/v2/images/illustrations/platform.svg
+                text: |
+                    Sit duis proident qui labore magna occaecat enim elit qui quis aliqua.
+
+                    Nostrud in ut occaecat cupidatat magna.
+            two:
+                title: Two
+                image: /assets/v2/images/illustrations/hub.svg
+                text: |
+                    Minim deserunt qui sit ad reprehenderit minim duis pariatur adipisicing Lorem minim.
+            three:
+                image: /assets/v2/images/illustrations/projects.svg
+                text: |
+                    Minim deserunt qui sit ad reprehenderit minim duis pariatur adipisicing Lorem minim.
+            four:
+                title: Four
+                image: /assets/v2/images/illustrations/cta.svg
+    ```
+
+    **.pug**
+    ```pug
+    +section-4-columns(self.mySection4Col)
+    ```
+
+
+
 sectionMediaCode: |
     **.yaml**
     ```yaml

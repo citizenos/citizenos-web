@@ -42,16 +42,16 @@ mixin banner(data = {})
 
 mixin section(data = {})
     -
-        data = { ...data, ...attributes }
+        data = { class: '', ...data, ...attributes }
         data.class += ' py-10 md_py-14 lg_py-32'
 
         const flexClass = {
-            'flex-row items-center justify-center': data.left,
+            'flex-col lg_flex-row lg_items-center lg_justify-center': data.left,
             'flex-col text-center': !data.left
         }
 
         const headerClass = {
-            'mb-0': data.left
+            'lg_mb-0': data.left
         }
 
         const textClass = {
@@ -134,7 +134,7 @@ mixin section-media(data = {})
         .grid.grid-cols-1.lg_grid-cols-2.gap-10
             .pt-12.pb-0.md_pb-8.lg_py-0(class=textClass)
                 if data.title
-                    h2.lg_text-left= data.title
+                    h2.text-center.lg_text-left= data.title
                 if data.text
                     .text-center.lg_text-left
                         +markdown(data.text)
@@ -148,6 +148,67 @@ mixin section-media(data = {})
                         img.h-20.w-20.md_h-32.md_w-32(src='/assets/v2/images/icons/play.svg')
                 else
                     img.w-full(src=data.image)
+
+mixin section-accordion(data = {})
+    -
+        data = { ...data, ...attributes }
+
+        const sectionData = { ...data }
+        delete sectionData.title
+        delete sectionData.text
+
+        const id = `accordion-${Math.round(Math.random() * 1000)}`
+    +section(sectionData)
+        .grid.grid-cols-1.lg_grid-cols-2.gap-10
+            .hidden.lg_block
+                for card, idx in data.cards
+                    if card.image
+                        img.accordion-image-lg.w-full.object-fill.rounded-2xl(id=`${id}-image-${idx}` class=card.color src=card.image)
+            div
+                .pb-8.text-center.lg_text-left
+                    if data.title
+                        h2= data.title
+                    if data.text
+                        +markdown(data.text)
+                for card, idx in data.cards
+                    .accordion-card.py-6.px-6.border-t.first_border-t-0.border-grey-300(class=[`${id}-card`, card.color] data-image=`${id}-image-${idx}`)
+                        if card.image
+                            img.accordion-image.lg_hidden.mb-4.h-60.md_h-80.w-full.object-fill(src=card.image)
+                        .accordion-title.flex.items-center
+                            if card.icon
+                                img.h-6.w-6.mr-4(src=card.icon)
+                            h3.text-xl.font-semibold.text-yellow-700= card.title
+                        if card.text
+                            .accordion-body.mt-4
+                                +markdown(card.text)
+                                if card.link
+                                    a.flex.items-center.font-bold.text-green-500(href=card.link.url)
+                                        img.h-6.w-6.mr-2(src='/assets/v2/images/icons/arrow-small-right.svg')
+                                        = card.link.title
+
+        script.
+            const cards = document.querySelectorAll('.#{id}-card');
+            let activeCard = null
+
+            activateCard(cards[0])
+
+            cards.forEach((card) => {
+                card.addEventListener('click', () => { activateCard(card) })
+            })
+
+            function activateCard(card) {
+                if (activeCard) {
+                    document.getElementById(activeCard.dataset.image).classList.remove('active')
+                    activeCard.classList.remove('active')
+                    if (activeCard.nextElementSibling) activeCard.nextElementSibling.classList.remove('border-t-transparent')
+                }
+
+                document.getElementById(card.dataset.image).classList.add('active')
+                card.classList.add('active')
+                if (card.nextElementSibling)card.nextElementSibling.classList.add('border-t-transparent')
+
+                activeCard = card
+            }
 
 mixin button(data = {})
     -
@@ -176,24 +237,24 @@ mixin button(data = {})
 
 mixin button-primary(data = {})
     -
-        data = { ...data, ...attributes }
+        data = { class: '', ...data, ...attributes }
         data.class += ' text-white border-black bg-black hover_text-black hover_border-black'
     +button(data)
 
 mixin button-secondary(data = {})
     -
-        data = { ...data, ...attributes }
+        data = { class: '', ...data, ...attributes }
         data.class += ' text-black border-white bg-white hover_border-white'
     +button(data)
 
 mixin button-grey(data = {})
     -
-        data = { ...data, ...attributes }
+        data = { class: '', ...data, ...attributes }
         data.class += ' text-black border-grey-300 bg-grey-300 hover_border-grey-500'
     +button(data)
 
 mixin button-purple(data = {})
     -
-        data = { ...data, ...attributes }
+        data = { class: '', ...data, ...attributes }
         data.class += ' text-pink-700 border-purple-50 bg-purple-50 hover_border-purple-100'
     +button(data)
