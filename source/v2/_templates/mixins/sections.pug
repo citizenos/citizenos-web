@@ -87,11 +87,11 @@ mixin section-banner(data = {})
         delete sectionData.text
 
     +section-layout(sectionData)
-        .flex.flex-col.md_flex-row.items-center.gap-12
+        .pb-10.md_pb-0.flex.flex-col.md_flex-row.items-center.gap-12
             if data.image
                 img.mx-auto.h-52.w-52.object-contain(src=data.image)
             .w-full.md_my-8.md_w-auto.flex.grow.flex-col.xl_flex-row.justify-center.md_justify-start.gap-6
-                .text-center.md_text-left
+                .grow.text-center.md_text-left
                     if data.title
                         h2.mb-6.text-4xl.md_text-left.font-bold= data.title
                     if data.text
