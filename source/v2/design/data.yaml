@@ -503,7 +503,7 @@ sections:
 
             **.pug**
             ```pug
-            +section-stats(self.myStats)
+            +section(self.myStats)
             ```
 
 
