@@ -1,8 +1,6 @@
-extends /v2/_templates/main.pug
+extends /v2/_templates/sections.pug
 
-block content
-    +sections(self.sections)
-
+append content
     #sectionButtonsExample.hidden
         .mt-8.flex.flex-wrap.justify-center.gap-2
             +button(self.sections.sectionButtonsExample.buttonPrimary)
