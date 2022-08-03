@@ -6,14 +6,16 @@ sections:
         text: |
             Est in elit consectetur dolore occaecat esse esse pariatur ullamco deserunt incididunt.
         image: /assets/v2/images/illustrations/homepage-hero.svg
-        button1:
-            title: Primary Button
-            url: https://entu.site
-        button2:
-            title: Secondary Button
-            icon: /assets/v2/images/favicon.png
-            url: https://entu.site
-            target: _blank
+        buttons:
+            button1:
+                color: black
+                title: Primary Button
+                url: https://entu.site
+            button2:
+                title: Secondary Button
+                icon: /assets/v2/images/favicon.png
+                url: https://entu.site
+                target: _blank
 
     headerCode:
         type: example
@@ -28,14 +30,16 @@ sections:
                 text: |
                     Est in elit consectetur dolore occaecat esse esse pariatur ullamco deserunt incididunt.
                 image: /assets/v2/images/illustrations/homepage-hero.svg
-                button1:
-                    title: Primary Button
-                    url: https://entu.site
-                button2:
-                    title: Secondary Button
-                    icon: /assets/v2/images/favicon.png
-                    url: https://entu.site
-                    target: _blank
+                buttons:
+                    button1:
+                        color: black
+                        title: Primary Button
+                        url: https://entu.site
+                    button2:
+                        title: Secondary Button
+                        icon: /assets/v2/images/favicon.png
+                        url: https://entu.site
+                        target: _blank
             ```
 
             **.pug**
@@ -52,14 +56,16 @@ sections:
         text: |
             Est in elit consectetur dolore occaecat esse esse pariatur ullamco deserunt incididunt.
         image: /assets/v2/images/illustrations/cta.svg
-        button1:
-            title: Primary Button
-            url: https://entu.site
-        button2:
-            title: Secondary Button
-            icon: /assets/v2/images/favicon.png
-            url: https://entu.site
-            target: _blank
+        buttons:
+            button1:
+                color: black
+                title: Primary Button
+                url: https://entu.site
+            button2:
+                title: Secondary Button
+                icon: /assets/v2/images/favicon.png
+                url: https://entu.site
+                target: _blank
 
     bannerCode:
         type: example
@@ -74,14 +80,16 @@ sections:
                 text: |
                     Est in elit consectetur dolore occaecat esse esse pariatur ullamco deserunt incididunt.
                 image: /assets/v2/images/illustrations/cta.svg
-                button1:
-                    title: Primary Button
-                    url: https://entu.site
-                button2:
-                    title: Secondary Button
-                    icon: /assets/v2/images/favicon.png
-                    url: https://entu.site
-                    target: _blank
+                buttons:
+                    button1:
+                        color: black
+                        title: Primary Button
+                        url: https://entu.site
+                    button2:
+                        title: Secondary Button
+                        icon: /assets/v2/images/favicon.png
+                        url: https://entu.site
+                        target: _blank
             ```
 
             **.pug**

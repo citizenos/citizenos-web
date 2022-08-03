@@ -99,12 +99,10 @@ mixin section-header(data = {})
                     h1.mb-6.text-7xl.font-bold= data.title
                 if data.text
                     +markdown(data.text)
-                if data.button1 || data.button2
+                if data.buttons
                     .mt-10.w-full.md_w-auto.flex.flex-col.md_flex-row.flex-wrap.gap-6
-                        if data.button1
-                            +button(data.button1)(class='w-full md_w-auto')
-                        if data.button2
-                            +button(data.button2)(class='w-full md_w-auto')
+                        for button in data.buttons
+                            +button({ class: 'w-full md_w-auto', ...button })
             .lg_order-1.flex.justify-start.items-end
                 if data.image
                     img.mx-auto.h-80.md_h-146.lg_h-fit.lg_w-full.object-contain(src=data.image)
@@ -129,12 +127,10 @@ mixin section-banner(data = {})
                     if data.text
                         +markdown(data.text)
 
-                if data.button1 || data.button2
+                if data.buttons
                     .w-full.md_w-auto.flex.flex-col.md_flex-row.items-center.justify-center.md_justify-start.gap-6
-                        if data.button1
-                            +button(data.button1)(class='h-fit w-full md_w-auto')
-                        if data.button2
-                            +button(data.button2)(class='h-fit w-full md_w-auto')
+                        for button in data.buttons
+                            +button({ class: 'h-fit w-full md_w-auto', ...button })
 
 mixin section-example(data = {})
     -
