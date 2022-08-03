@@ -21,6 +21,8 @@ mixin section(data = {})
             +section-media(data)
         when 'accordion'
             +section-accordion(data)
+        when 'stats'
+            +section-stats(data)
         when 'custom'
             +section-custom(data)
 
@@ -234,13 +236,13 @@ mixin section-accordion(data = {})
                                         +icon.h-6.w-6.mr-2.text-black(type='arrow-small-right')
                                         = card.link.title
         script.
-            const cards = document.querySelectorAll('.#{id}-card');
+            const cards = document.querySelectorAll('.#{id}-card')
             let activeCard = null
 
             activateCard(cards[0])
 
-            cards.forEach((card) => {
-                card.addEventListener('click', () => { activateCard(card) })
+            cards.forEach(function (card) {
+                card.addEventListener('click', function () { activateCard(card) })
             })
 
             function activateCard(card) {
@@ -257,6 +259,49 @@ mixin section-accordion(data = {})
                 activeCard = card
             }
 
+mixin section-stats(data = {})
+    -
+        data = { ...data, ...attributes }
+
+        const id = `stats-${Math.round(Math.random() * 1000)}`
+    +section-layout({ left: true, ...data })
+        .grid.grid-cols-1.md_grid-cols-2.lg_grid-cols-4.gap-2.md_gap-12.lg_gap-10
+            for col, idx in data.columns
+                .py-6.lg_py-9.px-6.flex.md_flex-col.items-center.justify-between.bg-yellow-50.rounded-2xl
+                    h3.text-base.font-semibold= col.title
+                    .md_mt-2.value.text-3xl.md_text-4xl.lg_text-5xl.text-yellow-700.font-bold.whitespace-nowrap(id=`${id}-${col.field}-value`) 0
+        script.
+            const locale = document.documentElement.lang
+            const speed = 100
+            const count = {}
+
+            fetch('https://citizenos.com/.netlify/functions/stats').then(response => {
+                if (!response.ok) throw new Error(`HTTP error! Status: ${response.status}`)
+
+                return response.json()
+            }).then(response => {
+                Object.keys(response).forEach(key => {
+                    const counter = document.getElementById(`#{id}-${key}-value`)
+                    const target = response[key]
+                    const increment = Math.trunc(target / speed)
+
+                    function updateCount () {
+                        if(!count[key]) count[key] = 0
+                        count[key] += increment
+
+                        if (count[key] < target) {
+                            counter.innerText = Math.ceil(count[key]).toLocaleString(locale)
+
+                            setTimeout(updateCount, 1)
+                        } else {
+                            counter.innerText = Math.ceil(target).toLocaleString(locale)
+                        }
+                    }
+
+                    updateCount()
+                })
+            })
+
 mixin section-custom(data = {})
     -
         const original = data.id
@@ -267,7 +312,7 @@ mixin section-custom(data = {})
     +section-layout(data)
         div(id=placeholder)
         script.
-            document.addEventListener('DOMContentLoaded', () => {
+            document.addEventListener('DOMContentLoaded', function () {
                 const original = document.getElementById('#{original}')
                 const wrapper = document.getElementById('#{wrapper}')
                 const placeholder = document.getElementById('#{placeholder}')

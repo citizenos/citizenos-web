@@ -460,6 +460,54 @@ sections:
 
 
 
+    sectionStatsExample:
+        type: stats
+        title: Stats
+        columns:
+            one:
+                title: Discussions
+                field: topicsCreated
+            two:
+                title: Votes
+                field: votesCast
+            three:
+                title: Groups
+                field: groupsCreated
+            four:
+                title: Users
+                field: usersCreated
+
+    sectionStatsCode:
+        type: example
+        color: grey
+        text: |
+            **.yaml**
+            ```yaml
+            myStats:
+                type: stats
+                title: Stats
+                columns:
+                    one:
+                        title: Discussions
+                        field: topicsCreated
+                    two:
+                        title: Votes
+                        field: votesCast
+                    three:
+                        title: Groups
+                        field: groupsCreated
+                    four:
+                        title: Users
+                        field: usersCreated
+            ```
+
+            **.pug**
+            ```pug
+            +section-stats(self.myStats)
+            ```
+
+
+
     sectionButtonsExample:
         type: custom
         title: Buttons

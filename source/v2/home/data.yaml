@@ -181,22 +181,21 @@ sections:
                 image: /assets/v2/images/illustrations/empty.svg
 
     stats:
-        type: 4-columns
-        left: false
+        type: stats
         title: Our impact keeps on growing
         columns:
             one:
                 title: Discussions
-                image: /assets/v2/images/illustrations/empty.svg
+                field: topicsCreated
             two:
                 title: Votes
-                image: /assets/v2/images/illustrations/empty.svg
+                field: votesCast
             three:
                 title: Groups
-                image: /assets/v2/images/illustrations/empty.svg
+                field: groupsCreated
             four:
                 title: Users
-                image: /assets/v2/images/illustrations/empty.svg
+                field: usersCreated
 
     banner:
         type: banner
