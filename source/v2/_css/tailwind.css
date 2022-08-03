@@ -70,22 +70,22 @@ footer .footer-border {
     @apply cursor-pointer
 }
 
-.accordion-card.yellow h3,
+.accordion-card.yellow .accordion-title,
 .accordion-card.yellow a {
     @apply text-yellow-700
 }
 
-.accordion-card.blue h3,
+.accordion-card.blue .accordion-title,
 .accordion-card.blue a {
     @apply text-blue-700
 }
 
-.accordion-card.green h3,
+.accordion-card.green .accordion-title,
 .accordion-card.green a {
     @apply text-green-500
 }
 
-.accordion-card.purple h3,
+.accordion-card.purple .accordion-title,
 .accordion-card.purple a {
     @apply text-purple-500
 }

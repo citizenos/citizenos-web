@@ -1,39 +1,9 @@
-mixin markdown(text = '')
-    | !{ self.md(text) }
-
-mixin button(data = {})
-    -
-        data = { class: '', color: 'white', ...data, ...attributes }
-
-        const btnClass = {
-            'py-4 px-10': data.title,
-            'p-4': !data.title,
-            'pl-8': data.title && data.icon,
-            'hover_!shadow-none': true,
-            [data.color]: true,
-            [data.class]: true
-        }
-
-        const iconClass = {
-            'mr-2': data.title
-        }
-    a.button.inline-flex.items-center.justify-center.cursor-pointer.font-semibold.whitespace-nowrap.rounded-full.border-2.hover_bg-transparent(
-        id=data.id
-        href=data.url
-        target=data.target
-        class=btnClass
-    )&attributes(attributes)
-        if data.icon
-            img.h-6.w-6(src=data.icon class=iconClass)
-        = data.title
-
-
-
 mixin sections(sections)
     for data, id in sections
         +section({ id, ...data })
 
 mixin section(data = {})
+    - data = { ...data, ...attributes }
     case data.type
         when 'header'
             +section-header(data)
@@ -159,7 +129,7 @@ mixin section-2-columns(data = {})
                         if col.link
                             a.flex.items-center.font-bold.text-yellow-700(href=col.link.url)
                                 = col.link.title
-                                img.h-6.w-6.ml-2(src='/assets/v2/images/icons/arrow-small-down.svg')
+                                +icon.h-6.w-6.ml-2.text-black(type='arrow-small-down')
 
 mixin section-3-columns(data = {})
     - data = { ...data, ...attributes }
@@ -175,8 +145,8 @@ mixin section-3-columns(data = {})
                         .lg_grow
                             +markdown(col.text)
                         if col.link
-                            a.flex.items-center.font-bold.text-green-500(href=col.link.url)
-                                img.h-6.w-6.mr-2(src='/assets/v2/images/icons/arrow-small-right.svg')
+                            a.mt-4.flex.items-center.font-bold.text-green-500(href=col.link.url)
+                                +icon.h-6.w-6.mr-2.text-black(type='arrow-small-right')
                                 = col.link.title
 
 mixin section-4-columns(data = {})
@@ -222,7 +192,8 @@ mixin section-media(data = {})
                         target='_blank'
                         style=`background-image: url('${data.image}')`
                     )
-                        img.h-20.w-20.md_h-32.md_w-32(src='/assets/v2/images/icons/play.svg')
+                        .h-20.w-20.md_h-32.md_w-32.flex.items-center.justify-center.bg-yellow-50.opacity-90.rounded-full
+                            +icon.h-12.w-12.md_h-20.md_w-20.opacity-90(type='play')
                 else
                     img.w-full(src=data.image)
 
@@ -253,14 +224,14 @@ mixin section-accordion(data = {})
                             img.accordion-image.lg_hidden.mb-4.h-60.md_h-80.w-full.object-fill(src=card.image)
                         .accordion-title.flex.items-center
                             if card.icon
-                                img.h-6.w-6.mr-4(src=card.icon)
-                            h3.text-xl.font-semibold.text-yellow-700= card.title
+                                +icon.h-6.w-6.mr-4(type=card.icon)
+                            h3.text-xl.font-semibold= card.title
                         if card.text
                             .accordion-body.mt-4
                                 +markdown(card.text)
                                 if card.link
-                                    a.flex.items-center.font-bold.text-green-500(href=card.link.url)
-                                        img.h-6.w-6.mr-2(src='/assets/v2/images/icons/arrow-small-right.svg')
+                                    a.flex.items-center.font-bold(href=card.link.url)
+                                        +icon.h-6.w-6.mr-2.text-black(type='arrow-small-right')
                                         = card.link.title
         script.
             const cards = document.querySelectorAll('.#{id}-card');

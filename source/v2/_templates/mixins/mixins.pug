@@ -1,0 +1,32 @@
+mixin markdown(text = '')
+    | !{ self.md(text) }
+
+mixin button(data = {})
+    -
+        data = { class: '', color: 'white', ...data, ...attributes }
+
+        const btnClass = {
+            'py-4 px-10': data.title,
+            'p-4': !data.title,
+            'pl-8': data.title && data.icon,
+            'hover_!shadow-none': true,
+            [data.color]: true,
+            [data.class]: true
+        }
+
+        const iconClass = {
+            'mr-2': data.title,
+            'h-6 w-6': true
+        }
+    a.button.inline-flex.items-center.justify-center.cursor-pointer.font-semibold.whitespace-nowrap.rounded-full.border-2.hover_bg-transparent(
+        id=data.id
+        href=data.url
+        target=data.target
+        class=btnClass
+    )&attributes(attributes)
+        if data.icon
+            +icon(type=data.icon class=iconClass)
+        = data.title
+
+include icons.pug
+include sections.pug

@@ -1,3 +1,6 @@
+path: v2/design
+title: V2 design
+
 sections:
     headerExample:
         type: header
@@ -339,7 +342,7 @@ sections:
         cards:
             one:
                 title: One
-                icon: /assets/v2/images/icons/ideation.svg
+                icon: ideation
                 image: /assets/v2/images/illustrations/ideation.svg
                 color: yellow
                 text: |
@@ -348,7 +351,7 @@ sections:
                     Nostrud in ut occaecat cupidatat magna.
             two:
                 title: Two
-                icon: /assets/v2/images/icons/discussions.svg
+                icon: discussions
                 image: /assets/v2/images/illustrations/discussions.svg
                 color: blue
                 text: |
@@ -358,14 +361,14 @@ sections:
                     url: https://google.com
             three:
                 title: Three
-                icon: /assets/v2/images/icons/voting.svg
+                icon: voting
                 image: /assets/v2/images/illustrations/voting.svg
                 color: green
                 text: |
                     Minim deserunt qui sit ad reprehenderit minim duis pariatur adipisicing Lorem minim.
             four:
                 title: Four
-                icon: /assets/v2/images/icons/followup.svg
+                icon: followup
                 image: /assets/v2/images/illustrations/followup.svg
                 color: purple
 
@@ -468,13 +471,13 @@ sections:
 
         buttonSecondary:
             title: Secondary Button
-            icon: /assets/v2/images/favicon.png
+            icon: followup
             url: https://entu.site
             target: _blank
 
         buttonIcon:
             color: black
-            icon: /assets/v2/images/favicon.png
+            icon: play
             url: https://entu.site
 
         buttonGrey:
