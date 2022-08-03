@@ -1,6 +1,32 @@
 mixin markdown(text = '')
     | !{ self.md(text) }
 
+mixin button(data = {})
+    -
+        data = { class: '', color: 'white', ...data, ...attributes }
+
+        const btnClass = {
+            'py-4 px-10': data.title,
+            'p-4': !data.title,
+            'pl-8': data.title && data.icon,
+            'hover_!shadow-none': true,
+            [data.color]: true,
+            [data.class]: true
+        }
+
+        const iconClass = {
+            'mr-2': data.title
+        }
+    a.button.inline-flex.items-center.justify-center.cursor-pointer.font-semibold.whitespace-nowrap.rounded-full.border-2.hover_bg-transparent(
+        id=data.id
+        href=data.url
+        target=data.target
+        class=btnClass
+    )&attributes(attributes)
+        if data.icon
+            img.h-6.w-6(src=data.icon class=iconClass)
+        = data.title
+
 
 
 mixin sections(sections)
@@ -76,9 +102,9 @@ mixin section-header(data = {})
                 if data.button1 || data.button2
                     .mt-10.w-full.md_w-auto.flex.flex-col.md_flex-row.flex-wrap.gap-6
                         if data.button1
-                            +button-primary(data.button1)(class='w-full md_w-auto')
+                            +button(data.button1)(class='w-full md_w-auto')
                         if data.button2
-                            +button-secondary(data.button2)(class='w-full md_w-auto')
+                            +button(data.button2)(class='w-full md_w-auto')
             .lg_order-1.flex.justify-start.items-end
                 if data.image
                     img.mx-auto.h-80.md_h-146.lg_h-fit.lg_w-full.object-contain(src=data.image)
@@ -106,9 +132,9 @@ mixin section-banner(data = {})
                 if data.button1 || data.button2
                     .w-full.md_w-auto.flex.flex-col.md_flex-row.items-center.justify-center.md_justify-start.gap-6
                         if data.button1
-                            +button-primary(data.button1)(class='h-fit w-full md_w-auto')
+                            +button(data.button1)(class='h-fit w-full md_w-auto')
                         if data.button2
-                            +button-secondary(data.button2)(class='h-fit w-full md_w-auto')
+                            +button(data.button2)(class='h-fit w-full md_w-auto')
 
 mixin section-example(data = {})
     -
@@ -289,54 +315,3 @@ mixin section-custom(data = {})
 
                 wrapper.id = '#{original}'
             })
-
-
-
-mixin button(data = {})
-    -
-        data = { ...data, ...attributes }
-
-        const btnClass = {
-            'py-4 px-10': data.title,
-            'p-4': !data.title,
-            'pl-8': data.title && data.icon,
-            'hover_!shadow-none': true,
-            [data.class]: true
-        }
-
-        const iconClass = {
-            'mr-2': data.title
-        }
-    a.button.inline-flex.items-center.justify-center.cursor-pointer.font-semibold.whitespace-nowrap.rounded-full.border-2.hover_bg-transparent(
-        id=data.id
-        href=data.url
-        target=data.target
-        class=btnClass
-    )&attributes(attributes)
-        if data.icon
-            img.h-6.w-6(src=data.icon class=iconClass)
-        = data.title
-
-mixin button-primary(data = {})
-    -
-        data = { class: '', ...data, ...attributes }
-        data.class += ' text-white border-black bg-black hover_text-black hover_border-black'
-    +button(data)
-
-mixin button-secondary(data = {})
-    -
-        data = { class: '', ...data, ...attributes }
-        data.class += ' text-black border-white bg-white hover_border-white'
-    +button(data)
-
-mixin button-grey(data = {})
-    -
-        data = { class: '', ...data, ...attributes }
-        data.class += ' text-black border-grey-300 bg-grey-300 hover_border-grey-500'
-    +button(data)
-
-mixin button-purple(data = {})
-    -
-        data = { class: '', ...data, ...attributes }
-        data.class += ' text-pink-700 border-purple-50 bg-purple-50 hover_border-purple-100'
-    +button(data)

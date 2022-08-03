@@ -454,6 +454,7 @@ sections:
         title: Buttons
 
         buttonPrimary:
+            color: black
             title: Primary Button
             url: https://entu.site
 
@@ -464,13 +465,16 @@ sections:
             target: _blank
 
         buttonIcon:
+            color: black
             icon: /assets/v2/images/favicon.png
             url: https://entu.site
 
         buttonGrey:
+            color: grey
             title: Grey Button
 
         buttonPurple:
+            color: purple
             title: Purple Button
 
     sectionButtonsCode:
@@ -498,9 +502,9 @@ sections:
 
             **.pug**
             ```pug
-            +button-primary(self.myPrimaryButton)
-            +button-secondary(self.mySecondaryButton)
-            +button-primary(self.myIconButton)
-            +button-grey(self.myGreyButton)
-            +button-purple(self.myPurpleButton)
+            +button(self.myPrimaryButton)
+            +button(self.mySecondaryButton)
+            +button(self.myIconButton)
+            +button(self.myGreyButton)
+            +button(self.myPurpleButton)
             ```

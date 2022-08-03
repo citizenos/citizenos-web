@@ -27,6 +27,22 @@ footer .footer-border {
     box-shadow: 0px 16px 40px rgba(0, 0, 0, .04);
 }
 
+.button.black {
+    @apply text-white border-black bg-black hover_text-black hover_border-black
+}
+
+.button.white {
+    @apply text-black border-white bg-white hover_border-white
+}
+
+.button.grey {
+    @apply text-black border-grey-300 bg-grey-300 hover_border-grey-500
+}
+
+.button.purple {
+    @apply text-pink-700 border-purple-50 bg-purple-50 hover_border-purple-100
+}
+
 #language-menu {
     filter: drop-shadow(0px 8px 20px rgba(0, 0, 0, .05))
 }
