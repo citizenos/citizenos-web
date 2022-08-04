@@ -79,25 +79,25 @@ footer:
       links:
         twitter:
           title: Twitter
-          icon: /assets/v2/images/icons/social/twitter.svg
+          icon: /assets/v2/images/social/twitter.svg
           url: https://twitter.com/Citizen_OS
         linkedin:
           title: LinkedIn
-          icon: /assets/v2/images/icons/social/linkedin.svg
+          icon: /assets/v2/images/social/linkedin.svg
           url: https://www.linkedin.com/company/citizenos/
         facebook:
           title: Facebook
-          icon: /assets/v2/images/icons/social/facebook.svg
+          icon: /assets/v2/images/social/facebook.svg
           url: https://www.facebook.com/citizenosestonia/
         instagram:
           title: Instagram
-          icon: /assets/v2/images/icons/social/instagram.svg
+          icon: /assets/v2/images/social/instagram.svg
           url: https://www.instagram.com/citizen_os_foundation/
         youtube:
           title: YouTube
-          icon: /assets/v2/images/icons/social/youtube.svg
+          icon: /assets/v2/images/social/youtube.svg
           url: https://www.youtube.com/channel/UCahwJw-DTZ24yC1HiDCofhQ
         github:
           title: GitHub
-          icon: /assets/v2/images/icons/social/github.svg
+          icon: /assets/v2/images/social/github.svg
           url: https://github.com/citizenos
