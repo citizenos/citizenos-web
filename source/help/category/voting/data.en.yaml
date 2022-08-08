@@ -339,3 +339,48 @@ setting-up-multiple-choice-voting:
         - In “Step 3: Define min/max options” you can specify how many of the vote response options you want participants to be able to vote for. For example, if you have set 5 vote options in total, and you want participants to vote for at least 1 but no more than 3 of these, you would set the “Min choices” to 1 and the “Max choices” to 3.
 
 
+customising-the-voting-settings:
+    path: /help/voting/customising-the-voting-settings
+    data:
+        category: /help/category/data.en.yaml
+        help: /help/data.en.yaml
+    title: Customising the voting settings
+    text: |
+        As admin of a topic, there are a variety of options available to you when you set up a vote. These settings determine the vote choices available to participants, and the way in which they can vote.
+
+        Once you have [started the vote](/help/voting/how-to-set-up-a-vote), you will first need to choose whether you are setting up a “Regular vote” or a “Custom vote”:
+
+        **Regular vote**
+
+        - Regular votes use predefined “Yes”/”No” vote response options.
+        - You can choose whether to include a “Neutral” option and/or a “Veto”, using the relevant toggle buttons.
+
+        **Custom vote**
+
+        - In a custom vote, you have complete flexibility to add your own vote response options. Simply type the choices you wish participants to choose from into the “Step 2: Define answers” fields.
+        - Just like in the regular vote (see above), you can choose to include a “Neutral” or “Veto” option if you wish.
+        - In “Step 3: Define min/max options” you can specify how many of the vote response options you want participants to be able to vote for. For example, if you have set 5 vote options in total, and you want participants to vote for at least 1 but no more than 3 of these, you would set the “Min choices” to 1 and the “Max choices” to 3.
+
+        **Voting rights**
+
+        The “Set up voting rights” section of the settings is where you decide in what ways the participants can cast their votes.
+
+        - **eID.** Toggling this option to “on” means that participants will be required to use [e-ID to sign their vote](/help/voting/setting-up-digital-signature-voting-Estonia-only). (This is currently only available in Estonia, using ID-card, Mobile-ID or Smart-ID login).
+        - **Vote delegation.** Toggling this option to “on” means that participants will be able to [delegate their vote](/help/voting/delegating-your-vote), so that another user can vote on their behalf. (Note: it is not possible to enable vote delegation when e-ID voting is enabled).
+
+        **End of voting system**
+
+        In the “End of voting system” section, you can set the vote to automatically vote at a certain point:
+
+        - Deadline. If you toggle this option to “on”, you can set a date and a time for the vote to automatically close.
+        - All votes are in. If you toggle this option to “on”, you are setting the vote to close as soon as every user who is participating in the topic has voted.
+        - Both of the above. If you toggle both these options to “on”, the vote will automatically close at whichever point comes first - either the deadline, or all votes being cast.
+        - None of the above. If you leave both of these options “off”, you will need to [close the vote manually](/help/voting/closing-the-vote-or-setting-a-vote-deadline).
+
+        ## Related content{.mt-5}
+        - [How to set up a vote](/help/voting/how-to-set-up-a-vote)
+        - [Setting up multiple choice voting](/help/voting/setting-up-multiple-choice-voting)
+        - [Closing the vote or setting a voting deadline](/help/voting/closing-the-vote-or-setting-a-vote-deadline)
+        - [Setting up digital signature voting (for topic admins, Estonia only)](/help/voting/setting-up-digital-signature-voting-for-topic-admins-estonia-only)
+        { .list-arrow .list-unstyled }
+
