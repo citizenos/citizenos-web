@@ -1,11 +1,10 @@
----
-path: /yhteydenotto
-title: Yhteystiedot
-description: Citizen OS on voittoa tavoittelematon järjestö, jonka päämaja sijaitsee Virossa. Se on ansainnut julkisten ja yksityisten käyttäjäryhmien luottamuksen ympäri maailmaa.
+path: /contact
+title: Contact
+description: Citizen OS is a not-for-profit organisation headquartered in Estonia, which has gained the trust of public and private user groups around the world.
 keywords:
-  - verkkoäänestys
-  - osallistamisteknologia
-  - avoin hallinto
+  - e-voting
+  - engagement technology
+  - open governance
 image: /images/meta/vision.jpg
 blocks:
   contact-img:
@@ -18,12 +17,12 @@ blocks:
   contact:
     #label: About
     title: |
-      Yhteydenotto
+      Contact
     text: |
       |  |  |
       | --- | --- |
-      | Yhteys: | <info@citizenos.com> |
-      | Organisaatio: | Foundation Citizen OS |
-      | Osoite: | Telliskivi Creative City, Telliskivi 60a/3, Tallinn 10412, Estonia, EU |
-      | Rekisteritunnus: | 90014709 |
-      | ALV-tiedot: | Foundation Citizen OS ei ole ALV-velvollinen. |
+      | Contact: | <info@citizenos.com> |
+      | Organisation: | Foundation Citizen OS |
+      | Address: | Telliskivi Creative City, Telliskivi 60a/3, Tallinn 10412, Estonia, EU |
+      | Registry code: | 90014709 |
+      | VAT info: | Foundation Citizen OS is not subject to VAT. |
