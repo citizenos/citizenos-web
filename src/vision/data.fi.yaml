@@ -1,11 +1,10 @@
----
-path: /visio
-title: Visio
-description: Osallistutaan yhteiskunnallisiin asioihin kansalaisaloitteiden avulla! Citizen OS on ilmainen verkkodemokratia-alusta osallistumiseen ja yhteistyöhön perustuvaan päätöksentekoon
+path: /vision
+title: Vision
+description: Let’s contribute to society through citizen initiatives! Citizen OS is a free e-democracy platform for participation and collaborative decision-making.
 keywords:
-  - harkittua keskustelua
-  - ilmainen osallistava demokratia
-  - ilmainen suorademokratia
+  - deliberate discussion
+  - free participatory democracy
+  - free direct democracy
 image: /images/meta/vision.jpg
 blocks:
   start-img:
@@ -31,13 +30,13 @@ blocks:
       background-position: 10% 15%, 90% 90%
       background-size: 42px 42px, 102px 102px
     title: |
-      Missiomme.
+      Our mission.
     text: |
-      Tarjota mahdollisimman monille ihmisille mahdollisuus osallistua kunnioittaviin ja merkityksellisiin keskusteluihin.
+      To empower as many people as possible to participate in respectful, meaningful discussions.
 
-      Pyrimme helpottamaan kollektiivista päätöksentekoa asioissa, jotka vaikuttavat suoraan ihmisten hyvinvointiin.
+      We aim to facilitate collective decisions on issues that directly affect people’s wellbeing.
     button1st:
-      title: Visiomme
+      title: Our vision
       url: 'https://www.youtube.com/embed/hDLWbQQAk8g?rel=0&showinfo=0&modestbranding=1&autoplay=1&cc_load_policy=1&cc_lang_pref=en'
   #[f](https://www.facebook.com/citizenos.web){ .btn .btn-primary .my-2 .ml-3 }
   #[t](https://twitter.com/Citizen_OS){ .btn .btn-primary .my-2 .ml-3 }
@@ -49,22 +48,22 @@ blocks:
       background-position: 10% 10%, 90% 10%
       background-size: 45px 45px, 350px 350px
     text: |
-      ![Aktiivinen kansalainen, joka uskoo, että osallistumalla poliittisten ongelmien ratkaisuun voi vaikuttaa.](/images/vision-individual2.png){ .img-fluid }
+      ![An active citizen who believes that her participation in political issues has an impact.](/images/vision-individual2.png){ .img-fluid }
   individual:
     class:
       - order-3
     #label: As an individual
     title: |
-      Haluamamme tulevaisuus.
+      The future we want.
     text: |
-      Hallitukset luottavat yhä enemmän kansalaisiin vaikeiden sosiaalisten ongelmien ratkaisemisessa.
+      Governments are increasingly trusting citizens to help solve difficult social issues.
 
-      Kansalaiset myös vaativat sitä yhä enemmän.
+      And citizens are increasingly demanding it.
 
-      Voimme yhdessä tuoda politiikan 2000-luvulle – hyödyntämällä teknologian voimaa osallistavassa demokratiassa.
+      Together, we can bring politics into the 21st Century - harnessing the power of tech for participatory democracy.
     button1st:
-      title: Osallistu
-      url: /fi/osallistu/
+      title: Get involved
+      url: /get-involved/
   awareness:
     class:
       - order-4
@@ -75,12 +74,12 @@ blocks:
       background-position: 10% 10%
     #label: Raising awareness
     title: |
-      Arvojemme mukaan eläminen.
+      Living our values.
     text: |
-      Avoimuuden, osallistumisen ja harkinnan periaatteet kulkevat läpi kaiken, mitä teemme.
+      Our ethos of transparency, participation and deliberation runs through everything we do.
 
-      Tiimimme on ei-hierarkkinen, käytämme avointa lähdekoodia ja alustan suunnittelua tukee tieteellinen tutkimus.
+      Our team is non-hierarchical, the code open source and platform design backed by rigorous research.
     button1st:
-      title: Kokeile nyt
-      url: https://app.citizenos.com/fi/
+      title: Try it now
+      url: https://app.citizenos.com
       target: _blank
