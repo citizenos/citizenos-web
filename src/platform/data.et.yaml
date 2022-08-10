@@ -1,11 +1,10 @@
----
-path: /toode
-title: Toode
-description: Argumenteeritud arutelud, algatused ja ühiste otsuste tegemine. Tasuta tarkvara, mis teeb ideede genereerimise, digiallkirjastamise ja hääletamise hõlpsaks.
+path: /product
+title: Product
+description: Free digital democracy software for co-creation, discussion and voting. Start your own citizen initiative, petition site or discussion topic today!
 keywords:
-  - kollektiivne pöördumine
-  - tasuta petitsioon
-  - digiallkirjastamine
+  - citizen initiatives
+  - free petition
+  - collaborative decision-making
 image: /images/meta/product.jpg
 blocks:
   decision-img:
@@ -31,18 +30,18 @@ blocks:
       background-position: 10% 5%, 90% 90%
       background-size: 75px 75px, 65px 65px
     title: |
-      Ühised otsused ja kodanikuaktiivsus.
+      Collective decisions and civic participation.
     text: |
-      Kasuta tasuta veebiplatvormi aruteludeks, hääletamiseks ja rahvaalgatuslike ideede kogumiseks. Valikulise e-ID funktsiooniga.
+      Use the free online platform for discussions, voting and crowdsourcing ideas. With optional e-ID function.
 
-      - [Milleks Citizen OS-i kasutatakse?](#flexibleformat)
-      - [Funktsioonid](#features)
-      - [Juhtumiuuringud](#case-study-2)
-      - [Statistika](#stats)
+      - [What is Citizen OS for?](#flexibleformat)
+      - [Features](#features)
+      - [Case studies](#case-study-2)
+      - [Statistics](#stats)
       { .arrow }
     button1st:
-      title: Vaata demo
-      url: 'https://www.youtube.com/embed/UC44qCCIixE?rel=0&showinfo=0&modestbranding=1&autoplay=1&cc_load_policy=1&cc_lang_pref=et'
+      title: Play demo
+      url: 'https://www.youtube.com/embed/UC44qCCIixE?rel=0&showinfo=0&modestbranding=1&autoplay=1&cc_load_policy=1&cc_lang_pref=en'
   #title: Sign up for news
   #url: '#subscribe'
   flexibleformat:
@@ -54,32 +53,32 @@ blocks:
       background: '#F7F7F7'
       background-image: url(/images/pattern.svg)
       background-size: 38px 42px
-    label: Paindlik toode
+    label: A flexible format
     title: |
-      Milleks Citizen OS-i kasutatakse?
+      What is Citizen OS for?
     text: |
       { #flexibleformat-items }
     blocks:
       petitions:
         poster: /images/flexibleformat-petitions.png
-        title: Hääletused
+        title: Voting
         text: |
-          Tee kohandatava hääletuse abil demokraatlikke otsuseid. Sobib e-demokraatia algatuste läbiviimiseks.
+          Make democratic decisions with customisable voting. Perfect for e-democracy initiatives.
       onlinemeetings:
         poster: /images/flexibleformat-onlinemeetings.png
-        title: Arutelud
+        title: Discussions
         text: |
-          Korralda ratsionaalseid ja tasakaalustatud grupiarutelusid, mis võimaldavad kaaluda poolt- ja vastuargumente.
+          Enjoy rational, balanced group discussions, weighing up the pros and cons.
       gatheringideas:
         poster: /images/flexibleformat-gatheringideas.png
-        title: Ideekorje
+        title: Crowdsourcing Ideas
         text: |
-          Saa sisendit laiemalt ringilt. Ideaalne kodanikualgatuste jaoks.
+          Get input from a wider audience. Ideal for citizen participation projects.
       widget:
         poster: /images/flexibleformat-widget.png
-        title: Petitsioonid ja digiallkirjastamine
+        title: Follow up
         text: |
-          Loo ühiseid algatusi ja kogu tuhandeid digiallkirju. Kasuta e-ID identifitseerimist, et otsuseid digiallkirjastada.
+          Update participants on actions taken after a group decision.
   features-img:
     class:
       - order-3
@@ -89,29 +88,29 @@ blocks:
       background-position: 100% 15%, 90% 15%
       background-size: 165px 165px, 350px 350px
     text: |
-      ![Citizen OS-i personali naisliige avalikul üritusel platvormi kohta esitatud küsimustele vastamas.](/images/product-features.jpg){ .img-fluid .box-shadow }
+      ![A female member of Citizen OS staff attending an event to answer questions about the platform.](/images/product-features.jpg){ .img-fluid .box-shadow }
   features:
     class:
       - order-4
     style:
       background: '#F7F7F7'
-    label: Funktsioonid
+    label: Features
     title: |
-      Miks peaksid kasutama Citizen OS-i?
+      Why use Citizen OS?
     text: |
-      - Alati 100% tasuta tarkvara. Ei mingeid reklaame ega tasusid.
-      - Kasutusvalmis platvorm – logi lihtsalt sisse ja hakka tööle.
-      - Juba 13 keeles ja lihtsasti tõlgitav.
+      - 100% free to use, always. No ads, no charges.
+      - A ready-made platform – just log in and get started.
+      - Already in 14 languages and easy to translate.
       { .bullet }
 
-      - Tasakaalustatud arutelud poolt- ja vastuargumentide esitamiseks.
-      - Sina otsustad, kas soovid pidada privaatseid või avalikke arutelusid.
-      - Privaatsed grupid, selleks, et pidada samade inimestega mitmeid arutelusid.
+      - Pro and con discussions for balanced debates.
+      - Private or public discussions – you choose.
+      - Private groups for multiple discussions with the same people.
       { .bullet }
 
-      - Kohandatav ja anonüümne, kindlate tähtaegadega hääletamine.
-      - Täpsemad hääletusfunktsioonid, näiteks minihääled ja delegeerimine.
-      - Ühildub e-ID-ga – sisselogimiseks, hääletamiseks ja digiallkirjade andmiseks.
+      - Customisable & anonymous voting with deadlines.
+      - Advanced voting features such as mini-votes and delegation.
+      - e-ID compatible – for logins, votes & digital signatures.
       { .bullet }
   #options:
   #class:
@@ -145,7 +144,7 @@ blocks:
     class:
       - order-6
     text: |
-      ![Osalusdemokraatia teostamiseks kasutatava Citizen OS-i platvormi kuvatõmmis.](/images/product-case-study-2.jpg){ .img-fluid .box-shadow }
+      ![A screenshot of the Citizen OS platform being used for participatory democracy.](/images/product-case-study-2.jpg){ .img-fluid .box-shadow }
   case-study-2:
     class:
       - order-7
@@ -153,17 +152,17 @@ blocks:
       background-image: url(/images/bubble-blue.svg)
       background-position: 80% 5%
       background-size: 122px 122px
-    label: Juhtumiuuringud
+    label: Case study
     title: |
-      Eesti kodanikualgatuste platvorm.
+      Estonia’s Citizen Initiatives Platform.
     text: |
-      Osa platvormi Citizen OS avatud lähtekoodist kasutati kodanikualgatuse veebisaidi [Rahvalgaatus.ee](https://www.rahvaalgatus.ee) seadistamiseks. Sellel saidil saab luua petitsioone, neid allkirjastada ja seejärel otse Riigikogusse saata.
+      The Citizen OS free open source code was initally used to set up the citizen initiatives website [Rahvalgaatus.ee](https://www.rahvaalgatus.ee). Here, petitions can be launched, signed and submitted directly to the Estonian Parliament.
   case-study-img:
     class:
       - order-8
       - order-sm-9
     text: |
-      ![Paljud indoneeslased naeratavad, kannavad maailma puhastuspäeva särke, jalutavad rannal ja kannavad plastprügiga täidetud kotte.](/images/product-case-study.jpeg){ .img-fluid .box-shadow }
+      ![Many indonesians smiling, wearing World Cleanup Day shirts, walking on a beach, carrying bags full of plastic garbage.](/images/product-case-study.jpeg){ .img-fluid .box-shadow }
   case-study:
     class:
       - order-9
@@ -172,13 +171,13 @@ blocks:
       background-image: url(/images/bubble-orange.svg), url(/images/bubble-yellow.svg)
       background-position: 10% 5%, 90% 90%
       background-size: 85px 85px, 55px 55px
-    label: Juhtumiuuring
+    label: Case study
     title: |
-      Rohelisema Indoneesia nimel.
+      For a Greener Indonesia.
     text: |
-      Oma [34 saare projektiga](/news/turning-citizen-ideas-into-action-on-waste-bintan-indonesia/) soovib kodanikualgatus Teeme Ära Indoneesia luua puhtama tulevikuühiskonna.
+      With their [34 Islands Project](/news/turning-citizen-ideas-into-action-on-waste-bintan-indonesia/), civic movement Let’s Do It Indonesia is working to build a greener future.
 
-      Platvormil Citizen OS saavad kohalikud elanikud esitada ideid jätkusuutliku jäätmekäitlussüsteemi loomiseks ja ka oma lemmikideede poolt hääletada.
+      Using the Citizen OS platform, local people can submit sustainable waste management ideas and vote for their favourites.
   stats:
     class:
       - order-10
@@ -189,16 +188,16 @@ blocks:
       background-image: url(/images/pattern.svg)
       background-size: 38px 42px
     title: |
-      Meie mõju kasvab jätkuvalt.
+      Our impact keeps on growing.
     button1st:
-      title: Liitu uudiskirjaga
+      title: Sign up for news
       url: '#subscribe'
     blocks:
       topicsCreated:
-        title: arutelusid
+        title: discussions
       votesCast:
-        title: hääli
+        title: votes
       groupsCreated:
-        title: gruppe
+        title: groups
       usersCreated:
-        title: kasutajaid
+        title: users
