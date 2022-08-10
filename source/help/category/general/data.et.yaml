@@ -1,0 +1,100 @@
+---
+multipage: true
+changing-the-language:
+  path: /et/abi/yldine/keele-vahetamine
+  data:
+    category: /help/category/data.en.yaml
+    help: /help/data.et.yaml
+  title: Changing the language
+  text: |
+    **You can change the language of the platform via the Main Menu.** The language you are currently using is shown near the bottom of the menu, below “Help”. Click on this language, then select your preferred language from the pop-up box.
+
+    ![Screenshot of the platform.](/images/help/language.png)
+automatic-notifications:
+  path: /et/abi/yldine/automaatsed-teavitused
+  data:
+    category: /help/category/data.en.yaml
+    help: /help/data.et.yaml
+  title: Automatic notifications
+  text: |
+    Email notifications are sent automatically in the three following situations:
+
+    - **When a person is added to a group**, they will receive an invite via email. (Note to admins: we therefore recommend posting at least one topic in the group before inviting members, as being invited to an empty group can cause confusion.)
+    - **When a person is invited to a topic**, they will receive an invite via email.
+    - **When a new topic is added to a group**, an invitation email will be sent to all existing group members.
+    - **When an argument or comment is flagged as inappropriate**, the topic administrator/moderator and the original poster will be notified via email.
+
+    There are no email notifications in any other situations. Therefore, if you want to notify topic members of any other activity (such as a topic now being open for voting, for example), you will need to contact them yourself to let them know.
+using-on-mobile-devices:
+  path: /et/abi/yldine/kasutamine-mobiilil
+  data:
+    category: /help/category/data.en.yaml
+    help: /help/data.et.yaml
+  title: Using on mobile devices
+  text: |
+    **Citizen OS is a browser-based platform.** You can therefore use it from any device, simply by opening a browser and navigating to the platform via the URL. There is no need to download an app.
+why-you-cant-use-the-platform-offline:
+  path: /help/general/why-you-cant-use-the-platform-offline
+  data:
+    category: /help/category/data.en.yaml
+    help: /help/data.en.yaml
+  title: Why you can't use the platform offline
+  text: |
+    The platform is only accessible online, with no “offline mode”.
+    This is to ensure that multiple users can engage with a topic at the same time, and will all see the same content.
+using-the-activity-feed:
+  path: /help/general/using-the-activity-feed
+  data:
+    category: /help/category/data.en.yaml
+    help: /help/data.en.yaml
+  title: Using the activity feed
+  text: |
+    Use the activity feed to keep track of new activity in your topics and groups. It shows activity such as accepted invites, topic contributions, changes to access rights and more.
+
+    To view the feed, click on “Activity Feed” at the top of the main menu.
+
+    You can filter your activity feed using the dropdown box located at the top.
+
+    ![Activity feed screenshot](/images/help/activityfeed.png)
+
+    ## Related content{.mt-5}
+    - [Viewing a topic's activity feed](/help/topics/viewing-a-topics-activity-feed/)
+deleting-your-account:
+  path: /help/general/deleting-your-account
+  data:
+    category: /help/category/data.en.yaml
+    help: /help/data.en.yaml
+  title: Deleting your account
+  text: |
+    To delete your account, go to “My Account”. You’ll find this next to your profile avatar in the main menu.
+    In the pop-up window, click “Delete Account” (bottom left), then confirm “Yes”.
+
+    Please note:
+
+    - This action cannot be undone.
+    - All user-created data will be anonymised and will not be recoverable.
+donating-to-the-platform:
+  path: /help/general/donating-to-the-platform
+  data:
+    category: /help/category/data.en.yaml
+    help: /help/data.en.yaml
+  title: Donating to the platform
+  text: |
+    Citizen OS is a non-profit organisation and our platform is almost entirely funded by private donations.
+    Help us keep the platform free by making a donation at [www.citizenos.com/donate](/donate).
+
+    Your donation will help us in our mission to *“empower as many people as possible to participate in respectful and meaningful discussions in order to collaboratively decide on issues that affect their wellbeing.”*
+your-data-security:
+  path: /help/general/your-data-security
+  data:
+    category: /help/category/data.en.yaml
+    help: /help/data.en.yaml
+  title: Your data security
+  text: |
+    All your personal data is stored securely. The only data which will be accessible to those outside of our organisation is your activity in any public topics. Your activity in private topics will of course be visible to other participants of this topic, but no one else. Votes cast are visible only to topic admins, regardless of whether the topic is public or private.
+
+    Unlike some online platforms, we do not sell any of your data to third parties to raise funds. Citizen OS is funded via private philanthropic donations, EU grants and other grant funds.
+
+    To better understand our platform’s usage and improve its usability, we anonymously track certain elements of user activity via Plausible. Plausible is a lightweight and open source web analytics tool which uses no cookies and is fully compliant with data protection regulations around the world.
+
+    See our full [Privacy and Cookies Policy](/legal/privacy/) for further information.
