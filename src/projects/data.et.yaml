@@ -1,11 +1,10 @@
----
-path: /projektid
-title: Projektid
-description: Teostame koostöös erinevate riikide ülikoolide ja organisatsioonidega harivaid ja lõbusaid projekte. Leia enda jaoks sobiv projekt!
+path: /projects
+title: Projects
+description: We run educational and fun projects, in collaboration with universities and organisations from around the world. See which one suits you!
 keywords:
-  - noortejuhtimine
-  - kaasamiskoolitus
-  - kaasamise rakendus
+  - youth leadership
+  - e-democracy course
+  - participation tools
 image: /images/meta/vision.jpg
 blocks:
   start-img:
@@ -31,14 +30,14 @@ blocks:
       background-position: 10% 15%, 90% 90%
       background-size: 42px 42px, 102px 102px
     title: |
-      Koostöö muutuste nimel.
+      Collaborating for change.
     text: |
-      Ühendame innovaatiliste e-demokraatia projektide ja osalusprojektidega töötamiseks jõud erinevate riikide organisatsioonidega.
+      We join forces with organisations worldwide to work on innovative e-democracy and participation projects.
 
-      - [Talve- ja suvekoolid](#individual)
+      - [Winter and Summer Schools](#individual)
       - [EuroChangemakers](#awareness)
-      - [Kodanikuhäkaton](#individual2)
-      - [Noorte osalusdemokraatiajuhtide võrgustik](#awareness2)
+      - [Civic Hackathon](#individual2)
+      - [Participatory Youth Leadership Network](#awareness2)
       {.arrow }
   individual-img:
     class:
@@ -48,16 +47,16 @@ blocks:
       background-position: 10% 10%, 90% 10%
       background-size: 45px 45px, 350px 350px
     text: |
-      ![Aktiivne kodanik, kes usub, et suudab poliitilistes küsimustes kaasa rääkides ühiskonnaelu mõjutada.](/images/vision-individual.png){ .img-fluid }
+      ![An active citizen who believes that her participation in political issues has an impact.](/images/vision-individual.png){ .img-fluid }
   individual:
     class:
       - order-3
     title: |
-      Talve- ja suvekoolid.
+      Winter and Summer Schools.
     text: |
-      Kursus "Digital Innovation for Civic Engagement Projects" on korraldatud koostöös Tallinna Ülikooliga nende suve- ja talvekoolide raames. Kümnepäevane kursus õpetab kogukondade ja kodanikualgatuste liikmetele, kuidas kaasata rohkem inimesi aruteludesse ja otsustusprotsessidesse, kasutades selleks tehnoloogilisi vahendeid.
+      The Digital Innovation for Civic Engagement Projects course is run in a partnership between us and Tallinn University, as part of their Summer and Winter School programmes. The 10-day course teaches members of communities and civic initiatives how to involve more people into discussion and decision-making processes, through the use of technological tools.
     button1st:
-      title: Vaata lisa
+      title: Learn more
       url: https://winterschool.tlu.ee/digital-innovation-for-civic-engagement-projects/
       target: _blank
   awareness:
@@ -72,9 +71,9 @@ blocks:
     title: |
       EuroChangemakers
     text: |
-      See 18-kuuline projekt on loodud praegusel, COVID-19-ajastul tekkinud osalusdemokraatiaga seotud katsumuste ületamiseks. Projekti osaks on avalikud häkatonid, uus platvorm, noortevõrgustik ning põhimõtete ülevaatedokument.
+      This 18-month project responds to the current democratic participation challenges faced during the COVID-19 pandemic through civic hackathons, a new platform, a youth network and a policy White Paper.
     button1st:
-      title: Vaata lisa
+      title: Learn more
       url: https://eurocm.geyc.ro/
       target: _blank
   individual2-img:
@@ -85,16 +84,16 @@ blocks:
       background-position: 10% 10%, 90% 10%
       background-size: 45px 45px, 350px 350px
     text: |
-      ![Pilt põlevast lambipirnist, mida ümbritsevad ringina neli väiksemat punast mulli. Iga mulli sees on järgmise mulli suunas näitav nool.](/images/research-start.png){ .img-fluid }
+      ![An image of a lit light bulb with four smaller red bubbles surrounding it in a circle with arrows pointing from one to the next bubble.](/images/research-start.png){ .img-fluid }
   individual2:
     class:
       - order-7
     title: |
-      Kodanikuhäkaton
+      Civic Hackathon
     text: |
-      Osalejatel on võimalus "häkkida" kodanikuaktiivsust ja arutelusid nii veebis kui ka väljaspool seda.
+      Participants will have the opportunity to “hack” civic engagement and discussions in both the online and offline sphere.
     button1st:
-      title: Vaata lisa
+      title: Learn more
       url: /civic-hackathon/
   awarness2-img:
     class:
@@ -104,7 +103,7 @@ blocks:
       background-position: 10% 10%, 90% 10%
       background-size: 45px 45px, 350px 350px
     text: |
-      ![Naise ülakeha vasakul pool, naine vaatab ekraani mitme akna all seisvate erinevate inimestega.](/images/projects-pyln.jpg){ .img-fluid }
+      ![A woman's upper body on the left, the woman staring at a sceen with different people in many windows.](/images/projects-pyln.jpg){ .img-fluid }
   awareness2:
     class:
       - order-8
@@ -115,12 +114,12 @@ blocks:
     #background-position: 10% 10%
     #label: Raising awareness
     title: |
-      Osalevate noortejuhtide võrgustik.
+      Participatory Youth Leadership Network.
     text: |
-      Citizen OS-i India tütarorganisatsioon PYLN teeb koostööd India organisatsioonide ja häktivistidega, kellel on meiega ühesugune nägemus osaluspõhise juhtimise edendamisest.
+      Citizen OS’s Indian chapter, PYLN, collaborates with Indian organisations and hacktivists who share our vision of furthering participatory leadership.
 
-      PYLN toetab ja kaasloob tegevuspõhiseid teadusalgatusi. Niisugusteks algatusteks on näiteks kampaaniad, petitsioonid, alt-ülesse suunatud otsustusprotsessid ning rohujuuretasandi algatused.
+      PYLN supports and co-creates action-based research such as campaigns, petitions, bottom-up decision making and grassroots initiatives.
     button1st:
-      title: Vaata lisa
+      title: Learn more
       url: /pyln/
       target: _blank
