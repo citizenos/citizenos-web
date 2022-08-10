@@ -1,0 +1,126 @@
+---
+path: /projektid
+title: Projektid
+description: Teostame koostöös erinevate riikide ülikoolide ja organisatsioonidega harivaid ja lõbusaid projekte. Leia enda jaoks sobiv projekt!
+keywords:
+  - noortejuhtimine
+  - kaasamiskoolitus
+  - kaasamise rakendus
+image: /images/meta/vision.jpg
+blocks:
+  start-img:
+    class:
+      - order-1
+    style:
+      background-color: '#AAF3DD'
+      background-image: url(/images/vision-start.png), url(/images/bubble-dots.png), url(/images/bubble-yellow.svg)
+      background-position: center center, 0 10%, 75% 20%
+      background-size: 500px 500px, 350px 350px, 65px 65px
+  #text: |
+  #[► Our Vision](#video){.btn .btn-primary data-toggle=modal data-target=#video}
+  #video:
+  #id: video
+  #url: 'https://www.youtube.com/embed/hDLWbQQAk8g?rel=0&showinfo=0&modestbranding=1&autoplay=1&cc_load_policy=1&cc_lang_pref=en'
+  start:
+    class:
+      - order-0
+      - py-5
+    style:
+      background-color: '#AAF3DD'
+      background-image: url(/images/bubble-blue.svg), url(/images/bubble-orange.svg)
+      background-position: 10% 15%, 90% 90%
+      background-size: 42px 42px, 102px 102px
+    title: |
+      Koostöö muutuste nimel.
+    text: |
+      Ühendame innovaatiliste e-demokraatia projektide ja osalusprojektidega töötamiseks jõud erinevate riikide organisatsioonidega.
+
+      - [Talve- ja suvekoolid](#individual)
+      - [EuroChangemakers](#awareness)
+      - [Kodanikuhäkaton](#individual2)
+      - [Noorte osalusdemokraatiajuhtide võrgustik](#awareness2)
+      {.arrow }
+  individual-img:
+    class:
+      - order-2
+    style:
+      background-image: url(/images/bubble-yellow.svg), url(/images/bubble-dots.png)
+      background-position: 10% 10%, 90% 10%
+      background-size: 45px 45px, 350px 350px
+    text: |
+      ![An active citizen who believes that her participation in political issues has an impact.](/images/vision-individual.png){ .img-fluid }
+  individual:
+    class:
+      - order-3
+    title: |
+      Talve- ja suvekoolid.
+    text: |
+      Kursus "Digital Innovation for Civic Engagement Projects" on korraldatud koostöös Tallinna Ülikooliga nende suve- ja talvekoolide raames. Kümnepäevane kursus õpetab kogukondade ja kodanikualgatuste liikmetele, kuidas kaasata rohkem inimesi aruteludesse ja otsustusprotsessidesse, kasutades selleks tehnoloogilisi vahendeid.
+    button1st:
+      title: Vaata lisa
+      url: https://winterschool.tlu.ee/digital-innovation-for-civic-engagement-projects/
+      target: _blank
+  awareness:
+    class:
+      - order-4
+      - py-5
+    style:
+      background-image: url(/images/bubble-orange.svg), url(/images/vision-awareness.jpg)
+      background-size: 164px 164px, cover
+      background-position: 10% 10%
+    #label: Erasmus+ project
+    title: |
+      EuroChangemakers
+    text: |
+      See 18-kuuline projekt on loodud praegusel, COVID-19-ajastul tekkinud osalusdemokraatiaga seotud katsumuste ületamiseks. Projekti osaks on avalikud häkatonid, uus platvorm, noortevõrgustik ning põhimõtete ülevaatedokument.
+    button1st:
+      title: Vaata lisa
+      url: https://eurocm.geyc.ro/
+      target: _blank
+  individual2-img:
+    class:
+      - order-6
+    style:
+      background-image: url(/images/bubble-yellow.svg), url(/images/bubble-dots.png)
+      background-position: 10% 10%, 90% 10%
+      background-size: 45px 45px, 350px 350px
+    text: |
+      ![An image of a lit light bulb with four smaller red bubbles surrounding it in a circle with arrows pointing from one to the next bubble.](/images/research-start.png){ .img-fluid }
+  individual2:
+    class:
+      - order-7
+    title: |
+      Kodanikuhäkaton
+    text: |
+      Osalejatel on võimalus "häkkida" kodanikuaktiivsust ja arutelusid nii veebis kui ka väljaspool seda.
+    button1st:
+      title: Vaata lisa
+      url: /civic-hackathon/
+  awarness2-img:
+    class:
+      - order-9
+    style:
+      background-image: url(/images/bubble-yellow.svg), url(/images/bubble-dots.png)
+      background-position: 10% 10%, 90% 10%
+      background-size: 45px 45px, 350px 350px
+    text: |
+      ![A woman's upper body on the left, the woman staring at a sceen with different people in many windows.](/images/projects-pyln.jpg){ .img-fluid }
+  awareness2:
+    class:
+      - order-8
+    #- py-5
+    #style:
+    #background-image: url(/images/bubble-orange.svg), url(/images/projects-pyln.jpg)
+    #background-size: 164px 164px, cover
+    #background-position: 10% 10%
+    #label: Raising awareness
+    title: |
+      Osalevate noortejuhtide võrgustik.
+    text: |
+      Citizen OS-i India tütarorganisatsioon PYLN teeb koostööd India organisatsioonide ja häktivistidega, kellel on meiega ühesugune nägemus osaluspõhise juhtimise edendamisest.
+
+      PYLN toetab ja kaasloob tegevuspõhiseid teadusalgatusi. Niisugusteks algatusteks on näiteks kampaaniad, petitsioonid, alt-ülesse suunatud otsustusprotsessid ning rohujuuretasandi algatused.
+    button1st:
+      title: Vaata lisa
+      url: /pyln/
+      target: _blank
