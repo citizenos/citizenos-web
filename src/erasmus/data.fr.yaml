@@ -1,47 +1,46 @@
----
 path: /erasmus
-title: Transformation numérique pour l'engagement civique
-description: Notre nouveau programme d’échange de jeunes Erasmus+ formera la prochaine génération de leaders européens en matière d’engagement civique et de leadership participatif. Postulez et rejoignez-nous !
+title: Digital Transformation for Civic Engagement
+description: Our new Erasmus+ youth exchange programme will train up Europe’s next generation of leaders in civic engagement, participatory leadership. Apply and join us!
 keywords:
-  - programme jeunesse 2021
-  - leader jeune
+  - youth program 2021
+  - youth leader
   - erasmus+
 blocks:
   header:
-    title: 'Transformation numérique pour l''engagement civique'
+    title: 'Digital Transformation for Civic Engagement'
   text:
     text: |
 
-      ## Apprendre par la pratique
+      ## Learning By Doing
 
-      Notre programme d'échange de jeunes Transformation numérique pour l'engagement civique formera la prochaine génération de leaders européens à la conception de projets d'engagement civique et au leadership participatif, par le biais de méthodes innovantes et engageantes.
+      Our Digital Transformation for Civic Engagement youth exchange program will train up Europe’s next generation of leaders in civic engagement project design and participatory leadership, through innovative and engaging methods.
 
-      Pendant neuf jours, du 17 au 25 août 2021, cinq jeunes de six pays participants auront l'occasion de concevoir et de mettre en œuvre des solutions à des problèmes réels d'engagement civique au sein d'une organisation fictive dirigée démocratiquement. Ils agiront en tant que membres du conseil d'administration de l'organisation, s'efforçant de résoudre les problèmes de leadership auxquels ils sont confrontés, tout en soutenant et en inspirant leurs équipes de projet en cours de route.
+      Across a period of nine days, from 17-25 August 2021, five young people from six participating countries will have the opportunity to design and implement solutions to real-life civic engagement problems within a fictional, democratically-led organisation. They will act as board members of the organisation, working to solve the leadership problems they’re confronted with, while supporting and inspiring their project teams along the way.
 
-      Les participants quitteront le programme en ayant acquis une solide expérience pratique de la conception de projets d'engagement civique efficaces, ainsi qu'une bonne compréhension de la manière dont les dirigeants d'une organisation peuvent engager démocratiquement leurs membres dans le co-développement de sa stratégie et de son plan d'action. L'application d'outils technologiques sera un élément clé du programme, les participants apprenant à utiliser ces outils dans des processus d'engagement efficaces et inclusifs.
+      Participants will leave the program having a solid practical experience of designing effective civic engagement projects, as well as a sound understanding of how an organisation’s leaders can democratically engage their members in co-developing its Strategy and Action Plan. The application of technological tools will be a key focus of the program, with participants learning to apply such tools in effective and inclusive engagement processes.
 
-      Le programme est organisé par la Fondation Citizen OS et financé avec le soutien du programme Erasmus+ du Corps européen de solidarité. Il est élaboré et dispensé en partenariat avec six organisations des six pays participants :
+      The programme is organised by Foundation Citizen OS and funded with support from the European European Solidarity Corps Erasmus+ programme. It is being developed and delivered in partnership with six organisations from the six participating countries:
 
-      - [Citizen OS, Estonie] (https://citizenos.com/about-us/)
-      - [GEYC, Roumanie] (https://www.geyc.ro/p/about-us.html)
-      - [Associação Check-IN, Portugal] (https://www.checkin.org.pt/en/who-we-are/)
-      - [Afyonkarahisar Sarıkız Kalkındırma Derneği, Turquie](http://www.afsarder.com/)
-      - [Sdruzhenie Alternativi International, Bulgarie](https://alternativibg.org/)
+      - [Citizen OS, Estonia](https://citizenos.com/about-us/)
+      - [GEYC, Romania](https://www.geyc.ro/p/about-us.html)
+      - [Associação Check-IN, Portugal](https://www.checkin.org.pt/en/who-we-are/)
+      - [Afyonkarahisar Sarıkız Kalkındırma Derneği, Turkey](http://www.afsarder.com/)
+      - [Sdruzhenie Alternativi International, Bulgaria](https://alternativibg.org/)
       - [Coconut Luxembourg, Luxembourg](http://thecocoworld.com/)
 
 
-      Les participants doivent être âgés de 18 à 30 ans et avoir au moins un niveau A2 en anglais. Le candidat idéal a un intérêt ou une expérience dans l'initiation ou la participation à des projets d'engagement civique, ou l'implication dans une organisation de jeunesse.
+      Participants must be 18-30 years old and have at least an A2 level in speaking English. The ideal candidate has an interest or experience in initiating or participating in civic engagement projects, or involvement in a youth organisation.
 
-      Si vous souhaitez participer ou simplement en savoir plus sur le programme, veuillez [contacter notre responsable des partenariats et de la communauté, Anett Linno] (mailto:anett@citizenos.com).
+      If you are interested in participating or simply finding out more about the program, please [contact our Partnerships and Community Lead Anett Linno.](mailto:anett@citizenos.com)
 
-      **Ce projet est soutenu par Erasmus+ et l'Agence européenne du corps de solidarité dans le cadre du programme du corps de solidarité européen. [www.euroopanoored.eu](http://euroopanoored.eu).**
+      **This project is supported by Erasmus+ and the European Solidarity Corps Agency from the European Solidarity Corps Programme. [www.euroopanoored.eu](http://euroopanoored.eu).**
   join:
-    title: Chronologie et activités
+    title: Timeline and activities
     #date: 17-25 August 2021, Haapsalu
     #time: Full days
     price:
     deadline:
     how:
     button:
-      title: Postulez maintenant!
+      title: Apply now!
       url: https://docs.google.com/forms/d/e/1FAIpQLSc0rssCy1BA8WgegHqVMp50xCH8m2MiNTflVEZt9n_zmdcueg/viewform
