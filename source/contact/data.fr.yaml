@@ -1,0 +1,29 @@
+---
+path: /nous-contacter
+title: Contact
+description: Citizen OS est une organisation sans but lucratif basée en Estonie, qui a gagné la confiance de groupes d'utilisateurs publics et privés partout dans le monde.
+keywords:
+  - vote électronique
+  - technologie d'engagement
+  - gouvernance ouverte
+image: /images/meta/vision.jpg
+blocks:
+  contact-img:
+    class:
+      - d-none
+      - d-sm-block
+    style:
+      background: 'linear-gradient(180deg, #0EB7FE 0%, #0680FC 100%)'
+      min-height: 75vh
+  contact:
+    #label: About
+    title: |
+      Contact
+    text: |
+      |  |  |
+      | --- | --- |
+      | Contact : | <info@citizenos.com> |
+      | Organisation : | Fondation Citizen OS |
+      | Adresse : | Telliskivi Creative City, Telliskivi 60a/3, Tallinn 10412, Estonie, UE |
+      | Code du Registre : | 90014709 |
+      | Informations sur la TVA : | La fondation Citizen OS n'est pas soumise à la TVA. |
