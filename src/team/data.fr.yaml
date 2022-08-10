@@ -1,99 +1,98 @@
----
-path: /equipe
-title: Équipe
-description: Le courage, l'autodétermination, le désir de changer le monde sont les valeurs de Citizen OS. Si vous souhaitez faire partie de l’équipe, contactez-nous !
+path: /team
+title: Team
+description: Courage, self-determination, desire to change the world is what we value at Citizen OS. If you would like to be a part of the team, contact us!
 keywords:
-  - mouvement social
-  - ong
-  - fondement de la démocratie
+  - social movement
+  - ngo
+  - democracy foundation
 image: /images/meta/home.jpg
 team:
-  -
+  - 
     name: Anett Linno
-    title: PDG et chef de produit
-    text: Avec gentillesse et tendresse, apporte structure et clarté au chaos.
+    title: CEO & Product Manager
+    text: With kind tenderness brings structure and clarity to any chaos.
     avatar: /images/team/anett-avatar.jpg
     picture: /images/team/anett.jpg
     linkedin: https://www.linkedin.com/in/anettlinno/
     twitter: https://twitter.com/twitanett
     email: anett@citizenos.com
-  -
+  - 
     name: Margo Loor
-    title: Cofondateur et techno évangéliste
-    text: Apporte la lumière, la sagesse et donne une vue d'ensemble.
+    title: Co-Founder & Technology Evangelist
+    text: Brings light, wisdom and paints the big picture.
     avatar: /images/team/margo-avatar.jpg
     picture: /images/team/margo.jpg
     linkedin: https://www.linkedin.com/in/margoloor/
     twitter: https://twitter.com/loorm
     email: info@citizenos.com
-  -
+  - 
     name: Agustina Iskandar Crombach
-    title: Responsable du partenariat en Indonésie
-    text: Faiseuse de miracles, protectrice des libertés et collaboratrice en série.
+    title: Partnership Lead in Indonesia
+    text: Creator of miracles, protector of freedom and serial collaborator.
     avatar: /images/team/agustina-avatar.jpg
     picture: /images/team/agustina.jpg
     linkedin: https://www.linkedin.com/in/agustina-iskandar-95a402109/
     email: agustina@citizenos.com
-  -
+  - 
     name: Sara Sinha
-    title: Responsable partenariats et communauté
-    text: Adepte de la gouvernance ouverte.
+    title: Partnership and Community Lead
+    text: Open governance enthusiast.
     avatar: /images/team/sara-avatar.png
     picture: /images/team/sara.png
     linkedin: https://www.linkedin.com/in/sara-sinha-361577146/
     twitter: https://twitter.com/Sarasinha1992
     email: sara@citizenos.com
-  -
+  - 
     name: Ilmar Türk
     title: CTO
-    text: Livraison garantie de code et sourires.
+    text: Guaranteed delivery of code and smiles.
     avatar: /images/team/ilmar-avatar.jpg
     picture: /images/team/ilmar.jpg
     linkedin: https://www.linkedin.com/in/ilmar-t%C3%BCrk-752466125/
     email: ilmar@citizenos.com
-  -
+  - 
     name: Mikk Andresen
-    title: Architecte logiciel
-    text: Construit les choses à partir de rien et maintient notre moral au sommet.
+    title: Software Architect
+    text: Builds stuff out of nothing and keeps our morale at a top height.
     avatar: /images/team/mikk-avatar.jpg
     picture: /images/team/mikk.jpg
     linkedin: https://www.linkedin.com/in/mikkandresen/
     email: mikk@citizenos.com
-  -
+  - 
     name: Kati Vellak
-    title: Avocate
-    text: Nous protège contre les méchants et énergise tout le monde.
+    title: Lawyer
+    text: Protects us from baddies and energizes anyone in sight.
     avatar: /images/team/kati-avatar.jpg
     picture: /images/team/kati.jpg
     linkedin: https://www.linkedin.com/in/kativellak/
     email: kati@citizenos.com
-  -
+  - 
     name: Becca Melhuish
-    title: Conceptrice de communications et rédactrice
-    text: Apporte brillance et éclat à toutes nos comms.
+    title: Communications Designer & Copywriter
+    text: Brings sparkle and shine to all of our comms.
     avatar: /images/team/becca-avatar.jpg
     picture: /images/team/becca.jpg
     linkedin: https://www.linkedin.com/in/beccamelhuish/
     email: becca.melhuish@gmail.com
-  -
+  - 
     name: Leony Chrisanti
-    title: Concepteur pour Citizen OS Indonésie
-    text: Professionnelle et responsable.
+    title: Designer for Citizen OS Indonesia
+    text: Professional and responsible.
     avatar: /images/team/leony-avatar.jpg
     picture: /images/team/leony.jpg
     email: leonychrisanti1789@gmail.com
-  -
+  - 
     name: Tasia Rosalina Tedjo Purnomo
-    title: Responsable des réseaux sociaux pour Citizen OS Indonésie
-    text: Système d'assistance alimenté par la curiosité et les valeurs.
+    title: Social Media Manager for Citizen OS Indonesia
+    text: Support system fuelled with curiosity and values.
     avatar: /images/team/tasia-avatar.jpg
     picture: /images/team/tasia.jpg
     linkedin: https://www.linkedin.com/in/tasia-rosalina
     email: tasia@citizenos.com
-  -
+  - 
     name: Oksana Naidjonova
-    title: Localisation et gestion de site Web
-    text: Se bat pour la justice et nous pousse à nous améliorer chaque jour.
+    title: Localisation & Website Management
+    text: Fights for justice and leads us to become better every day.
     avatar: /images/team/oksana-avatar.jpg
     picture: /images/team/oksana.jpg
     linkedin: https://www.linkedin.com/in/oksananaidjonova/
@@ -101,20 +100,20 @@ team:
     email: oksana@citizenos.com
 other:
   title: |
-    Personnes partageant les mêmes idées
+    Like-minded people
   advisor: |
-    **Conseiller**
+    **Advisor**
 
-    Ahti Heinla - Co-fondateur, CTO chez Starship Technologies.
+    Ahti Heinla - Co-Founder, CTO at Starship Technologies.
   founder: |
-    **Fondateurs**
+    **Founders**
 
     Ahti Heinla, Margo Loor, Let's Do It Foundation
   design: |
     **Designers**
 
-    Plateforme et web design par DUX.ee, designs imprimés par Merike Tamm.
+    Platform and web design by DUX.ee, printed designs by Merike Tamm.
   minds: |
-    **Contributeurs**
+    **Contributors**
 
-    Henri Laupmaa, Liia Hänni, Hille Hinsberg, Eva Truuverk, Kadi Maria Vooglaid, Lennart Rikk. Web construit par Argo Roots avec Entu SSG.
+    Henri Laupmaa, Liia Hänni, Hille Hinsberg, Eva Truuverk, Kadi Maria Vooglaid, Lennart Rikk. Web built by Argo Roots using Entu SSG.
