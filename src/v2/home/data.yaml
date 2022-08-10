@@ -56,41 +56,6 @@ sections:
                     title: Learn more
                     url: ./#
 
-    what-is:
-        type: 3-columns
-        title: What is Citizen OS?
-        text: |
-            It is our mission to empower as many people as possible to participate in respectful, meaningful discussions in order to collaboratively decide in issues that affect their wellbeing
-        columns:
-            platform:
-                title: Platform
-                image: /v2/images/illustrations/platform.svg
-                text: |
-                    To bring democracy closer to the people, we’ve developed an open source participation platform for organisations and communities.
-
-                    On it, you can engage people across different locations and timezones to discuss and decide on the topics that affect their lives and well-being.
-                link:
-                    title: Learn more
-                    url: ./#
-            hub:
-                title: Knowledge Hub
-                image: /v2/images/illustrations/hub.svg
-                text: |
-                    In our Knowledge Hub, you can learn about participatory e-democracy, why democracy is so important  in the age of technology, and how to make it work in your community or organisation.
-
-                    Learn how Citizen OS can help you to be more engaging and participatory.
-                link:
-                    title: Some other link
-                    url: ./#
-            projects:
-                title: Projects
-                image: /v2/images/illustrations/projects.svg
-                text: |
-                    Pariatur sint minim sint ea irure ad dolore. Pariatur sint magna ullamco consequat quis.
-                link:
-                    title: Learn more
-                    url: ./#
-
     connecting:
         type: media
         color: blue
