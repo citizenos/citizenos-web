@@ -1,46 +1,45 @@
----
-path: /et/toeta
-title: Toeta
-description: Toeta Citizen OS-i e-demokraatia platvormi arendamist ja hooldamist
+path: /donate
+title: Donate
+description: Donate towards Citizen OS e-democracy platform development and maintenance
 keywords:
   -
 blocks:
   header:
-    title: Aita meil olla e-demokraatia valdkonna teerajaja ja arendaja
+    title: Help us pioneer and develop the field of e-democracy
   text:
     text: |
-      ## Miks võiksid meid toetada?{ .pt-5 }
+      ## Why help us?{ .pt-5 }
 
-      Citizen OS soovib elada maailmas, kus igaüks saab osaleda lugupidavates aruteludes. Maailmas, kus me saame ühiselt otsuseid teha ning teha oma häält kuuldavaks teemadel, mis mõjutavad otseselt meie enda elu ja heaolu.
+      At Citizen OS, we want to live in a world where everyone can participate in respectful discussions. A world in which we can collectively make decisions—having our voices heard on topics that directly impact our own lives and well-being.
 
-      Meie visiooni elluviimiseks pakume inimestele ja kogukondadele avatud kaasotsustamisplatvormi, et nad saaksid osaleda kohalikes, riiklikes ja isegi ülemaailmsetes aruteludes.
+      To make our vision a reality, we provide an open-source co-decision platform for people and communities to join local, national and even global discussions.
 
-      Korraldame ka erinevaid üritusi - kodanikuhäkatonid, suve- ja talvekoolid, demokraatiafestivalid ja palju muud. Me teeme koostööd paljude suurepäraste, sarnaselt mõtlevate organisatsioonidega, et toetada kodanikuaktiivsuse algatusi kogu maailmas.
+      We also run civic hackathons, summer and winter schools, democracy festivals and more. We partner with an array of awesome, like-minded organisations to support civic engagement initiatives around the world.
 
-      Kõik, mida me teeme, teeme inimeste ja kogukondade heaks. Me usume, et demokraatia ja kodanikuosalus peaksid olema kättesaadavad kõigile ja kõikjal.
+      Everything we do, we do it for people and communities. We believe that democracy and civic participation should be accessible to everyone, everywhere.
 
-      ## Kuidas kasutame sinu annetust?{ .pt-5 }
+      ## How will your donation be used?{ .pt-5 }
 
-      Me suuname kõik panused platvormi arendamisse ja hooldusse, rahastades nii inimesi kui ka selle aluseks olevat tehnoloogiat ning tagades, et meie avatud lähtekoodiga Citizen OS platvorm on kõigile vabalt kättesaadav.
+      We will put all contributions towards platform development and maintenance—funding both the people and technology underpinning it, and making sure our Citizen OS open-source platform is freely available to everyone.
 
-      **Kahjuks ei saa käesoleval hetkel su annetust tulumaksust maha arvata, kuna Citizen OS ei ole veel kantud tulumaksusoodustusi saavate mittetulundusühingute nimekirja, mis oleks kinnitatud Maksu- ja Tolliameti otsusega. Praegu töötame selle kallal ja loodetavasti saame peagi teada anda, et olukord on muutunud.*
+      **Unfortunately, currently your kind donation cannot be deducted from your income tax as Citizen OS has not yet entered the list of non-profit foundations benefiting from income tax incentives approved by a resolution of the Estonian Tax and Customs Board. We are currently working on it and hopefully soon enough can let you know that the situation has changed.*
   how:
-    title: Võimalused toetamiseks
+    title: How can you donate?
     bank: |
-      **Pangaülekanne**
+      **Bank transfer**
 
-      #### Konto omanik
+      #### Account holder
       Citizen OS Foundation
 
-      #### Konto nr
+      #### Account No
       EE887700771003693989
 
-      #### Pank
+      #### Bank
       AS LHV Pank
       Tartu mnt 2, 10145 Tallinn
 
       #### BIC/SWIFT
       LHVBEE22
 
-      #### Pangakood
+      #### Bank code
       689
