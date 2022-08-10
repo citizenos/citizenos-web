@@ -1,0 +1,120 @@
+---
+path: /meeskond
+title: Meeskond
+description: Julgus, pealehakkamine, soov ise maailma muuta - Citizen OS. Kui soovid olla osa meie ühiskonda muutusi loovast meeskonnast, võta ühendust!
+keywords:
+  - sotsiaalne liikumine
+  - mtü
+  - demokraatia sihtastus
+image: /images/meta/home.jpg
+team:
+  - 
+    name: Anett Linno
+    title: Tegevjuht & tootejuht
+    text: Loob õrna käega mistahes kaosest struktureeritud ja selge pildi.
+    avatar: /images/team/anett-avatar.jpg
+    picture: /images/team/anett.jpg
+    linkedin: https://www.linkedin.com/in/anettlinno/
+    twitter: https://twitter.com/twitanett
+    email: anett@citizenos.com
+  - 
+    name: Margo Loor
+    title: Kaasasutaja & tehnoloogia evangelist
+    text: Toob valgust ja tarkust ning maalib asjadest suure pildi.
+    avatar: /images/team/margo-avatar.jpg
+    picture: /images/team/margo.jpg
+    linkedin: https://www.linkedin.com/in/margoloor/
+    twitter: https://twitter.com/loorm
+    email: info@citizenos.com
+  - 
+    name: Agustina Iskandar Crombach
+    title: Partnerluse juht Indoneesias
+    text: Imede tegija, vabaduse kaitsja ning koostöö fänn.
+    avatar: /images/team/agustina-avatar.jpg
+    picture: /images/team/agustina.jpg
+    linkedin: https://www.linkedin.com/in/agustina-iskandar-95a402109/
+    email: agustina@citizenos.com
+  - 
+    name: Sara Sinha
+    title: Partnersuhete ja kogukonna juht
+    text: Avatud juhtimise entusiast.
+    avatar: /images/team/sara-avatar.png
+    picture: /images/team/sara.png
+    linkedin: https://www.linkedin.com/in/sara-sinha-361577146/
+    twitter: https://twitter.com/Sarasinha1992
+    email: sara@citizenos.com
+  - 
+    name: Ilmar Türk
+    title: CTO
+    text: Loob alati õigeks ajaks vajaliku koodi, koos naeratusega.
+    avatar: /images/team/ilmar-avatar.jpg
+    picture: /images/team/ilmar.jpg
+    linkedin: https://www.linkedin.com/in/ilmar-t%C3%BCrk-752466125/
+    email: ilmar@citizenos.com
+  - 
+    name: Mikk Andresen
+    title: Tarkvara arhitekt
+    text: Loob mitte millestki midagi ja hoiab meie moraali kõrgel.
+    avatar: /images/team/mikk-avatar.jpg
+    picture: /images/team/mikk.jpg
+    linkedin: https://www.linkedin.com/in/mikkandresen/
+    email: mikk@citizenos.com
+  - 
+    name: Kati Vellak
+    title: Jurist
+    text: Kaitseb meid pahalaste eest ja annab energiat kõigile, kes tema teele jäävad.
+    avatar: /images/team/kati-avatar.jpg
+    picture: /images/team/kati.jpg
+    linkedin: https://www.linkedin.com/in/kativellak/
+    email: kati@citizenos.com
+  - 
+    name: Becca Melhuish
+    title: Kommunikatsioonidisainer ja reklaamtekstide koostaja
+    text: Lisab särtsu kõigisse meie turundussõnumitesse.
+    avatar: /images/team/becca-avatar.jpg
+    picture: /images/team/becca.jpg
+    linkedin: https://www.linkedin.com/in/beccamelhuish/
+    email: becca.melhuish@gmail.com
+  - 
+    name: Leony Chrisanti
+    title: Citizen OS Indoneesia disainer
+    text: Professionaalne ja vastutustundlik.
+    avatar: /images/team/leony-avatar.jpg
+    picture: /images/team/leony.jpg
+    email: leonychrisanti1789@gmail.com
+  - 
+    name: Tasia Rosalina Tedjo Purnomo
+    title: Citizen OS Indoneesia sotsiaalmeedia toimetaja
+    text: Uudishimu ja väärtusi täis tugijõud.
+    avatar: /images/team/tasia-avatar.jpg
+    picture: /images/team/tasia.jpg
+    linkedin: https://www.linkedin.com/in/tasia-rosalina
+    email: tasia@citizenos.com
+  - 
+    name: Oksana Naidjonova
+    title: Lokaliseerimine ja veebihaldus
+    text: Võitleb õigluse eest ja aitab meil iga päev paremaks muutuda.
+    avatar: /images/team/oksana-avatar.jpg
+    picture: /images/team/oksana.jpg
+    linkedin: https://www.linkedin.com/in/oksananaidjonova/
+    twitter: https://twitter.com/oksks
+    email: oksana@citizenos.com
+other:
+  title: |
+    Sarnaselt mõtlevad inimesed
+  advisor: |
+    **Nõustaja**
+
+    Ahti Heinla - kaasasasutaja, tehnikajuht ettevõttes Starship Technologies.
+  founder: |
+    **Asutajad**
+
+    Ahti Heinla, Margo Loor, Teeme Ära Sihtasutus
+  design: |
+    **Kujundajad**
+
+    Platvorm ja veeb: DUX.ee, trükised: Merike Tamm.
+  minds: |
+    **Toetajad**
+
+    Henri Laupmaa, Liia Hänni, Hille Hinsberg, Eva Truuverk, Kadi Maria Vooglaid, Lennart Rikk. Veebilehe ehitas Argo Roots Entu SSG baasil.
