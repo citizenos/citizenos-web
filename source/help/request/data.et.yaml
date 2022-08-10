@@ -1,0 +1,17 @@
+---
+path: /et/abi/abipalve/
+data:
+  help: /help/data.et.yaml
+title: Küsi abi
+text: Kui meie abikeskus ei suutnud sind aidata, siis anna palun meile teada, millise probleemiga sa silmitsi seisad ning me võtame sinuga ühendust.
+form:
+  title: Mida sa püüad teha?
+  message: Kirjuta siia...
+  email: E-mail address
+  submit: Saada
+  success: |
+    **Sinu abipalve on saadetud!**
+    Suur tänu sõnumi eest. Võtame sinuga ühendust niipea kui võimalik.
+  successBack:
+    title: Tagasi abikeskuse avalehele
+    url: /et/abi
