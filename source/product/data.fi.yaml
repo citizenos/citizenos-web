@@ -1,0 +1,207 @@
+---
+path: /tuote
+title: Tuote
+description: Maksuton keskustelu- ja äänestysalusta. Käytä yksityisissä ryhmissä tai julkisesti. Allekirjoita digitaalisesti Virossa!
+keywords:
+  - yhtiökokous
+  - verkkokokous
+  - keskustelu
+image: /images/meta/product.jpg
+blocks:
+  decision-img:
+    class:
+      - order-1
+    style:
+      background-color: '#FFF1AD'
+      background-image: url(/images/product-start.png), url(/images/bubble-dots.png), url(/images/bubble-orange.svg)
+      background-position: center center, 0% 20%, 70% 10%
+      background-size: 500px 500px, 350px 350px, 100px 100px
+  #text: |
+  #[► Play demo](#demo){.btn .btn-primary data-toggle=modal data-target=#demo}
+  #video:
+  #id: demo
+  #url: 'https://www.youtube.com/embed/UC44qCCIixE?rel=0&showinfo=0&modestbranding=1&autoplay=1&cc_load_policy=1&cc_lang_pref=en'
+  decision:
+    class:
+      - order-0
+      - py-5
+    style:
+      background-color: '#FFF1AD'
+      background-image: url(/images/bubble-turquoise.svg), url(/images/bubble-yellow.svg)
+      background-position: 10% 5%, 90% 90%
+      background-size: 75px 75px, 65px 65px
+    title: |
+      Käytä organisaatiosi sisällä tai kansalaisosallistumishankkeisiin.
+    text: |
+      Keskustele ja äänestä turvallisesti. Käytä yksityisissä ryhmissä tai julkisesti. Allekirjoita digitaalisesti Virossa.
+
+      – [Toiminnot](#joustavaformaatti)
+      – [Ominaisuudet](#ominaisuudet)
+      – [Tapaustutkimukset](#tapaustutkimus-2)
+      – [Tilastot](#tilastot)
+      { .arrow }
+    button1st:
+      title: Toista demo
+      url: 'https://www.youtube.com/embed/UC44qCCIixE?rel=0&showinfo=0&modestbranding=1&autoplay=1&cc_load_policy=1&cc_lang_pref=fi'
+  #title: Sign up for news
+  #url: '#subscribe'
+  flexibleformat:
+    class:
+      - order-2
+      - text-center
+      - py-5
+    style:
+      background: '#F7F7F7'
+      background-image: url(/images/pattern.svg)
+      background-size: 38px 42px
+    #label: A flexible format
+    title: |
+      Mihin Citizen OS:ää voi käyttää?
+    text: |
+      { #flexibleformat-items }
+    blocks:
+      petitions:
+        poster: /images/flexibleformat-petitions.png
+        title: Äänestäminen
+        text: |
+          Tee demokraattisia päätöksiä räätälöidyillä äänestyksillä. Sopii täydellisesti e-demokratia-aloitteisiin.
+      onlinemeetings:
+        poster: /images/flexibleformat-onlinemeetings.png
+        title: Keskustelut
+        text: |
+          Nauti rationaalisista ja tasapainoisista ryhmäkeskusteluista, joissa voi punnita argumentteja puolesta ja vastaan.
+      gatheringideas:
+        poster: /images/flexibleformat-gatheringideas.png
+        title: Ideoiden joukkoistaminen
+        text: |
+          Laajenna osallistujamäärää. Sopii täydellisesti kansalaisosallistumisprojekteihin.
+      widget:
+        poster: /images/flexibleformat-widget.png
+        title: Päätösten seuranta
+        text: |
+          Pidä osallistujat ajan tasalla yhteispäätöksen pohjalta tehdyistä toimista.
+  features-img:
+    class:
+      - order-3
+    style:
+      background-color: '#F7F7F7'
+      #background-image: url(/images/bubble-orange.svg), url(/images/bubble-dots.png)
+      background-position: 100% 15%, 90% 15%
+      background-size: 165px 165px, 350px 350px
+    text: |
+      ![A female member of Citizen OS staff attending an event to answer questions about the platform.](/images/product-features.jpg){ .img-fluid .box-shadow }
+  features:
+    class:
+      - order-4
+    style:
+      background: '#F7F7F7'
+    #label: Features
+    title: |
+      Ominaisuudet
+    text: |
+      – Tasapainoiset keskustelut
+      – Yksityiset tai julkiset keskustelut
+      – Yksityiset ryhmät
+      { .bullet }
+
+      – Anonyymi äänestys määräaikoineen
+      – Lisä-äänestysominaisuuksia, kuten delegointi
+      – Käytettävissä e-ID-toiminnolla Virossa
+      { .bullet }
+
+      – Käyttö on maksutonta – saat tukea [lähettämällä meille sähköpostia](mailto:support@citizenos.com)
+      – Käyttövalmis alusta – kirjaudu vain sisään ja aloita
+      – Saatavilla jo 16 eri kielellä
+      { .bullet }
+    button1st:
+      title: Täysi luettelo ominaisuuksista
+      url: '/fi/product/features/'
+  #options:
+  #class:
+  #- order-5
+  #- col-sm-12
+  #- text-center
+  #style:
+  #background: '#AAF3DD'
+  #label: Products
+  #title: |
+  #How can I use Citizen OS?
+  #blocks:
+  #app:
+  #title: Use on our website
+  #text: |
+  #Currently in 13 languages.
+  #subtext: Free
+  #button:
+  #title: Use product
+  #url: https://app.citizenos.com
+  #target: _blank
+  #consult:
+  #title: Set up own server
+  #text: |
+  #Download the code and contact us if you need help with consulting.
+  #subtext: Free open-source code
+  #button:
+  #title: Download
+  #url: https://github.com/citizenos/citizenos-web
+  case-study-2-img:
+    class:
+      - order-6
+    text: |
+      ![A screenshot of the Citizen OS platform being used for participatory democracy.](/images/product-case-study-2.jpg){ .img-fluid .box-shadow }
+  case-study-2:
+    class:
+      - order-5
+    style:
+      background-image: url(/images/bubble-blue.svg)
+      background-position: 80% 5%
+      background-size: 122px 122px
+    label: Tapaustutkimus
+    title: |
+      Viron kansalaisaloitealusta.
+    text: |
+      Citizen OS:n avointa lähdekoodia käytettiin osittain [Rahvaalgatus.ee](https://www.rahvaalgatus.ee) -kansalaisaloitesivuston luomisessa. Sivustossa voi luoda ja allekirjoittaa kansalaisaloitteita, jotka toimitetaan suoraan Viron parlamentille.
+  case-study-img:
+    class:
+      - order-7
+      - order-sm-7
+    text: |
+      ![Many indonesians smiling, wearing World Cleanup Day shirts, walking on a beach, carrying bags full of plastic garbage.](/images/product-case-study.jpeg){ .img-fluid .box-shadow }
+  case-study:
+    class:
+      - order-8
+      - order-sm-8
+    style:
+      background-image: url(/images/bubble-orange.svg), url(/images/bubble-yellow.svg)
+      background-position: 10% 5%, 90% 90%
+      background-size: 85px 85px, 55px 55px
+    label: Tapaustutkimus
+    title: |
+      Vihreämmän Indonesian puolesta.
+    text: |
+      Kansanliike Let’s Do It Indonesia työskentelee vihreämmän tulevaisuuden puolesta [34 Islands Project](https://citizenos.com/news/turning-citizen-ideas-into-action-on-waste-bintan-indonesia/) -projektin avulla.
+
+      Paikalliset ihmiset voivat lähettää Citizen OS -alustan avulla kestäviä jätteenkäsittelyideoita ja äänestää suosikki-ideoitaan.
+  stats:
+    class:
+      - order-9
+      - text-center
+      - py-5
+    style:
+      background: '#F7F7F7'
+      background-image: url(/images/pattern.svg)
+      background-size: 38px 42px
+    title: |
+      Vaikutuksemme kasvaa jatkuvasti.
+    button1st:
+      title: Rekisteröidy vastaanottaaksesi uutisia
+      url: '#subscribe'
+    blocks:
+      topicsCreated:
+        title: keskusteluja
+      votesCast:
+        title: äänestyksiä
+      groupsCreated:
+        title: ryhmiä
+      usersCreated:
+        title: käyttäjiä
