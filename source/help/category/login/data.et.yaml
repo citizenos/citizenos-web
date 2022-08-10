@@ -1,0 +1,132 @@
+---
+multipage: true
+troubleshooting-no-permission-to-access:
+  path: /et/abi/sisselogimine/kui-ligipaas-ei-toimi
+  data:
+    category: /help/category/data.en.yaml
+    help: /help/data.et.yaml
+  title: Troubleshooting “no permission to access”
+  text: |
+    **Private topics and groups can only be accessed using a Citizen OS account which is registered with the same email address to which the original invitation was sent.**
+
+    Follow these two key steps for topic/group access:
+    1. **Click on the link in the invitation email** you received for joining the group or topic.
+    1. **Login or register using the same email address the invitation was sent to**, according to either of the two scenarios below:
+        - **If you already have a Citizen OS account registered with the email address** your invitation was sent to, log in using that account.
+        *OR*
+        - **If you do not yet have a Citizen OS account registered with the email address** your invitation was sent to, register a new one with the correct address.
+
+    A few additional tips:
+    - **If you are logging in with a social login such as Google or Facebook**, this will only work if your social media account is registered with the same email address as the one with which you were invited to the group or topic.
+    - **The option to log in with your ID-card/Mobile ID** (applicable to Estonian ID-cards) will only appear if you have previously created a Citizen OS account with the email address to which the invitation was sent, and have previously digitally signed at least one document through that account. If this is not the case, you will need to log in using your email address instead.
+    - **If you are unsure what email address your Citizen OS account is registered with**, or to which account you are currently logged in, you can check this in “My Account” next to your profile avatar in the main menu.
+
+    ## Related content{.mt-5}
+    - [Switching between accounts](/help/login/switching-accounts)
+    { .list-arrow .list-unstyled }
+switching-accounts:
+  path: /et/abi/sisselogimine/kontode-vahetamine
+  data:
+    category: /help/category/data.en.yaml
+    help: /help/data.et.yaml
+  title: Switching accounts
+  text: |
+    There is no dedicated feature for switching accounts on our platform. To switch to a different Citizen OS account manually, you can:
+    - Click “Log out” at the bottom of the main menu
+    - Log back in using the relevant login details
+
+    If you are unsure which account you are currently logged in to, you can check this in “My Account” next to your profile avatar. This will show you which email address the account is linked to here.
+
+    See [Troubleshooting “no permission to access”](/help/login/troubleshooting-no-permission-to-access) for details on why the email address linked to the account you are logged into affects which topics and votes you are able to access.
+### Related content{.mt-5}
+#- [Troubleshooting “no permission to access”](/help/login/troubleshooting-no-permission-to-access)
+#{ .list-arrow .list-unstyled }
+#logging-in-using-e-id-estonia-only:
+#path: /help/login/logging-in-using-e-id-estonia-only
+#data:
+#category: /help/category/data.en.yaml
+#help: /help/data.en.yaml
+#title: Logging in using e-ID (Estonia only)
+#text: |
+#The option to log in with your ID-card/Mobile ID (applicable to Estonian ID-cards) will only appear if:
+#- You have previously created a Citizen OS account using the email address to which the relevant invitation email was sent. (I.e. the invitation to the group or topic you are trying to access when wanting to log in with your e-ID).
+#*AND*
+#- You have previously digitally signed at least one document through that account.
+#Once both of the above have happened, you can log in using your Estonian ID card by selecting the relevant button on the login screen and following the instructions.
+## Related content{.mt-5}
+#- How to vote using a digital signature (Estonia only)
+#{ .list-arrow .list-unstyled }
+creating-an-account:
+  path: /help/login/creating-an-account
+  data:
+    category: /help/category/data.en.yaml
+    help: /help/data.en.yaml
+  title: Creating an account
+  text: |
+    There are various ways to create a Citizen OS account, depending on your preference.
+
+    **Email and password**
+
+    You can create an account using your email address and a password of your choice. To do this, select “No account? Sign up now” on the login pop-up window.
+
+    **Social login**
+
+    You can create an account by logging in using any of the following social login options. The first time you do so, your Citizen OS account will automatically be created.
+
+    - Log in with Facebook
+    - Log in with Google
+
+    The email address connected to this Citizen OS account will be the email address you use for your Google or Facebook account. This is the email address you will receive topic/group invitations and notifications to.
+
+    **E-ID login (Estonia only)**
+
+    - Log in with ID Card / Mobiil-ID
+    - Log in with Smart-ID
+
+    When creating a Citizen OS account by logging in with e-ID you will be asked to provide an email address. This is the email address you will receive topic/group invitations and notifications to.
+
+    **Please note:**
+
+    See [“Troubleshooting “no permission to access”](/help/login/troubleshooting-no-permission-to-access) for details on why the email address linked to the account you are logged into affects which topics and votes you are able to access.
+
+    ## Related content{.mt-5}
+    - [Troubleshooting “no permission to access”](/help/login/troubleshooting-no-permission-to-access)
+    { .list-arrow .list-unstyled }
+logging-in-using-e-id-estonia-only:
+  path: /help/login/logging-in-using-e-id-estonia-only
+  data:
+    category: /help/category/data.en.yaml
+    help: /help/data.en.yaml
+  title: Logging in using e-ID (Estonia only)
+  text: |
+    It is possible to log in to Citizen OS using Estonian e-ID, Mobile-ID and Smart-ID.  (Note: you do not need to log in with e-ID in order [to vote with e-ID](/help/voting/how-to-vote-using-a-digital-signature), they are two separate actions).
+
+    **In order to log in using Estonian e-ID, your account must have previously been linked to your e-ID.**
+
+    Accounts can be linked to e-ID in two ways:
+
+    - If you **logged in with e-ID when first registering** your Citizen OS account. Only one Citizen OS account can be linked to your e-ID through this method. (Note: when registering using e-ID you will be prompted to provide an email address to which the account will be connected).
+    - If you **previously voted using e-ID**, the Citizen OS account through which you voted will now be linked to your e-ID. Multiple accounts (i.e. various Citizen OS accounts connected to various different email addresses) can be linked to your e-ID through this method.
+
+    **Logging in to multiple accounts:**
+
+    It is possible to log in to various different Citizen OS accounts using the same e-ID, as long as they have previously been connected to your e-ID, as outlined above.
+
+    Please note:
+
+    - **If logging in directly from the Citizen OS Home screen** (i.e. navigating straight to the platform when logging in), e-ID login will take you to **whichever account you first connected to your e-ID.**
+
+    - **If following a topic invitation email link** (from a notification email), e-ID login will take you to **the account linked to the email address to which the invitation was sent.**
+
+    - **If you try to log in to an account which has not previously been linked to your e-ID**, e-ID login will display an error message, and you will need to log in using your password or social login.
+
+    If, after following the above instructions, you are still having problems logging in with e-ID, please refer to the Estonian ID-card [“Failed log in and sign in”](https://www.id.ee/en/article/failed-to-log-in-or-sign-in-e-services-with-an-id-card/) helpline page.
+
+    ## Related content{.mt-5}
+    - [How to vote using a digital signature](/help/voting/how-to-vote-using-a-digital-signature)
+    - [Setting up digital signature voting (for topic admins, Estonia only)](/help/voting/setting-up-digital-signature-voting-for-topic-admins-estonia-only)
+    - [Troubleshooting "no permission to access"](/help/login/troubleshooting-no-permission-to-access)
+
+
+    { .list-arrow .list-unstyled }
+
