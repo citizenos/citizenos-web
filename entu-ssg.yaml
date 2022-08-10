@@ -7,9 +7,9 @@ locales:
     - id
 defaultLocale: en
 
-source: ./src
-js: ./src/_scripts
-styl: ./src/_styles
+source: ./source
+js: ./source/_scripts
+styl: ./source/_styles
 build: ./dist
 
 server:
