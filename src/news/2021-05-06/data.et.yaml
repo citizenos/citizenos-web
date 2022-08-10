@@ -1,94 +1,99 @@
----
-path: /uudised/pare-yldkoosolekud-on-nyyd-virtuaalsed
-title: Intervjuu—PARE üldkoosolekud on nüüd virtuaalsed.
-description: Loe lähemalt, kuidas Eesti Personalijuhtimise Ühing (PARE) muutis Citizen OS platvormi abil oma üldkoosoleku virtuaalseks ja kogus digiallkirjastatud hääli.
+path: /news/pare-general-meeting-goes-online
+title: Interview—PARE General Meeting goes online.
+description: Find out how Estonia’s PARE Union moved their general meeting online with the help of the Citizen OS platform.
 image: /images/news/pare-ceo.jpg
 author: Becca Melhuish
 date: 2021-05-06
 text: |
-  *Loe lähemalt, kuidas Eesti Personalijuhtimise Ühing (PARE) muutis Citizen OS platvormi abil oma üldkoosoleku virtuaalseks ning kogus digiallkirjastatud hääli. Lisaks jagab meie Partnersuhete juht Anett Linno nelja tegevust, mis on olulised uue tööriista juurutamisel organisatsioonis.*
+  *Find out how Estonia’s PARE Union moved their general meeting online with the help of the Citizen OS platform. Plus, four top tips on rolling out a new tool in an organisation, thanks to the experience of our Partnership’s lead, Anett Linno.*
 
-  ![PARE eestvedajad naeratavad ja näitavad pöial püsti märki.](/images/news/pare-general-meeting-goes-online.png)
+  ![PARE leaders smiling and holding their thumbs up](/images/news/pare-general-meeting-goes-online.png)
 
-  PARE eestvedajad.{ .text-muted }
+  PARE leaders.{ .text-muted }
 
-  **Miks te otsustasite Citizen OS platvormi PARE-s kasutusele võtta?**
+  When faced with the problem of how to hold their General Meeting in the midst of a pandemic, the Estonian Resource Management Union, [PARE](https://pare.ee/), turned to Citizen OS for solutions.
+
+  Happy to oblige, we supported them through the process of rolling out our Citizen OS co-decision platform across the organisation, holding their meeting and collecting digitally-signed votes. These digital signatures—one feature of Estonia’s advanced system of e-governance—help the Union to meet [new legal requirements](https://heakodanik.ee/uudised/puust-ja-punaseks-kuidas-edaspidi-uldkoosolekuid-korraldada/) for online meetings in the country.
+
+  Here, we talk to Kärt Kinnas, CEO at PARE, who gave us a step-by-step account of how it went, and hear from our Partnerships Lead, [Anett Linno](mailto:info@citizenos.com), on four key ingredients for the smooth adoption of a new tool in an organisation.
+
+  { #three-dots }
+
+  **Tell us a bit about how the decision to use the Citizen OS platform came about?**
   { .pt-5}
 
-  PARE tegevjuht Kärt Kinnas: “Viimane aasta on sundinud meid kõiki koroonapandeemia tõttu tegema asju harjumuspärasest erineval moel, juurde õppima uusi viise tegutsemiseks ning kolima mitmeid tegevusi digitaalkeskkonda. Otsustasime juba kevadel 2020, et sügisene üldkoosolek tuleb korraldada digitaalselt.
+  Like in most organisations, the COVID-19 pandemic has forced us to do things differently—learning new ways of working and moving many of our activities online. We decided in Spring that our Autumn General Meeting would have to be held digitally this year.
 
-  **Lisaks tavapärasele aastaaruandele ja eelarvele oli vaja muuta ka põhikirja ja valida uus juhatus—mistõttu oli hädavajalik, et lahendus võimaldaks digiallkirjastatud hääletamist. Samuti oli tingimus, et hääletusprotsess oleks lihtne ja arusaadav nii meile, korraldajatele, kui ka koosolekul osalejatele.**
+  **In addition to the usual annual report and budget, we also needed to amend our Articles of Association and elect a new board—so it was absolutely necessary that any solution include digitally-signed voting, due to the new laws for e-meetings in Estonia. We also wanted the voting process to be simple and understandable, for both us as organisers as well as the meeting participants.**
   { .text-center }
 
-  Seda kõike Citizen OS võimaldas. Võtsime ühendust Citizen OS-i meeskonnaga, kes tegi lühikoolituse, kuidas keskkonda kasutada ning oli toeks igas etapis.”
+  We discovered that all of this was possible with the Citizen OS platform. So we contacted Anett from the Citizen OS team, who offered to provide training on how to use the environment and to support us at each stage of the process.
 
-  { #three-dots }
-
-  **Kuidas selline digitaliseerimine võiks PARE’le muul moel kasulik olla—peale pandeemia tekitatud probleemi lahendamise?**
+  **Did you have any thoughts on how this might benefit your organisation in other ways – other than solving the problem posed by the pandemic?**
   { .pt-5}
 
-  “Lootsime, et uuenduslik lahendus tekitab organisatsioonis uudishimu uute tööriistade proovimiseks ja annab kõigile võimaluse materjalidega tutvumiseks ja hääletamiseks neile sobival ajal—muutes protsessi hõlpsamaks.
+  All in all, we were hoping that this innovative solution would bring curiosity to try new tools in our organisation, and also give everyone an opportunity to get acquainted with the materials and cast their votes at a time that suits them—making the process more convenient.
 
-  **Kuid mis kõige olulisem, lootsime, et see annab meile võimaluse kaasata otsuste tegemisse võimalikult palju liikmeid. Ja täpselt nii juhtuski! Sellel üldkoosolekul oli rekordarv hääletajaid—rohkem, kui kunagi varem.”**
+  **But most importantly, we hoped it would give us the opportunity to involve as many members as possible in decision-making. Which is exactly what happened! A record number of voters attended this general meeting—more than ever before.**
   { .text-center }
 
-  { #three-dots }
-
-  **Kuidas te üldkoosolekut ette valmistasite?**
+  **Brilliant. Could you talk us through your preparations for the meeting?**
   { .pt-5}
 
-  Kui olime koosoleku materjalid valmis saanud, lõin platvormil privaatse grupi, kuhu lisasin kõik koosolekul osalejate e-posti aadressid. Seejärel lõin iga päevakorrapunkti jaoks teema, kuhu olid manusena lisatud asjakohased materjalid ja selgitav tekst.
+  Once we had produced all the materials for the meeting, I created a group on the platform and added all the email addresses of the meeting participants. This was nice and easy to do—adding them all in one go. I then created a topic for each agenda item, with the relevant materials and explanatory text included in each.
 
-  Tahtsime anda liikmetele võimaluse materjalidega varem tutvuda ning arutelus osaleda juba enne üldkoosolekut, seega saatsin kaks nädalat varem kõigile liikmetele Citizen OS platvormi kasutusjuhendi ja lingi, kust nad teema leidsid.
+  We wanted to be able to give the members a chance to review the materials nice and early, and to create some discussion on the platform in advance of the meeting. So two weeks before the meeting I sent all our members the Citizen OS user guide and a link to the platform, where they would find the topics.
 
-  ![PARE juhised koosolekul osalejatele.](/images/news/pare-union-step-by-step-est.png)
+  ![PARE’s step-by-step guidelines for meeting participants.](/images/news/how-to-carry-out-general-meeting-using-cos.png)
 
-  PARE juhised koosolekul osalejatele.{ .text-muted }
+  PARE’s step-by-step guidelines for meeting participants.{ .text-muted }
 
-  Seadistasime hääletuse nii, et liikmetel oli võimalik kohe oma hääl anda. Soovitasime platvormi ja hääletusprotsessiga tutvuda enne koosoleku toimumist, et vältida tehnilisi probleeme üldkoosoleku toimumise päeval.
+  We had set it up so that it would be possible for members to vote right from the start. We encouraged members to go on and familiarise themselves with the platform and voting process in advance of the meeting, to avoid any technical difficulties on the day.
 
-  **Olime rahul, et suutsime koosoleku eel arutelu tekitada. Hea ettevalmistus võimaldas e-koosolekut sujuvalt ja tõhusalt läbi viia.”**
+  **We were pleased that we’d been able to get a discussion started in the lead-up to the meeting. Our good preparation made it possible to conduct the e-meeting smoothly and efficiently.**
   { .text-center }
 
-  { #three-dots }
-
-  **Kuidas läksid üldkoosoleku toimumise päev ja hääletus koosoleku ajal?**
+  **Great to hear. So how did it go on the day then—the voting during the meeting itself?**
   { .pt-5}
 
-  “Koosolekut pidasime Zoom keskkonnas ning inimesed said samal ajal Citizen OS platvormile sisse logida ja hääletada. Selleks ajaks, kui üldkoosolek algas, oli suur osa PARE liikmetest oma hääle juba andnud.  Koosoleku ajal toimusid arutelud hääletusel olevate teemade üle ning Citizen OS võimaldas oma häält enne hääletamise lõppu ka muuta, juhul kui arutelu otsust mõjutas.
+  We held the meeting on Zoom, but people could access the platform and cast their votes at the same time. Though actually by the time the general meeting started, most of the members had already cast their votes. But the system allows members to change their votes at any point before the deadline, in case their decision was swayed by the discussion.
 
-  Mulle meeldis see, et hääletamine oli anonüümne ja hääletustulemused nähtavad alles siis, kui hääletus oli lõppenud. Seega ei tekkinud küsimust, kas kedagi mõjutasid juba antud hääled.
+  One positive thing was that voting is anonymous, and the results of the votes weren’t visible until the voting had closed. So there was no question of people being influenced by votes already cast.
 
-  Sulgesin hääletamise kohe peale koosolekut ning pärast mõne e-posti teel saadetud hääle lisamist, saime hääletustulemused koheselt teatavaks teha ja ei pidanudki ise hääli üle lugema! Hea ettevalmistus ja  koosoleku eelsed arutelud aitasid meil aega kokku hoida, mistõttu sujus kogu koosolek tõhusalt.
-
-  **Meie liikmed tunnustasid meid probleemile uuendusliku lahenduse leidmise eest ja nüüd oskame Citizen OS platvormi soovitada ka teistele MTÜdele ja erialiitudele.**
+  **I closed the voting right after the meeting, and after adding a few votes that had been sent by email we were then able to announce the voting results immediately after—no need for manual counting! We also saved time on the meeting itself, as due to our good preparation and the pre-meeting discussions online, we were able to run through it all quite efficiently.**
   { .text-center }
 
-  Virtuaalsed ja hübriidkoosolekud on uus normaalsus ning kui kasutada selleks loodud e-keskkondasid, on asünkroonseid koosolekuid üsna lihtne korraldada. Aitäh Citizen OSi tiimile!”
+  **Thanks so much for sharing that with us. Any parting words?**
+  { .pt-5}
 
-  { #three-dots }
+  It was great to have members of the Citizen OS team on hand during the meeting itself, just in case a participant had a technical problem and needed help. And in general, I felt at ease implementing this new process thanks to the constant support from Citizen OS throughout, and their willingness to find solutions to any problems.
 
-  Vestlesime ka meie Partnersuhete juhi, Anett Linnoga, et ta oma mõtteid koostööprotsessist jagaks. Anetti sõnul on PARE ja Citizen OS-i omavaheline koostöö hea näide sellest, kuidas uut tööriista rakendada:
 
-  **„Iga uue tehnoloogia kasutuselevõtt organisatsioonis nõuab teatavat planeerimist ja ettevalmistust ning Citizen OS ei ole siinkohal erand. Aastate jooksul oleme aru saanud, et edukus sõltub suuresti sellest, kui hästi on organisatsiooni poolt korraldatud platvormi kasutusele võtmise protsess ning PARE tegi seda väga edukalt.”**
+  **We received recognition from our members for finding an innovative solution to the problem, and we can now happily recommend it to other NGOs and professional associations.**
   { .text-center }
 
-  { #three-dots }
-
-  Mida peaks meeles pidama, et kõik sujuks?
-
-  1. **Mis probleemi uus tööriist lahendab?** Enne uue tööriista kasutuselevõtmist on oluline läbi mõelda, mis tööd see aitab ära teha. Näiteks juhtimistööriistana lahendab Citizen OS probleemi, kus erinevatel põhjustel ei ole inimestel võimalik ühise laua taga olla, et arutelusid pidada ja otsuseid vastu võtta. Selle jaoks annab tööriist võimaluse ühisloomes dokumente koostada, pidada asünkroonseid koosolekuid ja kaasata arutelu- ja otsustusprotsessi ka neid organisatsiooni liikmeid, kes elavad teises linnas või riigis.
-
-  2. **Kuidas uus tööriist sobib olemasolevasse protsessi?** Citizen OS platvorm võiks olla ettevõtte otsusetegemise protsessi osa. Analüüsida tuleks, missugune on organisatsiooni olemasolev otsustusprotsess, mida tahetakse muuta ning kus selles protsessis asub uus tööriist.
-
-  3. **Kuidas uut tehnoloogiat organisatsioonis juurutama hakata?** Selleks, et uus tööriist saaks edukalt juurutatud, tuleb selle kasutuselevõtu eest vastutavatel inimestel tööriist enda jaoks väga hästi selgeks teha. Enne uue platvormi laiemat kasutuselevõttu võiks kõikidele liikmetele korraldada ka kasutajakoolituse, et vältida võimalikke tõrkeid tehnoloogiakaugete kasutajate kaasamisel.
-
-  4. **Kuidas tagada, et uus tehnoloogia kasutusele võetakse ja kasutusele jääb?** Siinkohal on abiks organisatsiooni sisene kasutajatugi—üks kontaktisik või tuumikrühm,  kes oskavad vastata nii tehnilistele küsimustele, kui ka näiteks põhjendada, miks uus tööriist üleüldse kasutusele võeti.
-
-  Meeles tasub pidada, et iga uue tehnoloogia kasutuselevõtt on muutus ning inimestel on loomupärane omadus vastata muutustele vastupanuga. Seepärast on oluline, et uue tööriista kasutuselevõttu põhjendatakse ja selgitatakse inimestele ning pakutakse abi ja tuge neile, kes jäävad selle kasutamisega hätta.
+  Virtual and hybrid meetings are the new norm, and once great e-environments have been set up, it is quite easy to hold meetings in this way. So we’re very grateful to the Citizen OS team for that—thank you!
 
   { #three-dots }
 
-  Kui kaalute Citizen OS platvormi kasutamist oma organisatsioonis, võtke ühendust Anettiga aadressil [Anett@citizenos.com](mailto:anett@citizenos.com)—ta aitab teil otsustada, kas Citizen OS on teie jaoks õige.
+  Next, we caught up with our Partnerships Lead, Anett Linno to hear her thoughts on the collaboration. She explains how PARE’s adoption of the Citizen OS platform is a shining example of how to take a new technology into use:
 
-  Vajate rohkem informatsiooni digitaalse hääletamise ja üldkoosolekute õiguslike küsimuste kohta? Abi saate [justiitsministeeriumi kodulehelt](https://www.just.ee/et/eesmargid-tegevused/praktilisi-nouandeid/uldkoosolekul-otsuse-vastu-votmine-ja-koosolekul) või [Hea Kodaniku artiklist](https://heakodanik.ee/uudised/puust-ja-punaseks-kuidas-edaspidi-uldkoosolekuid-korraldada/)
+  **“The adoption of a new technology within an organisation requires a certain amount of planning and preparation. Our Citizen OS platform is no exception, and over the years we found that success depends largely on how well the organisation implements the deployment process.**
+  { .text-center }
+
+  **It was a great pleasure to work with PARE, who closely followed the four key steps to a successful roll-out.”**
+  { .text-center }
+
+  And what are these four key steps? In our experience, they go something like this:
+
+  1. Identifying the problem the tool will solve. In the case of the Citizen OS platform, this problem is usually how to involve people in far-away locations in a democratic and inclusive decision-making process, and—for those based in Citizen OS’s home country Estonia—how to collect digital signatures to make votes official.
+
+  2. Mapping how the new tool fits into existing processes. For Citizen OS, this means analysing the organisation's decision-making processes, working out what needs to change, and identifying where the platform will fit into this.
+
+  3. Fully understanding how the tool works before training members. A vital ingredient for success is ensuring that those responsible for rolling out the tool have a deep understanding of how it works, and why it is being employed. Once established, user training must then be delivered, to avoid any potential fall-out from users on the less tech-savvy end of the spectrum.
+
+  4. Providing in-house user support on an on-going basis. This is where the core group of fully trained people can always be on hand for any user questions, even after the initial roll-out.
+
+  { #three-dots }
+
+  Considering using the Citizen OS platform for your own organisation or civil society group? Get in touch with Anett at [Anett@citizenos.com](mailto:anett@citizenos.com)—she’d love to chat.
