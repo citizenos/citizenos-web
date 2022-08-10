@@ -1,11 +1,10 @@
----
-path: /produkt
-title: Продукт
-description: Бесплатная цифровая демократическая платформа для совместного создания, обсуждения и голосования. Создайте свою собственную гражданскую инициативу, сайт петиций или откройте новую тему для обсуждения!
+path: /product
+title: Product
+description: Free digital democracy software for co-creation, discussion and voting. Start your own citizen initiative, petition site or discussion topic today!
 keywords:
-  - гражданские инициативы
-  - бесплатная петиция
-  - совместное принятие решений
+  - citizen initiatives
+  - free petition
+  - collaborative decision-making
 image: /images/meta/product.jpg
 blocks:
   decision-img:
@@ -31,18 +30,18 @@ blocks:
       background-position: 10% 5%, 90% 90%
       background-size: 75px 75px, 65px 65px
     title: |
-      Коллективное принятие решений и построение гражданского общества.
+      Collective decisions and civic participation.
     text: |
-      Используйте бесплатную онлайн-платформу для обсуждений, голосования и поиска идей. Платформа совместима с электронным ID .
+      Use the free online platform for discussions, voting and crowdsourcing ideas. With optional e-ID function.
 
-      - [Для чего предназначена платформа Citizen OS??](#flexibleformat)
-      - [Почему именно Citizen OS?](#features)
-      - [Тематические исследования](#case-study-2)
-      - [Cтатистика](#stats)
+      - [What is Citizen OS for?](#flexibleformat)
+      - [Features](#features)
+      - [Case studies](#case-study-2)
+      - [Statistics](#stats)
       { .arrow }
     button1st:
-      title: Воспроизвести демо-видео
-      url: 'https://www.youtube.com/embed/UC44qCCIixE?rel=0&showinfo=0&modestbranding=1&autoplay=1&cc_load_policy=1&cc_lang_pref=ru'
+      title: Play demo
+      url: 'https://www.youtube.com/embed/UC44qCCIixE?rel=0&showinfo=0&modestbranding=1&autoplay=1&cc_load_policy=1&cc_lang_pref=en'
   #title: Sign up for news
   #url: '#subscribe'
   flexibleformat:
@@ -54,32 +53,32 @@ blocks:
       background: '#F7F7F7'
       background-image: url(/images/pattern.svg)
       background-size: 38px 42px
-    label: Гибкий формат
+    label: A flexible format
     title: |
-      Для чего предназначена платформа Citizen OS?
+      What is Citizen OS for?
     text: |
       { #flexibleformat-items }
     blocks:
       petitions:
         poster: /images/flexibleformat-petitions.png
-        title: Голосование
+        title: Voting
         text: |
-          Принятие демократических решения путем настраиваемого голосования. Идеальный вариант для электронной демократии.
+          Make democratic decisions with customisable voting. Perfect for e-democracy initiatives.
       onlinemeetings:
         poster: /images/flexibleformat-onlinemeetings.png
-        title: Обсуждения
+        title: Discussions
         text: |
-          Рациональные и взвешенные обсуждения, где оцениваются все "за" и "против".
+          Enjoy rational, balanced group discussions, weighing up the pros and cons.
       gatheringideas:
         poster: /images/flexibleformat-gatheringideas.png
-        title: Сбор идей.
+        title: Crowdsourcing Ideas
         text: |
-          Задействуйте более широкую аудиторию. Платформа идеально подходит для проектов, требующих участия большого количества граждан.
+          Get input from a wider audience. Ideal for citizen participation projects.
       widget:
         poster: /images/flexibleformat-widget.png
-        title: Подписаться
+        title: Follow up
         text: |
-          Сообщать участникам о действиях, предпринятых после вынесения решения.
+          Update participants on actions taken after a group decision.
   features-img:
     class:
       - order-3
@@ -89,29 +88,29 @@ blocks:
       background-position: 100% 15%, 90% 15%
       background-size: 165px 165px, 350px 350px
     text: |
-      ![Женщина из числа сотрудников Citizen OS посещает мероприятие и отвечает на вопросы о платформе.](/images/product-features.jpg){ .img-fluid .box-shadow }
+      ![A female member of Citizen OS staff attending an event to answer questions about the platform.](/images/product-features.jpg){ .img-fluid .box-shadow }
   features:
     class:
       - order-4
     style:
       background: '#F7F7F7'
-    label: Особенности
+    label: Features
     title: |
-      Почему именно Citizen OS?
+      Why use Citizen OS?
     text: |
-      - Платформа полностью бесплатна, без рекламы и без комиссий.
-      - Готовая платформа. Просто войдите в систему и начинайте работу.
-      - Уже представлена на 13 языках и легко переводится на другие.
+      - 100% free to use, always. No ads, no charges.
+      - A ready-made platform – just log in and get started.
+      - Already in 14 languages and easy to translate.
       { .bullet }
 
-      - Дискуссии и обсуждения аргументов помогают принять взвешенное решение.
-      - Закрытые или публичные обсуждения на ваш выбор.
-      - Возможность создать закрытую группу и обсудить с одной и той же аудиторией несколько вопросов.
+      - Pro and con discussions for balanced debates.
+      - Private or public discussions – you choose.
+      - Private groups for multiple discussions with the same people.
       { .bullet }
 
-      - Настраиваемое анонимное голосование с возможностью установить крайний срок.
-      - Расширенные возможности голосования, например мини-голосования и делегирование голосов.
-      - Совместимость с электронным ID для входа в систему, голосования и использования цифровых подписей.
+      - Customisable & anonymous voting with deadlines.
+      - Advanced voting features such as mini-votes and delegation.
+      - e-ID compatible – for logins, votes & digital signatures.
       { .bullet }
   #options:
   #class:
@@ -145,7 +144,7 @@ blocks:
     class:
       - order-6
     text: |
-      ![Скриншот с платформы Citizen OS, используемой для демократии участия.](/images/product-case-study-2.jpg){ .img-fluid .box-shadow }
+      ![A screenshot of the Citizen OS platform being used for participatory democracy.](/images/product-case-study-2.jpg){ .img-fluid .box-shadow }
   case-study-2:
     class:
       - order-7
@@ -153,17 +152,17 @@ blocks:
       background-image: url(/images/bubble-blue.svg)
       background-position: 80% 5%
       background-size: 122px 122px
-    label: Тематическое исследование
+    label: Case study
     title: |
-      Эстонская платформа Citizen Initiatives
+      Estonia’s Citizen Initiatives Platform.
     text: |
-      Открытый исходный код платформы Citizen OS частично использовался для сайта гражданских инициатив [Rahvalgaatus.ee](https://www.rahvaalgatus.ee). На этом сайте можно разместить петицию, собрать подписи и сразу отправить ее в парламент Эстонии.
+      The Citizen OS free open source code was initally used to set up the citizen initiatives website [Rahvalgaatus.ee](https://www.rahvaalgatus.ee). Here, petitions can be launched, signed and submitted directly to the Estonian Parliament.
   case-study-img:
     class:
       - order-8
       - order-sm-9
     text: |
-      ![Индонезийцы улыбаются, надевают футболки Всемирного дня чистоты и идут на пляж собирать пластиковый мусор.](/images/product-case-study.jpeg){ .img-fluid .box-shadow }
+      ![Many indonesians smiling, wearing World Cleanup Day shirts, walking on a beach, carrying bags full of plastic garbage.](/images/product-case-study.jpeg){ .img-fluid .box-shadow }
   case-study:
     class:
       - order-9
@@ -172,12 +171,13 @@ blocks:
       background-image: url(/images/bubble-orange.svg), url(/images/bubble-yellow.svg)
       background-position: 10% 5%, 90% 90%
       background-size: 85px 85px, 55px 55px
-    label: Тематическое исследование
+    label: Case study
     title: |
-      За чистую Индонезию!
+      For a Greener Indonesia.
     text: |
-      Движение Let’s Do It Indonesia разработало проект [34 Islands](https://citizenos.com/news/turning-citizen-ideas-into-action-on-waste-bintan-indonesia/), цель которого — построение "зеленого" будущего.
-      С помощью платформы Citizen OS жители Индонезии могут предлагать свои идеи по утилизации отходов и голосовать за чужие.
+      With their [34 Islands Project](/news/turning-citizen-ideas-into-action-on-waste-bintan-indonesia/), civic movement Let’s Do It Indonesia is working to build a greener future.
+
+      Using the Citizen OS platform, local people can submit sustainable waste management ideas and vote for their favourites.
   stats:
     class:
       - order-10
@@ -188,16 +188,16 @@ blocks:
       background-image: url(/images/pattern.svg)
       background-size: 38px 42px
     title: |
-      Мы растем и становимся влиятельнее
+      Our impact keeps on growing.
     button1st:
-      title: Подписаться на новости
+      title: Sign up for news
       url: '#subscribe'
     blocks:
       topicsCreated:
-        title: обсуждения
+        title: discussions
       votesCast:
-        title: голосование
+        title: votes
       groupsCreated:
-        title: группы
+        title: groups
       usersCreated:
-        title: пользователи
+        title: users
