@@ -1,11 +1,10 @@
----
-path: /kogukond
-title: Kogukond
-description: Liitu meie häktivistide kogukonnaga! Citizen OS toob kokku aktiivsed inimesed, kelle tänased otsused muudavad homset ühiskonda! Osale, räägi kaasa ja anna oma hääl!
+path: /community
+title: Community
+description: Join our Hacktivist Community! Citizen OS brings together active people whose decisions today build tomorrow's society! Participate and raise your voice!
 keywords:
-  - kodanikuühiskond
-  - aktivist
-  - aktivistide kogukond
+  - civil society
+  - civic activist
+  - activist community
 image: /images/meta/vision.jpg
 blocks:
   start-img:
@@ -41,7 +40,7 @@ blocks:
       background-position: 90% 10%, 90% 70%
       background-size: 45px 45px, 350px 350px
     text: |
-      ![Protestiv naine hoiab loosungit kirjaga "Viga 155: demokraatiat ei leitud"..](/images/community-issue.png){ .img-fluid }
+      ![A female protestor holding up a sign saying ‘Error 155: Democracy not found’..](/images/community-issue.png){ .img-fluid }
   issue:
     class:
       - order-3
@@ -65,7 +64,7 @@ blocks:
       background-position: 90% 10%, 30% 80%, 20% 90%
       background-size: 45px 45px, 165px 165px, 350px 350px
     text: |
-      ![Grupp spetsialiste istub laua ääres arvutite taga ja arutleb kodanikutehnoloogia ja osalusdemokraatia üle.](/images/community-mission.jpg){ .img-fluid .box-shadow }
+      ![A group of specialists sat around a table with laptops discussing civic tech and participatory democracy.](/images/community-mission.jpg){ .img-fluid .box-shadow }
   mission:
     class:
       - order-5
@@ -154,7 +153,7 @@ blocks:
       background-position: 70% 90%, 30% 10%, 20% 90%
       background-size: 45px 45px, 165px 165px, 350px 350px
     text: |
-      ![Meie häktivistide kogukond on tegus ja meil on mitu aktiivset rahvusvahelist partnerit.](/images/community-help.jpg){ .img-fluid .box-shadow }
+      ![Our Hacktivist Community is vibrant and has many international active partners.](/images/community-help.jpg){ .img-fluid .box-shadow }
   help:
     class:
       - order-11
@@ -205,23 +204,23 @@ blocks:
     title: |
       Any questions? We’d love to chat!
     text: |
-      ![Anett Linno, Citizen OS-i partnersuhete ja kogukonna juht.](/images/community-anett.png){ .col-4 .col-md-3 .mt-4 }
+      ![Anett Linno, Citizen OS’s Partnerships and Community Lead.](/images/community-anett.png){ .col-4 .col-md-3 .mt-4 }
 
       ##### **Anett Linno**
-      Partnersuhted ja kogukond, Citizen OS
+      Partnerships & Community Foundation Citizen OS
     blocks:
-      -
+      - 
         icon: /images/community-email.svg
         title: anett@citizenos.com
         url: mailto:anett@citizenos.com
-        alt: E-posti ikoon
-      -
+        alt: Email icon
+      - 
         icon: /images/community-skype.svg
         title: anettorg
         url: skype:anettorg
-        alt: Skype ikoon
-      -
+        alt: Skype icon
+      - 
         icon: /images/community-phone.svg
         title: +372 5669 2076
         url: tel:+37256692076
-        alt: Telefoni ikoon
+        alt: Phone icon
