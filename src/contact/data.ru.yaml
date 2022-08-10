@@ -1,11 +1,10 @@
----
-path: /kontakty
-title: Контакты
-description: Citizen OS — некоммерческая организация со штаб-квартирой в Эстонии, завоевавшая доверие государственных и частных групп пользователей по всему миру.
+path: /contact
+title: Contact
+description: Citizen OS is a not-for-profit organisation headquartered in Estonia, which has gained the trust of public and private user groups around the world.
 keywords:
-  - э-голосование
-  - технология вовлечения
-  - открытое управление
+  - e-voting
+  - engagement technology
+  - open governance
 image: /images/meta/vision.jpg
 blocks:
   contact-img:
@@ -18,12 +17,12 @@ blocks:
   contact:
     #label: About
     title: |
-      Контакты
+      Contact
     text: |
       |  |  |
       | --- | --- |
-      | Контакты: | <info@citizenos.com> |
-      | Организация: | Foundation Citizen OS |
-      | Адрес: | Telliskivi Creative City, Telliskivi 60a/3, Tallinn 10412, Estonia, EU |
-      | Регистрационный код: | 90014709 |
-      | НДС: | Фонд Citizen OS не облагается НДС. |
+      | Contact: | <info@citizenos.com> |
+      | Organisation: | Foundation Citizen OS |
+      | Address: | Telliskivi Creative City, Telliskivi 60a/3, Tallinn 10412, Estonia, EU |
+      | Registry code: | 90014709 |
+      | VAT info: | Foundation Citizen OS is not subject to VAT. |
