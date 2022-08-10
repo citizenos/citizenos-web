@@ -1,0 +1,44 @@
+---
+path: /a-propos-de-nous
+title: À propos de nous
+description: Citizen OS est une plate-forme open source gratuite et sécurisée pour les initiatives citoyennes. Nous sommes une organisation à but non lucratif.
+keywords:
+  - open source
+  - initiative civique
+  - mouvement civique
+image: /images/meta/home.jpg
+blocks:
+  company-img:
+    class:
+      - d-none
+      - d-sm-block
+    style:
+      background: 'linear-gradient(180deg, #0EB7FE 0%, #0680FC 100%)'
+      min-height: 75vh
+  company:
+    #label: About
+    title: |
+      À propos de nous.
+    texts:
+      - |
+        Citizen OS est une plateforme open source gratuite et sécurisée pour les initiatives citoyennes et la prise de décision collective. Nous sommes une organisation à but non lucratif.
+
+        Notre mission est de rendre la prise de décision aux personnes et à leurs communautés, en encourageant l'e-démocratie et en développant des technologies innovantes pour une prise de décision collaborative de meilleure qualité.
+
+        Visitez nos pages [Vision](/vision/) et [Projets](/projets/) pour en apprendre plus sur notre mission et nos activités. Consultez également notre page [Actualités](/news/) pour trouver des interviews et des mises à jour, ainsi que nos réseaux sociaux pour vous inspirer.
+
+        La plateforme Citizen OS a été mise en ligne en septembre 2015. Depuis lors, nous avons gagné la confiance de nombreux groupes d'utilisateurs publics et privés dans le monde entier.
+      - |
+        Nous prenons très au sérieux la sécurité de notre plateforme. Apprenez-en plus à ce sujet [ici](/news/the-key-to-online-democracy-is-trust/) ou consultez nos documents [juridiques](/legal/).
+      - |
+
+      - |
+        ### Citizen OS a été co-fondé par :
+      - |
+        - Ahti Heinla, philanthrope et entrepreneur, et Margo Loor, visionnaire.
+        - [Fondation Let's Do It!](https://www.letsdoitworld.org/)
+        { .arrow }
+
+        #### Nous sommes financés par des dons privés et des subventions.
+      - |
+        Le projet Citizen OS a été financé par des bourses des fonds de l'ONG EEA par la [Open Estonia Foundation](https://oef.org.ee/in-english).

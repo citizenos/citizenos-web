@@ -1,0 +1,42 @@
+extends /_templates/main.pug
+
+
+block content
+    +appHelp()
+    #help-content.container.mb-4.py-5
+        .row
+            h1.col-12.mb-4= self.title
+            p.col-12= self.text
+
+        .row.mb-4.pt-5
+            h2.col-12= self.search.title
+            form.col-12.col-sm-6(action=self.search.url)
+                input#search.form-control(type='search' name='q' placeholder=self.search.placeholder)
+
+        .row.pt-5
+            h2.col-12= self.topics
+            - delete self.data.category.multipage
+            each category in self.data.category
+                .col-6.col-md-3
+                    a.gray-box.d-block.col-12.mb-4.py-3.text-center(href=category.path)
+                        img.img-blue.mb-3(src='/images/help/icons/' + category.icon + '.svg')
+                        img.img-white.mb-3.d-none(src='/images/help/icons/' + category.icon + '-white.svg')
+                        br
+                        | #{ category.title }
+
+        .row.pt-5
+            h2.col-12= self.links.title
+            ul.list-arrow.list-unstyled.col-12
+                each link in self.links.links
+                    li
+                        a(href=link.url)= link.title
+
+        .row.pt-5
+            .col-12
+                .gray-box.col-12.p-3
+                    h2= self.alternate.title
+                    ul.list-arrow.list-inline.mb-0
+                        li.list-inline-item
+                            a(href=self.alternate.request.url)= self.alternate.request.title
+                        li.list-inline-item
+                            a(href=self.alternate.feedback.url)= self.alternate.feedback.title

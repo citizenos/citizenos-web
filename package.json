@@ -4,14 +4,14 @@
   "description": "Collaborative decisions for teams and communities",
   "private": true,
   "scripts": {
-    "build": "entu-ssg build entu-ssg.yaml full && tailwindcss -i ./source/v2/_css/tailwind.css -o ./build/style-v2.css --minify",
-    "dev": "entu-ssg serve entu-ssg.yaml full & tailwindcss -i ./source/v2/_css/tailwind.css -o ./build/style-v2.css --watch"
+    "build": "entu-ssg build entu-ssg.yaml full && tailwindcss -i ./src/v2/_css/tailwind.css -o ./dist/style-v2.css --minify",
+    "dev": "entu-ssg serve entu-ssg.yaml full & tailwindcss -i ./src/v2/_css/tailwind.css -o ./dist/style-v2.css --watch"
   },
   "dependencies": {
     "xml2js": "0.4.23"
   },
   "devDependencies": {
-    "entu-ssg": "5.5.0",
-    "tailwindcss": "3.1.7"
+    "entu-ssg": "5.6.2",
+    "tailwindcss": "3.1.8"
   }
 }

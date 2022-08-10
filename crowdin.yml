@@ -7,7 +7,7 @@ export_languages:
   - id
 files:
   -
-    source: /source/**/*.en.yaml
+    source: /src/**/*.en.yaml
     translation: /%original_path%/%file_name%.%two_letters_code%.%file_extension%
     translation_replace:
       en.: ''

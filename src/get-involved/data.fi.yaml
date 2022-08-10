@@ -1,0 +1,52 @@
+---
+path: /osallistu
+title: Osallistu
+description: Kehittäjä, kääntäjä, tutkija, suunnittelija, haktivisti tai toimittaja – ota meihin yhteyttä! Citizen OS toivottaa tervetulleiksi kaikki verkkodemokratiasta kiinnostuneet vapaaehtoiset.
+keywords:
+  - kansalaishaktivisti
+  - verkko-osallistuminen
+  - hallintoteknologia
+image: /images/meta/vision.jpg
+blocks:
+  get-involved-img:
+    class:
+      - d-none
+      - d-sm-block
+    style:
+      background: 'linear-gradient(180deg, #0EB7FE 0%, #0680FC 100%)'
+      min-height: 75vh
+  get-involved:
+    #label: About
+    title: |
+      Miten voin osallistua?
+    text: |
+
+      Auta meitä parantamaan Citizen OS -alustaa vapaaehtoisena. Jos olet esimerkiksi kehittäjä, kääntäjä, tutkija, suunnittelija, haktivisti tai journalisti, tule mukaan!
+
+      #### Auta kääntämisessä
+
+      Jos Citizen OS -alusta ei ole vielä saatavilla omalla kielelläsi ja haluat liittyä vapaaehtoiskääntäjiemme tiimiin, [ota meihin yhteyttä](mailto:translations@citizenos.com).
+
+      Citizen OS -alustan kääntäminen uudelle kielelle on helppoa – monet vapaaehtoiset työskentelevät kanssamme päivittäin. [Lue lisää](https://crowdin.com/project/citizenos-fe)!
+
+      #### Auta avoimen lähdekoodin ohjelmiston kehittämisessä
+
+      Oletko kehittäjä tai suunnittelija, jolle verkkopohjaisen päätöksenteon tulevaisuus on lähellä sydäntä?
+
+      Jos sinulla on ideoita liittyen avoimen lähdekoodimme parantamiseen tai uusien toimintojen lisäämiseen, [jaa ideasi meille GitHubissa](https://github.com/citizenos).
+
+      #### Testaa uusia ominaisuuksiamme
+
+      Haluaisimme saada todellisia käyttäjiä testaamaan uusia ominaisuuksiamme, jotta voimme varmistaa, että luomme oikeita asioita oikealla tavalla.
+
+      [Ota meihin yhteyttä](mailto:ilmar@citizenos.com), jos haluat auttaa meitä testaamisessa ja kokeilla uusia ominaisuuksia ennen muita käyttäjiä!
+
+      #### Auta tutkimuksessa
+
+      Jos toimit e-demokratia-alalla, haluaisimme mielellämme tavata sinut tai julkaista artikkeleitasi blogissamme. [Ota meihin yhteyttä!](mailto:sara@citizenos.com)
+
+      #### Auta muilla osa-alueilla
+
+      Jos sinulla on muita ideoita, [ota yhteyttä kumppanuusjohtajaamme](mailto:sara@citizenos.com).
+
+      Jos olet kiinnostunut tiimiin liittymisestä, tarkista avoimet työpaikat [täältä](/careers/).

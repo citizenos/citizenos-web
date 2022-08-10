@@ -1,0 +1,14 @@
+---
+multipage: true
+how-to-use-the-follow-up-feature:
+  path: /help/follow-up/how-to-use-the-follow-up-feature
+  data:
+    category: /help/category/data.en.yaml
+    help: /help/data.et.yaml
+  title: How to use the follow-up feature
+  text: |
+    To post follow-up information, or find the follow-up information posted by others, click on the “Follow up” tab at the top, when inside the relevant topic.
+
+    The “Follow up” tab will only appear once a vote has finished and the admin has clicked “Send to follow-up”.
+
+    ![Screenshot of the platform.](/images/help/sendtofollowup.png)

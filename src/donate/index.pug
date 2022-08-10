@@ -1,0 +1,44 @@
+extends /_templates/main.pug
+
+
+block content
+    .container-fluid
+        #header.row.py-5
+            .col-12.py-5.text-center
+                if self.blocks && self.blocks.header
+                    h1= self.blocks.header.title
+                    if self.blocks.header.button
+                        a.btn.btn-pink.mt-4(href=self.blocks.header.button.url)= self.blocks.header.button.title
+
+        .container
+            #text.row.py-5
+                .block.col-12.col-lg-5
+                    if self.blocks && self.blocks.text
+                        +markdown(self.blocks.text.text)
+                .block.col-12.col-lg-6.offset-lg-1
+                    #how.p-5
+                        if self.blocks && self.blocks.how
+                            h2.mb-5.text-center= self.blocks.how.title
+
+                            .row.my-2
+                                .col-auto.py-1.pr-0.pl-0
+                                    .how-bullet 1
+                                .col
+                                    .row
+                                        .col-12.col-md-6
+                                            img.mt-2.mb-4(src='/images/donate-paypal.png' height=30)
+                                            #donate-button-container.mb-4
+                                                #donate-button
+                                        .col-12.col-md-6.text-md-right
+                                            img.mt-2.mb-3(src='/images/donate-qr.png' height=100)
+
+                            .row.my-3
+                                hr.w-100
+
+                            .row.my-2
+                                .col-auto.py-1.pr-0.pl-0
+                                    .how-bullet 2
+                                .col
+                                    +markdown(self.blocks.how.bank)
+
+    script(src='https://www.paypalobjects.com/donate/sdk/donate-sdk.js')

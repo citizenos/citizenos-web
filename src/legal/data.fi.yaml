@@ -1,0 +1,26 @@
+---
+path: /laillisuus
+title: Lakiteknistä
+description: Citizen OS Foundation tarjoaa ilmaisen ohjelmiston ja rakentaa verkkodemokratian asiantuntijoiden yhteisöä. Tehtävänämme on antaa kansalaisille ääni sosiaalisista kysymyksistä päätettäessä.
+keywords:
+  - digitaalinen hallinto
+  - sosiaalinen kysymys
+  - verkkohallinto
+image: /images/meta/vision.jpg
+blocks:
+  legal-img:
+    class:
+      - d-none
+      - d-sm-block
+    style:
+      background: 'linear-gradient(180deg, #0EB7FE 0%, #0680FC 100%)'
+      min-height: 75vh
+  legal:
+    #label: About
+    title: |
+      Lakiteknistä
+    text: |
+      - [Articles of Association of the Foundation Citizen OS](/fi/laillisuus/saannot/)
+      - [Terms of Use](/fi/laillisuus/tou/)
+      - [Privacy and Cookies Policy](/fi/laillisuus/yksityisyys/)
+      - [Citizen OS API Terms of Use](/fi/laillisuus/api/)

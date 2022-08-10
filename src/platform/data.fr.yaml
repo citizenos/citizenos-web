@@ -1,0 +1,204 @@
+---
+path: /produit
+title: Produit
+description: Logiciel de démocratie numérique libre pour la co-création, la discussion et le vote. Commencez votre propre initiative citoyenne, votre site de pétition ou votre sujet de discussion aujourd'hui !
+keywords:
+  - initiatives citoyennes
+  - pétition gratuite
+  - prise de décisions collaborative
+image: /images/meta/product.jpg
+blocks:
+  decision-img:
+    class:
+      - order-1
+    style:
+      background-color: '#FFF1AD'
+      background-image: url(/images/product-start.png), url(/images/bubble-dots.png), url(/images/bubble-orange.svg)
+      background-position: center center, 0% 20%, 70% 10%
+      background-size: 500px 500px, 350px 350px, 100px 100px
+  #text: |
+  #[► Play demo](#demo){.btn .btn-primary data-toggle=modal data-target=#demo}
+  #video:
+  #id: demo
+  #url: 'https://www.youtube.com/embed/UC44qCCIixE?rel=0&showinfo=0&modestbranding=1&autoplay=1&cc_load_policy=1&cc_lang_pref=en'
+  decision:
+    class:
+      - order-0
+      - py-5
+    style:
+      background-color: '#FFF1AD'
+      background-image: url(/images/bubble-turquoise.svg), url(/images/bubble-yellow.svg)
+      background-position: 10% 5%, 90% 90%
+      background-size: 75px 75px, 65px 65px
+    title: |
+      Décisions collectives et participation civique.
+    text: |
+      Utilisez la plateforme gratuite pour discuter, voter et crowdsourcer des idées. Avec une fonctionnalité e-ID optionnelle.
+
+      - [À quoi sert Citizen OS ?](#formatflexible)
+      - [Pourquoi utiliser Citizen OS ?](#fonctionnalités)
+      - [Études de cas](#etudedecas-2)
+      - [Statistiques](#stats)
+      { .arrow }
+    button1st:
+      title: Regarder la démo
+      url: 'https://www.youtube.com/embed/UC44qCCIixE?rel=0&showinfo=0&modestbranding=1&autoplay=1&cc_load_policy=1&cc_lang_pref=fr'
+  #title: Sign up for news
+  #url: '#subscribe'
+  flexibleformat:
+    class:
+      - order-2
+      - text-center
+      - py-5
+    style:
+      background: '#F7F7F7'
+      background-image: url(/images/pattern.svg)
+      background-size: 38px 42px
+    label: Un format flexible
+    title: |
+      À quoi sert Citizen OS ?
+    text: |
+      { #flexibleformat-items }
+    blocks:
+      petitions:
+        poster: /images/flexibleformat-petitions.png
+        title: Vote
+        text: |
+          Prenez des décisions démocratiques avec un vote personnalisable. Parfait pour les initiatives d'e-démocratie.
+      onlinemeetings:
+        poster: /images/flexibleformat-onlinemeetings.png
+        title: Discussions
+        text: |
+          Profitez de discussions de groupe rationnelles et équilibrées, pesant le pour et le contre.
+      gatheringideas:
+        poster: /images/flexibleformat-gatheringideas.png
+        title: Crowdsourcing d'idées
+        text: |
+          Obtenez les commentaires d'un public plus large. Idéal pour les projets de participation citoyenne.
+      widget:
+        poster: /images/flexibleformat-widget.png
+        title: Suivi
+        text: |
+          Gardez les participants au courant des actions prises par le groupe.
+  features-img:
+    class:
+      - order-3
+    style:
+      background-color: '#F7F7F7'
+      background-image: url(/images/bubble-orange.svg), url(/images/bubble-dots.png)
+      background-position: 100% 15%, 90% 15%
+      background-size: 165px 165px, 350px 350px
+    text: |
+      ![Une employée de Citizen OS participant à un événement pour répondre aux questions sur la plateforme.](/images/product-features.jpg){ .img-fluid .box-shadow }
+  features:
+    class:
+      - order-4
+    style:
+      background: '#F7F7F7'
+    label: Fonctionnalités
+    title: |
+      Pourquoi utiliser Citizen OS ?
+    text: |
+      - 100 % gratuit à utiliser, pour toujours. Pas de publicité, pas de frais.
+      - Une plateforme prête à l'emploi - connectez-vous simplement et commencez.
+      - Déjà en 13 langues et facile à traduire.
+      { .bullet }
+
+      - Discussions pour et contre pour des débats équilibrés.
+      - Discussions privées ou publiques - vous choisissez.
+      - Groupes privés pour de multiples discussions avec les mêmes personnes.
+      { .bullet }
+
+      - Votes personnalisables et anonymes avec des délais.
+      - Fonctionnalités de vote avancées telles que les mini-votes et la délégation.
+      - Compatible e-ID - pour les connexions, votes et signatures numériques.
+      { .bullet }
+  #options:
+  #class:
+  #- order-5
+  #- col-sm-12
+  #- text-center
+  #style:
+  #background: '#AAF3DD'
+  #label: Products
+  #title: |
+  #How can I use Citizen OS?
+  #blocks:
+  #app:
+  #title: Use on our website
+  #text: |
+  #Currently in 13 languages.
+  #subtext: Free
+  #button:
+  #title: Use product
+  #url: https://app.citizenos.com
+  #target: _blank
+  #consult:
+  #title: Set up own server
+  #text: |
+  #Download the code and contact us if you need help with consulting.
+  #subtext: Free open-source code
+  #button:
+  #title: Download
+  #url: https://github.com/citizenos/citizenos-web
+  case-study-2-img:
+    class:
+      - order-6
+    text: |
+      ![Une capture d'écran de la plateforme Citizen OS utilisée pour la démocratie participative.](/images/product-case-study-2.jpg){ .img-fluid .box-shadow }
+  case-study-2:
+    class:
+      - order-7
+    style:
+      background-image: url(/images/bubble-blue.svg)
+      background-position: 80% 5%
+      background-size: 122px 122px
+    label: Étude de cas
+    title: |
+      La plateforme d’initiatives citoyennes d’Estonie.
+    text: |
+      Le code open source de Citizen OS a été partiellement utilisé pour mettre en place le site des initiatives citoyennes [Rahvalgaatus.ee](https://www. ahvaalgatus.ee) Des pétitions peuvent y être lancées, signées et soumises directement au parlement estonien.
+  case-study-img:
+    class:
+      - order-8
+      - order-sm-9
+    text: |
+      ![De nombreux Indonésiens sourient, portant des t-shirts de la Journée mondiale du nettoyage, marchant sur une plage, transportant des sacs remplis d'ordures en plastique.](/images/product-case-study.jpeg){ .img-fluid .box-shadow }
+  case-study:
+    class:
+      - order-9
+      - order-sm-8
+    style:
+      background-image: url(/images/bubble-orange.svg), url(/images/bubble-yellow.svg)
+      background-position: 10% 5%, 90% 90%
+      background-size: 85px 85px, 55px 55px
+    label: Étude de cas
+    title: |
+      Pour une Indonésie plus verte.
+    text: |
+      Avec leur [34 Island Project](/news/turning-citizen-ideas-into-action-on-waste-bintan-indonesia/), le mouvement civique Let's Do It Indonesia travaille à construire un avenir plus vert.
+
+      En utilisant la plateforme Citizen OS, les locaux peuvent soumettre des idées de gestion des déchets durables et voter pour leurs favorites.
+  stats:
+    class:
+      - order-10
+      - text-center
+      - py-5
+    style:
+      background: '#F7F7F7'
+      background-image: url(/images/pattern.svg)
+      background-size: 38px 42px
+    title: |
+      Notre impact ne cesse de croître.
+    button1st:
+      title: S'inscrire aux actualités
+      url: '#subscribe'
+    blocks:
+      topicsCreated:
+        title: discussions
+      votesCast:
+        title: votes
+      groupsCreated:
+        title: groupes
+      usersCreated:
+        title: utilisateurs

@@ -1,0 +1,96 @@
+multipage: true
+
+general:
+    path: /help/general
+    data:
+        help: /help/data.en.yaml
+        topics: general/data.en.yaml
+    title: General
+    icon: general
+    video:
+        url:
+        poster: /images/help/general.png
+    text: |
+        **Citizen OS is a free platform for remote, asynchronous, collective decision-making.** Co-create a topic, discuss it, vote on it, then follow-up on it afterwards. Available worldwide, with e-ID signature functionality in Estonia.
+
+login:
+    path: /help/login
+    data:
+        help: /help/data.en.yaml
+        topics: login/data.en.yaml
+    title: Login
+    icon: login
+    video:
+        url:
+        poster: /images/help/login.png
+    text: |
+        Log in quickly and easily using a Citizen OS account linked to your email address, or via social login (Facebook or Gmail). In Estonia, e-ID login is also available.
+
+        Tip: be sure to log out if using the platform on public devices - you won’t be logged out automatically after closing the browser.
+
+groups:
+    path: /help/groups
+    data:
+        help: /help/data.en.yaml
+        topics: groups/data.en.yaml
+    title: Groups
+    icon: groups
+    video:
+        url:
+        poster: /images/help/mygroups-landscape.png
+    text: |
+        Groups are groups of users. They are useful if you will be making decisions with the same group of people (such as a team, community or organisation) on multiple occasions. [The benefits of a group](/help/groups/why-create-a-group) include quicker sharing or unsharing of topics, a group folder containing all topics shared to those users, and easier rights administration.
+
+topics:
+    path: /help/topics
+    data:
+        help: /help/data.en.yaml
+        topics: topics/data.en.yaml
+    title: Topics
+    icon: topics
+    video:
+        url:
+        poster: /images/help/general.png
+    text: |
+        A Citizen OS “Topic” is the space in which discussion and voting on a particular subject takes place. In a topic, you can co-create a topic text, discuss the pros and cons, and vote on it. Topics can be public or private.
+
+        This section covers general topic management and topic texts. For guidance on discussions or voting, see the [Discussions](/help/discussions) or [Voting](/help/voting) sections
+
+discussions:
+    path: /help/discussions
+    data:
+        help: /help/data.en.yaml
+        topics: discussions/data.en.yaml
+    title: Discussions
+    icon: discussions
+    video:
+        url:
+        poster: /images/help/general.png
+    text: |
+        Use the discussion space to discuss both sides of a topic before it is voted on, or to crowdsource ideas for how to go forwards. Here you can post “pro” and “con” arguments, ask a question or add information, and reply or react to arguments made by others.
+
+voting:
+    path: /help/voting
+    data:
+        help: /help/data.en.yaml
+        topics: voting/data.en.yaml
+    title: Voting
+    icon: voting
+    video:
+        url:
+        poster: /images/help/general.png
+    text: |
+        Set up a vote to democratically decide on a topic. Voting settings include a wide range of options such as multiple choice voting, veto votes, and vote delegation. Inline votes can also be created in the topic text. In Estonia, e-ID voting is available.
+
+follow-up:
+    path: /help/follow-up
+    data:
+        help: /help/data.en.yaml
+        topics: follow-up/data.en.yaml
+    title: Follow-up
+    icon: follow-up
+    video:
+        url:
+        poster: /images/help/general.png
+    text: |
+        Once a vote has taken place, admins of the topic can use the “Follow up” feature to keep everyone up to date on what has happened since. Topics need to be sent to follow-up before vote results can be downloaded.

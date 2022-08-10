@@ -1,0 +1,85 @@
+path: /product/features
+
+title: Platform Features
+description: We develop new features every day! This features list will give you an overview of what you can do with the Citizen OS platform. Check it out!
+keywords:
+    - voting tool
+    - deliberation tool
+    - decisionmaking tool
+image: /images/meta/home-alt.jpg
+
+text: |
+    Here’s a comprehensive summary of everything the Citizen OS platform has to offer.
+
+    **Why choose Citizen OS?**
+    - A bottom-up approach: citizens can initiate topics without waiting for government.
+    - A research-driven strategy in collaboration with universities.
+    - Independently-funded Foundation with long-term plans.
+    - Brimming with features for balanced discussions, petitions, voting & follow up.
+     { .bullet }
+
+    **Key Features**
+    - Free to use. No ads.
+    - Invite participants with an email, URL or QR code.
+    - Pro and con discussions with comment threads and reactions.
+    - Customisable & anonymous voting with deadlines.
+    - Multiple choices voting. Choose more than one correct answer.
+    - Vote delegation.
+    - A ready-made platform – just log in and get started.
+    - A secure product with well-vetted open source code.
+    - Already in 15 languages and easy to translate.
+    - An activity feed with personalised updates.
+    - A follow-up function to update on actions taken.
+    - e-ID compatible – for logins, votes & digital signatures. (Applicable for Estonian id-card holders only).
+    - Ongoing support from our friendly team.
+    - Quick and easy logins with social accounts or a fast registration process.
+     { .bullet }
+
+    **Discussions**
+    - Pro and con discussions with comment threads and reactions.
+    - Private or public discussions – you choose.
+    - Private groups for multiple discussions with the same people.
+    - Reaction buttons – see who liked or disliked comments.
+    - Co-edit topic texts before or during a discussion.
+    - Pinned topics allow for easy repeat access.
+    - A personalised activity feed provides live updates on topic activity.
+    - Two-way Twitter integration allows for wider discussion input.
+    - Community moderation available for total transparency.
+     { .bullet }
+
+    **Voting & signing**
+    - Customisable & semi-anonymous voting with deadlines.
+    - Advanced voting features, incl. vote delegation, neutral votes, vetoes & multiple choice.
+    - Mini-vote function to decide on a minor detail before sending to the overall vote.
+    - Co-create petition texts before opening them up for signatures.
+    - e-ID compatible – for logins, votes & digital signatures, in Estonia.
+    - Multiple choices voting. Choose more than one correct answer.
+     { .bullet }
+
+    **Technical details**
+    - Browser-based user interface – no need for an app.
+    - High level data privacy with GDPR compliance.
+    - Agile & up-to-date software supported by dedicated software developers.
+    - Open-source code and development process available on GitHub.
+    - Discussion widget available for integrating with your website.
+    - e-ID log-in and vote signing in Estonia.
+    - Technical support from our friendly, full-time team.
+     { .bullet }
+
+    **User-driven Translation**
+    - Already in 15 languages – quick and easy to translate.
+    - Convenient & user-driven translation – request a language and translate at your own pace.
+    - Collaboration function to translate with your group.
+    - Personalised translation support plus online demos and FAQs.
+     { .bullet }
+
+    **Want more details about a particular feature?**
+
+button1st:
+    title: Contact us for more info or book a demo.
+
+    url: 'mailto:support@citizenos.com'
+
+button2nd:
+    title: Or simply try it out for yourself!
+    url: https://app.citizenos.com/en/

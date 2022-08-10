@@ -1,0 +1,60 @@
+path: /faq
+
+title: FAQ
+description: Frequently asked questions. If you cannot see your answer here, please email us at support@citizenos.com!
+keywords:
+    - digital signature
+    - decide together
+    - e-participation
+image: /images/meta/faq.jpg
+
+
+blocks:
+    title:
+        class:
+        style:
+            background-color: '#FFF1AD'
+            background-image: url(/images/bubble-turquoise.svg), url(/images/bubble-yellow.svg)
+            background-position: 10% 5%, 90% 90%
+            background-size: 75px 75px, 65px 65px
+        title: |
+            FAQs for our organisation.
+        text: |
+            We’ve put together this list of Frequently Asked Questions for the Citizen OS Foundation.
+            If you are looking for insider tips on using our co-decision platform, then the Help Centre is located [here](/help).
+
+            - [How does Foundation Citizen OS fund itself if the platform is free?](#fund)
+            { .bullet }
+
+        button1st:
+            title: Email support
+            url: 'mailto:support@citizenos.com'
+    title-img:
+        class:
+        style:
+            background-color: '#FFF1AD'
+            background-image: url(/images/faq-circle-eng.png), url(/images/bubble-dots.png), url(/images/bubble-orange.svg)
+            background-position: center center, 0% 20%, 70% 10%
+            background-size: 500px 500px, 350px 350px, 100px 100px
+
+    fund-img:
+        class: faq-image
+        style:
+            background-color: '#FFFFFF'
+        text: |
+            ![Screenshot of the platform.](/images/faq10-cos-funding.png){ .img-fluid .box-shadow }
+
+    fund:
+        class: faq-text
+        style:
+            background: '#FFFFFF'
+        title: |
+            How does Citizen OS fund itself if the platform is free?
+        text: |
+            In the six years since its inception, Citizen OS's sources of revenue have been project-based grants and private donations.
+
+            The majority of our running costs so far have been covered by a private philanthropist who is well-known in the Estonian technology field.
+
+            Looking ahead, revenues from service fees, additional private donations and some additional paid features on the platform are possibilities we are exploring for the future.
+
+            However, Citizen OS is and will always remain a social enterprise, meaning that it will remain non-profit oriented, and should profits ever be generated they will be reinvested into the organisation and the pursuit of our mission.

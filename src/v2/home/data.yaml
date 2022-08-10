@@ -1,0 +1,253 @@
+path: v2
+
+sections:
+    header:
+        type: header
+        color: blue
+        title: Let’s decide together!
+        text: |
+            Make smarter, more impactful decisions based on respectful discussions on our free, open-source participation platform.
+        image: /v2/images/illustrations/homepage-hero.svg
+        buttons:
+            demo:
+                color: black
+                title: Watch demo
+                icon: play
+                url: https://www.youtube.com/watch?v=UC44qCCIixE
+                target: _blank
+            platform:
+                title: Use platform
+                icon: arrow-right
+                url: https://app.citizenos.com
+                target: _blank
+
+    what-is:
+        type: 3-columns
+        title: What is Citizen OS?
+        text: |
+            It is our mission to empower as many people as possible to participate in respectful, meaningful discussions in order to collaboratively decide in issues that affect their wellbeing
+        columns:
+            platform:
+                title: Platform
+                image: /v2/images/illustrations/platform.svg
+                text: |
+                    To bring democracy closer to the people, we’ve developed an open source participation platform for organisations and communities.
+
+                    On it, you can engage people across different locations and timezones to discuss and decide on the topics that affect their lives and well-being.
+                link:
+                    title: Learn more
+                    url: ./#
+            hub:
+                title: Knowledge Hub
+                image: /v2/images/illustrations/hub.svg
+                text: |
+                    In our Knowledge Hub, you can learn about participatory e-democracy, why democracy is so important  in the age of technology, and how to make it work in your community or organisation.
+
+                    Learn how Citizen OS can help you to be more engaging and participatory.
+                link:
+                    title: Some other link
+                    url: ./#
+            projects:
+                title: Projects
+                image: /v2/images/illustrations/projects.svg
+                text: |
+                    Pariatur sint minim sint ea irure ad dolore. Pariatur sint magna ullamco consequat quis.
+                link:
+                    title: Learn more
+                    url: ./#
+
+    what-is:
+        type: 3-columns
+        title: What is Citizen OS?
+        text: |
+            It is our mission to empower as many people as possible to participate in respectful, meaningful discussions in order to collaboratively decide in issues that affect their wellbeing
+        columns:
+            platform:
+                title: Platform
+                image: /v2/images/illustrations/platform.svg
+                text: |
+                    To bring democracy closer to the people, we’ve developed an open source participation platform for organisations and communities.
+
+                    On it, you can engage people across different locations and timezones to discuss and decide on the topics that affect their lives and well-being.
+                link:
+                    title: Learn more
+                    url: ./#
+            hub:
+                title: Knowledge Hub
+                image: /v2/images/illustrations/hub.svg
+                text: |
+                    In our Knowledge Hub, you can learn about participatory e-democracy, why democracy is so important  in the age of technology, and how to make it work in your community or organisation.
+
+                    Learn how Citizen OS can help you to be more engaging and participatory.
+                link:
+                    title: Some other link
+                    url: ./#
+            projects:
+                title: Projects
+                image: /v2/images/illustrations/projects.svg
+                text: |
+                    Pariatur sint minim sint ea irure ad dolore. Pariatur sint magna ullamco consequat quis.
+                link:
+                    title: Learn more
+                    url: ./#
+
+    connecting:
+        type: media
+        color: blue
+        title: Connecting people and communities
+        text: |
+            Technology enables us to bring together the voices of a large number of people, regardless of their geographical location or time zone.
+            For better quality decisions
+            The more people who participate in the decision-making process, the higher the quality of decisions. On the Citizen OS platform you can ask everyone's opinion on the topics that affect their own lives and well-being.
+        video: https://www.youtube.com/watch?v=UC44qCCIixE
+
+    features:
+        type: accordion
+        title: Main features
+        cards:
+            crowdsourcing:
+                title: Crowdsourcing ideas
+                color: yellow
+                icon: ideation
+                image: /v2/images/illustrations/ideation.svg
+                text: |
+                    Gather a large number of ideas for creative solutions. Experience the collective wisdom and intelligence from putting many heads together.
+                link:
+                    title: Learn more
+                    url: ./#
+            discussions:
+                title: Discussions
+                color: blue
+                icon: discussions
+                image: /v2/images/illustrations/discussions.svg
+                text: |
+                    Start respectful and meaningful discussions and engage people with different opinions. Let the arguments speak for themselves!
+                link:
+                    title: Learn more
+                    url: ./#
+            voting:
+                title: Voting
+                color: green
+                icon: voting
+                image: /v2/images/illustrations/voting.svg
+                text: |
+                    Make collaborative and democratic decisions together with the people whose lives and well-being are directly affected by them.
+                link:
+                    title: Learn more
+                    url: ./#
+            followup:
+                title: Follow up
+                color: purple
+                icon: followup
+                image: /v2/images/illustrations/followup.svg
+                text: |
+                    Keep people updated with the further discussions and actions taken.
+                link:
+                    title: Learn more
+                    url: ./#
+
+    who-uses:
+        type: 2-columns
+        color: yellow
+        title: Who uses our platform?
+        text: |
+            Our platform is designed for organisations and communities who value a diversity of opinions. It’s especially loved by civil society leaders who believe that everyone has the right to make their voice heard. While the below are our most common types of user, the platform is used by all kinds of groups. Schools, local governments, book clubs, friendship groups, families – you name it!
+        columns:
+            one:
+                title: Civic movements
+                image: /v2/images/illustrations/civic-movements.svg
+                text: |
+                    These changemakers use the Citizen OS platform to initiate public discussions and collect ideas on the topics that they stand for, be it the protection of flying squirrels, women rights or the ethics of AI.
+                link:
+                    title: Read more
+                    url: ./#
+            two:
+                title: Active citizens
+                image: /v2/images/illustrations/active-citizens.svg
+                text: |
+                    Active citizens are the ones who raise difficult questions about the problems facing their communities, and invite their community members into the discussion on the Citizen OS platform.
+                link:
+                    title: Read more
+                    url: ./#
+            three:
+                title: Professional Unions and Associations
+                image: /v2/images/illustrations/professionals.svg
+                text: |
+                    These guys are so busy that it's almost impossible to get them in the same room at the same time! That’s why they use our platform for asynchronous meetings and general meetings. They hold discussions and votes: setting the directions of their advocacy groups, electing board members and approving the annual report.
+                link:
+                    title: Read more
+                    url: ./#
+            four:
+                title: Political parties
+                image: /v2/images/illustrations/politics.svg
+                text: |
+                    Party members participate in internal discussions on the Citizen OS platform, to decide on their party's political stance. This means party representatives can be confident they’re communicating the party's collective position, not just their personal opinion.
+                link:
+                    title: Read more
+                    url: ./#
+
+    templates:
+        type: 4-columns
+        title: Quick-start with our templates
+        text: |
+            It is our mission to empower as many people as possible to participate in respectful, meaningful discussions in order to collaboratively decide in issues that affect their wellbeing.
+        columns:
+            one:
+                title: (Co)create a document
+                image: /v2/images/illustrations/empty.svg
+            two:
+                title: Start discussion
+                image: /v2/images/illustrations/empty.svg
+            three:
+                title: Gather ideas
+                image: /v2/images/illustrations/empty.svg
+            four:
+                title: Have a vote
+                image: /v2/images/illustrations/empty.svg
+
+    what-motivates:
+        type: 3-columns
+        color: green
+        title: What motivates us
+        text: |
+            Meil tuleb küsida kasutajatelt tagasiisdet!
+        columns:
+            one:
+                image: /v2/images/illustrations/empty.svg
+
+    stats:
+        type: stats
+        title: Our impact keeps on growing
+        columns:
+            one:
+                title: Discussions
+                field: topicsCreated
+            two:
+                title: Votes
+                field: votesCast
+            three:
+                title: Groups
+                field: groupsCreated
+            four:
+                title: Users
+                field: usersCreated
+
+    banner:
+        type: banner
+        color: blue
+        title: Want to try it out?
+        text: |
+            It’s free for everybody and for always!
+        image: /v2/images/illustrations/cta.svg
+        buttons:
+            demo:
+                color: black
+                title: Watch demo
+                icon: play
+                url: https://www.youtube.com/watch?v=UC44qCCIixE
+                target: _blank
+            platform:
+                title: Use platform
+                icon: arrow-right
+                url: https://app.citizenos.com
+                target: _blank

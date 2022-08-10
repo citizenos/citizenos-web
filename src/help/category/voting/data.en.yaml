@@ -1,0 +1,386 @@
+multipage: true
+
+seeing-how-many-people-have-voted-so-far:
+    path: /help/voting/seeing-how-many-people-have-voted-so-far
+    data:
+        category: /help/category/data.en.yaml
+        help: /help/data.en.yaml
+    title: Seeing how many people have voted so far
+    text: |
+        Anyone can see how many people have voted, both during and after the vote. This is displayed as an anonymous numerical result.
+
+        ![Screenshot of the platform.](/images/help/sendtofollowup.png)
+
+        To see this:
+        1. Go into the relevant topic, and make sure you are in the “Vote” tab, shown at the top.
+        1. To the right of “Cast your vote” or “Voting results” (depending on whether the vote is still ongoing), you will see the number of votes cast.
+
+        In a private topic, you will see two numbers: “X/X votes counted”. The first number (on the left) shows how many people have voted and the second number (on the right) shows how many people have joined the topic in total.
+
+        In a public topic, you will see just one number “X votes counted”. This is the number of people who have voted so far.
+
+        ## Related content{.mt-5}
+        - [Why admins can’t see who has voted while a vote is in progress](/help/voting/why-admins-cant-see-who-has-voted-while-a-vote-is-in-progress)
+        { .list-arrow .list-unstyled }
+
+why-admins-cant-see-who-has-voted-while-a-vote-is-in-progress:
+    path: /help/voting/why-admins-cant-see-who-has-voted-while-a-vote-is-in-progress
+    data:
+        category: /help/category/data.en.yaml
+        help: /help/data.en.yaml
+    title: Why admins can’t see who has voted while a vote is in progress
+    text: |
+        The admin(s) of a topic can see who has voted, but only once the voting period has ended. It is not possible to see who has voted while a vote is still running.
+
+        **Tip:**
+        It is possible to see who has joined the topic in the Activity Feed, which is located below “My account” in the main menu. There, the names of everyone who has joined or commented on the topic so far are displayed, along with the date and time they did so. The date and time of votes cast are displayed too, but anonymously.
+
+        **Why we protect anonymity during the vote.**
+        At Citizen OS we believe that not voting can be a means of expressing opinion. For example, if someone does not agree with the question or the options available to vote upon, they may actively decide not to vote. If the vote administrator tries to incite them to vote, this could deprive them of their freedom to express their views through not voting. This information is kept confidential in government-run votes for the same reason.
+
+        ## Related content{.mt-5}
+        - [Seeing who has been invited to / joined a topic](/help/voting/seeing-who-has-been-invited-to-joined-a-topic)
+        - [Downloading voting results](/help/voting/downloading-voting-results)
+        - [Why voting is not fully anonymous](/help/voting/why-voting-is-not-fully-anonymous)
+        { .list-arrow .list-unstyled }
+
+why-voting-is-not-fully-anonymous:
+    path: /help/voting/why-voting-is-not-fully-anonymous
+    data:
+        category: /help/category/data.en.yaml
+        help: /help/data.en.yaml
+    title: Why voting is not fully anonymous
+    text: |
+        When the voting period ends, the admin(s) of a topic can download a summary report with the voting results and voter details. The voter details will show as their Citizen OS username or personal ID (name and ID number), depending on how the vote was cast (with or without e-ID).
+
+        This means that it is possible for the admin(s) to identify who has voted and how, once the vote is complete.
+
+delegating-your-vote:
+    path: /help/voting/delegating-your-vote
+    data:
+        category: /help/category/data.en.yaml
+        help: /help/data.en.yaml
+    title: Delegating your vote
+    text: |
+        It is possible to delegate your vote to someone else who is a member of the same topic. This means that however the person you delegated to votes, the same vote will be cast in your name too. The delegated person won’t be aware that you have delegated your vote to them, unless you tell them yourself.
+
+        To delegate your vote:
+        1. Go into the topic in which the vote is taking place.
+        1. Under the voting options, click on the button “Delegate your vote”.
+        1. In the pop-up window, type the name of your chosen topic member, then select their name when it appears in the drop-down.
+        1. Click “Delegate vote”.
+
+        The person you have chosen to delegate to will now be shown under the voting options in the topic.
+
+        If you change your mind at any point before the vote is over, you can click “revoke your delegation”, then submit a vote yourself.
+
+        Vote delegation will, however, only be possible if the admin(s) have enabled vote delegation when setting up the vote. If they have not, the “Delegate your vote” button won’t appear.
+
+submitting-signatures-to-the-ariregister-riigikogu-local-government-estonia-only:
+    path: /help/voting/submitting-signatures-to-the-ariregister-riigikogu-local-government-estonia-only
+    data:
+        category: /help/category/data.en.yaml
+        help: /help/data.en.yaml
+    title: Submitting signatures to the Äriregister / Riigikogu / local government (Estonia only)
+    text: |
+        **When submitting to the Äriregister, the option “Machine-readable file (Äriregister)” should be selected when downloading the signature files.** The entire BDOC container should then be submitted to the Äriregister. This folder does not include a [spreadsheet (CSV) file](/help/voting/the-csv-file-for-digital-signature-voting-results), as the Äriregister does not accept BDOC folders that contain these.
+
+        **When submitting digital signatures to the Riigikogu or local government, the option “human-readable file (Riigikogu, KOV)” should be selected.** The entire BDOC container should then be submitted. This folder does include a spreadsheet (CSV) file.
+
+        ## Related content{.mt-5}
+        - [Downloading digital signature vote files (Estonia only)](/help/voting/downloading-digital-signature-vote-files)
+        - [Digital signature voting results folder contents (Estonia only)](/help/voting/digital-signature-voting-results-folder-contents)
+        - [The CSV file for digital signature voting results (Estonia only)](/help/voting/the-csv-file-for-digital-signature-voting-results)
+        { .list-arrow .list-unstyled }
+
+how-to-set-up-a-vote:
+    path: /help/voting/how-to-set-up-a-vote
+    data:
+        category: /help/category/data.en.yaml
+        help: /help/data.en.yaml
+    title: How to set up a vote
+    text: |
+        To start a vote, click on “Send to voting” in the Options menu of the relevant topic. (Right sidebar on desktop, or in the options menu tab on mobile).
+
+        Here you can customise your voting settings, then click “Start voting”.
+
+        ![Screenshot of the platform.](/images/help/sendtovoting.png)
+
+        **Please note** that once the vote has started:
+        - It will not be possible to edit the voting settings. You can, however, still add a voting deadline in the “Actions” part of the “Options” menu. (Right sidebar on desktop, or in the options menu tab on mobile).
+        - It will no longer be possible to edit the topic text.
+
+#        ## Related content{.mt-5}
+#        - [Customising the voting settings](/help/voting/customising-the-voting-settings)
+#        - [Setting up multiple choice voting](/help/voting/setting-up-multiple-choice-voting)
+#        - [Setting up neutral votes, veto votes and vote delegation](/help/voting/setting-up-neutral-votes-veto-votes-an-vote-delegation)
+#        - [Creating an inline vote in a topic text](/help/voting/creating-an-inline-vote-in-a-topic-text)
+#        { .list-arrow .list-unstyled }
+
+closing-the-vote-or-setting-a-vote-deadline:
+    path: /help/voting/closing-the-vote-or-setting-a-vote-deadline
+    data:
+        category: /help/category/data.en.yaml
+        help: /help/data.en.yaml
+    title: Closing the vote or setting a vote deadline
+    text: |
+        A vote can either be closed automatically, using a voting deadline, or closed manually by the admin.
+
+        ![Screenshot of the platform.](/images/help/sendtofollowup.png)
+
+        **To manually close the vote:**
+
+        - When in the topic, click on “Send to follow-up” in the “Options” menu. (Right sidebar on desktop, or in the options menu tab on mobile). By sending to follow-up, you are closing the vote.
+
+        **To set an automatic vote deadline:**
+
+        Input the deadline when setting up the vote (i.e. when you first choose the vote settings).
+
+        *or*
+
+        - When in the topic, go to “Actions” in the “Options” menu. (Right sidebar on desktop, or in the options menu tab on mobile). Here you can set or edit the voting deadline.
+
+        Once the vote has closed, you will need to click “Send to follow-up” in order to access the voting results.
+
+        ## Related content{.mt-5}
+        - [Downloading voting results](/help/voting/downloading-voting-results)
+        { .list-arrow .list-unstyled }
+
+downloading-voting-results:
+    path: /help/voting/downloading-voting-results
+    data:
+        category: /help/category/data.en.yaml
+        help: /help/data.en.yaml
+    title: Downloading voting results
+    text: |
+        When the voting period ends, the admin(s) of a topic can download a summary report with the voting results.
+
+        The following instructions relate to votes cast using Citizen OS user IDs. Please see separate instructions if downloading digital signatures in Estonia.
+
+        ![Screenshot of the platform.](/images/help/downloadvoteresults.png)
+
+        How to download voting results:
+
+        1. Go into the relevant topic.
+        1. Ensure that the vote is closed, and has been sent to follow-up.
+        1. Click on the “Vote” tab at the top, in which you will see a graph showing the voting results.
+        1. Click on the “Download voting results summary” button.
+        1. Once downloaded, the “final.zip” folder will appear in your computer’s “Downloads” folder.
+
+        The zip folder includes:
+
+        - A spreadsheet (CSV) file with the full results data
+        - A PDF results graph
+        - A Word document with the topic text (attachments are not included)
+        - a metadata file “__metainfo.html” that contains the topic ID and vote ID
+        - .html files with the names of the vote options, containing the option ID and text
+
+        ## Related content{.mt-5}
+        - [Downloading digital signature vote files (Estonia only)](/help/voting/downloading-digital-signature-vote-files)
+        - [Submitting signatures to the Äriregister / Riigikogu / local government (Estonia only)](/help/voting/submitting-signatures-to-the-ariregister-riigikogu-local-government-estonia-only)
+        { .list-arrow .list-unstyled }
+
+setting-up-digital-signature-voting-for-topic-admins-estonia-only:
+    path: /help/voting/setting-up-digital-signature-voting-for-topic-admins-estonia-only
+    data:
+        category: /help/category/data.en.yaml
+        help: /help/data.en.yaml
+    title: Setting up digital signature voting (for topic admins, Estonia only)
+    text: |
+        In Estonia, it is possible for participants to [add a digital signature](/help/voting/how-to-vote-using-a-digital-signature) to their votes.
+
+        **If you are the admin of a topic,** here’s how you can set up the vote so that topic participants can vote using digital signatures:
+
+        1. First, set up a vote by clicking on “Send to voting” in the Options menu of the relevant topic. (Right sidebar on desktop, or in the options menu tab on mobile).
+        1. Choose either “Regular” or “Custom” vote, depending on your preference. Digital voting is available in both options.
+        1. In the “Set up voting rights” section of the vote settings, move the e-ID slider from “OFF” to “ON”.
+        1. Once all your settings are how you want them, click on “Start voting”.
+
+        **Please note:**
+
+        - When eID voting is enabled, it is not possible to enable vote delegation.
+        - On public topics, it is possible for participants to vote using e-ID without logging in first, if the admin has enabled e-ID voting when setting up the vote.
+
+        ## Related content{.mt-5}
+        - [How to vote using a digital signature (Estonia only)](/help/voting/how-to-vote-using-a-digital-signature)
+
+how-to-vote-using-a-digital-signature-Estonia-only:
+    path: /help/voting/how-to-vote-using-a-digital-signature
+    data:
+        category: /help/category/data.en.yaml
+        help: /help/data.en.yaml
+    title: How to vote using a digital signature (Estonia only)
+    text: |
+        In Estonia, it is possible for participants to add a digital signature to their votes, if this option was enabled by the admin when setting up the vote. To do this, you need to have an ID card reader, Mobile ID or Smart ID.
+
+        Here’s how:
+        1. Go into the relevant topic. (See Finding a topic).
+        1. Choose the option you want to vote for, and click “Submit your vote”.
+        1. Select your preferred e-ID signing method.
+        1. Fill the required fields and click on the “Sign” button.
+        1. After signing, a “Your vote has been registered” message will appear. You can download your signed vote (as a BDOC folder) in the right hand corner of the pop-up message window.
+
+        **Please note:**
+        - If you change your mind, you can change your vote by repeating the above process, as long as the vote is still open.
+        - On public topics, it is possible to vote using e-ID without logging in first, if the admin enabled e-ID voting when setting up the vote.
+
+        ## Related content{.mt-5}
+        - [Finding a topic](/help/voting/finding-a-topic)
+        { .list-arrow .list-unstyled }
+
+downloading-digital-signature-vote-files:
+    path: /help/voting/downloading-digital-signature-vote-files
+    data:
+        category: /help/category/data.en.yaml
+        help: /help/data.en.yaml
+    title: Downloading digital signature vote files (Estonia only)
+    text: |
+        In Estonia, when participants add digital signatures to their votes, the topic admin(s) can download the voting results as a BDOC folder.
+
+        Here’s how:
+
+        1. Go into the relevant topic.
+        1. Ensure that the [vote is closed](/help/voting/closing-the-vote-or-setting-a-vote-deadline), and has been sent to [follow-up](/help/follow-up).
+        1. Click on the “Vote” tab at the top.
+        1. Choose whether to download the results as a “human readable” version or a “machine readable” version. The “human readable” version includes a [CSV spreadsheet file](/help/voting/the-csv-file-for-digital-signature-voting-results/), the “machine readable” version does not.
+        1. Once downloaded, the “final.bdoc” folder will appear in your computer’s “Downloads” folder.
+
+        ## Related content{.mt-5}
+        - [Digital signature voting results folder contents (Estonia only)](/help/voting/digital-signature-voting-results-folder-contents)
+        - [The CSV file for digital signature voting results (Estonia only)](/help/voting/the-csv-file-for-digital-signature-voting-results)
+        - [Submitting signatures to the Äriregister / Riigikogu / local government (Estonia only)](/help/voting/submitting-signatures-to-the-ariregister-riigikogu-local-government-estonia-only)
+        { .list-arrow .list-unstyled }
+
+digital-signature-voting-results-folder-contents:
+    path: /help/voting/digital-signature-voting-results-folder-contents
+    data:
+        category: /help/category/data.en.yaml
+        help: /help/data.en.yaml
+    title: Digital signature voting results folder contents (Estonia only)
+    text: |
+        In Estonia, digital signature voting results [downloaded by admins](/help/voting/downloading-digital-signature-vote-files) come in a BDOC folder.
+
+        Here’s what that folder contains:
+        - A Word document with the topic text (attachments are not included)
+        - A metadata file “__metainfo.html” that contains the topic ID and vote ID
+        - .html files with the names of the vote options, containing the option ID and text
+        - each user's vote containers
+        - an [optional spreadsheet (CSV) file](/help/voting/the-csv-file-for-digital-signature-voting-results)
+        *To download a folder including a CSV file, choose “human-readable file”. To download a folder which does not include a CSV file, choose “machine-readable file”. Which one you choose depends on [what you plan to do](/help/voting/help/voting/submitting-signatures-to-the-ariregister-riigikogu-local-government-estonia-only) with the results.*
+
+        ## Related content{.mt-5}
+        - [Downloading digital signature vote files (Estonia only)](/help/voting/downloading-digital-signature-vote-files)
+        - [The CSV file for digital signature voting results (Estonia only)](/help/voting/the-csv-file-for-digital-signature-voting-results)
+        - [Submitting signatures to the Äriregister / Riigikogu / local government (Estonia only)](/help/voting/submitting-signatures-to-the-ariregister-riigikogu-local-government-estonia-only)
+        { .list-arrow .list-unstyled }
+
+the-csv-file-for-digital-signature-voting-results:
+    path: /help/voting/the-csv-file-for-digital-signature-voting-results
+    data:
+        category: /help/category/data.en.yaml
+        help: /help/data.en.yaml
+    title: The CSV file for digital signature voting results (Estonia only)
+    text: |
+        In Estonia, digital signature voting results can be downloaded with a CSV file (the “human readable” option) or without a CSV file (the “machine readable” option).
+
+        **What is a CSV file?**
+
+        A CSV file is a “comma-separated values'' file, which presents data in a tabular format. This can be opened and read using any spreadsheet software (e.g. Excel, Google Sheets).
+
+        Each voter’s data is displayed in a separate line in the table. It shows the date and time they voted, their name, their personal identification code, the options they voted for and the file name of each option they voted for.
+
+        Here is an example of a line in a vote CSV file:
+
+        *Thu Jan 21 2021 13:51:07 GMT + 0200 (Eastern European Standard Time), PNOEE-112233444, JAAK ERVIN SINGLE-GATE, "Two, Three", "Two.html, Three.html"*
+
+
+        ## Related content{.mt-5}
+        - [Downloading digital signature vote files (Estonia only)](/help/voting/downloading-digital-signature-vote-files)
+        - [Digital signature voting results folder contents (Estonia only)](/help/voting/digital-signature-voting-results-folder-contents)
+        - [Submitting signatures to the Äriregister / Riigikogu / local government (Estonia only)](/help/voting/submitting-signatures-to-the-ariregister-riigikogu-local-government-estonia-only)
+        { .list-arrow .list-unstyled }
+
+
+creating-an-inline-vote-in-a-topic-text:
+    path: /help/voting/creating-an-inline-vote-in-a-topic-text
+    data:
+        category: /help/category/data.en.yaml
+        help: /help/data.en.yaml
+    title: Creating an inline vote in a topic text
+    text: |
+        Inline votes allow those with “admin” and “edit” rights for the topic to democratically decide on the specifics of the topic text. For example, by voting on three different options for what to change a particular word/sentence/paragraph to.
+
+        To use inline voting:
+
+        - Select the relevant words in the topic text, while in edit mode.
+        - In the pop-up, select “Create voting”.
+        - Add an explanation of what the vote is about, define the voting options and click “Start voting”.
+        - The relevant text will now be highlighted green.
+        - Other admins will now be able to submit their votes, by clicking on the green highlighted text while in edit mode.
+        - Once everyone has voted, click “close voting” in the inline vote pop-up.
+        - You can choose to automatically replace the original text with the most voted option if you wish.
+        - To view the vote results, click on the green highlighted text.
+
+setting-up-multiple-choice-voting:
+    path: /help/voting/setting-up-multiple-choice-voting
+    data:
+        category: /help/category/data.en.yaml
+        help: /help/data.en.yaml
+    title: Setting up multiple choice voting
+    text: |
+        As the admin of a topic, when [setting up a vote](/help/voting/how-to-set-up-a-vote), you can allow topic participants to select more than one vote response option when they vote. We call this “multiple choice voting”.
+
+        To do this you’ll need to select the “custom vote” option when customising the voting settings.
+
+        **Custom vote**
+
+        - In a custom vote, you have complete flexibility to add your own vote response options. Simply type the choices you wish participants to choose from into the “Step 2: Define answers” fields.
+        - Just like in the regular vote, you can choose to include a “Neutral” or “Veto” option if you wish.
+        - In “Step 3: Define min/max options” you can specify how many of the vote response options you want participants to be able to vote for. For example, if you have set 5 vote options in total, and you want participants to vote for at least 1 but no more than 3 of these, you would set the “Min choices” to 1 and the “Max choices” to 3.
+
+
+customising-the-voting-settings:
+    path: /help/voting/customising-the-voting-settings
+    data:
+        category: /help/category/data.en.yaml
+        help: /help/data.en.yaml
+    title: Customising the voting settings
+    text: |
+        As admin of a topic, there are a variety of options available to you when you set up a vote. These settings determine the vote choices available to participants, and the way in which they can vote.
+
+        Once you have [started the vote](/help/voting/how-to-set-up-a-vote), you will first need to choose whether you are setting up a “Regular vote” or a “Custom vote”:
+
+        **Regular vote**
+
+        - Regular votes use predefined “Yes”/”No” vote response options.
+        - You can choose whether to include a “Neutral” option and/or a “Veto”, using the relevant toggle buttons.
+
+        **Custom vote**
+
+        - In a custom vote, you have complete flexibility to add your own vote response options. Simply type the choices you wish participants to choose from into the “Step 2: Define answers” fields.
+        - Just like in the regular vote (see above), you can choose to include a “Neutral” or “Veto” option if you wish.
+        - In “Step 3: Define min/max options” you can specify how many of the vote response options you want participants to be able to vote for. For example, if you have set 5 vote options in total, and you want participants to vote for at least 1 but no more than 3 of these, you would set the “Min choices” to 1 and the “Max choices” to 3.
+
+        **Voting rights**
+
+        The “Set up voting rights” section of the settings is where you decide in what ways the participants can cast their votes.
+
+        - **eID.** Toggling this option to “on” means that participants will be required to use [e-ID to sign their vote](/help/voting/setting-up-digital-signature-voting-Estonia-only). (This is currently only available in Estonia, using ID-card, Mobile-ID or Smart-ID login).
+        - **Vote delegation.** Toggling this option to “on” means that participants will be able to [delegate their vote](/help/voting/delegating-your-vote), so that another user can vote on their behalf. (Note: it is not possible to enable vote delegation when e-ID voting is enabled).
+
+        **End of voting system**
+
+        In the “End of voting system” section, you can set the vote to automatically vote at a certain point:
+
+        - Deadline. If you toggle this option to “on”, you can set a date and a time for the vote to automatically close.
+        - All votes are in. If you toggle this option to “on”, you are setting the vote to close as soon as every user who is participating in the topic has voted.
+        - Both of the above. If you toggle both these options to “on”, the vote will automatically close at whichever point comes first - either the deadline, or all votes being cast.
+        - None of the above. If you leave both of these options “off”, you will need to [close the vote manually](/help/voting/closing-the-vote-or-setting-a-vote-deadline).
+
+        ## Related content{.mt-5}
+        - [How to set up a vote](/help/voting/how-to-set-up-a-vote)
+        - [Setting up multiple choice voting](/help/voting/setting-up-multiple-choice-voting)
+        - [Closing the vote or setting a voting deadline](/help/voting/closing-the-vote-or-setting-a-vote-deadline)
+        - [Setting up digital signature voting (for topic admins, Estonia only)](/help/voting/setting-up-digital-signature-voting-for-topic-admins-estonia-only)
+        { .list-arrow .list-unstyled }
+

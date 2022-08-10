@@ -1,0 +1,126 @@
+---
+path: /projektit
+title: Projektit
+description: Toteutamme hauskoja koulutusprojekteja yhdessä yliopistojen ja organisaatioiden kanssa kaikkialta maailmasta. Katso, mikä sopii sinulle parhaiten!
+keywords:
+  - nuorten johtajuus
+  - e-demokratian kurssi
+  - osallistumistyökalut
+image: /images/meta/vision.jpg
+blocks:
+  start-img:
+    class:
+      - order-1
+    style:
+      background-color: '#AAF3DD'
+      background-image: url(/images/vision-start.png), url(/images/bubble-dots.png), url(/images/bubble-yellow.svg)
+      background-position: center center, 0 10%, 75% 20%
+      background-size: 500px 500px, 350px 350px, 65px 65px
+  #text: |
+  #[► Our Vision](#video){.btn .btn-primary data-toggle=modal data-target=#video}
+  #video:
+  #id: video
+  #url: 'https://www.youtube.com/embed/hDLWbQQAk8g?rel=0&showinfo=0&modestbranding=1&autoplay=1&cc_load_policy=1&cc_lang_pref=en'
+  start:
+    class:
+      - order-0
+      - py-5
+    style:
+      background-color: '#AAF3DD'
+      background-image: url(/images/bubble-blue.svg), url(/images/bubble-orange.svg)
+      background-position: 10% 15%, 90% 90%
+      background-size: 42px 42px, 102px 102px
+    title: |
+      Yhteistyötä muutoksen puolesta.
+    text: |
+      Temme innovatiivisia e-demokratia- ja kansalaisosallistumisprojekteja yhteistyössä eri organisaatioiden kanssa ympäri maailmaa.
+
+      - [Talvi- ja kesäkoulut](#individual)
+      - [EuroChangemakers](#awareness)
+      - [Civic Hackathon](#individual2)
+      - [Participatory Youth Leadership Network](#awareness2)
+      {.arrow }
+  individual-img:
+    class:
+      - order-2
+    style:
+      background-image: url(/images/bubble-yellow.svg), url(/images/bubble-dots.png)
+      background-position: 10% 10%, 90% 10%
+      background-size: 45px 45px, 350px 350px
+    text: |
+      ![Aktiivinen kansalainen, joka uskoo, että osallistumalla poliittisten ongelmien ratkaisuun voi vaikuttaa.](/images/vision-individual.png){ .img-fluid }
+  individual:
+    class:
+      - order-3
+    title: |
+      Talvi- ja kesäkoulut.
+    text: |
+      Digital Innovation for Civic Engagement Projects -kurssi toteutetaan yhteistyössä meidän ja Tallinnan yliopiston välillä osana yliopiston kesä- ja talvikouluohjelmia. Kymmenen päivän kurssilla opetetaan yhteisöjen ja kansalaisaloitteiden jäsenille keinoja saada yhä useammat ihmiset mukaan keskustelu- ja päätöksentekoprosesseihin hyödyntämällä teknisiä työkaluja.
+    button1st:
+      title: Lue lisää
+      url: https://winterschool.tlu.ee/digital-innovation-for-civic-engagement-projects/
+      target: _blank
+  awareness:
+    class:
+      - order-4
+      - py-5
+    style:
+      background-image: url(/images/bubble-orange.svg), url(/images/vision-awareness.jpg)
+      background-size: 164px 164px, cover
+      background-position: 10% 10%
+    #label: Erasmus+ project
+    title: |
+      EuroChangemakers
+    text: |
+      Tämä 18 kuukauden projekti vastaa COVID-19-pandemian tuomiin demokraattisen osallistumisen haasteisiin kansalaishackathonien avulla, uudella alustalla, nuorisoverkostolla sekä white paper -käytäntöasiakirjalla.
+    button1st:
+      title: Lue lisää
+      url: https://eurocm.geyc.ro/
+      target: _blank
+  individual2-img:
+    class:
+      - order-6
+    style:
+      background-image: url(/images/bubble-yellow.svg), url(/images/bubble-dots.png)
+      background-position: 10% 10%, 90% 10%
+      background-size: 45px 45px, 350px 350px
+    text: |
+      ![Kuva palavasta hehkulampusta, jonka ympärillä on neljä pientä kuplaa, joiden välillä on kuplia samaan suuntaan osoittavat nuolet.](/images/research-start.png){ .img-fluid }
+  individual2:
+    class:
+      - order-7
+    title: |
+      Civic Hackathon
+    text: |
+      Osallistujat pääsevät "hakkeroimaan" kansalaisosallistumishankkeita ja osallistumaan keskusteluihin sekä verkossa että paikan päällä.
+    button1st:
+      title: Lue lisää
+      url: /civic-hackathon/
+  awarness2-img:
+    class:
+      - order-9
+    style:
+      background-image: url(/images/bubble-yellow.svg), url(/images/bubble-dots.png)
+      background-position: 10% 10%, 90% 10%
+      background-size: 45px 45px, 350px 350px
+    text: |
+      ![Vasemmalla puolella naisen kasvot, jotka katsovat oikealla olevaa näyttöä, jossa on erilaisia ihmisiä useissa ikkunoissa.](/images/projects-pyln.jpg){ .img-fluid }
+  awareness2:
+    class:
+      - order-8
+    #- py-5
+    #style:
+    #background-image: url(/images/bubble-orange.svg), url(/images/projects-pyln.jpg)
+    #background-size: 164px 164px, cover
+    #background-position: 10% 10%
+    #label: Raising awareness
+    title: |
+      Participatory Youth Leadership Network.
+    text: |
+      Citizen OS:n Intian-osasto PYLN tekee yhteistyötä intialaisten organisaatioiden ja haktivistien kanssa, jotka jakavat visiomme osallistavan johtajuuden kehittämisestä.
+
+      PYLN tukee ja kehittää toimintaan perustuvaa tutkimusta, kuten kampanjoita, vetoomuksia, alhaalta ylöspäin suuntautuvaa päätöksentekoa ja ruohonjuuritason aloitteita.
+    button1st:
+      title: Lue lisää
+      url: /pyln/
+      target: _blank

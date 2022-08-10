@@ -1,0 +1,120 @@
+---
+path: /tim
+title: Tim
+description: Courage, self-determination, desire to change the world is what we value at Citizen OS. If you would like to be a part of the team, contact us!
+keywords:
+  - social movement
+  - ngo
+  - democracy foundation
+image: /images/meta/home.jpg
+team:
+  -
+    name: Anett Linno
+    title: CEO & Product Manager
+    text: With kind tenderness brings structure and clarity to any chaos.
+    avatar: /images/team/anett-avatar.jpg
+    picture: /images/team/anett.jpg
+    linkedin: https://www.linkedin.com/in/anettlinno/
+    twitter: https://twitter.com/twitanett
+    email: anett@citizenos.com
+  -
+    name: Margo Loor
+    title: Co-Founder & Technology Evangelist
+    text: Brings light, wisdom and paints the big picture.
+    avatar: /images/team/margo-avatar.jpg
+    picture: /images/team/margo.jpg
+    linkedin: https://www.linkedin.com/in/margoloor/
+    twitter: https://twitter.com/loorm
+    email: info@citizenos.com
+  -
+    name: Agustina Iskandar Crombach
+    title: Partnership Lead in Indonesia
+    text: Creator of miracles, protector of freedom and serial collaborator.
+    avatar: /images/team/agustina-avatar.jpg
+    picture: /images/team/agustina.jpg
+    linkedin: https://www.linkedin.com/in/agustina-iskandar-95a402109/
+    email: agustina@citizenos.com
+  -
+    name: Sara Sinha
+    title: Partnership and Community Lead
+    text: Open governance enthusiast.
+    avatar: /images/team/sara-avatar.png
+    picture: /images/team/sara.png
+    linkedin: https://www.linkedin.com/in/sara-sinha-361577146/
+    twitter: https://twitter.com/Sarasinha1992
+    email: sara@citizenos.com
+  -
+    name: Ilmar Türk
+    title: CTO
+    text: Guaranteed delivery of code and smiles.
+    avatar: /images/team/ilmar-avatar.jpg
+    picture: /images/team/ilmar.jpg
+    linkedin: https://www.linkedin.com/in/ilmar-t%C3%BCrk-752466125/
+    email: ilmar@citizenos.com
+  -
+    name: Mikk Andresen
+    title: Software Architect
+    text: Builds stuff out of nothing and keeps our morale at a top height.
+    avatar: /images/team/mikk-avatar.jpg
+    picture: /images/team/mikk.jpg
+    linkedin: https://www.linkedin.com/in/mikkandresen/
+    email: mikk@citizenos.com
+  -
+    name: Kati Vellak
+    title: Lawyer
+    text: Protects us from baddies and energizes anyone in sight.
+    avatar: /images/team/kati-avatar.jpg
+    picture: /images/team/kati.jpg
+    linkedin: https://www.linkedin.com/in/kativellak/
+    email: kati@citizenos.com
+  -
+    name: Becca Melhuish
+    title: Communications Designer & Copywriter
+    text: Brings sparkle and shine to all of our comms.
+    avatar: /images/team/becca-avatar.jpg
+    picture: /images/team/becca.jpg
+    linkedin: https://www.linkedin.com/in/beccamelhuish/
+    email: becca.melhuish@gmail.com
+  -
+    name: Leony Chrisanti
+    title: Designer for Citizen OS Indonesia
+    text: Professional and responsible.
+    avatar: /images/team/leony-avatar.jpg
+    picture: /images/team/leony.jpg
+    email: leonychrisanti1789@gmail.com
+  -
+    name: Tasia Rosalina Tedjo Purnomo
+    title: Social Media Manager for Citizen OS Indonesia
+    text: Support system fuelled with curiosity and values.
+    avatar: /images/team/tasia-avatar.jpg
+    picture: /images/team/tasia.jpg
+    linkedin: https://www.linkedin.com/in/tasia-rosalina
+    email: tasia@citizenos.com
+  -
+    name: Oksana Naidjonova
+    title: Localisation & Website Management
+    text: Fights for justice and leads us to become better every day.
+    avatar: /images/team/oksana-avatar.jpg
+    picture: /images/team/oksana.jpg
+    linkedin: https://www.linkedin.com/in/oksananaidjonova/
+    twitter: https://twitter.com/oksks
+    email: oksana@citizenos.com
+other:
+  title: |
+    Like-minded people
+  advisor: |
+    **Advisor**
+
+    Ahti Heinla - Co-Founder, CTO at Starship Technologies.
+  founder: |
+    **Founders**
+
+    Ahti Heinla, Margo Loor, Let's Do It Foundation
+  design: |
+    **Designers**
+
+    Platform and web design by DUX.ee, printed designs by Merike Tamm.
+  minds: |
+    **Contributors**
+
+    Henri Laupmaa, Liia Hänni, Hille Hinsberg, Eva Truuverk, Kadi Maria Vooglaid, Lennart Rikk. Web built by Argo Roots using Entu SSG.

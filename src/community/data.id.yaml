@@ -1,0 +1,227 @@
+---
+path: /masyarakat
+title: Community
+description: Join our Hacktivist Community! Citizen OS brings together active people whose decisions today build tomorrow's society! Participate and raise your voice!
+keywords:
+  - civil society
+  - civic activist
+  - activist community
+image: /images/meta/vision.jpg
+blocks:
+  start-img:
+    class:
+      - order-1
+      - d-none
+      - d-sm-block
+    style:
+      background-color: '#D07FB4'
+      background-image: url(/images/community-start.png)
+      background-position: left center
+      background-size: cover
+  start:
+    class:
+      - order-0
+      - py-5
+      - pr-5
+    style:
+      color: '#FFFFFF'
+      background-color: '#D07FB4'
+    title: |
+      Become a founding member of the civic hacktivist community
+    text: |
+      A vibrant community for the exchange of knowledge and ideas about e-democracy and collaborative decision-making.
+    button1st:
+      title: Apply now!
+      url: '#founding'
+  issue-img:
+    class:
+      - order-2
+    style:
+      background-image: url(/images/bubble-yellow.svg), url(/images/bubble-dots.png)
+      background-position: 90% 10%, 90% 70%
+      background-size: 45px 45px, 350px 350px
+    text: |
+      ![A female protestor holding up a sign saying ‘Error 155: Democracy not found’..](/images/community-issue.png){ .img-fluid }
+  issue:
+    class:
+      - order-3
+    #label: As an individual
+    title: |
+      What’s the issue?
+    text: |
+      We live in a world in which the **most important decisions** are primarily made by **a small group of highly privileged people**.
+
+      The **quality of decisions** made by such narrow groups of individuals is often **highly unsatisfactory**, and even **damaging**.
+
+      Decision-makers often have **little or no knowledge** of the topic in question, and **exclude the knowledge and desires** of the very people whose lives they affect the most – while they themselves remain entirely unaffected by their own misguided choices.
+  mission-img:
+    class:
+      - order-4
+      - order-sm-5
+      - py-5
+    style:
+      background-color: '#F7F7F7'
+      background-image: url(/images/bubble-orange.svg), url(/images/bubble-blue.svg), url(/images/bubble-dots.png)
+      background-position: 90% 10%, 30% 80%, 20% 90%
+      background-size: 45px 45px, 165px 165px, 350px 350px
+    text: |
+      ![A group of specialists sat around a table with laptops discussing civic tech and participatory democracy.](/images/community-mission.jpg){ .img-fluid .box-shadow }
+  mission:
+    class:
+      - order-5
+      - order-sm-4
+    style:
+      background-color: '#F7F7F7'
+    #label: COSCon
+    title: |
+      Our mission
+    text: |
+      Thanks to **technological developments**, information is now **more freely and widely available, active participation is easier than ever** to facilitate, and **awareness of the right to be actively involved** as citizens is increasingly strong among the general population.
+
+      Our mission is to **bring decision-making back to the people** and their communities, through **nurturing e-democracy** and **developing innovative technologies** for higher quality collaborative decision-making.
+  hacktivist:
+    class:
+      - order-6
+      - col-sm-12
+      - py-5
+      - text-center
+    style:
+      background-image: url(/images/bubble-dots.png)
+      background-position: center
+      background-size: 450px 450px
+    title: |
+      What is a Civic Hacktivist?
+    blocks:
+      activist:
+        title: Civic activist
+        text: |
+          Tackles a systematic problem impacting the wider population, and takes action for a better future.
+        background: 'linear-gradient(180deg, #FFF6A5 0%, #FFC600 100%)'
+      hacker:
+        title: Civic hacker
+        text: |
+          Identifies social problems, and uses technological tools to build socially beneficial solutions.
+        background: 'linear-gradient(180deg, #FFF6A5 0%, #FFC600 100%)'
+      hacktivist:
+        title: Civic Hacktivist
+        text: |
+          **Uses technology to make our society better.**
+        background: 'linear-gradient(180deg, #FAD961 0%, #F76B1C 100%)'
+  hactivist-community-img:
+    class:
+      - order-7
+      - col-sm-12
+      - text-center
+    style:
+      height: 30rem
+      background-image: url(/images/community-hactivist-community.jpg)
+      background-position: center top
+      background-size: cover
+  hactivist-community-1:
+    class:
+      - order-8
+      - py-5
+    style:
+      background-color: '#AAF3DD'
+    #label: Raising awareness
+    title: |
+      What is the Civic Hactivist Community?
+    text: |
+      With your help, **together we will build a vibrant community** for the **international meeting of minds** of all those working towards the same **goal – academics**, researchers, civic tech brains, civic initiatives, communities, NGOs, foundations, alliances, educational institutions and more.
+
+      It is a space in which to **exchange knowledge and ideas** about **e-democracy, collaborative decision-making**, and **collectively overcoming challenges**.
+  hactivist-community-2:
+    class:
+      - order-9
+      - py-5
+    style:
+      background-color: '#AAF3DD'
+    #label: Raising awareness
+    title: |
+      Knowledge shared in the community will include
+    text: |
+      - **Scientific research** about collaborative decision-making and its impacts
+      - **Technological tools and solutions** to improve collaborative decision-making
+      - **Practical examples** of collaborative decision-making bringing positive change
+      { .bullet }
+  help-img:
+    class:
+      - order-10
+      - order-sm-11
+      - py-5
+    style:
+      background-image: url(/images/bubble-blue.svg), url(/images/bubble-yellow.svg), url(/images/bubble-dots.png)
+      background-position: 70% 90%, 30% 10%, 20% 90%
+      background-size: 45px 45px, 165px 165px, 350px 350px
+    text: |
+      ![Our Hacktivist Community is vibrant and has many international active partners.](/images/community-help.jpg){ .img-fluid .box-shadow }
+  help:
+    class:
+      - order-11
+      - order-sm-10
+    #label: COSCon
+    title: |
+      Your help is needed to:
+    text: |
+      - Establish the roles and identity of the community’s hactivists
+      - Shape the creation of the all-important digital meeting place
+      - Co-create a physical event for civic hacktivists to come together
+      - ... and more!
+      { .bullet }
+  founding:
+    class:
+      - order-12
+      - col-sm-12
+      - py-5
+      - text-center
+    style:
+      background-color: '#F7F7F7'
+      background-image: url(/images/bubble-orange.svg), url(/images/bubble-turquoise.svg), url(/images/bubble-dots.png)
+      background-position: 90% 50%, 10% 20%, 70% 20%
+      background-size: 45px 45px, 100px 100px, 350px 350px
+    title: |
+      Become a Founding Member
+    text: |
+      We have the vision, inspiration and energy to make this amazing - **now all we need is you!**
+
+      The community will be built in a **collaborative, inclusive, transparent**, and **creative** way – become a founder member and help **shape the future of e-democracy**.
+
+      To become a Founding Member, register your interest by email and we’ll arrange a call.
+  #button1st:
+  #title: Apply now!
+  #url: '#apply'
+  chat:
+    class:
+      - order-12
+      - col-sm-12
+      - col-lg-8
+      - offset-lg-2
+      - py-5
+      - text-center
+    style:
+      background-image: url(/images/bubble-dots.png)
+      background-position: center
+      background-size: 350px 350px
+    title: |
+      Any questions? We’d love to chat!
+    text: |
+      ![Anett Linno, Citizen OS’s Partnerships and Community Lead.](/images/community-anett.png){ .col-4 .col-md-3 .mt-4 }
+
+      ##### **Anett Linno**
+      Partnerships & Community Foundation Citizen OS
+    blocks:
+      -
+        icon: /images/community-email.svg
+        title: anett@citizenos.com
+        url: mailto:anett@citizenos.com
+        alt: Email icon
+      -
+        icon: /images/community-skype.svg
+        title: anettorg
+        url: skype:anettorg
+        alt: Skype icon
+      -
+        icon: /images/community-phone.svg
+        title: +372 5669 2076
+        url: tel:+37256692076
+        alt: Phone icon

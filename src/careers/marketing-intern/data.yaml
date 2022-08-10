@@ -1,0 +1,45 @@
+path: /careers/marketing-intern
+
+title: Marketing - Internship or Volunteering
+description: Join the bright minds in our international team for a life-changing experience!
+# keywords:
+#     - lorem
+#     - ipsum
+#     - dolor
+image: /images/meta/careers.jpg
+
+text: |
+    We accept interns and volunteers twice a year - in September and in January. You may apply to carry out your formal internship for University or to volunteer.
+
+    **UX Research**: Currently we are looking for someone to help with user research and to conduct interviews with potential users. You will be supported and taken through the process step-by-step.
+
+    **We expect:**
+    - Passion for civic engagement;
+    - proficiency in English;
+    - team-player;
+    - good self-discipline;
+    - confidence and ability to put forward own opinions using solid rational arguments;
+    - if volunteering, about 4h of work per week.
+     { .bullet }
+
+    **We appreciate:**
+    - Interest in e-democracy and e-decisionmaking;
+    - previous experience with marketing or communications;
+     { .bullet }
+
+    **We offer:**
+    - An opportunity to improve the way countries and societies operate;
+    - interesting challenges in a young and globally rapidly evolving sphere (e-democracy solutions);
+    - awesome, energetic, teammates;
+    - training, conferences and other development opportunities;
+    - working remotely;
+    - the flexibility to decide your own working hours.
+     { .bullet }
+
+button1st:
+    title: To apply, please email us your CV and a cover letter.
+    url: 'mailto:anett@citizenos.com'
+
+button2nd:
+    title: all vacancies
+    url: /careers/

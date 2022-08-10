@@ -5,24 +5,16 @@ locales:
     - fr
     - ru
     - id
-    # - aa # Crowdin In-context pseudo language
 defaultLocale: en
 
-source: ./source
-js: ./source/_scripts
-styl: ./source/_styles
-build: ./build
-assets: ./assets
-
-protectedFromCleanup:
-    - .git
-    - assets
-    - index.html
+source: ./src
+js: ./src/_scripts
+styl: ./src/_styles
+build: ./dist
 
 server:
     port: 4000
-    assets: /assets/
+    public: ./public
 
 dev:
     aliases: true
-    paths:

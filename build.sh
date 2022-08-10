@@ -2,12 +2,8 @@
 
 set -o errexit -o nounset
 
-rm -rf ./build
-mkdir -p ./build/assets
+rm -rf ./dist
+mkdir ./dist
 
-cp -r ./assets/* ./build/assets
-cp ./assets/_redirects ./build/
-cp ./assets/robots.txt ./build/
-cp ./assets/sitemap.xml ./build/
-
+cp -r ./public/* ./dist
 npm run build

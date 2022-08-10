@@ -1,0 +1,28 @@
+footer.container-fluid
+    .container
+        .row.py-5
+            .col-12.col-sm-5.mt-5.mt-sm-0
+                a.d-block.pb-2(href=self.rootUrl)
+                    img(src='/images/citizenos-logo.png', height=37, width=201, alt='Citizen OS logo')
+                p= self.footer.text
+            .col-12.col-sm-2
+                h2= self.footer.navigation.about.title
+                if self.footer.navigation.about.links
+                    each l in self.footer.navigation.about.links
+                        p
+                            a(href=l.url)= l.title
+
+            .col-12.col-sm-2
+                h2= self.footer.navigation.support.title
+                if self.footer.navigation.support.links
+                    each l in self.footer.navigation.support.links
+                        p
+                            a(href=l.url)= l.title
+
+            .col-12.col-sm-3
+                h2= self.footer.navigation.community.title
+                if self.footer.navigation.community.links
+                    .row
+                        each l in self.footer.navigation.community.links
+                            a.col-2.mb-4(href=l.url, target='_blank')
+                                img(src=l.icon, alt=l.title + ' icon')

@@ -1,0 +1,29 @@
+---
+path: /kontakt
+title: Kontakt
+description: Citizen OS on tasuta e-demokraatia platvorm, mille peakontor asub Eestis ja mis on pälvinud paljude avaliku ja erasektori kasutajagruppide usalduse üle maailma.
+keywords:
+  - e-hääletus
+  - kaasamise tehnoloogia
+  - avatud valitsemine
+image: /images/meta/vision.jpg
+blocks:
+  contact-img:
+    class:
+      - d-none
+      - d-sm-block
+    style:
+      background: 'linear-gradient(180deg, #0EB7FE 0%, #0680FC 100%)'
+      min-height: 75vh
+  contact:
+    #label: About
+    title: |
+      Kontakt
+    text: |
+      |  |  |
+      | --- | --- |
+      | Kontakt: | <info@citizenos.com> |
+      | Organisatsioon: | Sihtasutus Citizen OS |
+      | Aadress: | Telliskivi Loomelinnak, Telliskivi 60a, Tallinn, Eesti, EL. |
+      | Registrikood: | 90014709 |
+      | Käibemaksuteave: | Sihtasutus Citizen OS ei ole käibemaksukohustuslane. |

@@ -1,0 +1,126 @@
+---
+path: /proyekty
+title: Проекты
+description: Мы проводим образовательные и развлекательные проекты в сотрудничестве с университетами и организациями со всего мира. Выберите тот, который подойдет именно вам!
+keywords:
+  - молодежное лидерство
+  - курс электронной демократии
+  - инструменты участия
+image: /images/meta/vision.jpg
+blocks:
+  start-img:
+    class:
+      - order-1
+    style:
+      background-color: '#AAF3DD'
+      background-image: url(/images/vision-start.png), url(/images/bubble-dots.png), url(/images/bubble-yellow.svg)
+      background-position: center center, 0 10%, 75% 20%
+      background-size: 500px 500px, 350px 350px, 65px 65px
+  #text: |
+  #[► Our Vision](#video){.btn .btn-primary data-toggle=modal data-target=#video}
+  #video:
+  #id: video
+  #url: 'https://www.youtube.com/embed/hDLWbQQAk8g?rel=0&showinfo=0&modestbranding=1&autoplay=1&cc_load_policy=1&cc_lang_pref=en'
+  start:
+    class:
+      - order-0
+      - py-5
+    style:
+      background-color: '#AAF3DD'
+      background-image: url(/images/bubble-blue.svg), url(/images/bubble-orange.svg)
+      background-position: 10% 15%, 90% 90%
+      background-size: 42px 42px, 102px 102px
+    title: |
+      Сотрудничество ради изменений.
+    text: |
+      Вместе с организациями по всему миру мы работаем над инновационными общественными проектами по электронной демократии.
+
+      - [Зимняя и летняя школы](#individual)
+      - [EuroChangemakers](#awareness)
+      - [Civic Hackaton](#individual2)
+      - [Сеть коллективного молодежного лидерства](#awareness2)
+      {.arrow }
+  individual-img:
+    class:
+      - order-2
+    style:
+      background-image: url(/images/bubble-yellow.svg), url(/images/bubble-dots.png)
+      background-position: 10% 10%, 90% 10%
+      background-size: 45px 45px, 350px 350px
+    text: |
+      ![Активная гражданка, которая верит, что ее участие в политических проблемах имеет влияние.](/images/vision-individual.png){ .img-fluid }
+  individual:
+    class:
+      - order-3
+    title: |
+      Зимняя и летняя школы.
+    text: |
+      Курс Digital Innovation for Civic Engagement Projects проводится нами совместно с Таллинским университетом в качестве блока учебных программ зимней и летней школы. Во время этого 10-дневного курса участники сообществ и гражданских инициатив обучаются тому, как вовлекать в обсуждения и процесс принятия решений больше людей, с помощью инновационных инструментов.
+    button1st:
+      title: Подробнее
+      url: https://winterschool.tlu.ee/digital-innovation-for-civic-engagement-projects/
+      target: _blank
+  awareness:
+    class:
+      - order-4
+      - py-5
+    style:
+      background-image: url(/images/bubble-orange.svg), url(/images/vision-awareness.jpg)
+      background-size: 164px 164px, cover
+      background-position: 10% 10%
+    #label: Erasmus+ project
+    title: |
+      EuroChangemakers
+    text: |
+      Этот 18-месячный проект отвечает на текущие проблемы демократического участия, с которыми пришлось столкнуться во время пандемии COVID-19, посредством гражданских хакатонов, новой платформы, молодежной сети и политики Белой книги.
+    button1st:
+      title: Подробнее
+      url: https://eurocm.geyc.ro/
+      target: _blank
+  individual2-img:
+    class:
+      - order-6
+    style:
+      background-image: url(/images/bubble-yellow.svg), url(/images/bubble-dots.png)
+      background-position: 10% 10%, 90% 10%
+      background-size: 45px 45px, 350px 350px
+    text: |
+      ![Изображение горящей лампочки с четырьмя маленькими красными пузырьками вокруг нее. Пузырьки образуют окружность с помощью стрелок, которые указывают от одного пузырька на другой.](/images/research-start.png){ .img-fluid }
+  individual2:
+    class:
+      - order-7
+    title: |
+      Гражданский Хакатон
+    text: |
+      Участникам будет предоставлена возможность "взломать" тему гражданского участия и дискуссии как в онлайн, так и в оффлайн режиме.
+    button1st:
+      title: Подробнее
+      url: /ru/grazhdanskij-hakaton/
+  awarness2-img:
+    class:
+      - order-9
+    style:
+      background-image: url(/images/bubble-yellow.svg), url(/images/bubble-dots.png)
+      background-position: 10% 10%, 90% 10%
+      background-size: 45px 45px, 350px 350px
+    text: |
+      ![Портрет женщины, которая смотрит на большое количество экранов с разными людьми.](/images/projects-pyln.jpg){ .img-fluid }
+  awareness2:
+    class:
+      - order-8
+    #- py-5
+    #style:
+    #background-image: url(/images/bubble-orange.svg), url(/images/projects-pyln.jpg)
+    #background-size: 164px 164px, cover
+    #background-position: 10% 10%
+    #label: Raising awareness
+    title: |
+      Сеть коллективного молодежного лидерства.
+    text: |
+      Индийское отделение Citizen OS, PYLN, сотрудничает с индийскими организациями и хактивистами, которые разделяют наше видение дальнейшего развития сферы коллективного лидерства.
+
+      PYLN поддерживает и помогает проводить исследования на основе конкретных действий, таких как кампании, петиции, принятие решений «снизу вверх» и инициативы на низовом уровне.
+    button1st:
+      title: Подробнее
+      url: /pyln/
+      target: _blank
