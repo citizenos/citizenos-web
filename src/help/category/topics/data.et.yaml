@@ -1,11 +1,10 @@
----
 multipage: true
 creating-a-new-topic:
-  path: /et/abi/teemad/uue-teema-loomine
+  path: /help/topics/creating-a-new-topic
   data:
     category: /help/category/data.en.yaml
-    help: /help/data.et.yaml
-  title: Uue teema loomine
+    help: /help/data.en.yaml
+  title: Creating a new topic
   text: |
     To create a new topic, click on “Create topic” in the main menu.
 
@@ -24,7 +23,7 @@ finding-a-topic-you-are-participating-in:
   path: /help/topics/finding-a-topic-you-are-participating-in
   data:
     category: /help/category/data.en.yaml
-    help: /help/data.et.yaml
+    help: /help/data.en.yaml
   title: Finding a topic you are participating in
   text: |
     The way in which you find a topic will depend on whether you have previously joined it or not.
@@ -74,10 +73,10 @@ troubleshooting-no-permission-to-access:
     - [Switching between accounts](/help/login/switching-accounts)
     { .list-arrow .list-unstyled }
 seeing-who-has-been-invited-to-joined-a-topic:
-  path: /et/abi/teemad/kuidas-vaadata-teemasse-kutsutuid-ja-liitunuid
+  path: /help/topics/seeing-who-has-been-invited-to-joined-a-topic
   data:
     category: /help/category/data.en.yaml
-    help: /help/data.et.yaml
+    help: /help/data.en.yaml
   title: Seeing who has been invited to / joined a topic
   text: |
     You can see who has been invited to or joined a topic as follows:
@@ -94,10 +93,10 @@ seeing-who-has-been-invited-to-joined-a-topic:
     - [Inviting users to a topic](/help/topics/inviting-users-to-a-topic)
     { .list-arrow .list-unstyled }
 checking-if-email-invites-bounced:
-  path: /et/abi/teemad/kuidas-kontrollida-kas-kutsed-joudsid-kohale
+  path: /help/topics/checking-if-email-invites-bounced
   data:
     category: /help/category/data.en.yaml
-    help: /help/data.et.yaml
+    help: /help/data.en.yaml
   title: Checking if email invites bounced
   text: |
     It is not possible to check whether an invitation has “bounced” on the Citizen OS platform.
@@ -110,10 +109,10 @@ checking-if-email-invites-bounced:
     - [Seeing who has been invited to / joined a topic](/help/topics/seeing-who-has-been-invited-to-joined-a-topic)
     { .list-arrow .list-unstyled }
 attaching-files-to-a-topic:
-  path: /et/abi/teemad/faili-lisamine-teemale
+  path: /help/topics/attaching-files-to-a-topic
   data:
     category: /help/category/data.en.yaml
-    help: /help/data.et.yaml
+    help: /help/data.en.yaml
   title: Attaching files to a topic
   text: |
     To add attachments:
@@ -155,10 +154,10 @@ attaching-files-to-a-topic:
         - xlsx
         - xlt
 adding-footnotes-to-a-topic-text:
-  path: /et/abi/teemad/allmarkuse-lisamine-teema-tekstile
+  path: /help/topics/adding-footnotes-to-a-topic-text
   data:
     category: /help/category/data.en.yaml
-    help: /help/data.et.yaml
+    help: /help/data.en.yaml
   title: Adding footnotes to a topic text
   text: |
     You can add footnotes by clicking on the footnotes button in the centre of the text editor toolbar (above the topic text), while in edit mode. The footnotes button is in the form of an asterisk: *
@@ -168,7 +167,7 @@ inviting-users-to-a-topic:
   path: /help/topics/inviting-users-to-a-topic
   data:
     category: /help/category/data.en.yaml
-    help: /help/data.et.yaml
+    help: /help/data.en.yaml
   title: Inviting users to a topic
   text: |
     There are several different ways to invite individual users to participate in a topic.
@@ -202,7 +201,7 @@ editing-a-topic:
   path: /help/topics/editing-a-topic
   data:
     category: /help/category/data.en.yaml
-    help: /help/data.et.yaml
+    help: /help/data.en.yaml
   title: Editing a topic
   text: |
     To edit a topic, make sure you are in edit mode. To enter into edit mode, you can either:
@@ -254,7 +253,7 @@ making-a-topic-public-or-private:
   path: /help/topics/making-a-topic-public-or-private
   data:
     category: /help/category/data.en.yaml
-    help: /help/data.et.yaml
+    help: /help/data.en.yaml
   title: Making a topic public or private
   text: |
     Topics can either be private, meaning that only those invited can view the topic and participate, or public, meaning that anyone can view and participate.
@@ -269,7 +268,7 @@ viewing-a-topics-activity-feed:
   path: /help/topics/viewing-a-topics-activity-feed
   data:
     category: /help/category/data.en.yaml
-    help: /help/data.et.yaml
+    help: /help/data.en.yaml
   title: Viewing a topic's activity feed
   text: |
     In your “My Topics” dashboard, select the relevant topic from the list. Click to expand the grey “Activity feed & notifications” bar. You will find this bar just underneath the “General information” box.
