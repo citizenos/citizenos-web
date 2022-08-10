@@ -1,0 +1,46 @@
+---
+path: /donate
+title: Donate
+description: Donate towards Citizen OS e-democracy platform development and maintenance
+keywords:
+  -
+blocks:
+  header:
+    title: Help us pioneer and develop the field of e-democracy
+  text:
+    text: |
+      ## Why help us?{ .pt-5 }
+
+      At Citizen OS, we want to live in a world where everyone can participate in respectful discussions. A world in which we can collectively make decisions—having our voices heard on topics that directly impact our own lives and well-being.
+
+      To make our vision a reality, we provide an open-source co-decision platform for people and communities to join local, national and even global discussions.
+
+      We also run civic hackathons, summer and winter schools, democracy festivals and more. We partner with an array of awesome, like-minded organisations to support civic engagement initiatives around the world.
+
+      Everything we do, we do it for people and communities. We believe that democracy and civic participation should be accessible to everyone, everywhere.
+
+      ## How will your donation be used?{ .pt-5 }
+
+      We will put all contributions towards platform development and maintenance—funding both the people and technology underpinning it, and making sure our Citizen OS open-source platform is freely available to everyone.
+
+      **Unfortunately, currently your kind donation cannot be deducted from your income tax as Citizen OS has not yet entered the list of non-profit foundations benefiting from income tax incentives approved by a resolution of the Estonian Tax and Customs Board. We are currently working on it and hopefully soon enough can let you know that the situation has changed.*
+  how:
+    title: How can you donate?
+    bank: |
+      **Bank transfer**
+
+      #### Account holder
+      Citizen OS Foundation
+
+      #### Account No
+      EE887700771003693989
+
+      #### Bank
+      AS LHV Pank
+      Tartu mnt 2, 10145 Tallinn
+
+      #### BIC/SWIFT
+      LHVBEE22
+
+      #### Bank code
+      689
