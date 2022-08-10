@@ -1,20 +1,19 @@
----
 multipage: true
 changing-the-language:
-  path: /et/abi/yldine/keele-vahetamine
+  path: /help/general/changing-the-language
   data:
     category: /help/category/data.en.yaml
-    help: /help/data.et.yaml
+    help: /help/data.en.yaml
   title: Changing the language
   text: |
     **You can change the language of the platform via the Main Menu.** The language you are currently using is shown near the bottom of the menu, below “Help”. Click on this language, then select your preferred language from the pop-up box.
 
     ![Screenshot of the platform.](/images/help/language.png)
 automatic-notifications:
-  path: /et/abi/yldine/automaatsed-teavitused
+  path: /help/general/automatic-notifications
   data:
     category: /help/category/data.en.yaml
-    help: /help/data.et.yaml
+    help: /help/data.en.yaml
   title: Automatic notifications
   text: |
     Email notifications are sent automatically in the three following situations:
@@ -26,10 +25,10 @@ automatic-notifications:
 
     There are no email notifications in any other situations. Therefore, if you want to notify topic members of any other activity (such as a topic now being open for voting, for example), you will need to contact them yourself to let them know.
 using-on-mobile-devices:
-  path: /et/abi/yldine/kasutamine-mobiilil
+  path: /help/general/using-on-mobile-devices
   data:
     category: /help/category/data.en.yaml
-    help: /help/data.et.yaml
+    help: /help/data.en.yaml
   title: Using on mobile devices
   text: |
     **Citizen OS is a browser-based platform.** You can therefore use it from any device, simply by opening a browser and navigating to the platform via the URL. There is no need to download an app.
