@@ -1,21 +1,20 @@
----
 siteTitle: Citizen OS
 navigation:
   product:
-    title: Produk
-    url: /id/produk/
-    class: produk
+    title: Product
+    url: /product/
+    class: product
   projects:
-    title: Proyek
-    url: /id/proyek/
+    title: Projects
+    url: /projects/
     class: projects
   vision:
-    title: Visi
-    url: /id/visi/
+    title: Vision
+    url: /vision/
     class: vision
   blog:
-    title: Berita
-    url: /id/berita/
+    title: News
+    url: /news/
     class: news
 language: English
 languages:
@@ -28,39 +27,39 @@ languages:
   lv: Latviešu
   ru: Pусский
   ua: Українська
-selectLanguage: Bahasa
+selectLanguage: Languages
 donateLink:
   title: Donate
   url: /donate/
 productLink:
-  title: Gunakan platform
-  url: https://app.citizenos.com/id/
+  title: Use platform
+  url: https://app.citizenos.com
 mobileMenu: Menu
 newsletter:
-  title: Mendaftarlah untuk buletin Citizen OS!
-  text: Kami akan merekomendasikan bacaan yang bagus tentang bagaimana demokrasi partisipatoris akan menyelamatkan kemanusiaan.
-  input: Alamat e-mail
-  button: Daftar
+  title: Sign up for the Citizen OS newsletter!
+  text: We'll recommend great reads on how participatory democracy will save humanity.
+  input: Email address
+  button: Sign up
 footer:
   text:
   navigation:
     about:
-      title: Tentang
+      title: About
       links:
         aboutUs:
-          title: Tentang kami
-          url: /id/tentang-kami/
+          title: About us
+          url: /about-us/
         getInvolved:
-          title: Terlibat
-          url: /id/terlibat/
+          title: Get involved
+          url: /get-involved/
         team:
-          title: Tim
-          url: /id/tim/
+          title: Team
+          url: /team/
         contact:
-          title: Kontak
-          url: /id/kontak/
+          title: Contact
+          url: /contact/
     support:
-      title: Dukungan
+      title: Support
       links:
         donate:
           title: Donate
@@ -70,12 +69,12 @@ footer:
           url: /help/
         legal:
           title: Legal
-          url: /id/legal/
+          url: /legal/
         github:
           title: GitHub
           url: https://github.com/citizenos
     community:
-      title: Ikuti kami
+      title: Follow us
       links:
         twitter:
           title: Twitter
@@ -88,11 +87,11 @@ footer:
         facebook:
           title: Facebook
           icon: /v2/images/social/facebook.svg
-          url: https://www.facebook.com/citizenosindonesia/
+          url: https://www.facebook.com/citizenos.web
         instagram:
           title: Instagram
           icon: /v2/images/social/instagram.svg
-          url: https://www.instagram.com/citizen_os_indonesia/
+          url: https://www.instagram.com/citizen_os_foundation/
         youtube:
           title: YouTube
           icon: /v2/images/social/youtube.svg
