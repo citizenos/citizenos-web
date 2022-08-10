@@ -1,22 +1,21 @@
----
 path: /
-description: La fondation Citizen OS est une organisation à but non lucratif qui fournit une plate-forme de prise de décision gratuite.
+description: Citizen OS Foundation is a not-for-profit organisation providing a free decision-making platform.
 keywords:
-  - action de la communauté
-  - e-démocratie
-  - technologie civique gratuite
+  - community action
+  - e-democracy
+  - free civic tech
 image: /images/meta/home-alt.jpg
 data:
   news: /news/data.en.yaml
 header:
-  title: Une plateforme de prise de décision gratuite
+  title: A free decision-making platform
   text: |
-    Discutez et votez en public ou en privé.
+    Discuss and vote publicly or privately.
   video:
-    title: Introduction
+    title: Intro
     url: https://www.youtube.com/embed/hDLWbQQAk8g?rel=0&showinfo=0&modestbranding=1&autoplay=1&cc_load_policy=1&cc_lang_pref=en
   demo:
-    title: Démo
+    title: Demo
     url: https://www.youtube.com/embed/UC44qCCIixE?rel=0&showinfo=0&modestbranding=1&autoplay=1&cc_load_policy=1&cc_lang_pref=en
 #whatIs:
 #title: What is Citizen OS
@@ -34,7 +33,7 @@ blocks:
       background-position: 20% 80%
       background-size: 122px 122px
     text: |
-      ![La plateforme Citizen OS est gratuite sur votre ordinateur de bureau, ordinateur portable, tablette ou téléphone mobile.](/images/frontpage-product.png){ .img-fluid }
+      ![The Citizen OS platform is free to use on your desktop, laptop, tablet or mobile.](/images/frontpage-product.png){ .img-fluid }
   opensource:
     class:
       - order-2
@@ -45,12 +44,12 @@ blocks:
       background-position: 0% 25%
       background-size: 360px 360px
     title: |
-      Mettez en place dans votre organisation.
+      Set it up in your organisation.
     text: |
-      Crowdsourcez des idées, discutez et votez sur les décisions.
+      Crowdsource ideas, discuss and vote on decisions.
     button1st:
-      title: Notre plateforme
-      url: /fr/product/
+      title: Our platform
+      url: /product/
   democracy-img:
     class:
       - order-3
@@ -60,7 +59,7 @@ blocks:
       background-position: 30% 25%, 20% 75%
       background-size: 360px 360px, 100px 100px
     text: |
-      ![Personnes assises en cercles en train de parler.](/images/vision-start.png){ .img-fluid }
+      ![People sitting in circles, discussing.](/images/vision-start.png){ .img-fluid }
   democracy:
     class:
       - order-4
@@ -72,12 +71,12 @@ blocks:
       background-position: 0 10%
       background-size: 122px 122px
     title: |
-      Un avenir participatif.
+      A participatory future.
     text: |
-      Nous croyons en une démocratie où tous les citoyens ont leur mot à dire dans les décisions qui les concernent.
+      We believe in a democracy where all citizens have a say in decisions that affect them.
     button1st:
-      title: Nos projets
-      url: /fr/projets/
+      title: Our Projects
+      url: /projects/
     button2nd:
   #title: Use product - it’s free!
   #url: https://app.citizenos.com
@@ -118,18 +117,18 @@ blocks:
       background-position: 60% 10%
       background-size: 360px 360px
     title: |
-      Dernières actualités.
+      Latest news.
     text: |
       { #news-items }
     button1st:
-      title: Plus d'histoires
-      url: /fr/actualites/
+      title: More stories
+      url: /news/
   in-media:
     class:
       - order-8
       - text-center
     title: |
-      Dans les médias
+      In the media
     text: |
       - [![](/images/in-media/wcd.png)](https://www.youtube.com/watch?v=vqchbMJc9q8&fbclid=IwAR1v8AVjrTCAqZC_GacnoQLWZvyl4XMka_hYfxDSdtx9Q3syUsE8pZnAVxE)
       - [![](/images/in-media/e-estonia.png)](https://e-estonia.com/e-talks-citizen-os-e-democracy-platform-for-the-citizens-of-the-world/)
