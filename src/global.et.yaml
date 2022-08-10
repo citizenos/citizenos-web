@@ -1,21 +1,20 @@
----
 siteTitle: Citizen OS
 navigation:
   product:
-    title: Toode
-    url: /et/toode/
-    class: toode
+    title: Product
+    url: /product/
+    class: product
   projects:
-    title: Projektid
-    url: /et/projektid/
+    title: Projects
+    url: /projects/
     class: projects
   vision:
-    title: Visioon
-    url: /et/visioon/
+    title: Vision
+    url: /vision/
     class: vision
   blog:
-    title: Uudised
-    url: /et/uudised/
+    title: News
+    url: /news/
     class: news
 language: English
 languages:
@@ -28,54 +27,54 @@ languages:
   lv: Latviešu
   ru: Pусский
   ua: Українська
-selectLanguage: Keeled
+selectLanguage: Languages
 donateLink:
-  title: Toeta
-  url: /et/toeta/
+  title: Donate
+  url: /donate/
 productLink:
-  title: Ava platvorm
-  url: https://app.citizenos.com/et/
-mobileMenu: Menüü
+  title: Use platform
+  url: https://app.citizenos.com
+mobileMenu: Menu
 newsletter:
-  title: Liitu Citizen OSi uudiskirjaga
-  text: Soovitame Sulle kasulikku lugemist teemal, kuidas saab osalusdemokraatia abil inimkonda päästa.
-  input: E-posti aadress
-  button: Liitu
+  title: Sign up for the Citizen OS newsletter!
+  text: We'll recommend great reads on how participatory democracy will save humanity.
+  input: Email address
+  button: Sign up
 footer:
   text:
   navigation:
     about:
-      title: Meist
+      title: About
       links:
         aboutUs:
-          title: Meist
-          url: /et/meist/
+          title: About us
+          url: /about-us/
         getInvolved:
-          title: Löö kaasa
-          url: /et/loo-kaasa/
+          title: Get involved
+          url: /get-involved/
         team:
-          title: Meeskond
-          url: /et/meeskond/
+          title: Team
+          url: /team/
         contact:
-          title: Kontakt
-          url: /et/kontakt/
+          title: Contact
+          url: /contact/
     support:
-      title: Kasutajatugi
+      title: Support
       links:
         donate:
-          title: Toeta meid
-          url: /et/toeta/
+          title: Donate
+          url: /donate/
         guides:
-          title: Abikeskus
-          url: /et/abi/
+          title: Help Centre
+          url: /help/
         legal:
-          title: Juriidiline info
-          url: /et/juriidiline-info/
+          title: Legal
+          url: /legal/
         github:
           title: GitHub
           url: https://github.com/citizenos
     community:
-      title: Jälgi meid sotsiaalmeedias
+      title: Follow us
       links:
         twitter:
           title: Twitter
@@ -88,7 +87,7 @@ footer:
         facebook:
           title: Facebook
           icon: /v2/images/social/facebook.svg
-          url: https://www.facebook.com/citizenosestonia/
+          url: https://www.facebook.com/citizenos.web
         instagram:
           title: Instagram
           icon: /v2/images/social/instagram.svg
