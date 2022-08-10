@@ -1,0 +1,46 @@
+---
+path: /lahjoita
+title: Lahjoita
+description: Lahjoita Citizen OS:n e-demokratia-alustan kehittämiseen ja ylläpitoon
+keywords:
+  -
+blocks:
+  header:
+    title: Auta meitä kehittämään e-demokratiaa alan uranuurtajana
+  text:
+    text: |
+      ## Miksi meitä kannattaa auttaa?{ .pt-5 }
+
+      Me Citizen OS:llä haluamme elää maailmassa, jossa jokainen voi osallistua kunnioittaviin keskusteluihin – maailmassa, jossa voimme tehdä päätöksiä yhdessä ja jossa saamme äänemme kuuluviin aiheista, jotka vaikuttavat suoraan elämäämme ja hyvinvointiimme.
+
+      Jotta voimme tehdä visiostamme totta, tarjoamme avoimen lähdekoodin alustan yhteistyöhön perustuvalle päätöksenteolle, jotta ihmiset ja yhteisöt voivat osallistua paikallisiin, kansallisiin ja jopa maailmanlaajuisiin keskusteluihin.
+
+      Järjestämme myös kansalais-hackathoneja, kesä- ja talvikouluja, demokratiafestivaaleja ja monia muita tapahtumia. Teemme yhteistyötä monien upeiden organisaatioiden kanssa tukeaksemme kansalaisosallistumiseen liittyviä hankkeita kaikkialla maailmassa.
+
+      Ihmiset ja yhteisöt ovat kaiken toimintamme keskiössä. Uskomme, että demokratian ja kansalaisosallistumisen pitäisi olla kaikkien ihmisten saatavilla kaikkialla.
+
+      ## Miten lahjoituksesi käytetään?{ .pt-5 }
+
+      Kaikki saamamme lahjoitukset menevät suoraan alustamme – sekä ihmisten että alustaa tukevan teknologian – kehittämiseen ja ylläpitämiseen. Haluamme varmistaa, että avoimen lähdekoodin Citizen OS -alusta on kaikkien käytettävissä maksutta.
+
+      **Valitettavasti lahjoitukset eivät tällä hetkellä ole verovähennyskelpoisia, sillä Viron vero- ja tulliviranomainen ei ole vielä hyväksynyt Citizen OS:ää voittoa tavoittelemattomien, veroetuihin oikeutettujen organisaatioiden luetteloon. Olemme hakeneet hyväksyntää ja toivomme, että voimme ilmoittaa tilanteen muuttumisesta jo lähiaikoina.*
+  how:
+    title: Miten voit lahjoittaa?
+    bank: |
+      **Tilisiirto**
+
+      #### Tilin haltija
+      Citizen OS Foundation
+
+      #### Tilinumero
+      EE887700771003693989
+
+      #### Pankki
+      AS LHV Pank
+      Tartu mnt 2, 10145 Tallinn
+
+      #### BIC/SWIFT
+      LHVBEE22
+
+      #### Pankin koodi
+      689
