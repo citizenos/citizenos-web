@@ -1,5 +1,4 @@
----
-path: /produk
+path: /product
 title: Product
 description: Free platform for discussions and voting. Use in private groups or publicly. Digitally sign in Estonia!
 keywords:
@@ -42,7 +41,7 @@ blocks:
       { .arrow }
     button1st:
       title: Play demo
-      url: 'https://www.youtube.com/embed/OydbEvJfhdM?rel=0&showinfo=0&modestbranding=1&autoplay=1&cc_load_policy=1&cc_lang_pref=en'
+      url: 'https://www.youtube.com/embed/UC44qCCIixE?rel=0&showinfo=0&modestbranding=1&autoplay=1&cc_load_policy=1&cc_lang_pref=en'
   #title: Sign up for news
   #url: '#subscribe'
   flexibleformat:
