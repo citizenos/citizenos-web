@@ -1,0 +1,17 @@
+---
+path: /et/abi/tagasiside/
+data:
+  help: /help/data.et.yaml
+title: Saada meile tagasisidet
+text: Soovid jagada meiega oma mõtteid või kommentaare – nii kiitvaid kui ka kriitilisi? Oleme tagasiside eest alati tänulikud.
+form:
+  title: Kirjuta siia oma kommentaar
+  message: Kirjuta siia...
+  email: E-mail address
+  submit: Saada
+  success: |
+    **Suur tänu tagasiside eest!**
+    Sinu abiga saame Citizen OSi veelgi paremaks muuta.
+  successBack:
+    title: Tagasi abikeskuse avalehele
+    url: /et/abi
