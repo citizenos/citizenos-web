@@ -1,46 +1,45 @@
----
-path: /ru/pomoch-proektu
-title: Помочь
-description: Пожертвовать на развитие и поддержку платформы Citizen OS
+path: /donate
+title: Donate
+description: Donate towards Citizen OS e-democracy platform development and maintenance
 keywords:
   -
 blocks:
   header:
-    title: Помогите нам в развитии сферы электронной демократии
+    title: Help us pioneer and develop the field of e-democracy
   text:
     text: |
-      ## Зачем помогать нам?{ .pt-5 }
+      ## Why help us?{ .pt-5 }
 
-      Мы в Citizen OS хотим жить в мире, где каждый может участвовать в вежливых дискуссиях. Мире, в котором мы можем коллективно принимать решения, которые будут услышаны и которые непосредственно повлияют на нашу жизнь и благополучие.
+      At Citizen OS, we want to live in a world where everyone can participate in respectful discussions. A world in which we can collectively make decisions—having our voices heard on topics that directly impact our own lives and well-being.
 
-      Чтобы воплотить наши идеи в жизнь, мы предоставляем платформу для совместного принятия решений с открытым исходным кодом, позволяющую людям и сообществам участвовать в дискуссиях на местном, национальном и даже глобальном уровнях.
+      To make our vision a reality, we provide an open-source co-decision platform for people and communities to join local, national and even global discussions.
 
-      Мы также проводим гражданские хакатоны, летние и зимние школы, фестивали демократии и многое другое. Мы сотрудничаем со множеством замечательных организаций-единомышленников и поддерживаем инициативы по вовлечению гражданского общества по всему миру.
+      We also run civic hackathons, summer and winter schools, democracy festivals and more. We partner with an array of awesome, like-minded organisations to support civic engagement initiatives around the world.
 
-      Все, что мы делаем, мы делаем для людей и сообществ. Мы считаем, что демократия и гражданское участие должны быть доступны всем и везде.
+      Everything we do, we do it for people and communities. We believe that democracy and civic participation should be accessible to everyone, everywhere.
 
-      ## Как будет использовано ваше пожертвование?{ .pt-5 }
+      ## How will your donation be used?{ .pt-5 }
 
-      Все средства будут вложены в разработку и обслуживание платформы, финансируя как людей, так и технологии, лежащие в ее основе, и обеспечат свободный доступ к нашей платформе Citizen OS.
+      We will put all contributions towards platform development and maintenance—funding both the people and technology underpinning it, and making sure our Citizen OS open-source platform is freely available to everyone.
 
-      **К сожалению, в настоящее время ваше пожертвование не может быть вычтено из вашего подоходного налога, так как Citizen OS еще не вошла в утвержденный постановлением Налогово-таможенного департамента список некоммерческих фондов, пользующихся льготами по подоходному налогу. Мы работаем над этим и надеемся, что достаточно скоро сможем сообщить вам об изменении ситуации.*
+      **Unfortunately, currently your kind donation cannot be deducted from your income tax as Citizen OS has not yet entered the list of non-profit foundations benefiting from income tax incentives approved by a resolution of the Estonian Tax and Customs Board. We are currently working on it and hopefully soon enough can let you know that the situation has changed.*
   how:
-    title: Как я могу помочь?
+    title: How can you donate?
     bank: |
-      **Банковский перевод**
+      **Bank transfer**
 
-      #### Владелец счета
+      #### Account holder
       Citizen OS Foundation
 
-      #### Номер счета
+      #### Account No
       EE887700771003693989
 
-      #### Банк
+      #### Bank
       AS LHV Pank
       Tartu mnt 2, 10145 Tallinn
 
       #### BIC/SWIFT
       LHVBEE22
 
-      #### Код банка
+      #### Bank code
       689
