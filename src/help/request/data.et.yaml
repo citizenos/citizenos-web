@@ -1,17 +1,16 @@
----
-path: /et/abi/abipalve/
+path: /help/request
 data:
-  help: /help/data.et.yaml
-title: Küsi abi
-text: Kui meie abikeskus ei suutnud sind aidata, siis anna palun meile teada, millise probleemiga sa silmitsi seisad ning me võtame sinuga ühendust.
+  help: /help/data.en.yaml
+title: Request Help
+text: If our Help Centre couldn’t help you then please let us know what problem you’re facing and we’ll get back to you.
 form:
-  title: Mida sa püüad teha?
-  message: Kirjuta siia...
+  title: What are you trying to do?
+  message: Write here...
   email: E-mail address
-  submit: Saada
+  submit: Send
   success: |
-    **Sinu abipalve on saadetud!**
-    Suur tänu sõnumi eest. Võtame sinuga ühendust niipea kui võimalik.
+    **Your request has been submitted!**
+    Thank you for your message, we’ll get back to you as soon as we can.
   successBack:
-    title: Tagasi abikeskuse avalehele
-    url: /et/abi
+    title: To the Help Centre Start page
+    url: /help
