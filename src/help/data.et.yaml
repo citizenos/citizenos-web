@@ -1,11 +1,10 @@
----
-path: /et/abi
+path: /help
 data:
-  category: category/data.et.yaml
-title: Abikeskus
-text: Meie abikeskusest (inglise k.) leiad oma küsimustele vastused ja saad abi, kui peaksid hätta jääma.
+  category: category/data.en.yaml
+title: Help Centre
+text: Our Help Centre aims to answer any questions you may have, and help you if you get stuck.
 links:
-  title: Kiirviited
+  title: Quick links
   links:
     - 
       title: Troubleshooting “no permission to access”
@@ -22,33 +21,33 @@ links:
     - 
       title: Attaching files to a topic
       url: /help/topics/attaching-files-to-a-topic
-topics: Leia teema järgi
-categoryTopics: Liigu kindla teema juurde
+topics: Find by topic
+categoryTopics: Jump to a specific topic
 #video: Watch the Topics Introduction video
 feedback:
-  title: Kas see info oli abiks?
+  title: Was this information helpful?
   answerYes: Yes
   answerNo: No
 negativeFeedback:
-  title: Tagasiside
-  text: Kahju kuulda, et sa ei leidnud sellest osast abi. Anna palun meile teada, mida saaksime parandada!
+  title: Feedback
+  text: We’re sorry to hear this section wasn’t helpful for you. We’d love to know why!
   form:
-    title: Mida saaksime parandada?
-    message: Kirjuta siia...
+    title: How could it be improved?
+    message: Write here...
     email: E-mail address
-    submit: Saada
+    submit: Send
     success: |
-      **Suur tänu tagasiside eest!**
-      Sinu abiga saame Citizen OSi veelgi paremaks muuta.
+      **Thank you for your feedback!**
+      With your help we can make Citizen OS better at every turn.
 search:
-  title: Täpsem otsing
-  placeholder: Otsi
-  url: /et/abi/otsing
+  title: Search for something specific
+  placeholder: Search
+  url: /help/search
 alternate:
-  title: Võib-olla leiad vastuseid siit?
+  title: Maybe you're looking for these?
   request:
-    title: Saada abipalve
-    url: /et/abi/abipalve
+    title: Submit a Help Request
+    url: /help/request
   feedback:
-    title: Saada meile tagasisidet
-    url: /et/abi/tagasiside
+    title: Give us feedback
+    url: /help/feedback
