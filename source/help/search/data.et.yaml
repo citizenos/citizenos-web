@@ -1,0 +1,14 @@
+---
+path: /et/abi/otsing
+data:
+  help: /help/data.et.yaml
+  category: ../category/data.et.yaml
+  category-general: ../category/general/data.et.yaml
+  category-login: ../category/login/data.et.yaml
+  category-groups: ../category/groups/data.et.yaml
+  category-topics: ../category/topics/data.et.yaml
+  category-discussions: ../category/discussions/data.et.yaml
+  category-voting: ../category/voting/data.et.yaml
+  category-follow-up: ../category/follow-up/data.et.yaml
+title: Abikeskuse otsing
+text: Meie abikeskusest (inglise k.) leiad oma küsimustele vastused ja saad abi, kui peaksid hätta jääma.
