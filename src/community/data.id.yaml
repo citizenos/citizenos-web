@@ -1,5 +1,4 @@
----
-path: /masyarakat
+path: /community
 title: Community
 description: Join our Hacktivist Community! Citizen OS brings together active people whose decisions today build tomorrow's society! Participate and raise your voice!
 keywords:
@@ -210,17 +209,17 @@ blocks:
       ##### **Anett Linno**
       Partnerships & Community Foundation Citizen OS
     blocks:
-      -
+      - 
         icon: /images/community-email.svg
         title: anett@citizenos.com
         url: mailto:anett@citizenos.com
         alt: Email icon
-      -
+      - 
         icon: /images/community-skype.svg
         title: anettorg
         url: skype:anettorg
         alt: Skype icon
-      -
+      - 
         icon: /images/community-phone.svg
         title: +372 5669 2076
         url: tel:+37256692076
