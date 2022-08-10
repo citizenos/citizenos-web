@@ -1,0 +1,86 @@
+---
+path: /vision
+title: Vision
+description: Contribuons à la société avec des initiatives citoyennes ! Citizen OS est une plate-forme d'e-démocratie gratuite pour la participation et la prise de décision collaborative.
+keywords:
+  - discussion délibérée
+  - démocratie participative libre
+  - démocratie directe libre
+image: /images/meta/vision.jpg
+blocks:
+  start-img:
+    class:
+      - order-1
+    style:
+      background-color: '#AAF3DD'
+      background-image: url(/images/research-start.png), url(/images/bubble-dots.png), url(/images/bubble-yellow.svg)
+      background-position: center center, 0 10%, 75% 20%
+      background-size: 500px 500px, 350px 350px, 65px 65px
+  #text: |
+  #[► Our Vision](#video){.btn .btn-primary data-toggle=modal data-target=#video}
+  #video:
+  #id: video
+  #url: 'https://www.youtube.com/embed/hDLWbQQAk8g?rel=0&showinfo=0&modestbranding=1&autoplay=1&cc_load_policy=1&cc_lang_pref=en'
+  start:
+    class:
+      - order-0
+      - py-5
+    style:
+      background-color: '#AAF3DD'
+      background-image: url(/images/bubble-blue.svg), url(/images/bubble-orange.svg)
+      background-position: 10% 15%, 90% 90%
+      background-size: 42px 42px, 102px 102px
+    title: |
+      Notre mission.
+    text: |
+      Autonomiser autant de personnes que possible pour participer avec respect à des discussions sérieuses.
+
+      Nous cherchons à faciliter les décisions collectives sur des questions qui affectent directement le bien-être des personnes.
+    button1st:
+      title: Notre vision
+      url: 'https://www.youtube.com/embed/hDLWbQQAk8g?rel=0&showinfo=0&modestbranding=1&autoplay=1&cc_load_policy=1&cc_lang_pref=fr'
+  #[f](https://www.facebook.com/citizenos.web){ .btn .btn-primary .my-2 .ml-3 }
+  #[t](https://twitter.com/Citizen_OS){ .btn .btn-primary .my-2 .ml-3 }
+  individual-img:
+    class:
+      - order-2
+    style:
+      background-image: url(/images/bubble-yellow.svg), url(/images/bubble-dots.png)
+      background-position: 10% 10%, 90% 10%
+      background-size: 45px 45px, 350px 350px
+    text: |
+      ![An active citizen who believes that her participation in political issues has an impact.](/images/vision-individual2.png){ .img-fluid }
+  individual:
+    class:
+      - order-3
+    #label: As an individual
+    title: |
+      L'avenir que nous voulons.
+    text: |
+      Les gouvernements font de plus en plus confiance aux citoyens pour les aider à résoudre des problèmes sociaux difficiles.
+
+      Et les citoyens le demandent de plus en plus.
+
+      Ensemble, nous pouvons mettre la politique au goût du XXIe siècle - exploiter le pouvoir de la technologie pour la démocratie participative.
+    button1st:
+      title: Participer
+      url: /fr/participer/
+  awareness:
+    class:
+      - order-4
+      - py-5
+    style:
+      background-image: url(/images/bubble-orange.svg), url(/images/vision-awareness.jpg)
+      background-size: 164px 164px, cover
+      background-position: 10% 10%
+    #label: Raising awareness
+    title: |
+      Vivre nos valeurs.
+    text: |
+      Notre philosophie de transparence, de participation et de délibération est présente dans tout ce que nous faisons.
+
+      Notre équipe est non hiérarchique, le code open source et la conception des plateformes appuyées par des recherches rigoureuses.
+    button1st:
+      title: Essayer maintenant
+      url: https://app.citizenos.com/fr/
+      target: _blank
