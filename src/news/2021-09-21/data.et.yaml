@@ -1,112 +1,111 @@
----
-path: /uudised/intervjuu-sihtasutuse-citizen-os-minevik-ja-tulevik
-title: Intervjuu — Sihtasutuse Citizen OS minevik ja tulevik.
-description: Sel nädalal algab uus arenguetapp, mil Anett Linno tegevjuhi rolli Margo Loorilt üle võtab.
+path: /news/interview-the-past-and-future-of-citizen-os
+title: Interview—The past and future of Citizen OS.
+description: The succession of Margo Loor by Anett Linno as CEO marks a new chapter of growth.
 image: /images/news/citizen-os-global-expansion-led-by-new-ceo.jpg
 author: Becca Melhuish
 date: 2020-09-21
 text: |
-  *Sel nädalal algab Sihtasutuse Citizen OS jaoks uus arenguetapp, mil Anett Linno tegevjuhi rolli Margo Loorilt üle võtab. Siinkohal teeme juttu nii lahkuva kui alustava tegevjuhiga, kes jagavad sihtasutuse lugu ja tulevikuvisiooni.*
+  *The succession of Margo Loor by Anett Linno as CEO marks a new chapter of growth for the Citizen OS Foundation this week. Here we speak to both incoming and outgoing CEOs, who set out the Citizen OS story and their vision for its future.*
 
-  ![Kuvatõmmis Citizen OS tiimist Zoom kõne ajal](/images/news/citizen-os-global-expansion-led-by-new-ceo.jpg)
+  ![Screenshot of Citizen OS team members in a Zoom call](/images/news/citizen-os-global-expansion-led-by-new-ceo.jpg)
 
-  Citizen OS tiimi liikmed.{ .text-muted }
+  Citizen OS team members.{ .text-muted }
 
-  **Margo, enne kui räägime Citizen Os-i tulevikust, räägiks ka sellest, kuidas organisatsioon alguse sai?**
+  **Margo, before we delve into the future of Citizen OS, could you fill us in on how the organisation came to be in the first place?**
   { .pt-5}
 
-  *Margo:* Kõik sai alguse Teeme Ära koristuskampaaniast, mis 2008. aastal Eestis algatati ning siit ka paljudesse teistesse riikidesse levis.
+  *Margo:* It all started with the huge success of the Let’s Do It waste cleanup campaign, which had started in Estonia in 2008 and then spread into many other countries.
 
-  Kui inimesed olid kaks-kolm aastat oma riiki prügist puhastanud, hakkasid nad uurima : *„Kui kaua me seda teeme? Kas saaksime asju muuta, et meie maa oleks püsivalt puhtam?”*. Olin tol ajal Teeme Ära meeskonna juhtimisega tihedalt seotud ning avastasime, et meil polnud nendele küsimustele piisavalt häid vastuseid.
+  After having cleaned their countries of rubbish for two or three years in a row, people started asking: *“How long are we going to be doing this? Can we somehow change things so the country stays cleaner permanently?”*. I was quite involved in the Let’s Do It management at the time, and we found we didn’t have a good answer to these questions.
 
-  Nägime, et jäätmekäitlusega oli mitmeid probleeme, mis tuli ümber mõtestada ja kujundada. Tundsime, et inimestel kõikide ühiskonnatasandite lõikes peaks olema võimalus koguneda ja rääkida kaasa neid puudutavates küsimustes – konkreetsel juhul siis prügiteemadel. Seejärel peaksime langetama kollektiivseid otsuseid, mis oleksid mingil määral ka jõustatavad. Nii otsustasimegi luua selle jaoks sobiva töövahendi.
+  We saw that there were a lot of issues with the way waste was currently being managed, which needed to be rethought and re-designed. And we felt that all people on all levels of society should be able to come together to discuss ideas on the matters that affect them—on waste issues, in this particular case. And to then collectively make decisions that would be enforceable in some way. So we decided to make a tool to do just that.
 
-  Algselt keskendusime ainult prügiga seotud teemadele. Olime loonud platvormi Teeme Ära liikumises osalenud riikide tiimidele, et nad saaksid arutleda ja otsustada, kuidas jäätmekäitlust paremini organiseerida. Aga sealt hakkas asi edasi arenema ning sellest kasvaski välja Citizen OS Sihtasutus – eraldiseisva organisatsioonina.
+  At first we only had the waste situation in mind. We had designed the platform as a way for country teams participating in the Let’s Do It movement to discuss and decide how to better organise waste management in their countries. But it grew from there, and the Citizen OS Foundation grew out of it—as its own separate entity outside of the Let’s Do It movement.
 
-  **Kuidas teekond sealt edasi on kulgenud?**
+  **And how has the journey played out since then?**
   { .pt-5}
 
-  *Margo:* Alguses tahtsime vaid näha, kas meie unistus on teostatav.
+  *Margo:* At the very beginning, we just wanted to see if what we had dreamt up at that table was actually doable.
 
-  Kui olime algse prototüübi ära testinud ning selgus, et see on tõepoolest tehtav, liikusime edasi Citizen OS platvormi testimisega erinevates kontekstides ja erinevatel tasanditel – rohujuure tasandil, organisatsiooni tasandil, munitsipaal-, riiklikul- ja isegi rahvusvahelisel tasandil.
+  So once we tested the initial basic prototype and found that it was, our attention shifted to testing the Citizen OS platform in different contexts and on different levels—at the grassroots level, the organisational level, plus the municipal, national and even international level.
 
-  Seda faasi võib võrrelda katselaboriga – testisime, mis toimib, mis mitte, mis oli edukas jne ning jõudsime selle põhjal ka järeldusteni. Meil on nüüd olemas ühiskondliku mõju hindamise mudel – viis, kuidas tehnoloogiaajastul meie demokraatiaid muuta.
+  You could think of that phase as a lab—experimenting to find out what worked, what didn’t, where it was successful etc., then making conclusions based on that. We now have a ‘theory of change’ for how we can transform our democracies in the age of technology.
 
-  Samuti leian, et tegemist on ühtede esimeste jätkusuutlike mudelitega, mis näitavad, kuidas e-demokraatia praktikas toimida võiks, nii riiklikul- kui ka rahvusvahelisel tasandil, kuigi viimases ma nii kindel pole.
+  I also think we’re looking at some first viable models of how e-democracy could function in practice, both nationally and maybe—though I’m less sure on this one—even internationally.
 
-  See tähendab, et „katselabori“ etapp on peagi lõpule jõudmas. Nüüd keskendume spetsiifilisematele kasutusvõimalustele- ja mudelitele, kasutajabaasi kasvatamisele ning eelneva põhjalt platvormi edasiarendamisele.
+  Which means that the “lab” phase is probably coming to an end. And now it will be more about focusing on some more specific usage scenarios and models, growing the user base, and building the platform on from there.
 
-  **Millised on kõige väljapaistvamad hetked Citizen OS-i tegevjuhina alates algusest aastal 2015?**
+  **Any highlights in your years as the CEO of Citizen OS, since its inception in 2015?**
   { .pt-5}
 
-  *Margo:* Keeruline on üht hetke teisele eelistada, need on kõik olnud väärtuslikud – proovin keskenduda mitte üksikutele hetkedele vaid ammutada kõike ümbritsevat.
+  *Margo:* I’m a little reluctant to pick any moment over others, as I think they’ve all been valuable—I tend not to look at single moments, but try to take in the totality of what’s surrounding us.
 
-  Siiski on organisatsiooni arenguteekonnal olnud teatavaid tipphetki, kus meid ümbritsev kogusüsteem muutus konkreetsemaks ning kus on näha, kuidas eelmisel perioodil tehtud töö kannab vilja.
+  But having said that there have certainly been peaks within the waves of development that Citizen OS has gone through, when the totality of what surrounds us comes into sharper focus, and you see the work done in the previous period bear its fruit.
 
-  Näiteks kui alguses platvorm valmis sai ja ‘live’sse läks ning kasutajad hakkasid seda reaalselt külastama, teemasid algatama ja hääletama. Veel üheks meeldejäävaks momendiks on 34 saare projekt Indoneesias, mis oli märkimisväärne samm edasi kõigest, mida varem teinud olime ning viis sealse haru loomiseni.
+  Such as when we first went live, and users started actually visiting the platform and opening topics and voting on them. To pick another one, the launch of the 34 Islands Project in Indonesia was a substantial scale up from anything we’ve done, and led to the creation of a new branch over there.
 
-  Kuid isegi enne kõik seda – liikudes edasi ideega, mis sai alguse ühes Telliskivis asuvas väikeses toas millegi suunas, mis oli riiklikult kasutatav, kui Eesti osalusportaal Rahvaalgatus.ee töötas osaliselt Citizen OS tehnoloogia peal, see oli oluline hetk.
+  But even before that—going from something that we developed in one small room in Telliskivi Creative Center to something that was nationally usable, when the Estonian citizens’ petitions portal was being run using  Citizen OS technology, was a big moment.
 
-  **Anett, millal sa organisatsiooniga liitusid? Oled Citizen OS ja kaasamisteemadega juba mõnda aega seotud olnud.**
+  **Anett, where do you come into the story? You’ve been involved with Citizen OS and the civic engagement field for a while now?**
   { .pt-5}
 
-  *Anett:* Olen kodanikualgatustega kokku puutunud pea kogu elu. Tunde, mis tähendab olla osa kodanikuliikumise tiimi tuumikust, sain Teeme Ära liikumisega kõige esimesel koristuspäeval Eestis, aastal 2008. See kogemus võimendas mu kirge kodanikealgatuste vastu ja näitas, kuidas inimesed, kes ühise visiooni nimel koostööd teevad, viivad läbi suuri muutusi.
+  *Anett:* I’ve been involved in civic initiatives for most of my life. I got my first real taste of what it means to be part of a civic movement, as part of the core team, when I joined the Let’s Do It movement in their first ever Estonian Cleanup Day in 2008. This experience really shaped my passion for civic engagement, and showed me how people working in collaboration towards a single vision can bring about great change.
 
-  Sealt edasi olin seotud Eesti Projektijuhtimise Assotsiatsiooniga ning asusin organisatsiooni etteotsa tegevjuhina. Sealt sain esimesed juhtimiskogemused kodanikuühiskonna organisatsiooni tasandil.
+  From there I got involved in the Estonian Project Management Association, and went on to lead the organisation as their CEO. That’s where I got my first leadership experience within a civil society organisation.
 
-  Püüan olla nii aktiivne kodanik, kui võimalik – osalen mitte ainult valimistel, vaid ka kohalikes kodanikualgatustes, petitsioonides jne. Ja see kirg, koos minu sügava huviga keskkonnateemade vastu, tõi mind tagasi Teeme Ära liikumise juurde 2018. aastal ning sealt omakorda siia.
+  I try to be as active a citizen as possible—not only participating in elections, but also in local civic initiatives, petitions, etc.  And that passion coupled with my deep interest in environmental issues, is what led me back to the Let’s Do It movement in 2018, and then ultimately to Citizen OS.
 
-  Kohtusin Margoga 2018. aastal Maailmakoristuspäeva peakontoris, kus kõige esimesel üritusel juhtisin Aasia riikide võrgustikku. Hakkasime seal suhtlema ning seejärel kutsus ta mind liituma Citizen OS tiimiga kui Partnersuhete- ja kogukonnajuht.
+  I met Margo in the World Cleanup Day 2018 headquarters, while I was leading the Asian network of countries in the first ever World Cleanup Day. We connected, and from there he invited me to join Citizen OS as Head of Partnerships and Community.
 
-  **Mis motiveeris sind kohta vastu võtma, kui Margo sind organisatsiooniga liituma kutsus?**
+  **What motivated you to take up the role, when Margo invited you to the organisation?**
   { .pt-5}
 
-  *Anett:* Citizen OS Sihtasutuse töö oli minu jaoks muljetavaldav ning olin näinud läbi Maailmakoristuspäeva, kui hästi kollektiivne missioon levib üle maailma, kui selle idee inimesi piisavalt puudutab. Oluline pole see, et inimesed oleksid füüsiliselt samas kohas. Mõistsin, et see platvorm on ideaalne viis toomaks inimesi kokku ühise visiooni nimel globaalsel tasandil ning kõik see avaldas sügavat muljet.
+  *Anett:* I was so inspired by the Citizen OS Foundation’s work, after having seen through World Cleanup Day just how well a collective mission can spread around the world if the idea touches people enough; that it doesn’t matter if people aren’t physically in the same location. I could see that this platform was a perfect way in which to bring people together around a collective vision on a global level, and that really struck me.
 
-  Ja kui miski mind väga inspireerib ning tunnen, et sellel võib olla oluline mõju, siis tean ka, et see võimalus on minu jaoks õige. Mis puutub uutesse võimalustesse, siis küsin endalt alati *“Milline mõju minul selles rollis on? Miks ma seda teha tahan?“*. Ja kui see vastus minuga resoneerub, siis tean, et pean selle vastu võtma.
+  And if something really inspires me, and I feel it can make a big impact, that’s when I know the opportunity is right for me. When it comes to new opportunities, I always ask myself *“What kind of impact will I have in this role? Why do I want to take this role?”*. And if the answer is something that resonates with me, I know I have to go for it.
 
-  Just sel põhjusel asun ka tegevjuhi ametipostile. Juba praegu tunnen, et töö, mida me Citizen OS-is teeme, omab mõju ja see amet annab mulle võimaluse aidata luua veelgi suuremat mõju globaalsel tasandil – jätkata seda, mida projektidega Indoneesias ja Indias juba alustanud oleme ning arendada neid veelgi edasi.
+  That’s why I’m stepping up into the CEO role too. I already feel the work we’re doing at Citizen OS is really impactful, and this role gives me the chance to help make an even bigger impact on a global scale—continuing what we’ve already started with our projects in Indonesia and India, and expanding even further.
 
-  **Kuidas kirjeldaksid oma lähenemist organisatsiooni juhtimisel uude etappi?**
+  **Any reflections on how you will approach your leadership of the organisation into its next chapter?**
   { .pt-5}
 
-  *Anett:* Tean, et jõuame väljapakutud visiooni saavutamiseni ainult siis, kui meil on tugev meeskond – see on kõige olulisem, olulisem kui tehnoloogia või miski muu. Ja õnneks on meil suurepärane meeskond! See on väga ühtne ja pühendunud ja olen tänulik võimaluse eest nendega koos töötada.
+  *Anett:* I know that we can only achieve the vision I’ve talked about if we have a really strong team—that’s the most important thing, before the technology or anything else. And fortunately we have a really amazing team! It’s a very united and dedicated one, and I feel so grateful for the opportunity to work with them.
 
-  Tunnen, et hea juht peab inspireerima nii meeskonda, partnereid, kui ka üldsust, samal ajal ka meeskonna heaks töötama ning veenduma, et tiimiliikmete vajadused on täidetud. Seda nii töö- kui ka mugava ja positiivse töökeskkonna loomise mõistes — nii vaimses kui füüsilises.
+  I feel a great leader must be there both to inspire their team, partners and the public, as well as to serve the team and make sure their needs are met. Both in terms of the work but also in creating a comfortable and positive environment to work in—mentally and physically.
 
-  Kindlasti võtan üle Margo loodud mittehierarhilise ja koostööl põhineva organisatsioonijuhtimise — hoolitsedes selle eest, et organisatsiooni sisemine toimimine peegeldab ka seda kaasavat ja demokraatlikku maailma, milles me ka väljaspool organisatsiooni elada tahame.
+  And I will of course be continuing Margo’s legacy of running the organisation in a non-hierarchical and collaborative way—making sure that the way the organisation functions internally reflects the kind of participatory and democratic world we want to live in outside of it.
 
-  **Margo, räägi mõne sõnaga oma uuest rollist tuleva aasta jooksul – hakkad juhtima laiendusprojekti.**
+  **Margo, tell us a bit about your new role for the coming year – you’ll be helping to drive the expansion project?**
   { .pt-5}
 
-  *Margo:*  Jah, astun tegevjuhi kohalt tagasi, kuid organisatsioonist ma ei lahku. Olen alustamas uuel ametikohal, kus aitan ühe aasta jooksul Citizen OS Sihtasutusel laieneda.
+  *Margo:* Yes, I’m stepping back from the CEO role, but not leaving the organisation altogether. I’m starting a new role, which runs over twelve months, where I’ll be focusing on aiding the Citizen OS Foundation’s expansion.
 
-  Eesmärk on avada uksi nii Eesti- kui Euroopa Liidu tasandil ning võimalik, et kaugemalgi. Meie missiooni edukaks läbiviimiseks on vaja kaasata töötavat võrgustikku tarkade ja omas valdkonnas häid tutvusi omavate inimestega. Seega olen loomas tugevat võrgustikku sarnaselt mõtlevate inimestega, kes jagavad meie kirge ja aitavad järgneva aasta jooksul praegust demokraatiakriisi toimivaks e-demokraatiaks pöörata.
+  The goal is to open new doors, both on an Estonian level and an EU level—and possibly further afield. To really effectively succeed in our mission, we’re going to need a solid network of smart, engaged, well-connected people. So I’ll be creating a strong network of like-minded people who are passionate about turning the current crisis of democracy into a blossoming e-democracy over the course of this year.
 
-  Pärast seda plaanin organisatsioonis jätkata Tehnoloogia evangelisti rollis, olles suures osas tagaplaanil, ent esinedes siiski aeg-ajalt üritustel ja konverentsidel, et inspireerida ja tutvustada maailmale meie eesmärke.
+  After that I’ll take on a kind of Citizen OS Technology Evangelist role for the organisation, mostly stepping back but still speaking at events and conferences from time to time, to help inspire and rally the world around our cause.
 
-  **Anett, kas võtaksid kokku oma visiooni Citizen OS-i laienemisest, nüüd, kui ohjad enda kätte haarad? Millises suunas sa uue tegevjuhina organisatsiooni viid?**
+  **Anett, could you outline your vision for Citizen OS’s expansion, now that you’re taking over the reins? What’s the direction you’ll be leading the organisation in, as the new CEO?**
   { .pt-5}
 
-  *Anett:* Nagu ka Margo juba ütles, siis praeguseni oleme oma toodet erinevate gruppide, erinevate kogukondade ja kasutajatüüpide peal katsetanud ning jõudnud järeldusele, et see ka tõesti toimib. Platvorm töötab nii organisatsioonisiseste otsuste tegemise protsessis kui ka avaliku arutelu tasandil ning kodanikuühiskonna sektoris on selle järele suur vajadus.
+  *Anett:* As Margo said, up until now we’ve been testing our product with different groups, different communities, and different types of users. And we have come to the conclusion that it really works. It works for internal decision-making processes as well as for public discussions—and there is a great desire for that in the civil society sector.
 
-  Leian, et peaksime parendama meie UX ja UI disaini ning sellest saab ka minu esimese tegevjuhi aasta üks oluline suund, kuid ette rutates on minu visiooniks just see, et platvormi kasutamine erinevates gruppides globaalselt kasvaks.
+  I believe that our UX and UI needs to be improved a little—and that’s going to be a big focus in my first year as CEO—but looking further ahead my vision is really that we escalate the use of the platform among different groups globally.
 
-  Nagu ka enne mainisin, tunnen, et headel ideedel on vägi laieneda üle riigipiiride ning soovin, et suudaksime sellele kaasa aidata. Meie unistus on ehitada globaalseid ühendusi inimeste ja kogukondade vahel, sest globaalseid probleeme saab lahendada vaid globaalsel tasandil. Kliimamuutustega seotud väljakutse on siinkohal suurepäraseks näiteks.
+  As mentioned before, I feel that good ideas have the power to spread across national borders, and I want us to help facilitate that. So our dream is to build global connections between people and communities—because global problems can only be solved globally. The challenge we’re facing with climate change is an excellent example of this.
 
-  Usun, et meie kaasotsustusplatvormi ja rajatava globaalse võrgustikuga, mis hõlmab koolitusprogramme, noortevahetust, kodanikke kaasavaid projekte ja kõiki koostööpartnereid, oleme nüüdseks jõudnud ideaalsesse punkti loomaks üleilmset platvormi rahvakogudeks nii kliimamuutuste- kui muudel teemadel.
+  I believe that with our co-decision platform and the global networks we are building—through our training programmes, youth exchanges, civic engagement projects and all our partners—we’re in a great position to build a global platform for hosting citizens’ assemblies on climate matters and more.
 
-  Samuti soovin, et rahvakogud muutuksid tulevikudemokraatiate oluliseks osaks ka kohalikul tasandil. Oleme viimasel ajal näinud ka palju häid näiteid, kuidas need praktikas toimivad.
+  And locally too, I want to see citizen assemblies become an important part of the democracies of the future. We’ve seen many examples recently of just how well they can work in practice.
 
-  **Viimane küsimus sulle, Anett — kuidas kujutled demokraatia tulevikku ning Citizen OS-i rolli selle saavutamisel?**
+  **And a final question for you Anett—how do you envision the future of democracy, and the role Citizen OS will play in bringing it about?**
   { .pt-5}
 
-  *Anett:* Omame kogu vajalikku tehnoloogiat, et inimesed saaksid teha kollektiivseid otsuseid küsimustes, mis nende elu otseselt mõjutavad. Siiski valime endale jätkuvalt esindajaid, kes meie eest kriitilise tähtsusega otsuseid langetavad. Demokraatia ei peaks enam sellisel viisil toimima - olukord on muutunud.
+  *Anett:* We have all the technology required for people to collectively make decisions on the matters that directly affect their own lives. Yet we are still electing representatives to make crucial decisions on our behalf. This is no longer the way that democracy has to function; the situation has changed.
 
-  Kui jälgida trende, siis on inimesed tänu globaalsetele arengutele hariduses muutumas üha targemaks ning internet on igal aastal kättesaadavam üha enamatele inimestele. Samuti näitavad uuringud, et inimesed on üha enam huvitatud osalemast otsuste langetamises küsimustes, mis neid mõjutavad, selle asemel, et laste teistel need otsused nende eest ära teha.
+  Because if you look at the trends, people are getting smarter and smarter thanks to global advances in education, and the internet is becoming accessible by more and more people each year. Studies also show that people are becoming increasingly interested in participating in decision-making on the issues that affect them, rather than letting others make them for them.
 
-  Samuti olen oma töös märganud, et meie missioon läheb eriliselt hinge just noortele, kellest saavad meie tuleviku juhid. See, mis me teeme, puudutab neid – nad tahavad aidata meie ideid realiseerida ning plaanin tulevikus meie töös sellele rohkem rõhku panna.
+  I’ve also noticed in my work that our mission particularly resonates with young people, who will go on to become the leaders of the future. What we do really touches their hearts—they want to be involved in making our ideas a reality, and I plan to tap into this much more in our future work.
 
-  Niisiis on meil olemas kõik komponendid ja seetõttu ongi Citizen OS-i töö nii oluline – suunata maailma tulevikku, kus kodanikel üle ilma on võimalik kaasa rääkida otsustes, mis nende elu mõjutavad ning võimalus osaleda rahvakogudel nii kohalikul- kui ka globaalsel tasandil. Usun, et viis, kuidas me otsuseid teeme muutub tulevikus oluliselt paremaks ja et oleme täiuslikus olukorras seda muutust eest vedama.
+  So all the ingredients are there, and this is why what we’re doing at Citizen OS is so important—moving the world towards a future in which citizens globally have direct influence over decisions that affect their lives, and can participate in citizens’ assemblies both locally and globally. I believe that the way we make decisions will change significantly for the better in the future, and that we are in the perfect position now to lead this change.
 
-  *Kui soovite Citizen OS uudiseid oma postkasti, [liituge uudiskirjaga.](https://citizenos.com/et/toode/#subscribe)*
+  *For more news about the Citizen OS Foundation, please [subscribe to our newsletter](https://citizenos.com/product/#subscribe)*
