@@ -1,11 +1,10 @@
----
-path: /participer
-title: Participer
-description: Développeurs, traducteurs, scientifiques, concepteurs, hacktivistes et journalistes - n'hésitez pas à nous contacter ! Citizen OS accueille des bénévoles intéressés par l'e-démocratie.
+path: /get-involved
+title: Get involved
+description: Developer, translator, scientist, designer, hacktivist and journalist - please get in touch! Citizen OS welcomes volunteers who are interested in e-democracy.
 keywords:
-  - hacktiviste civique
+  - civic hacktivist
   - e-participation
-  - technologie gouvernementale
+  - government technology
 image: /images/meta/vision.jpg
 blocks:
   get-involved-img:
@@ -18,35 +17,35 @@ blocks:
   get-involved:
     #label: About
     title: |
-      Comment s'impliquer ?
+      How to get involved?
     text: |
 
-      Aidez-nous à améliorer la plateforme Citizen OS en tant que bénévole. Que vous soyez développeur, traducteur, chercheur, designer, hacktiviste ou journaliste, rejoignez-nous !
+      Help us improve the Citizen OS platform as a volunteer. Whether you are a developer, translator, researcher, designer, hacktivist or journalist - join us!
 
-      #### Aidez à traduire.
+      #### Help translate.
 
-      Si la plateforme OS Citoyen ne prend pas encore votre langue en charge et que vous souhaitez rejoindre notre équipe de traducteurs bénévoles, [merci de nous contacter] (mailto:translations@citizenos.com).
+      If Citizen OS platform doesn’t yet support your language and you'd like to join our volunteer translators' team, [please get in touch](mailto:translations@citizenos.com).
 
-      Traduire la plateforme Citizen OS dans une nouvelle langue est facile ; de nombreux volontaires travaillent avec nous tous les jours. [Aller voir](https://crowdin.com/project/citizenos-fe) !
+      Translating the Citizen OS platform into a new language is easy; many volunteers work with us every day. [Check it out](https://crowdin.com/project/citizenos-fe)!
 
-      #### Aidez à développer des logiciels Open Source.
+      #### Help develop Open Source software.
 
-      Êtes-vous un développeur ou un concepteur, pour qui l'avenir de la prise de décision en ligne est un sujet qui vous tient à cœur ?
+      Are you a developer or designer, to whom the future of online decision-making is a topic close to heart?
 
-      Si vous avez des idées sur la façon d'améliorer ou d'ajouter des fonctionnalités à notre code source ouvert, merci de [les partager avec nous sur GitHub](https://github.com/citizenos).
+      If you have ideas on how to improve or add functionality to our open source code, please [share it with us on GitHub](https://github.com/citizenos).
 
-      #### Testez nos développements.
+      #### Test our developments.
 
-      Nous serions ravis de tester les nouvelles fonctionnalités sur nos utilisateurs réels, pour nous assurer que nous construisons ce dont vous avez besoin, de la manière dont vous en avez besoin.
+      We’d love to test new features on our real users, to make sure we’re building what you need, the way you need it.
 
-      [Faites-nous savoir](mailto:ilmar@citizenos.com) si vous souhaitez nous aider à tester et voir les nouveaux développements avant les autres !
+      [Let us know](mailto:ilmar@citizenos.com) if you’d like to help us with testing and see new developments before others!
 
-      #### Aide à la recherche.
+      #### Help with research.
 
-      Si vous travaillez dans le domaine de l'e-démocratie, nous serions ravis de vous rencontrer ou de publier vos travaux sur notre blog. [Écrivez-nous !] (mailto:sara@citizenos.com).
+      If you are working in the field of e-democracy, we would love to meet you or publish your works on our blog. [Drop us a line!](mailto:sara@citizenos.com).
 
-      #### Aidez dans d'autres domaines.
+      #### Help in other areas.
 
-      Pour toute autre idée, merci de [contacter notre responsable des partenariats] (mailto:sara@citizenos.com).
+      With any other ideas, please [contact our Head of Partnerships](mailto:sara@citizenos.com).
 
-      Si vous souhaitez rejoindre l'équipe, vérifiez si des postes sont disponibles [ici](/fr/recrutement/).
+      If you would like to join the team, check if there are any available positions [here](/careers/).
