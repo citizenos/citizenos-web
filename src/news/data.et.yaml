@@ -1,5 +1,4 @@
----
-path: /uudised
+path: /news
 title: News
 description:
 keywords:
@@ -9,13 +8,13 @@ keywords:
 image: /images/meta/vision.jpg
 news:
   2022-04-04:
-    url: et/news/1200-citizens-attend-Indonesian-Opinion-Festival-2022
+    url: /news/1200-citizens-attend-Indonesian-Opinion-Festival-2022
     title: 1200 citizens attend Indonesia Opinion Festival 2022.
     author: Becca Melhuish
     image: /images/news/1200-citizens-attend-Indonesian-Opinion-Festival-2022.png
     categories:
-      - Citizen OS uudised
-      - E-demokraatia uudised
+      - Citizen OS news
+      - E-democracy news
     text: |
       Just under 1200 Indonesian citizens came together online to democratically share their opinions, insights and hopes for the future at our second Indonesia Opinion Festival.
   2022-01-17:
@@ -24,7 +23,7 @@ news:
     author: Indianna Knight, Becca Melhuish
     image: /images/news/our-new-government-partnership-for-youth-e-engagement-in-indonesia.jpeg
     categories:
-      - Citizen OS uudised
+      - Citizen OS news
       - Case studies
       - E-democracy news
     text: |
@@ -35,7 +34,7 @@ news:
     author: Agustina Iskandar Crombach
     image: /images/news/imam.jpeg
     categories:
-      - Citizen OS uudised
+      - Citizen OS news
       - Case studies
       - E-democracy news
     text: |
@@ -46,62 +45,62 @@ news:
     author: Indianna Knight
     image: /images/news/sara.jpg
     categories:
-      - Citizen OS uudised
+      - Citizen OS news
     text: |
       Sara Sinha shared her experience of volunteering with us.
   2021-11-15:
     url: /news/meet-falko-blumenthal-a-civic-hacktivist
-    title: 'Falko Blumenthal: kodanikuhäktivist'
+    title: Meet Falko Blumenthal, a Civic Hacktivist.
     author: Indianna Knight
     image: /images/news/falko-blumenthal.jpg
     categories:
-      - Citizen OS uudised
+      - Citizen OS news
     text: |
-      Falko Blumenthal meenutab Tallinna talvekooli kogemusi ja räägib, mis ta arvab kodanikuhäktivismist (ingl. k).
+      Falko Blumenthal reflects on his time at Tallinn Winter School and shares his views on civic hacktivism.
   2021-10-04:
     url: /news/meet-our-alumni-digital-change-makers
-    title: Digital Change-makers - saage tuttavaks meie vilistlastega.
+    title: Meet our alumni digital change-makers.
     author: Indianna Knight, Becca Melhuish
     image: /images/news/meet-our-alumni-digital-change-makers.png
     categories:
-      - Citizen OS uudised
+      - Citizen OS news
     text: |
-      Uurisime, kuidas läheb meie Digital innovation programmi vilistlastel.
+      We caught up with alumni of the Digital Innovation Programme.
   2021-09-21:
-    url: /et/uudised/intervjuu-sihtasutuse-citizen-os-minevik-ja-tulevik
-    title: Intervjuu — Sihtasutuse Citizen OS minevik ja tulevik.
+    url: /news/interview-the-past-and-future-of-citizen-os
+    title: Interview—The past and future of Citizen OS.
     author: Becca Melhuish
     image: /images/news/citizen-os-global-expansion-led-by-new-ceo.jpg
     categories:
-      - Citizen OS uudised
+      - Citizen OS news
     text: |
-      Algab uus arenguetapp, mil Anett Linno tegevjuhi rolli Margo Loorilt üle võtab.
+      The succession of Margo Loor by Anett Linno as CEO marks a new chapter of growth.
   2021-09-20:
-    url: /et/uudised/citizen-os-ülemaailmne-laienemine-uue-tegevjuhi-juhtimisel
-    title: Citizen OS ülemaailmne laienemine uue tegevjuhi juhtimisel.
+    url: /news/citizen-os-global-expansion-led-by-new-ceo
+    title: Citizen OS global expansion led by new CEO.
     author: Becca Melhuish
     image: /images/team/team.jpg
     categories:
-      - Citizen OS uudised
+      - Citizen OS news
     text: |
-      Algab uus arengujärk, kui lahkuva tegevjuhi Margo Loori asemel asub tööle Anett Linno.
+      A new chapter of growth begins, following the succession of outgoing CEO, Margo Loor, by incoming CEO, Anett Linno.
   2021-05-06:
-    url: /et/uudised/pare-yldkoosolekud-on-nyyd-virtuaalsed/
-    title: Intervjuu—PARE üldkoosolekud on nüüd virtuaalsed.
+    url: /news/pare-general-meeting-goes-online
+    title: Interview—PARE General Meeting goes online.
     author: Becca Melhuish
     image: /images/news/pare-ceo.jpg
     categories:
-      - Citizen OS uudised
-      - Juhtumiuuringud
+      - Citizen OS news
+      - Case studies
     text: |
-      Loe lähemalt, kuidas Eesti Personalijuhtimise Ühing (PARE) muutis Citizen OS platvormi abil oma üldkoosoleku virtuaalseks ja kogus digiallkirjastatud hääli.
+      Find out how Estonia’s PARE Union moved their general meeting online with the help of the Citizen OS platform.
   2021-03-10:
     url: /news/meet-our-young-changemakers
     title: Meet our young changemakers.
     author: Becca Melhuish
     image: /images/news/meet-our-young-changemakers.jpg
     categories:
-      - Citizen OS uudised
+      - Citizen OS news
     text: |
       Find out what our inspiring team of young Estonian changemakers thinks about civil society activism, “being the change”, and the future potential of participatory e-democracy.
   2021-03-05:
@@ -110,7 +109,7 @@ news:
     author: Becca Melhuish
     image: /images/news/celebrating-freedom-of-expression-in-indonesia.png
     categories:
-      - Citizen OS uudised
+      - Citizen OS news
     text: |
       Led by Citizen OS Indonesia, the first ever Indonesian Opinion Festival saw 527 participants come together to discuss important social issues, with outcomes being passed on to government for action.
   2021-02-16:
@@ -119,7 +118,7 @@ news:
     author: Becca Melhuish
     image: /images/news/our-new-community-e-participation-course.png
     categories:
-      - Citizen OS uudised
+      - Citizen OS news
     text: |
       Seventeen Estonian community leaders took part in our fresh new training programme.
   2021-01-21:
@@ -128,7 +127,7 @@ news:
     author: Becca Melhuish
     image: /images/news/12-digital-changemakers-successfully-upskilled.png
     categories:
-      - Citizen OS uudised
+      - Citizen OS news
     text: |
       After ten enriching days on our co-led Digital Innovation Program, an international group of twelve young students are now ready to apply their newly-learned skills to the benefit of their communities.
   2020-10-22:
@@ -137,17 +136,17 @@ news:
     author: Becca Melhuish
     image: /images/news/the-ultimate-winter-school-for-digital-change-makers.png
     categories:
-      - Citizen OS uudised
+      - Citizen OS news
     text: |
-      Oleme teinud koostööd Tallinna ülikooliga, et viia läbi köitev ja rikastav Talvekooli kursus, mis on keskendunud just digitaalsele innovatsioonile ja kodanikuaktiivsusele.
+      We’ve teamed up with Tallinn University to deliver an engaging and enriching Winter School course, focused specifically on digital innovation and civic engagement.
   2020-10-13:
     url: /news/join-indias-participatory-youth-leadership-network
     title: Join India’s Participatory Youth Leadership Network.
     author: Becca Melhuish
     image: /images/news/join-indias-participatory-youth-leadership-network1.png
     categories:
-      - Citizen OS uudised
-      - Juhtumiuuringud
+      - Citizen OS news
+      - Case studies
     text: |
       We’re launching a new community of practice in India, the Participatory Youth Leadership Network, which will bring together youth leaders and youth organisations in India and beyond.
   2020-09-24:
@@ -156,47 +155,47 @@ news:
     author: Sara Sinha
     image: /images/news/the-dawn-of-participatory-e-democracy-in-india.jpg
     categories:
-      - E-demokraatia uudised
-      - Juhtumiuuringud
+      - E-democracy news
+      - Case studies
     text: |
       Open Society Technologies scholar Sara Sinha fills us in on the participatory e-democracy scene in India, the academic research in this area, and her hopes for the future of this field in her homeland.
   2020-09-18:
     url: /news/the-34-islands-project-for-a-greener-indonesia
-    title: 34 saare projekt - rohelisem Indoneesia.
+    title: The 34 Islands Project–for a Greener Indonesia.
     author: Becca Melhuish
     image: /images/news/the-34-islands-project-for-a-greener-indonesia.jpg
     categories:
-      - Citizen OS uudised
-      - Juhtumiuuringud
+      - Citizen OS news
+      - Case studies
     text: |
-      Rohujuure tasandil kogukonna otsuste tegemine võitleb Indoneesias jäätmereostusega.
+      Grassroots community decision-making is combating waste pollution in Indonesia.
   2020-09-15:
-    url: /et/uudised/demokraatia-ilma-argumenteeritud-aruteluta-ei-ole-võimalik/
-    title: Demokraatia ilma argumenteeritud aruteluta ei ole võimalik.
+    url: /news/democracy-is-impossible-without-reasoned-debate
+    title: Democracy is impossible without reasoned debate.
     author: Margo Loor
     image: /images/news/democracy-is-impossible-without-reasoned-debate.jpg
     categories:
-      - Citizen OS uudised
-      - E-demokraatia uudised
+      - Citizen OS news
+      - E-democracy news
     text: |
-      Meie tegevjuht Margo Loor teemal miks avalik arutelu viib parimate otsusteni. Algselt avaldatud Hea Kodaniku ajakirjas.
+      Our CEO Margo Loor on why public discussion yields the best decisions, as published in the Good Citizen magazine.
   2020-08-05:
     url: /news/the-key-to-online-democracy-is-trust/
-    title: Veebidemokraatia võti on usaldus.
-    author: Margo Loor, tegev- ja tootejuht / Toimetanud Becca Melhuish
+    title: The key to online democracy is trust.
+    author: Margo Loor, CEO and Product Manager / Edited by Becca Melhuish
     image: /images/news/the-key-to-online-democracy-is-trust.jpg
     categories:
-      - Citizen OS uudised
+      - Citizen OS news
     text: |
-      Veebihääletussüsteemid vajavad kindlaid turvameetmeid. Hoiame Citizen OS-i platvormi kursis uute seaduste ja parimate tavadega - meie tegev- ja tootejuht Margo Loor selgitab, kuidas.
+      Online voting systems need solid security measures. We keep the Citizen OS platform up-to-date with new laws and best practice—our CEO and Product Manager, Margo Loor, explains how.
   2020-07-29:
     url: /news/turning-citizen-ideas-into-action-on-waste-bintan-indonesia/
     title: Turning citizen ideas into action on waste—Bintan, Indonesia.
-    author: Indoneesia meeskond, toimetaja Becca Melhuish
+    author: Indonesian team, edited by Becca Melhuish
     image: /images/news/turning-citizen-ideas-into-action-on-waste-bintan-indonesia.jpeg
     categories:
-      - Citizen OS uudised
-      - Juhtumiuuringud
+      - Citizen OS news
+      - Case studies
     text: |
       Let’s Do It Indonesia have announced the success of their first 34 Island Project governmental meeting—turning local people’s wishes into reality with the help of Citizen OS.
   2020-06-08:
@@ -205,7 +204,7 @@ news:
     author: Anett Linno, Liina Guiter
     image: /images/news/come-and-participate-in-a-new-participation-service-pilot-project.jpg
     categories:
-      - Citizen OS uudised
+      - Citizen OS news
     text: |
       Citizen OS Foundation is developing a participation service to help successfully carry out initiatives in society.
   2020-05-25:
@@ -214,8 +213,8 @@ news:
     author: Becca Melhuish
     image: /images/news/challenges-in-the-field-of-participatory-e-democracy.jpg
     categories:
-      - Citizen OS uudised
-      - E-demokraatia uudised
+      - Citizen OS news
+      - E-democracy news
     text: |
       Founding members of the new global Civic Hacktivist Community share their thoughts on the challenges facing the emerging field of participatory e-democracy, and their vision for its future.
   2020-05-14:
@@ -224,8 +223,8 @@ news:
     author: Becca Melhuish
     image: /images/news/the-civic-hacktivist-community-who-and-why.jpg
     categories:
-      - Citizen OS uudised
-      - E-demokraatia uudised
+      - Citizen OS news
+      - E-democracy news
     text: |
       Who’s at the helm of the Civic Hacktivist Community, and what’s it for? Members of the community’s founding organisations share their hopes for the future of this new participatory e-democracy network.
   2020-05-05:
@@ -234,7 +233,7 @@ news:
     author: Agustina Iskandar
     image: /images/news/my-mistake-my-best-lesson.png
     categories:
-      - Juhtumiuuringud
+      - Case studies
     text: |
       Agustina Iskandar, leader of civic movement Let’s Do It Indonesia, recounts a candid and heartfelt story of a leadership mistake, and how she regained trust with the help of the Citizen OS platform.
   2020-04-28:
@@ -243,29 +242,29 @@ news:
     author: Becca Melhuish
     image: /images/news/team-decisions-in-the-time-of-corona.png
     categories:
-      - Citizen OS uudised
-      - E-demokraatia uudised
-      - Juhtumiuuringud
+      - Citizen OS news
+      - E-democracy news
+      - Case studies
     text: |
       Still haven’t found the perfect tool for remote group decision-making? Our free co-decision platform might be just what you’re looking for.
   2020-04-20:
-    url: /et/uudised/elurikkuse-erakond-postideoloogilise-syvademokraatliku-poliitika-retsept
+    url: /news/estonias-richness-of-life-party-a-recipe-for-post-ideology-deep-democracy-politics/
     title: Estonia’s Richness Of Life Party - a recipe for post-ideology participatory politics?
     author: Becca Melhuish
     image: /images/news/estonias-richness-of-life-party-a-recipe-for-post-ideology-deep-democracy-politics.png
     categories:
-      - Citizen OS uudised
-      - E-demokraatia uudised
-      - Juhtumiuuringud
+      - Citizen OS news
+      - E-democracy news
+      - Case studies
     text: |
-      Radikaalselt teistsugune lähenemine erakonnapoliitikale sillutab teed rahva poolt otse juhitavale, alt üles toimivale nutikale maheriigile.
+      A radically different approach to party politics – paving the way for a bottom-up digital eco-state led directly by the people.
   2020-02-27:
     url: /news/digital-signing-through-smart-id-our-open-source-gift/
     title: Digital Signing through Smart-ID - our open source gift
     author: Becca Melhuish
     image: /images/news/digital-signing-through-smart-id-our-open-source-gift.png
     categories:
-      - Citizen OS uudised
+      - Citizen OS news
     text: |
       Here at Citizen OS, we’ve been busy writing two free, open source sets of code in JavaScript, which act as interfaces for using Estonia’s Smart-ID and Mobile-ID services. They’re yours if you want them!
   2019-12-20:
@@ -274,8 +273,8 @@ news:
     author: Questions by Gertha Teidla-Kunitsõn, written answers by Margo Loor.
     image: /images/news/where-is-participation-heading-and-how-can-each-of-us-change-it.jpeg
     categories:
-      - E-demokraatia uudised
-      - Citizen OS uudised
+      - E-democracy news
+      - Citizen OS news
     text: |
       Gertha Teidla-Kunitsõn from the Estonian Youth Work Center asked our CEO about the status of participation in society today and where is participation heading in the future.
   2019-12-02:
@@ -284,8 +283,8 @@ news:
     author: Becca Melhuish
     image: /images/news/le-ciel-and-citizen-os-join-forces-for-the-planet.jpeg
     categories:
-      - Citizen OS uudised
-      - Juhtumiuuringud
+      - Citizen OS news
+      - Case studies
     text: |
       "The Twelve", a new documentary revealing indigenous communities’ wisdom to inspire global collective action, is being supported by Citizen OS through the creation of an online community platform.
   2019-11-13:
@@ -294,7 +293,7 @@ news:
     author: Margo Loor
     image: /images/news/is-the-time-of-representative-democracy-over-estonia-without-a-parliament.jpeg
     categories:
-      - E-demokraatia uudised
+      - E-democracy news
     text: |
       Political events across the democratic world have created a ghost – the ghost of direct democracy. Populist movements everywhere demand that the people’s voice be heard more, mostly in the form of Swiss-style referendums.
   2019-11-08:
@@ -303,8 +302,8 @@ news:
     author: Anett Linno, edited by Becca Melhuish
     image: /images/news/gmb-indonesia-empowering-youth-leaders-for-unity-and-peace.jpeg
     categories:
-      - Citizen OS uudised
-      - Juhtumiuuringud
+      - Citizen OS news
+      - Case studies
     text: |
       Our Head of Partnerships, Anett Linno, walks us through her experiences at our partner GMB Indonesia’s Youth Adventure and Leaders Forum, in this personal blog and in-depth photo story.
   2019-09-05:
@@ -313,7 +312,7 @@ news:
     author: Becca Melhuish
     image: /images/news/afoorum-widening-the-scope-of-estonias-opinion-festival.png
     categories:
-      - Juhtumiuuringud
+      - Case studies
     text: |
       This annual democracy festival’s mission to improve debate culture and enhance civic education is supported by Citizen OS’s open source platform for the second year running.
   2019-07-18:
@@ -322,8 +321,8 @@ news:
     author: Paul Emmet
     image: /images/news/the-unexamined-life-is-not-worth-living-on-socrates-and-citizen-os.jpeg
     categories:
-      - Citizen OS uudised
-      - E-demokraatia uudised
+      - Citizen OS news
+      - E-democracy news
     text: |
       Socratic discourses are no longer the privilege of the scholars and the intellectuals — now concerned citizens can propose, discuss, and learn from others, with the Citizen OS e-democracy platform.
   2019-07-04:
@@ -332,11 +331,11 @@ news:
     author: Oksana Naidjonova answered, Becca Melhuish asked
     image: /images/news/meet-the-team-localisation-lead-oksana-naidjonova.jpg
     categories:
-      - Citizen OS uudised
+      - Citizen OS news
     text: |
       Citizen OS’s localisation lead on her childhood translation profession, coffee-addicted eagles, and a cunning plan to take over the world.
 readMore: Read more
-allNews: Kõik uudised
+allNews: All news
 blocks:
   start-img:
     class:
