@@ -1,47 +1,46 @@
----
 path: /erasmus
-title: Kodanike kaasamise digitaalne muundamine
-description: Meie uus Erasmus+ noorteprogramm koolitab välja Euroopa kodanike kaasamise ja osaluspõhise juhtimise projektide eestvedajate järgmist põlvkonda. Esita oma taotlus ja liitu meie tiimiga!
+title: Digital Transformation for Civic Engagement
+description: Our new Erasmus+ youth exchange programme will train up Europe’s next generation of leaders in civic engagement, participatory leadership. Apply and join us!
 keywords:
-  - noorteprogramm 2021
-  - noortejuht
+  - youth program 2021
+  - youth leader
   - erasmus+
 blocks:
   header:
-    title: 'Digitaalne muundumine kodanike kaasamiseks'
+    title: 'Digital Transformation for Civic Engagement'
   text:
     text: |
 
-      ## Tegevuse kaudu õppimine
+      ## Learning By Doing
 
-      Meie projekti "Digitaalne muundumine kodanike kaasamiseks" noortevahetusprogrammi käigus koolitatakse innovaatiliste ja köitvate meetoditega välja Euroopa kodanike kaasamise ja osaluspõhise juhtimise projektide eestvedajate järgmist põlvkonda.
+      Our Digital Transformation for Civic Engagement youth exchange program will train up Europe’s next generation of leaders in civic engagement project design and participatory leadership, through innovative and engaging methods.
 
-      Üheksapäevase perioodi jooksul 17.–25. augustil 2021 on viiel noorel inimesel kuuest osalevast riigist võimalus disainida ja ellu viia lahendusi päriselus esinenud, kodanike kaasamisega seotud probleemidele fiktiivses demokraatlikult juhitavas organisatsioonis. Osalevad noored tegutsevad organisatsiooni nõukogu liikmetena ja proovivad leida lahendusi organisatsiooni juhtimisprobleemidele, toetades ja inspireerides samaaegselt oma projektimeeskonna liikmeid.
+      Across a period of nine days, from 17-25 August 2021, five young people from six participating countries will have the opportunity to design and implement solutions to real-life civic engagement problems within a fictional, democratically-led organisation. They will act as board members of the organisation, working to solve the leadership problems they’re confronted with, while supporting and inspiring their project teams along the way.
 
-      Projekti lõppedes on osalejatel hea praktiline kogemus tõhusate kodanike kaasamise projektide loomiseks ning hea arusaamine sellest, kuidas saavad organisatsiooni juhid organisatsiooni liikmeid strateegia ja tegevuskava väljatöötamisse demokraatlikult kaasata. Programmi põhifookus on tehnoloogiliste tööriistade rakendamisel. Osalejad õpivad neid tööriistu tõhusates ja kõikehõlmavates kaasamisprotsessides rakendama.
+      Participants will leave the program having a solid practical experience of designing effective civic engagement projects, as well as a sound understanding of how an organisation’s leaders can democratically engage their members in co-developing its Strategy and Action Plan. The application of technological tools will be a key focus of the program, with participants learning to apply such tools in effective and inclusive engagement processes.
 
-      Programmi korraldab Sihtasutus Citizen OS ning seda rahastatakse Euroopa Solidaarsuskorpuse programmist Erasmus+. Seda arendatakse ja esitletakse kuue osaleva riigi kuue organisatsiooni koostöös:
+      The programme is organised by Foundation Citizen OS and funded with support from the European European Solidarity Corps Erasmus+ programme. It is being developed and delivered in partnership with six organisations from the six participating countries:
 
-      - [Citizen OS, Eesti](https://citizenos.com/about-us/)
-      - [GEYC, Rumeenia](https://www.geyc.ro/p/about-us.html)
+      - [Citizen OS, Estonia](https://citizenos.com/about-us/)
+      - [GEYC, Romania](https://www.geyc.ro/p/about-us.html)
       - [Associação Check-IN, Portugal](https://www.checkin.org.pt/en/who-we-are/)
-      - [Afyonkarahisar Sarıkız Kalkındırma Derneği, Türgi](http://www.afsarder.com/)
-      - [Sdruzhenie Alternativi International, Bulgaaria](https://alternativibg.org/)
-      - [Coconut Luxembourg, Luksemburg](http://thecocoworld.com/)
+      - [Afyonkarahisar Sarıkız Kalkındırma Derneği, Turkey](http://www.afsarder.com/)
+      - [Sdruzhenie Alternativi International, Bulgaria](https://alternativibg.org/)
+      - [Coconut Luxembourg, Luxembourg](http://thecocoworld.com/)
 
 
-      Osalejad peavad olema 18–30-aastased ning nende suuline inglise keele oskus peab olema vähemalt tasemel A2. Ideaalsel kandidaadil on kodanike kaasamise projektide algatamse või neis osalemise kogemus, huvi nende projektide algatamise või korraldamise vastu või seotus noorteorganisatsiooniga.
+      Participants must be 18-30 years old and have at least an A2 level in speaking English. The ideal candidate has an interest or experience in initiating or participating in civic engagement projects, or involvement in a youth organisation.
 
-      Kui oled osalemisest huvitatud või tahad lihtsalt programmi kohta lisateavet saada, siis palun [võta ühendust meie partnersuhete ja kogukonna juhi Anett Linnoga.](mailto:anett@citizenos.com)
+      If you are interested in participating or simply finding out more about the program, please [contact our Partnerships and Community Lead Anett Linno.](mailto:anett@citizenos.com)
 
-      **Seda projekti toetavad Erasmus+ ja Euroopa Solidaarsuskorpuse Agentuur Euroopa Solidaarsuskorpuse Programmist. [www.euroopanoored.eu](http://euroopanoored.eu).**
+      **This project is supported by Erasmus+ and the European Solidarity Corps Agency from the European Solidarity Corps Programme. [www.euroopanoored.eu](http://euroopanoored.eu).**
   join:
-    title: Ajalugu ja tegevused
+    title: Timeline and activities
     #date: 17-25 August 2021, Haapsalu
     #time: Full days
     price:
     deadline:
     how:
     button:
-      title: Esita oma taotlus nüüd!
+      title: Apply now!
       url: https://docs.google.com/forms/d/e/1FAIpQLSc0rssCy1BA8WgegHqVMp50xCH8m2MiNTflVEZt9n_zmdcueg/viewform
