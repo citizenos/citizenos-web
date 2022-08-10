@@ -1,0 +1,143 @@
+---
+path: /
+description: Sihtasutus Citizen OS on sotsiaalne ettevõte, mis pakub ja arendab tasuta otsustusplatvormi.
+keywords:
+  - kogukonna tegevus
+  - e-demokraatia
+  - tasuta kodanikutehnoloogia
+image: /images/meta/home-alt.jpg
+data:
+  news: /news/data.en.yaml
+header:
+  title: Tasuta otsustusplatvorm
+  text: |
+    Arutle ja hääleta privaatses grupis või avalikult.
+  video:
+    title: Sissejuhatus
+    url: https://www.youtube.com/embed/hDLWbQQAk8g?rel=0&showinfo=0&modestbranding=1&autoplay=1&cc_load_policy=1&cc_lang_pref=et
+  demo:
+    title: Demo
+    url: https://www.youtube.com/embed/UC44qCCIixE?rel=0&showinfo=0&modestbranding=1&autoplay=1&cc_load_policy=1&cc_lang_pref=et
+#whatIs:
+#title: What is Citizen OS
+#url: /product/
+#startUsing:
+#title: Start using - it’s free!
+#url: https://app.citizenos.com
+#target: _blank
+blocks:
+  opensource-img:
+    class:
+      - order-1
+    style:
+      background-image: url(/images/bubble-yellow.svg)
+      background-position: 20% 80%
+      background-size: 122px 122px
+    text: |
+      ![The Citizen OS platform is free to use on your desktop, laptop, tablet or mobile.](/images/frontpage-product.png){ .img-fluid }
+  opensource:
+    class:
+      - order-2
+      - col-sm-4
+      - offset-sm-1
+    style:
+      background-image: url(/images/bubble-dots.png)
+      background-position: 0% 25%
+      background-size: 360px 360px
+    title: |
+      Võta kasutusele oma organisatsioonis.
+    text: |
+      Korralda ideekorjeid, arutle ja hääleta.
+    button1st:
+      title: Meie platvorm
+      url: /et/toode/
+  democracy-img:
+    class:
+      - order-3
+      - order-sm-4
+    style:
+      background-image: url(/images/bubble-dots.png), url(/images/bubble-orange.svg)
+      background-position: 30% 25%, 20% 75%
+      background-size: 360px 360px, 100px 100px
+    text: |
+      ![People sitting in circles, discussing.](/images/vision-start.png){ .img-fluid }
+  democracy:
+    class:
+      - order-4
+      - order-sm-3
+      - col-sm-4
+      - offset-sm-1
+    style:
+      background-image: url(/images/bubble-yellow.svg)
+      background-position: 0 10%
+      background-size: 122px 122px
+    title: |
+      Osalusdemokraatia tulevik.
+    text: |
+      Usume demokraatiasse, mis annab kõigile kodanikele õiguse neid mõjutavates otsustes sõna sekka öelda.
+    button1st:
+      title: Meie projektid
+      url: /et/projektid/
+    button2nd:
+  #title: Use product - it’s free!
+  #url: https://app.citizenos.com
+  #target: _blank
+  #research-img:
+  #class:
+  #- order-5
+  #style:
+  #background-image: url(/images/bubble-#turquoise.svg)
+  #background-position: 85% 85%
+  #background-size: 75px 75px
+  #text: |
+  #![Man in a white shirt holds a microphone while speaking at a participatory democracy festival.](/images/frontpage-lets-educate.png){ .img-fluid }
+  #research:
+  #class:
+  #- order-5
+  #- col-sm-4
+  #- offset-sm-1
+  #style:
+  #background-image: url(/images/bubble-dots.png)
+  #background-position: 30% 25%
+  #background-size: 360px 360px
+  ## label: Let’s Educate
+  #title: |
+  #A community of innovators.
+  #text: |
+  #We run a global community for participatory e-democracy enthusiasts, and everyone’s welcome.
+  #button1st:
+  #title: Learn more
+  #url: /community/
+  news:
+    class:
+      - order-6
+      - text-center
+    style:
+      background-color: '#F7F7F7'
+      background-image: url(/images/bubble-dots.png)
+      background-position: 60% 10%
+      background-size: 360px 360px
+    title: |
+      Viimased uudised.
+    text: |
+      { #news-items }
+    button1st:
+      title: Veel lugusid
+      url: /et/uudised/
+  in-media:
+    class:
+      - order-8
+      - text-center
+    title: |
+      Meedias
+    text: |
+      - [![](/images/in-media/wcd.png)](https://www.youtube.com/watch?v=vqchbMJc9q8&fbclid=IwAR1v8AVjrTCAqZC_GacnoQLWZvyl4XMka_hYfxDSdtx9Q3syUsE8pZnAVxE)
+      - [![](/images/in-media/e-estonia.png)](https://e-estonia.com/e-talks-citizen-os-e-democracy-platform-for-the-citizens-of-the-world/)
+      - [![](/images/in-media/rohelised.png)](https://erakond.ee/eestimaa-rohelised/uldkoosolek-oli-edukas-citizen-os-kaasabil-valiti-kaks-juhti-ja-teised-kogud/#)
+      - [![](/images/in-media/kuku.png)](https://oef.org.ee/paevakajaline/artikkel/aef-minutid-25-novembril#)
+      - [![](/images/in-media/err.png)](https://www.err.ee/1001718/margo-loor-eesti-ilma-riigikoguta-kas-esindusdemokraatia-aeg-on-labi#)
+      - [![](/images/in-media/hea-kodanik.png)](https://heakodanik.ee/uudised/kuidas-laheb-citizenos/#)
+      - [![](/images/in-media/probintan.png)](https://bintan.batampos.co.id/2020/07/02/dorong-tiap-desa-punya-sistem-pengelolaan-sampah/?__cf_chl_jschl_tk__=b80e1b6040903a27357683289b726d7e04177251-1621327617-0-AeevRijgU7BE5ytn0mulW0uE0wpmepQDIUErF_L7zXROc06P1cyfdWg3ga7bGMJ9FBrHvK93LvlvyMAHxAQzsxKfghYW6zXaMGZ5sZ7kjI4DVnCNyiYMc37ncG2a_5LjvP2J28Ocy29gdTpZfkA-3e6EW9Ele3kDDF_zh03KZqdSwQsl3WlqWQtSN5B6fAs7ExWo1rLUHrKDn_2xO0esW9rUfd0XRJVXHugoZVRW2FkpMucPrxPts6qZBtCo4S7bH0fi7alnyO7BWhr5ESsKfVN51x52gJ1ZVw8TSs4dzgjQPRAN8FJUG5MHNv39XO2EWFWxxOfLouuGSzj0dy0ehcMEl2yjOsHD4URXvQ-miIcO7h6Qqh-Q8NOvu81uxZq4ACt7VrOgMWJN8Y35lWDXvEFzgnSJms7Y6EXaRarjyW4QpmbSu-M4FZQ7_AqZGeogu5M0KJfzNtALdQMHmgXrFvFx2j0yb-h6Re3Lsc23pRm4#)
+      - [![](/images/in-media/interviews.png)](https://thecivictechinterviews.wordpress.com/2021/09/09/interview-1-mikk-andresen-citizen-os/?fbclid=IwAR1HNIdAa9_P5eUbyKTRaAYg7AY-3q4vqdKvz2cwDWbZfXep8yb-AXeln2g#)
+      - [![](/images/in-media/mihus.png)](https://mihus.mitteformaalne.ee/heaks-e-kodanikuks-ei-sunnita-selleks-opitakse/#)
+      - [![](/images/in-media/teeviit.png)](https://www.teeviit.ee/ehitame-ules-head-arutelukultuuri/#)
