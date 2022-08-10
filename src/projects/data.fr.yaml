@@ -1,11 +1,10 @@
----
-path: /projets
-title: Projets
-description: Nous menons des projets éducatifs et amusants, en collaboration avec des universités et des organisations du monde entier. Trouvez le vôtre !
+path: /projects
+title: Projects
+description: We run educational and fun projects, in collaboration with universities and organisations from around the world. See which one suits you!
 keywords:
-  - leadership des jeunes
-  - cours de e-démocratie
-  - outils de participation
+  - youth leadership
+  - e-democracy course
+  - participation tools
 image: /images/meta/vision.jpg
 blocks:
   start-img:
@@ -31,14 +30,14 @@ blocks:
       background-position: 10% 15%, 90% 90%
       background-size: 42px 42px, 102px 102px
     title: |
-      Collaboration pour le changement.
+      Collaborating for change.
     text: |
-      Nous unissons nos forces avec les organisations du monde entier pour travailler sur des projets innovants de e-démocratie et de participation.
+      We join forces with organisations worldwide to work on innovative e-democracy and participation projects.
 
-      - [Écoles d'hiver et d'été](#individual)
+      - [Winter and Summer Schools](#individual)
       - [EuroChangemakers](#awareness)
       - [Civic Hackathon](#individual2)
-      - [Réseau participatif de leadership jeunes](#awareness2)
+      - [Participatory Youth Leadership Network](#awareness2)
       {.arrow }
   individual-img:
     class:
@@ -48,16 +47,16 @@ blocks:
       background-position: 10% 10%, 90% 10%
       background-size: 45px 45px, 350px 350px
     text: |
-      ![Une citoyenne active qui croit que sa participation aux questions politiques a un impact.](/images/vision-individual.png){ .img-fluid }
+      ![An active citizen who believes that her participation in political issues has an impact.](/images/vision-individual.png){ .img-fluid }
   individual:
     class:
       - order-3
     title: |
-      Écoles d'hiver et d'été.
+      Winter and Summer Schools.
     text: |
-      Le cours d'innovation numérique pour les projets d'engagement civique est organisé dans le cadre d'un partenariat entre nous et l'Université de Tallinn, dans le cadre de leurs programmes d'école d'été et d'hiver. Le cours de 10 jours enseigne aux membres des communautés et des initiatives civiques comment impliquer plus de personnes dans les processus de discussion et de prise de décisions, en utilisant des outils technologiques.
+      The Digital Innovation for Civic Engagement Projects course is run in a partnership between us and Tallinn University, as part of their Summer and Winter School programmes. The 10-day course teaches members of communities and civic initiatives how to involve more people into discussion and decision-making processes, through the use of technological tools.
     button1st:
-      title: En savoir plus
+      title: Learn more
       url: https://winterschool.tlu.ee/digital-innovation-for-civic-engagement-projects/
       target: _blank
   awareness:
@@ -72,9 +71,9 @@ blocks:
     title: |
       EuroChangemakers
     text: |
-      Ce projet de 18 mois répond aux défis actuels de participation démocratique rencontrés pendant la pandémie COVID-19 par le biais de hackathons civiques, une nouvelle plateforme, un réseau de jeunes et un livre blanc de politiques.
+      This 18-month project responds to the current democratic participation challenges faced during the COVID-19 pandemic through civic hackathons, a new platform, a youth network and a policy White Paper.
     button1st:
-      title: En savoir plus
+      title: Learn more
       url: https://eurocm.geyc.ro/
       target: _blank
   individual2-img:
@@ -85,16 +84,16 @@ blocks:
       background-position: 10% 10%, 90% 10%
       background-size: 45px 45px, 350px 350px
     text: |
-      ![Image d'une ampoule électrique allumée avec quatre petites bulles rouges l'entourant en cercle, avec des flèches pointant d'une bulle à l'autre.](/images/research-start.png){ .img-fluid }
+      ![An image of a lit light bulb with four smaller red bubbles surrounding it in a circle with arrows pointing from one to the next bubble.](/images/research-start.png){ .img-fluid }
   individual2:
     class:
       - order-7
     title: |
-      Hackathon civique
+      Civic Hackathon
     text: |
-      Les participants auront la possibilité de « hacker » l’engagement civique et les discussions dans le domaine en ligne et hors ligne.
+      Participants will have the opportunity to “hack” civic engagement and discussions in both the online and offline sphere.
     button1st:
-      title: En savoir plus
+      title: Learn more
       url: /civic-hackathon/
   awarness2-img:
     class:
@@ -104,7 +103,7 @@ blocks:
       background-position: 10% 10%, 90% 10%
       background-size: 45px 45px, 350px 350px
     text: |
-      ![Le haut du corps d'une femme sur la gauche, la femme fixant un écran avec différentes personnes dans plusieurs fenêtres.](/images/projects-pyln.jpg){ .img-fluid }
+      ![A woman's upper body on the left, the woman staring at a sceen with different people in many windows.](/images/projects-pyln.jpg){ .img-fluid }
   awareness2:
     class:
       - order-8
@@ -115,12 +114,12 @@ blocks:
     #background-position: 10% 10%
     #label: Raising awareness
     title: |
-      Réseau de leadership participatif des jeunes.
+      Participatory Youth Leadership Network.
     text: |
-      Le chapitre indien de Citizen OS, PYLN, collabore avec des organisations indiennes et des hacktivistes qui partagent notre vision de la promotion du leadership participatif.
+      Citizen OS’s Indian chapter, PYLN, collaborates with Indian organisations and hacktivists who share our vision of furthering participatory leadership.
 
-      PYLN soutient et cocrée des recherches axées sur l’action telles que des campagnes, des pétitions, des prises de décision ascendantes et des initiatives de base.
+      PYLN supports and co-creates action-based research such as campaigns, petitions, bottom-up decision making and grassroots initiatives.
     button1st:
-      title: En savoir plus
+      title: Learn more
       url: /pyln/
       target: _blank
