@@ -1,17 +1,16 @@
----
-path: /et/abi/tagasiside/
+path: /help/feedback
 data:
-  help: /help/data.et.yaml
-title: Saada meile tagasisidet
-text: Soovid jagada meiega oma mõtteid või kommentaare – nii kiitvaid kui ka kriitilisi? Oleme tagasiside eest alati tänulikud.
+  help: /help/data.en.yaml
+title: Give us feedback
+text: Want to let us know your thoughts or share some comments, good or bad? We’re always happy to receive your feedback.
 form:
-  title: Kirjuta siia oma kommentaar
-  message: Kirjuta siia...
+  title: Write your comment below
+  message: Write here...
   email: E-mail address
-  submit: Saada
+  submit: Send
   success: |
-    **Suur tänu tagasiside eest!**
-    Sinu abiga saame Citizen OSi veelgi paremaks muuta.
+    **Thank you for your feedback!**
+    With your help we can make Citizen OS better at every turn.
   successBack:
-    title: Tagasi abikeskuse avalehele
-    url: /et/abi
+    title: To the Help Centre Start page
+    url: /help
