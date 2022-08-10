@@ -1,11 +1,10 @@
----
-path: /ru/prinyat-uchastie
-title: Принять участие
-description: Разработчики, переводчики, дизайнеры, хактивисты и журналисты... нам нужны все! Citizen OS ждет волонтеров, интересующихся электронной демократией.
+path: /get-involved
+title: Get involved
+description: Developer, translator, scientist, designer, hacktivist and journalist - please get in touch! Citizen OS welcomes volunteers who are interested in e-democracy.
 keywords:
-  - гражданский хактивист
-  - электронное участие
-  - государственная технология
+  - civic hacktivist
+  - e-participation
+  - government technology
 image: /images/meta/vision.jpg
 blocks:
   get-involved-img:
@@ -18,7 +17,7 @@ blocks:
   get-involved:
     #label: About
     title: |
-      Чем я могу помочь?
+      How to get involved?
     text: |
 
       Help us improve the Citizen OS platform as a volunteer. Whether you are a developer, translator, researcher, designer, hacktivist or journalist - join us!
