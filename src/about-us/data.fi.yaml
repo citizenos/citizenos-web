@@ -1,11 +1,10 @@
----
-path: /tietoja-meista
-title: Tietoja meistä
-description: Citizen OS on ilmainen ja turvallinen avoimen lähdekoodin alusta kansalaisaloitteille. Olemme voittoa tavoittelematon järjestö.
+path: /about-us
+title: About us
+description: Citizen OS is a free and secure open source platform for citizen initiatives. We are a not-for-profit organisation.
 keywords:
-  - avoin lähdekoodi
-  - kansalaisaloite
-  - kansalaisliike
+  - open source
+  - civic initiative
+  - civic movement
 image: /images/meta/home.jpg
 blocks:
   company-img:
@@ -18,27 +17,27 @@ blocks:
   company:
     #label: About
     title: |
-      Tietoja meistä.
+      About us.
     texts:
       - |
-        Citizen OS on ilmainen ja turvallinen avoimen lähdekoodin alusta kansalaisaloitteille ja yhteistyössä tapahtuvalle päätöksenteolle. Olemme voittoa tavoittelematon järjestö.
+        Citizen OS is a free and secure open source platform for citizen initiatives and collective decision-making. We are a not-for-profit organisation.
 
-        Tehtävämme on tuoda päätöksenteko takaisin ihmisille ja yhteisöille vaalimalla e-demokratiaa ja kehittämällä innovatiivisia teknologioita entistä laadukkaampaan yhteistyössä tapahtuvaan päätöksentekoon.
+        Our mission is to bring decision-making back to the people and their communities, through nurturing e-democracy and developing innovative technologies for higher quality collaborative decision-making.
 
-        Tutustu [Visio-](/vision/) ja [Projektit-](/projects/)sivuillamme tarkemmin siihen, mitä teemme ja miksi. [Uutiset](/news/)-sivulta löydät haastatteluja ja päivityksiä, ja sosiaalisen median kanaviltamme inspiraatiota.
+        Visit our [Vision](/vision/) and [Projects](/projects/) pages to find out more about why and what we do. Also, please see our [News](/news/) page for interviews / updates and check out our social media channels for inspiration.
 
-        Citizen OS -alusta lanseerattiin syyskuussa 2015. Sen jälkeen olemme luoneet luottamuksellisia suhteita monien julkisten ja yksityisten käyttäjäryhmien kanssa ympäri maailmaa.
+        The Citizen OS platform went live in September, 2015. Since then, we have gained the trust of many public and private user groups around the world.
       - |
-        Suhtaudumme alustamme turvallisuuteen hyvin vakavasti. Lue lisää turvallisuudesta [täältä](/news/the-key-to-online-democracy-is-trust/) tai tutustu [oikeudellisiin](/legal/) asiakirjoihimme.
+        We take the security of our platform very seriously - read more about this [here](/news/the-key-to-online-democracy-is-trust/) or view our [legal](/legal/) documents.
       - |
 
       - |
-        #### Citizen OS:n perustajat:
+        #### Citizen OS was co-founded by:
       - |
-        – filantrooppi ja yrittäjä Ahti Heinla sekä visionääri Margo Loor
-        – [Let’s Do It! Foundation](https://www.letsdoitworld.org/)
+        - Philanthropist & entrepreneur Ahti Heinla and visionary Margo Loor
+        - [Let’s Do It! Foundation](https://www.letsdoitworld.org/)
         { .arrow }
 
-        #### Saamme rahoitusta yksityisistä lahjoituksista sekä apurahoista.
+        #### We are funded by private donations and grants.
       - |
-        Citizen OS -hanketta on rahoitettu valtiosta riippumattomille järjestöille tarkoitetuin EEA-maksuosuuksin, joiden välittäjänä on toiminut [Open Estonia Foundation](https://oef.org.ee/in-english).
+        Project Citizen OS has been funded by the NGO Fund EEA Grants through the [Open Estonia Foundation](https://oef.org.ee/in-english).
