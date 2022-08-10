@@ -1,10 +1,9 @@
----
 multipage: true
 seeing-how-many-people-have-voted-so-far:
-  path: /et/abi/haaletamine/vaatamine-kui-paljud-on-seni-haaletanud
+  path: /help/voting/seeing-how-many-people-have-voted-so-far
   data:
     category: /help/category/data.en.yaml
-    help: /help/data.et.yaml
+    help: /help/data.en.yaml
   title: Seeing how many people have voted so far
   text: |
     Anyone can see how many people have voted, both during and after the vote. This is displayed as an anonymous numerical result.
@@ -23,10 +22,10 @@ seeing-how-many-people-have-voted-so-far:
     - [Why admins can’t see who has voted while a vote is in progress](/help/voting/why-admins-cant-see-who-has-voted-while-a-vote-is-in-progress)
     { .list-arrow .list-unstyled }
 why-admins-cant-see-who-has-voted-while-a-vote-is-in-progress:
-  path: /et/abi/haaletamine/miks-adminnid-ei-saa-haaletamise-ajal-vaadata-kes-on-haaletanud
+  path: /help/voting/why-admins-cant-see-who-has-voted-while-a-vote-is-in-progress
   data:
     category: /help/category/data.en.yaml
-    help: /help/data.et.yaml
+    help: /help/data.en.yaml
   title: Why admins can’t see who has voted while a vote is in progress
   text: |
     The admin(s) of a topic can see who has voted, but only once the voting period has ended. It is not possible to see who has voted while a vote is still running.
@@ -43,20 +42,20 @@ why-admins-cant-see-who-has-voted-while-a-vote-is-in-progress:
     - [Why voting is not fully anonymous](/help/voting/why-voting-is-not-fully-anonymous)
     { .list-arrow .list-unstyled }
 why-voting-is-not-fully-anonymous:
-  path: /et/abi/haaletamine/miks-haaletamine-ei-ole-taiesti-anonyymne
+  path: /help/voting/why-voting-is-not-fully-anonymous
   data:
     category: /help/category/data.en.yaml
-    help: /help/data.et.yaml
+    help: /help/data.en.yaml
   title: Why voting is not fully anonymous
   text: |
     When the voting period ends, the admin(s) of a topic can download a summary report with the voting results and voter details. The voter details will show as their Citizen OS username or personal ID (name and ID number), depending on how the vote was cast (with or without e-ID).
 
     This means that it is possible for the admin(s) to identify who has voted and how, once the vote is complete.
 delegating-your-vote:
-  path: /et/abi/haaletamine/volitamine-haaletamisel
+  path: /help/voting/delegating-your-vote
   data:
     category: /help/category/data.en.yaml
-    help: /help/data.et.yaml
+    help: /help/data.en.yaml
   title: Delegating your vote
   text: |
     It is possible to delegate your vote to someone else who is a member of the same topic. This means that however the person you delegated to votes, the same vote will be cast in your name too. The delegated person won’t be aware that you have delegated your vote to them, unless you tell them yourself.
@@ -73,10 +72,10 @@ delegating-your-vote:
 
     Vote delegation will, however, only be possible if the admin(s) have enabled vote delegation when setting up the vote. If they have not, the “Delegate your vote” button won’t appear.
 submitting-signatures-to-the-ariregister-riigikogu-local-government-estonia-only:
-  path: /et/abi/haaletamine/allkirjade-edastamine-eestis-ariregistrile-riigikogule-omavalitsusele
+  path: /help/voting/submitting-signatures-to-the-ariregister-riigikogu-local-government-estonia-only
   data:
     category: /help/category/data.en.yaml
-    help: /help/data.et.yaml
+    help: /help/data.en.yaml
   title: Submitting signatures to the Äriregister / Riigikogu / local government (Estonia only)
   text: |
     **When submitting to the Äriregister, the option “Machine-readable file (Äriregister)” should be selected when downloading the signature files.** The entire BDOC container should then be submitted to the Äriregister. This folder does not include a [spreadsheet (CSV) file](/help/voting/the-csv-file-for-digital-signature-voting-results), as the Äriregister does not accept BDOC folders that contain these.
@@ -92,7 +91,7 @@ how-to-set-up-a-vote:
   path: /help/voting/how-to-set-up-a-vote
   data:
     category: /help/category/data.en.yaml
-    help: /help/data.et.yaml
+    help: /help/data.en.yaml
   title: How to set up a vote
   text: |
     To start a vote, click on “Send to voting” in the Options menu of the relevant topic. (Right sidebar on desktop, or in the options menu tab on mobile).
@@ -114,7 +113,7 @@ closing-the-vote-or-setting-a-vote-deadline:
   path: /help/voting/closing-the-vote-or-setting-a-vote-deadline
   data:
     category: /help/category/data.en.yaml
-    help: /help/data.et.yaml
+    help: /help/data.en.yaml
   title: Closing the vote or setting a vote deadline
   text: |
     A vote can either be closed automatically, using a voting deadline, or closed manually by the admin.
@@ -142,7 +141,7 @@ downloading-voting-results:
   path: /help/voting/downloading-voting-results
   data:
     category: /help/category/data.en.yaml
-    help: /help/data.et.yaml
+    help: /help/data.en.yaml
   title: Downloading voting results
   text: |
     When the voting period ends, the admin(s) of a topic can download a summary report with the voting results.
@@ -198,7 +197,7 @@ how-to-vote-using-a-digital-signature-Estonia-only:
   path: /help/voting/how-to-vote-using-a-digital-signature
   data:
     category: /help/category/data.en.yaml
-    help: /help/data.et.yaml
+    help: /help/data.en.yaml
   title: How to vote using a digital signature (Estonia only)
   text: |
     In Estonia, it is possible for participants to add a digital signature to their votes, if this option was enabled by the admin when setting up the vote. To do this, you need to have an ID card reader, Mobile ID or Smart ID.
@@ -221,7 +220,7 @@ downloading-digital-signature-vote-files:
   path: /help/voting/downloading-digital-signature-vote-files
   data:
     category: /help/category/data.en.yaml
-    help: /help/data.et.yaml
+    help: /help/data.en.yaml
   title: Downloading digital signature vote files (Estonia only)
   text: |
     In Estonia, when participants add digital signatures to their votes, the topic admin(s) can download the voting results as a BDOC folder.
@@ -243,7 +242,7 @@ digital-signature-voting-results-folder-contents:
   path: /help/voting/digital-signature-voting-results-folder-contents
   data:
     category: /help/category/data.en.yaml
-    help: /help/data.et.yaml
+    help: /help/data.en.yaml
   title: Digital signature voting results folder contents (Estonia only)
   text: |
     In Estonia, digital signature voting results [downloaded by admins](/help/voting/downloading-digital-signature-vote-files) come in a BDOC folder.
@@ -265,7 +264,7 @@ the-csv-file-for-digital-signature-voting-results:
   path: /help/voting/the-csv-file-for-digital-signature-voting-results
   data:
     category: /help/category/data.en.yaml
-    help: /help/data.et.yaml
+    help: /help/data.en.yaml
   title: The CSV file for digital signature voting results (Estonia only)
   text: |
     In Estonia, digital signature voting results can be downloaded with a CSV file (the “human readable” option) or without a CSV file (the “machine readable” option).
