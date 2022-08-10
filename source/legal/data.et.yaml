@@ -1,0 +1,26 @@
+---
+path: /juriidiline-info
+title: Juriidiline info
+description: Sihtasutus Citizen OS arendab tasuta tarkvara ja võrgustikku demokraatia arendamiseks. SA eesmärk on pakkuda võimalusi luua kodanikualgatusi ühiskondlike probleemide lahendamiseks.
+keywords:
+  - kodanikuportaal
+  - ühiskondlik probleem
+  - e-riik
+image: /images/meta/vision.jpg
+blocks:
+  legal-img:
+    class:
+      - d-none
+      - d-sm-block
+    style:
+      background: 'linear-gradient(180deg, #0EB7FE 0%, #0680FC 100%)'
+      min-height: 75vh
+  legal:
+    #label: About
+    title: |
+      Juriidiline info
+    text: |
+      - [Citizen OS põhikiri](/et/juriidiline-info/pohikiri/)
+      - [Terms of Use](/et/juriidiline-info/kasutus-tingimused/)
+      - [Privacy and Cookies Policy](/et/juriidiline-info/privaatsus/)
+      - [Citizen OS API Terms of Use](/et/juriidiline-info/api/)
