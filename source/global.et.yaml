@@ -1,0 +1,103 @@
+---
+siteTitle: Citizen OS
+navigation:
+  product:
+    title: Toode
+    url: /et/toode/
+    class: toode
+  projects:
+    title: Projektid
+    url: /et/projektid/
+    class: projects
+  vision:
+    title: Visioon
+    url: /et/visioon/
+    class: vision
+  blog:
+    title: Uudised
+    url: /et/uudised/
+    class: news
+language: English
+languages:
+  en: English
+  et: Eesti
+  fi: Suomeksi
+  fr: Français
+  id: Bahasa Indonesia
+  lt: Lietuvių
+  lv: Latviešu
+  ru: Pусский
+  ua: Українська
+selectLanguage: Keeled
+donateLink:
+  title: Toeta
+  url: /et/toeta/
+productLink:
+  title: Ava platvorm
+  url: https://app.citizenos.com/et/
+mobileMenu: Menüü
+newsletter:
+  title: Liitu Citizen OSi uudiskirjaga
+  text: Soovitame Sulle kasulikku lugemist teemal, kuidas saab osalusdemokraatia abil inimkonda päästa.
+  input: E-posti aadress
+  button: Liitu
+footer:
+  text:
+  navigation:
+    about:
+      title: Meist
+      links:
+        aboutUs:
+          title: Meist
+          url: /et/meist/
+        getInvolved:
+          title: Löö kaasa
+          url: /et/loo-kaasa/
+        team:
+          title: Meeskond
+          url: /et/meeskond/
+        contact:
+          title: Kontakt
+          url: /et/kontakt/
+    support:
+      title: Kasutajatugi
+      links:
+        donate:
+          title: Toeta meid
+          url: /et/toeta/
+        guides:
+          title: Abikeskus
+          url: /et/abi/
+        legal:
+          title: Juriidiline info
+          url: /et/juriidiline-info/
+        github:
+          title: GitHub
+          url: https://github.com/citizenos
+    community:
+      title: Jälgi meid sotsiaalmeedias
+      links:
+        twitter:
+          title: Twitter
+          icon: /v2/images/social/twitter.svg
+          url: https://twitter.com/Citizen_OS
+        linkedin:
+          title: LinkedIn
+          icon: /v2/images/social/linkedin.svg
+          url: https://www.linkedin.com/company/citizenos/
+        facebook:
+          title: Facebook
+          icon: /v2/images/social/facebook.svg
+          url: https://www.facebook.com/citizenosestonia/
+        instagram:
+          title: Instagram
+          icon: /v2/images/social/instagram.svg
+          url: https://www.instagram.com/citizen_os_foundation/
+        youtube:
+          title: YouTube
+          icon: /v2/images/social/youtube.svg
+          url: https://www.youtube.com/channel/UCahwJw-DTZ24yC1HiDCofhQ
+        github:
+          title: GitHub
+          icon: /v2/images/social/github.svg
+          url: https://github.com/citizenos
