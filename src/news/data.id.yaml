@@ -1,5 +1,4 @@
----
-path: /berita
+path: /news
 title: News
 description:
 keywords:
@@ -358,7 +357,7 @@ blocks:
       background-position:
       background-size:
     title: |
-      Berita
+      News
     text: |
       Find out what we’re up to, who’s using our platform, and our hopes for the future of participatory e-democracy.
 
