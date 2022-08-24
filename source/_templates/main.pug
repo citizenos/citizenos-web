@@ -28,7 +28,10 @@ html(lang=self.locale)
 
         title= self.title && self.title !== self.siteTitle ? self.title + ' · ' + self.siteTitle : self.siteTitle
 
-        link(rel='canonical' href=(self.path + '/').replace('//', '/').replace('//', '/'))
+        if self.alias
+            link(href=(self.path + '/').replaceAll('//', '/') rel='canonical')
+        each path, locale in self.otherLocalePaths
+            link(href=path rel='alternate' hreflang=locale)
 
         link(href='/images/favicon.ico', rel='shortcut icon', type='image/x-icon')
         link(href='/images/icon-hires.png', rel='icon', sizes='192x192', type='image/png')
