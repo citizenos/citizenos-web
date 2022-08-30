@@ -6,7 +6,7 @@ keywords:
   - открытый исходный код
   - гражданская инициатива
   - гражданское движение
-image: /images/meta/home.jpg
+image: /assets/images/meta/home.jpg
 blocks:
   company-img:
     class:
