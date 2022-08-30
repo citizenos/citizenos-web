@@ -6,7 +6,7 @@ block content
         #header.row.py-5
             .col-12.text-center
                 a.navbar-brand(href=self.rootUrl)
-                    img.mb-3(src='/assets/images/citizenos-logo-negative.png', height=50, width=270, alt='Citizen OS logo')
+                    img.mb-3(src='/images/citizenos-logo-negative.png', height=50, width=270, alt='Citizen OS logo')
             .col-12.col-lg-8.offset-lg-2.text-center
                 if self.blocks && self.blocks.header
                     h1= self.blocks.header.title
@@ -26,17 +26,17 @@ block content
                         if self.blocks.join.date
                             .row.my-2
                                 .col-1
-                                    img(src='/assets/images/webinar-calendar.svg', height=22, width=20)
+                                    img(src='/images/webinar-calendar.svg', height=22, width=20)
                                 .col-auto= self.blocks.join.date
                         if self.blocks.join.time
                             .row.my-2
                                 .col-1
-                                    img(src='/assets/images/webinar-clock.svg', height=22, width=20)
+                                    img(src='/images/webinar-clock.svg', height=22, width=20)
                                 .col-auto= self.blocks.join.time
                         if self.blocks.join.deadline
                             .row.my-2
                                 .col-1
-                                    img(src='/assets/images/webinar-alarm.svg', height=22, width=20, title='Deadline')
+                                    img(src='/images/webinar-alarm.svg', height=22, width=20, title='Deadline')
                                 .col-auto= self.blocks.join.deadline
                         if self.blocks.join.price
                             .row.my-2
@@ -73,7 +73,7 @@ block stylus
             background-repeat no-repeat
             background-position center top
             background-size cover
-            background-image url('/assets/images/civic-hackathon-website-header-image.png')
+            background-image url('/images/civic-hackathon-website-header-image.png')
 
             h1
                 color #FFFFFF

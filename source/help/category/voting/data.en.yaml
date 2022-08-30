@@ -9,7 +9,7 @@ seeing-how-many-people-have-voted-so-far:
     text: |
         Anyone can see how many people have voted, both during and after the vote. This is displayed as an anonymous numerical result.
 
-        ![Screenshot of the platform.](/assets/images/help/sendtofollowup.png)
+        ![Screenshot of the platform.](/images/help/sendtofollowup.png)
 
         To see this:
         1. Go into the relevant topic, and make sure you are in the “Vote” tab, shown at the top.
@@ -104,7 +104,7 @@ how-to-set-up-a-vote:
 
         Here you can customise your voting settings, then click “Start voting”.
 
-        ![Screenshot of the platform.](/assets/images/help/sendtovoting.png)
+        ![Screenshot of the platform.](/images/help/sendtovoting.png)
 
         **Please note** that once the vote has started:
         - It will not be possible to edit the voting settings. You can, however, still add a voting deadline in the “Actions” part of the “Options” menu. (Right sidebar on desktop, or in the options menu tab on mobile).
@@ -126,7 +126,7 @@ closing-the-vote-or-setting-a-vote-deadline:
     text: |
         A vote can either be closed automatically, using a voting deadline, or closed manually by the admin.
 
-        ![Screenshot of the platform.](/assets/images/help/sendtofollowup.png)
+        ![Screenshot of the platform.](/images/help/sendtofollowup.png)
 
         **To manually close the vote:**
 
@@ -157,7 +157,7 @@ downloading-voting-results:
 
         The following instructions relate to votes cast using Citizen OS user IDs. Please see separate instructions if downloading digital signatures in Estonia.
 
-        ![Screenshot of the platform.](/assets/images/help/downloadvoteresults.png)
+        ![Screenshot of the platform.](/images/help/downloadvoteresults.png)
 
         How to download voting results:
 

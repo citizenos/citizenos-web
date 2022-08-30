@@ -11,7 +11,7 @@ creating-a-new-topic:
 
         Any changes you make to the topic will be automatically saved, and the topic will automatically appear in your “My topics” dashboard from now on.
 
-        ![Screenshot of the platform.](/assets/images/help/createtopic.png)
+        ![Screenshot of the platform.](/images/help/createtopic.png)
 
         ## Related content{.mt-5}
         - [Inviting users to a topic](/help/topics/inviting-users-to-a-topic)
@@ -36,7 +36,7 @@ finding-a-topic-you-are-participating-in:
         1. You will be directed to the topic, and have now joined it.
         1. From now on, it will appear in your “My Topics” dashboard.
 
-        ![Screenshot of the platform.](/assets/images/help/mytopics.png)
+        ![Screenshot of the platform.](/images/help/mytopics.png)
 
         **If you have previously joined the topic:**
         1. Click on “My Topics” in the main menu to go to your My Topics dashboard.
@@ -93,7 +93,7 @@ seeing-who-has-been-invited-to-joined-a-topic:
         1. The list shows everyone who has been invited, and what level of access rights they have, e.g. “admin” or “read”.
         1. If their invitation is greyed out and marked as “pending”, this means they have not yet accepted the invitation.
 
-        ![Screenshot of the platform.](/assets/images/help/groupuserlist.png)
+        ![Screenshot of the platform.](/images/help/groupuserlist.png)
 
         ## Related content{.mt-5}
         - [Checking if email invites bounced](/help/topics/checking-if-email-invites-bounced)
@@ -132,7 +132,7 @@ attaching-files-to-a-topic:
         1. To edit the filename, click the pencil button to the right.
         1. You can then close the pop-up, and the attachment will be saved.
 
-        ![Screenshot of the platform.](/assets/images/help/attachments.png)
+        ![Screenshot of the platform.](/images/help/attachments.png)
 
         **Please note:** if using mobile to add attachments, you will find the “Add/manage attachments” button in a different location:
         - Enter the topic in “View mode”.
@@ -191,7 +191,7 @@ inviting-users-to-a-topic:
         1. Copy the share link or QR code and send this to those you wish to invite, or share via the social media buttons.
         1. Close the window.
 
-        ![Screenshot of the platform.](/assets/images/help/inviteusers.png)
+        ![Screenshot of the platform.](/images/help/inviteusers.png)
 
         **Inviting via email:**
 
@@ -226,7 +226,7 @@ editing-a-topic:
         All changes will be saved automatically.
         To exit edit mode, click on the blue “Done editing” button. (Right sidebar on desktop, or in the options menu tab on mobile).
 
-        ![Screenshot of the platform.](/assets/images/help/edittopic.png)
+        ![Screenshot of the platform.](/images/help/edittopic.png)
 
         ## Related content{.mt-5}
         - [Attaching files to a topic](/help/topics/attaching-files-to-a-topic)
@@ -278,7 +278,7 @@ making-a-topic-public-or-private:
         - When in the “My Topics” dashboard, click on “Settings” for the relevant topic.
         Only admins of a topic can change these settings.
 
-        ![Screenshot of the platform.](/assets/images/help/topicactions.png)
+        ![Screenshot of the platform.](/images/help/topicactions.png)
 
 viewing-a-topics-activity-feed:
     path: /help/topics/viewing-a-topics-activity-feed

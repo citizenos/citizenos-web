@@ -9,7 +9,7 @@ general:
     icon: general
     video:
         url:
-        poster: /assets/images/help/general.png
+        poster: /images/help/general.png
     text: |
         **Citizen OS is a free platform for remote, asynchronous, collective decision-making.** Co-create a topic, discuss it, vote on it, then follow-up on it afterwards. Available worldwide, with e-ID signature functionality in Estonia.
 
@@ -22,7 +22,7 @@ login:
     icon: login
     video:
         url:
-        poster: /assets/images/help/login.png
+        poster: /images/help/login.png
     text: |
         Log in quickly and easily using a Citizen OS account linked to your email address, or via social login (Facebook or Gmail). In Estonia, e-ID login is also available.
 
@@ -37,7 +37,7 @@ groups:
     icon: groups
     video:
         url:
-        poster: /assets/images/help/mygroups-landscape.png
+        poster: /images/help/mygroups-landscape.png
     text: |
         Groups are groups of users. They are useful if you will be making decisions with the same group of people (such as a team, community or organisation) on multiple occasions. [The benefits of a group](/help/groups/why-create-a-group) include quicker sharing or unsharing of topics, a group folder containing all topics shared to those users, and easier rights administration.
 
@@ -50,7 +50,7 @@ topics:
     icon: topics
     video:
         url:
-        poster: /assets/images/help/general.png
+        poster: /images/help/general.png
     text: |
         A Citizen OS “Topic” is the space in which discussion and voting on a particular subject takes place. In a topic, you can co-create a topic text, discuss the pros and cons, and vote on it. Topics can be public or private.
 
@@ -65,7 +65,7 @@ discussions:
     icon: discussions
     video:
         url:
-        poster: /assets/images/help/general.png
+        poster: /images/help/general.png
     text: |
         Use the discussion space to discuss both sides of a topic before it is voted on, or to crowdsource ideas for how to go forwards. Here you can post “pro” and “con” arguments, ask a question or add information, and reply or react to arguments made by others.
 
@@ -78,7 +78,7 @@ voting:
     icon: voting
     video:
         url:
-        poster: /assets/images/help/general.png
+        poster: /images/help/general.png
     text: |
         Set up a vote to democratically decide on a topic. Voting settings include a wide range of options such as multiple choice voting, veto votes, and vote delegation. Inline votes can also be created in the topic text. In Estonia, e-ID voting is available.
 
@@ -91,6 +91,6 @@ follow-up:
     icon: follow-up
     video:
         url:
-        poster: /assets/images/help/general.png
+        poster: /images/help/general.png
     text: |
         Once a vote has taken place, admins of the topic can use the “Follow up” feature to keep everyone up to date on what has happened since. Topics need to be sent to follow-up before vote results can be downloaded.

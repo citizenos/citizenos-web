@@ -6,7 +6,7 @@ keywords:
     - citizen initiatives
     - free petition
     - collaborative decision-making
-image: /assets/images/meta/product.jpg
+image: /images/meta/product.jpg
 
 
 blocks:
@@ -15,7 +15,7 @@ blocks:
             - order-1
         style:
             background-color: '#FFF1AD'
-            background-image: url(/assets/images/product-start.png), url(/assets/images/bubble-dots.png), url(/assets/images/bubble-orange.svg)
+            background-image: url(/images/product-start.png), url(/images/bubble-dots.png), url(/images/bubble-orange.svg)
             background-position: center center, 0% 20%, 70% 10%
             background-size: 500px 500px, 350px 350px, 100px 100px
         #text: |
@@ -30,7 +30,7 @@ blocks:
             - py-5
         style:
             background-color: '#FFF1AD'
-            background-image: url(/assets/images/bubble-turquoise.svg), url(/assets/images/bubble-yellow.svg)
+            background-image: url(/images/bubble-turquoise.svg), url(/images/bubble-yellow.svg)
             background-position: 10% 5%, 90% 90%
             background-size: 75px 75px, 65px 65px
         title: |
@@ -57,7 +57,7 @@ blocks:
             - py-5
         style:
             background: '#F7F7F7'
-            background-image: url(/assets/images/pattern.svg)
+            background-image: url(/images/pattern.svg)
             background-size: 38px 42px
         label: A flexible format
         title: |
@@ -66,22 +66,22 @@ blocks:
             { #flexibleformat-items }
         blocks:
             petitions:
-                poster: /assets/images/flexibleformat-petitions.png
+                poster: /images/flexibleformat-petitions.png
                 title: Voting
                 text: |
                     Make democratic decisions with customisable voting. Perfect for e-democracy initiatives.
             onlinemeetings:
-                poster: /assets/images/flexibleformat-onlinemeetings.png
+                poster: /images/flexibleformat-onlinemeetings.png
                 title: Discussions
                 text: |
                     Enjoy rational, balanced group discussions, weighing up the pros and cons.
             gatheringideas:
-                poster: /assets/images/flexibleformat-gatheringideas.png
+                poster: /images/flexibleformat-gatheringideas.png
                 title: Crowdsourcing Ideas
                 text: |
                     Get input from a wider audience. Ideal for citizen participation projects.
             widget:
-                poster: /assets/images/flexibleformat-widget.png
+                poster: /images/flexibleformat-widget.png
                 title: Follow up
                 text: |
                     Update participants on actions taken after a group decision.
@@ -92,11 +92,11 @@ blocks:
             - order-3
         style:
             background-color: '#F7F7F7'
-            background-image: url(/assets/images/bubble-orange.svg), url(/assets/images/bubble-dots.png)
+            background-image: url(/images/bubble-orange.svg), url(/images/bubble-dots.png)
             background-position: 100% 15%, 90% 15%
             background-size: 165px 165px, 350px 350px
         text: |
-            ![A female member of Citizen OS staff attending an event to answer questions about the platform.](/assets/images/product-features.jpg){ .img-fluid .box-shadow }
+            ![A female member of Citizen OS staff attending an event to answer questions about the platform.](/images/product-features.jpg){ .img-fluid .box-shadow }
 
     features:
         class:
@@ -157,13 +157,13 @@ blocks:
         class:
             - order-6
         text: |
-            ![A screenshot of the Citizen OS platform being used for participatory democracy.](/assets/images/product-case-study-2.jpg){ .img-fluid .box-shadow }
+            ![A screenshot of the Citizen OS platform being used for participatory democracy.](/images/product-case-study-2.jpg){ .img-fluid .box-shadow }
 
     case-study-2:
         class:
             - order-7
         style:
-            background-image: url(/assets/images/bubble-blue.svg)
+            background-image: url(/images/bubble-blue.svg)
             background-position: 80% 5%
             background-size: 122px 122px
         label: Case study
@@ -178,14 +178,14 @@ blocks:
             - order-8
             - order-sm-9
         text: |
-            ![Many indonesians smiling, wearing World Cleanup Day shirts, walking on a beach, carrying bags full of plastic garbage.](/assets/images/product-case-study.jpeg){ .img-fluid .box-shadow }
+            ![Many indonesians smiling, wearing World Cleanup Day shirts, walking on a beach, carrying bags full of plastic garbage.](/images/product-case-study.jpeg){ .img-fluid .box-shadow }
 
     case-study:
         class:
             - order-9
             - order-sm-8
         style:
-            background-image: url(/assets/images/bubble-orange.svg), url(/assets/images/bubble-yellow.svg)
+            background-image: url(/images/bubble-orange.svg), url(/images/bubble-yellow.svg)
             background-position: 10% 5%, 90% 90%
             background-size: 85px 85px, 55px 55px
         label: Case study
@@ -204,7 +204,7 @@ blocks:
             - py-5
         style:
             background: '#F7F7F7'
-            background-image: url(/assets/images/pattern.svg)
+            background-image: url(/images/pattern.svg)
             background-size: 38px 42px
         title: |
             Our impact keeps on growing.
