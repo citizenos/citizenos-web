@@ -8,7 +8,7 @@ keywords:
   - фонд демократии
 image: /images/meta/home.jpg
 team:
-  -
+  - 
     name: Anett Linno
     title: CEO и менеджер продукта
     text: Мягкой рукой приводит в порядок даже настоящий хаос.
@@ -17,7 +17,7 @@ team:
     linkedin: https://www.linkedin.com/in/anettlinno/
     twitter: https://twitter.com/twitanett
     email: anett@citizenos.com
-  -
+  - 
     name: Margo Loor
     title: Сооснователь, ИТ-евангелист
     text: Несёт свет, мудрость, задает направление развития.
@@ -26,7 +26,7 @@ team:
     linkedin: https://www.linkedin.com/in/margoloor/
     twitter: https://twitter.com/loorm
     email: info@citizenos.com
-  -
+  - 
     name: Agustina Iskandar Crombach
     title: Руководитель партнeрства в Индонезии
     text: Создатель чудес, защитник свободы и серийный сотрудник.
@@ -34,7 +34,7 @@ team:
     picture: /images/team/agustina.jpg
     linkedin: https://www.linkedin.com/in/agustina-iskandar-95a402109/
     email: agustina@citizenos.com
-  -
+  - 
     name: Sara Sinha
     title: Руководитель партнерства и сообщества
     text: Приверженка идеи открытого управления.
@@ -43,7 +43,7 @@ team:
     linkedin: https://www.linkedin.com/in/sara-sinha-361577146/
     twitter: https://twitter.com/Sarasinha1992
     email: sara@citizenos.com
-  -
+  - 
     name: Ильмар Тюрк
     title: CTO
     text: Отлично пишет код, а шутит еще лучше.
@@ -51,7 +51,7 @@ team:
     picture: /images/team/ilmar.jpg
     linkedin: https://www.linkedin.com/in/ilmar-t%C3%BCrk-752466125/
     email: ilmar@citizenos.com
-  -
+  - 
     name: Mikk Andresen
     title: Архитектор ПО
     text: Созидает буквально «из ничего» и поддерживает моральный дух команды на высоте.
@@ -59,7 +59,7 @@ team:
     picture: /images/team/mikk.jpg
     linkedin: https://www.linkedin.com/in/mikkandresen/
     email: mikk@citizenos.com
-  -
+  - 
     name: Kati Vellak
     title: Юрист
     text: Защищает нас от злодеев и заряжает всех вокруг энергией.
@@ -67,7 +67,7 @@ team:
     picture: /images/team/kati.jpg
     linkedin: https://www.linkedin.com/in/kativellak/
     email: kati@citizenos.com
-  -
+  - 
     name: Бекка Мелуиш
     title: Дизайнер коммуникаций и копирайтер
     text: Делает связь с компанией яркой и незабываемой.
@@ -75,14 +75,14 @@ team:
     picture: /images/team/becca.jpg
     linkedin: https://www.linkedin.com/in/beccamelhuish/
     email: becca.melhuish@gmail.com
-  -
+  - 
     name: Leony Chrisanti
     title: Дизайнер Citizen OS в Индонезии
     text: Профессиональна и ответственна.
     avatar: /images/team/leony-avatar.jpg
     picture: /images/team/leony.jpg
     email: leonychrisanti1789@gmail.com
-  -
+  - 
     name: Tasia Rosalina Tedjo Purnomo
     title: SMM-менеджер Citizen OS в Индонезии
     text: Всеобщая помощница, всегда открытая новым идеям.
@@ -90,7 +90,7 @@ team:
     picture: /images/team/tasia.jpg
     linkedin: https://www.linkedin.com/in/tasia-rosalina
     email: tasia@citizenos.com
-  -
+  - 
     name: Оксана Найденова
     title: Локализация и управление сайтом
     text: Сражается за правое дело и всегда вдохновляет нас быть лучше.
