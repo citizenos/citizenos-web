@@ -1,40 +1,32 @@
+---
 path: /help
 data:
   category: category/data.en.yaml
 title: Help Centre
-text: Our Help Centre aims to answer any questions you may have, and help you if you get stuck.
+text: The Help Centre will answer any questions you may have, and help you if you get stuck.
 links:
   title: Quick links
   links:
     - 
-      title: Troubleshooting “no permission to access”
-      url: /help/login/troubleshooting-no-permission-to-access
+      title: Discussions Topic 1
+      url: /help/discussions/topic1
     - 
-      title: Closing the vote or setting a vote deadline
-      url: /help/voting/closing-the-vote-or-setting-a-vote-deadline
-    - 
-      title: Downloading voting results
-      url: /help/voting/downloading-voting-results
-    - 
-      title: Downloading digital signature vote files (Estonia only)
-      url: /help/voting/downloading-digital-signature-vote-files
-    - 
-      title: Attaching files to a topic
-      url: /help/topics/attaching-files-to-a-topic
+      title: General Topic 2
+      url: /help/general/topic2
 topics: Find by topic
 categoryTopics: Jump to a specific topic
-#video: Watch the Topics Introduction video
+video: Watch the Topics Introduction video
 feedback:
   title: Was this information helpful?
-  answerYes: Yes
-  answerNo: No
+  answerYes: true
+  answerNo: false
 negativeFeedback:
   title: Feedback
   text: We’re sorry to hear this section wasn’t helpful for you. We’d love to know why!
   form:
     title: How could it be improved?
     message: Write here...
-    email: E-mail address
+    email: E-mail address (optional)
     submit: Send
     success: |
       **Thank you for your feedback!**
@@ -44,7 +36,7 @@ search:
   placeholder: Search
   url: /help/search
 alternate:
-  title: Maybe you're looking for these?
+  title: Alternatively try these options
   request:
     title: Submit a Help Request
     url: /help/request

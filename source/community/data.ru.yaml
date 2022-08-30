@@ -41,7 +41,7 @@ blocks:
       background-position: 90% 10%, 90% 70%
       background-size: 45px 45px, 350px 350px
     text: |
-      ![A female protestor holding up a sign saying ‘Error 155: Democracy not found’..](/images/community-issue.png){ .img-fluid }
+      ![Женщина, протестующая с плакатом «Ошибка 155: Демократия не найдена»..](/images/community-issue.png){ .img-fluid }
   issue:
     class:
       - order-3
@@ -65,7 +65,7 @@ blocks:
       background-position: 90% 10%, 30% 80%, 20% 90%
       background-size: 45px 45px, 165px 165px, 350px 350px
     text: |
-      ![A group of specialists sat around a table with laptops discussing civic tech and participatory democracy.](/images/community-mission.jpg){ .img-fluid .box-shadow }
+      ![Группа специалистов сидит за столом с ноутбуками, обсуждая принципы гражданской технологии и демократии участия.](/images/community-mission.jpg){ .img-fluid .box-shadow }
   mission:
     class:
       - order-5
@@ -154,7 +154,7 @@ blocks:
       background-position: 70% 90%, 30% 10%, 20% 90%
       background-size: 45px 45px, 165px 165px, 350px 350px
     text: |
-      ![Our Hacktivist Community is vibrant and has many international active partners.](/images/community-help.jpg){ .img-fluid .box-shadow }
+      ![Наше сообщество хактивистов очень велико, и у нас много активных партнеров со всего мира.](/images/community-help.jpg){ .img-fluid .box-shadow }
   help:
     class:
       - order-11
@@ -205,22 +205,22 @@ blocks:
     title: |
       Any questions? We’d love to chat!
     text: |
-      ![Anett Linno, Citizen OS’s Partnerships and Community Lead.](/images/community-anett.png){ .col-4 .col-md-3 .mt-4 }
+      ![Анетт Линно, руководитель партнерства и сообщества Citizen OS.](/images/community-anett.png){ .col-4 .col-md-3 .mt-4 }
 
-      ##### **Anett Linno**
-      Partnerships & Community Foundation Citizen OS
+      ##### **Анетт Линно**
+      Фонд сообщества и партнерства Citizen OS
     blocks:
-      - 
+      -
         icon: /images/community-email.svg
         title: anett@citizenos.com
         url: mailto:anett@citizenos.com
         alt: Иконка электронной почты
-      - 
+      -
         icon: /images/community-skype.svg
         title: anettorg
         url: skype:anettorg
         alt: Иконка Skype
-      - 
+      -
         icon: /images/community-phone.svg
         title: +372 5669 2076
         url: tel:+37256692076

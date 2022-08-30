@@ -34,7 +34,7 @@ blocks:
       background-position: 20% 80%
       background-size: 122px 122px
     text: |
-      ![The Citizen OS platform is free to use on your desktop, laptop, tablet or mobile.](/images/frontpage-product.png){ .img-fluid }
+      ![Platform Citizen OS bebas digunakan di desktop, laptop, tablet, atau ponsel Anda.](/images/frontpage-product.png){ .img-fluid }
   opensource:
     class:
       - order-2
@@ -60,7 +60,7 @@ blocks:
       background-position: 30% 25%, 20% 75%
       background-size: 360px 360px, 100px 100px
     text: |
-      ![People sitting in circles, discussing.](/images/vision-start.png){ .img-fluid }
+      ![Orang duduk melingkar, sedang berdiskusi.](/images/vision-start.png){ .img-fluid }
   democracy:
     class:
       - order-4

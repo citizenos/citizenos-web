@@ -1,3 +1,4 @@
+---
 path: /help/feedback
 data:
   help: /help/data.en.yaml
@@ -6,7 +7,7 @@ text: Want to let us know your thoughts or share some comments, good or bad? Weâ
 form:
   title: Write your comment below
   message: Write here...
-  email: E-mail address
+  email: E-mail address (optional)
   submit: Send
   success: |
     **Thank you for your feedback!**

@@ -61,22 +61,22 @@ blocks:
       { #flexibleformat-items }
     blocks:
       petitions:
-        poster: /images/flexibleformat-petitions.png
+        poster: /images/flexibleformat-petitions-est.png
         title: Hääletused
         text: |
           Tee kohandatava hääletuse abil demokraatlikke otsuseid. Sobib üldkoosolekul otsuste tegemiseks, näiteks juhatuse liikmete valimiseks, ka kodanikualgatuste läbiviimiseks.
       onlinemeetings:
-        poster: /images/flexibleformat-onlinemeetings.png
+        poster: /images/flexibleformat-onlinemeetings-est.png
         title: Arutelud
         text: |
           Tasakaalustatud grupiarutelud, mis võimaldavad kaaluda poolt- ja vastuargumente. Sobib asünkroonsete koosolekute, organisatsioonisiseste arutelude jaoks.
       gatheringideas:
-        poster: /images/flexibleformat-gatheringideas.png
+        poster: /images/flexibleformat-gatheringideas-est.png
         title: Ideekorje
         text: |
           Saage sisendit laiemalt ringilt kas avalikult või privaatselt. Sobib kodanikualgatuste, petitsioonide jaoks.
       widget:
-        poster: /images/flexibleformat-widget.png
+        poster: /images/flexibleformat-widget-est.png
         title: Digiallkirjasta ja loo järelkontakt
         text: |
           Kasuta ID-kaarti, mobiil-ID või Smart-ID, et otsuseid digiallkirjastada. Teavita osalejaid otsuse järel tehtud toimingutest.
@@ -89,7 +89,7 @@ blocks:
       background-position: 100% 15%, 90% 15%
       background-size: 165px 165px, 350px 350px
     text: |
-      ![A female member of Citizen OS staff attending an event to answer questions about the platform.](/images/product-features.jpg){ .img-fluid .box-shadow }
+      ![Portree PARE tegevjuhist Kärt Kinnasest koos tekstiga.](/images/product-features-est.png){ .img-fluid .box-shadow }
   features:
     class:
       - order-4
@@ -148,7 +148,7 @@ blocks:
     class:
       - order-6
     text: |
-      ![A screenshot of the Citizen OS platform being used for participatory democracy.](/images/product-case-study-2.jpg){ .img-fluid .box-shadow }
+      ![Osalusdemokraatia teostamiseks kasutatava Citizen OS-i platvormi kuvatõmmis.](/images/product-case-study-2.jpg){ .img-fluid .box-shadow }
   case-study-2:
     class:
       - order-5
@@ -166,7 +166,7 @@ blocks:
       - order-7
       - order-sm-7
     text: |
-      ![Many indonesians smiling, wearing World Cleanup Day shirts, walking on a beach, carrying bags full of plastic garbage.](/images/product-case-study.jpeg){ .img-fluid .box-shadow }
+      ![Paljud indoneeslased naeratavad, kannavad maailma puhastuspäeva särke, jalutavad rannal ja kannavad plastprügiga täidetud kotte.](/images/product-case-study.jpeg){ .img-fluid .box-shadow }
   case-study:
     class:
       - order-8
