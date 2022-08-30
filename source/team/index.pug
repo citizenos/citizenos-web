@@ -5,7 +5,7 @@ block content
     .container-fluid
         .row
             .col-12.px-0
-                img.box-shadow.img-fluid(src='/images/news/citizen-os-global-expansion-led-by-new-ceo.jpg', alt='Team photo')
+                img.box-shadow.img-fluid(src='/assets/images/news/citizen-os-global-expansion-led-by-new-ceo.jpg', alt='Team photo')
     .container
         if self.team
             each person, idx in self.team
@@ -18,13 +18,13 @@ block content
                         p= person.title
                         if person.twitter
                             a.px-1(href=person.twitter, target='_blank')
-                                img(src='/images/community-twitter.svg', alt='Twitter icon')
+                                img(src='/assets/images/community-twitter.svg', alt='Twitter icon')
                         if person.linkedin
                             a.px-1(href=person.linkedin, target='_blank')
-                                img(src='/images/community-linkedin.svg', alt='Linkedin icon')
+                                img(src='/assets/images/community-linkedin.svg', alt='Linkedin icon')
                         if person.email
                             a.px-1(href='mailto:' + person.email)
-                                img(src='/images/community-email.svg', alt='Email icon')
+                                img(src='/assets/images/community-email.svg', alt='Email icon')
                         p.mt-3= person.text
 
         if self.other
@@ -32,17 +32,17 @@ block content
                 .col-12.my-5.text-center
                     h2= self.other.title
                 .col-12.col-md-6.col-lg-3.my-3.text-center
-                    img.mb-3(src='/images/team/icon-advisor.svg', width=100, height=100, alt='Advisor icon')
+                    img.mb-3(src='/assets/images/team/icon-advisor.svg', width=100, height=100, alt='Advisor icon')
                     +markdown(self.other.advisor)
 
                 .col-12.col-md-6.col-lg-3.my-3.text-center
-                    img.mb-3(src='/images/team/icon-founder.svg', width=100, height=100, alt='Founder icon')
+                    img.mb-3(src='/assets/images/team/icon-founder.svg', width=100, height=100, alt='Founder icon')
                     +markdown(self.other.founder)
 
                 .col-12.col-md-6.col-lg-3.my-3.text-center
-                    img.mb-3(src='/images/team/icon-design.svg', width=100, height=100, alt='Design icon')
+                    img.mb-3(src='/assets/images/team/icon-design.svg', width=100, height=100, alt='Design icon')
                     +markdown(self.other.design)
 
                 .col-12.col-md-6.col-lg-3.my-3.text-center
-                    img.mb-3(src='/images/team/icon-minds.svg', width=100, height=100, alt='Minds icon')
+                    img.mb-3(src='/assets/images/team/icon-minds.svg', width=100, height=100, alt='Minds icon')
                     +markdown(self.other.minds)
