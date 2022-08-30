@@ -8,7 +8,7 @@ keywords:
   - demokratian perusta
 image: /images/meta/home.jpg
 team:
-  -
+  - 
     name: Anett Linno
     title: Toimitusjohtaja ja tuotepäällikkö
     text: Tuo kaaoksen keskelle järjestelmällisyyttä ja selvyyttä ystävällisesti ja lempeästi.
@@ -17,7 +17,7 @@ team:
     linkedin: https://www.linkedin.com/in/anettlinno/
     twitter: https://twitter.com/twitanett
     email: anett@citizenos.com
-  -
+  - 
     name: Margo Loor
     title: Perustaja & teknologiaevankelista
     text: Tuo valoa ja viisautta ja ymmärtää isoja kokonaisuuksia.
@@ -26,7 +26,7 @@ team:
     linkedin: https://www.linkedin.com/in/margoloor/
     twitter: https://twitter.com/loorm
     email: info@citizenos.com
-  -
+  - 
     name: Agustina Iskandar Crombach
     title: Kumppanuusjohtaja Indonesiassa
     text: Ihmeiden luoja, vapauden suojelija ja sarjayhteistyöntekijä.
@@ -34,7 +34,7 @@ team:
     picture: /images/team/agustina.jpg
     linkedin: https://www.linkedin.com/in/agustina-iskandar-95a402109/
     email: agustina@citizenos.com
-  -
+  - 
     name: Sara Sinha
     title: Kumppanuus- ja yhteisöjohtaja
     text: Innokas avoimen hallinnon seuraaja.
@@ -43,7 +43,7 @@ team:
     linkedin: https://www.linkedin.com/in/sara-sinha-361577146/
     twitter: https://twitter.com/Sarasinha1992
     email: sara@citizenos.com
-  -
+  - 
     name: Ilmar Türk
     title: Teknologiajohtaja
     text: Koodin ja hymyn taattu toimittaja.
@@ -51,7 +51,7 @@ team:
     picture: /images/team/ilmar.jpg
     linkedin: https://www.linkedin.com/in/ilmar-t%C3%BCrk-752466125/
     email: ilmar@citizenos.com
-  -
+  - 
     name: Mikk Andresen
     title: Ohjelmistoarkkitehti
     text: Rakentaa asioita tyhjästä ja pitää moraalimme korkeana.
@@ -59,7 +59,7 @@ team:
     picture: /images/team/mikk.jpg
     linkedin: https://www.linkedin.com/in/mikkandresen/
     email: mikk@citizenos.com
-  -
+  - 
     name: Kati Vellak
     title: Juristi
     text: Suojelee meitä pahiksilta ja antaa energiaa kaikille ympärillään.
@@ -67,7 +67,7 @@ team:
     picture: /images/team/kati.jpg
     linkedin: https://www.linkedin.com/in/kativellak/
     email: kati@citizenos.com
-  -
+  - 
     name: Becca Melhuish
     title: Viestintäsuunnittelija ja copywriter
     text: Tuo kiiltoa ja kimallusta kaikkeen viestintäämme.
@@ -75,14 +75,14 @@ team:
     picture: /images/team/becca.jpg
     linkedin: https://www.linkedin.com/in/beccamelhuish/
     email: becca.melhuish@gmail.com
-  -
+  - 
     name: Leony Chrisanti
     title: Citizen OS Indonesian suunnittelija
     text: Ammattitaitoinen ja vastuullinen.
     avatar: /images/team/leony-avatar.jpg
     picture: /images/team/leony.jpg
     email: leonychrisanti1789@gmail.com
-  -
+  - 
     name: Tasia Rosalina Tedjo Purnomo
     title: Citizen OS Indonesian sosiaalisen median johtaja
     text: Uteliaisuuden ja arvojen motivoima tukijärjestelmä.
@@ -90,7 +90,7 @@ team:
     picture: /images/team/tasia.jpg
     linkedin: https://www.linkedin.com/in/tasia-rosalina
     email: tasia@citizenos.com
-  -
+  - 
     name: Oksana Naidjonova
     title: Lokalisoinnin ja verkkosivujen hallinta
     text: Taistelee oikeuden puolesta ja tekee meistä parempia joka päivä.
