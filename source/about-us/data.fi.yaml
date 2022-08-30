@@ -6,7 +6,7 @@ keywords:
   - avoin lähdekoodi
   - kansalaisaloite
   - kansalaisliike
-image: /images/meta/home.jpg
+image: /assets/images/meta/home.jpg
 blocks:
   company-img:
     class:
