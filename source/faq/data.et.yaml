@@ -30,7 +30,7 @@ blocks:
     class:
     style:
       background-color: '#FFF1AD'
-      background-image: url(/images/faq-circle-est.png), url(/images/bubble-dots.png), url(/images/bubble-orange.svg)
+      background-image: url(/images/faq-circle-eng.png), url(/images/bubble-dots.png), url(/images/bubble-orange.svg)
       background-position: center center, 0% 20%, 70% 10%
       background-size: 500px 500px, 350px 350px, 100px 100px
   fund-img:
@@ -38,7 +38,7 @@ blocks:
     style:
       background-color: '#FFFFFF'
     text: |
-      ![Kuvatõmmis platvormist](/images/faq10-cos-funding.png){ .img-fluid .box-shadow }
+      ![Screenshot of the platform.](/images/faq10-cos-funding.png){ .img-fluid .box-shadow }
   fund:
     class: faq-text
     style:
@@ -48,8 +48,8 @@ blocks:
     text: |
       Citizen OS-i tuluallikateks on kogu senise tegevusaja jooksul olnud projektipõhised toetused ja eraisikute annetused.
 
-      Suurima osa kuludest on esimese kuue tegevusaasta jooksul katnud üks Eesti tehnoloogiamaastikul väga tuntud eraisikust filantroop.
+      Suurima osa kuludest on esimese kuue tegevusaasta jooksul katnud üks Eesti tehnoloogiamaastikul väga tuntud eraisikust filantroop. 
 
-      Tulevikus on kindlasti võimalik nii teenustasude, täiendavate eraisiku annetuste kui ka mõnede platvormi tasuliste lisafunktsioonide pealt laekuv tulu.
+      Tulevikus on kindlasti võimalik nii teenustasude, täiendavate eraisiku annetuste kui ka mõnede platvormi tasuliste lisafunktsioonide pealt laekuv tulu. 
 
       Citizen OS on ja jääb sotsiaalseks ettevõtteks, see tähendab, et kasumit ei taotleta ja kui see peaks kunagi tekkima, siis investeeritakse see tagasi organisatsiooni eesmärkide ja missiooni elluviimisesse.

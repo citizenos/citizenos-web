@@ -1,20 +1,13 @@
----
-- 
-  path: /help/follow-up/topic1
+multipage: true
+how-to-use-the-follow-up-feature:
+  path: /help/follow-up/how-to-use-the-follow-up-feature
   data:
+    category: /help/category/data.en.yaml
     help: /help/data.en.yaml
-  title: Follow-up Topic 1
+  title: How to use the follow-up feature
   text: |
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus egestas sapien id maximus placerat. Morbi condimentum euismod erat sit amet accumsan. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Suspendisse auctor arcu nec orci consequat pretium. Etiam non quam id turpis bibendum vestibulum non vel nibh. Phasellus ac nulla pulvinar, imperdiet nunc eu, volutpat urna. Praesent elementum maximus leo vel gravida. Maecenas in augue at metus convallis posuere mollis at dolor. Mauris blandit convallis dignissim. Vivamus efficitur sed massa sed malesuada. Donec luctus at libero sit amet laoreet. Donec lacus nisl, dictum in ex eu, vestibulum tincidunt justo. In quis justo condimentum, eleifend lorem id, laoreet sem. Aenean et cursus nisl. Proin id odio iaculis ex auctor suscipit pulvinar vel leo.
+    To post follow-up information, or find the follow-up information posted by others, click on the “Follow up” tab at the top, when inside the relevant topic.
 
-    Maecenas volutpat dui auctor, sollicitudin magna nec, hendrerit eros. Sed venenatis rhoncus lorem, in dignissim risus faucibus et. Nullam ut nibh at mi fermentum finibus. Phasellus rhoncus euismod velit, ac accumsan odio volutpat id. Fusce varius leo ac turpis mattis vehicula. Duis luctus augue odio, id laoreet lacus scelerisque ut. Aenean pretium, odio eu elementum egestas, augue arcu lacinia lacus, sed faucibus enim odio vel lacus. Maecenas a auctor neque. Nullam suscipit aliquam enim non vulputate. Nam odio tellus, sollicitudin ac magna a, finibus scelerisque risus. Aliquam tristique diam sed lectus egestas, a faucibus risus commodo. Nam eleifend quam at odio finibus, at dignissim nulla rhoncus. Nunc gravida quam quis purus lobortis, sit amet malesuada libero molestie. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.
-- 
-  path: /help/follow-up/topic2
-  data:
-    help: /help/data.en.yaml
-  title: Follow-up Topic 2
-  text: |
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus egestas sapien id maximus placerat. Morbi condimentum euismod erat sit amet accumsan. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Suspendisse auctor arcu nec orci consequat pretium. Etiam non quam id turpis bibendum vestibulum non vel nibh. Phasellus ac nulla pulvinar, imperdiet nunc eu, volutpat urna. Praesent elementum maximus leo vel gravida. Maecenas in augue at metus convallis posuere mollis at dolor. Mauris blandit convallis dignissim. Vivamus efficitur sed massa sed malesuada. Donec luctus at libero sit amet laoreet. Donec lacus nisl, dictum in ex eu, vestibulum tincidunt justo. In quis justo condimentum, eleifend lorem id, laoreet sem. Aenean et cursus nisl. Proin id odio iaculis ex auctor suscipit pulvinar vel leo.
+    The “Follow up” tab will only appear once a vote has finished and the admin has clicked “Send to follow-up”.
 
-    Maecenas volutpat dui auctor, sollicitudin magna nec, hendrerit eros. Sed venenatis rhoncus lorem, in dignissim risus faucibus et. Nullam ut nibh at mi fermentum finibus. Phasellus rhoncus euismod velit, ac accumsan odio volutpat id. Fusce varius leo ac turpis mattis vehicula. Duis luctus augue odio, id laoreet lacus scelerisque ut. Aenean pretium, odio eu elementum egestas, augue arcu lacinia lacus, sed faucibus enim odio vel lacus. Maecenas a auctor neque. Nullam suscipit aliquam enim non vulputate. Nam odio tellus, sollicitudin ac magna a, finibus scelerisque risus. Aliquam tristique diam sed lectus egestas, a faucibus risus commodo. Nam eleifend quam at odio finibus, at dignissim nulla rhoncus. Nunc gravida quam quis purus lobortis, sit amet malesuada libero molestie. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.
-
+    ![Screenshot of the platform.](/images/help/sendtofollowup.png)
