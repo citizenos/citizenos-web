@@ -26,7 +26,7 @@ how-to-create-a-group:
     1. In the main menu, click on “Create Group”.
     1. Enter a name for your group.
 
-    ![Screenshot of the platform.](/images/help/creategroup.png)
+    ![Screenshot of the platform.](/assets/images/help/creategroup.png)
 
     If you wish to add an already existing topic to your group right away:
     1. Switch to the “Add topics” tab.
@@ -65,7 +65,7 @@ inviting-users-to-a-group:
     1. Invite users by adding their email addresses, or searching for their names if they already have an account.
     1. Click on “Save group”.
 
-    ![Screenshot of the platform.](/images/help/groupuserlist.png)
+    ![Screenshot of the platform.](/assets/images/help/groupuserlist.png)
 
     ## Related content{.mt-5}
     - [How to create a group](/help/groups/how-to-create-a-group)
@@ -84,7 +84,7 @@ seeing-who-has-been-invited-to-joined-a-group:
     1. The list shows everyone who has been invited, and what level of access rights they have, e.g. “admin” or “read”.
     1. If their invitation is greyed out and marked as “pending”, this means they have not yet accepted the invitation.
 
-    ![Screenshot of the platform.](/images/help/groupuserlist.png)
+    ![Screenshot of the platform.](/assets/images/help/groupuserlist.png)
 
     ## Related content{.mt-5}
     - [Checking if email invites bounced](/help/groups/checking-if-email-invites-bounced)
@@ -115,7 +115,7 @@ finding-a-group-you-previously-joined-created:
   text: |
     To access all groups you have previously joined or created, click on “My Groups” in the main menu.
 
-    ![Screenshot of the platform.](/images/help/mygroups.png)
+    ![Screenshot of the platform.](/assets/images/help/mygroups.png)
 
     **Please note:**
     - Only groups for which you have already accepted the invitation will be listed. If you have been invited to but not yet joined a group, it will not show. To join the group, follow the link in the email invitation you were originally sent.
