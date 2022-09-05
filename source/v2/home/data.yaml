@@ -36,7 +36,7 @@ sections:
                     On it, you can engage people across different locations and timezones to discuss and decide on the topics that affect their lives and well-being.
                 link:
                     title: Learn more
-                    url: ./#
+                    url: /product
             hub:
                 title: Knowledge Hub
                 image: /v2/images/illustrations/hub.svg
@@ -45,16 +45,16 @@ sections:
 
                     Learn how Citizen OS can help you to be more engaging and participatory.
                 link:
-                    title: Some other link
-                    url: ./#
+                    title: Coming soon!
+                    url: /
             projects:
-                title: Projects
+                title: Global projects
                 image: /v2/images/illustrations/projects.svg
                 text: |
-                    Pariatur sint minim sint ea irure ad dolore. Pariatur sint magna ullamco consequat quis.
+                    Together with our awesome partners, we lead globally renowned participatory e-democracy projects, which prove the value of respectful discussions and collaborative decision-making. Our projects are mostly aimed at community leaders and civic activists.
                 link:
-                    title: Learn more
-                    url: ./#
+                    title: Check out what we're up to!
+                    url: /projects
 
     connecting:
         type: media
