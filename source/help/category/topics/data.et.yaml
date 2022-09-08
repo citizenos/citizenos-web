@@ -352,3 +352,49 @@ Co-creating-a-topic-text:
     - [Creating an inline vote in a topic text](/help/topics/creating-an-inline-vote-in-a-topic-text)
 
     { .list-arrow .list-unstyled }
+understanding-topic-user-rights:
+  path: /help/topics/understanding-topic-user-rights
+  data:
+    category: /help/category/data.en.yaml
+    help: /help/data.en.yaml
+  title: Understanding topic user rights
+  text: |
+    Topic participants can be [assigned different levels of rights:](/help/groups/changing-the-rights-of-group-participants) “admin”, “edit”, “read” or “none”.
+
+    **With “read” rights, users can:**
+
+    - View topic
+    - Participate in topic discussion
+    - Vote on topic
+    - View the topic follow-up
+    - Leave topic
+    - Report topic (only for public topics)
+
+    *(Note: In public topics, all the above actions are also open to anyone accessing the topic, regardless of whether they have been invited).*
+
+    **With “edit” rights, users can do all of the above plus:***
+
+    - Edit topic (title, topic text, etc.)
+    - Add hashtags and categories
+    - Add/manage attachments
+
+    **With “admin” rights, users can do all of the above plus:**
+
+    - Change topic status (send it to voting and follow-up, close it, delete it)
+    - Make topic public/private
+    - Invite users via email
+    - Invite an existing group
+    - Share an invite to topic via URL, QR code, FB, LinkedIn and Twitter
+    - Manage participants (manage users’ rights, delete users)
+    - Duplicate topic.
+
+    **With “None” rights,** users cannot access the topic at all. This can be used when you do not want to remove a user(s) from a topic entirely, but want to temporarily suspend their access to it.
+
+    **Note:** Please see [Understanding group user rights](/help/groups/understanding-group-user-rights) for more information on the interrelation between group rights and topic rights.
+
+    ## Related content{.mt-5}
+    - [Changing the rights of topic participants](/help/topics/changing-the-rights-of-topic-participants)
+    - [Understanding group user rights](/help/groups/understanding-group-user-rights)
+
+    { .list-arrow .list-unstyled }
+
