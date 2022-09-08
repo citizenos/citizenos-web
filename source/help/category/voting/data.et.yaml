@@ -104,12 +104,12 @@ how-to-set-up-a-vote:
     **Please note** that once the vote has started:
     - It will not be possible to edit the voting settings. You can, however, still add a voting deadline in the “Actions” part of the “Options” menu. (Right sidebar on desktop, or in the options menu tab on mobile).
     - It will no longer be possible to edit the topic text.
-### Related content{.mt-5}
-#- [Customising the voting settings](/help/voting/customising-the-voting-settings)
-#- [Setting up multiple choice voting](/help/voting/setting-up-multiple-choice-voting)
-#- [Setting up neutral votes, veto votes and vote delegation](/help/voting/setting-up-neutral-votes-veto-votes-an-vote-delegation)
-#- [Creating an inline vote in a topic text](/help/voting/creating-an-inline-vote-in-a-topic-text)
-#{ .list-arrow .list-unstyled }
+
+    ## Related content{.mt-5}
+    - [Customising the voting settings](/help/voting/customising-the-voting-settings)
+    - [Setting up multiple choice voting](/help/voting/setting-up-multiple-choice-voting)
+    - [Creating an inline vote in a topic text](/help/voting/creating-an-inline-vote-in-a-topic-text)
+    { .list-arrow .list-unstyled }
 closing-the-vote-or-setting-a-vote-deadline:
   path: /help/voting/closing-the-vote-or-setting-a-vote-deadline
   data:
@@ -321,6 +321,9 @@ setting-up-multiple-choice-voting:
     - In a custom vote, you have complete flexibility to add your own vote response options. Simply type the choices you wish participants to choose from into the “Step 2: Define answers” fields.
     - Just like in the regular vote, you can choose to include a “Neutral” or “Veto” option if you wish.
     - In “Step 3: Define min/max options” you can specify how many of the vote response options you want participants to be able to vote for. For example, if you have set 5 vote options in total, and you want participants to vote for at least 1 but no more than 3 of these, you would set the “Min choices” to 1 and the “Max choices” to 3.
+
+    ## Related content{.mt-5}
+    - [Customising the voting settings](/help/voting/customising-the-voting-settings)
 customising-the-voting-settings:
   path: /help/voting/customising-the-voting-settings
   data:
