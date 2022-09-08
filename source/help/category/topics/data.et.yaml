@@ -232,7 +232,7 @@ changing-the-rights-of-topic-participants:
     A topic admin can change the level of rights that other participants have in that topic.
     Rights can be set to either “admin”, “edit”, “read” or “none”.
 
-    There are two ways to change a topic participant's rights.
+    There are three ways to change a topic participant's rights.
 
     **Either:**
 
@@ -250,6 +250,16 @@ changing-the-rights-of-topic-participants:
     - Click on the dropdown box next to the relevant username, and select the desired level of rights.
     - You can also bulk edit the rights level of all participants within a group, in the “Groups list”. You will find this just above the “User list” on the dashboard.
     - Any changes will automatically be saved.
+
+    **Or:**
+
+    - You can bulk edit the topic access rights of a whole group, if the group has been invited to join the topic.
+    - See [Understanding group user rights](/help/groups/understanding-group-user-rights) and [Changing the rights of group participants](/help/groups/changing-the-rights-of-group-participants) for more information on this.
+
+    ## Related content{.mt-5}
+    - [Understanding topic user rights](/help/topics/understanding-topic-user-rights)
+    - [Understanding group user rights](/help/groups/understanding-group-user-rights)
+    - [Changing the rights of group participants](/help/groups/changing-the-rights-of-group-participants)
 making-a-topic-public-or-private:
   path: /help/topics/making-a-topic-public-or-private
   data:
