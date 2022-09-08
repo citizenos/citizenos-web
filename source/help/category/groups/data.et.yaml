@@ -241,5 +241,69 @@ deleting-a-group:
     - Click “Yes” to confirm.
 
     You will need to have group admin rights to be able to do this.
+understanding-group-user-rights:
+  path: /help/groups/understanding-group-user-rights
+  data:
+    category: /help/category/data.en.yaml
+    help: /help/data.en.yaml
+  title: Understanding group user rights
+  text: |
+    There are two different sets of rights with a group: group management rights, and group topic access rights.
 
+    To find out how to edit these rights, see [“Changing the rights of group participants”](/help/groups/changing-the-rights-of-group-participants).
+
+    Here is an explanation of what these rights mean, and how they relate to each other.
+
+    __**Group management rights**__
+
+    Group participants can be [assigned different levels of group management rights:](/help/groups/changing-the-rights-of-group-participants) “admin”, or “read”. These rights levels determine the actions users can take in relation to the management of the group - i.e. editing the group settings.
+
+    **With “admin” rights, users can:**
+
+    - Add topics into the group (i.e. give group members access to these topics)
+    - Create new topics within the group
+    - View users (including email addresses)
+    - Invite users to the group via email, URL, QR code or sharing to Facebook, Twitter and Linkedin
+    - Change group members’ group management rights
+    - Change group topic access rights
+    - Change the name of the group
+    - Delete the group
+    - Leave the group
+
+    _Note: It is only possible to add topics into a group if you have “admin” rights for the topic itself, including for public topics._
+
+    **With “read” rights, users can:**
+
+    - View users (user names only)
+    - Access topics shared to the group (with their level of access varying, depending on their topic rights)
+    - Leave the group
+
+    __**Group topic access rights**__
+
+    Group topic access rights refer to the level of access that group members have for a topic to which the group has been invited. **To find out what the different access levels mean, see [Understanding topic user rights](/help/topics/understanding-topic-user-rights).**
+
+    Changing group topic access rights will bulk edit the access rights of almost all members of your group for that particular topic, aside from the exceptions listed below.
+
+    After bulk editing the topic access rights of the whole group, it is possible to manually, individually edit the topic access rights of certain group members, via the topic’s “user list”.  (For example, if you want to set the whole group to “read”, but then manually change a few group members to be “admin” with you).
+
+    Below are the aforementioned exceptions to group rights. These members rights will not be automatically affected when the group rights are changed:
+
+    - The initiator of the topic will retain their topic “admin” rights.
+    - Any other users whose topic access rights have previously been individually manually edited will also retain their previously specified level of topic access rights, if they were assigned a “higher level” of rights than those given to the group. Two examples:
+    -- If a user was manually assigned “admin” rights, but the group rights were then changed to “edit”, that user will retain “admin” rights.
+    -- If a user was manually assigned “read” rights, but the group rights were then changed to “edit”, that user will now also have edit rights.
+
+    **Interrelation between group and topic rights**
+
+    Group management rights and topic access rights are not related. Group management rights relate purely to actions relating to the management of the group itself, while topic access rights relate purely to group members’ levels of topic access.
+
+    However, group topic access rights and individual user access rights do interrelate. Individual user topic access rights are more “powerful” than group topic access rights. (For example, if the whole group has been given “read” rights to a topic, but a particular user has been individually given “admin” rights, then that user will be able to carry out “admin” actions for the topic).
+
+    ## Related content{.mt-5}
+    - [Changing the rights of group participants](/help/groups/changing-the-rights-of-group-participants)
+    - [Understanding topic user rights](/help/topics/understanding-topic-user-rights)
+    - [Changing the rights of topic participants](/help/topics/changing-the-rights-of-topic-participants/)
+
+
+    { .list-arrow .list-unstyled }
 
