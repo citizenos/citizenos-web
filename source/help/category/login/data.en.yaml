@@ -91,7 +91,7 @@ creating-an-account:
         - Log in with ID Card / Mobiil-ID
         - Log in with Smart-ID
 
-        When creating a Citizen OS account by logging in with e-ID you will be asked to provide an email address. This is the email address you will receive topic/group invitations and notifications to.
+        When creating a Citizen OS account by [logging in with e-ID](/help/login/logging-in-using-e-id-estonia-only) you will be asked to provide an email address. This is the email address you will receive topic/group invitations and notifications to.
 
         **Please note:**
 
@@ -99,6 +99,8 @@ creating-an-account:
 
         ## Related content{.mt-5}
         - [Troubleshooting “no permission to access”](/help/login/troubleshooting-no-permission-to-access)
+        - [Logging in using e-ID (Estonia only)](/help/login/logging-in-using-e-id-estonia-only)
+
         { .list-arrow .list-unstyled }
 
 
