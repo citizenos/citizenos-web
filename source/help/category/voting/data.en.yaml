@@ -337,6 +337,9 @@ setting-up-multiple-choice-voting:
         - Just like in the regular vote, you can choose to include a “Neutral” or “Veto” option if you wish.
         - In “Step 3: Define min/max options” you can specify how many of the vote response options you want participants to be able to vote for. For example, if you have set 5 vote options in total, and you want participants to vote for at least 1 but no more than 3 of these, you would set the “Min choices” to 1 and the “Max choices” to 3.
 
+        ## Related content{.mt-5}
+        - [Customising the voting settings](/help/voting/customising-the-voting-settings)
+
 
 customising-the-voting-settings:
     path: /help/voting/customising-the-voting-settings
