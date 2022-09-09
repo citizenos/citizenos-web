@@ -194,27 +194,31 @@ setting-up-digital-signature-voting-for-topic-admins-estonia-only:
 
     ## Related content{.mt-5}
     - [How to vote using a digital signature (Estonia only)](/help/voting/how-to-vote-using-a-digital-signature)
-how-to-vote-using-a-digital-signature-Estonia-only:
-  path: /help/voting/how-to-vote-using-a-digital-signature
+how-to-vote-using-a-digital-signature-for-topic-participants-estonia-only:
+  path: /help/voting/how-to-vote-using-a-digital-signature-for-topic-participants-estonia-only
   data:
     category: /help/category/data.en.yaml
-    help: /help/data.et.yaml
-  title: How to vote using a digital signature (Estonia only)
+    help: /help/data.en.yaml
+  title: How to vote using a digital signature (for topic participants, Estonia only)
   text: |
-    In Estonia, it is possible for participants to add a digital signature to their votes, if this option was enabled by the admin when setting up the vote. To do this, you need to have an ID card reader, Mobile ID or Smart ID.
+    In Estonia, it is possible for participants to add a digital signature to their votes, if this option was [enabled by the admin](/help/voting/setting-up-digital-signature-voting-Estonia-only) when setting up the vote. To do this, you need to have an ID card reader, Mobile ID or Smart ID.
 
-    Here’s how:
-    1. Go into the relevant topic. (See Finding a topic).
+    Here’s how to cast a vote using a digital signature:
+
+    1. Go into the relevant topic. See [Finding a topic](/help/voting/finding-a-topic).
     1. Choose the option you want to vote for, and click “Submit your vote”.
     1. Select your preferred e-ID signing method.
     1. Fill the required fields and click on the “Sign” button.
     1. After signing, a “Your vote has been registered” message will appear. You can download your signed vote (as a BDOC folder) in the right hand corner of the pop-up message window.
 
     **Please note:**
-    - If you change your mind, you can change your vote by repeating the above process, as long as the vote is still open.
+
+    - **You do not need to log in using e-ID in order to vote using e-ID.** You can log in as you usually would, then use e-ID to sign the vote following the steps outlined above.
+    - If you change your mind, you can change your vote by repeating the steps outlined above, as long as the vote is still open.
     - On public topics, it is possible to vote using e-ID without logging in first, if the admin enabled e-ID voting when setting up the vote.
 
     ## Related content{.mt-5}
+    - [Setting up digital signature voting (for topic admins, Estonia only)](/help/voting/setting-up-digital-signature-voting-for-topic-admins-estonia-only)
     - [Finding a topic](/help/voting/finding-a-topic)
     { .list-arrow .list-unstyled }
 downloading-digital-signature-vote-files:
