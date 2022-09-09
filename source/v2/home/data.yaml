@@ -79,9 +79,9 @@ sections:
                 image: /v2/images/illustrations/ideation.svg
                 text: |
                     Gather a large number of ideas for creative solutions. Experience the collective wisdom and intelligence from putting many heads together.
-                link:
-                    title: Learn more
-                    url: ./#
+#                link:
+#                    title: Learn more
+#                    url: ./#
             discussions:
                 title: Discussions
                 color: blue
@@ -89,9 +89,9 @@ sections:
                 image: /v2/images/illustrations/discussions.svg
                 text: |
                     Start respectful and meaningful discussions and engage people with different opinions. Let the arguments speak for themselves!
-                link:
-                    title: Learn more
-                    url: ./#
+#                link:
+#                    title: Learn more
+#                    url: ./#
             voting:
                 title: Voting
                 color: green
@@ -99,9 +99,9 @@ sections:
                 image: /v2/images/illustrations/voting.svg
                 text: |
                     Make collaborative and democratic decisions together with the people whose lives and well-being are directly affected by them.
-                link:
-                    title: Learn more
-                    url: ./#
+#                link:
+#                    title: Learn more
+#                    url: ./#
             followup:
                 title: Follow up
                 color: purple
@@ -109,9 +109,9 @@ sections:
                 image: /v2/images/illustrations/followup.svg
                 text: |
                     Keep people updated with the further discussions and actions taken.
-                link:
-                    title: Learn more
-                    url: ./#
+#                link:
+#                    title: Learn more
+#                    url: ./#
 
     who-uses:
         type: 2-columns
