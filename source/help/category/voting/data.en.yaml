@@ -333,7 +333,7 @@ setting-up-multiple-choice-voting:
     text: |
         As the admin of a topic, when [setting up a vote](/help/voting/how-to-set-up-a-vote), you can allow topic participants to select more than one vote response option when they vote. We call this “multiple choice voting”.
 
-        To do this you’ll need to select the “custom vote” option when customising the voting settings.
+        To do this you’ll need to select the “custom vote” option when [customising the voting settings](/help/voting/customising-the-voting-settings).
 
         **Custom vote**
 
