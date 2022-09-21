@@ -171,22 +171,55 @@ inviting-a-group-to-a-topic:
     - [Why create a group](/help/groups/why-create-a-group)
     - [Inviting users to a group](/help/groups/invite-users-to-a-group)
     { .list-arrow .list-unstyled }
-changing-the-admin-rights-of-group-members:
-  path: /help/groups/changing-the-admin-rights-of-group-members
+changing-the-rights-of-group-participants:
+  path: /help/groups/changing-the-rights-of-group-participants
   data:
     category: /help/category/data.en.yaml
-    help: /help/data.et.yaml
-  title: Changing the admin rights of group members
+    help: /help/data.en.yaml
+  title: Changing the rights of group participants
   text: |
-    If a member of a group has “admin” rights at the group level, this means they can change the group settings. For example, changing the rights of other group members, inviting users to the group, adding the group to a topic, or closing and deleting topics the group is part of.
+    There are two different sets of rights with a group: group management rights, and group topic access rights.
 
-    To make a member of a group admin:
-    1. Click on the relevant group in your “My Groups “ dashboard.
-    1. Click to expand the grey “User list” bar, which is displayed underneath the “General information” box on the dashboard.
-    1. Next to the user’s name, in the dropdown box under “Rights”, change their access from “read” to admin.
+    **Group management rights** refer to actions relating to the settings of the group itself. **Group topic access rights** refer to the level of access that group members have for a topic to which the group has been invited.
 
-    **Please note:**
-    Group rights are only relevant to group-related settings. Topic rights are set separately by the topic admin and are not affected by group rights.
+    See [Understanding group user rights](/help/groups/understanding-group-user-rights) for more information on what these rights mean, and how they relate to each other.
+
+    Here is how to edit these different types of rights.
+
+    **Group management rights**
+
+    To change the group management rights of a group member:
+
+    - Click on the relevant group in your “My Groups “ dashboard.
+    - Click to expand the grey “User list” bar.
+    - Next to the user’s name, in the dropdown box under “Rights”, select your preferred level of rights.
+
+    **Group topic access rights**
+
+    To edit the group access rights for a particular topic:
+
+    - Click on the relevant group in your “My Groups “ dashboard.
+    - Click to expand the grey “topics list” bar, which is displayed underneath the “General information” box on the dashboard.
+    - Next to the topic’s name, in the dropdown box under “Rights”, select your preferred access level.
+
+    Or
+
+    - Go into the relevant topic.
+    - Click on “Manage participants” in the “Options” menu. (Right sidebar on desktop, or in the options menu tab on mobile).
+    - Click on the “Groups” tab in the pop-up window that appears.
+    - Next to the topic’s name, in the dropdown box under “Rights”, select your preferred access level.
+
+    **Note:** Changing these rights will bulk edit the topic access rights of almost all members of your group for that particular topic. However, the initiator of the topic will retain “admin” rights, and any members who have had rights manually assigned will retain these if they were assigned a higher level of rights than the group rights (more on this [here](link)).
+
+
+    To find out how to check and manually edit the topic access rights of individual users within the group, see [Changing the rights of topic participants](link).
+
+    ## Related content{.mt-5}
+    - [Understanding group user rights](/help/groups/understanding-group-user-rights)
+    - [Understanding topic user rights](/help/topics/understanding-topic-user-rights)
+    - [Understanding the rights of topic participants](/help/topics/changing-the-rights-of-topic-participants)
+
+    { .list-arrow .list-unstyled }
 troubleshooting-no-permission-to-access:
   path: /help/groups/troubleshooting-no-permission-to-access
   data:
