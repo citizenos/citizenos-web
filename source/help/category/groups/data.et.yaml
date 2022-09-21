@@ -209,7 +209,7 @@ changing-the-rights-of-group-participants:
     - Click on the “Groups” tab in the pop-up window that appears.
     - Next to the topic’s name, in the dropdown box under “Rights”, select your preferred access level.
 
-    **Note:** Changing these rights will bulk edit the topic access rights of almost all members of your group for that particular topic. However, the initiator of the topic will retain “admin” rights, and any members who have had rights manually assigned will retain these if they were assigned a higher level of rights than the group rights (more on this [here](link)).
+    **Note:** Changing these rights will bulk edit the topic access rights of almost all members of your group for that particular topic. However, the initiator of the topic will retain “admin” rights, and any members who have had rights manually assigned will retain these if they were assigned a higher level of rights than the group rights (more on this [here](/help/groups/understanding-group-user-rights)).
 
 
     To find out how to check and manually edit the topic access rights of individual users within the group, see [Changing the rights of topic participants](link).
@@ -217,7 +217,7 @@ changing-the-rights-of-group-participants:
     ## Related content{.mt-5}
     - [Understanding group user rights](/help/groups/understanding-group-user-rights)
     - [Understanding topic user rights](/help/topics/understanding-topic-user-rights)
-    - [Understanding the rights of topic participants](/help/topics/changing-the-rights-of-topic-participants)
+    - [Changing the rights of topic participants](/help/topics/changing-the-rights-of-topic-participants)
 
     { .list-arrow .list-unstyled }
 troubleshooting-no-permission-to-access:
