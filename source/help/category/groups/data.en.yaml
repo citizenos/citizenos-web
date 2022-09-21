@@ -262,15 +262,15 @@ understanding-group-user-rights:
     text: |
         There are two different sets of rights with a group: group management rights, and group topic access rights.
 
-        To find out how to edit these rights, see [“Changing the rights of group participants”](/help/groups/changing-the-rights-of-group-participants).
+        To find out how to edit these rights, see [“Changing the admin rights of group participants”](/help/groups/changing-the-admin-rights-of-group-members).
 
         Here is an explanation of what these rights mean, and how they relate to each other.
 
         __**Group management rights**__
 
-        Group participants can be [assigned different levels of group management rights:](/help/groups/changing-the-rights-of-group-participants) “admin”, or “read”. These rights levels determine the actions users can take in relation to the management of the group - i.e. editing the group settings.
+        Group participants can be [assigned different levels of group management rights:](/help/groups/changing-the-admin-rights-of-group-members) “admin”, or “read”. These rights levels determine the actions users can take in relation to the management of the group - i.e. editing the group settings.
 
-        **With “admin” rights, users can:**
+        With “admin” rights, users can:
 
         - Add topics into the group (i.e. give group members access to these topics)
         - Create new topics within the group
@@ -284,7 +284,7 @@ understanding-group-user-rights:
 
         _Note: It is only possible to add topics into a group if you have “admin” rights for the topic itself, including for public topics._
 
-        **With “read” rights, users can:**
+        With “read” rights, users can:
 
         - View users (user names only)
         - Access topics shared to the group (with their level of access varying, depending on their topic rights)
@@ -302,8 +302,8 @@ understanding-group-user-rights:
 
         - The initiator of the topic will retain their topic “admin” rights.
         - Any other users whose topic access rights have previously been individually manually edited will also retain their previously specified level of topic access rights, if they were assigned a “higher level” of rights than those given to the group. Two examples:
-        -- If a user was manually assigned “admin” rights, but the group rights were then changed to “edit”, that user will retain “admin” rights.
-        -- If a user was manually assigned “read” rights, but the group rights were then changed to “edit”, that user will now also have edit rights.
+            * If a user was manually assigned “admin” rights, but the group rights were then changed to “edit”, that user will retain “admin” rights.
+            * If a user was manually assigned “read” rights, but the group rights were then changed to “edit”, that user will now also have edit rights.
 
         **Interrelation between group and topic rights**
 
@@ -312,7 +312,7 @@ understanding-group-user-rights:
         However, group topic access rights and individual user access rights do interrelate. Individual user topic access rights are more “powerful” than group topic access rights. (For example, if the whole group has been given “read” rights to a topic, but a particular user has been individually given “admin” rights, then that user will be able to carry out “admin” actions for the topic).
 
         ## Related content{.mt-5}
-        - [Changing the rights of group participants](/help/groups/changing-the-rights-of-group-participants)
+        - [Changing the admin rights of group participants](/help/groups/changing-the-admin-rights-of-group-members)
         - [Understanding topic user rights](/help/topics/understanding-topic-user-rights)
         - [Changing the rights of topic participants](/help/topics/changing-the-rights-of-topic-participants/)
 
