@@ -205,7 +205,7 @@ how-to-vote-using-a-digital-signature-for-topic-participants-estonia-only:
 
     Here’s how to cast a vote using a digital signature:
 
-    1. Go into the relevant topic. See [Finding a topic](/help/voting/finding-a-topic).
+    1. Go into the relevant topic. See [Finding a topic you are participating in](/help/topics/finding-a-topic-you-are-participating-in).
     1. Choose the option you want to vote for, and click “Submit your vote”.
     1. Select your preferred e-ID signing method.
     1. Fill the required fields and click on the “Sign” button.
@@ -219,7 +219,7 @@ how-to-vote-using-a-digital-signature-for-topic-participants-estonia-only:
 
     ## Related content{.mt-5}
     - [Setting up digital signature voting (for topic admins, Estonia only)](/help/voting/setting-up-digital-signature-voting-for-topic-admins-estonia-only)
-    - [Finding a topic](/help/voting/finding-a-topic)
+    - [Finding a topic you are participating in](/help/topics/finding-a-topic-you-are-participating-in)
     { .list-arrow .list-unstyled }
 downloading-digital-signature-vote-files:
   path: /help/voting/downloading-digital-signature-vote-files
@@ -318,7 +318,7 @@ setting-up-multiple-choice-voting:
   text: |
     As the admin of a topic, when [setting up a vote](/help/voting/how-to-set-up-a-vote), you can allow topic participants to select more than one vote response option when they vote. We call this “multiple choice voting”.
 
-    To do this you’ll need to select the “custom vote” option when customising the voting settings.
+    To do this you’ll need to select the “custom vote” option when [customising the voting settings](/help/voting/customising-the-voting-settings).
 
     **Custom vote**
 
