@@ -10,20 +10,23 @@ links:
     title: Quick links
     links:
         -
-            title: Troubleshooting “no permission to access”
-            url: /help/login/troubleshooting-no-permission-to-access
+            title: Logging in using e-ID (Estonia only)
+            url: /help/login/logging-in-using-e-id-estonia-only
         -
-            title: Closing the vote or setting a vote deadline
-            url: /help/voting/closing-the-vote-or-setting-a-vote-deadline
+            title: How to vote using a digital signature (for topic participants, Estonia only)
+            url: /help/voting/how-to-vote-using-a-digital-signature-for-topic-participants-estonia-only
+        -
+            title: Changing the rights of topic participants
+            url: /help/topics/changing-the-rights-of-topic-participants
         -
             title: Downloading voting results
             url: /help/voting/downloading-voting-results
         -
-            title: Downloading digital signature vote files (Estonia only)
-            url: /help/voting/downloading-digital-signature-vote-files
+            title: Troubleshooting “no permission to access”
+            url: /help/login/troubleshooting-no-permission-to-access
         -
-            title: Attaching files to a topic
-            url: /help/topics/attaching-files-to-a-topic
+            title: How to create a group
+            url: /help/groups/how-to-create-a-group
 
 topics: Find by topic
 categoryTopics: Jump to a specific topic
