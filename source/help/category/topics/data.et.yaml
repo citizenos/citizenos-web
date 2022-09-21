@@ -16,7 +16,7 @@ creating-a-new-topic:
     ## Related content{.mt-5}
     - [Inviting users to a topic](/help/topics/inviting-users-to-a-topic)
     - [Making a topic public or private](/help/topics/making-a-topic-public-or-private)
-    - [Making people admin of a topic](/help/topics/making-people-admin-of-a-topic)
+    - [Changing the rights of topic participants](/help/topics/changing-the-rights-of-topic-participants)
     - [Editing a topic](/help/topics/editing-a-topic)
     - [Attaching files to a topic](/help/topics/attaching-files-to-a-topic)
     { .list-arrow .list-unstyled }
@@ -221,6 +221,7 @@ editing-a-topic:
     - [Attaching files to a topic](/help/topics/attaching-files-to-a-topic)
     - [Adding footnotes to a topic text](/help/topics/adding-footnotes-to-a-topic-text)
     - [Making a topic public or private](/help/topics/making-a-topic-public-or-private)
+    - [Changing the rights of topic participants](/help/topics/changing-the-rights-of-topic-participants)
     { .list-arrow .list-unstyled }
 changing-the-rights-of-topic-participants:
   path: /help/topics/changing-the-rights-of-topic-participants
@@ -349,6 +350,7 @@ Co-creating-a-topic-text:
 
     ## Related content{.mt-5}
     - [Changing the rights of topic participants](/help/topics/changing-the-rights-of-topic-participants)
+    - [Understanding topic user rights](/help/topics/understanding-topic-user-rights)
     - [Creating an inline vote in a topic text](/help/topics/creating-an-inline-vote-in-a-topic-text)
 
     { .list-arrow .list-unstyled }
