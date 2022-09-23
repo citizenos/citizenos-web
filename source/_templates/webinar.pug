@@ -10,6 +10,8 @@ block content
             .col-12.col-lg-8.offset-lg-2.text-center
                 if self.blocks && self.blocks.header
                     h1= self.blocks.header.title
+                    if self.blocks.header.text
+                        +markdown(self.blocks.header.text)
                 if self.blocks.join.button.url && self.blocks.join.button.title
                     a.d-lg-none.btn.btn-primary.mt-4.mb-2(href=self.blocks.join.button.url, target='_blank')= self.blocks.join.button.title
 
@@ -74,6 +76,8 @@ block stylus
             background-position center top
             background-size cover
             background-image url('/assets/images/civic-hackathon-website-header-image.png')
+            color #FFFFFF
+            text-shadow 0px 0px 20px rgba(0, 0, 0, 0.5)
 
             h1
                 color #FFFFFF
