@@ -11,12 +11,12 @@ creating-a-new-topic:
 
     Any changes you make to the topic will be automatically saved, and the topic will automatically appear in your “My topics” dashboard from now on.
 
-    ![Screenshot of the platform.](/images/help/createtopic.png)
+    ![Screenshot of the platform.](/assets/images/help/createtopic.png)
 
     ## Related content{.mt-5}
     - [Inviting users to a topic](/help/topics/inviting-users-to-a-topic)
     - [Making a topic public or private](/help/topics/making-a-topic-public-or-private)
-    - [Making people admin of a topic](/help/topics/making-people-admin-of-a-topic)
+    - [Changing the rights of topic participants](/help/topics/changing-the-rights-of-topic-participants)
     - [Editing a topic](/help/topics/editing-a-topic)
     - [Attaching files to a topic](/help/topics/attaching-files-to-a-topic)
     { .list-arrow .list-unstyled }
@@ -35,7 +35,7 @@ finding-a-topic-you-are-participating-in:
     1. You will be directed to the topic, and have now joined it.
     1. From now on, it will appear in your “My Topics” dashboard.
 
-    ![Screenshot of the platform.](/images/help/mytopics.png)
+    ![Screenshot of the platform.](/assets/images/help/mytopics.png)
 
     **If you have previously joined the topic:**
     1. Click on “My Topics” in the main menu to go to your My Topics dashboard.
@@ -87,7 +87,7 @@ seeing-who-has-been-invited-to-joined-a-topic:
     1. The list shows everyone who has been invited, and what level of access rights they have, e.g. “admin” or “read”.
     1. If their invitation is greyed out and marked as “pending”, this means they have not yet accepted the invitation.
 
-    ![Screenshot of the platform.](/images/help/groupuserlist.png)
+    ![Screenshot of the platform.](/assets/images/help/groupuserlist.png)
 
     ## Related content{.mt-5}
     - [Checking if email invites bounced](/help/topics/checking-if-email-invites-bounced)
@@ -124,7 +124,7 @@ attaching-files-to-a-topic:
     1. To edit the filename, click the pencil button to the right.
     1. You can then close the pop-up, and the attachment will be saved.
 
-    ![Screenshot of the platform.](/images/help/attachments.png)
+    ![Screenshot of the platform.](/assets/images/help/attachments.png)
 
     **Please note:** if using mobile to add attachments, you will find the “Add/manage attachments” button in a different location:
     - Enter the topic in “View mode”.
@@ -181,7 +181,7 @@ inviting-users-to-a-topic:
     1. Copy the share link or QR code and send this to those you wish to invite, or share via the social media buttons.
     1. Close the window.
 
-    ![Screenshot of the platform.](/images/help/inviteusers.png)
+    ![Screenshot of the platform.](/assets/images/help/inviteusers.png)
 
     **Inviting via email:**
 
@@ -215,12 +215,13 @@ editing-a-topic:
     All changes will be saved automatically.
     To exit edit mode, click on the blue “Done editing” button. (Right sidebar on desktop, or in the options menu tab on mobile).
 
-    ![Screenshot of the platform.](/images/help/edittopic.png)
+    ![Screenshot of the platform.](/assets/images/help/edittopic.png)
 
     ## Related content{.mt-5}
     - [Attaching files to a topic](/help/topics/attaching-files-to-a-topic)
     - [Adding footnotes to a topic text](/help/topics/adding-footnotes-to-a-topic-text)
     - [Making a topic public or private](/help/topics/making-a-topic-public-or-private)
+    - [Changing the rights of topic participants](/help/topics/changing-the-rights-of-topic-participants)
     { .list-arrow .list-unstyled }
 changing-the-rights-of-topic-participants:
   path: /help/topics/changing-the-rights-of-topic-participants
@@ -232,7 +233,7 @@ changing-the-rights-of-topic-participants:
     A topic admin can change the level of rights that other participants have in that topic.
     Rights can be set to either “admin”, “edit”, “read” or “none”.
 
-    There are two ways to change a topic participant's rights.
+    There are three ways to change a topic participant's rights.
 
     **Either:**
 
@@ -250,6 +251,16 @@ changing-the-rights-of-topic-participants:
     - Click on the dropdown box next to the relevant username, and select the desired level of rights.
     - You can also bulk edit the rights level of all participants within a group, in the “Groups list”. You will find this just above the “User list” on the dashboard.
     - Any changes will automatically be saved.
+
+    **Or:**
+
+    - You can bulk edit the topic access rights of a whole group, if the group has been invited to join the topic.
+    - See [Understanding group user rights](/help/groups/understanding-group-user-rights) and [Changing the rights of group participants](/help/groups/changing-the-rights-of-group-participants) for more information on this.
+
+    ## Related content{.mt-5}
+    - [Understanding topic user rights](/help/topics/understanding-topic-user-rights)
+    - [Understanding group user rights](/help/groups/understanding-group-user-rights)
+    - [Changing the rights of group participants](/help/groups/changing-the-rights-of-group-participants)
 making-a-topic-public-or-private:
   path: /help/topics/making-a-topic-public-or-private
   data:
@@ -264,7 +275,7 @@ making-a-topic-public-or-private:
     - When in the “My Topics” dashboard, click on “Settings” for the relevant topic.
     Only admins of a topic can change these settings.
 
-    ![Screenshot of the platform.](/images/help/topicactions.png)
+    ![Screenshot of the platform.](/assets/images/help/topicactions.png)
 viewing-a-topics-activity-feed:
   path: /help/topics/viewing-a-topics-activity-feed
   data:
@@ -339,6 +350,53 @@ Co-creating-a-topic-text:
 
     ## Related content{.mt-5}
     - [Changing the rights of topic participants](/help/topics/changing-the-rights-of-topic-participants)
+    - [Understanding topic user rights](/help/topics/understanding-topic-user-rights)
     - [Creating an inline vote in a topic text](/help/topics/creating-an-inline-vote-in-a-topic-text)
 
     { .list-arrow .list-unstyled }
+understanding-topic-user-rights:
+  path: /help/topics/understanding-topic-user-rights
+  data:
+    category: /help/category/data.en.yaml
+    help: /help/data.en.yaml
+  title: Understanding topic user rights
+  text: |
+    Topic participants can be [assigned different levels of rights:](/help/groups/changing-the-rights-of-group-participants) “admin”, “edit”, “read” or “none”.
+
+    **With “read” rights, users can:**
+
+    - View topic
+    - Participate in topic discussion
+    - Vote on topic
+    - View the topic follow-up
+    - Leave topic
+    - Report topic (only for public topics)
+
+    *(Note: In public topics, all the above actions are also open to anyone accessing the topic, regardless of whether they have been invited).*
+
+    **With “edit” rights, users can do all of the above plus:***
+
+    - Edit topic (title, topic text, etc.)
+    - Add hashtags and categories
+    - Add/manage attachments
+
+    **With “admin” rights, users can do all of the above plus:**
+
+    - Change topic status (send it to voting and follow-up, close it, delete it)
+    - Make topic public/private
+    - Invite users via email
+    - Invite an existing group
+    - Share an invite to topic via URL, QR code, FB, LinkedIn and Twitter
+    - Manage participants (manage users’ rights, delete users)
+    - Duplicate topic.
+
+    **With “None” rights,** users cannot access the topic at all. This can be used when you do not want to remove a user(s) from a topic entirely, but want to temporarily suspend their access to it.
+
+    **Note:** Please see [Understanding group user rights](/help/groups/understanding-group-user-rights) for more information on the interrelation between group rights and topic rights.
+
+    ## Related content{.mt-5}
+    - [Changing the rights of topic participants](/help/topics/changing-the-rights-of-topic-participants)
+    - [Understanding group user rights](/help/groups/understanding-group-user-rights)
+
+    { .list-arrow .list-unstyled }
+

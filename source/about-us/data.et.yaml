@@ -6,7 +6,7 @@ keywords:
   - avatud lähtekoodiga
   - kodanikualgatus
   - kodanikuliikumine
-image: /images/meta/home.jpg
+image: /assets/images/meta/home.jpg
 blocks:
   company-img:
     class:
@@ -21,9 +21,9 @@ blocks:
       Meist.
     texts:
       - |
-        Citizen OS on tasuta ja turvaline avatud lähtekoodiga platvorm kodanikualgatuste ja ühiste otsuste jaoks. Oleme tulu mittetaotlev organisatsioon.
+        Citizen OS on tasuta ja turvaline avatud lähtekoodiga platvorm kodanikualgatuste ja ühiste otsuste jaoks. Oleme tulu mittetaotlev organisatsioon. 
 
-        Meie missioon on tuua otsustamine tagasi inimeste ja nende kogukondadeni, võimestades e-demokraatiat ja arendades innovatiivset tehnoloogiat paremate ühiste otsuste tegemiseks.
+        Meie missioon on tuua otsustamine tagasi inimeste ja nende kogukondadeni, võimestades e-demokraatiat ja arendades innovatiivset tehnoloogiat paremate ühiste otsuste tegemiseks. 
 
         Külastage meie [Visiooni](/et/visioon/) ja [Projektide](/et/projektide/) lehekülgi, et saada rohkem infot selle kohta, miks ja kuidas me teeme. Vaata palun meie [Uudiste](/et/uudised/) lehekülge, et lugeda intervjuusid ja saada teada uuendustest ja inspiratsiooniks kiika meie sotsiaalmeedia kanaleid.
 

@@ -9,7 +9,7 @@ changing-the-language:
   text: |
     **You can change the language of the platform via the Main Menu.** The language you are currently using is shown near the bottom of the menu, below “Help”. Click on this language, then select your preferred language from the pop-up box.
 
-    ![Screenshot of the platform.](/images/help/language.png)
+    ![Screenshot of the platform.](/assets/images/help/language.png)
 automatic-notifications:
   path: /et/abi/yldine/automaatsed-teavitused
   data:
@@ -55,7 +55,7 @@ using-the-activity-feed:
 
     You can filter your activity feed using the dropdown box located at the top.
 
-    ![Activity feed screenshot](/images/help/activityfeed.png)
+    ![Activity feed screenshot](/assets/images/help/activityfeed.png)
 
     ## Related content{.mt-5}
     - [Viewing a topic's activity feed](/help/topics/viewing-a-topics-activity-feed/)

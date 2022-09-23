@@ -6,7 +6,7 @@ keywords:
   - civil society
   - civic activist
   - activist community
-image: /images/meta/vision.jpg
+image: /assets/images/meta/vision.jpg
 blocks:
   start-img:
     class:
@@ -15,7 +15,7 @@ blocks:
       - d-sm-block
     style:
       background-color: '#D07FB4'
-      background-image: url(/images/community-start.png)
+      background-image: url(/assets/images/community-start.png)
       background-position: left center
       background-size: cover
   start:
@@ -37,11 +37,11 @@ blocks:
     class:
       - order-2
     style:
-      background-image: url(/images/bubble-yellow.svg), url(/images/bubble-dots.png)
+      background-image: url(/assets/images/bubble-yellow.svg), url(/assets/images/bubble-dots.png)
       background-position: 90% 10%, 90% 70%
       background-size: 45px 45px, 350px 350px
     text: |
-      ![A female protestor holding up a sign saying ‘Error 155: Democracy not found’..](/images/community-issue.png){ .img-fluid }
+      ![A female protestor holding up a sign saying ‘Error 155: Democracy not found’..](/assets/images/community-issue.png){ .img-fluid }
   issue:
     class:
       - order-3
@@ -61,11 +61,11 @@ blocks:
       - py-5
     style:
       background-color: '#F7F7F7'
-      background-image: url(/images/bubble-orange.svg), url(/images/bubble-blue.svg), url(/images/bubble-dots.png)
+      background-image: url(/assets/images/bubble-orange.svg), url(/assets/images/bubble-blue.svg), url(/assets/images/bubble-dots.png)
       background-position: 90% 10%, 30% 80%, 20% 90%
       background-size: 45px 45px, 165px 165px, 350px 350px
     text: |
-      ![A group of specialists sat around a table with laptops discussing civic tech and participatory democracy.](/images/community-mission.jpg){ .img-fluid .box-shadow }
+      ![A group of specialists sat around a table with laptops discussing civic tech and participatory democracy.](/assets/images/community-mission.jpg){ .img-fluid .box-shadow }
   mission:
     class:
       - order-5
@@ -86,7 +86,7 @@ blocks:
       - py-5
       - text-center
     style:
-      background-image: url(/images/bubble-dots.png)
+      background-image: url(/assets/images/bubble-dots.png)
       background-position: center
       background-size: 450px 450px
     title: |
@@ -114,7 +114,7 @@ blocks:
       - text-center
     style:
       height: 30rem
-      background-image: url(/images/community-hactivist-community.jpg)
+      background-image: url(/assets/images/community-hactivist-community.jpg)
       background-position: center top
       background-size: cover
   hactivist-community-1:
@@ -150,11 +150,11 @@ blocks:
       - order-sm-11
       - py-5
     style:
-      background-image: url(/images/bubble-blue.svg), url(/images/bubble-yellow.svg), url(/images/bubble-dots.png)
+      background-image: url(/assets/images/bubble-blue.svg), url(/assets/images/bubble-yellow.svg), url(/assets/images/bubble-dots.png)
       background-position: 70% 90%, 30% 10%, 20% 90%
       background-size: 45px 45px, 165px 165px, 350px 350px
     text: |
-      ![Our Hacktivist Community is vibrant and has many international active partners.](/images/community-help.jpg){ .img-fluid .box-shadow }
+      ![Our Hacktivist Community is vibrant and has many international active partners.](/assets/images/community-help.jpg){ .img-fluid .box-shadow }
   help:
     class:
       - order-11
@@ -176,7 +176,7 @@ blocks:
       - text-center
     style:
       background-color: '#F7F7F7'
-      background-image: url(/images/bubble-orange.svg), url(/images/bubble-turquoise.svg), url(/images/bubble-dots.png)
+      background-image: url(/assets/images/bubble-orange.svg), url(/assets/images/bubble-turquoise.svg), url(/assets/images/bubble-dots.png)
       background-position: 90% 50%, 10% 20%, 70% 20%
       background-size: 45px 45px, 100px 100px, 350px 350px
     title: |
@@ -199,29 +199,29 @@ blocks:
       - py-5
       - text-center
     style:
-      background-image: url(/images/bubble-dots.png)
+      background-image: url(/assets/images/bubble-dots.png)
       background-position: center
       background-size: 350px 350px
     title: |
       Any questions? We’d love to chat!
     text: |
-      ![Anett Linno, Citizen OS’s Partnerships and Community Lead.](/images/community-anett.png){ .col-4 .col-md-3 .mt-4 }
+      ![Anett Linno, Citizen OS’s Partnerships and Community Lead.](/assets/images/community-anett.png){ .col-4 .col-md-3 .mt-4 }
 
       ##### **Anett Linno**
       Partnerships & Community Foundation Citizen OS
     blocks:
-      -
-        icon: /images/community-email.svg
+      - 
+        icon: /assets/images/community-email.svg
         title: anett@citizenos.com
         url: mailto:anett@citizenos.com
         alt: Email icon
-      -
-        icon: /images/community-skype.svg
+      - 
+        icon: /assets/images/community-skype.svg
         title: anettorg
         url: skype:anettorg
         alt: Skype icon
-      -
-        icon: /images/community-phone.svg
+      - 
+        icon: /assets/images/community-phone.svg
         title: +372 5669 2076
         url: tel:+37256692076
         alt: Phone icon

@@ -48,7 +48,7 @@ blocks:
       background-position: 10% 10%, 90% 10%
       background-size: 45px 45px, 350px 350px
     text: |
-      ![Aktiivinen kansalainen, joka uskoo, että osallistumalla poliittisten ongelmien ratkaisuun voi vaikuttaa.](/images/vision-individual.png){ .img-fluid }
+      ![An active citizen who believes that her participation in political issues has an impact.](/images/vision-individual.png){ .img-fluid }
   individual:
     class:
       - order-3
@@ -85,7 +85,7 @@ blocks:
       background-position: 10% 10%, 90% 10%
       background-size: 45px 45px, 350px 350px
     text: |
-      ![Kuva palavasta hehkulampusta, jonka ympärillä on neljä pientä kuplaa, joiden välillä on kuplia samaan suuntaan osoittavat nuolet.](/images/research-start.png){ .img-fluid }
+      ![An image of a lit light bulb with four smaller red bubbles surrounding it in a circle with arrows pointing from one to the next bubble.](/images/research-start.png){ .img-fluid }
   individual2:
     class:
       - order-7
@@ -104,7 +104,7 @@ blocks:
       background-position: 10% 10%, 90% 10%
       background-size: 45px 45px, 350px 350px
     text: |
-      ![Vasemmalla puolella naisen kasvot, jotka katsovat oikealla olevaa näyttöä, jossa on erilaisia ihmisiä useissa ikkunoissa.](/images/projects-pyln.jpg){ .img-fluid }
+      ![A woman's upper body on the left, the woman staring at a sceen with different people in many windows.](/images/projects-pyln.jpg){ .img-fluid }
   awareness2:
     class:
       - order-8

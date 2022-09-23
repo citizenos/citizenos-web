@@ -9,7 +9,7 @@ seeing-how-many-people-have-voted-so-far:
   text: |
     Anyone can see how many people have voted, both during and after the vote. This is displayed as an anonymous numerical result.
 
-    ![Screenshot of the platform.](/images/help/sendtofollowup.png)
+    ![Screenshot of the platform.](/assets/images/help/sendtofollowup.png)
 
     To see this:
     1. Go into the relevant topic, and make sure you are in the “Vote” tab, shown at the top.
@@ -99,17 +99,17 @@ how-to-set-up-a-vote:
 
     Here you can customise your voting settings, then click “Start voting”.
 
-    ![Screenshot of the platform.](/images/help/sendtovoting.png)
+    ![Screenshot of the platform.](/assets/images/help/sendtovoting.png)
 
     **Please note** that once the vote has started:
     - It will not be possible to edit the voting settings. You can, however, still add a voting deadline in the “Actions” part of the “Options” menu. (Right sidebar on desktop, or in the options menu tab on mobile).
     - It will no longer be possible to edit the topic text.
-### Related content{.mt-5}
-#- [Customising the voting settings](/help/voting/customising-the-voting-settings)
-#- [Setting up multiple choice voting](/help/voting/setting-up-multiple-choice-voting)
-#- [Setting up neutral votes, veto votes and vote delegation](/help/voting/setting-up-neutral-votes-veto-votes-an-vote-delegation)
-#- [Creating an inline vote in a topic text](/help/voting/creating-an-inline-vote-in-a-topic-text)
-#{ .list-arrow .list-unstyled }
+
+    ## Related content{.mt-5}
+    - [Customising the voting settings](/help/voting/customising-the-voting-settings)
+    - [Setting up multiple choice voting](/help/voting/setting-up-multiple-choice-voting)
+    - [Creating an inline vote in a topic text](/help/voting/creating-an-inline-vote-in-a-topic-text)
+    { .list-arrow .list-unstyled }
 closing-the-vote-or-setting-a-vote-deadline:
   path: /help/voting/closing-the-vote-or-setting-a-vote-deadline
   data:
@@ -119,7 +119,7 @@ closing-the-vote-or-setting-a-vote-deadline:
   text: |
     A vote can either be closed automatically, using a voting deadline, or closed manually by the admin.
 
-    ![Screenshot of the platform.](/images/help/sendtofollowup.png)
+    ![Screenshot of the platform.](/assets/images/help/sendtofollowup.png)
 
     **To manually close the vote:**
 
@@ -149,7 +149,7 @@ downloading-voting-results:
 
     The following instructions relate to votes cast using Citizen OS user IDs. Please see separate instructions if downloading digital signatures in Estonia.
 
-    ![Screenshot of the platform.](/images/help/downloadvoteresults.png)
+    ![Screenshot of the platform.](/assets/images/help/downloadvoteresults.png)
 
     How to download voting results:
 
@@ -194,28 +194,32 @@ setting-up-digital-signature-voting-for-topic-admins-estonia-only:
 
     ## Related content{.mt-5}
     - [How to vote using a digital signature (Estonia only)](/help/voting/how-to-vote-using-a-digital-signature)
-how-to-vote-using-a-digital-signature-Estonia-only:
-  path: /help/voting/how-to-vote-using-a-digital-signature
+how-to-vote-using-a-digital-signature-for-topic-participants-estonia-only:
+  path: /help/voting/how-to-vote-using-a-digital-signature-for-topic-participants-estonia-only
   data:
     category: /help/category/data.en.yaml
-    help: /help/data.et.yaml
-  title: How to vote using a digital signature (Estonia only)
+    help: /help/data.en.yaml
+  title: How to vote using a digital signature (for topic participants, Estonia only)
   text: |
-    In Estonia, it is possible for participants to add a digital signature to their votes, if this option was enabled by the admin when setting up the vote. To do this, you need to have an ID card reader, Mobile ID or Smart ID.
+    In Estonia, it is possible for participants to add a digital signature to their votes, if this option was [enabled by the admin](/help/voting/setting-up-digital-signature-voting-Estonia-only) when setting up the vote. To do this, you need to have an ID card reader, Mobile ID or Smart ID.
 
-    Here’s how:
-    1. Go into the relevant topic. (See Finding a topic).
+    Here’s how to cast a vote using a digital signature:
+
+    1. Go into the relevant topic. See [Finding a topic you are participating in](/help/topics/finding-a-topic-you-are-participating-in).
     1. Choose the option you want to vote for, and click “Submit your vote”.
     1. Select your preferred e-ID signing method.
     1. Fill the required fields and click on the “Sign” button.
     1. After signing, a “Your vote has been registered” message will appear. You can download your signed vote (as a BDOC folder) in the right hand corner of the pop-up message window.
 
     **Please note:**
-    - If you change your mind, you can change your vote by repeating the above process, as long as the vote is still open.
+
+    - **You do not need to log in using e-ID in order to vote using e-ID.** You can log in as you usually would, then use e-ID to sign the vote following the steps outlined above.
+    - If you change your mind, you can change your vote by repeating the steps outlined above, as long as the vote is still open.
     - On public topics, it is possible to vote using e-ID without logging in first, if the admin enabled e-ID voting when setting up the vote.
 
     ## Related content{.mt-5}
-    - [Finding a topic](/help/voting/finding-a-topic)
+    - [Setting up digital signature voting (for topic admins, Estonia only)](/help/voting/setting-up-digital-signature-voting-for-topic-admins-estonia-only)
+    - [Finding a topic you are participating in](/help/topics/finding-a-topic-you-are-participating-in)
     { .list-arrow .list-unstyled }
 downloading-digital-signature-vote-files:
   path: /help/voting/downloading-digital-signature-vote-files
@@ -314,13 +318,16 @@ setting-up-multiple-choice-voting:
   text: |
     As the admin of a topic, when [setting up a vote](/help/voting/how-to-set-up-a-vote), you can allow topic participants to select more than one vote response option when they vote. We call this “multiple choice voting”.
 
-    To do this you’ll need to select the “custom vote” option when customising the voting settings.
+    To do this you’ll need to select the “custom vote” option when [customising the voting settings](/help/voting/customising-the-voting-settings).
 
     **Custom vote**
 
     - In a custom vote, you have complete flexibility to add your own vote response options. Simply type the choices you wish participants to choose from into the “Step 2: Define answers” fields.
     - Just like in the regular vote, you can choose to include a “Neutral” or “Veto” option if you wish.
     - In “Step 3: Define min/max options” you can specify how many of the vote response options you want participants to be able to vote for. For example, if you have set 5 vote options in total, and you want participants to vote for at least 1 but no more than 3 of these, you would set the “Min choices” to 1 and the “Max choices” to 3.
+
+    ## Related content{.mt-5}
+    - [Customising the voting settings](/help/voting/customising-the-voting-settings)
 customising-the-voting-settings:
   path: /help/voting/customising-the-voting-settings
   data:
