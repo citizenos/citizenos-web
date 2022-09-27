@@ -11,21 +11,52 @@ changing-the-language:
 
         ![Screenshot of the platform.](/assets/images/help/language.png)
 
-automatic-notifications:
-    path: /help/general/automatic-notifications
+managing-notifications:
+    path: /help/general/managing-notifications
     data:
         category: /help/category/data.en.yaml
         help: /help/data.en.yaml
-    title: Automatic notifications
+    title: Managing notifications
     text: |
-        Email notifications are sent automatically in the three following situations:
+        The Citizen OS platform sends out automatic email notifications, so you don’t miss important activity on your topics and groups. A small number of notifications are turned on by default. Other notifications are optional, and can be opted into via the notifications management feature.
 
-        - **When a person is added to a group**, they will receive an invite via email. (Note to admins: we therefore recommend posting at least one topic in the group before inviting members, as being invited to an empty group can cause confusion.)
-        - **When a person is invited to a topic**, they will receive an invite via email.
-        - **When a new topic is added to a group**, an invitation email will be sent to all existing group members.
-        - **When an argument or comment is flagged as inappropriate**, the topic administrator/moderator and the original poster will be notified via email.
+        **Default notifications.**
 
-        There are no email notifications in any other situations. Therefore, if you want to notify topic members of any other activity (such as a topic now being open for voting, for example), you will need to contact them yourself to let them know.
+        Email notifications are sent by default to all users in the following situations:
+
+        - **When a person is added to a group,** they will receive an invite via email. (Note to admins: we therefore recommend posting at least one topic in the group before inviting members, as being invited to an empty group can cause confusion.)
+        - **When a person is invited to a topic,** they will receive an invite via email.
+        - **When a new topic is added to a group,** an invitation email will be sent to all existing group members.
+        - **When an argument or comment is flagged as inappropriate,** the topic administrator/moderator and the original poster will be notified via email.
+
+        **Optional notifications.**
+
+        There are two ways to turn on optional notifications:
+
+        - **Managing notifications for all topics at once**
+            * Go into “My Account”. You’ll find this next to your profile avatar in the main menu.
+            * Click on the “Notifications” tab.
+            * On the list of all your topics, you can toggle  notifications “ON” or “OFF” for each topic. “ON” switches all optional notifications on. “OFF” switches all optional notifications off.
+            * If you want to be more selective about exactly which notifications you turn on or off, click on “Set topic notifications”. Tick or untick the relevant categories (see below for category explanations), then click “Save”.
+        - **Managing notifications for an individual topic**
+            * Enter into the relevant topic, then click on “Set topic notifications” in the “Options” menu. (Right sidebar on desktop, or in the options menu tab on mobile).
+            * Either toggle all notifications “ON” or “OFF” at once, or tick or untick the relevant boxes (see below for category explanations). Then click “Save”.
+
+        **Notification categories explained**
+
+        Below is what each of the notification categories (in the “Notify me about” list of tick boxes) contain:
+
+        - **“All actions in this topic”.** All of the below notification categories.
+        - **“Topic updates (content, status, categories, reports etc.)”.** Any changes to the content or settings of the topic itself. For example, if someone edits the topic text, adds an attachment, reports a comment as inappropriate, makes the topic private, sends the topic to voting or follow-up, closes the vote, etc.
+        - **“Topic discussion (arguments, replies)”.** Any activity in the discussion, such as new arguments being added, or replies to arguments being posted.
+        - **“Voting”.** Any activity related to participation in the vote. For example, a user submitting a vote.
+        - **“Follow-up events”.** Any activity in the “Follow up” section of the topic. For example, when an update has been posted.
+
+        ## Related content{.mt-5}
+        - [Using the activity feed](/help/general/using-the-activity-feed)
+        - [Viewing a topic's activity feed](/help/topics/viewing-a-topics-activity-feed)
+
+
 
 using-on-mobile-devices:
     path: /help/general/using-on-mobile-devices
@@ -105,3 +136,5 @@ your-data-security:
         To better understand our platform’s usage and improve its usability, we anonymously track certain elements of user activity via Plausible. Plausible is a lightweight and open source web analytics tool which uses no cookies and is fully compliant with data protection regulations around the world.
 
         See our full [Privacy and Cookies Policy](/legal/privacy/) for further information.
+
+
