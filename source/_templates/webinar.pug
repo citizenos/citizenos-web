@@ -35,11 +35,15 @@ block content
                                 .col-1
                                     img(src='/assets/images/webinar-clock.svg', height=22, width=20)
                                 .col-auto= self.blocks.join.time
-                        if self.blocks.join.deadline
+                        if self.blocks.join.deadline || self.blocks.join.deadlineTitle
                             .row.my-2
-                                .col-1
-                                    img(src='/assets/images/webinar-alarm.svg', height=22, width=20, title='Deadline')
-                                .col-auto= self.blocks.join.deadline
+                                if self.blocks.join.deadlineTitle
+                                    .col-12
+                                        strong= self.blocks.join.deadlineTitle
+                                if self.blocks.join.deadline
+                                    .col-1
+                                        img(src='/assets/images/webinar-alarm.svg', height=22, width=20, title='Deadline')
+                                    .col-auto= self.blocks.join.deadline
                         if self.blocks.join.price
                             .row.my-2
                                 strong.col-1

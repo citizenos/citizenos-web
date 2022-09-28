@@ -165,8 +165,9 @@ blocks:
         date: 20 Jan - 17 Nov 2023
         time: Various
         price:
+        deadlineTitle: Deadline
+        deadline: 10 November, 2022
         how:
         button:
             title:
             url:
-            deadline: 10 November, 2022
