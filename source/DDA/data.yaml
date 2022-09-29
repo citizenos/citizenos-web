@@ -82,6 +82,7 @@ blocks:
 
             The DDA is divided into four phases, following design thinking principles.
 
+
             **Phase 1 | Research**
 
             **_Defining the problems for the civic engagement projects_**
@@ -146,8 +147,8 @@ blocks:
             For further information, please download the DDA Applicants Infopack.
 
             Feel free to contact **Agustina Iskandar Crombach, DDA Participant Onboarding Lead,** with any questions:
-            **Email** agustina@citizenos.com
-            **WhatsApp** +6285277600301
+            **Email:** agustina@citizenos.com
+            **WhatsApp:** +6285277600301
 
             ***********
 
@@ -155,9 +156,9 @@ blocks:
 
             The DDA is financed by the ACF Fund and the Citizen OS Foundation. ACF's operator in Estonia is Open Estonia Foundation in cooperation with the Network of Estonian Nonprofit Organizations (NENO).
 
-            ![Active Citizens Fund](/assets/images/events/dda/1. Active-citizens-fund@4x.png){ .img-fluid }
-            ![AEF logo](public/assets/images/events/dda/2. AEF_logo_mv.jpg){ .img-fluid }
-            ![Vabaühenduste Liidu Logo](public/assets/images/events/dda/3. vabauhenduste-liidu-logo-800.png){ .img-fluid }
+#            ![Active Citizens Fund](/assets/images/events/dda/1. Active-citizens-fund@4x.png){ .img-fluid }
+#            ![AEF logo](public/assets/images/events/dda/2. AEF_logo_mv.jpg){ .img-fluid }
+#            ![Vabaühenduste Liidu Logo](public/assets/images/events/dda/3. vabauhenduste-liidu-logo-800.png){ .img-fluid }
 
 
     join:
@@ -165,7 +166,7 @@ blocks:
         date: 20 Jan - 17 Nov 2023
         time: Various
         price:
-        deadlineTitle: Deadline
+        deadlineTitle: Application Deadline
         deadline: 10 November, 2022
         how:
         button:
