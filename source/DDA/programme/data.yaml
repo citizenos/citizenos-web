@@ -1,6 +1,6 @@
 path: /DDA/programme
 
-title: Democracy Defenders Accelerator<br>20 Jan - 17 Nov 2023
+title: Democracy Defenders Accelerator<br> 20 Jan - 17 Nov 2023
 description: Immersive 10-day democracy training programme ran by Citizen OS from January to November 2023
 keywords:
     - democracy training
@@ -31,8 +31,7 @@ blocks:
             - Phase II: Bootcamp
             - Phase III: Implementation
             - Phase IV: Impact
-
-            Or find out the expected outcomes for participants.
+            - Outcomes
 
     agenda:
         title: Overview
@@ -143,8 +142,9 @@ blocks:
         date: 20 Jan - 17 Nov 2023
         time: Various
         price:
+        deadlineTitle: Application Deadline
+        deadline: 10 November, 2022
         how:
         button:
             title:
             url:
-            deadline: 10 November, 2022
