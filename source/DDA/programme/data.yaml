@@ -26,23 +26,25 @@ blocks:
 
             Browse the DDA’s programme outline and agenda below:
 
-            - Overview
-            - Phase I: Research
-            - Phase II: Bootcamp
-            - Phase III: Implementation
-            - Phase IV: Impact
-            - Outcomes
+            - [Overview](#overview)
+            - [Phase I: Research](#research)
+            - [Phase II: Bootcamp](#bootcamp)
+            - [Phase III: Implementation](#implementation)
+            - [Phase IV: Impact](#impact)
+
+            Or find out the [expected outcomes](#outcomes) for participants.
 
     agenda:
-        title: Overview
         text: |
+            ## Overview  { #overview .pt-5 }
+
             Design Thinking, often applied to great effect in the private and public sectors, has also proved effective in improving the design of civic engagement projects. The Democracy Defenders Accelerator has adapted the five step process by the Hasso-Plattner Institute of Design at Stanford (d.school) to suit the programme’s needs.
 
             During the four phases of our 10-month programme, participants have the opportunity to explore and define problems in civil society and democracy in their home countries. They will also have the opportunity to continuously research, prototype and test their ideas with stakeholders. Finally, they will come together to collectively assess the impact of each project.
 
             ***********
 
-            ## Phase I: Research  { .pt-5 }
+            ## Phase I: Research  { #research .pt-5 }
 
             **Defining the problems for the civic engagement projects**
 
@@ -59,7 +61,7 @@ blocks:
 
             ***********
 
-            ## Phase II: Bootcamp  { .pt-5 }
+            ## Phase II: Bootcamp  { #bootcamp .pt-5 }
 
             **Designing the civic engagement projects**
 
@@ -86,7 +88,7 @@ blocks:
 
             ***********
 
-            ## Phase III: Implementation  { .pt-5 }
+            ## Phase III: Implementation  { #implementation .pt-5 }
 
             **Implementing the civic engagement projects**
 
@@ -107,7 +109,7 @@ blocks:
 
             ***********
 
-            ## Phase IV: Impact  { .pt-5 }
+            ## Phase IV: Impact  { #impact .pt-5 }
 
             **Measuring the impact of the civic engagement projects**
 
@@ -122,7 +124,7 @@ blocks:
 
             ***********
 
-            ## Outcomes  { .pt-5 }
+            ## Outcomes  { #outcomes .pt-5 }
 
             The main outcomes participants can expect as a result of this programme are:
 
