@@ -26,14 +26,16 @@ blocks:
 
             See our guidance on the application process below:
 
-            - Application Timeline
-            - Participant criteria
-            - How to Apply
-            - Attendance & Training Contract
+            - [Application Timeline](#application-timeline)
+            - [Participant criteria](#participant-criteria)
+            - [How to Apply](#how-to-apply)
+
+            Or find out more about [Attendance & Training Contract](#attendance).
 
     agenda:
-        title: Application Timeline
         text: |
+            ## Application Timeline { #application-timeline .pt-5 }
+
             In order to be accepted into the DDA, willing participants will need to apply through a competitive selection process.
             A selection panel will review applications. Shortlisted candidates will be contacted for a phone interview, and the final candidates will be announced via email and on Citizen OS channels.
 
@@ -48,7 +50,7 @@ blocks:
 
             ***********
 
-            ## Participant Criteria { .pt-5 }
+            ## Participant Criteria { #participant-criteria .pt-5 }
 
             - **An intermediate level of English** (at least B2), both written and oral. This will be demonstrated during interviews.
             - **An active citizen or leader** in a community, civil society group or NGO.
@@ -60,7 +62,7 @@ blocks:
             - **Aged between 20-35 years old.** (Exceptions may be possible).
 
             ***********
-            ## How to Apply { .pt-5 }
+            ## How to Apply { #how-to-apply .pt-5 }
 
             In the application, you will required to provide:
 
@@ -80,7 +82,7 @@ blocks:
 
             ***********
 
-            ## Attendance and Training Contract { .pt-5 }
+            ## Attendance and Training Contract { #attendance .pt-5 }
 
 
             Upon acceptance into the programme, **participants will be expected to purchase return travel tickets and visa** (where required) from their country of residence to Estonia, for the Democracy Defenders Bootcamp, 27 March - 5 April 2023. Participants will therefore need to confirm in the application form that they are willing and able to cover this cost. **Participation in this programme is otherwise free of charge.**
