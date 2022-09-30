@@ -71,15 +71,6 @@ block content
                             .col-12.col-lg-9
                                 +markdown(person.text)
 
-        if self.blocks && self.blocks.sponsors
-            #sponsors.row.py-5
-                .block.col-12.col-lg-6.offset-lg-1
-                    h2=self.blocks.sponsors.title
-                    +markdown(self.blocks.sponsors.text)
-                    .row.my-5
-                        each image in self.blocks.sponsors.images
-                            div(class='col-' + Math.floor(12 / self.blocks.sponsors.images.length))
-                                img.img-fluid(src=image)
 
 block stylus
     :stylus

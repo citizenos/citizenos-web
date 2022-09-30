@@ -55,6 +55,7 @@ blocks:
 
             And together, **we will become the defenders of democracy.**
 
+
     agenda:
         title: What is the DDA?
         text: |
@@ -151,17 +152,17 @@ blocks:
 
             ***********
 
-#            ![Vabaühenduste Liidu Logo](public/assets/images/events/dda/3. vabauhenduste-liidu-logo-800.png){ .img-fluid }
+            ## Funded by: { .pt-5 }
 
-    sponsors:
-        title: 'Funded by:'
-        text: |
             The DDA is financed by the ACF Fund and the Citizen OS Foundation. ACF's operator in Estonia is Open Estonia Foundation in cooperation with the Network of Estonian Nonprofit Organizations (NENO).
 
-        images:
-            - /assets/images/events/dda/acf.png
-            - /assets/images/events/dda/2-aef.jpg
-            - /assets/images/events/dda/3-vul.png
+            <img src="/assets/images/events/dda/acf.png" alt="acf" width="450"/><br>
+
+            <img src="/assets/images/events/dda/2-aef.jpg" alt="aef" width="300"/>
+            <img src="/assets/images/events/dda/3-vul.png" alt="vul" width="120"/>
+
+
+#            ![Vabaühenduste Liidu Logo](public/assets/images/events/dda/3. vabauhenduste-liidu-logo-800.png){ .img-fluid }
 
 
     join:
