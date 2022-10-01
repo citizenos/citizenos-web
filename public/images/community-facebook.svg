@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>7D702BAB-C41C-4789-983F-704C14084763@1x</title>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#0EB7FE" offset="0%"></stop>
+            <stop stop-color="#0680FC" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Website-2.0" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Media-Article" transform="translate(-1137.000000, -3459.000000)">
+            <g id="footer" transform="translate(0.000000, 3380.000000)">
+                <g id="Group-3" transform="translate(1033.000000, 39.000000)">
+                    <g id="Group-2" transform="translate(0.000000, 40.000000)">
+                        <g id="icon_footer_facebook" transform="translate(104.000000, 0.000000)">
+                            <circle id="Oval-2" fill="url(#linearGradient-1)" cx="16" cy="16" r="16"></circle>
+                            <g id="social/facebook" transform="translate(8.000000, 8.000000)" fill="#FFFFFF">
+                                <path d="M9.30086781,16 L9.30086781,8.70151121 L11.8740248,8.70151121 L12.2595669,5.8569641 L9.30086781,5.8569641 L9.30086781,4.04119742 C9.30086781,3.21776238 9.54135984,2.65665608 10.7815654,2.65665608 L12.3636364,2.65614272 L12.3636364,0.111913242 C12.0897127,0.0775178875 11.150931,-4.52303487e-14 10.0584716,-4.52303487e-14 C7.77757183,-4.52303487e-14 6.21599124,1.32550454 6.21599124,3.75987423 L6.21599124,5.8569641 L3.63636364,5.8569641 L3.63636364,8.70151121 L6.21599124,8.70151121 L6.21599124,16" id="Facebook"></path>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
