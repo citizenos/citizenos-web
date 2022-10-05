@@ -21,7 +21,7 @@ block content
                 textarea.form-control.mb-3(name='message' rows=7 placeholder=self.form.message)
                 input.form-control.mb-3(type='email' name='email' placeholder=self.form.email)
                 input.d-none(name='subject')
-                a#request-submit.request-btn.form-control(href='javascript:void(0)')= self.form.submit
+                button#request-submit.request-btn.form-control(disabled)= self.form.submit
 
         #request-success.row.mb-4.pt-5.d-none
             .col-12.col-sm-6

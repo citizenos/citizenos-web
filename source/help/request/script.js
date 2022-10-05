@@ -13,4 +13,12 @@ $(function () {
             console.log(data)
         })
     })
+
+    $('#request-form input[name="email"], #request-form textarea[name="message"]').keyup(function() {
+        if(!$('#request-form input[name="email"]').val().trim() || !$('#request-form textarea[name="message"]').val().trim()) {
+            $('#request-submit').prop('disabled', true)
+        } else {
+            $('#request-submit').prop('disabled', false)
+        }
+    })
 })
