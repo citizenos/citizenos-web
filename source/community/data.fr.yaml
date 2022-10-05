@@ -41,7 +41,7 @@ blocks:
       background-position: 90% 10%, 90% 70%
       background-size: 45px 45px, 350px 350px
     text: |
-      ![A female protestor holding up a sign saying ‘Error 155: Democracy not found’..](/assets/images/community-issue.png){ .img-fluid }
+      ![Une manifestante tenant une pancarte où est écrit : « Error 155: Democracy not found »...](/assets/images/community-issue.png){ .img-fluid }
   issue:
     class:
       - order-3
@@ -65,7 +65,7 @@ blocks:
       background-position: 90% 10%, 30% 80%, 20% 90%
       background-size: 45px 45px, 165px 165px, 350px 350px
     text: |
-      ![A group of specialists sat around a table with laptops discussing civic tech and participatory democracy.](/assets/images/community-mission.jpg){ .img-fluid .box-shadow }
+      ![Un groupe de spécialistes assis autour d'une table avec des ordinateurs portables discutant de technologie civique et de démocratie participative.](/assets/images/community-mission.jpg){ .img-fluid .box-shadow }
   mission:
     class:
       - order-5
@@ -154,7 +154,7 @@ blocks:
       background-position: 70% 90%, 30% 10%, 20% 90%
       background-size: 45px 45px, 165px 165px, 350px 350px
     text: |
-      ![Our Hacktivist Community is vibrant and has many international active partners.](/assets/images/community-help.jpg){ .img-fluid .box-shadow }
+      ![Notre communauté hacktiviste est dynamique et comporte de nombreux partenaires internationaux actifs.](/assets/images/community-help.jpg){ .img-fluid .box-shadow }
   help:
     class:
       - order-11
@@ -205,10 +205,10 @@ blocks:
     title: |
       Any questions? We’d love to chat!
     text: |
-      ![Anett Linno, Citizen OS’s Partnerships and Community Lead.](/assets/images/community-anett.png){ .col-4 .col-md-3 .mt-4 }
+      ![Anett Linno, responsable partenariats et communauté chez Citizen OS.](/assets/images/community-anett.png){ .col-4 .col-md-3 .mt-4 }
 
       ##### **Anett Linno**
-      Partnerships & Community Foundation Citizen OS
+      Partenariats & communauté, Fondation Citizen OS
     blocks:
       - 
         icon: /assets/images/community-email.svg
