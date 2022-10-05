@@ -10,17 +10,17 @@ image: /images/meta/vision.jpg
 news:
   2022-04-04:
     url: et/news/1200-citizens-attend-Indonesian-Opinion-Festival-2022
-    title: 1200 citizens attend Indonesia Opinion Festival 2022.
+    title: 1200 kodanikku osaleb Indoneesia Arvamusfestivalil 2022.
     author: Becca Melhuish
     image: /images/news/1200-citizens-attend-Indonesian-Opinion-Festival-2022.png
     categories:
       - Citizen OS uudised
       - E-demokraatia uudised
     text: |
-      Just under 1200 Indonesian citizens came together online to democratically share their opinions, insights and hopes for the future at our second Indonesia Opinion Festival.
+      Veidi alla 1200 Indoneesia kodaniku tuli kokku internetis, et jagada demokraatlikult oma arvamusi, ülevaateid ja tulevikulootusi meie teisel Indoneesia Arvamusfestivalil.
   2022-01-17:
     url: /news/our-new-government-partnership-for-youth-e-engagement-in-indonesia
-    title: Our New Government Partnership for Youth E-engagement in Indonesia.
+    title: Meie uus riiklik partnerlusprogramm Indoneesia noorte e-kaasamiseks.
     author: Indianna Knight, Becca Melhuish
     image: /images/news/our-new-government-partnership-for-youth-e-engagement-in-indonesia.jpeg
     categories:
@@ -28,7 +28,7 @@ news:
       - Case studies
       - E-democracy news
     text: |
-      Youth E-Engagement Programme is a new partnership between Citizen OS Indonesia and the Indonesian government.
+      Noorte e-kaasamise programm on Citizen OS Indoneesia ja Indoneesia valitsuse uus partnerlusprojekt.
   2022-01-16:
     url: /news/interview-imam-gunawan-indonesian-ministry-of-youth-and-sport
     title: Interview-Imam Gunawan, Indonesian Ministry of Youth and Sport.
