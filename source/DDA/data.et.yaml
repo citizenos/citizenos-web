@@ -1,58 +1,58 @@
 path: /dda
 title: Democracy Defenders Accelerator<br> 20 Jan - 17 Nov 2023
-description: Immersive 10-day democracy training programme ran by Citizen OS from January to November 2023
+description: Põhjalik kümnepäevane Citizen OS-i korraldatud demokraatiateemaline koolitusprogramm 2023. aasta jaanuarist novembrini
 keywords:
-  - democracy training
-  - participatory leadership
-  - civic hackathon
-  - Civic Engagement
-  - Civil Society
-  - activism skills
-  - activist training
-  - open society
-  - activism mentoring
-  - civil society training programme
+  - demokraatiakoolitus
+  - osalusjuhtimine
+  - kodanikuhäkaton
+  - Kodanike kaasamine
+  - Kodanikuühiskond
+  - aktivistioskused
+  - aktivistide koolitus
+  - avatud ühiskond
+  - aktivismimentorlus
+  - kodanikuühiskonna koolitusprogramm
 blocks:
   header:
     title: Democracy Defenders Accelerator
-    text: 20 Jan - 17 Nov 2023
+    text: 20. jaanuar – 17. november 2023
   text:
     title: Democracy Defenders Accelerator | DDA
     text: |
-      DDA homepage |  [Programme](/dda/programme) |  [Application guidelines](/dda/application-guidelines)
+      DDA koduleht |  [Programm](/dda/programme) |  [Taotlussuunised](/dda/application-guidelines)
 
-      Democracy is in danger, and urgently needs people to defend it.
+      Demokraatia on ohus, vajame viivitamatult inimesi, kes seda kaitseksid.
 
-      Join our 10-month accelerator programme for young activists!
+      Liitu meie 10-kuulise, noortele aktivistidele suunatud kiirendiprogrammiga!
 
-
-      ***********
-
-      **Dates**
-      20 Jan - 17 Nov 2023
-
-      **Location**
-      Mix of remote (online, every two weeks) and face-to-face (Estonia, 27 March - 5 April 2023)
-
-      **Costs**
-      Free, except travel and visa costs to enter Estonia
-
-      **Participants**
-      Young civic activists, primarily from Indonesia, USA, Albania, Georgia, Estonia and other EU/EEA countries.
 
       ***********
 
-      ## Why Defend Democracy? { .pt-5 }
+      **Kuupäevad**
+      20. jaanuar – 17. november 2023
 
-      Over recent years, rising inequality, war, natural disasters and the Covid 19 pandemic have spurred the **decline of democratic governance around the world.**
+      **Asukoht**
+      Vaheldumisi kaugkoolitus (veebis, iga kahe nädala järel) ja koolitused klassiruumis (Eestis, 27. märtsist 5. aprillini 2023)
 
-      But everywhere we look, **inspiring activists have been standing up** for human rights and environmental protection — **demonstrating the vital importance of civil society** in these challenging times.
+      **Hind**
+      Tasuta, välja arvatud reisikulud ja Eestisse sisenemiseks vajaliku viisaga seotud kulud
 
-      **To support and empower even more people to take action** in the face of the democratic decline, we have developed the Democracy Defenders Accelerator. This 10-month programme will **bring together young activists from diverse backgrounds** to learn, exchange and grow together.
+      **Osalejad**
+      Noored kodanikuaktivistid, peamiselt Indoneesiast, USA-st, Albaaniast, Georgiast, Eestist ja teistest EL-i/EMP riikidest.
 
-      And together, **we will become the defenders of democracy.**
+      ***********
+
+      ## Miks tuleks demokraatiat kaitsta? { .pt-5 }
+
+      Viimastel aastatel on kasvav ebavõrdsus, sõda, loodusõnnetused ja COVID 19 pandeemia kannustanud **demokraatliku valitsemise langust kogu maailmas.**
+
+      Kuid kõikjal, kuhu vaatame, on **inspireerivad aktivistid seisnud** inimõiguste ja keskkonnakaitse eest, **näidates kodanikuühiskonna ülimat tähtsust** praegusel keerulisel ajal.
+
+      **Selleks, et toetada ja volitada veelgi rohkem inimesi tegutsema** demokraatia languse tingimustes, oleme välja töötanud algatuse Democracy Defenders Accelerator. See 10-kuuline programm **ühendab erineva taustaga noori aktiviste**, et õppida, teadmisi vahetada ja koos areneda.
+
+      Ning üheskoos **saavad meist demokraatia kaitsjad.**
   agenda:
-    title: What is the DDA?
+    title: Mis on DDA?
     text: |
       The Democracy Defenders Accelerator aims to create a world in which **active young citizens are empowered** to **defend the principles of an open society, democratic values ​​and a well-functioning civil society.**
 
@@ -161,14 +161,14 @@ blocks:
       <img src="/assets/images/events/dda/3-vul.png" alt="vul" width="120"/>
   #![Vabaühenduste Liidu Logo](public/assets/images/events/dda/3. vabauhenduste-liidu-logo-800.png){ .img-fluid }
   join:
-    title: Apply for the DDA
-    date: 20 Jan - 17 Nov 2023
-    time: Various
+    title: Kandideeri DDA-sse
+    date: 20. jaanuar – 17. november 2023
+    time: Mitmesugust
     price:
-    deadlineTitle: Application Deadline
-    deadline: 10 November, 2022
+    deadlineTitle: Taotlemistähtaeg
+    deadline: 10. november 2022
     how:
     button:
-      title: Apply now
+      title: Esita oma taotlus nüüd
       url: https://forms.gle/kpRzW8KbcciAApED7
 

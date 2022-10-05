@@ -48,7 +48,7 @@ blocks:
       background-position: 10% 10%, 90% 10%
       background-size: 45px 45px, 350px 350px
     text: |
-      ![An active citizen who believes that her participation in political issues has an impact.](/images/vision-individual.png){ .img-fluid }
+      ![Une citoyenne active qui croit que sa participation aux questions politiques a un impact.](/images/vision-individual.png){ .img-fluid }
   individual:
     class:
       - order-3
@@ -85,7 +85,7 @@ blocks:
       background-position: 10% 10%, 90% 10%
       background-size: 45px 45px, 350px 350px
     text: |
-      ![An image of a lit light bulb with four smaller red bubbles surrounding it in a circle with arrows pointing from one to the next bubble.](/images/research-start.png){ .img-fluid }
+      ![Image d'une ampoule électrique allumée avec quatre petites bulles rouges l'entourant en cercle, avec des flèches pointant d'une bulle à l'autre.](/images/research-start.png){ .img-fluid }
   individual2:
     class:
       - order-7
@@ -104,7 +104,7 @@ blocks:
       background-position: 10% 10%, 90% 10%
       background-size: 45px 45px, 350px 350px
     text: |
-      ![A woman's upper body on the left, the woman staring at a sceen with different people in many windows.](/images/projects-pyln.jpg){ .img-fluid }
+      ![Le haut du corps d'une femme sur la gauche, la femme fixant un écran avec différentes personnes dans plusieurs fenêtres.](/images/projects-pyln.jpg){ .img-fluid }
   awareness2:
     class:
       - order-8
