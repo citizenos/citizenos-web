@@ -14,7 +14,6 @@ sections:
                 title: Watch demo
                 icon: play
                 url: '#UC44qCCIixE'
-                target: _blank
             platform:
                 title: Use platform
                 icon: arrow-right
