@@ -30,8 +30,8 @@ languages:
   ua: Українська
 selectLanguage: Langues
 donateLink:
-  title: Donate
-  url: /donate/
+  title: Faire un don
+  url: /faire un don/
 productLink:
   title: Utiliser la plateforme
   url: https://app.citizenos.com/fr/
@@ -63,11 +63,11 @@ footer:
       title: Support
       links:
         donate:
-          title: Donate
-          url: /donate/
+          title: Faire un don
+          url: /faire un don/
         guides:
-          title: Help Centre
-          url: /help/
+          title: Centre d'aide
+          url: /aide/
         legal:
           title: Légal
           url: /fr/legal/

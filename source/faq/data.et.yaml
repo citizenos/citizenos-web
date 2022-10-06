@@ -38,7 +38,7 @@ blocks:
     style:
       background-color: '#FFFFFF'
     text: |
-      ![Screenshot of the platform.](/assets/images/faq10-cos-funding.png){ .img-fluid .box-shadow }
+      ![Kuvatõmmis platvormist](/assets/images/faq10-cos-funding.png){ .img-fluid .box-shadow }
   fund:
     class: faq-text
     style:
