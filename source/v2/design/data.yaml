@@ -426,7 +426,7 @@ sections:
             Consequat occaecat magna incididunt magna adipisicing voluptate dolore consectetur in. Mollit amet id minim excepteur anim laboris enim et ea tempor mollit. Id nisi commodo minim sunt laboris officia elit occaecat deserunt.
         mediaLeft: true
         image: https://placekitten.com/400/300
-        video: https://www.youtube.com/watch?v=UC44qCCIixE
+        video: UC44qCCIixE
 
     sectionMediaImage:
         type: media
@@ -450,7 +450,7 @@ sections:
                     Do ullamco fugiat enim et officia ad cupidatat dolore.
                 mediaLeft: true
                 image: /v2/images/illustrations/video.svg
-                video: https://www.youtube.com/watch?v=UC44qCCIixE
+                video: UC44qCCIixE
             ```
 
             **.pug**
