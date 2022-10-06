@@ -30,8 +30,8 @@ languages:
   ua: Українська
 selectLanguage: Kielet
 donateLink:
-  title: Donate
-  url: /donate/
+  title: Lahjoita
+  url: /lahjoita/
 productLink:
   title: Käytä alustaa
   url: https://app.citizenos.com/fi/
@@ -63,8 +63,8 @@ footer:
       title: Tuki
       links:
         donate:
-          title: Donate
-          url: /donate/
+          title: Lahjoita
+          url: /lahjoita/
         guides:
           title: Ohjekeskus
           url: /help/
