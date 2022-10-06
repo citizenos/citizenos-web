@@ -125,6 +125,10 @@ sections:
                 image: /v2/images/illustrations/civic-movements.svg
                 text: |
                     These changemakers use the Citizen OS platform to initiate public discussions and collect ideas on the topics that they stand for, be it the protection of flying squirrels, women rights or the ethics of AI. They send the result of the discussions to the local government or other decision-makers to amend the law or change regulations. They often also use the platform internally, to engage their members in decisions relating to their organisation.
+                textMore: |
+                    Ut mollit officia adipisicing eu deserunt officia sunt occaecat ea sint adipisicing. Et consectetur velit occaecat ut cupidatat enim exercitation esse excepteur voluptate ea sunt culpa. Culpa deserunt officia irure eu do amet anim eiusmod consectetur ullamco.
+
+                    Quis nisi officia elit veniam esse do laborum ad tempor pariatur et. Proident velit eiusmod voluptate excepteur. Ullamco eu non veniam quis deserunt duis.
                 link:
                     title: Read more
                     url: ./#

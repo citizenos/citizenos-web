@@ -114,17 +114,19 @@ sections:
                 image: /v2/images/illustrations/civic-movements.svg
                 text: |
                     Aute velit sint ut adipisicing dolore. Dolor consectetur labore deserunt sint consequat commodo ullamco exercitation consectetur qui qui nisi irure quis. Laboris ad officia do et ex pariatur et officia mollit et aliquip enim consectetur.
+                textMore: |
+                    Ut mollit officia adipisicing eu deserunt officia sunt occaecat ea sint adipisicing. Et consectetur velit occaecat ut cupidatat enim exercitation esse excepteur voluptate ea sunt culpa. Culpa deserunt officia irure eu do amet anim eiusmod consectetur ullamco.
                 link:
                     title: Some link
-                    url: https://google.com
             two:
                 title: Two
                 image: /v2/images/illustrations/active-citizens.svg
                 text: |
                     Tempor proident ut tempor magna quis reprehenderit duis est veniam incididunt. Minim ipsum proident officia commodo amet. Irure laboris consequat voluptate irure Lorem. Voluptate ex reprehenderit velit laboris consequat reprehenderit pariatur minim duis eiusmod culpa aliquip cillum.
+                textMore: |
+                    Quis nisi officia elit veniam esse do laborum ad tempor pariatur et. Proident velit eiusmod voluptate excepteur. Ullamco eu non veniam quis deserunt duis.
                 link:
                     title: Some other link
-                    url: https://google.com
             three:
                 title: Three
                 image: /v2/images/illustrations/professionals.svg
@@ -132,12 +134,15 @@ sections:
                     Pariatur sint minim sint ea irure ad dolore. Pariatur sint magna ullamco consequat quis. Do mollit ex et dolore consequat. Qui excepteur exercitation qui ea laboris in esse cillum.
                 link:
                     title: Some other link
-                    url: https://google.com
             four:
                 title: Four
                 image: /v2/images/illustrations/politics.svg
                 text: |
                     Officia eiusmod incididunt adipisicing irure deserunt et dolor enim. Duis do est adipisicing et deserunt est sit in exercitation culpa cupidatat adipisicing in tempor. In cillum et ut sit dolor adipisicing. Sint veniam cupidatat sint ut excepteur minim amet ut incididunt minim cupidatat fugiat.
+                textMore: |
+                    Aliqua culpa est proident in aliquip enim quis duis. Lorem non ad dolore consectetur occaecat sit aute labore ullamco. Ut id velit ad nisi veniam amet magna irure ipsum esse nisi anim quis non. Qui eiusmod exercitation id sit in commodo tempor laborum ad. Do cupidatat tempor est qui culpa in ea ipsum occaecat voluptate.
+
+                    Incididunt minim esse id reprehenderit duis eiusmod do do ullamco deserunt dolor culpa culpa. Elit consequat consequat cillum proident sint sunt tempor ullamco eu sunt. Magna aute commodo ex reprehenderit sint.
 
     section2ColumnsCode:
         type: example
@@ -157,17 +162,19 @@ sections:
                         image: /v2/images/illustrations/civic-movements.svg
                         text: |
                             Aute velit sint ut adipisicing dolore. Dolor consectetur labore deserunt sint consequat commodo ullamco exercitation consectetur qui qui nisi irure quis. Laboris ad officia do et ex pariatur et officia mollit et aliquip enim consectetur.
+                        textMore: |
+                            Ut mollit officia adipisicing eu deserunt officia sunt occaecat ea sint adipisicing. Et consectetur velit occaecat ut cupidatat enim exercitation esse excepteur voluptate ea sunt culpa. Culpa deserunt officia irure eu do amet anim eiusmod consectetur ullamco.
                         link:
                             title: Some link
-                            url: https://google.com
                     two:
                         title: Two
                         image: /v2/images/illustrations/active-citizens.svg
                         text: |
                             Tempor proident ut tempor magna quis reprehenderit duis est veniam incididunt. Minim ipsum proident officia commodo amet. Irure laboris consequat voluptate irure Lorem. Voluptate ex reprehenderit velit laboris consequat reprehenderit pariatur minim duis eiusmod culpa aliquip cillum.
+                        textMore: |
+                            Quis nisi officia elit veniam esse do laborum ad tempor pariatur et. Proident velit eiusmod voluptate excepteur. Ullamco eu non veniam quis deserunt duis.
                         link:
                             title: Some other link
-                            url: https://google.com
                     three:
                         title: Three
                         image: /v2/images/illustrations/professionals.svg
@@ -175,12 +182,15 @@ sections:
                             Pariatur sint minim sint ea irure ad dolore. Pariatur sint magna ullamco consequat quis. Do mollit ex et dolore consequat. Qui excepteur exercitation qui ea laboris in esse cillum.
                         link:
                             title: Some other link
-                            url: https://google.com
                     four:
                         title: Four
                         image: /v2/images/illustrations/politics.svg
                         text: |
                             Officia eiusmod incididunt adipisicing irure deserunt et dolor enim. Duis do est adipisicing et deserunt est sit in exercitation culpa cupidatat adipisicing in tempor. In cillum et ut sit dolor adipisicing. Sint veniam cupidatat sint ut excepteur minim amet ut incididunt minim cupidatat fugiat.
+                        textMore: |
+                            Aliqua culpa est proident in aliquip enim quis duis. Lorem non ad dolore consectetur occaecat sit aute labore ullamco. Ut id velit ad nisi veniam amet magna irure ipsum esse nisi anim quis non. Qui eiusmod exercitation id sit in commodo tempor laborum ad. Do cupidatat tempor est qui culpa in ea ipsum occaecat voluptate.
+
+                            Incididunt minim esse id reprehenderit duis eiusmod do do ullamco deserunt dolor culpa culpa. Elit consequat consequat cillum proident sint sunt tempor ullamco eu sunt. Magna aute commodo ex reprehenderit sint.
             ```
 
             **.pug**

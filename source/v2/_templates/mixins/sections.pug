@@ -117,10 +117,10 @@ mixin section-example(data = {})
         +markdown(data.text)
 
 mixin section-2-columns(data = {})
-    - data = { ...data, ...attributes }
+    - data = { id: `${data.type}-${Math.floor(Math.random() * 10000)}`, ...data, ...attributes }
     +section-layout(data)
         .grid.grid-cols-1.lg_grid-cols-2.gap-10
-            for col in data.columns
+            for col, idx in data.columns
                 div
                     if col.image
                         img.md_float-left.w-28.aspect-square.mr-4.mb-6.md_mb-4.object-fit.bg-white.rounded-2xl(class='md_max-w-1/3' src=col.image)
@@ -128,10 +128,12 @@ mixin section-2-columns(data = {})
                         h3.lg_h-28.mb-4.flex.items-center.text-xl.font-semibold= col.title
                     .md_ml-32.lg_ml-0
                         +markdown(col.text)
-                        if col.link
-                            a.flex.items-center.font-bold.text-yellow-700(href=col.link.url)
+                        if col.link && col.textMore
+                            a.flex.items-center.font-bold.text-yellow-700(href='javascript:void(0)' onclick=`document.getElementById('${data.id}-col-${idx}').classList.remove('hidden');this.classList.add('hidden')`)
                                 = col.link.title
                                 +icon.h-6.w-6.ml-2.text-black(type='arrow-small-down')
+                        .hidden(id=`${data.id}-col-${idx}`)
+                            +markdown(col.textMore)
 
 mixin section-3-columns(data = {})
     - data = { ...data, ...attributes }
