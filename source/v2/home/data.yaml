@@ -13,7 +13,7 @@ sections:
                 color: black
                 title: Watch demo
                 icon: play
-                url: https://www.youtube.com/watch?v=UC44qCCIixE
+                url: '#UC44qCCIixE'
                 target: _blank
             platform:
                 title: Use platform
@@ -66,7 +66,7 @@ sections:
             **For better quality decisions**
 
             The more people who participate in the decision-making process, the higher the quality of decisions. On the Citizen OS platform you can ask everyone's opinion on the topics that affect their own lives and well-being.
-        video: https://www.youtube.com/watch?v=UC44qCCIixE
+        video: UC44qCCIixE
 
     features:
         type: accordion
