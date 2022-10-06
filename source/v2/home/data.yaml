@@ -157,24 +157,24 @@ sections:
                     title: Read more
                     url: ./#
 
-    templates:
-        type: 4-columns
-        title: Quick-start with our templates
-        text: |
-            It is our mission to empower as many people as possible to participate in respectful, meaningful discussions in order to collaboratively decide in issues that affect their wellbeing.
-        columns:
-            one:
-                title: (Co)create a document
-                image: /v2/images/illustrations/empty.svg
-            two:
-                title: Start discussion
-                image: /v2/images/illustrations/empty.svg
-            three:
-                title: Gather ideas
-                image: /v2/images/illustrations/empty.svg
-            four:
-                title: Have a vote
-                image: /v2/images/illustrations/empty.svg
+    # templates:
+    #     type: 4-columns
+    #     title: Quick-start with our templates
+    #     text: |
+    #         It is our mission to empower as many people as possible to participate in respectful, meaningful discussions in order to collaboratively decide in issues that affect their wellbeing.
+    #     columns:
+    #         one:
+    #             title: (Co)create a document
+    #             image: /v2/images/illustrations/empty.svg
+    #         two:
+    #             title: Start discussion
+    #             image: /v2/images/illustrations/empty.svg
+    #         three:
+    #             title: Gather ideas
+    #             image: /v2/images/illustrations/empty.svg
+    #         four:
+    #             title: Have a vote
+    #             image: /v2/images/illustrations/empty.svg
 
     what-motivates:
         type: 3-columns
