@@ -22,7 +22,7 @@ block content
         .row.mb-4.pt-5
             h2.col-12= self.data.help.search.title
             form.col-12.col-sm-6(action=self.data.help.search.url)
-                input#search.form-control(type='search' name='q' placeholder=self.data.help.search.placeholder autofocus)
+                input#search.form-control(type='search' name='q' placeholder=self.data.help.search.placeholder autofocus autocomplete='off' readonly onfocus='this.removeAttribute("readonly")')
 
         - delete self.data.category.multipage
         each category in self.data.category
