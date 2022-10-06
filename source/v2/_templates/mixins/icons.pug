@@ -50,6 +50,10 @@ mixin icon(data = {})
             svg(class=data.class viewBox='0 0 24 24' xmlns='http://www.w3.org/2000/svg')
                 path(d='M8 6.82v10.36c0 .79.87 1.27 1.54.84l8.14-5.18a1 1 0 0 0 0-1.69L9.54 5.98A.998.998 0 0 0 8 6.82z' fill='currentColor')
 
+        when 'play-back'
+            svg(class=data.class viewBox='0 0 24 24' xmlns='http://www.w3.org/2000/svg' style='transform:rotate(180deg)')
+                path(d='M8 6.82v10.36c0 .79.87 1.27 1.54.84l8.14-5.18a1 1 0 0 0 0-1.69L9.54 5.98A.998.998 0 0 0 8 6.82z' fill='currentColor')
+
         when 'voting'
             svg(class=data.class viewBox='0 0 24 24' xmlns='http://www.w3.org/2000/svg')
                 path(fill-rule='evenodd' clip-rule='evenodd' d='M0 12C0 5.376 5.376 0 12 0C18.624 0 24 5.376 24 12C24 18.624 18.624 24 12 24C5.376 24 0 18.624 0 12ZM3.6 12L9.6 18L20.4 7.2L18.708 5.496L9.6 14.604L5.292 10.308L3.6 12Z' fill='currentColor')

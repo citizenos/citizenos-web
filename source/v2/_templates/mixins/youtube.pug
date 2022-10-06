@@ -17,7 +17,6 @@ mixin youtube(data = {})
         }, false)
 
         document.addEventListener('click', function (event) {
-            console.log(event.target)
             if (event.target.matches('##{data.video} > .fixed > .flex')) stopVideo()
         }, false)
 

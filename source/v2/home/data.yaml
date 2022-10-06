@@ -176,14 +176,25 @@ sections:
     #             image: /v2/images/illustrations/empty.svg
 
     what-motivates:
-        type: 3-columns
+        type: carousel
         color: green
         title: What motivates us
         text: |
             We love getting feedback from you - this is what lights us up the brightest. Here's what some of our users have shared:
-        columns:
+        items:
             one:
-                image: /v2/images/illustrations/empty.svg
+                title: Anett
+                subTitle: ......
+                image: /images/team/anett-avatar.jpg
+                text: |
+                    Esse commodo velit labore eiusmod tempor cupidatat do officia aliqua. Velit tempor enim duis dolor exercitation mollit occaecat nostrud. Voluptate consectetur reprehenderit id sunt anim. Aliqua officia esse ullamco anim incididunt esse enim qui.
+
+            two:
+                title: Anett
+                subTitle: ......
+                image: /images/team/anett-avatar.jpg
+                text: |
+                    Esse commodo velit labore eiusmod tempor cupidatat do officia aliqua. Velit tempor enim duis dolor exercitation mollit occaecat nostrud. Voluptate consectetur reprehenderit id sunt anim. Aliqua officia esse ullamco anim incididunt esse enim qui.
 
     stats:
         type: stats
@@ -214,8 +225,7 @@ sections:
                 color: black
                 title: Watch demo
                 icon: play
-                url: https://www.youtube.com/watch?v=UC44qCCIixE
-                target: _blank
+                url: '#UC44qCCIixE'
             platform:
                 title: Use platform
                 icon: arrow-right

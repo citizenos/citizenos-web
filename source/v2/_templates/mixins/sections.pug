@@ -23,6 +23,8 @@ mixin section(data = {})
             +section-accordion(data)
         when 'stats'
             +section-stats(data)
+        when 'carousel'
+            +section-carousel(data)
         when 'custom'
             +section-custom(data)
 
@@ -210,7 +212,7 @@ mixin section-accordion(data = {})
         delete sectionData.title
         delete sectionData.text
 
-        const id = `accordion-${Math.round(Math.random() * 1000)}`
+        const id = `accordion-${Math.floor(Math.random() * 10000)}`
     +section-layout(sectionData)
         .grid.grid-cols-1.lg_grid-cols-2.gap-10
             .hidden.lg_block
@@ -266,7 +268,7 @@ mixin section-stats(data = {})
     -
         data = { ...data, ...attributes }
 
-        const id = `stats-${Math.round(Math.random() * 1000)}`
+        const id = `stats-${Math.floor(Math.random() * 10000)}`
     +section-layout({ left: true, ...data })
         .grid.grid-cols-1.md_grid-cols-2.lg_grid-cols-4.gap-2.md_gap-12.lg_gap-10
             for col, idx in data.columns
@@ -302,6 +304,73 @@ mixin section-stats(data = {})
                     }
 
                     updateCount()
+                })
+            })
+
+mixin section-carousel(data = {})
+    -
+        data = { ...data, ...attributes }
+
+        const id = `carousel-${Math.floor(Math.random() * 10000)}`
+    +section-layout(data)
+        .relative.bg-center.bg-no-repeat.bg-contain(style='background-image:url(/v2/images/illustrations/carousel-bg.svg)')
+            .hidden.md_block.absolute.top-0.bottom-0.bg-gradient-to-r.from-green-50.to-transparent(class='w-1/12')
+            .w-full.py-14.md_py-28.flex.gap-6.snap-x.snap-mandatory.overflow-x-auto.no-scrollbar(id=id)
+                .hidden.md_block.snap-center.shrink-0(class='w-1/6')
+
+                each item in data.items
+                    .w-full.p-10.snap-center.shrink-0.bg-white.rounded-2xl(class='md_w-2/3')
+                        .h-20.flex.items-center.gap-4
+                            if item.image
+                                img.h-20.w-20.rounded-full(src=item.image)
+                            .grow
+                                if item.title
+                                    .font-bold= item.title
+                                if item.subTitle
+                                    .italic.text-grey-700= item.subTitle
+                            .h-16.w-16.object-contain.text-green-100
+                                svg(viewBox='0 0 83 64' fill='none' xmlns='http://www.w3.org/2000/svg')
+                                    path(d='M4.55133 64C25.0323 53.1911 39.8241 35.2711 39.8241 19.3422C39.8241 7.68 31.8593 0 21.3343 0C11.0939 0 2.84458 7.39556 2.84458 18.2044C2.84458 26.7378 8.53374 33.8489 17.3519 35.2711C14.7918 43.2356 6.82699 52.0533 0 57.7422L4.55133 64ZM47.7272 64C68.2082 53.1911 83 35.2711 83 19.3422C83 7.68 75.0352 0 64.5102 0C54.2698 0 46.0205 7.39556 46.0205 18.2044C46.0205 26.7378 51.7096 33.8489 60.2434 35.2711C57.9677 43.2356 50.0029 52.0533 43.1759 57.7422L47.7272 64Z' fill='currentColor')
+                        .mt-6
+                            +markdown(item.text)
+
+                .hidden.md_block.snap-center.shrink-0(class='w-1/6')
+            .hidden.md_block.absolute.right-0.top-0.bottom-0.bg-gradient-to-r.from-transparent.to-green-50(class='w-1/12')
+        .flex.items-center.justify-center.gap-10
+            +button(id=`${id}-previous` color='black' icon='play-back')
+            - idx = 0
+            .flex.items-center.justify-center.gap-2
+                each item in data.items
+                    .h-2.w-2.bg-green-500.rounded-full(id=`${id}-dot-${idx}` class={ 'opacity-30': idx > 0 })
+                    - idx += 1
+            +button(id=`${id}-next` color='black' icon='play')
+
+        script.
+            document.getElementById('#{id}').addEventListener('scroll', function () {
+                for (let i = 0; i < #{idx}; ++i) {
+                    document.getElementById(`#{id}-dot-${i}`).classList.add('opacity-30')
+                }
+
+                const dot = Math.round(this.scrollLeft / (this.offsetWidth / 3 * 2))
+
+                document.getElementById(`#{id}-dot-${dot}`).classList.remove('opacity-30')
+            })
+
+            document.getElementById('#{id}-previous').addEventListener('click', function () {
+                const carousel = document.getElementById('#{id}')
+
+                document.getElementById('#{id}').scroll({
+                    left: carousel.scrollLeft - carousel.offsetWidth / 3 * 2,
+                    behavior: 'smooth'
+                })
+            })
+
+            document.getElementById('#{id}-next').addEventListener('click', function () {
+                const carousel = document.getElementById('#{id}')
+
+                document.getElementById('#{id}').scroll({
+                    left: carousel.scrollLeft + carousel.offsetWidth / 3 * 2,
+                    behavior: 'smooth'
                 })
             })
 

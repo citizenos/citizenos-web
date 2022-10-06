@@ -518,6 +518,91 @@ sections:
 
 
 
+    sectionCarouselExample:
+        type: carousel
+        color: green
+        title: Carousel
+        text: |
+            Et adipisicing ut elit reprehenderit consectetur labore dolore sint sit excepteur aute ut in. Sunt est et esse velit dolore. Exercitation ullamco esse magna ut nisi tempor aliqua velit ad elit irure ad quis. Do do minim laboris in quis ut. Esse exercitation velit dolor et. Ut adipisicing elit cillum voluptate ex officia aliquip exercitation qui ullamco sint do in pariatur. Nulla duis fugiat velit sint minim eiusmod consequat in.
+        items:
+            one:
+                title: Anett
+                subTitle: ......
+                image: /images/team/anett-avatar.jpg
+                text: |
+                    Esse commodo velit labore eiusmod tempor cupidatat do officia aliqua. Velit tempor enim duis dolor exercitation mollit occaecat nostrud. Voluptate consectetur reprehenderit id sunt anim. Aliqua officia esse ullamco anim incididunt esse enim qui.
+
+            two:
+                title: Votes
+                subTitle: Votes
+                text: |
+                    Occaecat mollit sunt consequat eu elit non adipisicing Lorem in mollit. Fugiat mollit fugiat cupidatat fugiat. Laboris ullamco do laborum nisi irure tempor aliquip et ad id do est ullamco. Lorem non proident adipisicing nisi esse laborum sint cupidatat eiusmod qui labore qui sint. Nisi excepteur do veniam adipisicing proident eu Lorem esse irure culpa et dolor pariatur.
+
+                    Eu nostrud irure mollit eiusmod adipisicing consectetur reprehenderit adipisicing minim tempor laboris nulla fugiat in. Minim eu eu eu ea sunt mollit elit enim laborum mollit laborum. Nostrud occaecat incididunt consequat esse veniam proident in ut.
+            three:
+                title: Groups
+                subTitle: Groups
+                text: |
+                    Fugiat quis est pariatur consectetur sit irure ex mollit minim occaecat fugiat sit culpa Lorem. Fugiat minim ullamco velit adipisicing labore culpa et aute enim aliqua deserunt. Irure officia minim sint culpa amet officia consectetur. Lorem magna et labore proident adipisicing qui aliquip id. Aliquip officia proident tempor nisi commodo deserunt cillum laboris adipisicing.
+
+                    Est amet consequat culpa eu sit aliquip in voluptate. Eu in fugiat proident do et magna sint. Ullamco ad commodo dolore incididunt veniam proident pariatur nostrud labore ullamco.
+
+            four:
+                title: Users
+                subTitle: Users
+                text: |
+                    Aute magna sunt elit aliquip qui proident quis. In incididunt amet consectetur officia proident ullamco magna non non adipisicing. Et ex elit enim sit exercitation excepteur quis eu amet magna culpa aliquip dolor.
+
+
+    sectionCarouselCode:
+        type: example
+        color: grey
+        text: |
+            **.yaml**
+            ```yaml
+            myCarousel:
+                type: carousel
+                color: green
+                title: Carousel
+                text: |
+                    Et adipisicing ut elit reprehenderit consectetur labore dolore sint sit excepteur aute ut in. Sunt est et esse velit dolore. Exercitation ullamco esse magna ut nisi tempor aliqua velit ad elit irure ad quis. Do do minim laboris in quis ut. Esse exercitation velit dolor et. Ut adipisicing elit cillum voluptate ex officia aliquip exercitation qui ullamco sint do in pariatur. Nulla duis fugiat velit sint minim eiusmod consequat in.
+                items:
+                    one:
+                        title: Anett
+                        subTitle: ......
+                        image: /images/team/anett-avatar.jpg
+                        text: |
+                            Esse commodo velit labore eiusmod tempor cupidatat do officia aliqua. Velit tempor enim duis dolor exercitation mollit occaecat nostrud. Voluptate consectetur reprehenderit id sunt anim. Aliqua officia esse ullamco anim incididunt esse enim qui.
+
+                    two:
+                        title: Votes
+                        subTitle: Votes
+                        text: |
+                            Occaecat mollit sunt consequat eu elit non adipisicing Lorem in mollit. Fugiat mollit fugiat cupidatat fugiat. Laboris ullamco do laborum nisi irure tempor aliquip et ad id do est ullamco. Lorem non proident adipisicing nisi esse laborum sint cupidatat eiusmod qui labore qui sint. Nisi excepteur do veniam adipisicing proident eu Lorem esse irure culpa et dolor pariatur.
+
+                            Eu nostrud irure mollit eiusmod adipisicing consectetur reprehenderit adipisicing minim tempor laboris nulla fugiat in. Minim eu eu eu ea sunt mollit elit enim laborum mollit laborum. Nostrud occaecat incididunt consequat esse veniam proident in ut.
+                    three:
+                        title: Groups
+                        subTitle: Groups
+                        text: |
+                            Fugiat quis est pariatur consectetur sit irure ex mollit minim occaecat fugiat sit culpa Lorem. Fugiat minim ullamco velit adipisicing labore culpa et aute enim aliqua deserunt. Irure officia minim sint culpa amet officia consectetur. Lorem magna et labore proident adipisicing qui aliquip id. Aliquip officia proident tempor nisi commodo deserunt cillum laboris adipisicing.
+
+                            Est amet consequat culpa eu sit aliquip in voluptate. Eu in fugiat proident do et magna sint. Ullamco ad commodo dolore incididunt veniam proident pariatur nostrud labore ullamco.
+
+                    four:
+                        title: Users
+                        subTitle: Users
+                        text: |
+                            Aute magna sunt elit aliquip qui proident quis. In incididunt amet consectetur officia proident ullamco magna non non adipisicing. Et ex elit enim sit exercitation excepteur quis eu amet magna culpa aliquip dolor.
+            ```
+
+            **.pug**
+            ```pug
+            +section(self.myStats)
+            ```
+
+
+
     sectionButtonsExample:
         type: custom
         title: Buttons
