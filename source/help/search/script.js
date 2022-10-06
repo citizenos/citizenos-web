@@ -10,7 +10,7 @@ $(function () {
     filter()
 
     function filter() {
-        var search = $('#search').val().toLowerCase().split(' ').filter(x => !!x)
+        var search = [...new Set($('#search').val().toLowerCase().replace(/[.,\/#!$%\^&\*;:{}=\-_`~()"'\t\n\r]/g, '').replace(/\s{2,}/g, ' ').split(' '))].filter(x => !!x)
 
         plausible('Help', { props: { Search: search.join(' ') } })
 
