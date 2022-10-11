@@ -95,7 +95,7 @@ blocks:
       Osalejatel on võimalus "häkkida" kodanikuaktiivsust ja arutelusid nii veebis kui ka väljaspool seda.
     button1st:
       title: Vaata lisa
-      url: /civic-hackathon/
+      url: /kodanikuhakaton/
   awarness2-img:
     class:
       - order-9

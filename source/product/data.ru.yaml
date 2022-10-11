@@ -166,7 +166,7 @@ blocks:
       - order-7
       - order-sm-7
     text: |
-      ![Many indonesians smiling, wearing World Cleanup Day shirts, walking on a beach, carrying bags full of plastic garbage.](/images/product-case-study.jpeg){ .img-fluid .box-shadow }
+      ![Индонезийцы улыбаются, на них футболки Всемирного дня чистоты, они идут по пляжу, в руках у них пакеты с пластиковым мусором.](/images/product-case-study.jpeg){ .img-fluid .box-shadow }
   case-study:
     class:
       - order-8
