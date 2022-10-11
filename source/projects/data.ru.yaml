@@ -104,7 +104,7 @@ blocks:
       background-position: 10% 10%, 90% 10%
       background-size: 45px 45px, 350px 350px
     text: |
-      ![A woman's upper body on the left, the woman staring at a sceen with different people in many windows.](/images/projects-pyln.jpg){ .img-fluid }
+      ![Портрет женщины, которая смотрит на экран, на экране открыто много окон с разными людьми.](/images/projects-pyln.jpg){ .img-fluid }
   awareness2:
     class:
       - order-8
