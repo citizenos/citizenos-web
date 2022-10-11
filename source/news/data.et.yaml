@@ -25,30 +25,30 @@ news:
     image: /images/news/our-new-government-partnership-for-youth-e-engagement-in-indonesia.jpeg
     categories:
       - Citizen OS uudised
-      - Case studies
-      - E-democracy news
+      - Juhtumiuuringud
+      - E-demokraatia uudised
     text: |
       Noorte e-kaasamise programm on Citizen OS Indoneesia ja Indoneesia valitsuse uus partnerlusprojekt.
   2022-01-16:
     url: /news/interview-imam-gunawan-indonesian-ministry-of-youth-and-sport
-    title: Interview-Imam Gunawan, Indonesian Ministry of Youth and Sport.
+    title: Intervjuu - Imam Gunawan, Indoneesia noorsoo- ja spordiministeerium.
     author: Agustina Iskandar Crombach
     image: /images/news/imam.jpeg
     categories:
       - Citizen OS uudised
-      - Case studies
-      - E-democracy news
+      - Juhtumiuuringud
+      - E-demokraatia uudised
     text: |
-      Interview with Imam Gunawan from the Indonesian Ministry of Youth and Sport on collaborating with Citizen OS.
+      Intervjuu Indoneesia noorsoo- ja spordiministeeriumi asekantsleri Imam Gunawaniga meie koostööst.
   2021-12-05:
     url: /news/my-volunteer-experience-sara-sinha
-    title: My Volunteer Experience-Sara Sinha.
+    title: Minu kogemus vabatahtlikuna - Sara Sinha.
     author: Indianna Knight
     image: /images/news/sara.jpg
     categories:
       - Citizen OS uudised
     text: |
-      Sara Sinha shared her experience of volunteering with us.
+      Sara Sinha räägib oma vabatahtliku töö kogemusest meie juures.
   2021-11-15:
     url: /news/meet-falko-blumenthal-a-civic-hacktivist
     title: 'Falko Blumenthal: kodanikuhäktivist'
