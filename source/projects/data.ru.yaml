@@ -48,7 +48,7 @@ blocks:
       background-position: 10% 10%, 90% 10%
       background-size: 45px 45px, 350px 350px
     text: |
-      ![An active citizen who believes that her participation in political issues has an impact.](/images/vision-individual.png){ .img-fluid }
+      ![Активная гражданка, которая видит, что ее участие в обсуждении политических проблем реально влияет на ситуацию.](/images/vision-individual.png){ .img-fluid }
   individual:
     class:
       - order-3
