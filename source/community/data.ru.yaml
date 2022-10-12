@@ -65,7 +65,7 @@ blocks:
       background-position: 90% 10%, 30% 80%, 20% 90%
       background-size: 45px 45px, 165px 165px, 350px 350px
     text: |
-      ![A group of specialists sat around a table with laptops discussing civic tech and participatory democracy.](/assets/images/community-mission.jpg){ .img-fluid .box-shadow }
+      ![Группа специалистов сидит за столом с ноутбуками и обсуждает принципы гражданской технологии и демократии участия.](/assets/images/community-mission.jpg){ .img-fluid .box-shadow }
   mission:
     class:
       - order-5
