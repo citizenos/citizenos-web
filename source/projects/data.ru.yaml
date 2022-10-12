@@ -85,7 +85,7 @@ blocks:
       background-position: 10% 10%, 90% 10%
       background-size: 45px 45px, 350px 350px
     text: |
-      ![An image of a lit light bulb with four smaller red bubbles surrounding it in a circle with arrows pointing from one to the next bubble.](/images/research-start.png){ .img-fluid }
+      ![Изображение горящей лампочки с четырьмя маленькими красными пузырьками вокруг нее. Пузырьки образуют окружность с помощью стрелок, которые ведут от одного пузырька к другому.](/images/research-start.png){ .img-fluid }
   individual2:
     class:
       - order-7
