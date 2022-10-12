@@ -1,5 +1,5 @@
 path: /demokraatia-kaitsjate-kiirendi/programm
-title: Demokraatia Kaitsjate Kiirendi<br> 20. jaan – 17. nov 2023
+title: Demokraatia Kaitsjate Kiirendi - 20. jaan – 17. nov 2023
 description: Põhjalik kümnepäevane Citizen OS-i korraldatud demokraatiateemaline koolitusprogramm 2023. aasta jaanuarist novembrini
 keywords:
   - demokraatiakoolitus
@@ -19,7 +19,7 @@ blocks:
   text:
     title: DKK programmi kava
     text: |
-      [DKK koduleht](/demokraatia-kaitsjate-kiirendi) |  Programm |  [Taotluse juhised](/demokraatia-kaitsjate-kiirendi/taotluse-juhised)
+      [DKK koduleht](/et/demokraatia-kaitsjate-kiirendi/) |  Programm |  [Taotluse juhised](/et/demokraatia-kaitsjate-kiirendi/taotluse-juhised/)
 
       DKK programmi kava ja päevakord:
 
@@ -138,7 +138,7 @@ blocks:
   join:
     title: Kandideeri DKK-sse
     date: 20. jaanuar – 17. november 2023
-    time: Mitmesugust
+    time: Erinevad toimumisajad
     price:
     deadlineTitle: Taotlemistähtaeg
     deadline: 10. november 2022
