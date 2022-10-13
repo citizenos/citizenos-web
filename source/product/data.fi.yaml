@@ -148,7 +148,7 @@ blocks:
     class:
       - order-6
     text: |
-      ![Näyttökuva Citizen OS -alustan käyttämisestä osallistavassa demokratiassa.](/images/product-case-study-2.jpg)
+      ![A screenshot of the Citizen OS platform being used for participatory democracy.](/images/product-case-study-2.jpg){ .img-fluid .box-shadow }
   case-study-2:
     class:
       - order-5
