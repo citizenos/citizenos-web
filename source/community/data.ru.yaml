@@ -154,7 +154,7 @@ blocks:
       background-position: 70% 90%, 30% 10%, 20% 90%
       background-size: 45px 45px, 165px 165px, 350px 350px
     text: |
-      ![Наше обширное и оживленное сообщество хактивистов, куда входит много активных участников из разных уголков планеты.](/assets/images/community-help.jpg){ .img-fluid .box-shadow }
+      ![Наше обширное и оживленное сообщество активистов, куда входит много активных участников из разных уголков планеты.](/assets/images/community-help.jpg){ .img-fluid .box-shadow }
   help:
     class:
       - order-11
