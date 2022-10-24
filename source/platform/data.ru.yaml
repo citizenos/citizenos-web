@@ -89,7 +89,7 @@ blocks:
       background-position: 100% 15%, 90% 15%
       background-size: 165px 165px, 350px 350px
     text: |
-      ![A female member of Citizen OS staff attending an event to answer questions about the platform.](/images/product-features.jpg){ .img-fluid .box-shadow }
+      ![Сотрудница Citizen OS отвечает на вопросы о платформе на мероприятии.](/images/product-features.jpg){ .img-fluid .box-shadow }
   features:
     class:
       - order-4
@@ -145,7 +145,7 @@ blocks:
     class:
       - order-6
     text: |
-      ![A screenshot of the Citizen OS platform being used for participatory democracy.](/images/product-case-study-2.jpg){ .img-fluid .box-shadow }
+      ![Скриншот платформы Citizen OS, демонстрирующий, как она применяется для демократии участия.](/images/product-case-study-2.jpg){ .img-fluid .box-shadow }
   case-study-2:
     class:
       - order-7
@@ -163,7 +163,7 @@ blocks:
       - order-8
       - order-sm-9
     text: |
-      ![Many indonesians smiling, wearing World Cleanup Day shirts, walking on a beach, carrying bags full of plastic garbage.](/images/product-case-study.jpeg){ .img-fluid .box-shadow }
+      ![Индонезийцы улыбаются, на них футболки Всемирного дня чистоты, они идут по пляжу, в руках у них пакеты с пластиковым мусором.](/images/product-case-study.jpeg){ .img-fluid .box-shadow }
   case-study:
     class:
       - order-9
