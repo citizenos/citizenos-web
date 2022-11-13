@@ -1,6 +1,6 @@
 path: /dda
 title: Democracy Defenders Accelerator | 20 Jan - 17 Nov 2023
-description: Immersive 10-day democracy training programme ran by Citizen OS from January to November 2023
+description: An immersive 10-month civic leadership programme for young activists, delivered by Citizen OS.
 keywords:
   - democracy training
   - participatory leadership
@@ -19,7 +19,7 @@ blocks:
   text:
     title: Democracy Defenders Accelerator | DDA
     text: |
-      DDA homepage |  [Programme](/dda/programme) |  [Application guidelines](/dda/application-guidelines)
+      DDA homepage |  [Programme](/dda/programme) |  [Application process](/dda/application-guidelines)
 
       Democracy is in danger, and urgently needs people to defend it.
 
@@ -135,7 +135,7 @@ blocks:
 
       Sign up to the online [information seminar](https://forms.gle/Rc5LApai1hHFZFgu5) for interested participants on 1 November.
 
-      [Application Guidelines →](/dda/application-guidelines)
+      [Application Process →](/dda/application-guidelines)
 
 
       ***********
@@ -171,7 +171,6 @@ blocks:
     deadlineTitle: Application Deadline
     deadline: 10 November, 2022
     how:
-    button:
-      title: Apply now
-      url: https://forms.gle/kpRzW8KbcciAApED7
-
+#button:
+#title: Apply now
+#url: https://forms.gle/kpRzW8KbcciAApED7
