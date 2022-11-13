@@ -1,6 +1,6 @@
 path: /demokraatia-kaitsjate-kiirendi/programm
 title: Demokraatia Kaitsjate Kiirendi | 20. jaan – 17. nov 2023
-description: Põhjalik kümnepäevane Citizen OS-i korraldatud demokraatiateemaline koolitusprogramm 2023. aasta jaanuarist novembrini
+description: An immersive 10-month civic leadership programme for young activists, delivered by Citizen OS.
 keywords:
   - demokraatiakoolitus
   - osalusjuhtimine
@@ -19,17 +19,17 @@ blocks:
   text:
     title: DKK programmi kava
     text: |
-      [DKK koduleht](/et/demokraatia-kaitsjate-kiirendi/) |  Programm |  [Taotluse juhised](/et/demokraatia-kaitsjate-kiirendi/taotluse-juhised/)
+      [DDA homepage](/dda) |  Programme |  [Application process](/dda/application-guidelines)
 
-      DKK programmi kava ja päevakord:
+      Browse the DDA’s programme outline and agenda below:
 
-      - [Ülevaade](#ulevaade)
-      - [Faas I: Uurimustöö](#uurimustoo)
-      - [Faas II: Bootcamp](#bootcamp)
-      - [Faas III: Elluviimine](#elluviimine)
-      - [Faas IV: Mõju](#moju)
+      - [Overview](#overview)
+      - [Phase I: Research](#research)
+      - [Phase II: Bootcamp](#bootcamp)
+      - [Phase III: Implementation](#implementation)
+      - [Phase IV: Impact](#impact)
 
-      Või uuri lisa osalejate [oodatavate tulemuste kohta](#tulemused).
+      Or find out the [expected outcomes](#outcomes) for participants.
   agenda:
     text: |
       ## Ülevaade  { #ulevaade .pt-5 }
@@ -143,6 +143,6 @@ blocks:
     deadlineTitle: Taotlemistähtaeg
     deadline: 10. november 2022
     how:
-    button:
-      title: Esita taotlus
-      url: https://forms.gle/kpRzW8KbcciAApED7
+#button:
+#title: Apply now
+#url: https://forms.gle/kpRzW8KbcciAApED7
