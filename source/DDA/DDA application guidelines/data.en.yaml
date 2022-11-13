@@ -100,6 +100,6 @@ blocks:
         deadlineTitle: Application Deadline
         deadline: 10 November, 2022
         how:
-        button:
-            title: Apply now
-            url: https://forms.gle/kpRzW8KbcciAApED7
+        # button:
+        #     title: Apply now
+        #     url: https://forms.gle/kpRzW8KbcciAApED7
