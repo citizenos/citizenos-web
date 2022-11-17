@@ -54,14 +54,6 @@ team:
         linkedin: https://www.linkedin.com/in/ilmar-t%C3%BCrk-752466125/
         email: ilmar@citizenos.com
     -
-        name: Mikk Andresen
-        title: Software Architect
-        text: Builds stuff out of nothing and keeps our morale at a top height.
-        avatar: /assets/images/team/mikk-avatar.jpg
-        picture: /assets/images/team/mikk.jpg
-        linkedin: https://www.linkedin.com/in/mikkandresen/
-        email: mikk@citizenos.com
-    -
         name: Kati Vellak
         title: Lawyer
         text: Protects us from baddies and energizes anyone in sight.
@@ -77,13 +69,6 @@ team:
         picture: /assets/images/team/becca.jpg
         linkedin: https://www.linkedin.com/in/beccamelhuish/
         email: becca.melhuish@gmail.com
-    -
-        name: Leony Chrisanti
-        title: Designer for Citizen OS Indonesia
-        text: Professional and responsible.
-        avatar: /assets/images/team/leony-avatar.jpg
-        picture: /assets/images/team/leony.jpg
-        email: leonychrisanti1789@gmail.com
     -
         name: Tasia Rosalina Tedjo Purnomo
         title: Social Media Manager for Citizen OS Indonesia
@@ -122,4 +107,4 @@ other:
     minds: |
         **Contributors**
 
-        Henri Laupmaa, Liia Hänni, Hille Hinsberg, Eva Truuverk, Kadi Maria Vooglaid, Lennart Rikk. Web built by Argo Roots using Entu SSG.
+        Henri Laupmaa, Liia Hänni, Hille Hinsberg, Eva Truuverk, Kadi Maria Vooglaid, Lennart Rikk. Product initially built by Mikk Andresen. Web built by Argo Roots using Entu SSG.
