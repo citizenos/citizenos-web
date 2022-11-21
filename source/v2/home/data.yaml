@@ -135,7 +135,9 @@ sections:
                 title: Active citizens
                 image: /v2/images/illustrations/active-citizens.svg
                 text: |
-                    Active citizens are the ones who raise difficult questions about the problems facing their communities, and invite their community members into the discussion on the Citizen OS platform. Whether it’s the local government´s proposed construction project or changes to the local bus schedule, active citizens take action to discuss and communicate their opinions to the decision-makers. Smaller communities, such as neighbours in the same building, often discuss in private groups what to build on their empty yard, or decide on what kind of administrative service provider to contract.
+                    Active citizens are the ones who raise difficult questions about the problems facing their communities, and invite their community members into the discussion on the Citizen OS platform. Whether it’s the local government´s proposed construction project or changes to the local bus schedule, active citizens take action to discuss and communicate their opinions to the decision-makers.
+                textMore: |
+                    Smaller communities, such as neighbours in the same building, often discuss in private groups what to build on their empty yard, or decide on what kind of administrative service provider to contract.
                 link:
                     title: Read more
                     url: ./#
@@ -143,7 +145,9 @@ sections:
                 title: Professional Unions and Associations
                 image: /v2/images/illustrations/professionals.svg
                 text: |
-                    These guys are so busy that it's almost impossible to get them in the same room at the same time! That’s why they use our platform for asynchronous meetings and general meetings. They hold discussions and votes: setting the directions of their advocacy groups, electing board members and approving the annual report. Members are also engaged in the everyday decisions of these organisations, with every member able to participate regardless of their location or schedule.
+                    These guys are so busy that it's almost impossible to get them in the same room at the same time! That’s why they use our platform for asynchronous meetings and general meetings. They hold discussions and votes: setting the directions of their advocacy groups, electing board members and approving the annual report.
+                textMore: |
+                    Members are also engaged in the everyday decisions of these organisations, with every member able to participate regardless of their location or schedule.
                 link:
                     title: Read more
                     url: ./#
