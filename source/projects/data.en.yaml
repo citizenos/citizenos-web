@@ -38,15 +38,40 @@ blocks:
         text: |
             We join forces with organisations worldwide to work on innovative e-democracy and participation projects.
 
+            - [Democracy Defenders Accelerator](#individual2)
             - [Winter and Summer Schools](#individual)
-            - [EuroChangemakers](#awareness)
-            - [Civic Hackathon](#individual2)
             - [Participatory Youth Leadership Network](#awareness2)
+            - [EuroChangemakers](#awareness)
             {.arrow }
+
+
+    individual2-img:
+        class:
+            - order-1
+        style:
+
+            background-image: url(/assets/images/bubble-yellow.svg), url(/assets/images/bubble-dots.png)
+            background-position: 10% 10%, 90% 10%
+            background-size: 45px 45px, 350px 350px
+        text: |
+            ![An image of a lit light bulb with four smaller red bubbles surrounding it in a circle with arrows pointing from one to the next bubble.](/assets/images/dda-project-page-image.png){ .img-fluid }
+
+    individual2:
+        class:
+            - order-2
+        title: |
+            Democracy Defenders Accelerator
+        text: |
+            Our flagship 10-month civic leadership programme for young activists. In this hybrid, hands-on programme, participants learn to design and deliver civic engagement projects and practise participatory leadership skills.
+
+        button1st:
+            title: Learn more
+            url: /dda/
+
 
     individual-img:
         class:
-            - order-2
+            - order-4
         style:
 
             background-image: url(/assets/images/bubble-yellow.svg), url(/assets/images/bubble-dots.png)
@@ -68,50 +93,10 @@ blocks:
             url: https://winterschool.tlu.ee/digital-innovation-for-civic-engagement-projects/
             target: _blank
 
-    awareness:
-        class:
-            - order-4
-            - py-5
-        style:
-            background-image: url(/assets/images/bubble-orange.svg), url(/assets/images/vision-awareness.jpg)
-            background-size: 164px 164px, cover
-            background-position: 10% 10%
-        # label: Erasmus+ project
-        title: |
-            EuroChangemakers
-        text: |
-            This 18-month project responds to the current democratic participation challenges faced during the COVID-19 pandemic through civic hackathons, a new platform, a youth network and a policy White Paper.
-        button1st:
-            title: Learn more
-            url: https://eurocm.geyc.ro/
-            target: _blank
-
-    individual2-img:
-        class:
-            - order-6
-        style:
-
-            background-image: url(/assets/images/bubble-yellow.svg), url(/assets/images/bubble-dots.png)
-            background-position: 10% 10%, 90% 10%
-            background-size: 45px 45px, 350px 350px
-        text: |
-            ![An image of a lit light bulb with four smaller red bubbles surrounding it in a circle with arrows pointing from one to the next bubble.](/assets/images/research-start.png){ .img-fluid }
-
-    individual2:
-        class:
-            - order-7
-        title: |
-            Civic Hackathon
-        text: |
-            Participants will have the opportunity to “hack” civic engagement and discussions in both the online and offline sphere.
-
-        button1st:
-            title: Learn more
-            url: /civic-hackathon/
 
     awarness2-img:
         class:
-            - order-9
+            - order-5
         style:
 
             background-image: url(/assets/images/bubble-yellow.svg), url(/assets/images/bubble-dots.png)
@@ -122,7 +107,7 @@ blocks:
 
     awareness2:
         class:
-            - order-8
+            - order-6
 #            - py-5
 #        style:
 #            background-image: url(/assets/images/bubble-orange.svg), url(/assets/images/projects-pyln.jpg)
@@ -139,3 +124,29 @@ blocks:
             title: Learn more
             url: /pyln/
             target: _blank
+
+
+
+    awareness:
+        class:
+            - order-6
+            - py-5
+        style:
+            background-image: url(/assets/images/bubble-orange.svg), url(/assets/images/vision-awareness.jpg)
+            background-size: 164px 164px, cover
+            background-position: 10% 10%
+        # label: Erasmus+ project
+        title: |
+            EuroChangemakers
+        text: |
+            This 18-month project responds to the current democratic participation challenges faced during the COVID-19 pandemic through civic hackathons, a new platform, a youth network and a policy White Paper.
+        button1st:
+            title: Learn more
+            url: https://eurocm.geyc.ro/
+            target: _blank
+
+
+
+
+
+
