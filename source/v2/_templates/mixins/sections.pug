@@ -195,7 +195,7 @@ mixin section-media(data = {})
                 if data.video
                     a.w-full.aspect-vhs.flex.items-center.justify-center.bg-white.bg-cover.rounded-2xl(
                         href=`#${data.video}`
-                        style=`background-image: url('${data.image}')`
+                        style=data.image ? `background-image: url('${data.image}')` : ''
                     )
                         .h-20.w-20.md_h-32.md_w-32.flex.items-center.justify-center.bg-yellow-50.opacity-90.rounded-full
                             +icon.h-12.w-12.md_h-20.md_w-20.opacity-90(type='play')
