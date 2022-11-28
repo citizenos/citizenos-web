@@ -45,7 +45,7 @@ sections:
                     Learn how Citizen OS can help you to be more engaging and participatory.
                 link:
                     title: Coming soon!
-                    url: /
+                    url:
             projects:
                 title: Global projects
                 image: /v2/images/illustrations/projects.svg
