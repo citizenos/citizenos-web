@@ -1,6 +1,6 @@
 path: /dda/programme
 title: Democracy Defenders Accelerator | 20 Jan - 17 Nov 2023
-description: Immersive 10-day democracy training programme ran by Citizen OS from January to November 2023
+description: An immersive 10-month civic leadership programme for young activists, delivered by Citizen OS.
 keywords:
   - democracy training
   - participatory leadership
@@ -19,7 +19,7 @@ blocks:
   text:
     title: DDA Programme Outline
     text: |
-      [DDA homepage](/dda) |  Programme |  [Application guidelines](/dda/application-guidelines)
+      [DDA homepage](/dda) |  Programme |  [Application process](/dda/application-guidelines)
 
       Browse the DDA’s programme outline and agenda below:
 
@@ -28,6 +28,7 @@ blocks:
       - [Phase II: Bootcamp](#bootcamp)
       - [Phase III: Implementation](#implementation)
       - [Phase IV: Impact](#impact)
+      - [Project Team, Facilitators and Mentors](#project-team)
 
       Or find out the [expected outcomes](#outcomes) for participants.
   agenda:
@@ -48,7 +49,7 @@ blocks:
 
       The programme starts with online meetings, in which we will learn about the concept of open society, democratic values, and get an overview of the global situation for civil society. In this phase, participants will research a problem they have noticed in their community or society that they want to solve.
 
-      Sessions during this phase will be **held online every two weeks, from 14.00-17.00 (EEST/Tallinn time):**
+      Sessions during this phase will be **held online every two weeks, from 14.00-17.00 (UTC+2/Tallinn time):**
 
       - **Fri 20 Jan** | DDA kick-off meeting. Open society and values of democracy.
       - **Fri 3 Feb** | Civic engagement project examples. Researching and defining the problems.
@@ -92,7 +93,7 @@ blocks:
 
       After the Bootcamp, the teams will start engaging new team members and stakeholders as well as a wider audience into the implementation of the civic initiative projects, using digital engagement platforms and other communication and marketing channels. During this period we will continue with online workshops and mentoring sessions.
 
-      Sessions during this phase will be **held online every two weeks, from 14.00-17.00 (EEST/Tallinn time):**
+      Sessions during this phase will be **held online every two weeks, from 14.00-17.00 (UTC+3/Tallinn time):**
 
       - **Fri 21 Apr** | Storytelling. Finding your story.
       - **Fri 5 May** | Mentoring session.
@@ -113,7 +114,7 @@ blocks:
 
       In this phase we will have four online meetings, at which the impact of the projects will be evaluated and the teams will present their results. As a group, we will all share our personal experience of participating in the programme, and discuss the future of the civic engagement projects.
 
-      Sessions during this phase will be **held online every two weeks, from 14.00-17.00 (EEST/Tallinn time):**
+      Sessions during this phase will be **held online every two weeks, from 14.00-17.00 (UTC+3/Tallinn time):**
 
       - **Fri 6 Oct** | Measuring the impact of the projects. Qualitative and quantitative research methods. Theory of Change.
       - **Fri 20 Oct** | Teams present their results on the impact of their projects. Giving and receiving feedback.
@@ -136,6 +137,40 @@ blocks:
 
       All participants will also be welcomed into our **global alumni network for young activists,** for ongoing support.
 
+      ***********
+
+      ## Project Team, Facilitators and Mentors { #project-team .pt-5 }
+
+      **Sara Sinha**, project manager, facilitator and mentor<br>
+
+      Sara Sinha is the Partnerships and Community Lead at Citizen OS. Sara has expertise in digital governance and accessibility in design.
+      [View LinkedIn.](https://www.linkedin.com/in/sara-sinha-361577146/)
+
+      **Agustina Iskandar Crombach**, participant onboarding lead, facilitator and mentor.<br>
+
+      Agustina is the Partnerships Lead in Indonesia. Agustina has coordinated and led high impact projects and successfully manages a large network of volunteers.
+      [View LinkedIn.](https://www.linkedin.com/in/agustina-iskandar-95a402109/)
+
+      **Wawan Putra**, facilitator and mentor.<br>
+
+      Wawan is an expert in programme monitoring, evaluation and capacity building in the areas of sustainability, gender equality and social inclusion.
+      [View LinkedIn.](https://www.linkedin.com/in/wanputra/)
+
+      **Fara Olivia Rumere**, facilitator and mentor.<br>
+
+      Fara is an expert in Gender and Statistics. As a UN Women National Youth Gender Activist and a founder of the online platform Sa Perempuan Papua, her focus is on supporting women’s wellbeing and entrepreneurial capacity.
+      [View LinkedIn.](https://www.linkedin.com/in/fara-olivia-rumere-%F0%9F%95%B5%EF%B8%8F-6b1542198/?locale=en_US)
+
+      **Margo Loor**, facilitator and mentor.<br>
+
+      Margo Loor is the co-founder and technology evangelist of Citizen OS. Margo is highly skilled in discussion design and coordinating discussion initiatives on an international scale.
+      [View LinkedIn.](https://www.linkedin.com/in/margo-loor/)
+
+      **Anett Linno**, programme coordinator, facilitator and mentor.<br>
+
+      Anett Linno is the CEO of Citizen OS. Anett has over fifteen years of experience in the field of civic initiatives around the world and specialises in the development of education programmes.
+      [View LinkedIn.](https://www.linkedin.com/in/anettlinno/)
+
       <br>[← Back to DDA homepage](/dda)
   join:
     title: Apply for the DDA
@@ -144,7 +179,7 @@ blocks:
     price:
     deadlineTitle: Application Deadline
     deadline: 10 November, 2022
-    how:
-    button:
-      title: Apply now
-      url: https://forms.gle/kpRzW8KbcciAApED7
+    how: Applications are now closed.
+#button:
+#title: Apply now
+#url: https://forms.gle/kpRzW8KbcciAApED7

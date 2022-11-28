@@ -6,14 +6,14 @@ keywords:
   - социальное движение
   - НПО
   - фонд демократии
-image: /images/meta/home.jpg
+image: /assets/images/meta/home.jpg
 team:
   - 
     name: Anett Linno
     title: CEO и менеджер продукта
     text: Мягкой рукой приводит в порядок даже настоящий хаос.
-    avatar: /images/team/anett-avatar.jpg
-    picture: /images/team/anett.jpg
+    avatar: /assets/images/team/anett-avatar.jpg
+    picture: /assets/images/team/anett.jpg
     linkedin: https://www.linkedin.com/in/anettlinno/
     twitter: https://twitter.com/twitanett
     email: anett@citizenos.com
@@ -21,8 +21,8 @@ team:
     name: Margo Loor
     title: Сооснователь, ИТ-евангелист
     text: Несёт свет, мудрость, задает направление развития.
-    avatar: /images/team/margo-avatar.jpg
-    picture: /images/team/margo.jpg
+    avatar: /assets/images/team/margo-avatar.jpg
+    picture: /assets/images/team/margo.jpg
     linkedin: https://www.linkedin.com/in/margoloor/
     twitter: https://twitter.com/loorm
     email: info@citizenos.com
@@ -30,16 +30,16 @@ team:
     name: Agustina Iskandar Crombach
     title: Руководитель партнeрства в Индонезии
     text: Создатель чудес, защитник свободы и серийный сотрудник.
-    avatar: /images/team/agustina-avatar.jpg
-    picture: /images/team/agustina.jpg
+    avatar: /assets/images/team/agustina-avatar.jpg
+    picture: /assets/images/team/agustina.jpg
     linkedin: https://www.linkedin.com/in/agustina-iskandar-95a402109/
     email: agustina@citizenos.com
   - 
     name: Sara Sinha
     title: Руководитель партнерства и сообщества
     text: Приверженка идеи открытого управления.
-    avatar: /images/team/sara-avatar.png
-    picture: /images/team/sara.png
+    avatar: /assets/images/team/sara-avatar.png
+    picture: /assets/images/team/sara.png
     linkedin: https://www.linkedin.com/in/sara-sinha-361577146/
     twitter: https://twitter.com/Sarasinha1992
     email: sara@citizenos.com
@@ -47,55 +47,40 @@ team:
     name: Ильмар Тюрк
     title: CTO
     text: Отлично пишет код, а шутит еще лучше.
-    avatar: /images/team/ilmar-avatar.jpg
-    picture: /images/team/ilmar.jpg
+    avatar: /assets/images/team/ilmar-avatar.jpg
+    picture: /assets/images/team/ilmar.jpg
     linkedin: https://www.linkedin.com/in/ilmar-t%C3%BCrk-752466125/
     email: ilmar@citizenos.com
   - 
-    name: Mikk Andresen
-    title: Архитектор ПО
-    text: Созидает буквально «из ничего» и поддерживает моральный дух команды на высоте.
-    avatar: /images/team/mikk-avatar.jpg
-    picture: /images/team/mikk.jpg
-    linkedin: https://www.linkedin.com/in/mikkandresen/
-    email: mikk@citizenos.com
-  - 
     name: Kati Vellak
-    title: Юрист
-    text: Защищает нас от злодеев и заряжает всех вокруг энергией.
-    avatar: /images/team/kati-avatar.jpg
-    picture: /images/team/kati.jpg
+    title: Lawyer
+    text: Protects us from baddies and energizes anyone in sight.
+    avatar: /assets/images/team/kati-avatar.jpg
+    picture: /assets/images/team/kati.jpg
     linkedin: https://www.linkedin.com/in/kativellak/
     email: kati@citizenos.com
   - 
-    name: Бекка Мелуиш
-    title: Дизайнер коммуникаций и копирайтер
-    text: Делает связь с компанией яркой и незабываемой.
-    avatar: /images/team/becca-avatar.jpg
-    picture: /images/team/becca.jpg
+    name: Becca Melhuish
+    title: Communications Designer & Copywriter
+    text: Brings sparkle and shine to all of our comms.
+    avatar: /assets/images/team/becca-avatar.jpg
+    picture: /assets/images/team/becca.jpg
     linkedin: https://www.linkedin.com/in/beccamelhuish/
     email: becca.melhuish@gmail.com
   - 
-    name: Leony Chrisanti
-    title: Дизайнер Citizen OS в Индонезии
-    text: Профессиональна и ответственна.
-    avatar: /images/team/leony-avatar.jpg
-    picture: /images/team/leony.jpg
-    email: leonychrisanti1789@gmail.com
-  - 
     name: Tasia Rosalina Tedjo Purnomo
-    title: SMM-менеджер Citizen OS в Индонезии
-    text: Всеобщая помощница, всегда открытая новым идеям.
-    avatar: /images/team/tasia-avatar.jpg
-    picture: /images/team/tasia.jpg
+    title: Social Media Manager for Citizen OS Indonesia
+    text: Support system fuelled with curiosity and values.
+    avatar: /assets/images/team/tasia-avatar.jpg
+    picture: /assets/images/team/tasia.jpg
     linkedin: https://www.linkedin.com/in/tasia-rosalina
     email: tasia@citizenos.com
   - 
-    name: Оксана Найденова
-    title: Локализация и управление сайтом
-    text: Сражается за правое дело и всегда вдохновляет нас быть лучше.
-    avatar: /images/team/oksana-avatar.jpg
-    picture: /images/team/oksana.jpg
+    name: Oksana Naidjonova
+    title: Localisation & Website Management
+    text: Fights for justice and leads us to become better every day.
+    avatar: /assets/images/team/oksana-avatar.jpg
+    picture: /assets/images/team/oksana.jpg
     linkedin: https://www.linkedin.com/in/oksananaidjonova/
     twitter: https://twitter.com/oksks
     email: oksana@citizenos.com
@@ -115,6 +100,6 @@ other:
 
     Дизайн платформы и веб-сайта: DUX.ee. Дизайн принтов: Мерике Тамм.
   minds: |
-    **Помощники**
+    **Contributors**
 
-    Хенри Лаупмаа, Лийя Хянни, Хилле Хинсберг, Ева Трууверк, Кади Мария Вооглайд, Леннарт Рикк. Создание веб-сайта на основе Entu SSG: Арго Роотс.
+    Henri Laupmaa, Liia Hänni, Hille Hinsberg, Eva Truuverk, Kadi Maria Vooglaid, Lennart Rikk. Product initially built by Mikk Andresen. Web built by Argo Roots using Entu SSG.

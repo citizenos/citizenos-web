@@ -6,14 +6,14 @@ keywords:
   - youth leadership
   - e-democracy course
   - participation tools
-image: /images/meta/vision.jpg
+image: /assets/images/meta/vision.jpg
 blocks:
   start-img:
     class:
       - order-1
     style:
       background-color: '#AAF3DD'
-      background-image: url(/images/vision-start.png), url(/images/bubble-dots.png), url(/images/bubble-yellow.svg)
+      background-image: url(/assets/images/vision-start.png), url(/assets/images/bubble-dots.png), url(/assets/images/bubble-yellow.svg)
       background-position: center center, 0 10%, 75% 20%
       background-size: 500px 500px, 350px 350px, 65px 65px
   #text: |
@@ -27,7 +27,7 @@ blocks:
       - py-5
     style:
       background-color: '#AAF3DD'
-      background-image: url(/images/bubble-blue.svg), url(/images/bubble-orange.svg)
+      background-image: url(/assets/images/bubble-blue.svg), url(/assets/images/bubble-orange.svg)
       background-position: 10% 15%, 90% 90%
       background-size: 42px 42px, 102px 102px
     title: |
@@ -35,20 +35,39 @@ blocks:
     text: |
       We join forces with organisations worldwide to work on innovative e-democracy and participation projects.
 
+      - [Democracy Defenders Accelerator](#individual2)
       - [Winter and Summer Schools](#individual)
-      - [EuroChangemakers](#awareness)
-      - [Civic Hackathon](#individual2)
       - [Participatory Youth Leadership Network](#awareness2)
+      - [EuroChangemakers](#awareness)
       {.arrow }
-  individual-img:
+  individual2-img:
     class:
-      - order-2
+      - order-1
     style:
-      background-image: url(/images/bubble-yellow.svg), url(/images/bubble-dots.png)
+      background-image: url(/assets/images/bubble-yellow.svg), url(/assets/images/bubble-dots.png)
       background-position: 10% 10%, 90% 10%
       background-size: 45px 45px, 350px 350px
     text: |
-      ![An active citizen who believes that her participation in political issues has an impact.](/images/vision-individual.png){ .img-fluid }
+      ![An image of a lit light bulb with four smaller red bubbles surrounding it in a circle with arrows pointing from one to the next bubble.](/assets/images/dda-project-page-image.png){ .img-fluid }
+  individual2:
+    class:
+      - order-2
+    title: |
+      Democracy Defenders Accelerator
+    text: |
+      Our flagship 10-month civic leadership programme for young activists. In this hybrid, hands-on programme, participants learn to design and deliver civic engagement projects and practise participatory leadership skills.
+    button1st:
+      title: Learn more
+      url: /dda/
+  individual-img:
+    class:
+      - order-4
+    style:
+      background-image: url(/assets/images/bubble-yellow.svg), url(/assets/images/bubble-dots.png)
+      background-position: 10% 10%, 90% 10%
+      background-size: 45px 45px, 350px 350px
+    text: |
+      ![An active citizen who believes that her participation in political issues has an impact.](/assets/images/vision-individual.png){ .img-fluid }
   individual:
     class:
       - order-3
@@ -60,57 +79,21 @@ blocks:
       title: Learn more
       url: https://winterschool.tlu.ee/digital-innovation-for-civic-engagement-projects/
       target: _blank
-  awareness:
-    class:
-      - order-4
-      - py-5
-    style:
-      background-image: url(/images/bubble-orange.svg), url(/images/vision-awareness.jpg)
-      background-size: 164px 164px, cover
-      background-position: 10% 10%
-    #label: Erasmus+ project
-    title: |
-      EuroChangemakers
-    text: |
-      This 18-month project responds to the current democratic participation challenges faced during the COVID-19 pandemic through civic hackathons, a new platform, a youth network and a policy White Paper.
-    button1st:
-      title: Learn more
-      url: https://eurocm.geyc.ro/
-      target: _blank
-  individual2-img:
-    class:
-      - order-6
-    style:
-      background-image: url(/images/bubble-yellow.svg), url(/images/bubble-dots.png)
-      background-position: 10% 10%, 90% 10%
-      background-size: 45px 45px, 350px 350px
-    text: |
-      ![An image of a lit light bulb with four smaller red bubbles surrounding it in a circle with arrows pointing from one to the next bubble.](/images/research-start.png){ .img-fluid }
-  individual2:
-    class:
-      - order-7
-    title: |
-      Civic Hackathon
-    text: |
-      Participants will have the opportunity to “hack” civic engagement and discussions in both the online and offline sphere.
-    button1st:
-      title: Learn more
-      url: /civic-hackathon/
   awarness2-img:
     class:
-      - order-9
+      - order-5
     style:
-      background-image: url(/images/bubble-yellow.svg), url(/images/bubble-dots.png)
+      background-image: url(/assets/images/bubble-yellow.svg), url(/assets/images/bubble-dots.png)
       background-position: 10% 10%, 90% 10%
       background-size: 45px 45px, 350px 350px
     text: |
-      ![A woman's upper body on the left, the woman staring at a sceen with different people in many windows.](/images/projects-pyln.jpg){ .img-fluid }
+      ![A woman's upper body on the left, the woman staring at a sceen with different people in many windows.](/assets/images/projects-pyln.jpg){ .img-fluid }
   awareness2:
     class:
-      - order-8
+      - order-6
     #- py-5
     #style:
-    #background-image: url(/images/bubble-orange.svg), url(/images/projects-pyln.jpg)
+    #background-image: url(/assets/images/bubble-orange.svg), url(/assets/images/projects-pyln.jpg)
     #background-size: 164px 164px, cover
     #background-position: 10% 10%
     #label: Raising awareness
@@ -124,3 +107,26 @@ blocks:
       title: Learn more
       url: /pyln/
       target: _blank
+  awareness:
+    class:
+      - order-6
+      - py-5
+    style:
+      background-image: url(/assets/images/bubble-orange.svg), url(/assets/images/vision-awareness.jpg)
+      background-size: 164px 164px, cover
+      background-position: 10% 10%
+    #label: Erasmus+ project
+    title: |
+      EuroChangemakers
+    text: |
+      This 18-month project responds to the current democratic participation challenges faced during the COVID-19 pandemic through civic hackathons, a new platform, a youth network and a policy White Paper.
+    button1st:
+      title: Learn more
+      url: https://eurocm.geyc.ro/
+      target: _blank
+
+
+
+
+
+
