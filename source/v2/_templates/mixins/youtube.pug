@@ -1,42 +1,29 @@
 mixin youtube(data = {})
     - data = { height: 390, width: 640, ...data, ...attributes }
 
-    .hidden.fixed.inset-0.bg-black.bg-opacity-90(id=data.video)
+    .hidden.fixed.inset-0.bg-black.bg-opacity-90(id=`${data.video}-container`)
         .fixed.inset-0.z-10.overflow-y-auto
             .min-h-full.flex.items-center.justify-center.cursor-pointer
-                iframe.relative.overflow-hidden.rounded-lg.shadow-xl.sm_w-full.sm_max-w-3xl.w-full.aspect-video(id=`${data.video}-video` type='text/html' src=`https://www.youtube.com/embed/${data.video}?enablejsapi=1&rel=0` frameborder='0')
+                iframe.relative.overflow-hidden.rounded-lg.shadow-xl.sm_w-full.sm_max-w-3xl.w-full.aspect-video(id=`${data.video}-video` src='' frameborder='0' allow='autoplay; encrypted-media' allowfullscreen='')
 
-    script(src='https://www.youtube.com/iframe_api')
     script.
-        var player
-
-        if (location.hash === '##{data.video}') playVideo()
+        if (location.hash === '##{data.video}') {
+            document.getElementById('#{data.video}-video').setAttribute('src', 'https://www.youtube.com/embed/#{data.video}?rel=0&showinfo=0&modestbranding=1&autoplay=1&cc_load_policy=1&cc_lang_pref=#{self.locale}')
+            document.getElementById('#{data.video}-container').classList.remove('hidden')
+        }
 
         window.addEventListener('hashchange', function () {
-            if (location.hash === '##{data.video}') playVideo()
+            if (location.hash !== '##{data.video}') return
+
+            document.getElementById('#{data.video}-video').setAttribute('src', 'https://www.youtube.com/embed/#{data.video}?rel=0&showinfo=0&modestbranding=1&autoplay=1&cc_load_policy=1&cc_lang_pref=#{self.locale}')
+            document.getElementById('#{data.video}-container').classList.remove('hidden')
         }, false)
 
         document.addEventListener('click', function (event) {
-            if (event.target.matches('##{data.video} > .fixed > .flex')) stopVideo()
-        }, false)
+            if (!event.target.matches('##{data.video}-container > .fixed > .flex')) return
 
-        function onYouTubeIframeAPIReady() {
-            player = new YT.Player('#{data.video}-video', {
-                playerVars: {
-                    autoplay: 1,
-                    playsinline: 1,
-                    modestbranding: 1
-                }
-            })
-        }
+            document.getElementById('#{data.video}-container').classList.add('hidden')
+            document.getElementById('#{data.video}-video').setAttribute('src', '')
 
-        function playVideo() {
-            document.getElementById('#{data.video}').classList.remove('hidden')
-            player && player.playVideo()
-        }
-
-        function stopVideo() {
             history.pushState('', document.title, window.location.pathname + window.location.search)
-            document.getElementById('#{data.video}').classList.add('hidden')
-            player && player.stopVideo()
-        }
+        }, false)
