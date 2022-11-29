@@ -1,4 +1,5 @@
 [[plugins]]
 package = "@algolia/netlify-plugin-crawler"
   [plugins.inputs]
+  pathPrefix = "/help"
   customDomain = "citizenos.com"
