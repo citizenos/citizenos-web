@@ -31,7 +31,7 @@ languages:
 selectLanguage: Kielet
 donateLink:
   title: Lahjoita
-  url: /lahjoita/
+  url: /fi/lahjoita/
 productLink:
   title: Käytä alustaa
   url: https://app.citizenos.com/fi/

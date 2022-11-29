@@ -6,14 +6,14 @@ keywords:
   - общие встречи
   - онлайн-встречи
   - обсуждение
-image: /images/meta/product.jpg
+image: /assets/images/meta/product.jpg
 blocks:
   decision-img:
     class:
       - order-1
     style:
       background-color: '#FFF1AD'
-      background-image: url(/images/product-start.png), url(/images/bubble-dots.png), url(/images/bubble-orange.svg)
+      background-image: url(/assets/images/product-start.png), url(/assets/images/bubble-dots.png), url(/assets/images/bubble-orange.svg)
       background-position: center center, 0% 20%, 70% 10%
       background-size: 500px 500px, 350px 350px, 100px 100px
   #text: |
@@ -27,7 +27,7 @@ blocks:
       - py-5
     style:
       background-color: '#FFF1AD'
-      background-image: url(/images/bubble-turquoise.svg), url(/images/bubble-yellow.svg)
+      background-image: url(/assets/images/bubble-turquoise.svg), url(/assets/images/bubble-yellow.svg)
       background-position: 10% 5%, 90% 90%
       background-size: 75px 75px, 65px 65px
     title: |
@@ -52,7 +52,7 @@ blocks:
       - py-5
     style:
       background: '#F7F7F7'
-      background-image: url(/images/pattern.svg)
+      background-image: url(/assets/images/pattern.svg)
       background-size: 38px 42px
     #label: A flexible format
     title: |
@@ -61,22 +61,22 @@ blocks:
       { #flexibleformat-items }
     blocks:
       petitions:
-        poster: /images/flexibleformat-petitions.png
+        poster: /assets/images/flexibleformat-petitions.png
         title: Голосование
         text: |
           Принятие демократических решения путем настраиваемого голосования. Идеальный вариант для электронной демократии.
       onlinemeetings:
-        poster: /images/flexibleformat-onlinemeetings.png
+        poster: /assets/images/flexibleformat-onlinemeetings.png
         title: Обсуждения
         text: |
           Рациональные и взвешенные обсуждения, где оцениваются все "за" и "против".
       gatheringideas:
-        poster: /images/flexibleformat-gatheringideas.png
+        poster: /assets/images/flexibleformat-gatheringideas.png
         title: Сбор идей.
         text: |
           Задействуйте более широкую аудиторию. Платформа идеально подходит для проектов, требующих участия большого количества граждан.
       widget:
-        poster: /images/flexibleformat-widget.png
+        poster: /assets/images/flexibleformat-widget.png
         title: Подписаться
         text: |
           Сообщать участникам о действиях, предпринятых после вынесения решения.
@@ -85,11 +85,11 @@ blocks:
       - order-3
     style:
       background-color: '#F7F7F7'
-      #background-image: url(/images/bubble-orange.svg), url(/images/bubble-dots.png)
+      #background-image: url(/assets/images/bubble-orange.svg), url(/assets/images/bubble-dots.png)
       background-position: 100% 15%, 90% 15%
       background-size: 165px 165px, 350px 350px
     text: |
-      ![Сотрудница Citizen OS отвечает на вопросы о платформе на мероприятии.](/images/product-features.jpg){ .img-fluid .box-shadow }
+      ![A female member of Citizen OS staff attending an event to answer questions about the platform.](/assets/images/product-features.jpg){ .img-fluid .box-shadow }
   features:
     class:
       - order-4
@@ -148,12 +148,12 @@ blocks:
     class:
       - order-6
     text: |
-      ![Скриншот платформы Citizen OS, демонстрирующий, как она применяется для демократии участия.](/images/product-case-study-2.jpg){ .img-fluid .box-shadow }
+      ![A screenshot of the Citizen OS platform being used for participatory democracy.](/assets/images/product-case-study-2.jpg){ .img-fluid .box-shadow }
   case-study-2:
     class:
       - order-5
     style:
-      background-image: url(/images/bubble-blue.svg)
+      background-image: url(/assets/images/bubble-blue.svg)
       background-position: 80% 5%
       background-size: 122px 122px
     label: Тематическое исследование
@@ -166,21 +166,22 @@ blocks:
       - order-7
       - order-sm-7
     text: |
-      ![Индонезийцы улыбаются, на них футболки Всемирного дня чистоты, они идут по пляжу, в руках у них пакеты с пластиковым мусором.](/images/product-case-study.jpeg){ .img-fluid .box-shadow }
+      ![Many indonesians smiling, wearing World Cleanup Day shirts, walking on a beach, carrying bags full of plastic garbage.](/assets/images/product-case-study.jpeg){ .img-fluid .box-shadow }
   case-study:
     class:
       - order-8
       - order-sm-8
     style:
-      background-image: url(/images/bubble-orange.svg), url(/images/bubble-yellow.svg)
+      background-image: url(/assets/images/bubble-orange.svg), url(/assets/images/bubble-yellow.svg)
       background-position: 10% 5%, 90% 90%
       background-size: 85px 85px, 55px 55px
     label: Тематическое исследование
     title: |
       За чистую Индонезию!
     text: |
-      Движение Let’s Do It Indonesia разработало проект [34 Islands](https://citizenos.com/news/turning-citizen-ideas-into-action-on-waste-bintan-indonesia/), цель которого — построение "зеленого" будущего.
-      С помощью платформы Citizen OS жители Индонезии могут предлагать свои идеи по утилизации отходов и голосовать за чужие.
+      With their [34 Islands Project](/news/the-34-islands-project-for-a-greener-indonesia), civic movement Let’s Do It Indonesia is working to build a greener future.
+
+      Using the Citizen OS platform, local people can submit sustainable waste management ideas and vote for their favourites.
   stats:
     class:
       - order-9
@@ -188,7 +189,7 @@ blocks:
       - py-5
     style:
       background: '#F7F7F7'
-      background-image: url(/images/pattern.svg)
+      background-image: url(/assets/images/pattern.svg)
       background-size: 38px 42px
     title: |
       Мы растем и становимся влиятельнее

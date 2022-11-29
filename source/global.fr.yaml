@@ -31,7 +31,7 @@ languages:
 selectLanguage: Langues
 donateLink:
   title: Faire un don
-  url: /faire un don/
+  url: /fr/faire-un-don/
 productLink:
   title: Utiliser la plateforme
   url: https://app.citizenos.com/fr/
