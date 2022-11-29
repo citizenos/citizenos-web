@@ -64,10 +64,10 @@ footer:
       links:
         donate:
           title: Lahjoita
-          url: /lahjoita/
+          url: /fi/lahjoita/
         guides:
           title: Ohjekeskus
-          url: /help/
+          url: /ohjekeskus/
         legal:
           title: Lakiteknistä
           url: /fi/laillisuus/
