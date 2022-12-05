@@ -38,6 +38,7 @@ blocks:
       - [Democracy Defenders Accelerator](#individual2)
       - [Winter and Summer Schools](#individual)
       - [Participatory Youth Leadership Network](#awareness2)
+      - [Erasmus+ Youth Exchange](#individual3)
       - [EuroChangemakers](#awareness)
       {.arrow }
   individual2-img:
@@ -72,14 +73,14 @@ blocks:
     class:
       - order-3
     title: |
-      Зимняя и летняя школы.
+      Winter and Summer Schools
     text: |
       Курс Digital Innovation for Civic Engagement Projects проводится нами совместно с Таллинским университетом в качестве блока учебных программ зимней и летней школы. Во время этого 10-дневного курса участники сообществ и гражданских инициатив обучаются тому, как вовлекать в обсуждения и процесс принятия решений больше людей, с помощью инновационных инструментов.
     button1st:
       title: Подробнее
       url: https://winterschool.tlu.ee/digital-innovation-for-civic-engagement-projects/
       target: _blank
-  awarness2-img:
+  awareness2-img:
     class:
       - order-5
     style:
@@ -98,7 +99,7 @@ blocks:
     #background-position: 10% 10%
     #label: Raising awareness
     title: |
-      Сеть коллективного молодежного лидерства.
+      Participatory Youth Leadership Network
     text: |
       Индийское отделение Citizen OS, PYLN, сотрудничает с индийскими организациями и хактивистами, которые разделяют наше видение дальнейшего развития сферы коллективного лидерства.
 
@@ -107,9 +108,29 @@ blocks:
       title: Подробнее
       url: /pyln/
       target: _blank
+  individual3-img:
+    class:
+      - order-8
+    style:
+      background-image: url(/assets/images/bubble-yellow.svg), url(/assets/images/bubble-dots.png)
+      background-position: 10% 10%, 90% 10%
+      background-size: 45px 45px, 350px 350px
+    text: |
+      ![An active citizen who believes that her participation in political issues has an impact.](/assets/images/projects/Youth-exchange-projects-page-pic.png){ .img-fluid }
+  individual3:
+    class:
+      - order-7
+    title: |
+      Erasmus+ Youth Exchange
+    text: |
+      In our ʻDigital Transformation for Civic Engagementʼ youth exchange programme, Europe’s next generation of leaders learn civic engagement project design and participatory leadership, through hands-on ʻlearning by doingʼ methods.
+  #button1st:
+  #title: Learn more
+  #url: https://winterschool.tlu.ee/digital-innovation-for-civic-engagement-projects/
+  #target: _blank
   awareness:
     class:
-      - order-6
+      - order-9
       - py-5
     style:
       background-image: url(/assets/images/bubble-orange.svg), url(/assets/images/vision-awareness.jpg)
