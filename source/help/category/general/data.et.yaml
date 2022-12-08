@@ -107,12 +107,12 @@ donating-to-the-platform:
   data:
     category: /help/category/data.en.yaml
     help: /help/data.en.yaml
-  title: Donating to the platform
+  title: Platvormile annetamine
   text: |
-    Citizen OS is a non-profit organisation and our platform is almost entirely funded by private donations.
-    Help us keep the platform free by making a donation at [www.citizenos.com/donate](/donate).
+    Citizen OS on mittetulundusühing ja meie platvormi rahastatakse peaaegu täielikult eraannetustest.
+    Aidake meil hoida platvormi tasuta, tehes annetuse aadressil [https://citizenos.com/et/toeta/](/et/toeta).
 
-    Your donation will help us in our mission to *“empower as many people as possible to participate in respectful and meaningful discussions in order to collaboratively decide on issues that affect their wellbeing.”*
+    Teie annetus aitab meil täita oma missiooni *"anda võimalikult paljudele inimestele võimalus osaleda lugupidavates ja sisulistes aruteludes, et ühiselt otsustada nende heaolu mõjutavate küsimuste üle "*.
 your-data-security:
   path: /help/general/your-data-security
   data:
