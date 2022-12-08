@@ -33,12 +33,12 @@ blocks:
     title: |
       Koostöö muutuste nimel.
     text: |
-      We join forces with organisations worldwide to work on innovative e-democracy and participation projects.
+      Me ühendame jõud organisatsioonidega üle maailma, et töötada innovatiivsete e-demokraatia ja osaluse projektide kallal.
 
-      - [Democracy Defenders Accelerator](#individual2)
-      - [Winter and Summer Schools](#individual)
-      - [Participatory Youth Leadership Network](#awareness2)
-      - [Erasmus+ Youth Exchange](#individual3)
+      - [Demokraatia Kaitsjate Kiirendi](#individual2)
+      - [Talve- ja suvekoolid](#individual)
+      - [Noorte osalusjuhtide võrgustik](#awareness2)
+      - [Erasmus+ noortevahetus](#individual3)
       - [EuroChangemakers](#awareness)
       {.arrow }
   individual2-img:
@@ -49,17 +49,17 @@ blocks:
       background-position: 10% 10%, 90% 10%
       background-size: 45px 45px, 350px 350px
     text: |
-      ![An image of a lit light bulb with four smaller red bubbles surrounding it in a circle with arrows pointing from one to the next bubble.](/assets/images/dda-project-page-image.png){ .img-fluid }
+      ![Pilt põlevast lambipirnist, mida ümbritsevad ringina neli väiksemat punast mulli. Iga mulli sees on järgmise mulli suunas näitav nool.](/assets/images/dda-project-page-image.png){ .img-fluid }
   individual2:
     class:
       - order-2
     title: |
-      Democracy Defenders Accelerator
+      Demokraatia Kaitsjate Kiirendi
     text: |
-      Our flagship 10-month civic leadership programme for young activists. In this hybrid, hands-on programme, participants learn to design and deliver civic engagement projects and practise participatory leadership skills.
+      Meie peamine 10-kuuline kodanikujuhtimise programm noortele aktivistidele. Selles hübriidprogrammis õpivad osalejad kavandama ja ellu viima kodanikuaktiivsuse projekte ning harjutama osalusjuhtimise oskusi.
     button1st:
       title: Vaata lisa
-      url: /demokraatia-kaitsjate-kiirendi/
+      url: /et/demokraatia-kaitsjate-kiirendi/
   individual-img:
     class:
       - order-4
@@ -68,12 +68,12 @@ blocks:
       background-position: 10% 10%, 90% 10%
       background-size: 45px 45px, 350px 350px
     text: |
-      ![An active citizen who believes that her participation in political issues has an impact.](/assets/images/vision-individual.png){ .img-fluid }
+      ![Aktiivne kodanik, kes usub, et suudab poliitilistes küsimustes kaasa rääkides ühiskonnaelu mõjutada.](/assets/images/vision-individual.png){ .img-fluid }
   individual:
     class:
       - order-3
     title: |
-      Winter and Summer Schools
+      Talve- ja suvekoolid
     text: |
       Kursus "Digital Innovation for Civic Engagement Projects" on korraldatud koostöös Tallinna Ülikooliga nende suve- ja talvekoolide raames. Kümnepäevane kursus õpetab kogukondade ja kodanikualgatuste liikmetele, kuidas kaasata rohkem inimesi aruteludesse ja otsustusprotsessidesse, kasutades selleks tehnoloogilisi vahendeid.
     button1st:
@@ -88,7 +88,7 @@ blocks:
       background-position: 10% 10%, 90% 10%
       background-size: 45px 45px, 350px 350px
     text: |
-      ![A woman's upper body on the left, the woman staring at a sceen with different people in many windows.](/assets/images/projects-pyln.jpg){ .img-fluid }
+      ![Naise ülakeha vasakul pool, naine vaatab ekraani mitme akna all seisvate erinevate inimestega.](/assets/images/projects-pyln.jpg){ .img-fluid }
   awareness2:
     class:
       - order-6
@@ -99,7 +99,7 @@ blocks:
     #background-position: 10% 10%
     #label: Raising awareness
     title: |
-      Participatory Youth Leadership Network
+      Osalevate noortejuhtide võrgustik
     text: |
       Citizen OS-i India tütarorganisatsioon PYLN teeb koostööd India organisatsioonide ja häktivistidega, kellel on meiega ühesugune nägemus osaluspõhise juhtimise edendamisest.
 
@@ -116,14 +116,14 @@ blocks:
       background-position: 10% 10%, 90% 10%
       background-size: 45px 45px, 350px 350px
     text: |
-      ![An active citizen who believes that her participation in political issues has an impact.](/assets/images/projects/Youth-exchange-projects-page-pic.png){ .img-fluid }
+      ![Aktiivne kodanik, kes usub, et suudab poliitilistes küsimustes kaasa rääkides ühiskonnaelu mõjutada.](/assets/images/projects/Youth-exchange-projects-page-pic.png){ .img-fluid }
   individual3:
     class:
       - order-7
     title: |
-      Erasmus+ Youth Exchange
+      Erasmus+ noortevahetus
     text: |
-      In our ʻDigital Transformation for Civic Engagementʼ youth exchange programme, Europe’s next generation of leaders learn civic engagement project design and participatory leadership, through hands-on ʻlearning by doingʼ methods.
+      Meie noortevahetusprogrammis ʻDigital Transformation for Civic Engagementʼ õpivad Euroopa järgmise põlvkonna juhid praktiliste ʻlearning by doingʼ meetodite abil kodanike kaasamise projektide kavandamist ja osalusjuhtimist.
   #button1st:
   #title: Learn more
   #url: https://winterschool.tlu.ee/digital-innovation-for-civic-engagement-projects/
