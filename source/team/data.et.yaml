@@ -1,5 +1,5 @@
 ---
-path: /meeskond
+path: /et/meeskond/
 title: Meeskond
 description: Julgus, pealehakkamine, soov ise maailma muuta - Citizen OS. Kui soovid olla osa meie ühiskonda muutusi loovast meeskonnast, võta ühendust!
 keywords:
@@ -53,32 +53,32 @@ team:
     email: ilmar@citizenos.com
   - 
     name: Kati Vellak
-    title: Lawyer
-    text: Protects us from baddies and energizes anyone in sight.
+    title: Jurist
+    text: Kaitseb meid pahalaste eest ja annab energiat kõigile, kes tema teele jäävad.
     avatar: /assets/images/team/kati-avatar.jpg
     picture: /assets/images/team/kati.jpg
     linkedin: https://www.linkedin.com/in/kativellak/
     email: kati@citizenos.com
   - 
     name: Becca Melhuish
-    title: Communications Designer & Copywriter
-    text: Brings sparkle and shine to all of our comms.
+    title: Kommunikatsioonidisainer ja reklaamtekstide koostaja
+    text: Lisab särtsu kõigisse meie turundussõnumitesse.
     avatar: /assets/images/team/becca-avatar.jpg
     picture: /assets/images/team/becca.jpg
     linkedin: https://www.linkedin.com/in/beccamelhuish/
     email: becca.melhuish@gmail.com
   - 
     name: Tasia Rosalina Tedjo Purnomo
-    title: Social Media Manager for Citizen OS Indonesia
-    text: Support system fuelled with curiosity and values.
+    title: Citizen OS Indoneesia sotsiaalmeedia toimetaja
+    text: Uudishimu ja väärtusi täis tugijõud.
     avatar: /assets/images/team/tasia-avatar.jpg
     picture: /assets/images/team/tasia.jpg
     linkedin: https://www.linkedin.com/in/tasia-rosalina
     email: tasia@citizenos.com
   - 
     name: Oksana Naidjonova
-    title: Localisation & Website Management
-    text: Fights for justice and leads us to become better every day.
+    title: Lokaliseerimine ja veebihaldus
+    text: Võitleb õigluse eest ja aitab meil iga päev paremaks muutuda.
     avatar: /assets/images/team/oksana-avatar.jpg
     picture: /assets/images/team/oksana.jpg
     linkedin: https://www.linkedin.com/in/oksananaidjonova/
@@ -100,6 +100,6 @@ other:
 
     Platvorm ja veeb: DUX.ee, trükised: Merike Tamm.
   minds: |
-    **Contributors**
+    **Toetajad**
 
-    Henri Laupmaa, Liia Hänni, Hille Hinsberg, Eva Truuverk, Kadi Maria Vooglaid, Lennart Rikk. Product initially built by Mikk Andresen. Web built by Argo Roots using Entu SSG.
+    Henri Laupmaa, Liia Hänni, Hille Hinsberg, Eva Truuverk, Kadi Maria Vooglaid, Lennart Rikk. Toode algselt valmis ehitatud Mikk Andreseni poolt. Veebilehe ehitas Argo Roots Entu SSG baasil.
