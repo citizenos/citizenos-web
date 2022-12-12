@@ -18,11 +18,12 @@ block content
             - delete self.data.category.multipage
             each category in self.data.category
                 .col-6.col-md-3
-                    a.gray-box.d-block.col-12.mb-4.py-3.text-center(href=category.path)
-                        img.img-blue.mb-3(src='/assets/images/help/icons/' + category.icon + '.svg')
-                        img.img-white.mb-3.d-none(src='/assets/images/help/icons/' + category.icon + '-white.svg')
-                        br
-                        | #{ category.title }
+                    a.gray-box.d-block.col-12.mb-4.py-3(href=category.path)
+                        .flex.flex-col.items-center
+                            img.img-blue(src='/assets/images/help/icons/' + category.icon + '.svg')
+                            img.img-white.d-none(src='/assets/images/help/icons/' + category.icon + '-white.svg')
+                            br
+                            | #{ category.title }
 
         .row.pt-5
             h2.col-12= self.links.title

@@ -19,8 +19,18 @@ pre {
     @apply mb-4 text-xs overflow-hidden
 }
 
+nav a,
+nav a:hover {
+    @apply !no-underline;
+}
+
 footer .footer-border {
     background: linear-gradient(89.99deg, #FCA997 0.02%, #EABFBC 34.65%, #FFEFD6 66.94%, #F9E1A7 100%);
+}
+
+footer a,
+footer a:hover {
+    @apply !no-underline !text-black;
 }
 
 .button {

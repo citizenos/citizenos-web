@@ -2,9 +2,10 @@ block vars
 
 
 include mixins.pug
+include /v2/_templates/mixins/mixins.pug
 
 
-- self.rootUrl = self.locale === 'en' ? '/' : `/${self.locale}/`
+- const rootUrl = self.locale === 'en' ? '/' : `/${self.locale}/`
 
 
 doctype html
@@ -33,29 +34,32 @@ html(lang=self.locale)
         each path, locale in self.otherLocalePaths
             link(href=path rel='alternate' hreflang=locale)
 
-        link(href='/assets/images/favicon.ico', rel='shortcut icon', type='image/x-icon')
-        link(href='/assets/images/icon-hires.png', rel='icon', sizes='192x192', type='image/png')
+        link(href='/v2/images/favicon.ico' rel='shortcut icon' type='image/x-icon')
+        link(href='/v2/images/favicon.png' rel='icon' type='image/png' sizes='192x192')
 
         link(href='https://fonts.googleapis.com/css?family=Noto+Sans:400,400i,700,700i&amp;subset=cyrillic-ext,latin-ext' rel='stylesheet')
         link(href='/assets/css/bootstrap.min.css', rel='stylesheet')
         link(href='/style.css', rel='stylesheet')
+        link(href='/style-v2.css' rel='stylesheet')
 
         style
             block stylus
+
+        block style
 
         script(src='/assets/js/jquery-3.3.1.min.js')
         script(src='https://stats.citizenos.com/js/index.js', data-domain='citizenos.com', async, defer)
 
     body
         block body
-            include navigation.pug
+            include /v2/_templates/navbar.pug
 
             .content
                 block header
                 block content
 
             include mailchimp.pug
-            include footer.pug
+            include /v2/_templates/footer.pug
 
         script(src='/assets/js/bootstrap.min.js')
         script(src='/script.js')
