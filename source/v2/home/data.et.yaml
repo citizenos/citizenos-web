@@ -10,7 +10,7 @@ sections:
     buttons:
       demo:
         color: black
-        title: Watch demo
+        title: Vaata demo
         icon: play
         url: '#UC44qCCIixE'
       platform:
@@ -216,7 +216,7 @@ sections:
     buttons:
       demo:
         color: black
-        title: Watch demo
+        title: Vaata demo
         icon: play
         url: '#UC44qCCIixE'
       platform:

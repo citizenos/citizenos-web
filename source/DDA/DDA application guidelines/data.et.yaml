@@ -1,6 +1,6 @@
 path: /demokraatia-kaitsjate-kiirendi/taotluse-juhised
 title: Demokraatia Kaitsjate Kiirendi | 20. jaan – 17. nov 2023
-description: An immersive 10-month civic leadership programme for young activists, delivered by Citizen OS.
+description: Citizen OS'i poolt noortele aktivistidele suunatud ulatuslik 10-kuuline kodanikuühiskonna juhtimise programm.
 keywords:
   - demokraatiakoolitus
   - osalusjuhtimine
@@ -17,85 +17,85 @@ blocks:
     title: Demokraatia Kaitsjate Kiirendi
     text: 20\. jaanuar – 17. november 2023
   text:
-    title: DDA Application Process
+    title: DKK taotluste protsess
     text: |
-      [DDA homepage](/dda) |  [Programme](/dda/programme) |  Application process
+      [DKK koduleht](et/demokraatia-kaitsjate-kiirendi/) |  [Programm](et/demokraatia-kaitsjate-kiirendi/programm) |  Taotlemise protsess
 
-      Applications for the 2023 DDA are now closed.
+      Taotlused 2023. aasta DKK'ks on nüüdseks suletud.
 
-      See our guidance on the application process below:
+      Vt allpool meie juhiseid taotluste esitamise kohta:
 
-      - [Application Timeline](#application-timeline)
-      - [Participant criteria](#participant-criteria)
-      - [How to Apply](#how-to-apply)
+      - [Taotlemise ajakava](#application-timeline)
+      - [Osalejate kriteeriumid](#osalejate-kriteeriumid)
+      - [Kuidas kandideerida](#how-to-apply)
 
-      Or find out more about [Attendance & Training Contract](#attendance).
+      Või tutvuge lähemalt [Osalemis- ja koolituslepinguga](#osalemine).
   agenda:
     text: |
-      ## Application Timeline { #application-timeline .pt-5 }
+      ## Taotluse tähtaeg { #taotluse-tahtaeg .pt-5 }
 
-      In order to be accepted into the DDA, willing participants apply through a competitive selection process.
-      A selection panel will review applications. Shortlisted candidates will be contacted for a phone interview, and the final candidates will be announced via email and on Citizen OS channels.
+      DKK'sse vastuvõtmiseks peavad soovijad kandideerima konkursi korras.
+      Taotlusi vaatab läbi valimiskomisjon. Väljavalitud kandidaatidega võetakse ühendust telefoniintervjuuks ning lõplikest kandidaatidest teatatakse e-posti teel ja Citizen OS-i kanalites.
 
-      Key dates for the application process are:
+      Kandideerimisprotsessi peamised kuupäevad on järgmised:
 
-      - **1 October 2022:** Applications open
-      - **1 November 2022:** [Information seminar](https://www.youtube.com/watch?v=1Vi3Is3AB78) for interested participants
-      - **10 November 2022:** Applications close
-      - **2 December 2022:** Announcement of shortlisted candidates
-      - **6-22 December 2022:** Interviews with candidates
-      - **28 December 2022:** Announcement of selected candidates
-
-      ***********
-
-      ## Participant Criteria { #participant-criteria .pt-5 }
-
-      - **An intermediate level of English** (at least B2), both written and oral. This will be demonstrated during interviews.
-      - **An active citizen or leader** in a community, civil society group or NGO.
-      - **Ideally a resident of one of the target countries** of the DDA: Georgia, Albania, Indonesia, the United States, Estonia and other EU/EEA countries. A limited number of places are also available to residents of other countries.
-      - **Highly motivated to join the full 10-month programme** including both the online sessions and the 10-day Bootcamp in Tallinn, Estonia.
-      - **Willing to pay for the travel ticket and visa** (where necessary) to enter Estonia for the Bootcamp.
-      - **Have the strong commitment required** to maintain the networking and team work with youth from other countries, as part of a global network.
-      - **Committed to equality** (race, religion, gender, sexuality, etc).
-      - **Aged between 20-35 years old.** (Exceptions may be possible).
-
-      ***********
-      ## How to Apply { #how-to-apply .pt-5 }
-
-      Applications for the 2023 DDA programme are now closed.
-
-      In the application, prospective participants provide:
-
-      - **Personal details** (name, age, contact details, etc.)
-      - **Educational background**
-      - **Relevant experience** (in an organisation, community, etc.)
-      - **Responses to 4-5 provided questions** (up to 150 words each)
-      - **Description of a civic engagement project** to be developed through the DDA.
-
-      Download the [DDA Applicants Infopack](/assets/files/DDA_Applicants_infopack.pdf).
-
-      [Watch the recording](https://www.youtube.com/watch?v=1Vi3Is3AB78) of the information seminar for interested participants that took place on 1 November.
-
+      - **1. oktoober 2022:** Avatakse taotlusprotsess
+      - **1. november 2022:** [Infoseminar](https://forms.gle/Rc5LApai1hHFZFgu5) huvitatud osalejatele
+      - **10. november 2022:** Lõpeb taotluste esitamine
+      - **2. detsember 2022:** Valikukriteeriumide alusel valitud kandidaatide väljakuulutamine.
+      - **6.-22. detsember 2022:** Vestlused kandidaatidega
+      - **28. detsember 2022:** Valitud kandidaatide väljakuulutamine.
 
       ***********
 
-      ## Attendance and Training Contract { #attendance .pt-5 }
+      ## Osalejate valiku kriteeriumid { #osalejate-kriteeriumid .pt-5 }
+
+      - **Kesktasemel inglise keele oskus** (vähemalt B2), nii kirjalikult kui ka suuliselt. Seda tõendatakse vestluste käigus.
+      - **Aktiivne kodanik või -juht** kogukonnas, kodanikuühiskonna rühmas või valitsusvälises organisatsioonis.
+      - **Eelistatavalt ühe sihtriigi elanik**: Gruusia, Albaania, Indoneesia, Ameerika Ühendriigid, Eesti ja muud ELi/EMP riigid. Piiratud arv kohti on saadaval ka teiste riikide elanikele.
+      - **Kõrgelt motiveeritud osalema kogu 10-kuulise programmi vältel**, mis hõlmab nii veebisessioone kui ka 10-päevast Bootcampi kohapeal Tallinnas, Eestis.
+      - **Valmis tasuma reisipileti ja viisa kulud** (vajadusel), et reisida Eestisse bootcamp'ile.
+      - **Tugev pühendumus**, et efektiivselt säilitada võrgustikutöö ja meeskonnatöö teiste riikide noortega osana ülemaailmsest võrgustikust.
+      - **Pühendumus võrdsusele** (rass, religioon, sugu, seksuaalsus jne).
+      - **Vanus 20-35 aastat** (vajadusel tehakse erandeid).
+
+      ***********
+      ## Kuidas esitada taotlust { #kuidas-esitada-taotlust .pt-5 }
+
+      Taotluste vastuvõtt 2023 DKK programmi on nüüd lõppenud.
+
+      Taotluses peate esitama:
+
+      - **Isiklikud andmed** (nimi, vanus, kontaktandmed jne).
+      - **Hariduslik taust**
+      - **Rakendatav kogemus** (organisatsioonis, kogukonnas jne).
+      - **Vastused 4-5 esitatud küsimusele** (kuni 150 sõna).
+      - **Kodanikualgatuse projekti kirjeldus**, mis töötatakse välja DKK kaudu.
+
+      Palun laadige alla ja töötage läbi [DKK taotlejate infopakk](/assets/files/DDA_Applicants_infopack.pdf) enne kandideerimist.
+
+      Vaadake 1. novembril toimunud [infoseminari salvestust.](https://www.youtube.com/watch?v=1Vi3Is3AB78).
 
 
-      Upon acceptance into the programme, **participants will be expected to purchase return travel tickets and visa** (where required) from their country of residence to Estonia, for the Democracy Defenders Bootcamp, 27 March - 5 April 2023. Participants will therefore need to confirm in the application form that they are willing and able to cover this cost. **Participation in this programme is otherwise free of charge.**
+      ***********
 
-      **It is required that all participants will attend at least 80% of the online training sessions and 100% of the Democracy Defenders Bootcamp in Estonia.** Training Contracts between all participants and Citizen OS Foundation will be signed, and if participation requirements are not being met, Citizen OS will have the right to ask the participant for a reimbursement of the cost of the training.
+      ## Osavõtu- ja koolitusleping { #osavott .pt-5 }
 
 
-      <br>[← Back to DDA homepage](/dda)
+      Pärast programmi vastuvõtmist **peavad osalejad soetama oma elukohariigist edasi-tagasi reisipiletid ja viisa** (vajadusel) Eestisse, et osaleda 27. märtsist 5. aprillini 2023 toimuvas demokraatia kaitsjate bootcamp'is (Demokraatia Kaitsjate Bootcamp). Osalejad peavad seega taotlusvormil kinnitama, et nad on valmis ja võimelised neid kulusid katma. **Programmis endas osalemine on tasuta.**
+
+      **On nõutav, et kõik osalejad võtaksid osa vähemalt 80% veebikoolitustest ja 100% demokraatia kaitsjate bootcampist Eestis.** Kõigi osalejate ja Citizen OS Foundationi vahel sõlmitakse koolitusleping ning kui osalemisnõudeid ei täideta, on Citizen OSil õigus nõuda osalejalt koolituskulude tagasimaksmist.
+
+
+      <br>[← Tagasi DKK kodulehele](/et/demokraatia-kaitsjate-kiirendi/)
   join:
-    title: Democracy Defenders Accelerator
+    title: Demokraatia Kaitsjate Kiirendi
     date: 20. jaanuar – 17. november 2023
     time: Erinevad toimumisajad
     price:
     deadlineTitle: Taotlemistähtaeg
     deadline: 10. november 2022
-    how: Applications are now closed.
+    how: Taotluste vastuvõtt on nüüdseks lõppenud.
 #button:
 #title: Apply now
 #url: https://forms.gle/kpRzW8KbcciAApED7

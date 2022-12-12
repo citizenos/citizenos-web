@@ -89,7 +89,7 @@ blocks:
       background-position: 100% 15%, 90% 15%
       background-size: 165px 165px, 350px 350px
     text: |
-      ![A female member of Citizen OS staff attending an event to answer questions about the platform.](/assets/images/product-features.jpg){ .img-fluid .box-shadow }
+      ![Citizen OS-i personali naisliige avalikul üritusel platvormi kohta esitatud küsimustele vastamas.](/assets/images/product-features.jpg){ .img-fluid .box-shadow }
   features:
     class:
       - order-4
@@ -148,7 +148,7 @@ blocks:
     class:
       - order-6
     text: |
-      ![A screenshot of the Citizen OS platform being used for participatory democracy.](/assets/images/product-case-study-2.jpg){ .img-fluid .box-shadow }
+      ![Osalusdemokraatia teostamiseks kasutatava Citizen OS-i platvormi kuvatõmmis.](/assets/images/product-case-study-2.jpg){ .img-fluid .box-shadow }
   case-study-2:
     class:
       - order-5
@@ -166,7 +166,7 @@ blocks:
       - order-7
       - order-sm-7
     text: |
-      ![Many indonesians smiling, wearing World Cleanup Day shirts, walking on a beach, carrying bags full of plastic garbage.](/assets/images/product-case-study.jpeg){ .img-fluid .box-shadow }
+      ![Paljud indoneeslased naeratavad, kannavad maailma puhastuspäeva särke, jalutavad rannal ja kannavad plastprügiga täidetud kotte.](/assets/images/product-case-study.jpeg){ .img-fluid .box-shadow }
   case-study:
     class:
       - order-8
@@ -179,9 +179,9 @@ blocks:
     title: |
       Rohelisema Indoneesia nimel.
     text: |
-      With their [34 Islands Project](/news/the-34-islands-project-for-a-greener-indonesia), civic movement Let’s Do It Indonesia is working to build a greener future.
+      Oma [34 saare projektiga](/news/the-34-islands-project-for-a-greener-indonesia) soovib kodanikualgatus Teeme Ära Indoneesia luua puhtama tulevikuühiskonna.
 
-      Using the Citizen OS platform, local people can submit sustainable waste management ideas and vote for their favourites.
+      Platvormil Citizen OS saavad kohalikud elanikud esitada ideid jätkusuutliku jäätmekäitlussüsteemi loomiseks ja ka oma lemmikideede poolt hääletada.
   stats:
     class:
       - order-9
