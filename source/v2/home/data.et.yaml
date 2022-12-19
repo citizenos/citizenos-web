@@ -3,9 +3,9 @@ sections:
   header:
     type: header
     color: blue
-    title: Let’s decide together!
+    title: Otsustame koos!
     text: |
-      Make smarter, more impactful decisions based on respectful discussions on our free, open-source participation platform.
+      Tee arukamaid ja mõjusamaid otsuseid, mis põhinevad meie tasuta, avatud lähtekoodiga osalusplatvormil toimuvatel lugupidavatel aruteludel.
     image: /v2/images/illustrations/homepage-hero.svg
     buttons:
       demo:
@@ -14,144 +14,144 @@ sections:
         icon: play
         url: '#UC44qCCIixE'
       platform:
-        title: Use platform
+        title: Ava platvorm
         icon: arrow-right
         url: https://app.citizenos.com
         target: _blank
   what-is:
     type: 3-columns
-    title: What is Citizen OS?
+    title: Mis on Citizen OS?
     text: |
-      It is our mission to empower as many people as possible to participate in respectful, meaningful discussions in order to collaboratively decide in issues that affect their wellbeing
+      Meie missiooniks on anda võimalikult paljudele inimestele võimalus osaleda lugupidavates ja sisulistes aruteludes, et ühiselt otsustada nende heaolu mõjutavates küsimustes
     columns:
       platform:
-        title: Platform
+        title: Platvorm
         image: /v2/images/illustrations/platform.svg
         text: |
-          To bring democracy closer to the people, we’ve developed an open source participation platform for organisations and communities.
+          Et tuua demokraatia inimestele lähemale, oleme välja töötanud avatud lähtekoodiga osalusplatvormi organisatsioonidele ja kogukondadele.
 
-          On it, you can engage people across different locations and timezones to discuss and decide on the topics that affect their lives and well-being.
+          Platvormil saad kaasata kõiki, kusiganes või mis ajavööndis nad ka ei asuks, et arutada ja otsustada nende elu- ja heaolu mõjutavate teemade üle.
         link:
-          title: Learn more
-          url: /product
+          title: Vaata lisa
+          url: /et/toode
       hub:
-        title: Knowledge Hub
+        title: Teadmiste Keskus
         image: /v2/images/illustrations/hub.svg
         text: |
-          In our Knowledge Hub, you can learn about participatory e-democracy, why democracy is so important  in the age of technology, and how to make it work in your community or organisation.
+          Meie Teadmiste Keskus annab ülevaadet selle kohta, mis on osalusdemokraatia, miks demokraatia on tehnoloogiaajastul nii oluline ja kuidas seda oma kogukonnas või organisatsioonis toimima panna.
 
-          Learn how Citizen OS can help you to be more engaging and participatory.
+          Uuri, kuidas Citizen OS saab aidata sul olla kaasavam ja osalusvõimelisem.
         link:
-          title: Coming soon!
+          title: Peagi lisandumas!
           url:
       projects:
-        title: Global projects
+        title: Rahvusvahelised projektid
         image: /v2/images/illustrations/projects.svg
         text: |
-          Together with our awesome partners, we lead globally renowned participatory e-democracy projects, which prove the value of respectful discussions and collaborative decision-making. Our projects are mostly aimed at community leaders and civic activists.
+          Koostöös meie imeliste partneritega juhime ülemaailmselt tuntud osalusdemokraatia projekte, mis tõestavad lugupidavate arutelude ja ühiste otsuste tegemise väärtust. Meie projektid on suunatud peamiselt kogukonna juhtidele ja kodanikuaktivistidele.
         link:
-          title: Check out what we're up to!
-          url: /projects
+          title: Vaata, millega tegeleme!
+          url: /et/projektid
   connecting:
     type: media
     color: blue
-    title: Connecting people and communities
+    title: Ühendades inimesi ja kogukondi
     text: |
-      Technology enables us to bring together the voices of a large number of people, regardless of their geographical location or time zone.
+      Tehnoloogia võimaldab meil koondada suure hulga inimeste hääli, olenemata nende geograafilisest asukohast või ajavööndist.
 
-      **For better quality decisions**
+      **Kvaliteetsemate otsuste tegemiseks**
 
-      The more people who participate in the decision-making process, the higher the quality of decisions. On the Citizen OS platform you can ask everyone's opinion on the topics that affect their own lives and well-being.
+      Mida rohkem inimesi osaleb otsustusprotsessis, seda kvaliteetsemad on otsused. Citizen OS platvormil saab küsida igaühe arvamust teemadel, mis mõjutavad tema elu ja heaolu.
     video: hDLWbQQAk8g
   features:
     type: accordion
-    title: Main features
+    title: Peamised funktsioonid
     cards:
       crowdsourcing:
-        title: Crowdsourcing ideas
+        title: Ideekorje
         color: yellow
         icon: ideation
         image: /v2/images/illustrations/ideation.svg
         text: |
-          Gather a large number of ideas for creative solutions. Experience the collective wisdom and intelligence from putting many heads together.
+          Kogu kokku suure hulga ideid loominguliste lahenduste leidmiseks. Koge kollektiivset tarkust ja intelligentsust, mis tuleneb paljude peade kokku panemisest.
       #link:
       #title: Learn more
       #url: ./#
       discussions:
-        title: Discussions
+        title: Arutelud
         color: blue
         icon: discussions
         image: /v2/images/illustrations/discussions.svg
         text: |
-          Start respectful and meaningful discussions and engage people with different opinions. Let the arguments speak for themselves!
+          Algata lugupidavaid ja sisukaid arutelusid ning kaasa erineva arvamusega inimesi. Lase argumentidel rääkida enda eest.
       #link:
       #title: Learn more
       #url: ./#
       voting:
-        title: Voting
+        title: Hääletamine
         color: green
         icon: voting
         image: /v2/images/illustrations/voting.svg
         text: |
-          Make collaborative and democratic decisions together with the people whose lives and well-being are directly affected by them.
+          Tee ühiseid ja demokraatlikke otsuseid koos inimestega, kelle elu ja heaolu need otseselt mõjutavad.
       #link:
       #title: Learn more
       #url: ./#
       followup:
-        title: Follow up
+        title: Otsuse elluviimine
         color: purple
         icon: followup
         image: /v2/images/illustrations/followup.svg
         text: |
-          Keep people updated with the further discussions and actions taken.
+          Hoia inimesi kursis edasiste arutelude ja võetud meetmetega.
   #link:
   #title: Learn more
   #url: ./#
   who-uses:
     type: 2-columns
     color: yellow
-    title: Who uses our platform?
+    title: Kes on meie platvormi kasutajad?
     text: |
-      Our platform is designed for organisations and communities who value a diversity of opinions. It’s especially loved by civil society leaders who believe that everyone has the right to make their voice heard. While the below are our most common types of user, the platform is used by all kinds of groups. Schools, local governments, book clubs, friendship groups, families – you name it!
+      Meie platvorm on mõeldud organisatsioonidele ja kogukondadele, mis hindavad arvamuste mitmekesisust. Seda armastavad eriti kodanikuühiskonna juhid, kes usuvad, et igaühel on õigus oma hääl kuuldavaks teha. Ehkki allpool on nimetatud meie kõige levinumad kasutajatüübid, kasutavad platvormi kõikvõimalikud erinevad rühmad. Koolid, kohalikud omavalitsused, raamatuklubid, sõpruskonnad, perekonnad - kõik, kellel on vaja millegi üle otsustada!
     columns:
       one:
-        title: Civic movements
+        title: Kodanikuliikumised
         image: /v2/images/illustrations/civic-movements.svg
         text: |
-          These changemakers use the Citizen OS platform to initiate public discussions and collect ideas on the topics that they stand for, be it the protection of flying squirrels, women rights or the ethics of AI. They send the result of the discussions to the local government or other decision-makers to amend the law or change regulations. They often also use the platform internally, to engage their members in decisions relating to their organisation.
+          Need muutuste tegijad kasutavad Citizen OS platvormi, et algatada avalikke arutelusid ja koguda ideid teemadel, mille eest nad seisavad, olgu selleks siis kas lendoravate kaitse, naiste õigused või tehisintellekti eetika. Nad saadavad arutelude tulemused kohalikele omavalitsustele või teistele otsustajatele, et nad muuta seadusi või määrusi. Sageli kasutavad nad platvormi ka organisatsioonisiseselt, et kaasata liikmeid oma organisatsiooni puudutavate otsuste tegemisse.
         #textMore: |
         #Ut mollit officia adipisicing eu deserunt officia sunt occaecat ea sint adipisicing. Et consectetur velit occaecat ut cupidatat enim exercitation esse excepteur voluptate ea sunt culpa. Culpa deserunt officia irure eu do amet anim eiusmod consectetur ullamco.
         #Quis nisi officia elit veniam esse do laborum ad tempor pariatur et. Proident velit eiusmod voluptate excepteur. Ullamco eu non veniam quis deserunt duis.
         link:
-          title: Read more
+          title: Loe edasi
           url: './#'
       two:
-        title: Active citizens
+        title: Aktiivsed kodanikud
         image: /v2/images/illustrations/active-citizens.svg
         text: |
-          Active citizens are the ones who raise difficult questions about the problems facing their communities, and invite their community members into the discussion on the Citizen OS platform. Whether it’s the local government´s proposed construction project or changes to the local bus schedule, active citizens take action to discuss and communicate their opinions to the decision-makers.
+          Aktiivsed kodanikud on need, kes tõstatavad keerulisi küsimusi oma kogukonna ees seisvate probleemide kohta ning kutsuvad oma kogukonna liikmeid arutlema nende üle Citizen OS platvormil. Ükskõik, kas tegemist on kohaliku omavalitsuse kavandatud ehitusprojektiga või kohaliku bussigraafiku muudatustega, aktiivsed kodanikud võtavad meetmeid, et arutada ja edastada oma arvamus otsustajatele.
         textMore: |
-          Smaller communities, such as neighbours in the same building, often discuss in private groups what to build on their empty yard, or decide on what kind of administrative service provider to contract.
+          Väiksemad kogukonnad, nagu näiteks samas majas elavad naabrid, arutavad sageli erarühmades, mida ehitada oma tühjale hoovile, või otsustavad, millise haldusteenuse pakkujaga lepinguid sõlmida.
         link:
-          title: Read more
+          title: Loe edasi
           url: './#'
       three:
-        title: Professional Unions and Associations
+        title: Kutseühingud ja -liidud
         image: /v2/images/illustrations/professionals.svg
         text: |
-          These guys are so busy that it's almost impossible to get them in the same room at the same time! That’s why they use our platform for asynchronous meetings and general meetings. They hold discussions and votes: setting the directions of their advocacy groups, electing board members and approving the annual report.
+          Nad on nii hõivatud, et neid on peaaegu võimatu korraga ühte tuppa saada! Seepärast kasutavad nad meie platvormi asünkroonseteks koosolekuteks ja üldkoosolekuteks. Nad peavad arutelusid ja hääletusi, määrates oma huvigruppide suunad, valides juhatuse liikmeid ja kiites heaks aastaaruande.
         textMore: |
-          Members are also engaged in the everyday decisions of these organisations, with every member able to participate regardless of their location or schedule.
+          Liikmed osalevad ka nende organisatsioonide igapäevastes otsustes, kusjuures iga liige saab osaleda sõltumata oma asukohast või ajakavast.
         link:
-          title: Read more
+          title: Loe edasi
           url: './#'
       four:
-        title: Political parties
+        title: Erakonnad
         image: /v2/images/illustrations/politics.svg
         text: |
-          Party members participate in internal discussions on the Citizen OS platform, to decide on their party's political stance. This means party representatives can be confident they’re communicating the party's collective position, not just their personal opinion.
+          Erakonnaliikmed osalevad Citizen OSi platvormil peetavatel sisemistel aruteludel, et otsustada oma erakonna poliitilise seisukoha üle. See tähendab, et erakonna esindajad võivad olla kindlad, et nad edastavad erakonna kollektiivset seisukohta, mitte ainult oma isiklikku arvamust.
         link:
-          title: Read more
+          title: Loe edasi
           url: './#'
   #templates:
   #type: 4-columns
@@ -192,26 +192,26 @@ sections:
   #Esse commodo velit labore eiusmod tempor cupidatat do officia aliqua. Velit tempor enim duis dolor exercitation mollit occaecat nostrud. Voluptate consectetur reprehenderit id sunt anim. Aliqua officia esse ullamco anim incididunt esse enim qui.
   stats:
     type: stats
-    title: Our impact keeps on growing
+    title: Meie mõju kasvab jätkuvalt
     columns:
       one:
-        title: Discussions
+        title: Arutelud
         field: topicsCreated
       two:
-        title: Votes
+        title: Hääled
         field: votesCast
       three:
-        title: Groups
+        title: Grupid
         field: groupsCreated
       four:
-        title: Users
+        title: Kasutajad
         field: usersCreated
   banner:
     type: banner
     color: blue
-    title: Want to try it out?
+    title: Soovid proovida?
     text: |
-      It’s free for everybody and for always!
+      See on kõigile igavesti tasuta.
     image: /v2/images/illustrations/cta.svg
     buttons:
       demo:
