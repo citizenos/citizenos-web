@@ -146,10 +146,10 @@ blocks:
         text: |
             In our ʻDigital Transformation for Civic Engagementʼ youth exchange programme, Europe’s next generation of leaders learn civic engagement project design and participatory leadership, through hands-on ʻlearning by doingʼ methods.
 
-#        button1st:
-#            title: Learn more
-#            url: https://winterschool.tlu.ee/digital-innovation-for-civic-engagement-projects/
-#            target: _blank
+        button1st:
+            title: Learn more
+            url: https://participationpool.eu/project/leading-by-doing-digital-transformation-for-civic-engagement/
+            target: _blank
 
 
     awareness:
