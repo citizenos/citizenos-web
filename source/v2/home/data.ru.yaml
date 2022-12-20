@@ -28,7 +28,7 @@ sections:
         title: Platform
         image: /v2/images/illustrations/platform.svg
         text: |
-          To bring democracy closer to the people, we’ve developed an open source participation platform for organisations and communities.
+          To bring democracy closer to the people, we’ve developed an open source participation platform for citizens and communities.
 
           On it, you can engage people across different locations and timezones to discuss and decide on the topics that affect their lives and well-being.
         link:
@@ -112,7 +112,7 @@ sections:
     color: yellow
     title: Who uses our platform?
     text: |
-      Our platform is designed for organisations and communities who value a diversity of opinions. It’s especially loved by civil society leaders who believe that everyone has the right to make their voice heard. While the below are our most common types of user, the platform is used by all kinds of groups. Schools, local governments, book clubs, friendship groups, families – you name it!
+      Our platform is designed for citizens and communities who value a diversity of opinions. It’s especially loved by civil society leaders who believe that everyone has the right to make their voice heard. While the below are our most common types of user, the platform is used by all kinds of groups. Schools, local governments, book clubs, friendship groups, families – you name it!
     columns:
       one:
         title: Civic movements

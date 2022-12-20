@@ -5,7 +5,7 @@ sections:
     color: blue
     title: Otsustame koos!
     text: |
-      Tee arukamaid ja mõjusamaid otsuseid, mis põhinevad meie tasuta, avatud lähtekoodiga osalusplatvormil toimuvatel lugupidavatel aruteludel.
+      Algata kaasavaid arutelusid ning tee targemaid ja mõjusamaid otsuseid meie tasuta, avatud lähtekoodiga platvormil.
     image: /v2/images/illustrations/homepage-hero.svg
     buttons:
       demo:
@@ -22,15 +22,15 @@ sections:
     type: 3-columns
     title: Mis on Citizen OS?
     text: |
-      Meie missiooniks on anda võimalikult paljudele inimestele võimalus osaleda lugupidavates ja sisulistes aruteludes, et ühiselt otsustada nende heaolu mõjutavates küsimustes
+      Meie missiooniks on anda võimalikult paljudele inimestele võimalus osaleda lugupidavates ja sisulistes aruteludes, et ühiselt otsustada nende teemade üle, mis inimesi otseselt mõjutavad
     columns:
       platform:
         title: Platvorm
         image: /v2/images/illustrations/platform.svg
         text: |
-          Et tuua demokraatia inimestele lähemale, oleme välja töötanud avatud lähtekoodiga osalusplatvormi organisatsioonidele ja kogukondadele.
+          To bring democracy closer to the people, we’ve developed an open source participation platform for citizens and communities.
 
-          Platvormil saad kaasata kõiki, kusiganes või mis ajavööndis nad ka ei asuks, et arutada ja otsustada nende elu- ja heaolu mõjutavate teemade üle.
+          On it, you can engage people across different locations and timezones to discuss and decide on the topics that affect their lives and well-being.
         link:
           title: Vaata lisa
           url: /et/toode
@@ -112,7 +112,7 @@ sections:
     color: yellow
     title: Kes on meie platvormi kasutajad?
     text: |
-      Meie platvorm on mõeldud organisatsioonidele ja kogukondadele, mis hindavad arvamuste mitmekesisust. Seda armastavad eriti kodanikuühiskonna juhid, kes usuvad, et igaühel on õigus oma hääl kuuldavaks teha. Ehkki allpool on nimetatud meie kõige levinumad kasutajatüübid, kasutavad platvormi kõikvõimalikud erinevad rühmad. Koolid, kohalikud omavalitsused, raamatuklubid, sõpruskonnad, perekonnad - kõik, kellel on vaja millegi üle otsustada!
+      Our platform is designed for citizens and communities who value a diversity of opinions. It’s especially loved by civil society leaders who believe that everyone has the right to make their voice heard. While the below are our most common types of user, the platform is used by all kinds of groups. Schools, local governments, book clubs, friendship groups, families – you name it!
     columns:
       one:
         title: Kodanikuliikumised
