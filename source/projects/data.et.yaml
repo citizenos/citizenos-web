@@ -124,10 +124,10 @@ blocks:
       Erasmus+ noortevahetus
     text: |
       Meie noortevahetusprogrammis ʻDigital Transformation for Civic Engagementʼ õpivad Euroopa järgmise põlvkonna juhid praktiliste ʻlearning by doingʼ meetodite abil kodanike kaasamise projektide kavandamist ja osalusjuhtimist.
-  #button1st:
-  #title: Learn more
-  #url: https://winterschool.tlu.ee/digital-innovation-for-civic-engagement-projects/
-  #target: _blank
+    button1st:
+      title: Learn more
+      url: https://participationpool.eu/project/leading-by-doing-digital-transformation-for-civic-engagement/
+      target: _blank
   awareness:
     class:
       - order-9
