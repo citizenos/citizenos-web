@@ -220,7 +220,7 @@ sections:
         icon: play
         url: '#UC44qCCIixE'
       platform:
-        title: Use platform
+        title: Ava platvorm
         icon: arrow-right
         url: https://app.citizenos.com
         target: _blank
