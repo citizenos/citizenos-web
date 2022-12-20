@@ -5,7 +5,7 @@ sections:
     color: blue
     title: Otsustame koos!
     text: |
-      Tee arukamaid ja mõjusamaid otsuseid, mis põhinevad meie tasuta, avatud lähtekoodiga osalusplatvormil toimuvatel lugupidavatel aruteludel.
+      Algata kaasavaid arutelusid ning tee targemaid ja mõjusamaid otsuseid meie tasuta, avatud lähtekoodiga platvormil.
     image: /v2/images/illustrations/homepage-hero.svg
     buttons:
       demo:
@@ -22,15 +22,15 @@ sections:
     type: 3-columns
     title: Mis on Citizen OS?
     text: |
-      Meie missiooniks on anda võimalikult paljudele inimestele võimalus osaleda lugupidavates ja sisulistes aruteludes, et ühiselt otsustada nende heaolu mõjutavates küsimustes
+      Meie missiooniks on anda võimalikult paljudele inimestele võimalus osaleda lugupidavates ja sisulistes aruteludes, et ühiselt otsustada nende teemade üle, mis inimesi otseselt mõjutavad
     columns:
       platform:
         title: Platvorm
         image: /v2/images/illustrations/platform.svg
         text: |
-          Et tuua demokraatia inimestele lähemale, oleme välja töötanud avatud lähtekoodiga osalusplatvormi organisatsioonidele ja kogukondadele.
+          Et tuua demokraatia inimestele lähemale, oleme välja töötanud platvormi, mis on mõeldud kodanikele ja kogukondadele.
 
-          Platvormil saad kaasata kõiki, kusiganes või mis ajavööndis nad ka ei asuks, et arutada ja otsustada nende elu- ja heaolu mõjutavate teemade üle.
+          Platvormi abil saad kaasata inimesi sõltumata nende asukohast või ajavööndist, et ühiselt arutada ja otsustada oluliste teemade üle.
         link:
           title: Vaata lisa
           url: /et/toode
@@ -38,7 +38,7 @@ sections:
         title: Teadmiste Keskus
         image: /v2/images/illustrations/hub.svg
         text: |
-          Meie Teadmiste Keskus annab ülevaadet selle kohta, mis on osalusdemokraatia, miks demokraatia on tehnoloogiaajastul nii oluline ja kuidas seda oma kogukonnas või organisatsioonis toimima panna.
+          Meie Teadmiste Keskus annab ülevaate selle kohta, mis on osalusdemokraatia, miks demokraatia on tehnoloogiaajastul nii oluline ja kuidas seda oma kogukonnas või organisatsioonis toimima panna.
 
           Uuri, kuidas Citizen OS saab aidata sul olla kaasavam ja osalusvõimelisem.
         link:
@@ -48,7 +48,7 @@ sections:
         title: Rahvusvahelised projektid
         image: /v2/images/illustrations/projects.svg
         text: |
-          Koostöös meie imeliste partneritega juhime ülemaailmselt tuntud osalusdemokraatia projekte, mis tõestavad lugupidavate arutelude ja ühiste otsuste tegemise väärtust. Meie projektid on suunatud peamiselt kogukonna juhtidele ja kodanikuaktivistidele.
+          Koostöös partneritega viime läbi rahvusvahelisi osalusdemokraatia projekte, mis keskenduvad kaasavate arutelude läbiviimisele ning ühiste otsusteni jõudmisele.
         link:
           title: Vaata, millega tegeleme!
           url: /et/projektid
@@ -73,7 +73,7 @@ sections:
         icon: ideation
         image: /v2/images/illustrations/ideation.svg
         text: |
-          Kogu kokku suure hulga ideid loominguliste lahenduste leidmiseks. Koge kollektiivset tarkust ja intelligentsust, mis tuleneb paljude peade kokku panemisest.
+          Kogu kokku suur hulk ideid parimate lahenduste leidmiseks. Saa osa ühistarkusest, mis juhtub siis, kui suur hulk inimesi jagab oma ideid ja mõtteid.
       #link:
       #title: Learn more
       #url: ./#
@@ -103,7 +103,7 @@ sections:
         icon: followup
         image: /v2/images/illustrations/followup.svg
         text: |
-          Hoia inimesi kursis edasiste arutelude ja võetud meetmetega.
+          Anna inimestele teada, missugused on järgmised sammud, et otsus ellu viia.
   #link:
   #title: Learn more
   #url: ./#
@@ -112,7 +112,7 @@ sections:
     color: yellow
     title: Kes on meie platvormi kasutajad?
     text: |
-      Meie platvorm on mõeldud organisatsioonidele ja kogukondadele, mis hindavad arvamuste mitmekesisust. Seda armastavad eriti kodanikuühiskonna juhid, kes usuvad, et igaühel on õigus oma hääl kuuldavaks teha. Ehkki allpool on nimetatud meie kõige levinumad kasutajatüübid, kasutavad platvormi kõikvõimalikud erinevad rühmad. Koolid, kohalikud omavalitsused, raamatuklubid, sõpruskonnad, perekonnad - kõik, kellel on vaja millegi üle otsustada!
+      Meie platvorm on mõeldud kodanikele ja kogukondadele, mis hindavad arvamuste mitmekesisust. Seda armastavad eriti kodanikuühiskonna juhid, kes usuvad, et igaühel on õigus oma hääl kuuldavaks teha. Ehkki allpool on nimetatud meie kõige levinumad kasutajatüübid, kasutavad platvormi kõikvõimalikud erinevad rühmad. Koolid, kohalikud omavalitsused, raamatuklubid, sõpruskonnad, perekonnad - kõik, kellel on vaja millegi üle otsustada!
     columns:
       one:
         title: Kodanikuliikumised
