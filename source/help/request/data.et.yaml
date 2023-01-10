@@ -7,7 +7,7 @@ text: Kui meie abikeskus ei suutnud sind aidata, siis anna palun meile teada, mi
 form:
   title: Mida sa püüad teha?
   message: Kirjuta siia...
-  email: E-mail address
+  email: E-posti aadress
   submit: Saada
   success: |
     **Sinu abipalve on saadetud!**
