@@ -89,7 +89,7 @@ blocks:
       background-position: 100% 15%, 90% 15%
       background-size: 165px 165px, 350px 350px
     text: |
-      ![A female member of Citizen OS staff attending an event to answer questions about the platform.](/assets/images/product-features.jpg){ .img-fluid .box-shadow }
+      ![Citizen OS:n naispuolinen työntekijä osallistumassa tapahtumaan vastatakseen kysymyksiin tästä alustasta.](/assets/images/product-features.jpg){ .img-fluid .box-shadow }
   features:
     class:
       - order-4
@@ -148,7 +148,7 @@ blocks:
     class:
       - order-6
     text: |
-      ![A screenshot of the Citizen OS platform being used for participatory democracy.](/assets/images/product-case-study-2.jpg){ .img-fluid .box-shadow }
+      ![Näyttökuva siitä, kuinka Citizen OS -alustaa käytetään osallistavaan demokratiaan.](/assets/images/product-case-study-2.jpg){ .img-fluid .box-shadow }
   case-study-2:
     class:
       - order-5
@@ -166,7 +166,7 @@ blocks:
       - order-7
       - order-sm-7
     text: |
-      ![Many indonesians smiling, wearing World Cleanup Day shirts, walking on a beach, carrying bags full of plastic garbage.](/assets/images/product-case-study.jpeg){ .img-fluid .box-shadow }
+      ![Monet indonesialaiset pitävät hymyssä suin World Cleanup Day -paitoja, siivoavat rannoilta muoviroskaa.](/assets/images/product-case-study.jpeg){ .img-fluid .box-shadow }
   case-study:
     class:
       - order-8
@@ -179,9 +179,9 @@ blocks:
     title: |
       Vihreämmän Indonesian puolesta.
     text: |
-      With their [34 Islands Project](/news/the-34-islands-project-for-a-greener-indonesia), civic movement Let’s Do It Indonesia is working to build a greener future.
+      Kansanliike Let’s Do It Indonesia työskentelee vihreämmän tulevaisuuden puolesta [34 Islands Project](/news/the-34-islands-project-for-a-greener-indonesia) -projektin avulla.
 
-      Using the Citizen OS platform, local people can submit sustainable waste management ideas and vote for their favourites.
+      Paikalliset ihmiset voivat lähettää Citizen OS -alustan avulla kestäviä jätteenkäsittelyideoita ja äänestää suosikki-ideoitaan.
   stats:
     class:
       - order-9
