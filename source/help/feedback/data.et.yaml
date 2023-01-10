@@ -7,7 +7,7 @@ text: Soovid jagada meiega oma mõtteid või kommentaare – nii kiitvaid kui ka
 form:
   title: Kirjuta siia oma kommentaar
   message: Kirjuta siia...
-  email: E-mail address
+  email: E-posti aadress
   submit: Saada
   success: |
     **Suur tänu tagasiside eest!**
