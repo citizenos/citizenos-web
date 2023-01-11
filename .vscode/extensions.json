@@ -2,7 +2,6 @@
   "recommendations": [
     "bradlc.vscode-tailwindcss",
     "editorconfig.editorconfig",
-    "eg2.vscode-npm-script",
     "mrmlnc.vscode-pugbeautify",
     "sysoev.language-stylus"
   ]
