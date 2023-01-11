@@ -23,6 +23,9 @@ nav a,
 nav a:hover {
     @apply !no-underline;
 }
+nav .active {
+    background: linear-gradient(89.99deg, #FCA997 0.02%, #EABFBC 34.65%, #FFEFD6 66.94%, #F9E1A7 100%);
+}
 
 footer .footer-border {
     background: linear-gradient(89.99deg, #FCA997 0.02%, #EABFBC 34.65%, #FFEFD6 66.94%, #F9E1A7 100%);

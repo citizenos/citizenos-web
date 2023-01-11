@@ -1,11 +1,15 @@
-nav.sticky.top-0.h-16.md_h-24.bg-white.flex.items-center.z-50
-    .w-full.lg_container.lg_mx-auto.px-4.md_px-6.flex.items-center.justify-between.gap-4.xl_gap-14
+nav.sticky.top-0.bg-white.flex.items-center.z-50
+    .w-full.h-16.md_h-24.lg_container.lg_mx-auto.px-4.md_px-6.flex.items-center.justify-between.gap-4.xl_gap-14
         a.grow(href=rootUrl)
             img.h-10(src='/v2/images/cos-logo.svg' alt='COS Logo')
 
-        .grow.hidden.lg_flex.items-center.justify-end.gap-4.xl_gap-14
+        .grow.hidden.lg_flex.items-center.justify-center.gap-4.xl_gap-14
             each nav in self.navigation
-                a.py-4.text-black.hover_text-black(href=nav.url)= nav.title
+                if nav.url.replaceAll('/', '') === self.path.replaceAll('/', '')
+                    .active.h-16.md_h-24.pb-1.flex
+                        a.pt-1.flex.items-center.justify-center.text-black.hover_text-black.bg-white(href=nav.url)= nav.title
+                else
+                    a.h-16.md_h-24.flex.items-center.justify-center.text-black.hover_text-black(href=nav.url)= nav.title
 
         .flex.items-center.justify-end.gap-4
             .relative.hidden.lg_block
