@@ -3,71 +3,94 @@ extends /_templates/main.pug
 
 block content
     +appHelp()
-    #help-content.container.mb-4.py-5
-        if self.data.category
-            each c in self.data.category
-                if self.path.startsWith(c.path)
-                    .row
-                        .col-12.mb-5
-                            a(href=self.data.help.path)=self.data.help.title
-                            span(style='margin:0 .5rem;color:#0680fc') >
-                            a(href=c.path)= c.title
-                            span(style='margin:0 .5rem;color:#0680fc') >
-                            span(style='color:gray')= self.title
 
+    #help-content.container.mb-4.py-5
         .row
             .col-12.col-sm-10.offset-sm-1
-                h1.mb-4= self.title
+                if self.data.category
+                    each c in self.data.category
+                        if self.path.startsWith(c.path)
+                            .row
+                                .col-12.mb-5
+                                    a(href=self.data.help.path)=self.data.help.title
+                                    span(style='margin:0 .5rem;color:#0680fc') >
+                                    a(href=c.path)= c.title
+                                    span(style='margin:0 .5rem;color:#0680fc') >
+                                    span(style='color:gray')= self.title
+
+                h2.mb-4= self.title
                 +markdown(self.text)
 
-        #feedback.row.mb-4.pt-5
-            .col-12.col-sm-10.offset-sm-1
-                h2.mb-3= self.data.help.feedback.title
-                a.gray-box.feedback.mr-3.py-2.px-5(href='javascript:void(0)' data-answer='Yes')= self.data.help.feedback.answerYes
-                a.gray-box.feedback.feedback-not-helpful.py-2.px-5(href='javascript:void(0)' data-answer='No')= self.data.help.feedback.answerNo
+                .row.mb-4.pt-5
+                    .col-12
+                        h2.mb-3= self.data.help.feedback.title
+                    #feedback.col-12
+                        a.gray-box.feedback.mr-3.py-2.px-5(href='javascript:void(0)' data-answer='Yes')= self.data.help.feedback.answerYes
+                        a.gray-box.feedback.feedback-not-helpful.py-2.px-5(href='javascript:void(0)' data-answer='No')= self.data.help.feedback.answerNo
 
-        #feedback-modal.modal.fade(tabindex='-1', role='dialog', aria-hidden='true')
-            .modal-dialog(role='document')
-                .modal-content
-                    .modal-body.p-0
-                        button.close.p-2.pr-3(type='button', data-dismiss='modal', aria-label='Close')
-                            span(aria-hidden='true') ×
-                        .px-3
-                            h2.mt-3= self.data.help.negativeFeedback.title
-                        .row
-                            .col-12
-                                #feedback-form.mb-4
-                                    p.col-12.pt-3= self.data.help.negativeFeedback.text
-                                    h2.col-12.pt-3= self.data.help.negativeFeedback.form.title
-                                    form.col-12(netlify, netlify-honeypot='subject', name='negative feedback for topic')
-                                        textarea.form-control.mb-3(name='message' rows=7 placeholder=self.data.help.negativeFeedback.form.message)
-                                        input.form-control.mb-3(type='email' name='email' placeholder=self.data.help.negativeFeedback.form.email)
-                                        input.d-none(name='subject')
-                                        a#feedback-submit.feedback-btn.form-control(href='javascript:void(0)')= self.data.help.negativeFeedback.form.submit
+                    #feedback-done.d-none.row.col-auto.offset-sm-1.mb-4.pt-2
+                        if self.data.help.feedbackDone && self.data.help.feedbackDone.title && self.data.help.feedbackDone.text
+                            #feedback-done.blue-box
+                                    .flex.items-center.p-3
+                                        svg.float-left.mr-2(width='48' height='48' viewBox='0 0 48 48' fill='none' xmlns='http://www.w3.org/2000/svg')
+                                            circle(cx='24' cy='24' r='20' fill='#0680FC')
+                                            path(fill-rule='evenodd' clip-rule='evenodd' d='M34.6118 17.1843L22.1474 34.1492L13.5235 24.71L16.4765 22.012L21.8112 27.851L31.3883 14.8159L34.6118 17.1843Z' fill='white')
+                                        p
+                                            strong= self.data.help.feedbackDone.title
+                                            br
+                                            = self.data.help.feedbackDone.text + ':'
+                                            strong#feedback-done-result.ml-1 Yes
 
-                                #feedback-success.my-3.d-none
+                #feedback-modal.modal.fade(tabindex='-1', role='dialog', aria-hidden='true')
+                    .modal-dialog(role='document')
+                        .modal-content
+                            .modal-body.p-0
+                                button.close.p-2.pr-3(type='button', data-dismiss='modal', aria-label='Close')
+                                    span(aria-hidden='true') ×
+                                .px-3
+                                    h2.mt-3= self.data.help.negativeFeedback.title
+                                .row
                                     .col-12
-                                        .feedback-blue-box.col-12.mb-3.pt-5.pb-4.text-center
-                                            img.mb-3(src='/assets/images/help/icons/success.svg')
-                                            +markdown(self.data.help.negativeFeedback.form.success)
+                                        #feedback-form.mb-4
+                                            p.col-12.pt-3= self.data.help.negativeFeedback.text
+                                            h2.col-12.pt-3= self.data.help.negativeFeedback.form.title
+                                            form.col-12(netlify, netlify-honeypot='subject', name='negative feedback for topic')
+                                                textarea.form-control.mb-3(name='message' rows=7 placeholder=self.data.help.negativeFeedback.form.message)
+                                                input.form-control.mb-3(type='email' name='email' placeholder=self.data.help.negativeFeedback.form.email)
+                                                input.d-none(name='subject')
+                                                a#feedback-submit.feedback-btn.form-control(href='javascript:void(0)')= self.data.help.negativeFeedback.form.submit
+
+                                        #feedback-success.my-3.d-none
+                                            .col-12
+                                                .feedback-blue-box.col-12.mb-3.pt-5.pb-4.text-center
+                                                    img.mb-3(src='/assets/images/help/icons/success.svg')
+                                                    +markdown(self.data.help.negativeFeedback.form.success)
 
 
-        .row.pt-5
-            .col-12
-                .gray-box.col-12
-                    .row
-                        .col-12.col-sm-5.p-3
-                            h2= self.data.help.search.title
-                            form(action=self.data.help.search.url)
-                                input#search.form-control(type='search' name='q' placeholder=self.data.help.search.placeholder)
+                .row.pt-5
+                    .col-12
+                        .gray-box.col-12
+                            .row
+                                .col-12.col-sm-5.p-3
+                                    h2= self.data.help.search.title
+                                    form(action=self.data.help.search.url)
+                                        input#search.form-control(type='search' name='q' placeholder=self.data.help.search.placeholder)
 
-                        .col-12.col-sm-7.p-3(style='border-left:1px solid #E5E5E5')
-                            h2= self.data.help.alternate.title
-                            ul.list-arrow.list-inline.mt-3.mb-0
-                                li.list-inline-item
-                                    a(href=self.data.help.alternate.request.url)= self.data.help.alternate.request.title
-                                li.list-inline-item
-                                    a(href=self.data.help.alternate.feedback.url)= self.data.help.alternate.feedback.title
+                                .col-12.col-sm-7.p-3(style='border-left:1px solid #E5E5E5')
+                                    h2= self.data.help.alternate.title
+                                    ul.list-arrow.list-inline.mt-3.mb-0
+                                        li.list-inline-item
+                                            a(href=self.data.help.alternate.request.url)= self.data.help.alternate.request.title
+                                        li.list-inline-item
+                                            a(href=self.data.help.alternate.feedback.url)= self.data.help.alternate.feedback.title
+
+block stylus
+    :stylus
+        .blue-box
+            background #D5EAFF;
+
+            border: 1px solid #BADCFF;
+            border-radius: 4px;
 
 
 block script
@@ -77,10 +100,14 @@ block script
         $(function () {
             $('a.feedback').click(function () {
                 $('#feedback').addClass('d-none')
+                $('#feedback-done').removeClass('d-none')
 
                 var answer = $(this).data('answer')
 
-                if (answer === 'No') {
+                if (answer === 'Yes'){
+                    $('#feedback-done-result').html('#{self.data.help.feedback.answerYes}')
+                } else {
+                    $('#feedback-done-result').html('#{self.data.help.feedback.answerNo}')
                     $('#feedback-modal').modal('show')
                 }
 

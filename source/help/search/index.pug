@@ -8,39 +8,42 @@ block content
         var search = (x) => [...new Set(`${x.title} ${x.text}`.toLowerCase().replace(/[.,\/#!$%\^&\*;:{}=\-_`~()"'\t\n\r]/g, '').replace(/\s{2,}/g, ' ').split(' '))].filter(x => !!x).join(' ')
 
     +appHelp()
+
     #help-content.container.mb-4.py-5
         .row
-            .col-12.mb-5
-                a(href=self.data.help.path)=self.data.help.title
-                span(style='margin:0 .5rem;color:#0680fc') >
-                span(style='color:gray')= self.title
+            .col-12.col-sm-10.offset-sm-1
+                .row
+                    .col-12.mb-5
+                        a(href=self.data.help.path)=self.data.help.title
+                        span(style='margin:0 .5rem;color:#0680fc') >
+                        span(style='color:gray')= self.title
 
-        .row
-            h1.col-12.mb-4= self.title
-            p.col-12= self.text
+                .row
+                    h2.col-12.mb-4= self.title
+                    p.col-12= self.text
 
-        .row.mb-4.pt-5
-            h2.col-12= self.data.help.search.title
-            form.col-12.col-sm-6(action=self.data.help.search.url)
-                input#search.form-control(type='search' name='q' placeholder=self.data.help.search.placeholder autofocus autocomplete='off' readonly onfocus='this.removeAttribute("readonly")')
+                .row.mb-4.pt-5
+                    h2.col-12= self.data.help.search.title
+                    form.col-12.col-sm-6(action=self.data.help.search.url)
+                        input#search.form-control(type='search' name='q' placeholder=self.data.help.search.placeholder autofocus autocomplete='off' readonly onfocus='this.removeAttribute("readonly")')
 
-        - delete self.data.category.multipage
-        each category in self.data.category
+                - delete self.data.category.multipage
+                each category in self.data.category
 
-            .row.pt-5.topic-block.d-none
-                h2.col-12= category.title
-                ul.list-arrow.list-unstyled.col-12
-                    - delete self.data['category-' + category.data.topics.split('/')[0]].multipage
-                    each topic in self.data['category-' + category.data.topics.split('/')[0]]
-                        li.topic-title.d-none(data-search=search(topic))
-                            a(href=topic.path)= topic.title
+                    .row.pt-5.topic-block.d-none
+                        h2.col-12= category.title
+                        ul.list-arrow.list-unstyled.col-12
+                            - delete self.data['category-' + category.data.topics.split('/')[0]].multipage
+                            each topic in self.data['category-' + category.data.topics.split('/')[0]]
+                                li.topic-title.d-none(data-search=search(topic))
+                                    a(href=topic.path)= topic.title
 
-        .row.pt-5
-            .col-12
-                .gray-box.col-12.p-3
-                    h2= self.data.help.alternate.title
-                    ul.list-arrow.list-inline.mb-0
-                        li.list-inline-item
-                            a(href=self.data.help.alternate.request.url)= self.data.help.alternate.request.title
-                        li.list-inline-item
-                            a(href=self.data.help.alternate.feedback.url)= self.data.help.alternate.feedback.title
+                .row.pt-5
+                    .col-12
+                        .gray-box.col-12.p-3
+                            h2= self.data.help.alternate.title
+                            ul.list-arrow.list-inline.mb-0
+                                li.list-inline-item
+                                    a(href=self.data.help.alternate.request.url)= self.data.help.alternate.request.title
+                                li.list-inline-item
+                                    a(href=self.data.help.alternate.feedback.url)= self.data.help.alternate.feedback.title

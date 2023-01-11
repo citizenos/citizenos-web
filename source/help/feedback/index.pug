@@ -3,44 +3,47 @@ extends /_templates/main.pug
 
 block content
     +appHelp()
+
     #help-content.container.mb-4.py-5
         .row
-            .col-12.mb-5
-                a(href=self.data.help.path)=self.data.help.title
-                span(style='margin:0 .5rem;color:#0680fc') >
-                span(style='color:gray')= self.title
+            .col-12.col-sm-10.offset-sm-1
+                .row
+                    .col-12.mb-5
+                        a(href=self.data.help.path)=self.data.help.title
+                        span(style='margin:0 .5rem;color:#0680fc') >
+                        span(style='color:gray')= self.title
 
-        .row
-            .col-12.col-sm-6
-                h1.mb-4= self.title
-                p= self.text
+                .row
+                    .col-12.col-sm-6
+                        h2.mb-4= self.title
+                        p= self.text
 
-        #feedback-form.row.mb-4.pt-5
-            h2.col-12= self.form.title
-            form.col-12.col-sm-6(netlify, netlify-honeypot='subject', name='feedback')
-                textarea.form-control.mb-3(name='message' rows=7 placeholder=self.form.message)
-                input.form-control.mb-3(type='email' name='email' placeholder=self.form.email)
-                input.d-none(name='subject')
-                button#feedback-submit.feedback-btn.form-control(disabled)= self.form.submit
+                #feedback-form.row.mb-4.pt-5
+                    h2.col-12= self.form.title
+                    form.col-12.col-sm-6(netlify, netlify-honeypot='subject', name='feedback')
+                        textarea.form-control.mb-3(name='message' rows=7 placeholder=self.form.message)
+                        input.form-control.mb-3(type='email' name='email' placeholder=self.form.email)
+                        input.d-none(name='subject')
+                        button#feedback-submit.feedback-btn.form-control(disabled)= self.form.submit
 
-        #feedback-success.row.mb-4.pt-5.d-none
-            .col-12.col-sm-6
-                .feedback-blue-box.col-12.mb-3.pt-5.pb-4.text-center
-                    img.mb-3(src='/assets/images/help/icons/success.svg')
-                    +markdown(self.form.success)
-                a.form-control.feedback-btn(href=self.form.successBack.url)= self.form.successBack.title
+                #feedback-success.row.mb-4.pt-5.d-none
+                    .col-12.col-sm-6
+                        .feedback-blue-box.col-12.mb-3.pt-5.pb-4.text-center
+                            img.mb-3(src='/assets/images/help/icons/success.svg')
+                            +markdown(self.form.success)
+                        a.form-control.feedback-btn(href=self.form.successBack.url)= self.form.successBack.title
 
-        .row.pt-5
-            .col-12
-                .gray-box.col-12
-                    .row
-                        .col-12.col-sm-5.p-3
-                            h2= self.data.help.search.title
-                            form(action=self.data.help.search.url)
-                                input#search.form-control(type='search' name='q' placeholder=self.data.help.search.placeholder)
+                .row.pt-5
+                    .col-12
+                        .gray-box.col-12
+                            .row
+                                .col-12.col-sm-5.p-3
+                                    h2= self.data.help.search.title
+                                    form(action=self.data.help.search.url)
+                                        input#search.form-control(type='search' name='q' placeholder=self.data.help.search.placeholder)
 
-                        .col-12.col-sm-7.p-3(style='border-left:1px solid #E5E5E5')
-                            h2= self.data.help.alternate.title
-                            ul.list-arrow.list-inline.mt-3.mb-0
-                                li.list-inline-item
-                                    a(href=self.data.help.alternate.request.url)= self.data.help.alternate.request.title
+                                .col-12.col-sm-7.p-3(style='border-left:1px solid #E5E5E5')
+                                    h2= self.data.help.alternate.title
+                                    ul.list-arrow.list-inline.mt-3.mb-0
+                                        li.list-inline-item
+                                            a(href=self.data.help.alternate.request.url)= self.data.help.alternate.request.title

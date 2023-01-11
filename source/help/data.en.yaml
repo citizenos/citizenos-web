@@ -35,6 +35,10 @@ feedback:
     title: Was this information helpful?
     answerYes: Yes
     answerNo: No
+feedbackDone:
+    title: Thanks for your feedback!
+    text: Your answer was
+
 negativeFeedback:
     title: Feedback
     text: We’re sorry to hear this section wasn’t helpful for you. We’d love to know why!

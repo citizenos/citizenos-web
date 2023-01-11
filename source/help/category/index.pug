@@ -3,42 +3,45 @@ extends /_templates/main.pug
 
 block content
     +appHelp()
+
     #help-content.container.mb-4.py-5
         .row
-            .col-12.mb-5
-                a(href=self.data.help.path)=self.data.help.title
-                span(style='margin:0 .5rem;color:#0680fc') >
-                span(style='color:gray')= self.title
+            .col-12.col-sm-10.offset-sm-1
+                .row
+                    .col-12.mb-5
+                        a(href=self.data.help.path)=self.data.help.title
+                        span(style='margin:0 .5rem;color:#0680fc') >
+                        span(style='color:gray')= self.title
 
-        .row
-            .col-12.col-sm-5
-                h1.mb-4= self.title
-                +markdown(self.text)
-            .col-12.col-sm-6.offset-sm-1
-                h2.mt-4.mb-4= self.data.help.video
-                video.embed-responsive.mt-4(src=self.video.url, poster=self.video.poster)
+                .row
+                    .col-12.col-sm-5
+                        h2.mb-4= self.title
+                        +markdown(self.text)
+                    .col-12.col-sm-6.offset-sm-1
+                        h2.mt-4.mb-4= self.data.help.video
+                        video.embed-responsive.mt-4(src=self.video.url, poster=self.video.poster)
 
-        .row.pt-5
-            h2.col-12= self.data.help.categoryTopics
-            ul.list-arrow.list-unstyled.col-12
-                - delete self.data.topics.multipage
-                each topic in self.data.topics
-                    li
-                        a(href=topic.path)= topic.title
+                .row.pt-5
+                    h2.col-12= self.data.help.categoryTopics
+                    ul.list-arrow.list-unstyled.col-12
+                        - delete self.data.topics.multipage
+                        each topic in self.data.topics
+                            li
+                                a(href=topic.path)= topic.title
 
-        .row.pt-5
-            .col-12
-                .gray-box.col-12
-                    .row
-                        .col-12.col-sm-5.p-3
-                            h2= self.data.help.search.title
-                            form(action=self.data.help.search.url)
-                                input#search.form-control(type='search' name='q' placeholder=self.data.help.search.placeholder)
+                .row.pt-5
+                    .col-12
+                        .gray-box.col-12
+                            .row
+                                .col-12.col-sm-5.p-3
+                                    h2= self.data.help.search.title
+                                    form(action=self.data.help.search.url)
+                                        input#search.form-control(type='search' name='q' placeholder=self.data.help.search.placeholder)
 
-                        .col-12.col-sm-7.p-3(style='border-left:1px solid #E5E5E5')
-                            h2= self.data.help.alternate.title
-                            ul.list-arrow.list-inline.mt-3.mb-0
-                                li.list-inline-item
-                                    a(href=self.data.help.alternate.request.url)= self.data.help.alternate.request.title
-                                li.list-inline-item
-                                    a(href=self.data.help.alternate.feedback.url)= self.data.help.alternate.feedback.title
+                                .col-12.col-sm-7.p-3(style='border-left:1px solid #E5E5E5')
+                                    h2= self.data.help.alternate.title
+                                    ul.list-arrow.list-inline.mt-3.mb-0
+                                        li.list-inline-item
+                                            a(href=self.data.help.alternate.request.url)= self.data.help.alternate.request.title
+                                        li.list-inline-item
+                                            a(href=self.data.help.alternate.feedback.url)= self.data.help.alternate.feedback.title
