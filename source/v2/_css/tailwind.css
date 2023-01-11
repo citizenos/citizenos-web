@@ -15,6 +15,14 @@ p {
     @apply mb-4 last_mb-0
 }
 
+p a {
+    @apply text-blue-700 underline
+}
+
+p a:hover {
+    @apply text-blue-700 no-underline
+}
+
 pre {
     @apply mb-4 text-xs overflow-hidden
 }
