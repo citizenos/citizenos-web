@@ -8,22 +8,22 @@ links:
   title: Kiirviited
   links:
     - 
-      title: Logging in using e-ID (Estonia only)
-      url: /help/login/logging-in-using-e-id-estonia-only
+      title: Sisselogimine Eesti ID-kaardiga
+      url: /et/abi/sisselogimine/sisenemine-eesti-idkaardiga
     - 
-      title: How to vote using a digital signature (for topic participants, Estonia only)
+      title: Hääletamine Eestis, kasutades digitaalallkirja (teemas osalejatele)
       url: /help/voting/how-to-vote-using-a-digital-signature-for-topic-participants-estonia-only
     - 
       title: Changing the rights of topic participants
       url: /help/topics/changing-the-rights-of-topic-participants
     - 
-      title: Downloading voting results
+      title: Hääletustulemuste allalaadimine
       url: /help/voting/downloading-voting-results
     - 
       title: Troubleshooting “no permission to access”
       url: /help/login/troubleshooting-no-permission-to-access
     - 
-      title: How to create a group
+      title: Grupi loomine
       url: /help/groups/how-to-create-a-group
 topics: Leia teema järgi
 categoryTopics: Liigu kindla teema juurde
@@ -38,7 +38,7 @@ negativeFeedback:
   form:
     title: Mida saaksime parandada?
     message: Kirjuta siia...
-    email: E-mail address
+    email: E-posti aadress
     submit: Saada
     success: |
       **Suur tänu tagasiside eest!**

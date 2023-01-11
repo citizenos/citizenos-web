@@ -33,12 +33,12 @@ blocks:
     title: |
       Сотрудничество ради изменений.
     text: |
-      We join forces with organisations worldwide to work on innovative e-democracy and participation projects.
+      Мы объединяем усилия с организациями по всему миру для работы над инновационными проектами в области э-демократии и участия.
 
-      - [Democracy Defenders Accelerator](#individual2)
-      - [Winter and Summer Schools](#individual)
-      - [Participatory Youth Leadership Network](#awareness2)
-      - [Erasmus+ Youth Exchange](#individual3)
+      - [Ускоритель защиты демократии](#individual2)
+      - [Зимние и Летние школы](#individual)
+      - [Сеть коллективного молодежного лидерства.](#awareness2)
+      - [Молодежный обмен Erasmus+](#individual3)
       - [EuroChangemakers](#awareness)
       {.arrow }
   individual2-img:
@@ -49,17 +49,17 @@ blocks:
       background-position: 10% 10%, 90% 10%
       background-size: 45px 45px, 350px 350px
     text: |
-      ![An image of a lit light bulb with four smaller red bubbles surrounding it in a circle with arrows pointing from one to the next bubble.](/assets/images/dda-project-page-image.png){ .img-fluid }
+      ![Изображение горящей лампочки с четырьмя маленькими красными пузырьками вокруг нее. Пузырьки образуют окружность с помощью стрелок, которые указывают от одного пузырька на другой.](/assets/images/dda-project-page-image.png){ .img-fluid }
   individual2:
     class:
       - order-2
     title: |
-      Democracy Defenders Accelerator
+      Ускоритель Защиты Демократии
     text: |
-      Our flagship 10-month civic leadership programme for young activists. In this hybrid, hands-on programme, participants learn to design and deliver civic engagement projects and practise participatory leadership skills.
+      Наша ведущая 10-месячная программа гражданского лидерства для молодых активистов. В рамках этой гибридной практической программы участники учатся разрабатывать и осуществлять проекты гражданской активности и отрабатывать навыки лидерства на основе широкого участия.
     button1st:
       title: Подробнее
-      url: /dda/
+      url: /ru/uzd/
   individual-img:
     class:
       - order-4
@@ -68,12 +68,12 @@ blocks:
       background-position: 10% 10%, 90% 10%
       background-size: 45px 45px, 350px 350px
     text: |
-      ![An active citizen who believes that her participation in political issues has an impact.](/assets/images/vision-individual.png){ .img-fluid }
+      ![Активная гражданка, которая верит, что ее участие в политических проблемах имеет влияние.](/assets/images/vision-individual.png){ .img-fluid }
   individual:
     class:
       - order-3
     title: |
-      Winter and Summer Schools
+      Зимние и Летние школы
     text: |
       Курс Digital Innovation for Civic Engagement Projects проводится нами совместно с Таллинским университетом в качестве блока учебных программ зимней и летней школы. Во время этого 10-дневного курса участники сообществ и гражданских инициатив обучаются тому, как вовлекать в обсуждения и процесс принятия решений больше людей, с помощью инновационных инструментов.
     button1st:
@@ -88,7 +88,7 @@ blocks:
       background-position: 10% 10%, 90% 10%
       background-size: 45px 45px, 350px 350px
     text: |
-      ![A woman's upper body on the left, the woman staring at a sceen with different people in many windows.](/assets/images/projects-pyln.jpg){ .img-fluid }
+      ![Портрет женщины, которая смотрит на большое количество экранов с разными людьми.](/assets/images/projects-pyln.jpg){ .img-fluid }
   awareness2:
     class:
       - order-6
@@ -99,7 +99,7 @@ blocks:
     #background-position: 10% 10%
     #label: Raising awareness
     title: |
-      Participatory Youth Leadership Network
+      Сеть коллективного молодежного лидерства
     text: |
       Индийское отделение Citizen OS, PYLN, сотрудничает с индийскими организациями и хактивистами, которые разделяют наше видение дальнейшего развития сферы коллективного лидерства.
 
@@ -116,16 +116,16 @@ blocks:
       background-position: 10% 10%, 90% 10%
       background-size: 45px 45px, 350px 350px
     text: |
-      ![An active citizen who believes that her participation in political issues has an impact.](/assets/images/projects/Youth-exchange-projects-page-pic.png){ .img-fluid }
+      ![Активная гражданка, которая верит, что ее участие в политических проблемах имеет влияние.](/assets/images/projects/Youth-exchange-projects-page-pic.png){ .img-fluid }
   individual3:
     class:
       - order-7
     title: |
-      Erasmus+ Youth Exchange
+      Erasmus+ Молодежный Обмен
     text: |
-      In our ʻDigital Transformation for Civic Engagementʼ youth exchange programme, Europe’s next generation of leaders learn civic engagement project design and participatory leadership, through hands-on ʻlearning by doingʼ methods.
+      В рамках нашей программы молодежного обмена ʻЦифровое Преобразование Гражданской Активностиʼ, новое поколение европейских лидеров изучает разработку проектов гражданской активности и лидерство на основе широкого участия, используя практические методы ʻlearning by doingʼ.
     button1st:
-      title: Learn more
+      title: Подробнее
       url: https://participationpool.eu/project/leading-by-doing-digital-transformation-for-civic-engagement/
       target: _blank
   awareness:
