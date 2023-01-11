@@ -23,6 +23,14 @@ p a:hover {
     @apply text-blue-700 no-underline
 }
 
+li a {
+    @apply text-blue-700 no-underline
+}
+
+li a:hover {
+    @apply text-blue-700 underline
+}
+
 pre {
     @apply mb-4 text-xs overflow-hidden
 }
