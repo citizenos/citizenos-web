@@ -60,25 +60,33 @@ team:
     linkedin: https://www.linkedin.com/in/kativellak/
     email: kati@citizenos.com
   - 
-    name: Бекка Мелуиш
-    title: Дизайнер коммуникаций и копирайтер
-    text: Делает связь с компанией яркой и незабываемой.
+    name: Meelika Hirmo
+    title: Communications Lead
+    text: Shaping strategic communication and giving more momentum to the mission and initiatives of Citizen OS
+    avatar: /assets/images/team/meelika-avatar.jpg
+    picture: /assets/images/team/meelika.jpg
+    linkedin: https://www.linkedin.com/in/meelika-hirmo
+    email: meelika@citizenos.com
+  - 
+    name: Becca Melhuish
+    title: Communications Designer & Copywriter
+    text: Brings sparkle and shine to all of our comms.
     avatar: /assets/images/team/becca-avatar.jpg
     picture: /assets/images/team/becca.jpg
     linkedin: https://www.linkedin.com/in/beccamelhuish/
     email: becca.melhuish@gmail.com
   - 
-    name: Тасия Розалина Теджо Пурномо
-    title: Менеджер по маркетингу в Citizen OS Indonesia
-    text: Всеобщая помощница, всегда открытая новым идеям.
+    name: Tasia Rosalina Tedjo Purnomo
+    title: Marketing Manager for Citizen OS Indonesia
+    text: Support system fuelled with curiosity and values.
     avatar: /assets/images/team/tasia-avatar.jpg
     picture: /assets/images/team/tasia.jpg
     linkedin: https://www.linkedin.com/in/tasia-rosalina
     email: tasia@citizenos.com
   - 
-    name: Оксана Найденова
-    title: Локализация и управление сайтом
-    text: Сражается за правое дело и всегда вдохновляет нас быть лучше.
+    name: Oksana Naidjonova
+    title: Localisation & Website Management
+    text: Fights for justice and leads us to become better every day.
     avatar: /assets/images/team/oksana-avatar.jpg
     picture: /assets/images/team/oksana.jpg
     linkedin: https://www.linkedin.com/in/oksananaidjonova/
