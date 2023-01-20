@@ -1,29 +1,27 @@
-path: /contact
-title: Contact
-description: Citizen OS is a not-for-profit organisation headquartered in Estonia, which has gained the trust of public and private user groups around the world.
+path: /kontakt
+title: Kontakt
+description: Citizen OS on tasuta e-demokraatia platvorm, mille peakontor asub Eestis ja mis on pälvinud paljude avaliku ja erasektori kasutajagruppide usalduse üle maailma.
 keywords:
-  - open source
-  - civic initiative
-  - civic movement
+  - avatud lähtekoodiga
+  - kodanikualgatus
+  - kodanikuliikumine
 image: /v2/images/illustrations/discussions.svg
 sections:
   header:
     type: small-header
     color: blue
-    title: Contact
+    title: Kontakt
     text: |
-      Citizen OS is a not-for-profit organisation headquartered in Estonia, which has gained the trust of public and private user groups around the world.
+      Citizen OS on tasuta e-demokraatia platvorm, mille peakontor asub Eestis ja mis on pälvinud paljude avaliku ja erasektori kasutajagruppide usalduse üle maailma.
   about:
-    type: media
+    type: meedia
     mediaLeft: true
     image: /v2/images/illustrations/discussions.svg
     text: |
-      ### Our information
-
-      |  |  |
-      | --- | --- |
-      | **Contact** | <info@citizenos.com> |
-      | **Organisation** | Foundation Citizen OS |
-      | **Address** | Telliskivi Creative City, Telliskivi 60a/3, Tallinn 10412, Estonia, EU |
-      | **Registry code** | 90014709 |
-      | **VAT info** | Foundation Citizen OS is not subject to VAT |
+      | | | 
+      | --- | --- | 
+      | **Kontakt:** | <info@citizenos.com> | 
+      | **Organisatsioon:** | Sihtasutus Citizen OS | 
+      | **Aadress:** | Telliskivi Loomelinnak, Telliskivi 60a, Tallinn, Eesti, EL. | 
+      | **Registrikood:** | 90014709 |
+      | **Käibemaksuteave:** | Sihtasutus Citizen OS ei ole käibemaksukohustuslane. |
