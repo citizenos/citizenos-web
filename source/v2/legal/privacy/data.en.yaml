@@ -1,18 +1,11 @@
 path: /legal/privacy
 
 title: Privacy and Cookies Policy
-# description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras fermentum ornare purus accumsan luctus. Nulla facilisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae.
-# keywords:
-#     - lorem
-#     - ipsum
-#     - dolor
-image: /assets/images/meta/vision.jpg
 
-
-blocks:
-    privacy:
-        title: |
-            Privacy and Cookies Policy
+sections:
+    about:
+        type: text
+        title: Privacy and Cookies Policy
         text: |
             *Last updated on 25 May 2019*
 

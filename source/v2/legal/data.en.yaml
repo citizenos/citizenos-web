@@ -6,23 +6,20 @@ keywords:
     - digital government
     - social issue
     - e-government
-image: /assets/images/meta/vision.jpg
+image: /v2/images/illustrations/professionals.svg
 
+sections:
+    header:
+        type: small-header
+        color: blue
+        title: Legal
+        text: |
+            Citizen OS is a not-for-profit organisation headquartered in Estonia, which has gained the trust of public and private user groups around the world.
 
-blocks:
-    legal-img:
-        class:
-            - d-none
-            - d-sm-block
-        style:
-            background: 'linear-gradient(180deg, #0EB7FE 0%, #0680FC 100%)'
-            min-height: 75vh
-
-
-    legal:
-        # label: About
-        title: |
-            Legal
+    about:
+        type: media
+        mediaLeft: true
+        image: /v2/images/illustrations/professionals.svg
         text: |
             - [Articles of Association of the Foundation Citizen OS](/legal/statute/)
             - [Terms of Use](/legal/tou/)

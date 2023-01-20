@@ -1,18 +1,11 @@
 path: /legal/api
 
 title: Citizen OS API Terms of Use
-# description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras fermentum ornare purus accumsan luctus. Nulla facilisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae.
-# keywords:
-#     - lorem
-#     - ipsum
-#     - dolor
-image: /assets/images/meta/vision.jpg
 
-
-blocks:
-    api:
-        title: |
-            Citizen OS API Terms of Use
+sections:
+    about:
+        type: text
+        title: Citizen OS API Terms of Use
         text: |
             *Last updated 25 May 2019*
 
@@ -32,7 +25,7 @@ blocks:
 
             You will see terms in our Terms that are capitalized. These terms have meanings as described in the Definitions section below.
 
-            #### Definitions
+            ### Definitions
 
             - **Citizen OS Marks** means all materials including without limitation, logos, brand names, images, designs, photographs, video clips, written and other materials that appear as part of our services and are copyrights, trademarks, service marks, trade dress and/or other intellectual property whether registered or unregistered owned, controlled or licensed by Citizen OS;
             - **Citizen OS Platform** means collectively the COS API, hardware and software underlying it (such as without limitation servers, load balancers, database engines) and all Apps or user interfaces connected to it, including the user interface run by Citizen OS itself;

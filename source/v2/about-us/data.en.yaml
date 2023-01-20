@@ -1,0 +1,41 @@
+path: /about-us
+
+title: About us
+description: Citizen OS is a free and secure open source platform for citizen initiatives. We are a not-for-profit organisation.
+keywords:
+    - open source
+    - civic initiative
+    - civic movement
+image: /v2/images/illustrations/homepage-hero.svg
+
+sections:
+    header:
+        type: small-header
+        color: blue
+        title: About us
+        text: |
+            Citizen OS is a free and secure open source platform for citizen initiatives. We are a not-for-profit organisation.
+
+    about:
+        type: media
+        mediaLeft: true
+        image: /v2/images/illustrations/homepage-hero.svg
+        text: |
+            Citizen OS is a free and secure open source platform for citizen initiatives and collective decision-making. We are a not-for-profit organisation.
+
+            Our mission is to bring decision-making back to the people and their communities, through nurturing e-democracy and developing innovative technologies for higher quality collaborative decision-making.
+
+            Visit our [Vision](/vision/) and [Projects](/projects/) pages to find out more about why and what we do. Also, please see our [News](/news/) page for interviews / updates and check out our social media channels for inspiration.
+
+            The Citizen OS platform went live in September, 2015. Since then, we have gained the trust of many public and private user groups around the world.
+
+            We take the security of our platform very seriously - read more about this [here](/news/the-key-to-online-democracy-is-trust/) or view our [legal](/legal/) documents.
+
+            ### Citizen OS was co-founded by:
+
+            - Philanthropist & entrepreneur Ahti Heinla and visionary Margo Loor
+            - [Let’s Do It! Foundation](https://www.letsdoitworld.org/)
+
+            ### We are funded by private donations and grants.
+
+            Project Citizen OS has been funded by the NGO Fund EEA Grants through the [Open Estonia Foundation](https://oef.org.ee/in-english).

@@ -1,5 +1,9 @@
 path: /
 
+description:
+keywords:
+image: /v2/images/illustrations/homepage-hero.svg
+
 sections:
     header:
         type: header
