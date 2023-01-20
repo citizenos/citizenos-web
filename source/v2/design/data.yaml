@@ -54,7 +54,7 @@ sections:
 
     smallHeaderExample:
         type: small-header
-        color: green
+        color: blue
         title: Small Header
         text: |
             Est in elit consectetur dolore occaecat esse esse pariatur ullamco deserunt incididunt.
@@ -67,7 +67,7 @@ sections:
             ```yaml
             mySmallHeader:
                 type: header
-                color: green
+                color: blue
                 title: Small Header
                 text: |
                     Est in elit consectetur dolore occaecat esse esse pariatur ullamco deserunt incididunt.
@@ -76,6 +76,42 @@ sections:
             **.pug**
             ```pug
             +section(self.mySmallHeader)
+            ```
+
+
+
+    textExample:
+        type: text
+        color: white
+        title: Text
+        text: |
+            Fugiat adipisicing magna nisi dolore adipisicing officia qui. Dolore anim et culpa ex sint aliqua sunt enim quis Lorem pariatur pariatur do. Eiusmod officia qui velit consectetur est consequat consectetur reprehenderit ex esse enim culpa. Id ea fugiat quis occaecat irure sunt veniam reprehenderit aliqua sit.
+
+            Commodo nostrud dolore mollit ea nulla incididunt nulla. Est cillum nulla Lorem eu ut labore ullamco. Consequat et Lorem voluptate sit magna in minim reprehenderit minim consequat ad eiusmod.
+
+            Amet sint ad cillum dolor. Minim non cupidatat exercitation tempor fugiat. Mollit mollit deserunt quis irure est ut dolore nulla labore. Proident nisi qui sit Lorem tempor aute dolore proident aliqua tempor commodo. Magna nulla quis adipisicing dolor consequat occaecat ad ullamco do. Id culpa aliqua ullamco cillum excepteur nostrud sint exercitation ullamco.
+
+    textCode:
+        type: example
+        color: grey
+        text: |
+            **.yaml**
+            ```yaml
+            myText:
+                type: text
+                color: white
+                title: Text
+                text: |
+                    Fugiat adipisicing magna nisi dolore adipisicing officia qui. Dolore anim et culpa ex sint aliqua sunt enim quis Lorem pariatur pariatur do. Eiusmod officia qui velit consectetur est consequat consectetur reprehenderit ex esse enim culpa. Id ea fugiat quis occaecat irure sunt veniam reprehenderit aliqua sit.
+
+                    Commodo nostrud dolore mollit ea nulla incididunt nulla. Est cillum nulla Lorem eu ut labore ullamco. Consequat et Lorem voluptate sit magna in minim reprehenderit minim consequat ad eiusmod.
+
+                    Amet sint ad cillum dolor. Minim non cupidatat exercitation tempor fugiat. Mollit mollit deserunt quis irure est ut dolore nulla labore. Proident nisi qui sit Lorem tempor aute dolore proident aliqua tempor commodo. Magna nulla quis adipisicing dolor consequat occaecat ad ullamco do. Id culpa aliqua ullamco cillum excepteur nostrud sint exercitation ullamco.
+            ```
+
+            **.pug**
+            ```pug
+            +section(self.myText)
             ```
 
 

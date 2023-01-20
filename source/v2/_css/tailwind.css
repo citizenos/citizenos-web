@@ -11,6 +11,10 @@ h2 {
     @apply mb-4 last_mb-0 font-semibold text-xl md_text-4xl
 }
 
+h3 {
+    @apply mt-10 first_mt-0 mb-4 last_mb-0 font-semibold
+}
+
 p {
     @apply mb-4 last_mb-0
 }
@@ -23,12 +27,28 @@ p a:hover {
     @apply text-blue-700 no-underline
 }
 
+ul {
+    @apply mb-4 ml-4 list-disc list-outside
+}
+
+ul li {
+    @apply pr-2
+}
+
+ol {
+    @apply mb-4 ml-4 list-decimal list-outside
+}
+
+ol li {
+    @apply pr-4
+}
+
 li a {
-    @apply text-blue-700 no-underline
+    @apply text-blue-700 underline
 }
 
 li a:hover {
-    @apply text-blue-700 underline
+    @apply text-blue-700 no-underline
 }
 
 pre {
