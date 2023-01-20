@@ -15,7 +15,7 @@ sections:
     text: |
       Citizen OS on mittetulundusühing, mille peakontor asub Eestis ja mis on pälvinud paljude avaliku ja erasektori kasutajagruppide usalduse üle maailma.
   about:
-    type: meedia
+    type: media
     mediaLeft: true
     image: /v2/images/illustrations/professionals.svg
     text: |
