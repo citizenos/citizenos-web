@@ -10,7 +10,7 @@ sections:
   header:
     type: small-header
     color: blue
-    title: About us
+    title: Meist
     text: |
       Citizen OS is a free and secure open source platform for citizen initiatives. We are a not-for-profit organisation.
   about:
