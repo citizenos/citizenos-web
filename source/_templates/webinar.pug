@@ -27,23 +27,23 @@ block content
                         h2= self.blocks.join.title
                         if self.blocks.join.date
                             .row.my-2
-                                .col-1
+                                .col-2
                                     img(src='/assets/images/webinar-calendar.svg', height=22, width=20)
-                                .col-auto= self.blocks.join.date
+                                .col-auto.pl-0= self.blocks.join.date
                         if self.blocks.join.time
                             .row.my-2
-                                .col-1
+                                .col-2
                                     img(src='/assets/images/webinar-clock.svg', height=22, width=20)
-                                .col-auto= self.blocks.join.time
+                                .col-auto.pl-0= self.blocks.join.time
                         if self.blocks.join.deadline || self.blocks.join.deadlineTitle
                             .row.my-2
                                 if self.blocks.join.deadlineTitle
                                     .col-12
                                         h2.mt-4= self.blocks.join.deadlineTitle
                                 if self.blocks.join.deadline
-                                    .col-1
+                                    .col-2
                                         img(src='/assets/images/webinar-alarm.svg', height=22, width=20, title='Deadline')
-                                    .col-auto= self.blocks.join.deadline
+                                    .col-auto.pl-0= self.blocks.join.deadline
                         if self.blocks.join.price
                             .row.my-2
                                 strong.col-1
@@ -99,6 +99,9 @@ block stylus
 
         #text
             background-color #FFFFFF
+
+            ul
+                list-style-type disc
 
         #agenda
             background-color #F7F7F7
