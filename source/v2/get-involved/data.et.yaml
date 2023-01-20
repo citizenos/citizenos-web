@@ -15,7 +15,7 @@ sections:
     text: |
       Arendaja, tõlkija, teadlane, disainer, häktivist ja ajakirjanik - palun võta ühendust! Citizen OS ootab liituma kõiki vabatahtlikke, kes on huvitatud e-demokraatiast.
   about:
-    type: meedia
+    type: media
     mediaLeft: true
     image: /v2/images/illustrations/cta.svg
     text: |
