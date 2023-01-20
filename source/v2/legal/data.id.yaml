@@ -1,0 +1,25 @@
+---
+path: /legal
+title: Legal
+description: Citizen OS Foundation provides free software and builds a network of e-democracy specialists. Our mission is to give citizens a voice in social issues.
+keywords:
+  - digital government
+  - social issue
+  - e-government
+image: /v2/images/illustrations/professionals.svg
+sections:
+  header:
+    type: small-header
+    color: blue
+    title: Legal
+    text: |
+      Citizen OS is a not-for-profit organisation headquartered in Estonia, which has gained the trust of public and private user groups around the world.
+  about:
+    type: media
+    mediaLeft: true
+    image: /v2/images/illustrations/professionals.svg
+    text: |
+      - [Articles of Association of the Foundation Citizen OS](/legal/statute/)
+      - [Terms of Use](/legal/tou/)
+      - [Privacy and Cookies Policy](/legal/privacy/)
+      - [Citizen OS API Terms of Use](/legal/api/)

@@ -1,0 +1,25 @@
+---
+path: /yuridicheskaya-informaciya
+title: Юридическая информация
+description: Фонд Citizen OS предоставляет бесплатное программное обеспечение и создает сообщество специалистов в области электронной демократии.
+keywords:
+  - цифровое правительство
+  - социальная проблема
+  - электронное правительство
+image: /v2/images/illustrations/professionals.svg
+sections:
+  header:
+    type: small-header
+    color: blue
+    title: Legal
+    text: |
+      Citizen OS is a not-for-profit organisation headquartered in Estonia, which has gained the trust of public and private user groups around the world.
+  about:
+    type: media
+    mediaLeft: true
+    image: /v2/images/illustrations/professionals.svg
+    text: |
+      - [Articles of Association of the Foundation Citizen OS](/legal/statute/)
+      - [Terms of Use](/legal/tou/)
+      - [Privacy and Cookies Policy](/legal/privacy/)
+      - [Citizen OS API Terms of Use](/legal/api/)
