@@ -14,7 +14,7 @@ sections:
     text: |
       Citizen OS on tasuta ja turvaline avatud lähtekoodiga platvorm ühiste otsuste ja kodanikualgatuste jaoks. Oleme sotsiaalne idufirma.
   about:
-    type: meedia
+    type: media
     mediaLeft: true
     image: /v2/images/illustrations/homepage-hero.svg
     text: |
