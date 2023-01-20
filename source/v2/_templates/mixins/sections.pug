@@ -7,6 +7,8 @@ mixin section(data = {})
     case data.type
         when 'header'
             +section-header(data)
+        when 'small-header'
+            +section-small-header(data)
         when 'banner'
             +section-banner(data)
         when 'example'
@@ -80,6 +82,23 @@ mixin section-header(data = {})
             .lg_order-1.flex.justify-start.items-end
                 if data.image
                     img.mx-auto.h-80.md_h-146.lg_h-fit.lg_w-full.object-contain(src=data.image)
+
+mixin section-small-header(data = {})
+    -
+        data = { class: '', ...data, ...attributes }
+        data.class += ' !pt-6 !pb-4'
+
+        const sectionData = { ...data }
+        delete sectionData.title
+        delete sectionData.text
+
+    +section-layout(sectionData)
+        .pt-10.pb-16
+            if data.title
+                h1.mb-6.text-center.text-4xl.font-bold= data.title
+            if data.text
+                .text-center
+                    +markdown(data.text)
 
 mixin section-banner(data = {})
     -

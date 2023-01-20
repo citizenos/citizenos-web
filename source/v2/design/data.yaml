@@ -52,6 +52,34 @@ sections:
 
 
 
+    smallHeaderExample:
+        type: small-header
+        color: green
+        title: Small Header
+        text: |
+            Est in elit consectetur dolore occaecat esse esse pariatur ullamco deserunt incididunt.
+
+    smallHeaderCode:
+        type: example
+        color: grey
+        text: |
+            **.yaml**
+            ```yaml
+            mySmallHeader:
+                type: header
+                color: green
+                title: Small Header
+                text: |
+                    Est in elit consectetur dolore occaecat esse esse pariatur ullamco deserunt incididunt.
+            ```
+
+            **.pug**
+            ```pug
+            +section(self.mySmallHeader)
+            ```
+
+
+
     bannerExample:
         type: banner
         color: blue
