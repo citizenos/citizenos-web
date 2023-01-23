@@ -11,40 +11,40 @@ sections:
   header:
     type: small-header
     color: blue
-    title: How to get involved?
+    title: Чем я могу помочь?
     text: |
-      Developer, translator, scientist, designer, hacktivist and journalist - please get in touch! Citizen OS welcomes volunteers who are interested in e-democracy.
+      Разработчики, переводчики, дизайнеры, хактивисты и журналисты... нам нужны все! Citizen OS ждет волонтеров, интересующихся электронной демократией.
   about:
     type: media
     mediaLeft: true
     image: /v2/images/illustrations/cta.svg
     text: |
-      Help us improve the Citizen OS platform as a volunteer. Whether you are a developer, translator, researcher, designer, hacktivist or journalist - join us!
+      Помогите нам улучшить платформу Citizen OS — станьте волонтером. Если вы разработчик, переводчик, исследователь, дизайнер, хактивист или журналист — присоединяйтесь к команде!
 
-      ### Help translate.
+      ### Помощь по переводу.
 
-      If Citizen OS platform doesn’t yet support your language and you'd like to join our volunteer translators' team, [please get in touch](mailto:translations@citizenos.com).
+      Если на платформе Citizen OS пока что не поддерживается ваш родной язык, и вы бы хотели присоединиться к нашей команде переводчиков-добровольцев, то [свяжитесь с нами](mailto:translations@citizenos.com).
 
-      Translating the Citizen OS platform into a new language is easy; many volunteers work with us every day. [Check it out](https://crowdin.com/project/citizenos-fe)!
+      Процесс перевода платформы Citizen OS на новый язык очень прост! С нами постоянно работает множество волонтеров. [Посмотрите сами](https://crowdin.com/project/citizenos-fe)!
 
-      ### Help develop Open Source software.
+      ### Помощь в разработке открытого кода.
 
-      Are you a developer or designer, to whom the future of online decision-making is a topic close to heart?
+      Вы — разработчик или дизайнер, и вам близка концепция принятия глобальных решений в Интернете?
 
-      If you have ideas on how to improve or add functionality to our open source code, please [share it with us on GitHub](https://github.com/citizenos).
+      Если у вас есть идеи и предложения, как улучшить или расширить функционал в открытом исходном коде платформы, пожалуйста, [поделитесь ими с нами на GitHub](https://github.com/citizenos).
 
-      ### Test our developments.
+      ### Тестирование наших разработок.
 
-      We’d love to test new features on our real users, to make sure we’re building what you need, the way you need it.
+      Мы всегда рады помощи реальных пользователей при тестировании нашего нового функционала. Так мы можем быть уверены, что разрабатываем то, что вам нужно и так, как вам это нужно.
 
-      [Let us know](mailto:ilmar@citizenos.com) if you’d like to help us with testing and see new developments before others!
+      [Сообщите нам](mailto:ilmar@citizenos.com), если бы вы хотели помочь нам с тестированием и первыми увидеть наши новые разработки!
 
-      ### Help with research.
+      ### Помощь с исследованиями.
 
-      If you are working in the field of e-democracy, we would love to meet you or publish your works on our blog. [Drop us a line!](mailto:sara@citizenos.com).
+      Если вы работаете в сфере электронной демократии, мы будем рады познакомиться с вами или опубликовать ваши работы в нашем блоге. [Напишите нам!](mailto:sara@citizenos.com).
 
-      ### Help in other areas.
+      ### Помощь в других областях.
 
-      With any other ideas, please [contact our Head of Partnerships](mailto:sara@citizenos.com).
+      Если у вас есть другие идеи или предложения, пожалуйста, [свяжитесь с нашим руководителем партнерской программы](mailto:sara@citizenos.com).
 
-      If you would like to join the team, check if there are any available positions [here](/careers/).
+      Если вы хотите присоединиться к команде, посмотрите открытые вакансии [здесь](/careers/).

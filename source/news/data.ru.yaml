@@ -6,13 +6,22 @@ keywords:
   -
   -
   -
-image: /images/meta/vision.jpg
+image: /assets/images/meta/vision.jpg
 news:
+  2023-01-21:
+    url: /news/our-annual-report-2022
+    title: Our Annual Report 2022.
+    author: Becca Melhuish
+    image: /assets/images/news/Annual-report-article-graphic.png
+    categories:
+      - Citizen OS news
+    text: |
+      The year 2022 was a big one for us at Citizen OS. Check out our Annual Report to find out what we’ve been up to—our projects and partnerships, our platform developments, and our organisational expansion—as well as our plans for 2023.
   2022-04-04:
     url: /news/1200-citizens-attend-Indonesian-Opinion-Festival-2022
     title: 1200 граждан посещают Фестиваль мнений 2022 в Индонезии.
     author: Бекка Мелуиш
-    image: /images/news/1200-citizens-attend-Indonesian-Opinion-Festival-2022.png
+    image: /assets/images/news/1200-citizens-attend-Indonesian-Opinion-Festival-2022.png
     categories:
       - Новости Citizen OS
       - Новости электронной демократии
@@ -22,7 +31,7 @@ news:
     url: /news/our-new-government-partnership-for-youth-e-engagement-in-indonesia
     title: Наша новая государственная программа партнерства по вовлечению молодежи в электронную демократическую деятельность в Индонезии.
     author: Индианна Найт, Бекка Мелуиш
-    image: /images/news/our-new-government-partnership-for-youth-e-engagement-in-indonesia.jpeg
+    image: /assets/images/news/our-new-government-partnership-for-youth-e-engagement-in-indonesia.jpeg
     categories:
       - Новости Citizen OS
       - Тематические исследования
@@ -33,7 +42,7 @@ news:
     url: /news/interview-imam-gunawan-indonesian-ministry-of-youth-and-sport
     title: Интервью — Имам Гунаван из министерства по делам молодежи и спорта Индонезии.
     author: Агустина Искандар Кромбах
-    image: /images/news/imam.jpeg
+    image: /assets/images/news/imam.jpeg
     categories:
       - Новости Citizen OS
       - Тематические исследования
@@ -44,7 +53,7 @@ news:
     url: /news/my-volunteer-experience-sara-sinha
     title: Мой опыт волонтерства — Сара Синха.
     author: Индианна Найт
-    image: /images/news/sara.jpg
+    image: /assets/images/news/sara.jpg
     categories:
       - Новости Citizen OS
     text: |
@@ -53,7 +62,7 @@ news:
     url: /news/meet-falko-blumenthal-a-civic-hacktivist
     title: 'Позвольте представить: Фалько Блюменталь, гражданский хактивист.'
     author: Indianna Knight
-    image: /images/news/falko-blumenthal.jpg
+    image: /assets/images/news/falko-blumenthal.jpg
     categories:
       - Новости Citizen OS
     text: |
@@ -62,7 +71,7 @@ news:
     url: /news/meet-our-alumni-digital-change-makers
     title: Встречайте наших выпускников — новых творцов цифровых перемен.
     author: Indianna Knight, Becca Melhuish
-    image: /images/news/meet-our-alumni-digital-change-makers.png
+    image: /assets/images/news/meet-our-alumni-digital-change-makers.png
     categories:
       - Новости Citizen OS
     text: |
@@ -71,7 +80,7 @@ news:
     url: /news/interview-the-past-and-future-of-citizen-os
     title: Интервью — Прошлое и будущее Citizen OS.
     author: Бекка Мелуиш
-    image: /images/news/citizen-os-global-expansion-led-by-new-ceo.jpg
+    image: /assets/images/news/citizen-os-global-expansion-led-by-new-ceo.jpg
     categories:
       - Новости Citizen OS
     text: |
@@ -80,7 +89,7 @@ news:
     url: /news/citizen-os-global-expansion-led-by-new-ceo
     title: Глобальное расширение Citizen OS под руководством нового CEO.
     author: Бекка Мелуиш
-    image: /images/team/team.jpg
+    image: /assets/images/team/team.jpg
     categories:
       - Новости Citizen OS
     text: |
@@ -89,7 +98,7 @@ news:
     url: /news/pare-general-meeting-goes-online
     title: Интервью — Общие собрания Ассоциации по развитию персонала переходит в онлайн.
     author: Becca Melhuish
-    image: /images/news/pare-ceo.jpg
+    image: /assets/images/news/pare-ceo.jpg
     categories:
       - Новости Citizen OS
       - Тематические исследования
@@ -99,7 +108,7 @@ news:
     url: /news/meet-our-young-changemakers
     title: Meet our young changemakers.
     author: Becca Melhuish
-    image: /images/news/meet-our-young-changemakers.jpg
+    image: /assets/images/news/meet-our-young-changemakers.jpg
     categories:
       - Новости Citizen OS
     text: |
@@ -108,7 +117,7 @@ news:
     url: /news/celebrating-freedom-of-expression-in-indonesia
     title: Celebrating freedom of expression in Indonesia.
     author: Becca Melhuish
-    image: /images/news/celebrating-freedom-of-expression-in-indonesia.png
+    image: /assets/images/news/celebrating-freedom-of-expression-in-indonesia.png
     categories:
       - Новости Citizen OS
     text: |
@@ -117,7 +126,7 @@ news:
     url: /news/our-new-community-e-participation-course
     title: Our new community e-participation course.
     author: Becca Melhuish
-    image: /images/news/our-new-community-e-participation-course.png
+    image: /assets/images/news/our-new-community-e-participation-course.png
     categories:
       - Новости Citizen OS
     text: |
@@ -126,7 +135,7 @@ news:
     url: /news/12-digital-changemakers-successfully-upskilled
     title: 12 digital changemakers successfully upskilled.
     author: Becca Melhuish
-    image: /images/news/12-digital-changemakers-successfully-upskilled.png
+    image: /assets/images/news/12-digital-changemakers-successfully-upskilled.png
     categories:
       - Новости Citizen OS
     text: |
@@ -135,7 +144,7 @@ news:
     url: /news/the-ultimate-winter-school-for-digital-change-makers
     title: Лучшая зимняя школа для творцов цифровых перемен.
     author: Becca Melhuish
-    image: /images/news/the-ultimate-winter-school-for-digital-change-makers.png
+    image: /assets/images/news/the-ultimate-winter-school-for-digital-change-makers.png
     categories:
       - Новости Citizen OS
     text: |
@@ -144,7 +153,7 @@ news:
     url: /news/join-indias-participatory-youth-leadership-network
     title: Присоединяйтесь к «Сети коллективного молодежного лидерства» Индии.
     author: Becca Melhuish
-    image: /images/news/join-indias-participatory-youth-leadership-network1.png
+    image: /assets/images/news/join-indias-participatory-youth-leadership-network1.png
     categories:
       - Новости Citizen OS
       - Тематические исследования
@@ -154,7 +163,7 @@ news:
     url: /news/the-dawn-of-participatory-e-democracy-in-india
     title: Рассвет эпохи электронной демократии участия в Индии?
     author: Sara Sinha
-    image: /images/news/the-dawn-of-participatory-e-democracy-in-india.jpg
+    image: /assets/images/news/the-dawn-of-participatory-e-democracy-in-india.jpg
     categories:
       - E-democracy news
       - Тематические исследования
@@ -164,7 +173,7 @@ news:
     url: /news/the-34-islands-project-for-a-greener-indonesia
     title: Проект 34-х островов — ради зеленой Индонезии.
     author: Becca Melhuish
-    image: /images/news/the-34-islands-project-for-a-greener-indonesia.jpg
+    image: /assets/images/news/the-34-islands-project-for-a-greener-indonesia.jpg
     categories:
       - Новости Citizen OS
       - Тематические исследования
@@ -174,7 +183,7 @@ news:
     url: /news/democracy-is-impossible-without-reasoned-debate
     title: Демократия невозможна без аргументированного обсуждения.
     author: Margo Loor
-    image: /images/news/democracy-is-impossible-without-reasoned-debate.jpg
+    image: /assets/images/news/democracy-is-impossible-without-reasoned-debate.jpg
     categories:
       - Новости Citizen OS
       - E-democracy news
@@ -184,7 +193,7 @@ news:
     url: /news/the-key-to-online-democracy-is-trust/
     title: Самым важным компонентом онлайн-демократии является доверие.
     author: 'Марго Лоор, CEO и менеджер продукта / Редактор: Бекка Мелуиш'
-    image: /images/news/the-key-to-online-democracy-is-trust.jpg
+    image: /assets/images/news/the-key-to-online-democracy-is-trust.jpg
     categories:
       - Новости Citizen OS
     text: |
@@ -193,7 +202,7 @@ news:
     url: /news/turning-citizen-ideas-into-action-on-waste-bintan-indonesia/
     title: Превращаем идеи граждан в реальные шаги по борьбе с отходами — Бинтан, Индонезия.
     author: 'Индонезийская команда, редактор: Бекка Мелуиш'
-    image: /images/news/turning-citizen-ideas-into-action-on-waste-bintan-indonesia.jpeg
+    image: /assets/images/news/turning-citizen-ideas-into-action-on-waste-bintan-indonesia.jpeg
     categories:
       - Новости Citizen OS
       - Тематические исследования
@@ -203,7 +212,7 @@ news:
     url: /news/come-and-participate-in-a-new-participation-service-pilot-project/
     title: Come and participate in a new participation-service pilot project!
     author: Anett Linno, Liina Guiter
-    image: /images/news/come-and-participate-in-a-new-participation-service-pilot-project.jpg
+    image: /assets/images/news/come-and-participate-in-a-new-participation-service-pilot-project.jpg
     categories:
       - Citizen OS news
     text: |
@@ -212,7 +221,7 @@ news:
     url: /news/challenges-in-the-field-of-participatory-e-democracy/
     title: Challenges in the Field of Participatory e-Democracy.
     author: Becca Melhuish
-    image: /images/news/challenges-in-the-field-of-participatory-e-democracy.jpg
+    image: /assets/images/news/challenges-in-the-field-of-participatory-e-democracy.jpg
     categories:
       - Citizen OS news
       - E-democracy news
@@ -222,7 +231,7 @@ news:
     url: /news/the-civic-hacktivist-community-who-and-why/
     title: The Civic Hacktivist Community — Who and Why?
     author: Becca Melhuish
-    image: /images/news/the-civic-hacktivist-community-who-and-why.jpg
+    image: /assets/images/news/the-civic-hacktivist-community-who-and-why.jpg
     categories:
       - Citizen OS news
       - E-democracy news
@@ -232,7 +241,7 @@ news:
     url: /news/my-mistake-my-best-lesson/
     title: My Mistake - My Best Lesson.
     author: Agustina Iskandar
-    image: /images/news/my-mistake-my-best-lesson.png
+    image: /assets/images/news/my-mistake-my-best-lesson.png
     categories:
       - Case studies
     text: |
@@ -241,7 +250,7 @@ news:
     url: /news/team-decisions-in-the-time-of-corona/
     title: Team Decisions in the Time of Corona.
     author: Becca Melhuish
-    image: /images/news/team-decisions-in-the-time-of-corona.png
+    image: /assets/images/news/team-decisions-in-the-time-of-corona.png
     categories:
       - Citizen OS news
       - E-democracy news
@@ -252,7 +261,7 @@ news:
     url: /news/estonias-richness-of-life-party-a-recipe-for-post-ideology-deep-democracy-politics/
     title: Estonia’s Richness Of Life Party - a recipe for post-ideology participatory politics?
     author: Becca Melhuish
-    image: /images/news/estonias-richness-of-life-party-a-recipe-for-post-ideology-deep-democracy-politics.png
+    image: /assets/images/news/estonias-richness-of-life-party-a-recipe-for-post-ideology-deep-democracy-politics.png
     categories:
       - Citizen OS news
       - E-democracy news
@@ -263,7 +272,7 @@ news:
     url: /news/digital-signing-through-smart-id-our-open-source-gift/
     title: Digital Signing through Smart-ID - our open source gift
     author: Becca Melhuish
-    image: /images/news/digital-signing-through-smart-id-our-open-source-gift.png
+    image: /assets/images/news/digital-signing-through-smart-id-our-open-source-gift.png
     categories:
       - Citizen OS news
     text: |
@@ -272,7 +281,7 @@ news:
     url: /news/where-is-participation-heading-and-how-can-each-of-us-change-it/
     title: Where is participation heading and how can each of us change it?
     author: Questions by Gertha Teidla-Kunitsõn, written answers by Margo Loor.
-    image: /images/news/where-is-participation-heading-and-how-can-each-of-us-change-it.jpeg
+    image: /assets/images/news/where-is-participation-heading-and-how-can-each-of-us-change-it.jpeg
     categories:
       - E-democracy news
       - Новости Citizen OS
@@ -282,7 +291,7 @@ news:
     url: /news/le-ciel-and-citizen-os-join-forces-for-the-planet/
     title: Le Ciel and Citizen OS join forces for the planet.
     author: Becca Melhuish
-    image: /images/news/le-ciel-and-citizen-os-join-forces-for-the-planet.jpeg
+    image: /assets/images/news/le-ciel-and-citizen-os-join-forces-for-the-planet.jpeg
     categories:
       - Citizen OS news
       - Тематические исследования
@@ -292,7 +301,7 @@ news:
     url: /news/is-the-time-of-representative-democracy-over-estonia-without-a-parliament/
     title: Is the time of representative democracy over - Estonia without a parliament?
     author: Margo Loor
-    image: /images/news/is-the-time-of-representative-democracy-over-estonia-without-a-parliament.jpeg
+    image: /assets/images/news/is-the-time-of-representative-democracy-over-estonia-without-a-parliament.jpeg
     categories:
       - E-democracy news
     text: |
@@ -301,7 +310,7 @@ news:
     url: /news/gmb-indonesia-empowering-youth-leaders-for-unity-and-peace/
     title: GMB Indonesia - empowering Youth Leaders for unity and peace.
     author: Anett Linno, edited by Becca Melhuish
-    image: /images/news/gmb-indonesia-empowering-youth-leaders-for-unity-and-peace.jpeg
+    image: /assets/images/news/gmb-indonesia-empowering-youth-leaders-for-unity-and-peace.jpeg
     categories:
       - Citizen OS news
       - Тематические исследования
@@ -311,7 +320,7 @@ news:
     url: /news/afoorum-widening-the-scope-of-estonias-opinion-festival/
     title: AFoorum - Widening the scope of the Opinion Festival in Estonia.
     author: Becca Melhuish
-    image: /images/news/afoorum-widening-the-scope-of-estonias-opinion-festival.png
+    image: /assets/images/news/afoorum-widening-the-scope-of-estonias-opinion-festival.png
     categories:
       - Case studies
     text: |
@@ -320,7 +329,7 @@ news:
     url: /news/the-unexamined-life-is-not-worth-living-on-socrates-and-citizen-os/
     title: The unexamined life is not worth living - On Socrates and Citizen OS.
     author: Paul Emmet
-    image: /images/news/the-unexamined-life-is-not-worth-living-on-socrates-and-citizen-os.jpeg
+    image: /assets/images/news/the-unexamined-life-is-not-worth-living-on-socrates-and-citizen-os.jpeg
     categories:
       - Citizen OS news
       - E-democracy news
@@ -330,7 +339,7 @@ news:
     url: /news/meet-the-team-localisation-lead-oksana-naidjonova/
     title: Meet The Team - Localisation lead Oksana Naidjonova
     author: Oksana Naidjonova answered, Becca Melhuish asked
-    image: /images/news/meet-the-team-localisation-lead-oksana-naidjonova.jpg
+    image: /assets/images/news/meet-the-team-localisation-lead-oksana-naidjonova.jpg
     categories:
       - Citizen OS news
     text: |
@@ -343,11 +352,11 @@ blocks:
       - order-1
     style:
       background-color: '#CBF9B3'
-      background-image: url(/images/bubble-dots.png), url(/images/bubble-turquoise.svg), url(/images/bubble-blue.svg), url(/images/bubble-blue.svg)
+      background-image: url(/assets/images/bubble-dots.png), url(/assets/images/bubble-turquoise.svg), url(/assets/images/bubble-blue.svg), url(/assets/images/bubble-blue.svg)
       background-position: 0 10%, 0% 90%, 20% 10%, 80% 80%
       background-size: 350px 350px, 102px 102px, 65px 65px, 135px 135px
     text: |
-      ![](/images/news-start.png){ .img-fluid }
+      ![](/assets/images/news-start.png){ .img-fluid }
   start:
     class:
       - order-0
