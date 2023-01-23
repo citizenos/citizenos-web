@@ -49,7 +49,7 @@ blocks:
       background-position: 10% 10%, 90% 10%
       background-size: 45px 45px, 350px 350px
     text: |
-      ![An image of a lit light bulb with four smaller red bubbles surrounding it in a circle with arrows pointing from one to the next bubble.](/assets/images/dda-project-page-image.png){ .img-fluid }
+      ![Kuva palavasta hehkulampusta, jonka ympärillä on neljä pientä kuplaa, joiden välillä on kuplia samaan suuntaan osoittavat nuolet.](/assets/images/dda-project-page-image.png){ .img-fluid }
   individual2:
     class:
       - order-2
@@ -68,12 +68,12 @@ blocks:
       background-position: 10% 10%, 90% 10%
       background-size: 45px 45px, 350px 350px
     text: |
-      ![An active citizen who believes that her participation in political issues has an impact.](/assets/images/vision-individual.png){ .img-fluid }
+      ![Aktiivinen kansalainen, joka uskoo, että osallistumalla poliittisten ongelmien ratkaisuun voi vaikuttaa.](/assets/images/vision-individual.png){ .img-fluid }
   individual:
     class:
       - order-3
     title: |
-      Winter and Summer Schools
+      Talvi- ja kesäkoulut
     text: |
       Digital Innovation for Civic Engagement Projects -kurssi toteutetaan yhteistyössä meidän ja Tallinnan yliopiston välillä osana yliopiston kesä- ja talvikouluohjelmia. Kymmenen päivän kurssilla opetetaan yhteisöjen ja kansalaisaloitteiden jäsenille keinoja saada yhä useammat ihmiset mukaan keskustelu- ja päätöksentekoprosesseihin hyödyntämällä teknisiä työkaluja.
     button1st:
@@ -88,7 +88,7 @@ blocks:
       background-position: 10% 10%, 90% 10%
       background-size: 45px 45px, 350px 350px
     text: |
-      ![A woman's upper body on the left, the woman staring at a sceen with different people in many windows.](/assets/images/projects-pyln.jpg){ .img-fluid }
+      ![Vasemmalla puolella naisen kasvot, jotka katsovat oikealla olevaa näyttöä, jossa on erilaisia ihmisiä useissa ikkunoissa.](/assets/images/projects-pyln.jpg){ .img-fluid }
   awareness2:
     class:
       - order-6
@@ -99,7 +99,7 @@ blocks:
     #background-position: 10% 10%
     #label: Raising awareness
     title: |
-      Participatory Youth Leadership Network
+      Osallistavan nuorisojohtamisen verkosto
     text: |
       Citizen OS:n Intian-osasto PYLN tekee yhteistyötä intialaisten organisaatioiden ja haktivistien kanssa, jotka jakavat visiomme osallistavan johtajuuden kehittämisestä.
 
@@ -116,16 +116,16 @@ blocks:
       background-position: 10% 10%, 90% 10%
       background-size: 45px 45px, 350px 350px
     text: |
-      ![An active citizen who believes that her participation in political issues has an impact.](/assets/images/projects/Youth-exchange-projects-page-pic.png){ .img-fluid }
+      ![Aktiivinen kansalainen, joka uskoo, että osallistumalla poliittisten ongelmien ratkaisuun voi vaikuttaa.](/assets/images/projects/Youth-exchange-projects-page-pic.png){ .img-fluid }
   individual3:
     class:
       - order-7
     title: |
-      Erasmus+ Youth Exchange
+      Erasmus+ -nuorisovaihto
     text: |
       In our ʻDigital Transformation for Civic Engagementʼ youth exchange programme, Europe’s next generation of leaders learn civic engagement project design and participatory leadership, through hands-on ʻlearning by doingʼ methods.
     button1st:
-      title: Learn more
+      title: Lue lisää
       url: https://participationpool.eu/project/leading-by-doing-digital-transformation-for-civic-engagement/
       target: _blank
   awareness:
