@@ -1,18 +1,18 @@
-path: /contact
-title: Contact
-description: Citizen OS is a not-for-profit organisation headquartered in Estonia, which has gained the trust of public and private user groups around the world.
+path: /yhteystiedot
+title: Yhteystiedot
+description: Citizen OS on voittoa tavoittelematon järjestö, jonka päämaja sijaitsee Virossa. Se on ansainnut julkisten ja yksityisten käyttäjäryhmien luottamuksen ympäri maailmaa.
 keywords:
-  - open source
-  - civic initiative
-  - civic movement
+  - avoin lähdekoodi
+  - kansalaisaloite
+  - kansalaisliike
 image: /v2/images/illustrations/discussions.svg
 sections:
   header:
     type: small-header
     color: blue
-    title: Contact
+    title: Yhteystiedot
     text: |
-      Citizen OS is a not-for-profit organisation headquartered in Estonia, which has gained the trust of public and private user groups around the world.
+      Citizen OS on voittoa tavoittelematon järjestö, jonka päämaja sijaitsee Virossa. Se on ansainnut julkisten ja yksityisten käyttäjäryhmien luottamuksen ympäri maailmaa.
   about:
     type: media
     mediaLeft: true
