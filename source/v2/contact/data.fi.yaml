@@ -18,12 +18,12 @@ sections:
     mediaLeft: true
     image: /v2/images/illustrations/discussions.svg
     text: |
-      ### Our information
+      ### Tietomme
 
       |  |  |
       | --- | --- |
-      | **Contact** | <info@citizenos.com> |
-      | **Organisation** | Foundation Citizen OS |
-      | **Address** | Telliskivi Creative City, Telliskivi 60a/3, Tallinn 10412, Estonia, EU |
-      | **Registry code** | 90014709 |
-      | **VAT info** | Foundation Citizen OS is not subject to VAT |
+      | **Yhteys** | <info@citizenos.com> |
+      | **Organisaatio** | Foundation Citizen OS | |
+      | **Osoite** | Telliskivi Creative City, Telliskivi 60a/3, Tallinn 10412, Viro, EU | |
+      | **Rekisteritunnus** | 90014709 |
+      | **ALV-tiedot** | Foundation Citizen OS ei ole ALV-velvollinen |
