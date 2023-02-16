@@ -10,6 +10,17 @@ image: /assets/images/meta/vision.jpg
 
 news:
 
+    2023-02-16:
+        url: /news/how-to-encourage-better-political-discussions-during-elections
+        title: How to encourage better political discussions during elections
+        author: Meelika Hirmo
+        image: /assets/images/news/parker_johnson-i_voted.png
+        categories:
+            - Citizen OS news
+            - E-democracy news
+        text: |
+            Friends of Citizen OS in Estonia, the Estonian Debating Society and Praxis Centre for Policy Studies, have launched a “Smart Voter” campaign in Estonia. The project encourages citizens to make well-considered decisions and aims to raise voters’ political awareness before and during the Estonian Parliamentary elections.
+
     2023-01-21:
         url: /news/our-annual-report-2022
         title: Our Annual Report 2022.
