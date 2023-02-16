@@ -8,6 +8,16 @@ keywords:
   -
 image: /assets/images/meta/vision.jpg
 news:
+  2023-02-16:
+    url: /et/uudised/kas-oled-tark-valija
+    title: Kas oled tark valija?
+    author: Oksana Naidjonova
+    image: /assets/images/news/tarkvalija_fb cover.png
+    categories:
+      - Citizen OS uudised
+      - E-demokraatia uudised
+    text: |
+      Citizen OSi sõbrad Eesti Väitlusselts ja mõttekoda Praxis viivad ellu kampaaniat Tark Valija, mille eesmärk on riigikogu valimiste eel innustada valijaid tegema teadlikke ja läbimõeldud otsuseid ning tõsta nende teadlikkust valimistel oluliste teemade osas.
   2023-01-21:
     url: /news/our-annual-report-2022
     title: Our Annual Report 2022.
@@ -19,7 +29,7 @@ news:
       The year 2022 was a big one for us at Citizen OS. Check out our Annual Report to find out what we’ve been up to—our projects and partnerships, our platform developments, and our organisational expansion—as well as our plans for 2023.
   2022-04-04:
     url: et/news/1200-citizens-attend-Indonesian-Opinion-Festival-2022
-    title: 1200 kodanikku osaleb Indoneesia Arvamusfestivalil 2022.
+    title: 1200 Kodanikku osaleb Indoneesia Arvamusfestivalil 2022.
     author: Becca Melhuish
     image: /assets/images/news/1200-citizens-attend-Indonesian-Opinion-Festival-2022.png
     categories:
