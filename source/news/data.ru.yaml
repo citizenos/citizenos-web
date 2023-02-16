@@ -8,6 +8,16 @@ keywords:
   -
 image: /assets/images/meta/vision.jpg
 news:
+  2023-02-16:
+    url: /news/how-to-encourage-better-political-discussions-during-elections
+    title: How to Encourage Better Political Discussions During Elections
+    author: Oksana Naidjonova
+    image: /assets/images/news/parker_johnson-i_voted.png
+    categories:
+      - Citizen OS news
+      - E-democracy news
+    text: |
+      Friends of Citizen OS in Estonia, the Estonian Debating Society and Praxis Centre for Policy Studies, have launched a “Smart Voter” campaign in Estonia. The project encourages citizens to make well-considered decisions and aims to raise voters’ political awareness before and during the Estonian Parliamentary elections.
   2023-01-21:
     url: /news/our-annual-report-2022
     title: Our Annual Report 2022.
@@ -19,7 +29,7 @@ news:
       The year 2022 was a big one for us at Citizen OS. Check out our Annual Report to find out what we’ve been up to—our projects and partnerships, our platform developments, and our organisational expansion—as well as our plans for 2023.
   2022-04-04:
     url: /news/1200-citizens-attend-Indonesian-Opinion-Festival-2022
-    title: 1200 граждан посещают Фестиваль мнений 2022 в Индонезии.
+    title: 1200 Citizens Attend Indonesia Opinion Festival 2022.
     author: Бекка Мелуиш
     image: /assets/images/news/1200-citizens-attend-Indonesian-Opinion-Festival-2022.png
     categories:
@@ -40,7 +50,7 @@ news:
       Программа по вовлечению молодежи в электронную демократическую деятельность — это новая программа партнерства между Citizen OS Indonesia и индонезийским правительством.
   2022-01-16:
     url: /news/interview-imam-gunawan-indonesian-ministry-of-youth-and-sport
-    title: Интервью — Имам Гунаван из министерства по делам молодежи и спорта Индонезии.
+    title: Interview - Imam Gunawan, Indonesian Ministry of Youth and Sport.
     author: Агустина Искандар Кромбах
     image: /assets/images/news/imam.jpeg
     categories:
@@ -51,7 +61,7 @@ news:
       Интервью с Имамом Гунаваном, представителем министерства по делам молодежи и спорта Индонезии, по вопросу о сотрудничестве с компанией Citizen OS.
   2021-12-05:
     url: /news/my-volunteer-experience-sara-sinha
-    title: Мой опыт волонтерства — Сара Синха.
+    title: My Volunteer Experience - Sara Sinha.
     author: Индианна Найт
     image: /assets/images/news/sara.jpg
     categories:
