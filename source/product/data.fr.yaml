@@ -160,7 +160,8 @@ blocks:
     title: |
       La plateforme d’initiatives citoyennes d’Estonie.
     text: |
-      Le code open source de Citizen OS a été partiellement utilisé pour mettre en place le site des initiatives citoyennes [Rahvaalgatus.ee](https://www. ahvaalgatus.ee) Des pétitions peuvent y être lancées, signées et soumises directement au parlement estonien.
+      Le code open source de Citizen OS a été partiellement utilisé pour mettre en place le site des initiatives citoyennes [Rahvaalgatus.ee](https://www.rahvaalgatus.ee). 
+      Des pétitions peuvent y être lancées, signées et soumises directement au parlement estonien.
   case-study-img:
     class:
       - order-7
