@@ -1,11 +1,11 @@
 ---
 multipage: true
 general:
-  path: /et/abi/yldine
+  path: /help/general
   data:
-    help: /help/data.et.yaml
-    topics: general/data.et.yaml
-  title: Üldine
+    help: /help/data.en.yaml
+    topics: general/data.en.yaml
+  title: General
   icon: general
   video:
     url:
@@ -13,11 +13,11 @@ general:
   text: |
     **Citizen OS is a free platform for remote, asynchronous, collective decision-making.** Co-create a topic, discuss it, vote on it, then follow-up on it afterwards. Available worldwide, with e-ID signature functionality in Estonia.
 login:
-  path: /et/abi/sisselogimine
+  path: /help/login
   data:
-    help: /help/data.et.yaml
-    topics: login/data.et.yaml
-  title: Sisselogimine
+    help: /help/data.en.yaml
+    topics: login/data.en.yaml
+  title: Login
   icon: login
   video:
     url:
@@ -27,11 +27,11 @@ login:
 
     Tip: be sure to log out if using the platform on public devices - you won’t be logged out automatically after closing the browser.
 groups:
-  path: /et/abi/grupid
+  path: /help/groups
   data:
-    help: /help/data.et.yaml
-    topics: groups/data.et.yaml
-  title: Grupid
+    help: /help/data.en.yaml
+    topics: groups/data.en.yaml
+  title: Groups
   icon: groups
   video:
     url:
@@ -39,11 +39,11 @@ groups:
   text: |
     Groups are groups of users. They are useful if you will be making decisions with the same group of people (such as a team, community or organisation) on multiple occasions. [The benefits of a group](/help/groups/why-create-a-group) include quicker sharing or unsharing of topics, a group folder containing all topics shared to those users, and easier rights administration.
 topics:
-  path: /et/abi/teemad
+  path: /help/topics
   data:
-    help: /help/data.et.yaml
-    topics: topics/data.et.yaml
-  title: Teemad
+    help: /help/data.en.yaml
+    topics: topics/data.en.yaml
+  title: Topics
   icon: topics
   video:
     url:
@@ -53,11 +53,11 @@ topics:
 
     This section covers general topic management and topic texts. For guidance on discussions or voting, see the [Discussions](/help/discussions) or [Voting](/help/voting) sections
 discussions:
-  path: /et/abi/arutelud
+  path: /help/discussions
   data:
-    help: /help/data.et.yaml
-    topics: discussions/data.et.yaml
-  title: Arutelud
+    help: /help/data.en.yaml
+    topics: discussions/data.en.yaml
+  title: Discussions
   icon: discussions
   video:
     url:
@@ -65,11 +65,11 @@ discussions:
   text: |
     Use the discussion space to discuss both sides of a topic before it is voted on, or to crowdsource ideas for how to go forwards. Here you can post “pro” and “con” arguments, ask a question or add information, and reply or react to arguments made by others.
 voting:
-  path: /et/abi/haaletamine
+  path: /help/voting
   data:
-    help: /help/data.et.yaml
-    topics: voting/data.et.yaml
-  title: Hääletamine
+    help: /help/data.en.yaml
+    topics: voting/data.en.yaml
+  title: Voting
   icon: voting
   video:
     url:
@@ -77,11 +77,11 @@ voting:
   text: |
     Set up a vote to democratically decide on a topic. Voting settings include a wide range of options such as multiple choice voting, veto votes, and vote delegation. Inline votes can also be created in the topic text. In Estonia, e-ID voting is available.
 follow-up:
-  path: /et/abi/elluviimine
+  path: /help/follow-up
   data:
-    help: /help/data.et.yaml
-    topics: follow-up/data.et.yaml
-  title: Otsuse elluviimine
+    help: /help/data.en.yaml
+    topics: follow-up/data.en.yaml
+  title: Follow-up
   icon: follow-up
   video:
     url:
