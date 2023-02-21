@@ -30,8 +30,8 @@ languages:
   ua: Українська
 selectLanguage: Bahasa
 donateLink:
-  title: Donate
-  url: /id/donasi/
+  title: Donasi
+  url: /id/donate/
 productLink:
   title: Gunakan platform
   url: https://app.citizenos.com/id/
@@ -63,8 +63,8 @@ footer:
       title: Dukungan
       links:
         donate:
-          title: Donate
-          url: /donate/
+          title: Donasi
+          url: /id/donate/
         guides:
           title: Help Centre
           url: /help/

@@ -1,10 +1,10 @@
 ---
 multipage: true
 reporting-an-argument-or-comment-as-inappropriate:
-  path: /et/abi/arutelud/ebasobivast-argumendist-kommentaarist-teavitamine
+  path: /help/discussions/reporting-an-argument-or-comment-as-inappropriate
   data:
     category: /help/category/data.en.yaml
-    help: /help/data.et.yaml
+    help: /help/data.en.yaml
   title: Reporting an argument or comment as inappropriate
   text: |
     To report an argument or comment as inappropriate, click on the “Actions” drop-down at the top of the relevant argument/comment.
@@ -18,7 +18,7 @@ replying-or-reacting-to-an-argument-or-comment:
   path: /help/discussions/replying-or-reacting-to-an-argument-or-comment
   data:
     category: /help/category/data.en.yaml
-    help: /help/data.et.yaml
+    help: /help/data.en.yaml
   title: Replying or reacting to an argument or comment
   text: |
     To reply to a comment in the topic discussion, simply click “Reply” underneath the relevant comment. To see the replies left by others, click on “Show replies”.
@@ -37,7 +37,7 @@ integrating-twitter-posts-into-discussions:
 
     **How to set up Twitter integration:**
 
-    - Go into the relevant topic, in “edit” mode. (This mode is available to all those with “admin” and “edit” rights.)
+    - Go into the relevant topic, in “edit” mode. (This mode is available to all those with “admin” and “editor” rights.)
     - Click on “Actions” in the “Options” menu. (Right sidebar on desktop, or in the options menu tab on mobile).
     - In the pop-up window, under “Hashtag” enter the hashtag that is relevant to your topic.
     - Click Save topic.

@@ -1,10 +1,10 @@
 ---
 multipage: true
 why-create-a-group:
-  path: /et/abi/yldine/miks-luua-grupp
+  path: /help/groups/why-create-a-group
   data:
     category: /help/category/data.en.yaml
-    help: /help/data.et.yaml
+    help: /help/data.en.yaml
   title: Why create a group
   text: |
     - **Why create a group?** Quicker sharing. All members of a group will be automatically added to any new topic created for that group. No need to send invite links or add users one-by-one.
@@ -16,10 +16,10 @@ why-create-a-group:
     - [How to create a group](/help/groups/how-to-create-a-group)
     { .list-arrow .list-unstyled }
 how-to-create-a-group:
-  path: /et/abi/grupid/kuidas-luua-grupp
+  path: /help/groups/how-to-create-a-group
   data:
     category: /help/category/data.en.yaml
-    help: /help/data.et.yaml
+    help: /help/data.en.yaml
   title: How to create a group
   text: |
     To create a group:
@@ -51,10 +51,10 @@ how-to-create-a-group:
 
     { .list-arrow .list-unstyled }
 inviting-users-to-a-group:
-  path: /et/abi/grupid/kasutajate-gruppi-kutsumine
+  path: /help/groups/inviting-users-to-a-group
   data:
     category: /help/category/data.en.yaml
-    help: /help/data.et.yaml
+    help: /help/data.en.yaml
   title: Inviting users to a group
   text: |
     To invite users to an existing group:
@@ -71,17 +71,17 @@ inviting-users-to-a-group:
     - [How to create a group](/help/groups/how-to-create-a-group)
     { .list-arrow .list-unstyled }
 seeing-who-has-been-invited-to-joined-a-group:
-  path: /et/abi/grupid/kuidas-vaadata-gruppi-kutsutuid-ja-liitunuid
+  path: /help/groups/seeing-who-has-been-invited-to-joined-a-group
   data:
     category: /help/category/data.en.yaml
-    help: /help/data.et.yaml
+    help: /help/data.en.yaml
   title: Seeing who has been invited to / joined a group
   text: |
     You can see who has been invited to or joined a group as follows:
     1. Navigate to your “My Groups” dashboard via the Main Menu.
     1. Click on the relevant group name.
     1. Click to expand the grey “User list” bar, which is displayed underneath the “General information” box.
-    1. The list shows everyone who has been invited, and what level of access rights they have, e.g. “admin” or “read”.
+    1. The list shows everyone who has been invited, and what level of access rights they have, e.g. “admin” or “participant”.
     1. If their invitation is greyed out and marked as “pending”, this means they have not yet accepted the invitation.
 
     ![Screenshot of the platform.](/assets/images/help/groupuserlist.png)
@@ -91,10 +91,10 @@ seeing-who-has-been-invited-to-joined-a-group:
     - [Inviting users to a group](/help/groups/inviting-users-to-a-group)
     { .list-arrow .list-unstyled }
 checking-if-email-invites-bounced:
-  path: /et/abi/grupid/kuidas-kontrollida-kas-kutsed-joudsid-kohale
+  path: /help/groups/checking-if-email-invites-bounced
   data:
     category: /help/category/data.en.yaml
-    help: /help/data.et.yaml
+    help: /help/data.en.yaml
   title: Checking if email invites bounced
   text: |
     It is not possible to check whether an invitation has “bounced” on the Citizen OS platform.
@@ -107,10 +107,10 @@ checking-if-email-invites-bounced:
     - [Seeing who has been invited to / joined a group](/help/groups/seeing-who-has-been-invited-to-joined-a-group)
     { .list-arrow .list-unstyled }
 finding-a-group-you-previously-joined-created:
-  path: /et/abi/grupid/leia-grupp-mille-tegid-liitusid
+  path: /help/groups/finding-a-group-you-previously-joined-created
   data:
     category: /help/category/data.en.yaml
-    help: /help/data.et.yaml
+    help: /help/data.en.yaml
   title: Finding a group you previously joined / created
   text: |
     To access all groups you have previously joined or created, click on “My Groups” in the main menu.
@@ -129,7 +129,7 @@ inviting-a-group-to-a-topic:
   path: /help/groups/inviting-a-group-to-a-topic
   data:
     category: /help/category/data.en.yaml
-    help: /help/data.et.yaml
+    help: /help/data.en.yaml
   title: Inviting a group to a topic
   text: |
     By inviting a group to a topic, all members of the group will be invited to join. It also means that the topic will show up under the relevant group name in the “My Groups” dashboard.
@@ -169,7 +169,7 @@ inviting-a-group-to-a-topic:
     ## Related content{.mt-5}
     - [How to create a group](/help/groups/how-to-create-a-group)
     - [Why create a group](/help/groups/why-create-a-group)
-    - [Inviting users to a group](/help/groups/invite-users-to-a-group)
+    - [Inviting users to a group](/help/groups/inviting-users-to-a-group)
     { .list-arrow .list-unstyled }
 changing-the-rights-of-group-participants:
   path: /help/groups/changing-the-rights-of-group-participants
@@ -212,7 +212,7 @@ changing-the-rights-of-group-participants:
     **Note:** Changing these rights will bulk edit the topic access rights of almost all members of your group for that particular topic. However, the initiator of the topic will retain “admin” rights, and any members who have had rights manually assigned will retain these if they were assigned a higher level of rights than the group rights (more on this [here](/help/groups/understanding-group-user-rights)).
 
 
-    To find out how to check and manually edit the topic access rights of individual users within the group, see [Changing the rights of topic participants](link).
+    To find out how to check and manually edit the topic access rights of individual users within the group, see [Changing the rights of topic participants](/help/topics/changing-the-rights-of-topic-participants).
 
     ## Related content{.mt-5}
     - [Understanding group user rights](/help/groups/understanding-group-user-rights)
@@ -283,13 +283,13 @@ understanding-group-user-rights:
   text: |
     There are two different sets of rights with a group: group management rights, and group topic access rights.
 
-    To find out how to edit these rights, see [“Changing the admin rights of group participants”](/help/groups/changing-the-admin-rights-of-group-members).
+    To find out how to edit these rights, see [“Changing the rights of group participants”](/help/groups/changing-the-rights-of-group-participants).
 
     Here is an explanation of what these rights mean, and how they relate to each other.
 
     __**Group management rights**__
 
-    Group participants can be [assigned different levels of group management rights:](/help/groups/changing-the-admin-rights-of-group-members) “admin”, or “read”. These rights levels determine the actions users can take in relation to the management of the group - i.e. editing the group settings.
+    Group participants can be [assigned different levels of group management rights:](/help/groups/changing-the-admin-rights-of-group-members) “admin”, or “participant”. These rights levels determine the actions users can take in relation to the management of the group - i.e. editing the group settings.
 
     With “admin” rights, users can:
 
@@ -305,7 +305,7 @@ understanding-group-user-rights:
 
     _Note: It is only possible to add topics into a group if you have “admin” rights for the topic itself, including for public topics._
 
-    With “read” rights, users can:
+    With “participant” rights, users can:
 
     - View users (user names only)
     - Access topics shared to the group (with their level of access varying, depending on their topic rights)
@@ -317,23 +317,23 @@ understanding-group-user-rights:
 
     Changing group topic access rights will bulk edit the access rights of almost all members of your group for that particular topic, aside from the exceptions listed below.
 
-    After bulk editing the topic access rights of the whole group, it is possible to manually, individually edit the topic access rights of certain group members, via the topic’s “user list”.  (For example, if you want to set the whole group to “read”, but then manually change a few group members to be “admin” with you).
+    After bulk editing the topic access rights of the whole group, it is possible to manually, individually edit the topic access rights of certain group members, via the topic’s “user list”.  (For example, if you want to set the whole group to “participant”, but then manually change a few group members to be “admin” with you).
 
     Below are the aforementioned exceptions to group rights. These members rights will not be automatically affected when the group rights are changed:
 
     - The initiator of the topic will retain their topic “admin” rights.
     - Any other users whose topic access rights have previously been individually manually edited will also retain their previously specified level of topic access rights, if they were assigned a “higher level” of rights than those given to the group. Two examples:
-        * If a user was manually assigned “admin” rights, but the group rights were then changed to “edit”, that user will retain “admin” rights.
-        * If a user was manually assigned “read” rights, but the group rights were then changed to “edit”, that user will now also have edit rights.
+        * If a user was manually assigned “admin” rights, but the group rights were then changed to “editor”, that user will retain “admin” rights.
+        * If a user was manually assigned “participant” rights, but the group rights were then changed to “editor”, that user will now also have edit rights.
 
     **Interrelation between group and topic rights**
 
     Group management rights and topic access rights are not related. Group management rights relate purely to actions relating to the management of the group itself, while topic access rights relate purely to group members’ levels of topic access.
 
-    However, group topic access rights and individual user access rights do interrelate. Individual user topic access rights are more “powerful” than group topic access rights. (For example, if the whole group has been given “read” rights to a topic, but a particular user has been individually given “admin” rights, then that user will be able to carry out “admin” actions for the topic).
+    However, group topic access rights and individual user access rights do interrelate. Individual user topic access rights are more “powerful” than group topic access rights. (For example, if the whole group has been given “participant” rights to a topic, but a particular user has been individually given “admin” rights, then that user will be able to carry out “admin” actions for the topic).
 
     ## Related content{.mt-5}
-    - [Changing the admin rights of group participants](/help/groups/changing-the-admin-rights-of-group-members)
+    - [Changing the rights of group participants](/help/groups/changing-the-rights-of-group-participants)
     - [Understanding topic user rights](/help/topics/understanding-topic-user-rights)
     - [Changing the rights of topic participants](/help/topics/changing-the-rights-of-topic-participants/)
 
