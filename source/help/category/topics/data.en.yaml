@@ -383,20 +383,21 @@ understanding-topic-user-rights:
         help: /help/data.en.yaml
     title: Understanding topic user rights
     text: |
-        Topic participants can be [assigned different levels of rights:](/help/groups/changing-the-rights-of-group-participants) “admin”, “edit”, “read” or “none”.
+        Topic participants can be [assigned different levels of rights:](/help/groups/changing-the-rights-of-group-participants) “admin”, “editor” or “participant”.
 
-        **With “read” rights, users can:**
+        **With “participant” rights, users can:**
 
         - View topic
         - Participate in topic discussion
         - Vote on topic
         - View the topic follow-up
+        - Set topic notifications
         - Leave topic
         - Report topic (only for public topics)
 
         *(Note: In public topics, all the above actions are also open to anyone accessing the topic, regardless of whether they have been invited).*
 
-        **With “edit” rights, users can do all of the above plus:***
+        **With “editor” rights, users can do all of the above plus:***
 
         - Edit topic (title, topic text, etc.)
         - Add hashtags and categories
@@ -411,8 +412,6 @@ understanding-topic-user-rights:
         - Share an invite to topic via URL, QR code, FB, LinkedIn and Twitter
         - Manage participants (manage users’ rights, delete users)
         - Duplicate topic.
-
-        **With “None” rights,** users cannot access the topic at all. This can be used when you do not want to remove a user(s) from a topic entirely, but want to temporarily suspend their access to it.
 
         **Note:** Please see [Understanding group user rights](/help/groups/understanding-group-user-rights) for more information on the interrelation between group rights and topic rights.
 
