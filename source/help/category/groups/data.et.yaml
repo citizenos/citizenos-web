@@ -1,10 +1,10 @@
 ---
 multipage: true
 why-create-a-group:
-  path: /et/abi/yldine/miks-luua-grupp
+  path: /help/groups/why-create-a-group
   data:
     category: /help/category/data.en.yaml
-    help: /help/data.et.yaml
+    help: /help/data.en.yaml
   title: Why create a group
   text: |
     - **Why create a group?** Quicker sharing. All members of a group will be automatically added to any new topic created for that group. No need to send invite links or add users one-by-one.
@@ -16,10 +16,10 @@ why-create-a-group:
     - [How to create a group](/help/groups/how-to-create-a-group)
     { .list-arrow .list-unstyled }
 how-to-create-a-group:
-  path: /et/abi/grupid/kuidas-luua-grupp
+  path: /help/groups/how-to-create-a-group
   data:
     category: /help/category/data.en.yaml
-    help: /help/data.et.yaml
+    help: /help/data.en.yaml
   title: How to create a group
   text: |
     To create a group:
@@ -51,10 +51,10 @@ how-to-create-a-group:
 
     { .list-arrow .list-unstyled }
 inviting-users-to-a-group:
-  path: /et/abi/grupid/kasutajate-gruppi-kutsumine
+  path: /help/groups/inviting-users-to-a-group
   data:
     category: /help/category/data.en.yaml
-    help: /help/data.et.yaml
+    help: /help/data.en.yaml
   title: Inviting users to a group
   text: |
     To invite users to an existing group:
@@ -71,10 +71,10 @@ inviting-users-to-a-group:
     - [How to create a group](/help/groups/how-to-create-a-group)
     { .list-arrow .list-unstyled }
 seeing-who-has-been-invited-to-joined-a-group:
-  path: /et/abi/grupid/kuidas-vaadata-gruppi-kutsutuid-ja-liitunuid
+  path: /help/groups/seeing-who-has-been-invited-to-joined-a-group
   data:
     category: /help/category/data.en.yaml
-    help: /help/data.et.yaml
+    help: /help/data.en.yaml
   title: Seeing who has been invited to / joined a group
   text: |
     You can see who has been invited to or joined a group as follows:
@@ -91,10 +91,10 @@ seeing-who-has-been-invited-to-joined-a-group:
     - [Inviting users to a group](/help/groups/inviting-users-to-a-group)
     { .list-arrow .list-unstyled }
 checking-if-email-invites-bounced:
-  path: /et/abi/grupid/kuidas-kontrollida-kas-kutsed-joudsid-kohale
+  path: /help/groups/checking-if-email-invites-bounced
   data:
     category: /help/category/data.en.yaml
-    help: /help/data.et.yaml
+    help: /help/data.en.yaml
   title: Checking if email invites bounced
   text: |
     It is not possible to check whether an invitation has “bounced” on the Citizen OS platform.
@@ -107,10 +107,10 @@ checking-if-email-invites-bounced:
     - [Seeing who has been invited to / joined a group](/help/groups/seeing-who-has-been-invited-to-joined-a-group)
     { .list-arrow .list-unstyled }
 finding-a-group-you-previously-joined-created:
-  path: /et/abi/grupid/leia-grupp-mille-tegid-liitusid
+  path: /help/groups/finding-a-group-you-previously-joined-created
   data:
     category: /help/category/data.en.yaml
-    help: /help/data.et.yaml
+    help: /help/data.en.yaml
   title: Finding a group you previously joined / created
   text: |
     To access all groups you have previously joined or created, click on “My Groups” in the main menu.
@@ -129,7 +129,7 @@ inviting-a-group-to-a-topic:
   path: /help/groups/inviting-a-group-to-a-topic
   data:
     category: /help/category/data.en.yaml
-    help: /help/data.et.yaml
+    help: /help/data.en.yaml
   title: Inviting a group to a topic
   text: |
     By inviting a group to a topic, all members of the group will be invited to join. It also means that the topic will show up under the relevant group name in the “My Groups” dashboard.
