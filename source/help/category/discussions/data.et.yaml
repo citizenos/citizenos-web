@@ -37,7 +37,7 @@ integrating-twitter-posts-into-discussions:
 
     **How to set up Twitter integration:**
 
-    - Go into the relevant topic, in “edit” mode. (This mode is available to all those with “admin” and “edit” rights.)
+    - Go into the relevant topic, in “edit” mode. (This mode is available to all those with “admin” and “editor” rights.)
     - Click on “Actions” in the “Options” menu. (Right sidebar on desktop, or in the options menu tab on mobile).
     - In the pop-up window, under “Hashtag” enter the hashtag that is relevant to your topic.
     - Click Save topic.
