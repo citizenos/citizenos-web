@@ -1,5 +1,5 @@
-path: /about-us
-title: About us
+path: /a-propos-de-nous
+title: À propos de nous
 description: Citizen OS is a free and secure open source platform for citizen initiatives. We are a not-for-profit organisation.
 keywords:
   - open source
@@ -10,7 +10,7 @@ sections:
   header:
     type: small-header
     color: blue
-    title: About us
+    title: À propos de nous
     text: |
       Citizen OS is a free and secure open source platform for citizen initiatives. We are a not-for-profit organisation.
   about:
