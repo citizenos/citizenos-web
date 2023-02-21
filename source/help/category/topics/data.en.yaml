@@ -90,7 +90,7 @@ seeing-who-has-been-invited-to-joined-a-topic:
         1. Navigate to your “My Topics” dashboard via the main menu, listed under “Topics”.
         1. Click on the relevant topic name.
         1. Click to expand the grey “User list” bar, which is displayed underneath the “General information” box.
-        1. The list shows everyone who has been invited, and what level of access rights they have, e.g. “admin” or “read”.
+        1. The list shows everyone who has been invited, and what level of access rights they have, e.g. “admin” or “participant”.
         1. If their invitation is greyed out and marked as “pending”, this means they have not yet accepted the invitation.
 
         ![Screenshot of the platform.](/assets/images/help/groupuserlist.png)
@@ -243,7 +243,7 @@ changing-the-rights-of-topic-participants:
     title: Changing the rights of topic participants
     text: |
         A topic admin can change the level of rights that other participants have in that topic.
-        Rights can be set to either “admin”, “edit”, “read” or “none”.
+        Rights can be set to either “admin”, “editor” or “participant”.
 
         There are three ways to change a topic participant's rights.
 
