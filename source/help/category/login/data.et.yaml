@@ -1,10 +1,10 @@
 ---
 multipage: true
 troubleshooting-no-permission-to-access:
-  path: /et/abi/sisselogimine/kui-ligipaas-ei-toimi
+  path: /help/login/troubleshooting-no-permission-to-access
   data:
     category: /help/category/data.en.yaml
-    help: /help/data.et.yaml
+    help: /help/data.en.yaml
   title: Troubleshooting “no permission to access”
   text: |
     **Private topics and groups can only be accessed using a Citizen OS account which is registered with the same email address to which the original invitation was sent.**
@@ -25,10 +25,10 @@ troubleshooting-no-permission-to-access:
     - [Switching between accounts](/help/login/switching-accounts)
     { .list-arrow .list-unstyled }
 switching-accounts:
-  path: /et/abi/sisselogimine/kontode-vahetamine
+  path: /help/login/switching-accounts
   data:
     category: /help/category/data.en.yaml
-    help: /help/data.et.yaml
+    help: /help/data.en.yaml
   title: Switching accounts
   text: |
     There is no dedicated feature for switching accounts on our platform. To switch to a different Citizen OS account manually, you can:
