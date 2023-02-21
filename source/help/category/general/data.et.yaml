@@ -1,10 +1,10 @@
 ---
 multipage: true
 changing-the-language:
-  path: /et/abi/yldine/keele-vahetamine
+  path: /help/general/changing-the-language
   data:
     category: /help/category/data.en.yaml
-    help: /help/data.et.yaml
+    help: /help/data.en.yaml
   title: Changing the language
   text: |
     **You can change the language of the platform via the Main Menu.** The language you are currently using is shown near the bottom of the menu, below “Help”. Click on this language, then select your preferred language from the pop-up box.
@@ -55,10 +55,10 @@ managing-notifications:
     - [Using the activity feed](/help/general/using-the-activity-feed)
     - [Viewing a topic's activity feed](/help/topics/viewing-a-topics-activity-feed)
 using-on-mobile-devices:
-  path: /et/abi/yldine/kasutamine-mobiilil
+  path: /help/general/using-on-mobile-devices
   data:
     category: /help/category/data.en.yaml
-    help: /help/data.et.yaml
+    help: /help/data.en.yaml
   title: Using on mobile devices
   text: |
     **Citizen OS is a browser-based platform.** You can therefore use it from any device, simply by opening a browser and navigating to the platform via the URL. There is no need to download an app.
@@ -107,12 +107,12 @@ donating-to-the-platform:
   data:
     category: /help/category/data.en.yaml
     help: /help/data.en.yaml
-  title: Platvormile annetamine
+  title: Donating to the platform
   text: |
-    Citizen OS on mittetulundusühing ja meie platvormi rahastatakse peaaegu täielikult eraannetustest.
-    Aidake meil hoida platvormi tasuta, tehes annetuse aadressil [https://citizenos.com/et/toeta/](/et/toeta).
+    Citizen OS is a non-profit organisation and our platform is almost entirely funded by private donations.
+    Help us keep the platform free by making a donation at [www.citizenos.com/donate](/donate).
 
-    Teie annetus aitab meil täita oma missiooni *"anda võimalikult paljudele inimestele võimalus osaleda lugupidavates ja sisulistes aruteludes, et ühiselt otsustada nende heaolu mõjutavate küsimuste üle "*.
+    Your donation will help us in our mission to *“empower as many people as possible to participate in respectful and meaningful discussions in order to collaboratively decide on issues that affect their wellbeing.”*
 your-data-security:
   path: /help/general/your-data-security
   data:
