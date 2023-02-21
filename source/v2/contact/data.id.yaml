@@ -1,5 +1,5 @@
-path: /contact
-title: Contact
+path: /kontak
+title: Kontak
 description: Citizen OS is a not-for-profit organisation headquartered in Estonia, which has gained the trust of public and private user groups around the world.
 keywords:
   - open source
@@ -10,7 +10,7 @@ sections:
   header:
     type: small-header
     color: blue
-    title: Contact
+    title: Kontak
     text: |
       Citizen OS is a not-for-profit organisation headquartered in Estonia, which has gained the trust of public and private user groups around the world.
   about:
