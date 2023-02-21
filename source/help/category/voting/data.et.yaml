@@ -38,7 +38,7 @@ why-admins-cant-see-who-has-voted-while-a-vote-is-in-progress:
     At Citizen OS we believe that not voting can be a means of expressing opinion. For example, if someone does not agree with the question or the options available to vote upon, they may actively decide not to vote. If the vote administrator tries to incite them to vote, this could deprive them of their freedom to express their views through not voting. This information is kept confidential in government-run votes for the same reason.
 
     ## Related content{.mt-5}
-    - [Seeing who has been invited to / joined a topic](/help/voting/seeing-who-has-been-invited-to-joined-a-topic)
+    - [Seeing who has been invited to / joined a topic](/help/topics/seeing-who-has-been-invited-to-joined-a-topic)
     - [Downloading voting results](/help/voting/downloading-voting-results)
     - [Why voting is not fully anonymous](/help/voting/why-voting-is-not-fully-anonymous)
     { .list-arrow .list-unstyled }
@@ -201,7 +201,7 @@ how-to-vote-using-a-digital-signature-for-topic-participants-estonia-only:
     help: /help/data.en.yaml
   title: How to vote using a digital signature (for topic participants, Estonia only)
   text: |
-    In Estonia, it is possible for participants to add a digital signature to their votes, if this option was [enabled by the admin](/help/voting/setting-up-digital-signature-voting-Estonia-only) when setting up the vote. To do this, you need to have an ID card reader, Mobile ID or Smart ID.
+    In Estonia, it is possible for participants to add a digital signature to their votes, if this option was [enabled by the admin](/help/voting/setting-up-digital-signature-voting-for-topic-admins-estonia-only) when setting up the vote. To do this, you need to have an ID card reader, Mobile ID or Smart ID.
 
     Here’s how to cast a vote using a digital signature:
 
@@ -354,7 +354,7 @@ customising-the-voting-settings:
 
     The “Set up voting rights” section of the settings is where you decide in what ways the participants can cast their votes.
 
-    - **eID.** Toggling this option to “on” means that participants will be required to use [e-ID to sign their vote](/help/voting/setting-up-digital-signature-voting-Estonia-only). (This is currently only available in Estonia, using ID-card, Mobile-ID or Smart-ID login).
+    - **eID.** Toggling this option to “on” means that participants will be required to use [e-ID to sign their vote](/help/voting/setting-up-digital-signature-voting-for-topic-admins-estonia-only). (This is currently only available in Estonia, using ID-card, Mobile-ID or Smart-ID login).
     - **Vote delegation.** Toggling this option to “on” means that participants will be able to [delegate their vote](/help/voting/delegating-your-vote), so that another user can vote on their behalf. (Note: it is not possible to enable vote delegation when e-ID voting is enabled).
 
     **End of voting system**
