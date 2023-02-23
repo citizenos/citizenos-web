@@ -201,7 +201,7 @@ setting-up-digital-signature-voting-for-topic-admins-estonia-only:
         - On public topics, it is possible for participants to vote using e-ID without logging in first, if the admin has enabled e-ID voting when setting up the vote.
 
         ## Related content{.mt-5}
-        - [How to vote using a digital signature (Estonia only)](/help/voting/how-to-vote-using-a-digital-signature)
+        - [How to vote using a digital signature (for topic participants, Estonia only)](/help/voting/how-to-vote-using-a-digital-signature-for-topic-participants-estonia-only)
 
 how-to-vote-using-a-digital-signature-for-topic-participants-estonia-only:
     path: /help/voting/how-to-vote-using-a-digital-signature-for-topic-participants-estonia-only
