@@ -188,7 +188,7 @@ setting-up-digital-signature-voting-for-topic-admins-estonia-only:
     text: |
         In Estonia, it is possible for participants to [add a digital signature](/help/voting/how-to-vote-using-a-digital-signature) to their votes.
 
-        **If you are the admin of a topic,** here’s how you can set up the vote so that topic participants can vote using digital signatures:
+        **If you are the admin of a topic,** here's how you can set up the vote so that topic participants can vote using digital signatures:
 
         1. First, set up a vote by clicking on “Send to voting” in the Options menu of the relevant topic. (Right sidebar on desktop, or in the options menu tab on mobile).
         1. Choose either “Regular” or “Custom” vote, depending on your preference. Digital voting is available in both options.
