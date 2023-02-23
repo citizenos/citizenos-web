@@ -269,7 +269,7 @@ digital-signature-voting-results-folder-contents:
         - .html files with the names of the vote options, containing the option ID and text
         - each user's vote containers
         - an [optional spreadsheet (CSV) file](/help/voting/the-csv-file-for-digital-signature-voting-results)
-        *To download a folder including a CSV file, choose “human-readable file”. To download a folder which does not include a CSV file, choose “machine-readable file”. Which one you choose depends on [what you plan to do](/help/voting/help/voting/submitting-signatures-to-the-ariregister-riigikogu-local-government-estonia-only) with the results.*
+        *To download a folder including a CSV file, choose “human-readable file”. To download a folder which does not include a CSV file, choose “machine-readable file”. Which one you choose depends on [what you plan to do](/help/voting/submitting-signatures-to-the-ariregister-riigikogu-local-government-estonia-only) with the results.*
 
         ## Related content{.mt-5}
         - [Downloading digital signature vote files (Estonia only)](/help/voting/downloading-digital-signature-vote-files)
