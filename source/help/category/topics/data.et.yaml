@@ -231,7 +231,7 @@ changing-the-rights-of-topic-participants:
   title: Changing the rights of topic participants
   text: |
     A topic admin can change the level of rights that other participants have in that topic.
-    Rights can be set to either “admin”, “editor” or “participant”.
+    Rights can be set to either [“admin”, “editor” or “participant”](/help/topics/understanding-topic-user-rights).
 
     There are three ways to change a topic participant's rights.
 
