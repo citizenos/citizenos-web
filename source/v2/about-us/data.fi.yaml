@@ -1,10 +1,10 @@
 path: /tietoja-meista
 title: Tietoja meistä
-description: Citizen OS is a free and secure open source platform for citizen initiatives. We are a not-for-profit organisation.
+description: Citizen OS on ilmainen ja turvallinen avoimen lähdekoodin alusta kansalaisaloitteille. Olemme voittoa tavoittelematon järjestö.
 keywords:
-  - open source
-  - civic initiative
-  - civic movement
+  - avoin lähdekoodi
+  - kansalaisaloite
+  - kansalaisliike
 image: /v2/images/illustrations/homepage-hero.svg
 sections:
   header:
@@ -12,7 +12,7 @@ sections:
     color: blue
     title: Tietoja meistä
     text: |
-      Citizen OS is a free and secure open source platform for citizen initiatives. We are a not-for-profit organisation.
+      Citizen OS on ilmainen ja turvallinen avoimen lähdekoodin alusta kansalaisaloitteille. Olemme voittoa tavoittelematon järjestö.
   about:
     type: media
     mediaLeft: true
