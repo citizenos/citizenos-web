@@ -1,10 +1,10 @@
 path: /a-propos-de-nous
 title: À propos de nous
-description: Citizen OS is a free and secure open source platform for citizen initiatives. We are a not-for-profit organisation.
+description: Citizen OS est une plate-forme open source gratuite et sécurisée pour les initiatives citoyennes. Nous sommes une organisation à but non lucratif.
 keywords:
   - open source
-  - civic initiative
-  - civic movement
+  - initiative civique
+  - mouvement civique
 image: /v2/images/illustrations/homepage-hero.svg
 sections:
   header:
@@ -12,7 +12,7 @@ sections:
     color: blue
     title: À propos de nous
     text: |
-      Citizen OS is a free and secure open source platform for citizen initiatives. We are a not-for-profit organisation.
+      Citizen OS est une plate-forme open source gratuite et sécurisée pour les initiatives citoyennes. Nous sommes une organisation à but non lucratif.
   about:
     type: media
     mediaLeft: true
