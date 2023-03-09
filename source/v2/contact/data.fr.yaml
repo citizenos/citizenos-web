@@ -1,10 +1,10 @@
 path: /contact
 title: Contact
-description: Citizen OS is a not-for-profit organisation headquartered in Estonia, which has gained the trust of public and private user groups around the world.
+description: Citizen OS est une organisation sans but lucratif basée en Estonie, qui a gagné la confiance de groupes d'utilisateurs publics et privés partout dans le monde.
 keywords:
   - open source
-  - civic initiative
-  - civic movement
+  - initiative civique
+  - mouvement civique
 image: /v2/images/illustrations/discussions.svg
 sections:
   header:
@@ -12,7 +12,7 @@ sections:
     color: blue
     title: Contact
     text: |
-      Citizen OS is a not-for-profit organisation headquartered in Estonia, which has gained the trust of public and private user groups around the world.
+      Citizen OS est une organisation sans but lucratif basée en Estonie, qui a gagné la confiance de groupes d'utilisateurs publics et privés partout dans le monde.
   about:
     type: media
     mediaLeft: true

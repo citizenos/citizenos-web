@@ -10,7 +10,7 @@ sections:
   header:
     type: small-header
     color: blue
-    title: Contact
+    title: Yhteystiedot
     text: |
       Citizen OS on voittoa tavoittelematon järjestö, jonka päämaja sijaitsee Virossa. Se on ansainnut julkisten ja yksityisten käyttäjäryhmien luottamuksen ympäri maailmaa.
   about:

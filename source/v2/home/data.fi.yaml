@@ -6,18 +6,18 @@ sections:
   header:
     type: header
     color: blue
-    title: Let’s decide together!
+    title: Päätetään yhdessä!
     text: |
       Make smarter, more impactful decisions based on respectful discussions on our free, open-source participation platform.
     image: /v2/images/illustrations/homepage-hero.svg
     buttons:
       demo:
         color: black
-        title: Watch demo
+        title: Katso demo
         icon: play
         url: '#UC44qCCIixE'
       platform:
-        title: Use platform
+        title: Käytä alustaa
         icon: arrow-right
         url: https://app.citizenos.com
         target: _blank
@@ -25,18 +25,18 @@ sections:
     type: 3-columns
     title: What is Citizen OS?
     text: |
-      It is our mission to empower as many people as possible to participate in respectful, meaningful discussions in order to collaboratively decide in issues that affect their wellbeing
+      Sen missiona on "rohkaista niin useaa ihmistä kuin mahdollista osallistumaan toiset huomioon ottaviin ja merkityksellisiin keskusteluihin, niin että ihmiset voivat yhdessä päättää asioista, jotka vaikuttavat heidän hyvinvointiinsa
     columns:
       platform:
-        title: Platform
+        title: Alusta
         image: /v2/images/illustrations/platform.svg
         text: |
           To bring democracy closer to the people, we’ve developed an open source participation platform for citizens and communities.
 
           On it, you can engage people across different locations and timezones to discuss and decide on the topics that affect their lives and well-being.
         link:
-          title: Learn more
-          url: /product
+          title: Lue lisää
+          url: /fi/tuote
       hub:
         title: Knowledge Hub
         image: /v2/images/illustrations/hub.svg
@@ -45,7 +45,7 @@ sections:
 
           Learn how Citizen OS can help you to be more engaging and participatory.
         link:
-          title: Coming soon!
+          title: Tulossa pian!
           url:
       projects:
         title: Global projects

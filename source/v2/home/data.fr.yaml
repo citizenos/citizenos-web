@@ -6,18 +6,18 @@ sections:
   header:
     type: header
     color: blue
-    title: Let’s decide together!
+    title: Décidons ensemble !
     text: |
       Make smarter, more impactful decisions based on respectful discussions on our free, open-source participation platform.
     image: /v2/images/illustrations/homepage-hero.svg
     buttons:
       demo:
         color: black
-        title: Watch demo
+        title: Regarder la démo
         icon: play
         url: '#UC44qCCIixE'
       platform:
-        title: Use platform
+        title: Utiliser la plateforme
         icon: arrow-right
         url: https://app.citizenos.com
         target: _blank
@@ -25,10 +25,10 @@ sections:
     type: 3-columns
     title: What is Citizen OS?
     text: |
-      It is our mission to empower as many people as possible to participate in respectful, meaningful discussions in order to collaboratively decide in issues that affect their wellbeing
+      Sa mission est « d'autonomiser autant de personnes que possible pour participer avec respect à des discussions sérieuses afin de décider de manière collaborative des questions qui affectent leur bien-être. »
     columns:
       platform:
-        title: Platform
+        title: Plateforme
         image: /v2/images/illustrations/platform.svg
         text: |
           To bring democracy closer to the people, we’ve developed an open source participation platform for citizens and communities.
