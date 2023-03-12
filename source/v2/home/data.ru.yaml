@@ -8,90 +8,90 @@ sections:
     color: blue
     title: Принимаем решения вместе!
     text: |
-      Make smarter, more impactful decisions based on respectful discussions on our free, open-source participation platform.
+      Наша бесплатная платформа с открытым исходным кодом — это площадка для обсуждений, которая поможет вам прийти к самым удачным решениям.
     image: /v2/images/illustrations/homepage-hero.svg
     buttons:
       demo:
         color: black
-        title: Watch demo
+        title: Посмотреть демо-видео
         icon: play
         url: '#UC44qCCIixE'
       platform:
-        title: Use platform
+        title: Перейти на платформу
         icon: arrow-right
         url: https://app.citizenos.com
         target: _blank
   what-is:
     type: 3-columns
-    title: What is Citizen OS?
+    title: Что такое Citizen OS?
     text: |
-      It is our mission to empower as many people as possible to participate in respectful, meaningful discussions in order to collaboratively decide in issues that affect their wellbeing
+      Наша миссия состоит в том, чтобы как можно больше людей могли обсуждать значимые проблемы и участвовать в принятии решений, от которых зависит их благополучие
     columns:
       platform:
-        title: Platform
+        title: Платформа
         image: /v2/images/illustrations/platform.svg
         text: |
-          To bring democracy closer to the people, we’ve developed an open source participation platform for citizens and communities.
+          Чтобы сделать демократию доступнее, мы создали платформу с открытым кодом, которая служит пользователям и сообществам площадкой для дискуссий.
 
-          On it, you can engage people across different locations and timezones to discuss and decide on the topics that affect their lives and well-being.
+          Здесь люди из разных точек света и часовых поясов могут обсуждать вопросы, от которых зависит их жизнь и благополучие.
         link:
-          title: Learn more
+          title: Узнать больше
           url: /product
       hub:
-        title: Knowledge Hub
+        title: База знаний
         image: /v2/images/illustrations/hub.svg
         text: |
-          In our Knowledge Hub, you can learn about participatory e-democracy, why democracy is so important  in the age of technology, and how to make it work in your community or organisation.
+          В Базе знаний вы можете узнать больше о партисипативной электронной демократии, о важности демократии в эру технологий и о том, как применить принципы демократии в вашем сообществе или организации.
 
-          Learn how Citizen OS can help you to be more engaging and participatory.
+          Узнайте, как Citizen OS помогает повысить вовлеченность и участие.
         link:
-          title: Coming soon!
+          title: Скоро будет доступно!
           url:
       projects:
-        title: Global projects
+        title: Глобальные проекты
         image: /v2/images/illustrations/projects.svg
         text: |
-          Together with our awesome partners, we lead globally renowned participatory e-democracy projects, which prove the value of respectful discussions and collaborative decision-making. Our projects are mostly aimed at community leaders and civic activists.
+          Вместе с нашими потрясающими партнерами мы занимаемся всемирно признанными проектами, связанными с партисипативной электронной демократией, которые подтверждают значимость вежливых дискуссий и совместного принятия решений. Наши проекты в основном нацелены на общественных лидеров и гражданских активистов.
         link:
-          title: Check out what we're up to!
+          title: Подробнее о наших планах!
           url: /projects
   connecting:
     type: media
     color: blue
-    title: Connecting people and communities
+    title: Соединяем людей и сообщества
     text: |
-      Technology enables us to bring together the voices of a large number of people, regardless of their geographical location or time zone.
+      Технологии позволяют нам объединить голоса большого количества людей вне зависимости от их географического расположения и часового пояса.
 
-      **For better quality decisions**
+      **Для принятия более успешных решений**
 
-      The more people who participate in the decision-making process, the higher the quality of decisions. On the Citizen OS platform you can ask everyone's opinion on the topics that affect their own lives and well-being.
+      Качество решения растет вместе с количеством людей, которые участвуют в его обсуждении. На платформе Citizen OS вы можете узнать мнение каждого человека, чьи жизнь и благополучие зависят от обсуждаемого вопроса.
     video: hDLWbQQAk8g
   features:
     type: accordion
-    title: Main features
+    title: Основные функции
     cards:
       crowdsourcing:
-        title: Crowdsourcing ideas
+        title: Сбор идей
         color: yellow
         icon: ideation
         image: /v2/images/illustrations/ideation.svg
         text: |
-          Gather a large number of ideas for creative solutions. Experience the collective wisdom and intelligence from putting many heads together.
+          Собирайте множество мнений и приходите к самым креативным и осведомленным решениям. Размышляйте над проблемами вместе с другими и пользуйтесь коллективной мудростью.
       #link:
       #title: Learn more
       #url: ./#
       discussions:
-        title: Discussions
+        title: Дискуссии
         color: blue
         icon: discussions
         image: /v2/images/illustrations/discussions.svg
         text: |
-          Start respectful and meaningful discussions and engage people with different opinions. Let the arguments speak for themselves!
+          Начинайте важные обсуждения, в которых участники с уважением относятся друг к другу, и вовлекайте в беседу людей с разными мнениями. Пусть аргументы говорят сами за себя!
       #link:
       #title: Learn more
       #url: ./#
       voting:
-        title: Voting
+        title: Голосования
         color: green
         icon: voting
         image: /v2/images/illustrations/voting.svg
