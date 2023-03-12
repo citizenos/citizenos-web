@@ -96,24 +96,24 @@ sections:
         icon: voting
         image: /v2/images/illustrations/voting.svg
         text: |
-          Make collaborative and democratic decisions together with the people whose lives and well-being are directly affected by them.
+          Принимайте совместные демократичные решения вместе с людьми, чьи жизнь и благополучие напрямую зависят от обсуждаемого вопроса.
       #link:
       #title: Learn more
       #url: ./#
       followup:
-        title: Follow up
+        title: Подписки
         color: purple
         icon: followup
         image: /v2/images/illustrations/followup.svg
         text: |
-          Keep people updated with the further discussions and actions taken.
+          Дайте заинтересованным пользователям возможность отслеживать дискуссии и предпринятые действия.
   #link:
   #title: Learn more
   #url: ./#
   who-uses:
     type: 2-columns
     color: yellow
-    title: Who uses our platform?
+    title: Кто пользуется нашей платформой?
     text: |
       Our platform is designed for citizens and communities who value a diversity of opinions. It’s especially loved by civil society leaders who believe that everyone has the right to make their voice heard. While the below are our most common types of user, the platform is used by all kinds of groups. Schools, local governments, book clubs, friendship groups, families – you name it!
     columns:
