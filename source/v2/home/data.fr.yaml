@@ -146,15 +146,15 @@ sections:
         textMore: |
           Les membres sont également impliqués dans les décisions quotidiennes de ces organisations, chaque membre pouvant participer indépendamment de sa localisation ou de son emploi du temps.
         link:
-          title: Read more
+          title: En savoir plus
           url: './#'
       four:
-        title: Political parties
+        title: Partis politiques
         image: /v2/images/illustrations/politics.svg
         text: |
-          Party members participate in internal discussions on the Citizen OS platform, to decide on their party's political stance. This means party representatives can be confident they’re communicating the party's collective position, not just their personal opinion.
+          Les membres de partis participent à des discussions internes sur la plateforme Citizen OS, afin de décider de la position politique de leur parti. Cela signifie que les représentants des partis peuvent être sûrs qu'ils communiquent la position collective du parti, et pas seulement leur opinion personnelle.
         link:
-          title: Read more
+          title: En savoir plus
           url: './#'
   #templates:
   #type: 4-columns
@@ -195,7 +195,7 @@ sections:
   #Esse commodo velit labore eiusmod tempor cupidatat do officia aliqua. Velit tempor enim duis dolor exercitation mollit occaecat nostrud. Voluptate consectetur reprehenderit id sunt anim. Aliqua officia esse ullamco anim incididunt esse enim qui.
   stats:
     type: stats
-    title: Our impact keeps on growing
+    title: Notre impact ne cesse de croître
     columns:
       one:
         title: Discussions
@@ -204,26 +204,26 @@ sections:
         title: Votes
         field: votesCast
       three:
-        title: Groups
+        title: Groupes
         field: groupsCreated
       four:
-        title: Users
+        title: Utilisateurs
         field: usersCreated
   banner:
     type: banner
     color: blue
-    title: Want to try it out?
+    title: Vous voulez l'essayer ?
     text: |
-      It’s free for everybody and for always!
+      C'est gratuit pour tout le monde et pour toujours !
     image: /v2/images/illustrations/cta.svg
     buttons:
       demo:
         color: black
-        title: Watch demo
+        title: Regarder la démo
         icon: play
         url: '#UC44qCCIixE'
       platform:
-        title: Use platform
+        title: Utiliser la plateforme
         icon: arrow-right
         url: https://app.citizenos.com
         target: _blank
