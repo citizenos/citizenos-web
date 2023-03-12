@@ -28,7 +28,7 @@ team:
     email: info@citizenos.com
   - 
     name: Agustina Iskandar Crombach
-    title: Head of Citizen OS Indonesia
+    title: Chef de Citizen OS Indonésie
     text: Faiseuse de miracles, protectrice des libertés et collaboratrice en série.
     avatar: /assets/images/team/agustina-avatar.jpg
     picture: /assets/images/team/agustina.jpg
@@ -61,8 +61,8 @@ team:
     email: kati@citizenos.com
   - 
     name: Meelika Hirmo
-    title: Communications Lead
-    text: Shaping strategic communication and giving more momentum to the mission and initiatives of Citizen OS
+    title: Responsable de la communication
+    text: Élaborer une communication stratégique et donner plus d'élan à la mission et aux initiatives de Citizen OS
     avatar: /assets/images/team/meelika-avatar.jpg
     picture: /assets/images/team/meelika.jpeg
     linkedin: https://www.linkedin.com/in/meelika-hirmo
@@ -77,7 +77,7 @@ team:
     email: becca.melhuish@gmail.com
   - 
     name: Tasia Rosalina Tedjo Purnomo
-    title: Marketing Manager for Citizen OS Indonesia
+    title: Responsable marketing pour Citizen OS Indonésie
     text: Système d'assistance alimenté par la curiosité et les valeurs.
     avatar: /assets/images/team/tasia-avatar.jpg
     picture: /assets/images/team/tasia.jpg
@@ -108,6 +108,6 @@ other:
 
     Plateforme et web design par DUX.ee, designs imprimés par Merike Tamm.
   minds: |
-    **Contributors**
+    **Contributeurs**
 
-    Henri Laupmaa, Liia Hänni, Hille Hinsberg, Eva Truuverk, Kadi Maria Vooglaid, Lennart Rikk. Product initially built by Mikk Andresen. Web built by Argo Roots using Entu SSG.
+    Henri Laupmaa, Liia Hänni, Hille Hinsberg, Eva Truuverk, Kadi Maria Vooglaid, Lennart Rikk. Produit initialement conçu par Mikk Andresen. Site Web réalisé par Argo Roots à l'aide d'Entu SSG.
