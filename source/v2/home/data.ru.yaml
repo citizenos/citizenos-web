@@ -6,7 +6,7 @@ sections:
   header:
     type: header
     color: blue
-    title: Let’s decide together!
+    title: Принимаем решения вместе!
     text: |
       Make smarter, more impactful decisions based on respectful discussions on our free, open-source participation platform.
     image: /v2/images/illustrations/homepage-hero.svg
