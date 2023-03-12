@@ -33,12 +33,12 @@ blocks:
     title: |
       Collaboration pour le changement.
     text: |
-      We join forces with organisations worldwide to work on innovative e-democracy and participation projects.
+      Nous nous associons à des organisations du monde entier pour travailler sur des projets innovants en matière de démocratie électronique et de participation.
 
-      - [Democracy Defenders Accelerator](#individual2)
-      - [Winter and Summer Schools](#individual)
-      - [Participatory Youth Leadership Network](#awareness2)
-      - [Erasmus+ Youth Exchange](#individual3)
+      - [Accélérateur des défenseurs de la démocratie](#individual2)
+      - [Écoles d'hiver et d'été](#individual)
+      - [Réseau de leadership participatif des jeunes](#awareness2)
+      - [Échange de jeunes Erasmus+](#individual3)
       - [EuroChangemakers](#awareness)
       {.arrow }
   individual2-img:
@@ -49,14 +49,14 @@ blocks:
       background-position: 10% 10%, 90% 10%
       background-size: 45px 45px, 350px 350px
     text: |
-      ![An image of a lit light bulb with four smaller red bubbles surrounding it in a circle with arrows pointing from one to the next bubble.](/assets/images/dda-project-page-image.png){ .img-fluid }
+      ![Image d'une ampoule allumée entourée de quatre petites bulles rouges en cercle avec des flèches pointant d'une bulle à l'autre](/assets/images/dda-project-page-image.png){ .img-fluid }
   individual2:
     class:
       - order-2
     title: |
-      Democracy Defenders Accelerator
+      Accélérateur pour les défenseurs de la démocratie
     text: |
-      Our flagship 10-month civic leadership programme for young activists. In this hybrid, hands-on programme, participants learn to design and deliver civic engagement projects and practise participatory leadership skills.
+      Notre programme phare de leadership civique de 10 mois pour les jeunes activistes. Dans ce programme hybride et pratique, les participants apprennent à concevoir et à mettre en œuvre des projets d'engagement civique et à mettre en pratique des compétences de leadership participatif.
     button1st:
       title: En savoir plus
       url: /dda/
@@ -68,12 +68,12 @@ blocks:
       background-position: 10% 10%, 90% 10%
       background-size: 45px 45px, 350px 350px
     text: |
-      ![An active citizen who believes that her participation in political issues has an impact.](/assets/images/vision-individual.png){ .img-fluid }
+      ![Une citoyenne active qui pense que sa participation aux questions politiques a un impact.](/assets/images/vision-individual.png){ .img-fluid }
   individual:
     class:
       - order-3
     title: |
-      Winter and Summer Schools
+      Écoles d'hiver et d'été
     text: |
       Le cours d'innovation numérique pour les projets d'engagement civique est organisé dans le cadre d'un partenariat entre nous et l'Université de Tallinn, dans le cadre de leurs programmes d'école d'été et d'hiver. Le cours de 10 jours enseigne aux membres des communautés et des initiatives civiques comment impliquer plus de personnes dans les processus de discussion et de prise de décisions, en utilisant des outils technologiques.
     button1st:
@@ -88,7 +88,7 @@ blocks:
       background-position: 10% 10%, 90% 10%
       background-size: 45px 45px, 350px 350px
     text: |
-      ![A woman's upper body on the left, the woman staring at a sceen with different people in many windows.](/assets/images/projects-pyln.jpg){ .img-fluid }
+      ![Le haut du corps d'une femme à gauche, la femme regardant un écran avec différentes personnes dans plusieurs fenêtres](/assets/images/projects-pyln.jpg){ .img-fluid }
   awareness2:
     class:
       - order-6
@@ -99,7 +99,7 @@ blocks:
     #background-position: 10% 10%
     #label: Raising awareness
     title: |
-      Participatory Youth Leadership Network
+      Réseau de leadership participatif des jeunes
     text: |
       Le chapitre indien de Citizen OS, PYLN, collabore avec des organisations indiennes et des hacktivistes qui partagent notre vision de la promotion du leadership participatif.
 
@@ -116,16 +116,16 @@ blocks:
       background-position: 10% 10%, 90% 10%
       background-size: 45px 45px, 350px 350px
     text: |
-      ![An active citizen who believes that her participation in political issues has an impact.](/assets/images/projects/Youth-exchange-projects-page-pic.png){ .img-fluid }
+      une citoyenne active qui pense que sa participation aux questions politiques a un impact](/assets/images/projects/Youth-exchange-projects-page-pic.png){ .img-fluid }
   individual3:
     class:
       - order-7
     title: |
-      Erasmus+ Youth Exchange
+      Échange de jeunes Erasmus
     text: |
-      In our ʻDigital Transformation for Civic Engagementʼ youth exchange programme, Europe’s next generation of leaders learn civic engagement project design and participatory leadership, through hands-on ʻlearning by doingʼ methods.
+      Dans le cadre de notre programme d'échange de jeunes « Digital Transformation for Civic Engagement », la prochaine génération de dirigeants européens apprend à concevoir des projets d'engagement civique et à exercer un leadership participatif, grâce à des méthodes pratiques d'« apprentissage par la pratique ».
     button1st:
-      title: Learn more
+      title: En savoir plus
       url: https://participationpool.eu/project/leading-by-doing-digital-transformation-for-civic-engagement/
       target: _blank
   awareness:
