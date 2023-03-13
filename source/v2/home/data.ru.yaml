@@ -121,40 +121,40 @@ sections:
         title: Гражданские движения
         image: /v2/images/illustrations/civic-movements.svg
         text: |
-          These changemakers use the Citizen OS platform to initiate public discussions and collect ideas on the topics that they stand for, be it the protection of flying squirrels, women rights or the ethics of AI. They send the result of the discussions to the local government or other decision-makers to amend the law or change regulations. They often also use the platform internally, to engage their members in decisions relating to their organisation.
+          Выступая за перемены, гражданские движения используют Citizen OS для запуска обсуждений в обществе и сбора идей по важным для них темам: дискуссии могут посвящаться защите белок-летяг, правам женщин, этичности использования ИИ или любой другой проблеме. Гражданские движения отправляют результаты обсуждений местному правительству или другим лицам, принимающим важные решения, с целью добиться изменения законодательства или существующих практик. Также гражданские движения часто используют платформу для решения внутренних вопросов и вовлечения участников организации в принятие решений.
         #textMore: |
         #Ut mollit officia adipisicing eu deserunt officia sunt occaecat ea sint adipisicing. Et consectetur velit occaecat ut cupidatat enim exercitation esse excepteur voluptate ea sunt culpa. Culpa deserunt officia irure eu do amet anim eiusmod consectetur ullamco.
         #Quis nisi officia elit veniam esse do laborum ad tempor pariatur et. Proident velit eiusmod voluptate excepteur. Ullamco eu non veniam quis deserunt duis.
         link:
-          title: Read more
+          title: Читать дальше
           url: './#'
       two:
-        title: Active citizens
+        title: Активные граждане
         image: /v2/images/illustrations/active-citizens.svg
         text: |
-          Active citizens are the ones who raise difficult questions about the problems facing their communities, and invite their community members into the discussion on the Citizen OS platform. Whether it’s the local government´s proposed construction project or changes to the local bus schedule, active citizens take action to discuss and communicate their opinions to the decision-makers.
+          Люди с активной гражданской позицией поднимают сложные вопросы, касающиеся их сообщества, и приглашают членов сообщества участвовать в обсуждениях на платформе Citizen OS. Будь то проект строительства, предложенный местным правительством, или изменения в расписании автобусов — активные граждане обсуждают проблему и высказывают свое мнение тем, кто принимает решение.
         textMore: |
-          Smaller communities, such as neighbours in the same building, often discuss in private groups what to build on their empty yard, or decide on what kind of administrative service provider to contract.
+          Небольшие сообщества, например жильцы дома, обсуждают в частных группах, как застроить пустой двор или какого поставщика услуг выбрать.
         link:
-          title: Read more
+          title: Читать дальше
           url: './#'
       three:
-        title: Professional Unions and Associations
+        title: Профессиональные союзы и ассоциации
         image: /v2/images/illustrations/professionals.svg
         text: |
-          These guys are so busy that it's almost impossible to get them in the same room at the same time! That’s why they use our platform for asynchronous meetings and general meetings. They hold discussions and votes: setting the directions of their advocacy groups, electing board members and approving the annual report.
+          Это очень занятые люди, и их практически невозможно собрать в одной комнате! Они используют нашу платформу для обычных и асинхронных собраний, а также проводят обсуждения и голосования: решают, в каком направлении должна двигаться их группа интересов, выбирают ответственных участников и подтверждают ежегодные отчеты.
         textMore: |
-          Members are also engaged in the everyday decisions of these organisations, with every member able to participate regardless of their location or schedule.
+          Участники также принимают решения, касающиеся повседневной жизни их организации, и вне зависимости от местоположения и часового пояса принять участие в обсуждении может каждый желающий.
         link:
-          title: Read more
+          title: Читать дальше
           url: './#'
       four:
-        title: Political parties
+        title: Политические партии
         image: /v2/images/illustrations/politics.svg
         text: |
-          Party members participate in internal discussions on the Citizen OS platform, to decide on their party's political stance. This means party representatives can be confident they’re communicating the party's collective position, not just their personal opinion.
+          Члены партий используют Citizen OS для внутренних дискуссий и обсуждают политические взгляды партии. Таким образом, представители партии могут быть уверены, что они оглашают общую позицию партии, а не свое личное мнение.
         link:
-          title: Read more
+          title: Читать дальше
           url: './#'
   #templates:
   #type: 4-columns
@@ -195,35 +195,35 @@ sections:
   #Esse commodo velit labore eiusmod tempor cupidatat do officia aliqua. Velit tempor enim duis dolor exercitation mollit occaecat nostrud. Voluptate consectetur reprehenderit id sunt anim. Aliqua officia esse ullamco anim incididunt esse enim qui.
   stats:
     type: stats
-    title: Our impact keeps on growing
+    title: Наше влияние растет
     columns:
       one:
-        title: Discussions
+        title: Обсуждения
         field: topicsCreated
       two:
-        title: Votes
+        title: Голоса
         field: votesCast
       three:
-        title: Groups
+        title: Группы
         field: groupsCreated
       four:
-        title: Users
+        title: Пользователи
         field: usersCreated
   banner:
     type: banner
     color: blue
-    title: Want to try it out?
+    title: Хотите попробовать?
     text: |
-      It’s free for everybody and for always!
+      Платформа бесплатна для всех и всегда!
     image: /v2/images/illustrations/cta.svg
     buttons:
       demo:
         color: black
-        title: Watch demo
+        title: Посмотреть демо-видео
         icon: play
         url: '#UC44qCCIixE'
       platform:
-        title: Use platform
+        title: Перейти на платформу
         icon: arrow-right
         url: https://app.citizenos.com
         target: _blank
