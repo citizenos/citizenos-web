@@ -115,10 +115,10 @@ sections:
     color: yellow
     title: Кто пользуется нашей платформой?
     text: |
-      Our platform is designed for citizens and communities who value a diversity of opinions. It’s especially loved by civil society leaders who believe that everyone has the right to make their voice heard. While the below are our most common types of user, the platform is used by all kinds of groups. Schools, local governments, book clubs, friendship groups, families – you name it!
+      Наша платформа разработана для людей и сообществ, которые ценят разнообразие мнений. Она особенно нравится лидерам гражданского общества, которые считают, что у каждого должно быть право высказаться. Ниже перечислены самые распространенные типы пользователей. В то же время наша платформа подходит для самых разных групп: школы, местное самоуправление, книжные клубы, сообщества друзей, семьи — воспользоваться площадкой может кто угодно!
     columns:
       one:
-        title: Civic movements
+        title: Гражданские движения
         image: /v2/images/illustrations/civic-movements.svg
         text: |
           These changemakers use the Citizen OS platform to initiate public discussions and collect ideas on the topics that they stand for, be it the protection of flying squirrels, women rights or the ethics of AI. They send the result of the discussions to the local government or other decision-makers to amend the law or change regulations. They often also use the platform internally, to engage their members in decisions relating to their organisation.
