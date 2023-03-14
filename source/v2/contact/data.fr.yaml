@@ -18,12 +18,12 @@ sections:
     mediaLeft: true
     image: /v2/images/illustrations/discussions.svg
     text: |
-      ### Our information
+      ### Nos coordonnées
 
-      |  |  |
+      | | |
       | --- | --- |
       | **Contact** | <info@citizenos.com> |
-      | **Organisation** | Foundation Citizen OS |
-      | **Address** | Telliskivi Creative City, Telliskivi 60a/3, Tallinn 10412, Estonia, EU |
-      | **Registry code** | 90014709 |
-      | **VAT info** | Foundation Citizen OS is not subject to VAT |
+      |**Organisation** | Fondation CitizenOS
+      |**Adresse** | Telliskivi Creative City, Telliskivi 60a/3, Tallinn 10412, Estonia, EU |
+      | Code d'enregistrement : 90014709
+      | La Fondation Citizen OS n'est pas soumise à la TVA |
