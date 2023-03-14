@@ -13,7 +13,7 @@ sections:
     buttons:
       demo:
         color: black
-        title: Посмотреть демо-видео
+        title: Посмотреть демо
         icon: play
         url: '#UC44qCCIixE'
       platform:
