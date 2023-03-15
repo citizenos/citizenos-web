@@ -35,8 +35,8 @@ sections:
 
           Grâce à elle, vous pouvez inciter les gens à discuter et à prendre des décisions sur des sujets qui affectent leur vie et leur bien-être, quel que soit leur lieu de résidence ou leur fuseau horaire.
         link:
-          title: Learn more
-          url: /product
+          title: En savoir plus
+          url: /fr/produit
       hub:
         title: Centre de connaissances
         image: /v2/images/illustrations/hub.svg
@@ -54,7 +54,7 @@ sections:
           Avec nos formidables partenaires, nous menons des projets de démocratie électronique participative de renommée mondiale, qui prouvent la valeur des discussions respectueuses et de la prise de décision en collaboration. Nos projets s'adressent principalement aux leaders communautaires et aux activistes civiques.
         link:
           title: Découvrez ce que nous faisons !
-          url: /projects
+          url: /fr/projets
   connecting:
     type: media
     color: blue
