@@ -1,0 +1,58 @@
+path: /careers/webflow-developer-position
+
+title: Webflow Developer With A Passion for Civic Tech Needed!
+description: Citizen OS develops e-democracy software and a global community. Join our international team!
+keywords:
+    - social enterprise
+    - not-for-profit organisation
+    - civic technology
+image: /v2/images/illustrations/civic-movements.svg
+
+sections:
+    header:
+        type: small-header
+        color: blue
+        title: Webflow developer position
+        text: |
+            Citizen OS develops e-democracy software and a global community. Join our international team!
+
+    about:
+        type: media
+        mediaLeft: true
+        image: /v2/images/illustrations/civic-movements.svg
+        text: |
+            ### Webflow Developer with a passion for Civic Tech needed!
+
+            *Are you a web developer who is interested in boosting civic tech and digital participation across the world? We are currently looking for a talented and reliable Webflow Development partner. If you fit the bill, get in touch! Or if you know someone suitable, please pass this on!*
+
+            ### What’s entailed?
+
+            - Setting up Webflow CMS.
+            - Migrating existing website data to Webflow.
+            - Integrating external services (Crowdin, Plausible, etc), being responsible for any future integrations.
+            - Creating a library of predesigned (by a designer) and easily adaptable chunks for easy page construction.
+            - Ensuring the technical feasibility of UI/UX designs.
+            - Debugging and troubleshooting technical issues.
+            - Providing hands-on support with web development and maintenance as needed.
+            - Optimising applications for maximum performance, scalability, SEO and responsiveness.
+            - Conducting desktop and mobile testing of completed work to assess user experience.
+
+            ### The talent we need has…
+
+            - proven experience with Webflow CMS;
+            - strong knowledge of HTML5, CSS3, Javascript
+            - ability to follow brand guidelines;
+            - experience with Figma;
+            - knowledge of responsive UI design and how it works with accessibility in mind;
+            - a good understanding of CMS collections and items in WebFlow;
+            - excellent communication and time management skills;
+            - good command of the English language to be able to work with an international team.
+
+            *NB! This is not a permanent job opportunity, as we are looking for a service-based partner to work with us. However, we are looking for a long-term partnership.*
+
+            ### More information:
+
+            Oksana Naidjonova
+            [oksana@citizenos.com](mailto:oksana@citizenos.com) / [www.citizenos.com](www.citizenos.com)
+            tel: +372 569 00 995
+
