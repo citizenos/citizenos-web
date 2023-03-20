@@ -1,31 +1,31 @@
 path: /careers/webflow-developer-position
 
-title: Webflow Developer With A Passion for Civic Tech Needed!
+title: Webflow Developer with a passion for Civic Tech needed!
 description: Citizen OS develops e-democracy software and a global community. Join our international team!
 keywords:
     - social enterprise
     - not-for-profit organisation
     - civic technology
-image: /v2/images/illustrations/civic-movements.svg
+image: /v2/images/illustrations/webdev.svg
 
 sections:
     header:
         type: small-header
         color: blue
-        title: Webflow developer position
+        title: Webflow Developer with a passion for Civic Tech needed!
         text: |
             Citizen OS develops e-democracy software and a global community. Join our international team!
 
     about:
         type: media
         mediaLeft: true
-        image: /v2/images/illustrations/civic-movements.svg
+        image: /v2/images/illustrations/webdev.svg
         text: |
             ### Webflow Developer with a passion for Civic Tech needed!
 
             *Are you a web developer who is interested in boosting civic tech and digital participation across the world? We are currently looking for a talented and reliable Webflow Development partner. If you fit the bill, get in touch! Or if you know someone suitable, please pass this on!*
 
-            ### What’s entailed?
+            ### What's entailed?
 
             - Setting up Webflow CMS.
             - Migrating existing website data to Webflow.
