@@ -1,0 +1,81 @@
+path: /get-involved/volunteer-translator
+
+title: Volunteer Translator
+description: Developer, translator, scientist, designer, hacktivist and journalist - please get in touch! Citizen OS welcomes volunteers who are interested in e-democracy.
+keywords:
+    - civic hacktivist
+    - volunteer translator
+    - e-participation
+    - government technology
+image: /v2/images/illustrations/projects.svg
+
+sections:
+    header:
+        type: small-header
+        color: blue
+        title: Help us translate
+        text: |
+            By volunteering your time and language skills, you can help make democracy more accessible to people around the world, creating positive change and building a better future for all.
+
+    about:
+        type: media
+        mediaLeft: true
+        image: /v2/images/illustrations/projects.svg
+        text: |
+            ### Help us translate
+
+            Hello and thank you for taking interest in our platform! 🙂
+            Most of our app's languages have been contributed by volunteers and carried out on the Crowdin localization platform.
+            If you'd like to see our app in your language and are willing to help translating it, we'd be thrilled to have you onboard!
+
+            It's fairly easy to translate on Crowdin, but please keep in mind that **we are only able keep a language live if it's at least 80% translated** - as we develop/update the app daily, translations also need to be updated regularly.
+
+            ### Translation process
+
+            - Developer creates a string in Github repository and adds translatable text
+            - String with English text is instantly sent to Crowdin
+            - Localization manager reviews English text in Crowdin for translatability and any new terms
+            - Localization manager adds context to the string where necessary (screenshots, explanation, references)
+            - Localization manager adds any newly found terms with descriptions to termbase, so they become translatables in Glossary
+            - Translations are added to the string in Crowdin by volunteers or professionals
+            - Crowdin automatically sends translation back to Github
+            - Localization manager reviews translations and adds them to language files
+            - When translations are 100% complete, localization manager asks developer to launch the new language
+
+            ### Requirements for volunteer translators:
+
+            - Being fluent in spoken and written language you intend to translate to
+            - Being dedicated to see the translation process through to the end, as well as continuously maintaining translated files
+            - Having an account in Crowdin - it's free and easy. For an introduction to using Crowdin, check out https://support.crowdin.com/crowdin-intro/
+
+            ### Translation workload:
+
+            - **Initial translation of the UI:** approximately a week to translate the app to your language, around 30 hours from start to finish - of course it depends on your speed of translation but on average, let's say around 7 evenings, ~4 hours each. Of course, a group of volunteers would complete this so much quicker than one single person, so grab a friend if possible! :) Platform allows for simultaneous translation whenever and wherever.
+            - **Maintenance:** approximately 30 minutes on a weekly basis (sometimes more, sometimes less) to update translations
+
+            ### Translation process:
+
+            If your language doesn't exist on our platform yet, please send us a note to let us know you intend to start translating, so that we could open your language for translation on Crowdin for you. A brief description of who you are and what drew you to our platform would be most appreciated!
+            We love to get to know our volunteers <3
+
+            **Sign up for a Crowdin account and join these projects:**
+
+            Sign up [here](https://accounts.crowdin.com/register).
+
+            - [Frontend project](https://crowdin.com/project/citizenos-fe) - the main UI of the platform
+            - [API](https://crowdin.com/project/citizen-os-api) - platform's transactional emails (which are sent, for example, when a user registers an account, or is invited to participate in a discussion on the platform)
+            - [Etherpad](https://crowdin.com/project/citizen-os-etherpad) -  the small external widget within the platform, which allows to format the text when creating content on the platform
+
+            Please start translating from the file called “Glossary”, which you'll find in the project FE. It's the most important file, containing all the terms you will be meeting on and on in all translatable files during the translation process, and it's of utmost importance, that the terms are translated consistently - this will ensure you have a strong base for the rest of translations and will make your work process a lot easier 🙂
+            Refer to the 3 projects above - they form the complete app, so they have be all 100% translated in order for Citizen OS to push the language live on the app 🙂
+
+            ### Things to note:
+
+            Strings that look like this: “@:TXT_TOPIC_LEVELS_ADMIN” are reference strings and are non-translatable. You're free to leave them empty.
+
+            You're absolutely welcome to ask for help/more information, or report an issue with a string by leaving a comment in a string's translation view.
+
+            Please tag our Head of Localization - Oksana Naidjonova - when submitting any comments during translation - just start your comment with @unicode and she will get an email notification about it. This will ensure most timely response:)
+
+            Also, we'd like to extend big thanks to Crowdin for allowing free access to their platform for open-source software like ours, and, of course, thanks to everyone who's contributed translations on Crowdin over the years - we are eternally grateful for their time and expertise (and patience with our often-imperfect source strings)!
+
