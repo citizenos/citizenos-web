@@ -1,7 +1,7 @@
 path: /get-involved
 
 title: Get involved
-description: By volunteering your time and language skills, you can help make democracy more accessible to people around the world, creating positive change and building a better future for all.
+description: Developer, translator, scientist, designer, hacktivist and journalist - please get in touch! Citizen OS welcomes volunteers who are interested in e-democracy.
 keywords:
     - civic hacktivist
     - e-participation
@@ -27,7 +27,7 @@ sections:
 
             If Citizen OS platform doesn’t yet support your language and you'd like to join our volunteer translators' team, [please get in touch](mailto:translations@citizenos.com).
 
-            Translating the Citizen OS platform into a new language is easy; many volunteers work with us every day. [Check it out](https://crowdin.com/project/citizenos-fe)!
+            Translating the Citizen OS platform into a new language is easy; many volunteers work with us every day. [Check out the details.](/get-involved/volunteer-translator)!
 
             ### Help develop Open Source software.
 
