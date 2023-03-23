@@ -21,6 +21,20 @@ sections:
         icon: arrow-right
         url: https://app.citizenos.com
         target: _blank
+  banner2:
+    type: banner
+    color: yellow
+    title: Help us improve!
+    text: |
+      We're revamping out website and would love to get your feedback and ideas.
+    image: /v2/images/illustrations/hub.svg
+    buttons:
+      demo:
+        color: black
+        title: Fill our survey
+        icon: play
+        url: https://forms.gle/AafyzGHUdAqHZTW26
+        target: _blank
   what-is:
     type: 3-columns
     title: Qu'est-ce que Citizen OS ?
