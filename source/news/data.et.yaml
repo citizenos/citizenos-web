@@ -8,6 +8,15 @@ keywords:
   -
 image: /assets/images/news/tarkvalija_fb_cover.png
 news:
+  ###    2023-03-28:
+  ###        url: /news/activists-from-12-countries-meet-in-rural-estonia-to-learn-about-digital-participation
+  ###        title: Activists from 12 Countries Meet in Rural Estonia to Learn About Digital Participation
+  ###        author: Meelika Hirmo
+  ###        image: /assets/images/news/OOO.png
+  ###        categories:
+  ###            - Citizen OS news
+  ###        text: |
+  ###            Today, an international 10-day Bootcamp started — bringing together civil society leaders from 12 countries. During the Bootcamp, participants will learn about Estonia's e-democracy and civil society development, as well as exchange ideas and practices in order to support the development of their local democracies.
   2023-03-06:
     url: /et/uudised/tantsimisest-revolutsioonist-rubla-matustest-ja-raamatutest--tutvustame-meie-uut-kommunikatsioonijuhti
     title: Tantsimisest, revolutsioonist, rubla matustest ja raamatutest – tutvustame meie uut kommunikatsioonijuhti
@@ -370,7 +379,7 @@ blocks:
     class:
       - order-1
     style:
-      background-color: '#CBF9B3'
+      background-color: '#F3FAF4'
       background-image: url(/assets/images/bubble-dots.png), url(/assets/images/bubble-turquoise.svg), url(/assets/images/bubble-blue.svg), url(/assets/images/bubble-blue.svg)
       background-position: 0 10%, 0% 90%, 20% 10%, 80% 80%
       background-size: 350px 350px, 102px 102px, 65px 65px, 135px 135px
@@ -381,7 +390,7 @@ blocks:
       - order-0
       - py-5
     style:
-      background-color: '#CBF9B3'
+      background-color: '#F3FAF4'
       background-image:
       background-position:
       background-size:
