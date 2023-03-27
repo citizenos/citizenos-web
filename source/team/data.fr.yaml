@@ -84,9 +84,30 @@ team:
     linkedin: https://www.linkedin.com/in/tasia-rosalina
     email: tasia@citizenos.com
   - 
+    name: Leony Chrisanti
+    title: Visual Designer for Citizen OS Indonesia
+    avatar: /assets/images/team/leony-avatar.jpg
+    picture: /assets/images/team/leony.jpg
+    linkedin: https://www.linkedin.com/in/leonychrisanti/
+    email: leonychrisanti.work@gmail.com
+  - 
+    name: Ivana Rahmania Widyaningrum
+    title: Program Manager for Citizen OS Indonesia
+    avatar: /assets/images/team/ivana1.png
+    picture: /assets/images/team/ivana2.png
+    linkedin: https://www.linkedin.com/in/iku-vana/
+    email: ikuu713@gmail.com
+  - 
+    name: Leo Zulfikar
+    title: Finance for Citizen OS Indonesia
+    avatar: /assets/images/team/leo-avatar.png
+    picture: /assets/images/team/leo.png
+    linkedin: https://www.linkedin.com/in/yoszulfikar/
+    email: yoszulfikar@gmail.com
+  - 
     name: Oksana Naidjonova
-    title: Localisation et gestion de site Web
-    text: Se bat pour la justice et nous pousse à nous améliorer chaque jour.
+    title: Localisation & Website Management
+    text: Fights for justice and leads us to become better every day.
     avatar: /assets/images/team/oksana-avatar.jpg
     picture: /assets/images/team/oksana.jpg
     linkedin: https://www.linkedin.com/in/oksananaidjonova/
