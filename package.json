@@ -8,7 +8,7 @@
     "dev": "entu-ssg serve entu-ssg.yaml full & tailwindcss -i ./source/v2/_css/tailwind.css -o ./dist/style-v2.css --watch"
   },
   "dependencies": {
-    "xml2js": "0.4.23"
+    "xml2js": "0.5.0"
   },
   "devDependencies": {
     "entu-ssg": "5.6.5",
