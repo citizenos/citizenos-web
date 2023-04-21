@@ -9,14 +9,14 @@ keywords:
 image: /assets/images/news/tarkvalija_fb_cover.png
 news:
   2023-04-21:
-    url: /news/ready-for-the-fifth-industrial-revolution-our-new-developer-sure-is
-    title: Ready for the Fifth Industrial Revolution? Our New Developer Sure Is!
+    url: et/uudised/kas-oled-viiendaks-toostusrevolutsiooniks-valmis-meie-uus-arendaja-on
+    title: Kas oled viiendaks tööstusrevolutsiooniks valmis? Meie uus arendaja on!
     author: Meelika Hirmo
     image: /assets/images/news/osama.jpeg
     categories:
-      - Citizen OS news
+      - Citizen OS uudised
     text: |
-      We've got some new talent in our team! Meet Osama, Mohammad, our “humble developer” as he calls himself. We spoke with Osama about technology, democracy and his journey all the way from the big city of Islamabad, Pakistan, to Tallinn, Estonia, where the entire population of the country is about the same as in his home city.
+      Meil on suur rõõm tutvustada uut andekat inimest meie tiimis. Hiljuti liitus meiega Osama Mohammad, kellega vestlesime tehnoloogiast, demokraatiast ja sellest, kuidas ta Pakistani pealinnast Islamabadist Eestisse jõudis, kus kogu riigi rahvaarv on umbes sama suur kui tema kodulinnas.
   2023-03-28:
     url: /et/uudised/aktivistid-12-riigist-tulid-viljandimaale-e-osaluse-kohta-oppima
     title: Aktivistid 12 riigist tulid Viljandimaale e-osaluse kohta õppima
@@ -404,11 +404,11 @@ blocks:
       background-position:
       background-size:
     title: |
-      News
+      Uudised
     text: |
-      Find out what we’re up to, who’s using our platform, and our hopes for the future of participatory e-democracy.
+      Loe, millega me tegeleme, kes kasutavad meie platvormi ja millised on meie lootused osalusdemokraatia tulevikuks.
 
-      Browse below for case studies, interviews, product updates and more.
+      Allpool leiad juhtumiuuringuid, intervjuusid, tooteuuendusi ja muud teavet.
     button1st:
       title: Sign up for news
       url: '#subscribe'
