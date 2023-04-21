@@ -8,6 +8,15 @@ keywords:
   -
 image: /assets/images/meta/vision.jpg
 news:
+  2023-04-21:
+    url: /news/ready-for-the-fifth-industrial-revolution-our-new-developer-sure-is
+    title: Ready for the Fifth Industrial Revolution? Our New Developer Sure Is!
+    author: Meelika Hirmo
+    image: /assets/images/news/osama.jpeg
+    categories:
+      - Citizen OS news
+    text: |
+      We've got some new talent in our team! Meet Osama, Mohammad, our “humble developer” as he calls himself. We spoke with Osama about technology, democracy and his journey all the way from the big city of Islamabad, Pakistan, to Tallinn, Estonia, where the entire population of the country is about the same as in his home city.
   2023-03-28:
     url: /news/activists-from-12-countries-meet-in-rural-estonia-to-learn-about-digital-participation
     title: Activists from 12 Countries Meet in Rural Estonia to Learn About Digital Participation
