@@ -456,9 +456,9 @@ blocks:
             Find out what we’re up to, who’s using our platform, and our hopes for the future of participatory e-democracy.
 
             Browse below for case studies, interviews, product updates and more.
-        button1st:
-            title: Sign up for news
-            url: '#subscribe'
+###        button1st:
+###            title: Sign up for news
+###            url: '#subscribe'
 
         # [f](https://www.facebook.com/citizenos.web){ .btn .btn-primary .my-2 .ml-3 }
         # [t](https://twitter.com/Citizen_OS){ .btn .btn-primary .my-2 .ml-3 }
