@@ -409,9 +409,9 @@ blocks:
       Loe, millega me tegeleme, kes kasutavad meie platvormi ja millised on meie lootused osalusdemokraatia tulevikuks.
 
       Allpool leiad juhtumiuuringuid, intervjuusid, tooteuuendusi ja muud teavet.
-    button1st:
-      title: Sign up for news
-      url: '#subscribe'
+  ###        button1st:
+  ###            title: Sign up for news
+  ###            url: '#subscribe'
   #[f](https://www.facebook.com/citizenos.web){ .btn .btn-primary .my-2 .ml-3 }
   #[t](https://twitter.com/Citizen_OS){ .btn .btn-primary .my-2 .ml-3 }
   all-stories:
