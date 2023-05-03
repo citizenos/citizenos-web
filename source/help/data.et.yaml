@@ -33,8 +33,8 @@ feedback:
   answerYes: Yes
   answerNo: No
 feedbackDone:
-  title: Thanks for your feedback!
-  text: Your answer was
+  title: Täname tagasiside eest!
+  text: 'Su vastus:'
 negativeFeedback:
   title: Tagasiside
   text: Kahju kuulda, et sa ei leidnud sellest osast abi. Anna palun meile teada, mida saaksime parandada!
