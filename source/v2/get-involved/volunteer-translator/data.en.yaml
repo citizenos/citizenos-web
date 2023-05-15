@@ -71,11 +71,11 @@ sections:
 
             ### Things to note:
 
-            Strings that look like this: “@:TXT_TOPIC_LEVELS_ADMIN” are reference strings and are non-translatable. You're free to leave them empty.
+            - Strings that look like this: “@:TXT_TOPIC_LEVELS_ADMIN” are reference strings and are non-translatable. You're free to leave them empty.
 
-            You're absolutely welcome to ask for help/more information, or report an issue with a string by leaving a comment in a string's translation view.
+            - You're absolutely welcome to ask for help/more information, or report an issue with a string by leaving a comment in a string's translation view.
 
-            Please tag our Head of Localization - Oksana Naidjonova - when submitting any comments during translation - just start your comment with @unicode and she will get an email notification about it. This will ensure most timely response:)
+            - Please tag our Head of Localization - Oksana Naidjonova - when submitting any comments during translation. Just start your comment in Crowdin with @unicode and she will get an email notification about it. This will ensure most timely response:)
 
             Also, we'd like to extend big thanks to Crowdin for allowing free access to their platform for open-source software like ours, and, of course, thanks to everyone who's contributed translations on Crowdin over the years - we are eternally grateful for their time and expertise (and patience with our often-imperfect source strings)!
 
