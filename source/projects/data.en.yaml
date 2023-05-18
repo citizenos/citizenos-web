@@ -39,17 +39,17 @@ blocks:
             We join forces with organisations worldwide to work on innovative e-democracy and participation projects.
 
             - [Democracy Defenders Accelerator](#individual2)
+            - [2023 NGO Development leap](#individual5)
             - [Winter and Summer Schools](#individual)
             - [Participatory Youth Leadership Network](#awareness2)
             - [Erasmus+ Youth Exchange](#individual3)
             - [EuroChangemakers](#awareness)
-            - [2023 NGO Development leap](#individual5)
             {.arrow }
 
 
     individual5-img:
         class:
-            - order-9
+            - order-4
         style:
 
             background-image: url(/assets/images/bubble-yellow.svg), url(/assets/images/bubble-dots.png)
@@ -60,7 +60,7 @@ blocks:
 
     individual5:
         class:
-            - order-10
+            - order-3
         title: |
             2023 call for proposals in preparation for the 2023 NGO Development Leap
         text: |
@@ -97,7 +97,7 @@ blocks:
 
     individual-img:
         class:
-            - order-4
+            - order-9
         style:
 
             background-image: url(/assets/images/bubble-yellow.svg), url(/assets/images/bubble-dots.png)
@@ -108,7 +108,7 @@ blocks:
 
     individual:
         class:
-            - order-3
+            - order-10
         title: |
             Winter and Summer Schools
         text: |
