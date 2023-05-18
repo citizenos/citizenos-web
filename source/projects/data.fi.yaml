@@ -36,15 +36,15 @@ blocks:
       We join forces with organisations worldwide to work on innovative e-democracy and participation projects.
 
       - [Democracy Defenders Accelerator](#individual2)
+      - [2023 NGO Development leap](#individual5)
       - [Winter and Summer Schools](#individual)
       - [Participatory Youth Leadership Network](#awareness2)
       - [Erasmus+ Youth Exchange](#individual3)
       - [EuroChangemakers](#awareness)
-      - [2023 NGO Development leap](#individual5)
       {.arrow }
   individual5-img:
     class:
-      - order-9
+      - order-4
     style:
       background-image: url(/assets/images/bubble-yellow.svg), url(/assets/images/bubble-dots.png)
       background-position: 10% 10%, 90% 10%
@@ -53,7 +53,7 @@ blocks:
       ![An active citizen who believes that her participation in political issues has an impact.](/assets/images/projects/kysk.jpg){ .img-fluid }
   individual5:
     class:
-      - order-10
+      - order-3
     title: |
       2023 call for proposals in preparation for the 2023 NGO Development Leap
     text: |
@@ -82,7 +82,7 @@ blocks:
       url: /fi/dda/
   individual-img:
     class:
-      - order-4
+      - order-9
     style:
       background-image: url(/assets/images/bubble-yellow.svg), url(/assets/images/bubble-dots.png)
       background-position: 10% 10%, 90% 10%
@@ -91,7 +91,7 @@ blocks:
       ![Aktiivinen kansalainen, joka uskoo, että osallistumalla poliittisten ongelmien ratkaisuun voi vaikuttaa.](/assets/images/vision-individual.png){ .img-fluid }
   individual:
     class:
-      - order-3
+      - order-10
     title: |
       Talvi- ja kesäkoulut
     text: |
