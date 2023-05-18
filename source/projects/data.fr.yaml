@@ -1,0 +1,173 @@
+---
+path: /projets
+title: Projets
+description: Nous menons des projets éducatifs et amusants, en collaboration avec des universités et des organisations du monde entier. Trouvez le vôtre !
+keywords:
+  - leadership des jeunes
+  - cours de e-démocratie
+  - outils de participation
+image: /assets/images/meta/vision.jpg
+blocks:
+  start-img:
+    class:
+      - order-1
+    style:
+      background-color: '#AAF3DD'
+      background-image: url(/assets/images/vision-start.png), url(/assets/images/bubble-dots.png), url(/assets/images/bubble-yellow.svg)
+      background-position: center center, 0 10%, 75% 20%
+      background-size: 500px 500px, 350px 350px, 65px 65px
+  #text: |
+  #[► Our Vision](#video){.btn .btn-primary data-toggle=modal data-target=#video}
+  #video:
+  #id: video
+  #url: 'https://www.youtube.com/embed/hDLWbQQAk8g?rel=0&showinfo=0&modestbranding=1&autoplay=1&cc_load_policy=1&cc_lang_pref=en'
+  start:
+    class:
+      - order-0
+      - py-5
+    style:
+      background-color: '#AAF3DD'
+      background-image: url(/assets/images/bubble-blue.svg), url(/assets/images/bubble-orange.svg)
+      background-position: 10% 15%, 90% 90%
+      background-size: 42px 42px, 102px 102px
+    title: |
+      Collaboration pour le changement.
+    text: |
+      We join forces with organisations worldwide to work on innovative e-democracy and participation projects.
+
+      - [Democracy Defenders Accelerator](#individual2)
+      - [Winter and Summer Schools](#individual)
+      - [Participatory Youth Leadership Network](#awareness2)
+      - [Erasmus+ Youth Exchange](#individual3)
+      - [EuroChangemakers](#awareness)
+      - [2023 NGO Development leap](#individual5)
+      {.arrow }
+  individual5-img:
+    class:
+      - order-9
+    style:
+      background-image: url(/assets/images/bubble-yellow.svg), url(/assets/images/bubble-dots.png)
+      background-position: 10% 10%, 90% 10%
+      background-size: 45px 45px, 350px 350px
+    text: |
+      ![An active citizen who believes that her participation in political issues has an impact.](/assets/images/projects/kysk.jpg){ .img-fluid }
+  individual5:
+    class:
+      - order-10
+    title: |
+      2023 call for proposals in preparation for the 2023 NGO Development Leap
+    text: |
+      The aim of the project is to explore and analyse the possible development of the two main activities of Citizen OS and to define a roadmap for their implementation over the next 1-3 years.
+    button1st:
+      title: Learn more
+      url: /projects/kysk/
+  individual2-img:
+    class:
+      - order-1
+    style:
+      background-image: url(/assets/images/bubble-yellow.svg), url(/assets/images/bubble-dots.png)
+      background-position: 10% 10%, 90% 10%
+      background-size: 45px 45px, 350px 350px
+    text: |
+      ![Image d'une ampoule allumée entourée de quatre petites bulles rouges en cercle avec des flèches pointant d'une bulle à l'autre](/assets/images/dda-project-page-image.png){ .img-fluid }
+  individual2:
+    class:
+      - order-2
+    title: |
+      Accélérateur pour les défenseurs de la démocratie
+    text: |
+      Notre programme phare de leadership civique de 10 mois pour les jeunes activistes. Dans ce programme hybride et pratique, les participants apprennent à concevoir et à mettre en œuvre des projets d'engagement civique et à mettre en pratique des compétences de leadership participatif.
+    button1st:
+      title: En savoir plus
+      url: /dda/
+  individual-img:
+    class:
+      - order-4
+    style:
+      background-image: url(/assets/images/bubble-yellow.svg), url(/assets/images/bubble-dots.png)
+      background-position: 10% 10%, 90% 10%
+      background-size: 45px 45px, 350px 350px
+    text: |
+      ![Une citoyenne active qui pense que sa participation aux questions politiques a un impact.](/assets/images/vision-individual.png){ .img-fluid }
+  individual:
+    class:
+      - order-3
+    title: |
+      Écoles d'hiver et d'été
+    text: |
+      Le cours d'innovation numérique pour les projets d'engagement civique est organisé dans le cadre d'un partenariat entre nous et l'Université de Tallinn, dans le cadre de leurs programmes d'école d'été et d'hiver. Le cours de 10 jours enseigne aux membres des communautés et des initiatives civiques comment impliquer plus de personnes dans les processus de discussion et de prise de décisions, en utilisant des outils technologiques.
+    button1st:
+      title: En savoir plus
+      url: https://winterschool.tlu.ee/digital-innovation-for-civic-engagement-projects/
+      target: _blank
+  awareness2-img:
+    class:
+      - order-5
+    style:
+      background-image: url(/assets/images/bubble-yellow.svg), url(/assets/images/bubble-dots.png)
+      background-position: 10% 10%, 90% 10%
+      background-size: 45px 45px, 350px 350px
+    text: |
+      ![Le haut du corps d'une femme à gauche, la femme regardant un écran avec différentes personnes dans plusieurs fenêtres](/assets/images/projects-pyln.jpg){ .img-fluid }
+  awareness2:
+    class:
+      - order-6
+    #- py-5
+    #style:
+    #background-image: url(/assets/images/bubble-orange.svg), url(/assets/images/projects-pyln.jpg)
+    #background-size: 164px 164px, cover
+    #background-position: 10% 10%
+    #label: Raising awareness
+    title: |
+      Réseau de leadership participatif des jeunes
+    text: |
+      Le chapitre indien de Citizen OS, PYLN, collabore avec des organisations indiennes et des hacktivistes qui partagent notre vision de la promotion du leadership participatif.
+
+      PYLN soutient et cocrée des recherches axées sur l’action telles que des campagnes, des pétitions, des prises de décision ascendantes et des initiatives de base.
+    button1st:
+      title: En savoir plus
+      url: /pyln/
+      target: _blank
+  individual3-img:
+    class:
+      - order-8
+    style:
+      background-image: url(/assets/images/bubble-yellow.svg), url(/assets/images/bubble-dots.png)
+      background-position: 10% 10%, 90% 10%
+      background-size: 45px 45px, 350px 350px
+    text: |
+      une citoyenne active qui pense que sa participation aux questions politiques a un impact](/assets/images/projects/Youth-exchange-projects-page-pic.png){ .img-fluid }
+  individual3:
+    class:
+      - order-7
+    title: |
+      Échange de jeunes Erasmus
+    text: |
+      Dans le cadre de notre programme d'échange de jeunes « Digital Transformation for Civic Engagement », la prochaine génération de dirigeants européens apprend à concevoir des projets d'engagement civique et à exercer un leadership participatif, grâce à des méthodes pratiques d'« apprentissage par la pratique ».
+    button1st:
+      title: En savoir plus
+      url: https://participationpool.eu/project/leading-by-doing-digital-transformation-for-civic-engagement/
+      target: _blank
+  awareness:
+    class:
+      - order-11
+      - py-5
+    style:
+      background-image: url(/assets/images/bubble-orange.svg), url(/assets/images/vision-awareness.jpg)
+      background-size: 164px 164px, cover
+      background-position: 10% 10%
+    #label: Erasmus+ project
+    title: |
+      EuroChangemakers
+    text: |
+      Ce projet de 18 mois répond aux défis actuels de participation démocratique rencontrés pendant la pandémie COVID-19 par le biais de hackathons civiques, une nouvelle plateforme, un réseau de jeunes et un livre blanc de politiques.
+    button1st:
+      title: En savoir plus
+      url: https://eurocm.geyc.ro/
+      target: _blank
+
+
+
+
+
+

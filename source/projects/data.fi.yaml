@@ -1,0 +1,173 @@
+---
+path: /projektit
+title: Projektit
+description: Toteutamme hauskoja koulutusprojekteja yhdessä yliopistojen ja organisaatioiden kanssa kaikkialta maailmasta. Katso, mikä sopii sinulle parhaiten!
+keywords:
+  - nuorten johtajuus
+  - e-demokratian kurssi
+  - osallistumistyökalut
+image: /assets/images/meta/vision.jpg
+blocks:
+  start-img:
+    class:
+      - order-1
+    style:
+      background-color: '#AAF3DD'
+      background-image: url(/assets/images/vision-start.png), url(/assets/images/bubble-dots.png), url(/assets/images/bubble-yellow.svg)
+      background-position: center center, 0 10%, 75% 20%
+      background-size: 500px 500px, 350px 350px, 65px 65px
+  #text: |
+  #[► Our Vision](#video){.btn .btn-primary data-toggle=modal data-target=#video}
+  #video:
+  #id: video
+  #url: 'https://www.youtube.com/embed/hDLWbQQAk8g?rel=0&showinfo=0&modestbranding=1&autoplay=1&cc_load_policy=1&cc_lang_pref=en'
+  start:
+    class:
+      - order-0
+      - py-5
+    style:
+      background-color: '#AAF3DD'
+      background-image: url(/assets/images/bubble-blue.svg), url(/assets/images/bubble-orange.svg)
+      background-position: 10% 15%, 90% 90%
+      background-size: 42px 42px, 102px 102px
+    title: |
+      Yhteistyötä muutoksen puolesta.
+    text: |
+      We join forces with organisations worldwide to work on innovative e-democracy and participation projects.
+
+      - [Democracy Defenders Accelerator](#individual2)
+      - [Winter and Summer Schools](#individual)
+      - [Participatory Youth Leadership Network](#awareness2)
+      - [Erasmus+ Youth Exchange](#individual3)
+      - [EuroChangemakers](#awareness)
+      - [2023 NGO Development leap](#individual5)
+      {.arrow }
+  individual5-img:
+    class:
+      - order-9
+    style:
+      background-image: url(/assets/images/bubble-yellow.svg), url(/assets/images/bubble-dots.png)
+      background-position: 10% 10%, 90% 10%
+      background-size: 45px 45px, 350px 350px
+    text: |
+      ![An active citizen who believes that her participation in political issues has an impact.](/assets/images/projects/kysk.jpg){ .img-fluid }
+  individual5:
+    class:
+      - order-10
+    title: |
+      2023 call for proposals in preparation for the 2023 NGO Development Leap
+    text: |
+      The aim of the project is to explore and analyse the possible development of the two main activities of Citizen OS and to define a roadmap for their implementation over the next 1-3 years.
+    button1st:
+      title: Learn more
+      url: /projects/kysk/
+  individual2-img:
+    class:
+      - order-1
+    style:
+      background-image: url(/assets/images/bubble-yellow.svg), url(/assets/images/bubble-dots.png)
+      background-position: 10% 10%, 90% 10%
+      background-size: 45px 45px, 350px 350px
+    text: |
+      ![Kuva palavasta hehkulampusta, jonka ympärillä on neljä pientä kuplaa, joiden välillä on kuplia samaan suuntaan osoittavat nuolet.](/assets/images/dda-project-page-image.png){ .img-fluid }
+  individual2:
+    class:
+      - order-2
+    title: |
+      Democracy Defenders Accelerator
+    text: |
+      Our flagship 10-month civic leadership programme for young activists. In this hybrid, hands-on programme, participants learn to design and deliver civic engagement projects and practise participatory leadership skills.
+    button1st:
+      title: Lue lisää
+      url: /fi/dda/
+  individual-img:
+    class:
+      - order-4
+    style:
+      background-image: url(/assets/images/bubble-yellow.svg), url(/assets/images/bubble-dots.png)
+      background-position: 10% 10%, 90% 10%
+      background-size: 45px 45px, 350px 350px
+    text: |
+      ![Aktiivinen kansalainen, joka uskoo, että osallistumalla poliittisten ongelmien ratkaisuun voi vaikuttaa.](/assets/images/vision-individual.png){ .img-fluid }
+  individual:
+    class:
+      - order-3
+    title: |
+      Talvi- ja kesäkoulut
+    text: |
+      Digital Innovation for Civic Engagement Projects -kurssi toteutetaan yhteistyössä meidän ja Tallinnan yliopiston välillä osana yliopiston kesä- ja talvikouluohjelmia. Kymmenen päivän kurssilla opetetaan yhteisöjen ja kansalaisaloitteiden jäsenille keinoja saada yhä useammat ihmiset mukaan keskustelu- ja päätöksentekoprosesseihin hyödyntämällä teknisiä työkaluja.
+    button1st:
+      title: Lue lisää
+      url: https://winterschool.tlu.ee/digital-innovation-for-civic-engagement-projects/
+      target: _blank
+  awareness2-img:
+    class:
+      - order-5
+    style:
+      background-image: url(/assets/images/bubble-yellow.svg), url(/assets/images/bubble-dots.png)
+      background-position: 10% 10%, 90% 10%
+      background-size: 45px 45px, 350px 350px
+    text: |
+      ![Vasemmalla puolella naisen kasvot, jotka katsovat oikealla olevaa näyttöä, jossa on erilaisia ihmisiä useissa ikkunoissa.](/assets/images/projects-pyln.jpg){ .img-fluid }
+  awareness2:
+    class:
+      - order-6
+    #- py-5
+    #style:
+    #background-image: url(/assets/images/bubble-orange.svg), url(/assets/images/projects-pyln.jpg)
+    #background-size: 164px 164px, cover
+    #background-position: 10% 10%
+    #label: Raising awareness
+    title: |
+      Osallistavan nuorisojohtamisen verkosto
+    text: |
+      Citizen OS:n Intian-osasto PYLN tekee yhteistyötä intialaisten organisaatioiden ja haktivistien kanssa, jotka jakavat visiomme osallistavan johtajuuden kehittämisestä.
+
+      PYLN tukee ja kehittää toimintaan perustuvaa tutkimusta, kuten kampanjoita, vetoomuksia, alhaalta ylöspäin suuntautuvaa päätöksentekoa ja ruohonjuuritason aloitteita.
+    button1st:
+      title: Lue lisää
+      url: /pyln/
+      target: _blank
+  individual3-img:
+    class:
+      - order-8
+    style:
+      background-image: url(/assets/images/bubble-yellow.svg), url(/assets/images/bubble-dots.png)
+      background-position: 10% 10%, 90% 10%
+      background-size: 45px 45px, 350px 350px
+    text: |
+      ![Aktiivinen kansalainen, joka uskoo, että osallistumalla poliittisten ongelmien ratkaisuun voi vaikuttaa.](/assets/images/projects/Youth-exchange-projects-page-pic.png){ .img-fluid }
+  individual3:
+    class:
+      - order-7
+    title: |
+      Erasmus+ -nuorisovaihto
+    text: |
+      In our ʻDigital Transformation for Civic Engagementʼ youth exchange programme, Europe’s next generation of leaders learn civic engagement project design and participatory leadership, through hands-on ʻlearning by doingʼ methods.
+    button1st:
+      title: Lue lisää
+      url: https://participationpool.eu/project/leading-by-doing-digital-transformation-for-civic-engagement/
+      target: _blank
+  awareness:
+    class:
+      - order-11
+      - py-5
+    style:
+      background-image: url(/assets/images/bubble-orange.svg), url(/assets/images/vision-awareness.jpg)
+      background-size: 164px 164px, cover
+      background-position: 10% 10%
+    #label: Erasmus+ project
+    title: |
+      EuroChangemakers
+    text: |
+      Tämä 18 kuukauden projekti vastaa COVID-19-pandemian tuomiin demokraattisen osallistumisen haasteisiin kansalaishackathonien avulla, uudella alustalla, nuorisoverkostolla sekä white paper -käytäntöasiakirjalla.
+    button1st:
+      title: Lue lisää
+      url: https://eurocm.geyc.ro/
+      target: _blank
+
+
+
+
+
+
