@@ -1,5 +1,5 @@
 ---
-path: /projektid
+path: /et/projektid
 title: Projektid
 description: Teostame koostöös erinevate riikide ülikoolide ja organisatsioonidega harivaid ja lõbusaid projekte. Leia enda jaoks sobiv projekt!
 keywords:
@@ -33,14 +33,13 @@ blocks:
     title: |
       Koostöö muutuste nimel.
     text: |
-      We join forces with organisations worldwide to work on innovative e-democracy and participation projects.
-
-      - [Democracy Defenders Accelerator](#individual2)
-      - [Winter and Summer Schools](#individual)
-      - [Participatory Youth Leadership Network](#awareness2)
-      - [Erasmus+ Youth Exchange](#individual3)
-      - [EuroChangemakers](#awareness)
-      - [2023 NGO Development leap](#individual5)
+      Ühendame innovaatiliste e-demokraatia projektide ja osalusprojektidega töötamiseks jõud erinevate riikide organisatsioonidega. 
+      - [Demokraatia Kaitsjate Kiirendi](#individual2)
+      - [Talve- ja suvekoolid](#individual) 
+      - [Noorte osalusdemokraatiajuhtide võrgustik](#awareness2)
+      - [Erasmus+ Noortevahetus](#individual3)
+      - [EuroChangemakers](#awareness) 
+      - [Vabaühenduste arenguhüpet ettevalmistav 2023. aasta taotlusvoor](#individual5)
       {.arrow }
   individual5-img:
     class:
@@ -55,12 +54,12 @@ blocks:
     class:
       - order-10
     title: |
-      2023 call for proposals in preparation for the 2023 NGO Development Leap
+      Vabaühenduste arenguhüpet ettevalmistav 2023. aasta taotlusvoor
     text: |
-      The aim of the project is to explore and analyse the possible development of the two main activities of Citizen OS and to define a roadmap for their implementation over the next 1-3 years.
+      Projekti eesmärk on uurida ja analüüsida Citizen OS-i kahe põhitegevuse võimalikke arengusuundasid ning paika panna tegevuskava nende elluviimiseks järgneva 1-3 aasta jooksul.
     button1st:
-      title: Learn more
-      url: /projects/kysk/
+      title: Vaata lisa
+      url: /et/projektid/kysk
   individual2-img:
     class:
       - order-1
