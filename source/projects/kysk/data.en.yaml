@@ -14,17 +14,36 @@ blocks:
     text:
         text: |
 
-            ## 2023 NGO Development Leap
+            ## Aim of the project
 
             The aim of the project is to explore and analyse the possible development of the two main activities of Citizen OS and to define a roadmap for their implementation over the next 1-3 years.
 
             The main activities we will explore in the project are -
-            - 1) the possibilities of adding artificial intelligence to the existing platform; and;
-            - 2) the role of public web discussion organisers in society.
+
+            1) The possibilities of adding artificial intelligence to the existing platform; and;
+            2) The role of public web discussion organisers in society.
 
             As part of the project, we will conduct two workshops with the Citizen OS team, users and partners to map, through a common understanding, the main directions of the activities, as well as strengths, weaknesses, opportunities and threats. In addition, we will carry out four focus group interviews with our users and partners and 4-5 qualitative interviews to gather input and information on the users' experience so far and to map their expectations and needs for both the web platform and the organisation of public debates. Through these activities, we will give more people the opportunity to participate in public debates and decision-making processes. Enn Saar is involved as an external expert.
 
             The project will result in an Action Plan for up to 3 years, which has been assessed by a development expert.
 
-            The project "Preparatory Call for Proposals 2023 for the Development Leap of NGOs" is supported by the Foundation for Civil Society".
+            ## Funded by: { .pt-5 }
+
+            The project "Preparatory Call for Proposals 2023 for the Development Leap of NGOs" is supported by the [Foundation for Civil Society](https://kysk.ee/).<br>
+
+            <img src="/assets/images/projects/kysk_logo_ee.png" alt="acf" width="350"/>
+
+
+
+    join:
+        title: 2023 NGO Development Leap
+        # date: 17-25 August 2021, Haapsalu
+        # time: Full days
+        price:
+        deadline:
+        how:
+        button:
+            title: Find out more!
+            url: https://kysk.ee/
+
 
