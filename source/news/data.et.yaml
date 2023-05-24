@@ -8,6 +8,24 @@ keywords:
   -
 image: /assets/images/news/tarkvalija_fb_cover.png
 news:
+  2023-05-24:
+    url: /news/when-we-outsource-critical-thinking-from-ai-will-we-stop-being-human
+    title: When we outsource critical thinking from AI, will we stop being human?
+    author: Meelika Hirmo
+    image: /assets/images/news/pablo_photo.jpeg
+    categories:
+      - Citizen OS news
+    text: |
+      “I think, therefore I am”. A famous quote from the philosopher Rene Descartes summarising how he defined the key essence of being human. With the rapid development of AI and considering how the human brain is renowned for being “lazy”, are we poised to delegate the most essential part of being a human - thinking? What exactly does it mean if we no longer take time for thinking and learning and all the answers can be provided within seconds?
+  2023-05-23:
+    url: /news/what-to-believe-when-they-dont-want-us-to-believe-in-anything
+    title: What to believe when they don't want us to believe in anything?
+    author: Meelika Hirmo
+    image: /assets/images/news/nijwam-swargiary-FPNnKfjcbNU-unsplash.jpg
+    categories:
+      - Citizen OS news
+    text: |
+      “I think, therefore I am”. A famous quote from the philosopher Rene Descartes summarising how he defined the key essence of being human. With the rapid development of AI and considering how the human brain is renowned for being “lazy”, are we poised to delegate the most essential part of being a human - thinking? What exactly does it mean if we no longer take time for thinking and learning and all the answers can be provided within seconds?
   2023-04-21:
     url: /et/uudised/kas-oled-viiendaks-toostusrevolutsiooniks-valmis-meie-uus-arendaja-on
     title: Kas oled viiendaks tööstusrevolutsiooniks valmis? Meie uus arendaja on!
